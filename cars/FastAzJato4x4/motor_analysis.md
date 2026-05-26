@@ -19,9 +19,12 @@ KV is a no-load speed rating — two motors with the same KV on the same voltage
 | Motor | KV | Stator | Weight | Cell Rating | Sensored | Splash | Status | Why Choose | Why Not |
 |---|---|---|---|---|---|---|---|---|---|
 | **HobbyWing EZRun 3665SD G3** | **2400KV** | **36x65mm** | **305g** | **2-4S** | **Yes (JST-ZH)** | **IP64** | **Candidate** | Only HobbyWing option with 4S + sensored + IP64 — the clean build | 800KV lower requires regearing, heaviest motor, additional cost |
+| Castle Creations 1415 | 2400KV | 36x69.5mm | 318g | 3-4S | Yes (proprietary) | None | Candidate | 4S rated, slightly longer/more torque than 1412, same KV as EZRun candidate | Runs sensorless on HobbyWing ESC, no splash protection, heavier than 1412 |
 | Castle Creations 1412 | 3200KV | 36x50mm | 265g | 4S (with care) | Yes (proprietary) | None | In Hand | Already in hand, proven on 4S, no regearing needed, lightest option | No splash protection, runs sensorless on HobbyWing ESC, older lamination tech runs hotter |
-| HobbyWing EZRun 3665SD G3 | 3200KV | 36x65mm | 305g | **3S max** | Yes (JST-ZH) | IP64 | Ruled Out | IP64, G3 laminations, sensored native | 3S max — same dealbreaker as XeRun despite being EZRun tier |
-| HobbyWing XeRun 3660SD G3 | 3200KV | 36x60mm | 230g | **3S max** | Yes (JST-ZH) | IP5X | Ruled Out | Lightest motor, competition-grade G3 laminations, sensored native | 3S max — hard no for a 4S build |
+| HobbyWing EZRun 3652SD G3 | 3300KV | 36x52mm | 227g | **3S max** | Yes (JST-ZH) | IP5X | Ruled Out | Lightest motor in the lineup, sensored native, G3 laminations | 3S max — dealbreaker for 4S build; shorter can means less torque |
+| HobbyWing EZRun 3665SD G3 | 3200KV | 36x65mm | 305g | **3S max** | Yes (JST-ZH) | IP64 | Ruled Out | IP64, G3 laminations, sensored native, largest stator in this group | 3S max — same dealbreaker as XeRun despite being EZRun tier |
+| HobbyWing XeRun 3660SD G3 | 3200KV | 36x60mm | 230g | **3S max** | Yes (JST-ZH) | IP5X | Ruled Out | Lighter than EZRun 3665, competition-grade G3 laminations, sensored native | 3S max — hard no for a 4S build |
+| Castle Creations 1515 V2 | 2200KV | 40x75mm | 429g | 2-6S | Yes (proprietary) | None | Ruled Out | True 1/8 scale motor, runs 6S, massive torque headroom | Way too heavy at 429g, 40mm diameter won't fit Jato chassis, overkill for this build |
 
 ---
 
