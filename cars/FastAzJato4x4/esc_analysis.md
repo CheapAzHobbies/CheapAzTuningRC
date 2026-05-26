@@ -55,7 +55,7 @@
   - BEC: 6V/5A or 7.4V/5A (solder mod — done on user's units)
   - Dimensions: 43 × 36 × 33mm
   - Weight: **105g**
-  - Fan: included, powered directly from battery (5V/0.16A, max 8V)
+  - Fan: included — listing says powered directly from battery (max 8V), but user confirmed fan does not overspeed on 4S, so voltage is regulated in practice
 - **Fully waterproof — user confirmed full submersion, not just splash resistant.** Surprisingly capable for a $30 Chinese ESC.
 - Sensor input: JST-ZH — works with Castle 1412/1415 and standard HobbyWing motors. Needs adapter (HWA30810007) for EZRun 3665SD G3 proprietary plug.
 - Zero cost — already in hand.
