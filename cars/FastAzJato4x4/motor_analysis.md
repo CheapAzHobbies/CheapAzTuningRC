@@ -1,6 +1,8 @@
 # Motor Selection — FastAzJato4x4
 
-> **Chosen Motor: HobbyWing EZRun 3665SD G3 3200KV** (HWA30402607)
+> **Status: Undecided — see trade-offs below.**
+>
+> No HobbyWing motor hits 3200KV + 4S + sensored simultaneously. The Castle 1412 is the only verified 4S 3200KV option but runs sensorless on the HobbyWing ESC and has no splash protection.
 
 ---
 
@@ -14,38 +16,55 @@ KV is a no-load speed rating — two motors with the same KV on the same voltage
 
 ## Motor Comparison
 
-| Motor | KV | Stator | Cell Rating | Sensored | Splash | Notes |
-|---|---|---|---|---|---|---|
-| Castle Creations 1412-3200 | 3200KV | 36x50mm | 4S | Yes (proprietary) | No | Old lamination tech, no seal, Castle sensor = sensorless on HobbyWing ESC |
-| HobbyWing XeRun 3660SD G3 | 3200KV | 36x60mm | **3S max** | Yes (JST-ZH) | IP5X (dust only) | Ruled out — 3S max is a dealbreaker on this 4S build |
-| **HobbyWing EZRun 3665SD G3** | **3200KV** | **36x65mm** | **4S** | **Yes (JST-ZH)** | **IP64** | **Winner** |
+| Motor | KV | Stator | Weight | Cell Rating | Sensored | Splash | Status |
+|---|---|---|---|---|---|---|---|
+| Castle Creations 1412 | 3200KV | 36x50mm | 265g | 4S (with care) | Yes (proprietary) | None | In Hand |
+| HobbyWing XeRun 3660SD G3 | 3200KV | 36x60mm | 230g | **3S max** | Yes (JST-ZH) | IP5X | Ruled Out |
+| HobbyWing EZRun 3665SD G3 | 3200KV | 36x65mm | 305g | **3S max** | Yes (JST-ZH) | IP64 | Ruled Out |
+| **HobbyWing EZRun 3665SD G3** | **2400KV** | **36x65mm** | **305g** | **2-4S** | **Yes (JST-ZH)** | **IP64** | **Candidate** |
 
 ---
 
-## Why Castle 1412 Was Ruled Out
+## Why XeRun 3660SD G3 3200KV Was Ruled Out
 
-1. **No splash protection.** No IP rating. Jato is being run outdoor on a CF buggy chassis — water ingress is real.
-2. **Proprietary sensor connector.** Castle uses its own sensor plug. The Fire Phoenix XeRun 120A ESC uses the HobbyWing sensor standard (JST-ZH). Mismatched connectors = running sensorless, which defeats the purpose of sensored operation — cogging at low speed, rougher starts.
-3. **Older lamination technology.** G3-series motors use thinner stator laminations, which reduce eddy current losses at high RPM. Less wasted energy as heat. The 1412 predates this and runs hotter for the same output.
+3S maximum cell rating. This build runs 4S. End of story.
 
 ---
 
-## Why XeRun 3660SD G3 Was Ruled Out
+## Why EZRun 3665SD G3 3200KV Was Ruled Out
 
-One reason: **3S maximum cell rating.** This build runs 4S. End of story.
-
-(The XeRun line is HobbyWing's competition/racing tier — spec'd tighter, higher tolerances, but that 3S ceiling is a hard limit for a 4S battery pack.)
+Same problem — **3S max**, despite being the EZRun (bashing) tier and a longer 65mm can. HobbyWing winds the 3200KV stator for lower voltage across both product lines. Only the lower KV variants of the 3665 are 4S rated.
 
 ---
 
-## Why EZRun 3665SD G3 Is the Pick
+## The Real Trade-Off: Castle 1412 vs EZRun 3665SD G3 2400KV
 
-- **IP64 rated** — dust-tight + protected against water splashes from any direction. Right for a buggy.
-- **4S rated** — matches the battery setup.
-- **Sensored, JST-ZH connector** — plugs natively into the Fire Phoenix XeRun 120A ESC. Full sensored operation: smooth starts, no cogging.
-- **G3 laminations** — same thin-lamination low-loss stator tech as the XeRun line. Less heat than the Castle 1412 at equivalent output.
-- **36x65mm stator** — 5mm longer can than the Castle 1412 (36x50mm) and 5mm longer than the XeRun 3660 (36x60mm). More copper = marginally more torque at the same KV.
-- **EZRun tier** — HobbyWing's bashing/recreational line. Built for abuse, not spec racing. More forgiving for a one-off build than the competition XeRun spec.
+### Castle Creations 1412 3200KV — In Hand
+
+**Pros:**
+- Proven 4S capable — user has run this motor on 4S with the Fire Phoenix ESC on a Slash 4x4 with no issues
+- 3200KV — same top speed as intended, no regearing needed
+- Lighter than the EZRun 3665SD G3 at 265g vs 305g
+
+**Cons:**
+- No splash or dust protection — no IP rating
+- Proprietary Castle sensor connector doesn't match HobbyWing JST-ZH — runs sensorless on the Fire Phoenix ESC (cogging at low speed, rougher starts)
+- Older lamination technology — runs hotter than G3-series at equivalent output
+- Castle says 4S is OK for buggies under ~4lb with conservative gearing and temp monitoring — not worry-free
+
+### HobbyWing EZRun 3665SD G3 2400KV — (HWA30402604)
+
+**Pros:**
+- 4S native — no asterisks
+- IP64 — dust-tight, water splash from any direction
+- Sensored JST-ZH — plugs natively into the Fire Phoenix ESC, full sensored operation
+- G3 laminations — less heat than Castle 1412 at equivalent output
+- Same physical size as 3200KV variant
+
+**Cons:**
+- 2400KV — 800KV lower than target. Same top speed is achievable by running a smaller pinion (fewer teeth) or larger spur, but requires regearing from scratch
+- Heaviest of all options at 305g
+- Motor not in hand — additional cost
 
 ---
 
@@ -53,10 +72,20 @@ One reason: **3S maximum cell rating.** This build runs 4S. End of story.
 
 **ESC in use:** Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — waterproof, 4S, sensored.
 
-This is a Chinese market rebrand of the HobbyWing XeRun 120A Enhanced (强化速龙), not the standard V2.1. The enhanced version is waterproof and 4S-capable. Sensor input is JST-ZH, native to the EZRun 3665SD G3. No adapter needed.
+This is a Chinese market rebrand of the HobbyWing XeRun 120A Enhanced (强化速龙), not the standard V2.1. The enhanced version is waterproof and 4S-capable. Sensor input is JST-ZH, native to the EZRun line. Castle's proprietary sensor plug does not match — Castle 1412 runs sensorless on this ESC.
 
 ---
 
 ## Summary
 
-Same KV = same top speed. The EZRun 3665SD G3 wins on heat management (G3 laminations), protection (IP64), sensored compatibility (JST-ZH native), and cell rating (4S). The Castle 1412 loses on sealing and sensor protocol. The XeRun 3660SD G3 loses on cell rating.
+| | Castle 1412 3200KV | EZRun 3665SD G3 2400KV |
+|---|---|---|
+| 4S rated | Yes (with care) | Yes (native) |
+| Splash protection | No | IP64 |
+| Sensored on HW ESC | No (runs sensorless) | Yes |
+| G3 laminations | No | Yes |
+| Weight | 265g | 305g |
+| Regearing needed | No | Yes |
+| Cost | $0 (in hand) | ~$65+ |
+
+If this is primarily a basher and sensorless low-speed behavior is acceptable, the Castle 1412 in hand is the simpler path — it already works proven. If smooth sensored starts, splash protection, and G3 heat efficiency matter more, the EZRun 3665SD G3 2400KV is the correct motor, at the cost of regearing and an additional purchase.
