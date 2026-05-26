@@ -102,6 +102,7 @@ TBD
 | — | 7075 Aluminum Front Steering + C Hub & Rear Axle Carriers — Jato 4x4 | Steering | $46.80 | eBay (MonsterKingz) | Considering | — |
 | — | PTK 9752TG-D Metal High Speed Servo — 1/8 1/10, 2S LiPo ready | Steering | $25.00 | Temu | In Hand | — |
 | — | Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — Waterproof, 4S | Electronics | $30.00 | Temu | In Hand | — |
+| — | FlySky FGr4S V2 Receiver — AFHDS3, PWM/PPM/IBUS, IPX4, Bidirectional | Electronics | $28.49 | AliExpress | Considering | — |
 | — | 3200KV Motor | Electronics | — | — | — | — |
 
 ---
