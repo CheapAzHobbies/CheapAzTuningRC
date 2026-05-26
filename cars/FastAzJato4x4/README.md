@@ -99,7 +99,7 @@ TBD
 | TRA5153 | Traxxas Drive Cup (2) — E-Revo 1.0 standard (x2 pairs / 4 total) | Drivetrain | $8.00/pair | [AMain Hobbies](https://www.amainhobbies.com) | In Hand | — |
 | — | Traxxas Jato 4x4 Stock Hex Hubs | Drivetrain | — | — | — | — |
 | — | 7075 Aluminum Front Steering + C Hub & Rear Axle Carriers — Jato 4x4 | Steering | $46.80 | eBay (MonsterKingz) | Considering | — |
-| — | Castle Creations Mamba Monster X ESC | Electronics | — | — | — | — |
+| — | Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — Waterproof, 4S | Electronics | $30.00 | Temu | In Hand | — |
 | — | 3200KV Motor | Electronics | — | — | — | — |
 
 ---
