@@ -93,6 +93,7 @@ TBD
 | — | Hot Bodies D8 Big Bore Shocks (all around) | Suspension | — | — | — | — |
 | — | Traxxas E-Revo CVDs (chopped to fit) | Drivetrain | — | — | — | — |
 | — | Traxxas E-Revo Differentials (x2) | Drivetrain | — | — | In Hand | — |
+| TRA5153 | Traxxas Drive Cup (2) — E-Revo 1.0 standard (x2 pairs / 4 total) | Drivetrain | $8.00/pair | [AMain Hobbies](https://www.amainhobbies.com) | In Hand | — |
 | — | Traxxas Jato 4x4 Stock Hex Hubs | Drivetrain | — | — | — | — |
 | — | Castle Creations Mamba Monster X ESC | Electronics | — | — | — | — |
 | — | 3200KV Motor | Electronics | — | — | — | — |
