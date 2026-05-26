@@ -86,7 +86,7 @@ TBD
 | Part # | Description | Category | Cost | Source | Photo |
 |--------|-------------|----------|------|--------|-------|
 | — | Traxxas Jato 4x4 | Base Car | — | — | — |
-| — | Custom Carbon Fiber Chassis (eBay) | Chassis | — | eBay | — |
+| — | RC Carbon Fiber Chassis Kit fit for Traxxas Slash VXL 4x4 TRA6808 | Chassis | $100.26 | Temu | — |
 | — | FLM Extended Arms (USA made) | Suspension | — | — | — |
 | — | Hot Bodies D8 Big Bore Shocks (all around) | Suspension | — | — | — |
 | — | Traxxas E-Revo CVDs (chopped to fit) | Drivetrain | — | — | — |
