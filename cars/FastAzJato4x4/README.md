@@ -70,6 +70,7 @@ TBD
 | Component | Part | Notes |
 |-----------|------|-------|
 | Steering + Hubs | 7075 Aluminum Front Steering + C Hub & Rear Axle Carriers — Jato 4x4 | $46.80, eBay (MonsterKingz) |
+| Servo | PTK 9752TG-D Metal High Speed — 1/8 1/10 | $25.00 each |
 
 ---
 
@@ -99,6 +100,7 @@ TBD
 | TRA5153 | Traxxas Drive Cup (2) — E-Revo 1.0 standard (x2 pairs / 4 total) | Drivetrain | $8.00/pair | [AMain Hobbies](https://www.amainhobbies.com) | In Hand | — |
 | — | Traxxas Jato 4x4 Stock Hex Hubs | Drivetrain | — | — | — | — |
 | — | 7075 Aluminum Front Steering + C Hub & Rear Axle Carriers — Jato 4x4 | Steering | $46.80 | eBay (MonsterKingz) | Considering | — |
+| — | PTK 9752TG-D Metal High Speed Servo — 1/8 1/10, 2S LiPo ready | Steering | $25.00 | Temu | In Hand | — |
 | — | Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — Waterproof, 4S | Electronics | $30.00 | Temu | In Hand | — |
 | — | 3200KV Motor | Electronics | — | — | — | — |
 
