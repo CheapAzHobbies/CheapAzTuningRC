@@ -9,6 +9,7 @@
 - **4S LiPo** — ESC must support 16.8V input
 - **Sensored** — smooth starts, no cogging; motor sensor connector compatibility matters
 - **Waterproof — hard requirement.** If it's not waterproof it's not being used. Non-waterproof ESCs are ruled out regardless of other specs.
+- **Sensored — hard requirement.** Must support sensored motor operation for smooth starts and low-speed control.
 - **1/10–1/8 scale current capacity** — 36mm stator motors pull significant amps
 
 ---
@@ -110,6 +111,7 @@
 | Max cells | 4S | 4S | 4S | 6S | 6S |
 | 4S headroom | Tight | Tight | Tight | Comfortable | Comfortable |
 | Waterproof | **Full soak** | Yes (epoxy) | IP67 | Yes (epoxy) | Yes (epoxy) |
+| Sensored | Yes (JST-ZH) | Yes (SmartSense) | Yes (G3 port) | Yes (SmartSense) | Yes (SmartSense) |
 | Weight | 105g | **71g** | 120g | 101g | 111g† |
 | Castle motor (native) | Works | SmartSense | Adapter | SmartSense | SmartSense |
 | EZRun 3665SD G3 (native) | Adapter | Adapter | **Yes** | Adapter | Adapter |
