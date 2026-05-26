@@ -109,9 +109,9 @@ None — removed for Meldrum Bar Park conditions.
 | CSE010-0166-13 | Castle Creations Copperhead 10 1/10 Sensored Combo w/1412 3200kv 5mm Shaft (x2) | Electronics | — | — | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
 | — | Aluminum Servo Bell Crank Set | Steering | $10.00 | $10.00 | AliExpress | — |
 | SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | — | $0.00 (free) | — | ![](src/aero_wing_mount_sptst6808b.jpg) |
-| — | White Rear Wing | Aero | $3.70 | $3.70 | AliExpress | ![](src/aero_wing_rear_white.png) |
-| — | Tokyo Speed 110mm 1/8 RC Off-Road Buggy Wheels 17mm Hex (4pcs) | Aero | $20.13 | $20.13 | AliExpress | ![](src/aero_wheels_tokyo_speed_110mm_1-8_buggy.png) |
-| — | Pink & White Body | Body | $25.00 | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
+| Generic | White Rear Wing | Aero | $3.70 | $3.70 | AliExpress | ![](src/aero_wing_rear_white.png) |
+| Generic | Tokyo Speed 110mm 1/8 RC Off-Road Buggy Wheels 17mm Hex (4pcs) | Aero | $20.13 | $20.13 | AliExpress | ![](src/aero_wheels_tokyo_speed_110mm_1-8_buggy.png) |
+| Generic | Pink & White Body | Body | $25.00 | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
 | TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | $7.00 | Tammies | ![](src/bumpers_skid_plates_tra9044.jpg) |
 | TBD | Pinion | Drivetrain | — | — | — | — |
 | | **Total (known)** | | | **$247.61** | | |
