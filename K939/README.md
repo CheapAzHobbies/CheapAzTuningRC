@@ -109,7 +109,7 @@ None — removed for Meldrum Bar Park conditions.
 | TKR1654-17 | Tekno RC 17mm M6 Hub Adapter Driveshaft Slash/Stampede (set of 2) | Drivetrain | $46.30 ($23.15 ea) | eBay — qliquid_rc | ![](src/drivetrain_hub_adapter_tkr1654-17.jpg) |
 | TRA6814 | Traxxas Slash 4x4 Pre-Built Center Differential Kit — nylon construction, sealed, 20k wt oil, 2S LiPo/NiMH rated. **Note: cheaper to buy individual parts and build yourself.** | Drivetrain | $38.99 | Tammies | ![](src/drivetrain_center_diff_tra6814.jpg) |
 | TRA6842R | Traxxas 32P 50T Center Diff Spur Gear Slash 4x4 — black plastic construction | Drivetrain | $3.00 | Tammies | ![](src/drivetrain_spur_gear_tra6842r_50t.png) |
-| CSE010-0166-13 | Castle Creations Copperhead 10 1/10 Sensored Combo w/1412 3200kv 5mm Shaft (x2) | Electronics | — | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
+| CSE010-0166-13 | Castle Creations Copperhead 10 1/10 Sensored Combo w/1412 3200kv 5mm Shaft (x2) | Electronics | $168.06 ($84.03 ea) | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
 | — | Aluminum Servo Bell Crank Set | Steering | $10.00 | AliExpress | — |
 | SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | $0.00 (free) | — | ![](src/aero_wing_mount_sptst6808b.jpg) |
 | Generic | White Rear Wing | Aero | $3.70 | AliExpress | ![](src/aero_wing_rear_white.png) |
@@ -117,7 +117,7 @@ None — removed for Meldrum Bar Park conditions.
 | Generic | Pink & White Body | Body | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
 | TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | Tammies | ![](src/bumpers_skid_plates_tra9044.jpg) |
 | TBD | Pinion | Drivetrain | — | — | — |
-| | **Total (known)** | | **$427.30** | | |
+| | **Total (known)** | | **$595.36** | | |
 
 ---
 
