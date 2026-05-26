@@ -1,6 +1,6 @@
 # FastAzJato4x4
 
-> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. Carbon fiber custom chassis, FLM extended arms (USA made), E-Revo CVDs chopped to fit, E-Revo hubs, Mamba Monster X + 3200KV on 4S, Hot Bodies D8 big bore shocks all around. WIP — details to be added.
+> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. Carbon fiber custom chassis, FLM extended arms (USA made), E-Revo CVDs chopped to fit, stock Jato hex hubs, Mamba Monster X + 3200KV on 4S, Hot Bodies D8 big bore shocks all around. WIP — details to be added.
 
 ---
 
@@ -49,7 +49,7 @@ TBD
 | Component | Part | Notes |
 |-----------|------|-------|
 | CVDs | Traxxas E-Revo CVDs | Chopped to fit |
-| Hubs | Traxxas E-Revo hubs | — |
+| Hubs | Traxxas Jato 4x4 stock hex hubs | — |
 
 ---
 
@@ -90,7 +90,7 @@ TBD
 | — | FLM Extended Arms (USA made) | Suspension | — | — | — |
 | — | Hot Bodies D8 Big Bore Shocks (all around) | Suspension | — | — | — |
 | — | Traxxas E-Revo CVDs (chopped to fit) | Drivetrain | — | — | — |
-| — | Traxxas E-Revo Hubs | Drivetrain | — | — | — |
+| — | Traxxas Jato 4x4 Stock Hex Hubs | Drivetrain | — | — | — |
 | — | Castle Creations Mamba Monster X ESC | Electronics | — | — | — |
 | — | 3200KV Motor | Electronics | — | — | — |
 
