@@ -47,7 +47,7 @@
 ### Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — In Hand
 
 - Chinese market rebrand of the HobbyWing XeRun 120A Enhanced (强化速龙). Not the standard V3.1 — that's 2-3S only. The enhanced version is 2-4S and waterproof.
-- User-confirmed: proven on 4S with 3200KV on a Slash 4x4, zero issues. Cost ~$30 on Temu/AliExpress.
+- User-confirmed: proven on 4S with 3200KV on a Slash 4x4, zero issues. Cost $30 on Temu/AliExpress. Already in hand.
 - **Specs confirmed from listing:**
   - Voltage: 2-4S LiPo
   - Continuous / Burst: 120A / 760A
@@ -115,7 +115,7 @@
 | Weight | 105g | 120g | 101g | 111g† | 91g | 71g |
 | Castle motor (native) | Works | Adapter | SmartSense | SmartSense | Works | SmartSense |
 | EZRun 3665SD G3 (native) | Adapter | **Yes** | Adapter | Adapter | Adapter | Adapter |
-| Price (approx) | **$0 (in hand)** | ~$85 | ~$125 | ~$135 | ~$125 | ~$70 |
+| Price (approx) | **$30 (in hand)** | ~$85 | ~$125 | ~$135 | ~$125 | ~$70 |
 
 †Mamba Monster X listed without battery connector — add ~10–15g for installed weight
 
