@@ -106,7 +106,7 @@ None — removed for Meldrum Bar Park conditions.
 | HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | $11.75 ea | $11.75 | eBay — power_hobby | ![](src/suspension_springs_hb67453_52gf_grey.jpg) |
 | TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | $83.75 | $83.75 (gifted by sister) | PowerHobby | ![](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
 | TKR1654-17 | Tekno RC 17mm M6 Hub Adapter Driveshaft Slash/Stampede (set of 2) | Drivetrain | $23.15 ea | $46.30 | eBay — qliquid_rc | ![](src/drivetrain_hub_adapter_tkr1654-17.jpg) |
-| — | Castle Creations Copperhead 10 ESC + 1412 3200kv Sensored Motor Combo (x2) | Electronics | — | — | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
+| CSE010-0166-13 | Castle Creations Copperhead 10 1/10 Sensored Combo w/1412 3200kv 5mm Shaft (x2) | Electronics | — | — | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
 | — | Aluminum Servo Bell Crank Set | Steering | $10.00 | $10.00 | AliExpress | — |
 | SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | — | $0.00 (free) | — | ![](src/aero_wing_mount_sptst6808b.jpg) |
 | — | White Rear Wing | Aero | $3.70 | $3.70 | AliExpress | ![](src/aero_wing_rear_white.png) |
