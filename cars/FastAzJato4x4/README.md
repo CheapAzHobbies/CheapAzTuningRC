@@ -67,7 +67,9 @@ TBD
 
 ## Steering
 
-TBD
+| Component | Part | Notes |
+|-----------|------|-------|
+| Steering + Hubs | 7075 Aluminum Front Steering + C Hub & Rear Axle Carriers — Jato 4x4 | $46.80, eBay (MonsterKingz) |
 
 ---
 
@@ -90,11 +92,13 @@ TBD
 | — | Traxxas Jato 4x4 | Base Car | — | — | — | — |
 | — | RC Carbon Fiber Chassis Kit fit for Traxxas Slash VXL 4x4 TRA6808 | Chassis | $100.26 | [Temu](https://www.temu.com) / [AliExpress](https://a.aliexpress.com/_mPWcAS3) | Considering | — |
 | — | FLM Extended Arms (USA made) | Suspension | — | — | — | — |
+| — | Carbon Fiber Front + Rear Shock Towers — Traxxas Jato 4x4 VXL | Suspension | $33.29 | eBay (MonsterKingz) | Considering | — |
 | — | Hot Bodies D8 Big Bore Shocks (all around) | Suspension | — | — | — | — |
 | — | Traxxas E-Revo CVDs (chopped to fit) | Drivetrain | — | — | — | — |
 | — | Traxxas E-Revo Differentials (x2) | Drivetrain | — | — | In Hand | — |
 | TRA5153 | Traxxas Drive Cup (2) — E-Revo 1.0 standard (x2 pairs / 4 total) | Drivetrain | $8.00/pair | [AMain Hobbies](https://www.amainhobbies.com) | In Hand | — |
 | — | Traxxas Jato 4x4 Stock Hex Hubs | Drivetrain | — | — | — | — |
+| — | 7075 Aluminum Front Steering + C Hub & Rear Axle Carriers — Jato 4x4 | Steering | $46.80 | eBay (MonsterKingz) | Considering | — |
 | — | Castle Creations Mamba Monster X ESC | Electronics | — | — | — | — |
 | — | 3200KV Motor | Electronics | — | — | — | — |
 
