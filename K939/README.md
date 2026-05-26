@@ -26,7 +26,7 @@
 **Base Car:** Wltoys K939  
 Twin motor, roughly equivalent to a Slash 4x4 HCG platform.
 
-![Car Overview](cars/K939/src/car_overview.jpg)
+![Car Overview](src/car_overview.jpg)
 
 ---
 
@@ -43,7 +43,7 @@ Dusty hardpack with heavy ruts and rough bumps. No swaybars — the track reward
 **HPI Racing Big Bore Sport Shock Set (97mm) Apache C1**  
 Part #: `107365` — 2pcs
 
-![Shocks](src/BigBore107365.jpg)
+![Shocks](src/suspension_shocks_apache_c1_107365.jpg)
 
 | Position | Spring | Notes |
 |----------|--------|-------|
@@ -63,7 +63,7 @@ Part #: `107365` — 2pcs
 ### Swaybars
 None — removed for Meldrum Bar Park conditions.
 
-![Suspension Layout](cars/K939/src/suspension.jpg)
+![Suspension Layout](src/suspension.jpg)
 
 ---
 
@@ -73,7 +73,7 @@ None — removed for Meldrum Bar Park conditions.
 - **Drive Cups:** Tekno
 - **Pinion:** TBD
 
-![Drivetrain](cars/K939/src/drivetrain.jpg)
+![Drivetrain](src/drivetrain.jpg)
 
 ---
 
@@ -86,7 +86,7 @@ None — removed for Meldrum Bar Park conditions.
 | ESC | Castle Creations Copperhead 10 | 2 |
 | Motor | 1412 3200kv | 2 |
 
-![Electronics](cars/K939/src/electronics.jpg)
+![Electronics](src/electronics.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ None — removed for Meldrum Bar Park conditions.
 - **Bell Crank Set:** Aluminum servo bell crank set (AliExpress, ~$10)
 - **Pinion side:** TBD
 
-![Steering](cars/K939/src/steering.jpg)
+![Steering](src/steering.jpg)
 
 ---
 
@@ -105,21 +105,21 @@ None — removed for Meldrum Bar Park conditions.
 **STRC ST Racing Concepts 1/8 E-Buggy Conversion Kit for Traxxas Slash (Blue)**  
 Part #: `SPTST6808B` — using wing mount only (received free)
 
-![Wing Mount](src/sptst6808b.jpg)
+![Wing Mount](src/aero_wing_mount_sptst6808b.jpg)
 
 ### Rear Wing
 White wing  
 [AliExpress listing](https://www.aliexpress.us/item/3256807547003209.html)  
 Cost: **$3.70**
 
-![Wing](cars/K939/src/wing.jpg)
+![Wing](src/wing.jpg)
 
 ### Wheels
 Yellow  
 [AliExpress listing](https://www.aliexpress.us/item/3256808385588220.html)  
 Cost: **$20.00**
 
-![Wheels](cars/K939/src/wheels.jpg)
+![Wheels](src/wheels.jpg)
 
 ### Body
 Pink & White  
@@ -128,7 +128,7 @@ Cost: **$25.00**
 
 > 3D printed body mount not included yet.
 
-![Body](cars/K939/src/body.jpg)
+![Body](src/body_pink_white.jpg)
 
 ---
 
@@ -136,7 +136,7 @@ Cost: **$25.00**
 
 | Part # | Description | Position | Cost | Source | Photo |
 |--------|-------------|----------|------|--------|-------|
-| TRA9044 | Traxxas Front & Rear Skid Plates | Front & Rear | $7.00 | Tammies | ![TRA9044](cars/K939/src/TRA9044.jpg) |
+| TRA9044 | Traxxas Front & Rear Skid Plates | Front & Rear | $7.00 | Tammies | ![TRA9044](src/bumpers_skid_plates_tra9044.jpg) |
 
 ---
 
@@ -171,13 +171,13 @@ Track charge cycles per battery pack.
 | Pack 1 | — | — | 0 | — |
 | Pack 2 | — | — | 0 | — |
 
-> See [`batteries/`](batteries/) folder for per-pack logs.
+> See [`batteries/`](../batteries/) folder for per-pack logs.
 
 ---
 
 ## 3D Models
 
-> See [`3d-models/`](cars/K939/3d-models/) folder for all custom STL files.
+> See [`3d-models/`](3d-models/) folder for all custom STL files.
 
 | Model | Description | Status |
 |-------|-------------|--------|
