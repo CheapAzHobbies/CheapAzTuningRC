@@ -17,6 +17,7 @@
 
 | ESC | Cells | Amps (cont) | Weight | Waterproof | Sensored | Status | Why Choose | Why Not | Photo / Link |
 |---|---|---|---|---|---|---|---|---|---|
+| **Fire Phoenix XeRun 120A Enhanced (Speed Dragon)** | **2-4S** | **120A** | **~93g*** | **Yes** | **Yes (JST-ZH)** | **In Hand** | Already owned and proven on 4S with 3200KV on Slash 4x4 — zero cost, waterproof, sensored, lightest ESC on this list | 120A continuous is the lowest amp rating here; Chinese market rebrand with no official English spec sheet; weight unconfirmed from manufacturer | <a href="https://www.aliexpress.com/item/4001205164437.html"><img src="https://oss.hobbywing.com/cars/XeRun/XeRunXR8SCT/1.png" width="80"></a> |
 | **HobbyWing EZRun MAX10 G2 140A** | 2-4S | 140A | 120g | IP67 | Yes (proprietary G3 port) | **Candidate** | Sold as combo with EZRun 3665SD G3 — native sensor plug match, IP67, lightest HW option | 4S ceiling (no headroom), proprietary sensor port needs adapter for non-EZRun G3 motors | <a href="https://www.hobbywingdirect.com/products/ezrun-max10-g2-esc"><img src="https://oss.hobbywing.com/EZRUN%20MAX10%20G2/enimage/img1.png" width="80"></a> |
 | **Castle Mamba X** | 2-6S | ~180A* | 101g | Yes (epoxy) | Yes (SmartSense) | **Candidate** | Lightest ESC in the list, 6S rated so 4S is well within spec, works natively with Castle motors | Amps not published by Castle; no IP rating (potted epoxy, not IP-rated) | <a href="https://www.castlecreations.com/en/mamba-x-esc-010-0155-00"><img src="https://castlecreationscom-2.azureedge.net/img/product/Mamba_X_10th_Scale-18-B.jpg" width="80"></a> |
 | **Castle Mamba Monster X** | 2-6S | ~200A* | 111g | Yes (epoxy) | Yes (SmartSense) | **Candidate** | True 1/8 scale power handling, 6S overhead, works natively with Castle motors | Amps not published; slightly heavier than Mamba X; 1/8 overkill for 36mm motors | <a href="https://www.castlecreations.com/en/mamba-monster-x-esc-010-0145-00"><img src="https://castlecreationscom-1.azureedge.net/img/product/010-0145-00_1-B.jpg" width="80"></a> |
@@ -32,6 +33,7 @@
 
 | ESC | Castle 1412 / 1415 | HW XeRun 3660SD G3 | HW EZRun 3665SD G3 | HW EZRun 3652SD G3 |
 |---|---|---|---|---|
+| **Fire Phoenix XeRun 120A Enhanced** | Works | Works (JST-ZH) | Needs adapter (HWA30810007) | Works (JST-ZH) |
 | HobbyWing EZRun MAX10 G2 | Works | Works (JST-ZH) | **Native fit (proprietary G3 port)** | Works (JST-ZH) |
 | HobbyWing XeRun XR8 SCT | Works | Works (JST-ZH) | Needs adapter (HWA30810007) | Works (JST-ZH) |
 | Castle Mamba X | **Native (SmartSense)** | Works | Needs adapter | Works |
@@ -41,6 +43,16 @@
 ---
 
 ## Detailed Notes
+
+### Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — In Hand
+
+- Chinese market rebrand of the HobbyWing XeRun 120A Enhanced (强化速龙). Not the standard V3.1 — that's 2-3S only. The enhanced version is 2-4S and waterproof.
+- User-confirmed: proven on 4S with 3200KV on a Slash 4x4, zero issues. Cost ~$30 on Temu.
+- **Upgraded BEC** — 6V/5A or 7.4V/5A switchable (standard V3.1 is only 3A). More headroom for servos.
+- Waterproof — confirmed by user. Standard V3.1 also has a waterproof variant, so the sealing carries over.
+- Sensor input: JST-ZH — works with Castle 1412/1415 and standard HobbyWing motors. Needs adapter for EZRun 3665SD G3 proprietary plug.
+- Weight ~93g estimated (same form factor as V3.1, exact weight unverified from manufacturer spec sheet for this variant)
+- Zero cost — already in hand
 
 ### HobbyWing EZRun MAX10 G2 140A
 
@@ -89,18 +101,22 @@
 
 ## Summary
 
-| | MAX10 G2 | Mamba X | Mamba Monster X | XR8 SCT | Copperhead 10 |
-|---|---|---|---|---|---|
-| Max cells | 4S | 6S | 6S | 4S | 4S |
-| 4S headroom | Tight | Comfortable | Comfortable | Tight | Tight |
-| Waterproof | IP67 | Yes (epoxy) | Yes (epoxy) | **No** | Yes (epoxy) |
-| Weight | 120g | 101g | 111g | 91g | 71g |
-| Castle motor (native) | Adapter | SmartSense | SmartSense | Works | SmartSense |
-| EZRun 3665SD G3 (native) | Yes | Adapter | Adapter | Adapter | Adapter |
-| Price (approx) | ~$85 | ~$125 | ~$135 | ~$125 | ~$70 |
+| | Fire Phoenix 120A | MAX10 G2 | Mamba X | Mamba Monster X | XR8 SCT | Copperhead 10 |
+|---|---|---|---|---|---|---|
+| Max cells | 4S | 4S | 6S | 6S | 4S | 4S |
+| 4S headroom | Tight | Tight | Comfortable | Comfortable | Tight | Tight |
+| Waterproof | Yes | IP67 | Yes (epoxy) | Yes (epoxy) | **No** | Yes (epoxy) |
+| Weight | ~93g* | 120g | 101g | 111g† | 91g | 71g |
+| Castle motor (native) | Works | Adapter | SmartSense | SmartSense | Works | SmartSense |
+| EZRun 3665SD G3 (native) | Adapter | **Yes** | Adapter | Adapter | Adapter | Adapter |
+| Price (approx) | **$0 (in hand)** | ~$85 | ~$125 | ~$135 | ~$125 | ~$70 |
+
+*Weight estimated — same form factor as XeRun V3.1 (93g), exact spec unconfirmed for enhanced variant
+†Mamba Monster X listed without battery connector — add ~10–15g for installed weight
 
 **Pairing logic:**
-- Running **EZRun 3665SD G3 2400KV** → MAX10 G2 is the matched combo, no adapter needed
-- Running **Castle 1412 or 1415** → Mamba X is the cleanest match; MAX10 G2 also works with standard sensor adapter
-- Want **6S upgrade path** later → Mamba X or Mamba Monster X (4S ESCs are dead ends if voltage ever goes up)
-- **Budget** → Copperhead 10 covers 4S + sensored + waterproof for less, but has the least headroom
+- Running **Castle 1412 (in hand), want to spend $0 on ESC** → Fire Phoenix in hand is the obvious pick — proven combo
+- Running **EZRun 3665SD G3 2400KV** → MAX10 G2 is the native matched combo; Fire Phoenix needs adapter
+- Want **6S upgrade path** later → Mamba X or Mamba Monster X only (all 4S ESCs are dead ends if voltage goes up)
+- **Budget** → Copperhead 10 or Fire Phoenix (in hand) cover 4S + sensored + waterproof for the least money
+- **Best overall for this build** → Fire Phoenix if staying with Castle motor; MAX10 G2 if going EZRun 3665SD G3
