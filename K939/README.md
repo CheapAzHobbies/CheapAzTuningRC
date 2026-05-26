@@ -99,22 +99,22 @@ None — removed for Meldrum Bar Park conditions.
 
 ## Parts List
 
-| Part # | Description | Category | Cost | Source | Photo |
-|--------|-------------|----------|------|--------|-------|
-| K939 | Wltoys K939 1/10 4WD 2.4G Electric RC Short Course RTR | Base Car | $0.00 (free — orig. $137.70/unit inc. shipping, sold others at profit) | Alibaba (Aug 2019) | ![](src/base_car_wltoys_k939_alibaba.png) |
-| HPI 107365 | Big Bore Sport Shock Set Apache C1 (97mm, 2pcs) x2 sets | Suspension | $39.98 ($19.99 ea) | Amazon — Hobby-Sports | ![](src/suspension_shocks_apache_c1_107365.jpg) |
-| HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | $11.75 | eBay — power_hobby | ![](src/suspension_springs_hb67453_52gf_grey.jpg) |
-| TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | $83.75 (birthday gift from sister) | PowerHobby official website | ![](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
-| TKR1654-17 | Tekno RC 17mm M6 Hub Adapter Driveshaft Slash/Stampede (set of 2) | Drivetrain | $46.30 | eBay — qliquid_rc | ![](src/drivetrain_hub_adapter_tkr1654-17.jpg) |
-| — | Castle Creations Copperhead 10 ESC + 1412 3200kv Sensored Motor Combo (x2) | Electronics | — | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
-| — | Aluminum Servo Bell Crank Set | Steering | $10.00 | AliExpress | — |
-| SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | $0.00 (free) | — | ![](src/aero_wing_mount_sptst6808b.jpg) |
-| — | White Rear Wing | Aero | $3.70 | AliExpress | ![](src/aero_wing_rear_white.png) |
-| — | Yellow Wheels | Aero | $20.00 | AliExpress | — |
-| — | Pink & White Body | Body | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
-| TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | Tammies | ![](src/bumpers_skid_plates_tra9044.jpg) |
-| TBD | Pinion | Drivetrain | — | — | — |
-| | **Total (known)** | | **$247.48** | | |
+| Part # | Description | Category | Unit Price | Paid | Source | Photo |
+|--------|-------------|----------|------------|------|--------|-------|
+| K939 | Wltoys K939 1/10 4WD 2.4G Electric RC Short Course RTR | Base Car | $137.70 (inc. shipping) | $0.00 (sold others at profit) | Alibaba (Aug 2019) | ![](src/base_car_wltoys_k939_alibaba.png) |
+| HPI 107365 | Big Bore Sport Shock Set Apache C1 (97mm, 2pcs) x2 sets | Suspension | $19.99 ea | $39.98 | Amazon — Hobby-Sports | ![](src/suspension_shocks_apache_c1_107365.jpg) |
+| HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | $11.75 ea | $11.75 | eBay — power_hobby | ![](src/suspension_springs_hb67453_52gf_grey.jpg) |
+| TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | $83.75 | $83.75 (gifted by sister) | PowerHobby | ![](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
+| TKR1654-17 | Tekno RC 17mm M6 Hub Adapter Driveshaft Slash/Stampede (set of 2) | Drivetrain | $23.15 ea | $46.30 | eBay — qliquid_rc | ![](src/drivetrain_hub_adapter_tkr1654-17.jpg) |
+| — | Castle Creations Copperhead 10 ESC + 1412 3200kv Sensored Motor Combo (x2) | Electronics | — | — | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
+| — | Aluminum Servo Bell Crank Set | Steering | $10.00 | $10.00 | AliExpress | — |
+| SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | — | $0.00 (free) | — | ![](src/aero_wing_mount_sptst6808b.jpg) |
+| — | White Rear Wing | Aero | $3.70 | $3.70 | AliExpress | ![](src/aero_wing_rear_white.png) |
+| — | Yellow Wheels | Aero | $20.00 | $20.00 | AliExpress | — |
+| — | Pink & White Body | Body | $25.00 | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
+| TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | $7.00 | Tammies | ![](src/bumpers_skid_plates_tra9044.jpg) |
+| TBD | Pinion | Drivetrain | — | — | — | — |
+| | **Total (known)** | | | **$247.48** | | |
 
 ---
 
