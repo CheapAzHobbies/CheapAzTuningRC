@@ -69,11 +69,12 @@ None — removed for Meldrum Bar Park conditions.
 
 ## Drivetrain
 
-- **Driveshafts:** Tekno
-- **Drive Cups:** Tekno
-- **Pinion:** TBD
+| Part # | Description | Qty | Notes |
+|--------|-------------|-----|-------|
+| TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (Stampede/Slash 4x4) | 2 kits | Covers front and rear driveshafts and hubs |
+| — | Pinion | — | TBD |
 
-![Drivetrain](src/drivetrain.jpg)
+![Drivetrain](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg)
 
 ---
 
@@ -149,8 +150,7 @@ Cost: **$25.00**
 | Hot Bodies Grey Springs (52gf) | HB 67453 | — | — |
 | Castle Creations Copperhead 10 ESC (x2) | — | — | — |
 | 1412 3200kv Motor (x2) | — | — | — |
-| Tekno Driveshafts | — | — | — |
-| Tekno Drive Cups | — | — | — |
+| Tekno M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | TKR6851X / TKR6852X | — | — |
 | STRC Wing Mount | SPTST6808B | $0.00 (free) | — |
 | White Rear Wing | — | $3.70 | AliExpress |
 | Yellow Wheels | — | $20.00 | AliExpress |
