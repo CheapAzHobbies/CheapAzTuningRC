@@ -52,7 +52,7 @@
   - Voltage: 2-4S LiPo
   - Continuous / Burst: 120A / 760A
   - Resistance: 0.0003 ohm
-  - BEC: 6V/5A or 7.4V/5A (requires user solder mod to switch)
+  - BEC: 6V/5A or 7.4V/5A (solder mod — done on user's units)
   - Dimensions: 43 × 36 × 33mm
   - Weight: **105g**
   - Fan: included, powered directly from battery (5V/0.16A, max 8V)
