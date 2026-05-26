@@ -90,6 +90,8 @@ TBD
 | — | FLM Extended Arms (USA made) | Suspension | — | — | — | — |
 | — | Hot Bodies D8 Big Bore Shocks (all around) | Suspension | — | — | — | — |
 | — | Traxxas E-Revo CVDs (chopped to fit) | Drivetrain | — | — | — | — |
+| 6881 | Housings, Differential, Front (Slash 4x4) | Drivetrain | $4.00 | [Traxxas](https://traxxas.com/products/parts/6881) | Considering | — |
+| 6880 | Housings, Differential, Rear (Slash 4x4) | Drivetrain | $4.00 | [Traxxas](https://traxxas.com/products/parts/6880) | Considering | — |
 | — | Traxxas Jato 4x4 Stock Hex Hubs | Drivetrain | — | — | — | — |
 | — | Castle Creations Mamba Monster X ESC | Electronics | — | — | — | — |
 | — | 3200KV Motor | Electronics | — | — | — | — |
