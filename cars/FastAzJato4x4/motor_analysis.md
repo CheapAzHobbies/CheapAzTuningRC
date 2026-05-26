@@ -16,12 +16,12 @@ KV is a no-load speed rating — two motors with the same KV on the same voltage
 
 ## Motor Comparison
 
-| Motor | KV | Stator | Weight | Cell Rating | Sensored | Splash | Status |
-|---|---|---|---|---|---|---|---|
-| Castle Creations 1412 | 3200KV | 36x50mm | 265g | 4S (with care) | Yes (proprietary) | None | In Hand |
-| HobbyWing XeRun 3660SD G3 | 3200KV | 36x60mm | 230g | **3S max** | Yes (JST-ZH) | IP5X | Ruled Out |
-| HobbyWing EZRun 3665SD G3 | 3200KV | 36x65mm | 305g | **3S max** | Yes (JST-ZH) | IP64 | Ruled Out |
-| **HobbyWing EZRun 3665SD G3** | **2400KV** | **36x65mm** | **305g** | **2-4S** | **Yes (JST-ZH)** | **IP64** | **Candidate** |
+| Motor | KV | Stator | Weight | Cell Rating | Sensored | Splash | Status | Why Choose | Why Not |
+|---|---|---|---|---|---|---|---|---|---|
+| Castle Creations 1412 | 3200KV | 36x50mm | 265g | 4S (with care) | Yes (proprietary) | None | In Hand | Already in hand, proven on 4S, no regearing needed, lightest option | No splash protection, runs sensorless on HobbyWing ESC, older lamination tech runs hotter |
+| HobbyWing XeRun 3660SD G3 | 3200KV | 36x60mm | 230g | **3S max** | Yes (JST-ZH) | IP5X | Ruled Out | Lightest motor, competition-grade G3 laminations, sensored native | 3S max — hard no for a 4S build |
+| HobbyWing EZRun 3665SD G3 | 3200KV | 36x65mm | 305g | **3S max** | Yes (JST-ZH) | IP64 | Ruled Out | IP64, G3 laminations, sensored native | 3S max — same dealbreaker as XeRun despite being EZRun tier |
+| **HobbyWing EZRun 3665SD G3** | **2400KV** | **36x65mm** | **305g** | **2-4S** | **Yes (JST-ZH)** | **IP64** | **Candidate** | Only HobbyWing option with 4S + sensored + IP64 — the clean build | 800KV lower requires regearing, heaviest motor, additional cost |
 
 ---
 
