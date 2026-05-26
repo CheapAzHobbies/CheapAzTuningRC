@@ -103,7 +103,7 @@ None — removed for Meldrum Bar Park conditions.
 |--------|-------------|----------|------|--------|-------|
 | — | Wltoys K939 | Base Car | — | — | — |
 | HPI 107365 | Big Bore Sport Shock Set Apache C1 (97mm, 2pcs) | Suspension | — | — | ![](src/suspension_shocks_apache_c1_107365.jpg) |
-| HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) x2 sets | Suspension | $11.75 ea ($23.49 total) | eBay — power_hobby | ![](src/suspension_springs_hb67453_52gf_grey.jpg) |
+| HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | $11.75 | eBay — power_hobby | ![](src/suspension_springs_hb67453_52gf_grey.jpg) |
 | TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | — | — | ![](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
 | — | Castle Creations Copperhead 10 ESC + 1412 3200kv Sensored Motor Combo (x2) | Electronics | — | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
 | — | Aluminum Servo Bell Crank Set | Steering | $10.00 | AliExpress | — |
@@ -113,7 +113,7 @@ None — removed for Meldrum Bar Park conditions.
 | — | Pink & White Body | Body | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
 | TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | Tammies | ![](src/bumpers_skid_plates_tra9044.jpg) |
 | TBD | Pinion | Drivetrain | — | — | — |
-| | **Total (known)** | | **$89.19** | | |
+| | **Total (known)** | | **$77.45** | | |
 
 ---
 
