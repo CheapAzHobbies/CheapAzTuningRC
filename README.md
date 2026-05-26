@@ -14,6 +14,7 @@ Build logs, part lists, setup notes, 3D models, and battery trackers for all my 
 | Resource | Folder | Notes |
 |----------|--------|-------|
 | Batteries | [batteries](batteries/) | Shared across all cars |
+| Deals | [Deals](Deals/) | Sale tracking and pricing snapshots |
 
 ---
 
