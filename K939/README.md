@@ -104,7 +104,7 @@ None — removed for Meldrum Bar Park conditions.
 |--------|-------------|----------|------|--------|-------|
 | — | Wltoys K939 | Base Car | — | — | — |
 | HPI 107365 | Big Bore Sport Shock Set Apache C1 (97mm, 2pcs) | Suspension | — | — | ![](src/suspension_shocks_apache_c1_107365.jpg) |
-| HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | — | — | — |
+| HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | — | — | ![](src/suspension_springs_hb67453_52gf_grey.jpg) |
 | TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | — | — | ![](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
 | — | Castle Creations Copperhead 10 ESC (x2) | Electronics | — | — | — |
 | — | 1412 3200kv Motor (x2) | Electronics | — | — | — |
