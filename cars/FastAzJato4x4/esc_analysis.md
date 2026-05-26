@@ -8,7 +8,7 @@
 
 - **4S LiPo** — ESC must support 16.8V input
 - **Sensored** — smooth starts, no cogging; motor sensor connector compatibility matters
-- **Splash/water resistance** — outdoor buggy, not a pool toy but needs protection
+- **Waterproof — hard requirement.** If it's not waterproof it's not being used. Non-waterproof ESCs are ruled out regardless of other specs.
 - **1/10–1/8 scale current capacity** — 36mm stator motors pull significant amps
 
 ---
@@ -21,7 +21,7 @@
 | **HobbyWing EZRun MAX10 G2 140A** | 2-4S | 140A | 120g | IP67 | Yes (proprietary G3 port) | **Candidate** | Sold as combo with EZRun 3665SD G3 — native sensor plug match, IP67, lightest HW option | 4S ceiling (no headroom), proprietary sensor port needs adapter for non-EZRun G3 motors | <a href="https://www.hobbywingdirect.com/products/ezrun-max10-g2-esc"><img src="https://oss.hobbywing.com/EZRUN%20MAX10%20G2/enimage/img1.png" width="80"></a> |
 | **Castle Mamba X** | 2-6S | ~180A* | 101g | Yes (epoxy) | Yes (SmartSense) | **Candidate** | Lightest ESC in the list, 6S rated so 4S is well within spec, works natively with Castle motors | Amps not published by Castle; no IP rating (potted epoxy, not IP-rated) | <a href="https://www.castlecreations.com/en/mamba-x-esc-010-0155-00"><img src="https://castlecreationscom-2.azureedge.net/img/product/Mamba_X_10th_Scale-18-B.jpg" width="80"></a> |
 | **Castle Mamba Monster X** | 2-6S | ~200A* | 111g | Yes (epoxy) | Yes (SmartSense) | **Candidate** | True 1/8 scale power handling, 6S overhead, works natively with Castle motors | Amps not published; slightly heavier than Mamba X; 1/8 overkill for 36mm motors | <a href="https://www.castlecreations.com/en/mamba-monster-x-esc-010-0145-00"><img src="https://castlecreationscom-1.azureedge.net/img/product/010-0145-00_1-B.jpg" width="80"></a> |
-| **HobbyWing XeRun XR8 SCT** | 2-4S | 140A | 91g | **NO** | Yes (JST-ZH) | Candidate (dry only) | Lightest HW option, competition-grade, full sensored, works with standard JST-ZH motors | **Not waterproof** — confirmed by HobbyWing spec sheet; 4S ceiling | <a href="https://www.hobbywingdirect.com/collections/xerun-xr8-esc/sct"><img src="https://oss.hobbywing.com/cars/XeRun/XeRunXR8SCT/1.png" width="80"></a> |
+| ~~HobbyWing XeRun XR8 SCT~~ | 2-4S | 140A | 91g | **NO** | Yes (JST-ZH) | **Ruled Out** | Lightest ESC on the list, competition-grade | **Not waterproof — hard no for this build** | <a href="https://www.hobbywingdirect.com/collections/xerun-xr8-esc/sct"><img src="https://oss.hobbywing.com/cars/XeRun/XeRunXR8SCT/1.png" width="80"></a> |
 | **Castle Copperhead 10** | 2-4S | ~100A* | 71g | Yes (epoxy) | Yes (SmartSense) | Candidate (budget) | Lightest and cheapest option, waterproof, sensored, 4S capable | 4S ceiling, lower amp headroom, designed for lighter 1/10 vehicles | <a href="https://www.castlecreations.com/en/copperhead-10-16-8v-wp-sensored-esc-010-0166-00"><img src="https://castlecreationscom-1.azureedge.net/img/product/900x900_010-0166-00_(2)-B.jpg" width="80"></a> |
 | HobbyWing EZRun MAX8 G2S | 3-6S | 160A | 192g | IP67 | Yes (JST-ZH) | Ruled Out | Highest amp headroom, IP67, 6S | Way too heavy at 192g for a 1/10 build on 36mm motors | <a href="https://www.hobbywingdirect.com/products/ezrun-max8-esc-g2"><img src="https://oss.hobbywing.com/cars/EzRun/EzRunMaxG2S/1.png" width="80"></a> |
 
@@ -68,12 +68,10 @@
 - 4S ceiling — no voltage headroom above the build requirement
 - 120g with wires, 53 × 39.5 × 37.2mm
 
-### HobbyWing XeRun XR8 SCT
+### HobbyWing XeRun XR8 SCT — Ruled Out
 
-- **Not waterproof** — HobbyWing's own spec sheet lists waterproof: No. Confirmed. This is a competition ESC not intended for wet conditions.
-- Competition XeRun tier — tighter tolerances, more aggressive timing options
-- 90.5g, 54.1 × 37.2 × 36.1mm
-- Best pick only if the build stays dry (indoor track, no puddles)
+- **Not waterproof — ruled out.** HobbyWing's own spec sheet confirms waterproof: No. This build requires waterproof. End of story.
+- Would have been the lightest ESC on the list at 90.5g — irrelevant.
 
 ### HobbyWing EZRun MAX8 G2S
 
@@ -107,23 +105,24 @@
 
 ## Summary
 
-| | Fire Phoenix 120A | MAX10 G2 | Mamba X | Mamba Monster X | XR8 SCT | Copperhead 10 |
-|---|---|---|---|---|---|---|
-| Max cells | 4S | 4S | 6S | 6S | 4S | 4S |
-| 4S headroom | Tight | Tight | Comfortable | Comfortable | Tight | Tight |
-| Waterproof | **Full soak** | IP67 | Yes (epoxy) | Yes (epoxy) | **No** | Yes (epoxy) |
-| Weight | 105g | 120g | 101g | 111g† | 91g | 71g |
-| Castle motor (native) | Works | Adapter | SmartSense | SmartSense | Works | SmartSense |
-| EZRun 3665SD G3 (native) | Adapter | **Yes** | Adapter | Adapter | Adapter | Adapter |
-| Price (approx) | **$30 (in hand)** | ~$85 | ~$125 | ~$135 | ~$125 | ~$70 |
+| | Fire Phoenix 120A | Copperhead 10 | MAX10 G2 | Mamba X | Mamba Monster X |
+|---|---|---|---|---|---|
+| Max cells | 4S | 4S | 4S | 6S | 6S |
+| 4S headroom | Tight | Tight | Tight | Comfortable | Comfortable |
+| Waterproof | **Full soak** | Yes (epoxy) | IP67 | Yes (epoxy) | Yes (epoxy) |
+| Weight | 105g | **71g** | 120g | 101g | 111g† |
+| Castle motor (native) | Works | SmartSense | Adapter | SmartSense | SmartSense |
+| EZRun 3665SD G3 (native) | Adapter | Adapter | **Yes** | Adapter | Adapter |
+| Price (approx) | **$30 (in hand)** | ~$70 | ~$85 | ~$125 | ~$135 |
 
 †Mamba Monster X listed without battery connector — add ~10–15g for installed weight
 
-**Pairing logic:**
-- Running **Castle 1412 (in hand), want to spend $0 on ESC** → Fire Phoenix in hand is the obvious pick — proven combo
-- Running **EZRun 3665SD G3 2400KV** → MAX10 G2 is the native matched combo; Fire Phoenix needs adapter
-- Want **6S upgrade path** later → Mamba X or Mamba Monster X only (all 4S ESCs are dead ends if voltage goes up)
-- **Budget** → Copperhead 10 or Fire Phoenix (in hand) cover 4S + sensored + waterproof for the least money
-- **Best overall for this build** → Fire Phoenix if staying with Castle motor; MAX10 G2 if going EZRun 3665SD G3
+> XeRun XR8 SCT removed — not waterproof, hard no for this build.
 
-**Weight priority:** User preference is toward lighter waterproof options. The Fire Phoenix (105g, in hand, $0) and Copperhead 10 (71g, ~$70) are the two lightest fully waterproof ESCs on this list. The Copperhead is the lightest of everything here by a significant margin. Both cover 4S + sensored + waterproof — the Copperhead just costs money and has lower amp headroom, while the Fire Phoenix is already proven in this exact use case.
+**Pairing logic:**
+- **Keep it simple, zero extra spend** → Fire Phoenix in hand + Castle 1412 in hand. Proven combo, $0 additional cost.
+- **Lightest possible waterproof ESC** → Copperhead 10 at 71g, ~$70. Pairs well with Castle 1412/1415.
+- **Going EZRun 3665SD G3 2400KV** → MAX10 G2 is the native matched combo; Fire Phoenix/Copperhead need sensor adapter.
+- **Want 6S headroom later** → Mamba X or Mamba Monster X only — all 4S ESCs are dead ends if voltage ever goes up.
+
+**Weight priority:** Fire Phoenix (105g, $30, in hand) and Copperhead 10 (71g, ~$70) are the two lightest waterproof options. Copperhead is the lightest on the entire list.
