@@ -108,7 +108,7 @@ None — removed for Meldrum Bar Park conditions.
 | TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | $83.75 | $83.75 (gifted by sister) | PowerHobby | ![](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
 | TKR1654-17 | Tekno RC 17mm M6 Hub Adapter Driveshaft Slash/Stampede (set of 2) | Drivetrain | $23.15 ea | $46.30 | eBay — qliquid_rc | ![](src/drivetrain_hub_adapter_tkr1654-17.jpg) |
 | TRA6814 | Traxxas Slash 4x4 Pre-Built Center Differential Kit — nylon construction, sealed, 20k wt oil, 2S LiPo/NiMH rated. **Note: cheaper to buy individual parts and build yourself.** | Drivetrain | $38.99 | $38.99 | Tammies | ![](src/drivetrain_center_diff_tra6814.jpg) |
-| TRA6842R | Traxxas 32P 50T Center Diff Spur Gear Slash 4x4 — black plastic construction | Drivetrain | $3.00 | $3.00 | Tammies | — |
+| TRA6842R | Traxxas 32P 50T Center Diff Spur Gear Slash 4x4 — black plastic construction | Drivetrain | $3.00 | $3.00 | Tammies | ![](src/drivetrain_spur_gear_tra6842r_50t.png) |
 | CSE010-0166-13 | Castle Creations Copperhead 10 1/10 Sensored Combo w/1412 3200kv 5mm Shaft (x2) | Electronics | — | — | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
 | — | Aluminum Servo Bell Crank Set | Steering | $10.00 | $10.00 | AliExpress | — |
 | SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | — | $0.00 (free) | — | ![](src/aero_wing_mount_sptst6808b.jpg) |
