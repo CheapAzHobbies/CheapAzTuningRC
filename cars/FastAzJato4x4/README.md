@@ -83,16 +83,16 @@ TBD
 
 ## Parts List
 
-| Part # | Description | Category | Cost | Source | Photo |
-|--------|-------------|----------|------|--------|-------|
-| — | Traxxas Jato 4x4 | Base Car | — | — | — |
-| — | RC Carbon Fiber Chassis Kit fit for Traxxas Slash VXL 4x4 TRA6808 | Chassis | $100.26 | Temu | — |
-| — | FLM Extended Arms (USA made) | Suspension | — | — | — |
-| — | Hot Bodies D8 Big Bore Shocks (all around) | Suspension | — | — | — |
-| — | Traxxas E-Revo CVDs (chopped to fit) | Drivetrain | — | — | — |
-| — | Traxxas Jato 4x4 Stock Hex Hubs | Drivetrain | — | — | — |
-| — | Castle Creations Mamba Monster X ESC | Electronics | — | — | — |
-| — | 3200KV Motor | Electronics | — | — | — |
+| Part # | Description | Category | Cost | Source | Status | Photo |
+|--------|-------------|----------|------|--------|--------|-------|
+| — | Traxxas Jato 4x4 | Base Car | — | — | — | — |
+| — | RC Carbon Fiber Chassis Kit fit for Traxxas Slash VXL 4x4 TRA6808 | Chassis | $100.26 | [Temu](https://www.temu.com) / [AliExpress](https://a.aliexpress.com/_mPWcAS3) | Considering | — |
+| — | FLM Extended Arms (USA made) | Suspension | — | — | — | — |
+| — | Hot Bodies D8 Big Bore Shocks (all around) | Suspension | — | — | — | — |
+| — | Traxxas E-Revo CVDs (chopped to fit) | Drivetrain | — | — | — | — |
+| — | Traxxas Jato 4x4 Stock Hex Hubs | Drivetrain | — | — | — | — |
+| — | Castle Creations Mamba Monster X ESC | Electronics | — | — | — | — |
+| — | 3200KV Motor | Electronics | — | — | — | — |
 
 ---
 
