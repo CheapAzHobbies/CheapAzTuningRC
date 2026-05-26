@@ -1,4 +1,4 @@
-# FastAzJato
+# FastAzJato4x4
 
 > Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. Carbon fiber custom chassis, FLM extended arms (USA made), E-Revo CVDs chopped to fit, E-Revo hubs, Mamba Monster X + 3200KV on 4S, Hot Bodies D8 big bore shocks all around. WIP — details to be added.
 
