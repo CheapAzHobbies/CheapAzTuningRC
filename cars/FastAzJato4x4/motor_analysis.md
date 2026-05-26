@@ -1,16 +1,37 @@
 # Motor Selection — FastAzJato4x4
 
-> **Status: Undecided — ESC not chosen yet. Motor choice depends on ESC sensor compatibility.**
+> **Leaning toward: HobbyWing EZRun 3665SD G3 2400KV** — aligns with community consensus for this platform, resolves confirmed heat issue with the Castle 1412 3200KV.
 >
-> No HobbyWing motor hits 3200KV + 4S simultaneously. Castle 1412 3200KV (in hand) is the only verified 4S 3200KV option. Castle sensored motors are compatible with HobbyWing sensored ESCs. The EZRun 3665SD G3 uses a proprietary waterproof sensor plug designed for the MAX10 G2 ESC — needs an adapter for other ESCs.
+> No HobbyWing motor hits 3200KV + 4S simultaneously. Castle 1412 3200KV (in hand) runs hot on 4S and requires a fan. Community data on Slash 4x4 and e-Jato builds consistently points to 2400KV as the 4S sweet spot — cool running, no fan needed. The EZRun 3665SD G3 uses a proprietary waterproof sensor plug designed for the MAX10 G2 ESC — needs an adapter for other ESCs.
 
 ---
 
-## Why 3200KV
+## KV Target and Heat Reality
 
-The Jato 4x4 platform is lighter than a typical 1/8 buggy. Higher KV runs fine here because there's less chassis mass to fight. On 4S (14.8V nominal), 3200KV gives plenty of top-end without needing to push a larger, heavier stator.
+The original target was 3200KV — same as what's already running in the Slash 4x4. In practice the Castle 1412 3200KV gets hot enough on 4S to require a cooling fan. This is expected: 3200KV × 14.8V = ~47,000 RPM no-load, which pushes the motor hard especially in grass and offroad terrain where the drivetrain loads up under the high RPM.
 
-KV is a no-load speed rating — two motors with the same KV on the same voltage run the same top speed. The differences that matter are torque, heat, and efficiency, which come down to stator size, lamination quality, and sealing.
+KV is a no-load speed rating — same top speed at same KV on same voltage. The differences are torque, heat, and efficiency: stator size, lamination quality, and how the motor is wound for the voltage.
+
+### What the Community Actually Runs
+
+**Slash 4x4 on 4S:**
+- 2400KV is the well-established sweet spot. Runs cool, strong torque, no fan needed with conservative gearing
+- 3200KV on 4S works but runs hot in grass/offroad, generally needs a fan
+- Community verdict: if heat is a concern, go 2400KV and gear up slightly
+
+**E-Jato / Jato 4x4 electric on 4S:**
+- 2200KV recommended for all-day running with no heat issues
+- Builders going higher KV (3000+) report needing cooldown breaks and conservative gearing
+- One builder with 2200KV on 4S and 26/38 gearing ran all day with no problems
+
+**True 1/8 buggy on 4S (heavier chassis than Jato):**
+- 1900–2200KV is the consensus. Motors at 1900KV are the most common race setup
+- Higher KV on a heavier 1/8 platform just adds heat with no benefit
+- The Jato 4x4 is lighter than a true 1/8 buggy, so 2400KV is arguably right at or just above the community-preferred range for this weight class
+
+### Implication for This Build
+
+Running 3200KV on 4S and needing a fan is not a setup problem — it's a physics problem. The motor is wound for a lower voltage ceiling and is being pushed. Dropping to 2400KV with G3 laminations eliminates the eddy current losses that generate most of the heat, and puts the build right in line with what experienced builders run on identical or heavier platforms. A fan becomes unnecessary weight and a mud/debris magnet.
 
 ---
 
@@ -45,29 +66,32 @@ Same problem — **3S max**, despite being the EZRun (bashing) tier and a longer
 ### Castle Creations 1412 3200KV — In Hand
 
 **Pros:**
-- Proven 4S capable — run on 4S on a Slash 4x4 with no issues
-- 3200KV — same top speed as target, no regearing needed
+- In hand, proven on 4S
+- 3200KV — no regearing needed
 - Lightest 4S option at 265g
-- Sensored connector works with HobbyWing sensored ESCs
+- Sensor connector works with HobbyWing sensored ESCs
 
 **Cons:**
+- **Confirmed heat issue** — runs hot enough on 4S to require a cooling fan. Fan adds weight and is a mud/debris trap on a buggy
 - No splash or dust protection — no IP rating
-- Older lamination technology — runs hotter than G3-series at equivalent output
-- Castle says 4S OK for buggies under ~4lb with conservative gearing and temp monitoring — not worry-free
+- Older lamination technology — the heat isn't gearing, it's eddy current losses in the stator
+- 3200KV on 4S is above what the community recommends for this weight class without active cooling
 
 ### HobbyWing EZRun 3665SD G3 2400KV — (HWA30402604)
 
 **Pros:**
+- **2400KV on 4S is the community consensus** for Slash 4x4 and e-Jato builds — runs cool without a fan, strong torque
 - 4S native — no asterisks
 - IP64 — dust-tight, water splash from any direction
-- G3 laminations — less heat than Castle 1412 at equivalent output
-- Sensored capable
+- G3 thin laminations — significantly less heat at high RPM, the direct fix for the fan problem
+- No fan needed — one less thing to break, clog, or add weight
+- Sensored capable with adapter
 
 **Cons:**
-- Proprietary waterproof sensor plug — designed to match the EZRun MAX10 G2 ESC. Requires an adapter cable (HWA30810007) to work with other sensored ESCs
-- 2400KV — 800KV lower than target. Requires regearing to hit the same top speed
-- Heaviest option at 305g
-- Motor not in hand — additional cost
+- Proprietary waterproof sensor plug — works natively with EZRun MAX10 G2, needs adapter (HWA30810007) for other ESCs
+- Requires regearing to match previous top speed
+- 305g — heaviest 4S option
+- Not in hand — additional cost (~$65)
 
 ---
 
@@ -89,6 +113,9 @@ ESC selection is TBD. Notes that affect the choice:
 | Splash protection | No | IP64 | No |
 | Sensored on HW ESC | Yes | Yes (needs adapter) | Yes |
 | G3 laminations | No | Yes | No |
+| Runs cool on 4S (no fan) | **No — confirmed hot** | **Yes — community verified** | No |
 | Weight | 265g | 305g | 318g |
 | Regearing needed | No | Yes | Yes |
 | Cost | $0 (in hand) | ~$65+ | ~$80+ |
+
+The Castle 1412 3200KV needing a fan on 4S is the clearest signal in this decision. Community experience on the Slash 4x4 and e-Jato shows 2400KV on 4S runs cool without a fan. That is not a minor convenience difference — a fan on a buggy picks up dirt, adds failure points, and signals the motor is thermally marginal. The EZRun 3665SD G3 2400KV with G3 laminations directly addresses the root cause.
