@@ -107,7 +107,7 @@ None — removed for Meldrum Bar Park conditions.
 | HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | $11.75 ea | $11.75 | eBay — power_hobby | ![](src/suspension_springs_hb67453_52gf_grey.jpg) |
 | TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | $83.75 | $83.75 (gifted by sister) | PowerHobby | ![](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
 | TKR1654-17 | Tekno RC 17mm M6 Hub Adapter Driveshaft Slash/Stampede (set of 2) | Drivetrain | $23.15 ea | $46.30 | eBay — qliquid_rc | ![](src/drivetrain_hub_adapter_tkr1654-17.jpg) |
-| TRA6814 | Traxxas Slash 4x4 Pre-Built Center Differential Kit — nylon construction, sealed, 20k wt oil, 2S LiPo/NiMH rated | Drivetrain | — | — | Tammies | ![](src/drivetrain_center_diff_tra6814.jpg) |
+| TRA6814 | Traxxas Slash 4x4 Pre-Built Center Differential Kit — nylon construction, sealed, 20k wt oil, 2S LiPo/NiMH rated. **Note: cheaper to buy individual parts and build yourself.** | Drivetrain | $38.99 | $38.99 | Tammies | ![](src/drivetrain_center_diff_tra6814.jpg) |
 | TRA6842R | Traxxas 50T Spur Gear 0.8 Mod / 32 Pitch (for TRA6814 center diff) | Drivetrain | — | — | Tammies | — |
 | CSE010-0166-13 | Castle Creations Copperhead 10 1/10 Sensored Combo w/1412 3200kv 5mm Shaft (x2) | Electronics | — | — | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
 | — | Aluminum Servo Bell Crank Set | Steering | $10.00 | $10.00 | AliExpress | — |
@@ -117,7 +117,7 @@ None — removed for Meldrum Bar Park conditions.
 | Generic | Pink & White Body | Body | $25.00 | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
 | TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | $7.00 | Tammies | ![](src/bumpers_skid_plates_tra9044.jpg) |
 | TBD | Pinion | Drivetrain | — | — | — | — |
-| | **Total (known)** | | | **$247.61** | | |
+| | **Total (known)** | | | **$286.60** | | |
 
 ---
 
