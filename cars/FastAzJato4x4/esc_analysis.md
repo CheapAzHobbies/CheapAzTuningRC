@@ -17,7 +17,7 @@
 
 | ESC | Cells | Amps (cont) | Weight | Waterproof | Sensored | Status | Why Choose | Why Not | Photo / Link |
 |---|---|---|---|---|---|---|---|---|---|
-| **Fire Phoenix XeRun 120A Enhanced (Speed Dragon)** | **2-4S** | **120A** | **105g** | **Yes** | **Yes (JST-ZH)** | **In Hand** | Already owned and proven on 4S with 3200KV on Slash 4x4 — zero cost, waterproof, sensored, comes with fan | 120A continuous is the lowest amp rating here; Chinese market rebrand; 4S ceiling no headroom | <a href="https://www.aliexpress.com/item/4001205164437.html"><img src="https://oss.hobbywing.com/cars/XeRun/XeRunXR8SCT/1.png" width="80"></a> |
+| **Fire Phoenix XeRun 120A Enhanced (Speed Dragon)** | **2-4S** | **120A** | **105g** | **Full submersion (user verified)** | **Yes (JST-ZH)** | **In Hand** | Already owned and proven on 4S with 3200KV on Slash 4x4 — zero cost, fully waterproof (full soak), sensored, comes with fan | 120A continuous is the lowest amp rating here; Chinese market rebrand; 4S ceiling no headroom | <a href="https://www.aliexpress.com/item/4001205164437.html"><img src="https://oss.hobbywing.com/cars/XeRun/XeRunXR8SCT/1.png" width="80"></a> |
 | **HobbyWing EZRun MAX10 G2 140A** | 2-4S | 140A | 120g | IP67 | Yes (proprietary G3 port) | **Candidate** | Sold as combo with EZRun 3665SD G3 — native sensor plug match, IP67, lightest HW option | 4S ceiling (no headroom), proprietary sensor port needs adapter for non-EZRun G3 motors | <a href="https://www.hobbywingdirect.com/products/ezrun-max10-g2-esc"><img src="https://oss.hobbywing.com/EZRUN%20MAX10%20G2/enimage/img1.png" width="80"></a> |
 | **Castle Mamba X** | 2-6S | ~180A* | 101g | Yes (epoxy) | Yes (SmartSense) | **Candidate** | Lightest ESC in the list, 6S rated so 4S is well within spec, works natively with Castle motors | Amps not published by Castle; no IP rating (potted epoxy, not IP-rated) | <a href="https://www.castlecreations.com/en/mamba-x-esc-010-0155-00"><img src="https://castlecreationscom-2.azureedge.net/img/product/Mamba_X_10th_Scale-18-B.jpg" width="80"></a> |
 | **Castle Mamba Monster X** | 2-6S | ~200A* | 111g | Yes (epoxy) | Yes (SmartSense) | **Candidate** | True 1/8 scale power handling, 6S overhead, works natively with Castle motors | Amps not published; slightly heavier than Mamba X; 1/8 overkill for 36mm motors | <a href="https://www.castlecreations.com/en/mamba-monster-x-esc-010-0145-00"><img src="https://castlecreationscom-1.azureedge.net/img/product/010-0145-00_1-B.jpg" width="80"></a> |
@@ -56,7 +56,7 @@
   - Dimensions: 43 × 36 × 33mm
   - Weight: **105g**
   - Fan: included, powered directly from battery (5V/0.16A, max 8V)
-- Waterproof — confirmed by user.
+- **Fully waterproof — user confirmed full submersion, not just splash resistant.** Surprisingly capable for a $30 Chinese ESC.
 - Sensor input: JST-ZH — works with Castle 1412/1415 and standard HobbyWing motors. Needs adapter (HWA30810007) for EZRun 3665SD G3 proprietary plug.
 - Zero cost — already in hand.
 
@@ -111,7 +111,7 @@
 |---|---|---|---|---|---|---|
 | Max cells | 4S | 4S | 6S | 6S | 4S | 4S |
 | 4S headroom | Tight | Tight | Comfortable | Comfortable | Tight | Tight |
-| Waterproof | Yes | IP67 | Yes (epoxy) | Yes (epoxy) | **No** | Yes (epoxy) |
+| Waterproof | **Full soak** | IP67 | Yes (epoxy) | Yes (epoxy) | **No** | Yes (epoxy) |
 | Weight | 105g | 120g | 101g | 111g† | 91g | 71g |
 | Castle motor (native) | Works | Adapter | SmartSense | SmartSense | Works | SmartSense |
 | EZRun 3665SD G3 (native) | Adapter | **Yes** | Adapter | Adapter | Adapter | Adapter |
