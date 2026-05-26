@@ -101,7 +101,7 @@ None — removed for Meldrum Bar Park conditions.
 
 | Part # | Description | Category | Cost | Source | Photo |
 |--------|-------------|----------|------|--------|-------|
-| — | Wltoys K939 1:10 Electric 4WD Short Truck | Base Car | $137.70 | Alibaba (Aug 2019) | ![](src/base_car_wltoys_k939_alibaba.png) |
+| — | Wltoys K939 1:10 Electric 4WD Short Truck | Base Car | $0.00 (free — orig. $79.20/unit, sold others at profit) | Alibaba (Aug 2019) | ![](src/base_car_wltoys_k939_alibaba.png) |
 | HPI 107365 | Big Bore Sport Shock Set Apache C1 (97mm, 2pcs) | Suspension | — | — | ![](src/suspension_shocks_apache_c1_107365.jpg) |
 | HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | $11.75 | eBay — power_hobby | ![](src/suspension_springs_hb67453_52gf_grey.jpg) |
 | TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | — | — | ![](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
@@ -114,7 +114,7 @@ None — removed for Meldrum Bar Park conditions.
 | — | Pink & White Body | Body | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
 | TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | Tammies | ![](src/bumpers_skid_plates_tra9044.jpg) |
 | TBD | Pinion | Drivetrain | — | — | — |
-| | **Total (known)** | | **$261.45** | | |
+| | **Total (known)** | | **$123.75** | | |
 
 ---
 
