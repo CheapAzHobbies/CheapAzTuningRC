@@ -58,7 +58,7 @@ Part #: `107365` — 2pcs
 | Front | 30wt |
 | Rear | 30wt |
 
-> Subject to change based on track conditions.
+> Subject to change — still tuning.
 
 ### Swaybars
 None — removed for Meldrum Bar Park conditions.
