@@ -43,7 +43,7 @@ Dusty hardpack with heavy ruts and rough bumps. No swaybars — the track reward
 **HPI Racing Big Bore Sport Shock Set (97mm) Apache C1**  
 Part #: `107365` — 2pcs
 
-![Shocks](cars/K939/src/shocks.jpg)
+![Shocks](src/BigBore107365.jpg)
 
 | Position | Spring | Notes |
 |----------|--------|-------|
@@ -104,6 +104,8 @@ None — removed for Meldrum Bar Park conditions.
 ### Wing Mount
 **STRC ST Racing Concepts 1/8 E-Buggy Conversion Kit for Traxxas Slash (Blue)**  
 Part #: `SPTST6808B` — using wing mount only (received free)
+
+![Wing Mount](src/sptst6808b.jpg)
 
 ### Rear Wing
 White wing  
