@@ -103,7 +103,7 @@ TBD
 |------------|-----------|----------|---------------|-------|
 | Pack 1 | — | — | 0 | — |
 
-> See [`batteries/`](../batteries/) for per-pack logs.
+> See [`batteries/`](../../batteries/) for per-pack logs.
 
 ---
 
