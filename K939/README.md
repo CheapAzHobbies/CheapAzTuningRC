@@ -109,7 +109,7 @@ None — removed for Meldrum Bar Park conditions.
 | — | Castle Creations Copperhead 10 ESC + 1412 3200kv Sensored Motor Combo (x2) | Electronics | — | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
 | — | Aluminum Servo Bell Crank Set | Steering | $10.00 | AliExpress | — |
 | SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | $0.00 (free) | — | ![](src/aero_wing_mount_sptst6808b.jpg) |
-| — | White Rear Wing | Aero | $3.70 | AliExpress | — |
+| — | White Rear Wing | Aero | $3.70 | AliExpress | ![](src/aero_wing_rear_white.png) |
 | — | Yellow Wheels | Aero | $20.00 | AliExpress | — |
 | — | Pink & White Body | Body | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
 | TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | Tammies | ![](src/bumpers_skid_plates_tra9044.jpg) |
