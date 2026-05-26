@@ -125,3 +125,5 @@
 - Want **6S upgrade path** later → Mamba X or Mamba Monster X only (all 4S ESCs are dead ends if voltage goes up)
 - **Budget** → Copperhead 10 or Fire Phoenix (in hand) cover 4S + sensored + waterproof for the least money
 - **Best overall for this build** → Fire Phoenix if staying with Castle motor; MAX10 G2 if going EZRun 3665SD G3
+
+**Weight priority:** User preference is toward lighter waterproof options. The Fire Phoenix (105g, in hand, $0) and Copperhead 10 (71g, ~$70) are the two lightest fully waterproof ESCs on this list. The Copperhead is the lightest of everything here by a significant margin. Both cover 4S + sensored + waterproof — the Copperhead just costs money and has lower amp headroom, while the Fire Phoenix is already proven in this exact use case.
