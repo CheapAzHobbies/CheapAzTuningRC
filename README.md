@@ -26,7 +26,7 @@
 **Base Car:** Wltoys K939  
 Twin motor, roughly equivalent to a Slash 4x4 HCG platform.
 
-![Car Overview](photos/car_overview.jpg)
+![Car Overview](src/car_overview.jpg)
 
 ---
 
@@ -43,7 +43,7 @@ Dusty hardpack with heavy ruts and rough bumps. No swaybars — the track reward
 **HPI Racing Big Bore Sport Shock Set (97mm) Apache C1**  
 Part #: `107365` — 2pcs
 
-![Shocks](photos/shocks/shocks.jpg)
+![Shocks](src/shocks.jpg)
 
 | Position | Spring | Notes |
 |----------|--------|-------|
@@ -63,7 +63,7 @@ Part #: `107365` — 2pcs
 ### Swaybars
 None — removed for Meldrum Bar Park conditions.
 
-![Suspension Layout](photos/suspension/suspension.jpg)
+![Suspension Layout](src/suspension.jpg)
 
 ---
 
@@ -73,7 +73,7 @@ None — removed for Meldrum Bar Park conditions.
 - **Drive Cups:** Tekno
 - **Pinion:** TBD
 
-![Drivetrain](photos/drivetrain.jpg)
+![Drivetrain](src/drivetrain.jpg)
 
 ---
 
@@ -86,7 +86,7 @@ None — removed for Meldrum Bar Park conditions.
 | ESC | Castle Creations Copperhead 10 | 2 |
 | Motor | 1412 3200kv | 2 |
 
-![Electronics](photos/electronics/electronics.jpg)
+![Electronics](src/electronics.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ None — removed for Meldrum Bar Park conditions.
 - **Bell Crank Set:** Aluminum servo bell crank set (AliExpress, ~$10)
 - **Pinion side:** TBD
 
-![Steering](photos/steering.jpg)
+![Steering](src/steering.jpg)
 
 ---
 
@@ -110,14 +110,14 @@ White wing
 [AliExpress listing](https://www.aliexpress.us/item/3256807547003209.html)  
 Cost: **$3.70**
 
-![Wing](photos/body/wing.jpg)
+![Wing](src/wing.jpg)
 
 ### Wheels
 Yellow  
 [AliExpress listing](https://www.aliexpress.us/item/3256808385588220.html)  
 Cost: **$20.00**
 
-![Wheels](photos/wheels/wheels.jpg)
+![Wheels](src/wheels.jpg)
 
 ### Body
 Pink & White  
@@ -126,18 +126,15 @@ Cost: **$25.00**
 
 > 3D printed body mount not included yet.
 
-![Body](photos/body/body.jpg)
+![Body](src/body.jpg)
 
 ---
 
 ## Bumpers
 
-| Position | Part | Notes |
-|----------|------|-------|
-| Front | Traxxas Jato stock plastic bumper | Trimmed to fit |
-| Rear | Traxxas Jato rear bumper / skid plate | Trimmed to fit — part # TBD |
-
-![Bumpers](photos/bumpers/bumpers.jpg)
+| Part # | Description | Position | Cost | Source | Photo |
+|--------|-------------|----------|------|--------|-------|
+| TRA9044 | Traxxas Front & Rear Skid Plates | Front & Rear | $7.00 | Tammies | ![TRA9044](src/TRA9044.jpg) |
 
 ---
 
@@ -156,11 +153,10 @@ Cost: **$25.00**
 | White Rear Wing | — | $3.70 | AliExpress |
 | Yellow Wheels | — | $20.00 | AliExpress |
 | Pink & White Body | — | $25.00 | AliExpress |
-| Jato Front Bumper | TBD | — | — |
-| Jato Rear Bumper / Skid | TBD | — | — |
+| Traxxas Front & Rear Skid Plates | TRA9044 | $7.00 | Tammies |
 | Aluminum Servo Bell Crank | — | $10.00 | AliExpress |
 | Pinion | TBD | — | — |
-| **Total (known)** | | **$58.70** | |
+| **Total (known)** | | **$65.70** | |
 
 ---
 
@@ -190,8 +186,6 @@ Track charge cycles per battery pack.
 ## TODO / Notes
 
 - [ ] Add pinion gear part number
-- [ ] Find Jato front bumper part number
-- [ ] Find Jato rear bumper / skid plate part number
 - [ ] Add body mount 3D model
 - [ ] Add photos for all sections
 - [ ] Log battery specs and start tracking cycles
