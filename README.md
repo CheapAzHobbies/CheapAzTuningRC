@@ -2,6 +2,8 @@
 
 Build logs, part lists, setup notes, 3D models, and battery trackers for all my RC cars.
 
+> eBay Store: [cheapa-zhobbies](https://www.ebay.com/usr/cheapa-zhobbies)
+
 ## Cars
 
 | Car | Folder | Notes |
