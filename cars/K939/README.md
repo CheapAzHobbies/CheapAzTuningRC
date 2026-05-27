@@ -41,17 +41,26 @@ Dusty hardpack with heavy ruts and rough bumps. No swaybars — the track reward
 **HPI Racing Big Bore Sport Shock Set (97mm) Apache C1**  
 Part #: `107365` — 2pcs
 
+Front running Hot Bodies D8 shocks.
+
 | Position | Spring | Notes |
 |----------|--------|-------|
 | Front | White (included with Apache C1) | Stock Apache C1 spring |
 | Rear | Grey 52gf (Hot Bodies 67453) | 76mm, softer for bump compliance |
+
+### Pistons
+
+| Position | Piston |
+|----------|--------|
+| Front | 6 hole × 1.3 (alternate: 5 hole × 1.4) |
+| Rear | TBD |
 
 ### Shock Oil
 
 | Position | Weight |
 |----------|--------|
 | Front | 30wt |
-| Rear | 30wt |
+| Rear | 60wt |
 
 > Subject to change — still tuning.
 
@@ -65,7 +74,7 @@ None — removed for Meldrum Bar Park conditions.
 | Position | Part |
 |----------|------|
 | Front & Rear | Tekno RC M6 Driveshafts & Steering Block Set — TKR6851X / TKR6852X (2 kits) |
-| Center Diff | Traxxas TRA6814 Pre-Built Center Diff — 50T spur (TRA6842R), 20k wt oil |
+| Center Diff | Traxxas TRA6814 Pre-Built Center Diff — 50T spur (TRA6842R), 500k wt oil |
 | Pinion | TBD |
 
 ---
@@ -108,7 +117,7 @@ None — removed for Meldrum Bar Park conditions.
 | HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | $11.75 | eBay — power_hobby | ![](src/suspension_springs_hb67453_52gf_grey.jpg) |
 | TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | $83.75 (gifted by sister) | PowerHobby | ![](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
 | TKR1654-17 | Tekno RC 17mm M6 Hub Adapter Driveshaft Slash/Stampede (set of 2) | Drivetrain | $46.30 ($23.15 ea) | eBay — qliquid_rc | ![](src/drivetrain_hub_adapter_tkr1654-17.jpg) |
-| TRA6814 | Traxxas Slash 4x4 Pre-Built Center Differential Kit — nylon construction, sealed, 20k wt oil, 2S LiPo/NiMH rated. **Note: cheaper to buy individual parts and build yourself.** | Drivetrain | $38.99 | Tammies | ![](src/drivetrain_center_diff_tra6814.jpg) |
+| TRA6814 | Traxxas Slash 4x4 Pre-Built Center Differential Kit — nylon construction, sealed, currently running 500k wt oil, 2S LiPo/NiMH rated. **Note: cheaper to buy individual parts and build yourself.** | Drivetrain | $38.99 | Tammies | ![](src/drivetrain_center_diff_tra6814.jpg) |
 | TRA6842R | Traxxas 32P 50T Center Diff Spur Gear Slash 4x4 — black plastic construction | Drivetrain | $3.00 | Tammies | ![](src/drivetrain_spur_gear_tra6842r_50t.png) |
 | — | Castle Creations 1412 3200kv Sensored Motor 5mm Shaft (x2) | Electronics | $168.06 ($84.03 ea) | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
 | — | Castle Creations Copperhead 10 1/10 ESC (x2) | Electronics | $217.42 ($108.71 ea) | Castle Creations | ![](src/electronics_esc_copperhead10.jpg) |

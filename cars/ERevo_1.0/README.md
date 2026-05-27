@@ -36,13 +36,38 @@ TBD
 
 ## Suspension
 
-TBD
+### Shocks
+
+| Spec | Value |
+|------|-------|
+| Body | Hot Bodies D8 97mm |
+| Piston | 4 × 1.2 |
+
+### Shock Oil
+
+| Position | Weight |
+|----------|--------|
+| Front & Rear | 50wt |
+
+### Rear Arms
+
+- Traxxas TRA5328 / TRA5327 adjustable rear arms — 10–19 setting range
 
 ---
 
 ## Drivetrain
 
-TBD
+### Differentials
+
+| Position | Diff | Oil |
+|----------|------|-----|
+| Front | Losi XXL LST | 30k wt |
+| Center | Traxxas TRA5614 | 500k wt |
+| Rear | Losi XXL LST | 10k wt |
+
+### Spur Gear
+
+- Traxxas TRA3958 — 58T
 
 ---
 
