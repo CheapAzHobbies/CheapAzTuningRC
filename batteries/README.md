@@ -32,9 +32,9 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 
 ## Active — Non-LiPo
 
-| # | Pack | Chemistry | Count / Capacity | Cycles | Notes |
-|---|------|-----------|------------------|--------|-------|
-| 1 | Energizer Lithium AA | Li-FeS2 (primary) | 108 cells | — | Transmitter / receiver use |
+| # | Pack | Chemistry | Cycles | Notes |
+|---|------|-----------|--------|-------|
+| 1 | Energizer AA (silver) | NiMH | 108 | Sometimes mis-called "Lithium" — they're the silver rechargeable cells |
 
 ---
 
