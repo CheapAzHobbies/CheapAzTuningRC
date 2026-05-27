@@ -46,8 +46,15 @@ TBD
 
 | Position | Weight |
 |----------|--------|
-| Front | TBD |
-| Rear | TBD |
+| Front | 40wt → 50wt |
+| Rear | 32.5wt → 40wt |
+
+### Linkages
+
+| Spec | Value |
+|------|-------|
+| Rod | M3 × 51mm |
+| End-to-end | 32mm |
 
 ### Swaybars
 
@@ -57,13 +64,31 @@ TBD
 
 ## Drivetrain
 
-TBD
+### Pinion
+
+| Position | Teeth |
+|----------|-------|
+| Pinion | 18T |
+
+### Differential Oil
+
+| Position | Weight / Viscosity |
+|----------|--------------------|
+| Front Diff | 35wt (12.5k cSt) |
+| Center Diff | Factory Team 5000 cSt |
+| Rear Diff | 35wt (12k cSt) |
+
+### Center Diff Service
+
+- O-ring: 4.8 × 8.6 × 1.9mm
 
 ---
 
 ## Electronics
 
-TBD
+| Component | Part | Notes |
+|-----------|------|-------|
+| Motor | Hobbywing 4200KV | Max temp observed: 82°C. Ideal target: 71°C |
 
 ---
 
