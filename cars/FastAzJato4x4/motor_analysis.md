@@ -22,6 +22,7 @@
 | **Splash / dust resistance** | May | Nice for offroad / wet conditions but build is mostly track |
 | **Lightweight** | May | Lower mass helps acceleration and handling, especially in a 1/10-class chassis |
 | **Cheap / in hand** | May | $0 if already owned beats $80+ for a new motor |
+| **5mm output shaft** | May | Preferred over 1/8" (3.17mm) — thicker shaft handles higher torque without flex, and most 1/10 brushless 32P pinions come in 5mm bore. The in-hand 1412 3200KV is 1/8" so this favors the 5mm-shaft variants if changing motors anyway |
 
 > **Castle naming convention:** the four-digit Castle model number is stator dimensions in tenths of an inch. **First two digits = stator diameter, last two digits = magnet length.** So a `1412` is a 1.4" diameter × 1.2" magnet stator (35.6mm × 30.5mm internal); a `1415` is 1.4" × 1.5" (35.6mm × 38.1mm); a `1515` is 1.5" × 1.5". The overall **can** is larger than the stator — Castle 14-series motors all use a 36mm OD can; 15-series and 17-series are bigger.
 
