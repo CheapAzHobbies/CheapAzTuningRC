@@ -71,11 +71,11 @@ When the user asks for a part-selection comparison, save it as
 ```
 | Requirement | Type | Why |
 |---|---|---|
-| **<requirement>** | Must / Nice | <one-line reason> |
+| **<requirement>** | Must / May | <one-line reason> |
 ```
 
 - **Must** = hard requirement; any option that fails it is automatically Ruled Out.
-- **Nice** = preference / nice-to-have; missing it doesn't disqualify.
+- **May** = preference / nice-to-have; missing it doesn't disqualify.
 - List each requirement once — don't repeat the same requirement in different words across multiple rows.
 
 ### Comparison table
@@ -87,7 +87,7 @@ When the user asks for a part-selection comparison, save it as
 ```
 
 Rules:
-- **Spec** column: each key/value pair on its own line via `<br>`. Bold the row label and matching spec values for the leading candidate.
+- **Spec** column: keep it short — only the essentials needed for at-a-glance comparison (typically Cells, Amps, Weight, Waterproof, Sensored, Price). Each key/value pair on its own line via `<br>`. Bold the row label and matching spec values for the leading candidate. Everything else (BEC, dimensions, motor compatibility, application limits, certifications, programming features, etc.) belongs in the Detailed Notes section below, **as bullets** under each item — not crammed into the table cell.
 - **Status** values, in priority order:
   - `Chosen` — final selection
   - `In Hand` — already owned
