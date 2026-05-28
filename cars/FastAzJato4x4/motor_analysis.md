@@ -189,6 +189,43 @@ It'll print the table and save a fresh chart to `cars/FastAzJato4x4/src/motor_si
 
 ---
 
+## Smaller Stators Can Win: "V8 vs High-Revving Honda"
+
+A common assumption in RC is that bigger stator = better. **Not always true on 4S in this weight class.** Here's why:
+
+### The physics
+
+The rotor (the spinning inner part of the motor, with the magnets glued to it) is held together by a Kevlar or fiber wrap. At high RPM, **centrifugal force tries to fling the magnets outward**. Force scales with `m × r × ω²` — mass times radius times angular velocity squared. So:
+
+- **Bigger rotor diameter** → magnets are farther from center → more force per RPM
+- **Longer rotor** → more magnet mass → more total force
+- **Higher RPM** → force grows with the *square* of RPM
+
+When the wrap can't hold, the magnets break free and the rotor self-destructs (commonly called "rotor explosion" — sometimes loosely said as "stator explosion" since the whole thing rips apart).
+
+Manufacturers spec a **max RPM** to keep you safely under the wrap's limit. Castle and Hobbywing both publish these numbers, and they reveal the trade-off clearly:
+
+| Motor | Stator size | Max RPM (manufacturer) |
+|---|---|---|
+| Castle 1406 | 1.4" × 0.6" (small) | **100,000** |
+| Castle 1412 / 1415 | 1.4" × 1.2"-1.5" (medium) | 75,000 |
+| Hobbywing EZRun 3652/3665 SD G3 | 36mm × 52-65mm (medium) | 75,000 (similar class) |
+| Castle 1515 V2 | 1.5" × 1.5" (large) | **60,000** |
+
+**Smaller stator = higher safe RPM.** That's the same trade-off you see in cars: a small high-revving 4-cylinder (Honda) can spin to 8500+ RPM safely, while a big V8 has to be governed lower because the rotating mass is bigger and the bottom end can't take infinite RPM.
+
+### Why this matters for 4S on a 1/10 chassis
+
+- A "smaller, older design" 36mm Castle motor isn't necessarily worse — it can **safely spin higher** before the rotor lets go.
+- A bigger Hobbywing motor with more stator iron and more rotor mass is built for **torque under load** (the V8), but its RPM ceiling is the same or lower than the smaller Castle equivalent.
+- On a light 1/10 chassis on 4S, you usually want RPM, not raw torque. The bigger motor's torque advantage is wasted (chassis is too light to need it) and its mass penalty is unwelcome (more grams up high, see [the weight comparison above](#real-world-weight-1412-3200kv--cooling-vs-1415-2400kv-bare)).
+
+### Takeaway
+
+The marketing-driven "bigger is better" assumption falls apart once you look at the max RPM data and remember the chassis is the constraint, not the motor. **Smaller-but-faster-revving wins on a chassis that doesn't need 1/8-scale torque.**
+
+---
+
 ## KV Reference
 
 KV is a no-load speed rating — same top speed at same KV on same voltage. The differences between options at the same KV are torque, heat, and efficiency (stator size, lamination quality, how the motor is wound for the voltage).
