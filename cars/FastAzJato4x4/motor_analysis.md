@@ -98,6 +98,97 @@ The Castle 1412 3200KV's "free, already in hand, lightest 4S option" advantage l
 
 ---
 
+## Acceleration Simulation (2400KV vs 3200KV vs 2100KV, geared to same top speed)
+
+This is a Python physics sim that answers [the open question on GitHub issue #2](https://github.com/CheapAzHobbies/CheapAzTuningRC/issues/2): if you gear each motor so they all hit the same top speed, **which one accelerates faster?**
+
+### How the sim works (HS-level explanation)
+
+A brushless motor turns electrical energy into torque. Three things matter:
+
+1. **KV** is a number that says how fast the motor spins per volt of battery, *with no load on it*. A 2400KV motor on a 4S (14.8V) battery will theoretically spin at 2400 × 14.8 = **35,520 RPM** with nothing attached. A 3200KV motor spins at 47,360 RPM. Higher KV = more RPM.
+2. **Torque** is twisting force. The lower the KV, the more torque per amp of current. That's a physics rule called the *torque constant*: `Kt = 60 / (2π × KV)`. So a 2400KV motor makes 33% more torque per amp than a 3200KV motor.
+3. **Gearing** trades RPM for torque. If you use a smaller pinion gear, the motor spins more times per wheel rotation — that multiplies torque at the wheel but slows the wheel down. Bigger pinion = faster wheel, less torque.
+
+To make two motors hit the same top speed, the higher-KV motor needs a smaller pinion (less torque multiplication) and the lower-KV motor needs a bigger pinion (more torque multiplication). **At equal top speed, the wheel torque ends up theoretically equal**.
+
+So what's the difference in real life? **Current draw and heat.** A lower-KV motor needs less current to make the same wheel torque. Less current = less waste heat (heat in the windings is `Power_lost = I² × R` — square the current, multiply by resistance). The ESC's current limit also caps how hard each motor can pull.
+
+### Physics in the sim
+
+Per simulation timestep (1 millisecond):
+- Compute motor RPM from wheel speed × gear ratio
+- Compute back-EMF (the voltage the motor generates as it spins): `V_bemf = V_battery × (RPM_now / RPM_no_load)`
+- Compute current: `I = (V_battery − V_bemf) / R_motor`, capped at the ESC limit (120 A for the Fire Phoenix)
+- Compute torque: `T_motor = Kt × I`
+- Multiply by gear ratio and drivetrain efficiency → wheel torque
+- Divide by wheel radius → driving force
+- Subtract aerodynamic drag (`½ × ρ × Cd·A × v²`) and rolling resistance → net force
+- Acceleration = net force / mass; integrate to get next speed
+
+Inputs (matched to the FastAzJato4x4):
+- 4S nominal voltage: **14.8 V**
+- Vehicle mass with battery: **6.5 lb / 2.95 kg**
+- Wheel diameter: 90 mm (~3.5")
+- Internal transmission: 2.78:1 (Slash/Jato 4x4)
+- Spur: 50T 32P
+- ESC current limit: **120 A** (Fire Phoenix)
+- Drag coefficient × frontal area: 0.012 m² (typical 1/10)
+- Rolling resistance coefficient: 0.04 (offroad)
+- Drivetrain efficiency: 85%
+
+Motor parameters (KV, internal resistance, pinion):
+| Motor | KV | R (Ω) | Pinion |
+|---|---|---|---|
+| Castle 1412 3200KV | 3200 | 0.0055 | 15T |
+| Castle 1415 2400KV | 2400 | 0.0080 | 20T |
+| Castle 1412 2100KV | 2100 | 0.0085 | 22T |
+
+Resistance values are educated estimates — Castle doesn't publish R for surface motors. Used Hobbywing's published G3 numbers as a sanity check.
+
+### Results
+
+```
+Motor                                  FDR    Vmax   0-20mph  0-30mph  0-40mph  PeakA  PeakHeat
+Castle 1412 3200KV (15T pinion)        9.27   53.7   0.43s    0.65s    0.87s    120A    79W
+Castle 1415 2400KV (20T pinion)        6.95   53.6   0.43s    0.65s    0.87s    120A    115W
+Castle 1412 2100KV (22T pinion)        6.32   51.6   0.41s    0.62s    0.83s    120A    122W
+```
+
+<p align="center"><img src="src/motor_sim_4s_acceleration.png" width="700"></p>
+
+### What the sim says
+
+- **Top speed is basically equal** — all three motors hit ~52-54 mph because we deliberately geared them that way. The 2100KV is slightly slower because at 22T it's geared just a hair shorter.
+- **0-x mph times are within 20 ms of each other** — when the ESC current limit is the bottleneck (which it is for all three during acceleration), they all accelerate at the same rate. The wheel torque produced is the same because `T_wheel = T_motor × gear_ratio` and the math works out identical when all are at the same current limit.
+- **Heat is where they actually differ** — but **opposite of what intuition says**:
+  - 3200KV at 120 A: 120² × 0.0055 Ω = **79 W of heat**
+  - 2400KV at 120 A: 120² × 0.0080 Ω = **115 W of heat**
+  - 2100KV at 120 A: 120² × 0.0085 Ω = **122 W of heat**
+  - The lower-KV motors have *higher* internal resistance, so at the same current they dissipate more heat in the windings.
+
+### Real-world caveats (where the sim oversimplifies)
+
+This sim is a clean acceleration model. It misses two big real-world effects that swing things the OTHER direction:
+
+1. **Iron losses (eddy currents) scale with RPM.** Higher-KV motors spin faster, so they have more iron loss at any given speed. The sim only tracks copper loss (I²R). In practice, eddy currents add a major heat term for high-KV motors that's not in the chart.
+2. **Sustained cruise current is higher for high-KV motors.** Once you're at cruise speed (not accelerating), the higher-KV motor needs more current to overcome drag because its torque-per-amp is lower. The sim's heat numbers are only valid for the brief acceleration spike — sustained heat over 5 minutes of running tells a very different story (3200KV runs hotter than 2400KV in real-world testing).
+
+So the sim's answer "the lower-KV motors dissipate more heat in the windings during acceleration" is true in the narrow acceleration window, but in steady-state driving the higher-KV motors generate more heat overall — which is why the community consensus is 2400KV for 4S in this class.
+
+### Running the sim yourself
+
+The script is at [`sim/motor_acceleration_sim.py`](sim/motor_acceleration_sim.py). To run:
+
+```bash
+pip install numpy matplotlib
+python3 cars/FastAzJato4x4/sim/motor_acceleration_sim.py
+```
+
+It'll print the table and save a fresh chart to `cars/FastAzJato4x4/src/motor_sim_4s_acceleration.png`. Tweak the `MOTORS`, `MASS_LB`, `WHEEL_DIAM_MM`, or `I_LIMIT` constants at the top to model your own setup.
+
+---
+
 ## KV Reference
 
 KV is a no-load speed rating — same top speed at same KV on same voltage. The differences between options at the same KV are torque, heat, and efficiency (stator size, lamination quality, how the motor is wound for the voltage).

@@ -61,6 +61,20 @@ relevant tangents come up during research (e.g. chassis weights came
 up while analyzing shock towers), drop them — don't append a "related
 research" section. Keep the doc tight on its subject.
 
+**Simulations.** When a physics simulation helps answer a build
+question, save the script under `cars/<CarName>/sim/` with a
+descriptive name (e.g. `motor_acceleration_sim.py`), generate any
+output charts into `cars/<CarName>/src/` per the image naming scheme,
+and document it as a section in the relevant `<part>_analysis.md`.
+The doc section should:
+1. State the question the sim answers (and link to a GitHub issue if
+   one exists).
+2. Explain the physics in plain language a HS student can follow.
+3. List inputs and parameters with units.
+4. Show results (table + embedded chart from `src/`).
+5. Call out caveats and what the sim oversimplifies.
+6. Tell the reader how to re-run the script with the deps and command.
+
 ### Document structure
 
 1. **Title** — `# <PartType> Selection — <CarName>`
