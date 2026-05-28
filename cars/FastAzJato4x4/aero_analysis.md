@@ -49,7 +49,7 @@
 | Mount | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | **OEM Jato 4x4 wing mount** TRA9046 (mounts to #9034 rear tower) | **Chosen** | Pro: Direct fit to the chosen Jato stock rear tower (#9034). No modifications. $7.00 from AMain Hobbies<br>Con: **Shocks end up on the back side of the car** in the Jato 4x4 geometry — exposed to rear-end impact damage. User has cracked shock bodies this way before | <a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="300"></a> |
-| ~~**STRC ST6808B backflash conversion kit**~~ | Vetoed | Pro: Repositions shocks to centered geometry — better rear-end crash protection<br>Con: **$66.99 for a full CNC aluminum kit.** Any broken piece requires buying the whole kit again (or swapping back to plastic) — parts aren't sold separately. Adds unnecessary weight; the wing mount is the only relevant piece here, and OEM does that job for $7.00 | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/aero_strc_st6808b_backflash_conversion.jpg` |
+| ~~**STRC ST6808B backflash conversion kit**~~ | Vetoed | Pro: Repositions shocks to centered geometry — better rear-end crash protection<br>Con: **$66.99 for a full CNC aluminum kit.** Any broken piece requires buying the whole kit again (or swapping back to plastic) — parts aren't sold separately. Adds unnecessary weight; the wing mount is the only relevant piece here, and OEM does that job for $7.00 | <img src="src/aero_strc_st6808b_backflash_conversion.jpg" width="300"> |
 
 ---
 
