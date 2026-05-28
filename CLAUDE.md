@@ -92,13 +92,13 @@ The doc section should:
 ```
 | Requirement | Type | Why |
 |---|---|---|
-| **<requirement>** | Must / May / Should Not | <one-line reason> |
+| **<requirement>** | Must / May | <one-line reason> |
 ```
 
 - **Must** = hard requirement; any option that fails it is automatically Ruled Out.
 - **May** = preference / nice-to-have; missing it doesn't disqualify.
-- **Should Not** = anti-property to actively avoid. An option that has it isn't auto-vetoed (sometimes it's the only way to meet a Must), but it pushes toward Vetoed and the row needs a Pro that outweighs it.
 - List each requirement once — don't repeat the same requirement in different words across multiple rows.
+- Anti-properties (things to avoid, like "made of metal" for bumpers) belong in the Comparison table's Pros/Cons cell on the affected rows, not as a separate Requirement row.
 
 ### Comparison table
 
