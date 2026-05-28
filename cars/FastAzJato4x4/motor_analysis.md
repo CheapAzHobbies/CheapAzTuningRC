@@ -49,13 +49,26 @@ The original target was 3200KV — same as the Slash 4x4. In practice the Castle
 
 ### Community Consensus (4S)
 
-| Platform | Recommended KV on 4S | Notes |
-|----------|---------------------|-------|
-| Slash 4x4 | 2400KV | Sweet spot, runs cool, no fan needed with conservative gearing. 3200KV works but runs hot |
-| E-Jato / Jato 4x4 electric | 2200KV | All-day running, no heat issues. 3000KV+ needs cooldown breaks |
-| True 1/8 buggy (heavier) | 1900-2200KV | 1900KV is most common race setup; higher KV on heavier chassis just adds heat |
+| KV | Character | Notes |
+|----|-----------|-------|
+| **1900-2200KV** | Smooth, all-day cool | Common race setup on true 1/8 buggies; light on the Jato 4x4 — usable but leaves performance on the table |
+| **2400KV** | Cool, balanced | Slash 4x4 / e-Jato sweet spot. No fan needed with conservative gearing. Strong torque |
+| **3000KV** | Borderline | Works but needs cooldown breaks and conservative gearing |
+| **3200KV** | **Super pipey**, runs hot | Sudden / peaky power delivery, lots of top end. Generally needs a fan on 4S. What's currently in the in-hand Castle 1412 |
 
-The FastAzJato4x4 is lighter than a true 1/8 buggy, so **2400KV is at or just above the community-preferred range** for this weight class. A 1412 3200KV running hot on 4S isn't a setup problem — it's a physics problem. Dropping to 2400KV with G3 laminations eliminates the eddy-current losses driving the heat, and a fan becomes unnecessary weight and a mud magnet.
+The FastAzJato4x4 is lighter than a true 1/8 buggy, so **2400KV is at or just above the community-preferred range** for this weight class. A 1412 3200KV running hot on 4S isn't a setup problem — it's a physics problem. Dropping to 2400KV with G3 / 4-pole 12-slot laminations eliminates the eddy-current losses driving the heat, and a fan becomes unnecessary.
+
+### Open question: 2400KV vs 3200KV geared to the same top speed — which accelerates faster?
+
+If both motors are geared (different pinion) to hit the same top speed:
+- The 3200KV motor uses a smaller pinion (higher gear reduction) — gear ratio multiplies torque at the wheels
+- The 2400KV motor uses a bigger pinion (lower gear reduction) — less mechanical advantage but the motor itself is more efficient and generates more torque per amp
+
+Conventional wisdom is mixed:
+- "Pipey" higher-KV motors with strong gearing-down often punch harder off the corner but run hotter and draw more amps
+- Lower-KV motors with less gearing-down tend to be smoother and more efficient, often comparable or slightly slower in 0-x accel but with way better thermal headroom
+
+**TODO**: Verify with actual run data — would need timed acceleration runs with 1412 3200KV (e.g. 15T pinion) vs 1415 2400KV (e.g. 19-21T pinion) on the same battery / track to settle it for this build.
 
 ---
 
