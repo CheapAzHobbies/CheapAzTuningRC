@@ -1,6 +1,8 @@
 # Motor Selection — FastAzJato4x4
 
-> **Leaning toward: Castle Creations 1415 2400KV** — 4S native, runs cool (the original reason to drop the 3200KV), no proprietary connector. Pairs natively with the chosen Fire Phoenix ESC over standard JST-ZH. Castle 1412 3200KV is in hand and works, but runs hot on 4S and requires a fan; the 1415 2400KV is the clean upgrade path.
+> **Leaning toward: Castle Creations 1415 2400KV — 5mm shaft (#060-0067-00)** — 4S native, runs cool without a fan, 5mm shaft (preferred), modern 4-pole 12-slot design, rebuildable, pairs natively with the chosen Fire Phoenix ESC over standard JST-ZH. The Castle 1412 2100KV 5mm (#060-0095-00) is a strong runner-up — even cooler running, lighter (265 g vs 318 g), cheaper ($124.95 vs $134.95), but slightly less top end.
+>
+> Castle 1412 3200KV is in hand and works, **but** runs hot on 4S and needs a fan. Once you add the Surpass twin-fan + heatsink rig (~50 g), the 1412 + cooling weighs ~315 g — basically the same as a 1415 2400KV bare (318 g), with all that mass sitting **up high on the motor** where it hurts handling. Reducing the cooling rig = reducing complexity = **cool**. Badum tss. 🥁
 
 <p align="center"><img src="src/electronics_castle_1415_2400kv.jpg" width="600"></p>
 
