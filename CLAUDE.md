@@ -42,6 +42,14 @@ The user's friend Mike has related builds (FastAzJato4x4 is co-developed with hi
 - Multi-pack entries (e.g. `TATTU ... ×6`) get one row per pack with `#1`, `#2`, etc. suffix so per-pack cycles stay distinct.
 - Energizer AA "silver" cells are **NiMH** despite the user sometimes calling them "Lithium".
 
+## Image handling
+
+The user often uploads images inline that need to be saved into a car's `src/` folder.
+
+- Image naming convention is in `CONTRIBUTING.md` — `[section]_[part-description]_[part-number].[ext]`, all lowercase with underscores.
+- If the md file already references an image path (e.g. `src/suspension_shock_tower_stock_front.jpg`), **rename incoming images to match that exact path** rather than inventing a new name.
+- If no path is referenced yet, follow the CONTRIBUTING.md naming scheme and update the md file to point at the new filename in the same commit.
+
 ## Commit messages
 
 - Short imperative title (≤ 70 chars), then a one- or two-sentence body explaining the why.
