@@ -12,6 +12,17 @@
 
 ---
 
+## Table of Contents
+
+- [Key Requirements](#key-requirements) — Must / May criteria for the tower pick
+- [Shock Tower Comparison](#shock-tower-comparison) — every tower option with specs and status
+- [Material Properties (Reference)](#material-properties-reference) — density, failure mode, aluminum nuance
+- [Detailed Notes](#detailed-notes) — bullet specs per option
+- [Related: Tower Bracing (Optional)](#related-tower-bracing-optional) — Traxxas TRA9061 brace analysis
+- [Sources](#sources)
+
+---
+
 ## Key Requirements
 
 | Requirement | Type | Why |

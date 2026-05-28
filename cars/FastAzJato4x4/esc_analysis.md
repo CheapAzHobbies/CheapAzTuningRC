@@ -6,6 +6,16 @@
 
 ---
 
+## Table of Contents
+
+- [Key Requirements](#key-requirements) — Must / May criteria
+- [ESC Comparison](#esc-comparison) — every ESC option with specs and status
+- [Sensor Connector Compatibility](#sensor-connector-compatibility) — motor ↔ ESC plug matrix
+- [Detailed Notes](#detailed-notes) — bullet specs per ESC
+- [Summary](#summary) — head-to-head recap table
+
+---
+
 ## Key Requirements
 
 | Requirement | Type | Why |
