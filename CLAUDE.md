@@ -108,6 +108,7 @@ Rules:
   ```
 - **Chosen row in the table**: include the photos in the Photo cell too — don't write "see hero above". The table should be self-contained.
 - **Same-brand, cross-platform parts**: if a brand sells two variants for similar-but-different cars (e.g. GPM SLA028 for Slash 4x4 vs TJ028 for Jato 4x4), split into two rows — the right-fit row gets its own status, the wrong-fit row is `Ruled Out` for geometry mismatch and exists to warn future readers not to order it.
+- **Shared photos**: when several rows are physically the same part with different windings or trim (e.g. Hobbywing EZRun 3665SD G3 in 2400 / 3200 / 4000KV — same can, different windings), use the same `src/` image for all of them. The leading row gets the `<img>` tag; later rows show `(reuses src/<filename>)` to make the relationship obvious without duplicating the photo.
 - **Missing photos**: if no image exists yet, use a placeholder so the user knows one is needed — never use a bare `—`. Format:
   ```html
   <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/<expected-filename>.jpg`

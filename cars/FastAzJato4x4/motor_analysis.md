@@ -15,6 +15,9 @@
 | **2200–3200KV** | Must | Target range for 4S on a 1/10-class chassis. Below 2200 = sluggish; above 3200 = too hot on 4S even with a fan |
 | **Sensored** | Must | Smooth starts, no cogging, low-speed control on the chosen Fire Phoenix ESC |
 | **Standard sensor connector (JST-ZH or Castle native)** | Must | Fire Phoenix uses JST-ZH; proprietary Hobbywing G3 plugs require a $-and-cable adapter |
+| **Rebuildable / serviceable** | Must | Bearings and brushes wear; motor has to come apart for maintenance, not get thrown away |
+| **Documented bearing sizes** | Must | So replacement bearings can be sourced from any bearing supplier without guessing |
+| **Solder tabs (not pre-wired)** | Must | Wires must terminate at solder tabs inside the can. Motors with wires running directly out of the body can't be re-wired without surgery if a wire pulls out |
 | **Runs cool on 4S without a fan** | May | Strong preference. A fan is added weight, mud trap, failure point. 2400KV-class with modern (G3 / 4-pole) laminations runs cool on 4S; 3200KV-class generally needs cooling |
 | **Splash / dust resistance** | May | Nice for offroad / wet conditions but build is mostly track |
 | **Lightweight** | May | Lower mass helps acceleration and handling, especially in a 1/10-class chassis |
@@ -28,12 +31,12 @@
 
 | Motor | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **Castle Creations 1412** | KV: 3200KV<br>Stator: 36x50mm<br>Weight: 265g<br>Cells: 4S (with care)<br>Sensored: Yes (Castle / JST-ZH compat)<br>Price: $0 (in hand) | **In Hand** | Pro: Free, proven on 4S, no regearing, lightest 4S option<br>Con: Runs hot on 4S — needs a fan; no IP rating; older lamination tech | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_castle_1412_3200kv.jpg` |
-| **Castle Creations 1415 2400KV** | KV: **2400KV**<br>Stator: **36x69.5mm**<br>Weight: **318g**<br>Cells: **3-4S**<br>Sensored: **Yes (Castle / JST-ZH compat)**<br>Price: **~$80** | **Candidate** | Pro: 4S native, 2400KV runs cool without a fan, longer can = more torque, native pair with Fire Phoenix<br>Con: Heaviest 4S Castle option, no IP rating, requires regearing for top speed | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_castle_1415_2400kv.jpg` |
-| ~~HobbyWing EZRun 3665SD G3 2400KV~~ | KV: 2400KV<br>Stator: 36x65mm<br>Weight: 305g<br>Cells: 2-4S<br>Sensored: Yes (**proprietary G3 plug**)<br>Price: ~$65 | **Vetoed** | Pro: Only Hobbywing option with 4S + IP64, G3 thin laminations<br>Con: **Proprietary G3 sensor plug — needs HWA30810007 adapter for the chosen Fire Phoenix ESC.** Adapter cost and one more failure point | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_hobbywing_ezrun_3665sd_g3_2400kv.jpg` |
-| ~~HobbyWing EZRun 3652SD G3~~ | KV: 3300KV<br>Stator: 36x52mm<br>Weight: 227g<br>Cells: **3S max**<br>Sensored: Yes (JST-ZH)<br>Price: ~$60 | **Ruled Out** | Pro: Lightest motor in the group, G3 laminations<br>Con: **3S max — fails the 4S Must** | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_hobbywing_ezrun_3652sd_g3.jpg` |
-| ~~HobbyWing EZRun 3665SD G3 3200KV~~ | KV: 3200KV<br>Stator: 36x65mm<br>Weight: 305g<br>Cells: **3S max**<br>Sensored: Yes (proprietary G3 plug)<br>Price: ~$65 | **Ruled Out** | Pro: IP64, largest stator, G3 laminations<br>Con: **3S max — fails the 4S Must.** Also has the proprietary plug problem | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_hobbywing_ezrun_3665sd_g3_3200kv.jpg` |
-| ~~HobbyWing XeRun 3660SD G3~~ | KV: 3200KV<br>Stator: 36x60mm<br>Weight: 230g<br>Cells: **3S max**<br>Sensored: Yes (JST-ZH)<br>Price: ~$70 | **Ruled Out** | Pro: Lighter than EZRun 3665, competition-grade G3 laminations<br>Con: **3S max — fails the 4S Must** | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_hobbywing_xerun_3660sd_g3.jpg` |
+| **Castle Creations 1412 3200KV** (#060-0085-00) | KV: 3200<br>Can: 36mm × 62.5mm<br>Weight: 265g (with wires)<br>Cells: **2-4S** (Castle says up to 3S ideal, 4S with conservative gearing)<br>Sensored: Yes (Castle SmartSense / sensored / sensorless)<br>Price: **$0 in hand** (retail $119.95) | **In Hand** | Pro: Free, proven on 4S with Fire Phoenix, no regearing, lightest 4S option, 75,000 max RPM, M3 mount @ 25.4mm spacing<br>Con: Castle explicitly rates it 3S-ideal; 4S "needs conservative gearing and a close eye on temps" — runs hot on 4S in practice, fan basically required | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_castle_1412_3200kv.jpg` |
+| **Castle Creations 1415 2400KV** (#060-0060-00) | KV: **2400**<br>Can: **36mm × 69.5mm** (just under the 70mm Must)<br>Weight: **318g** (with wires)<br>Cells: **3-4S** (4S native, no caveats)<br>Sensored: **Yes — SmartSense / sensored / sensorless; ROAR-standard sensor port**<br>Price: **$129.95** (list $159) | **Candidate** | Pro: 4S native (no conservative gearing required), 2400KV runs cool without a fan, **improved 4-pole 12-slot design with less heat**, **rebuildable** (front bell/bearing or rotor/shaft replaceable), QuietSense sensor noise shielding, 75,000 RPM max, fan optional<br>Con: Heaviest 4S Castle option at 318g, no IP rating, requires regearing for top speed | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_castle_1415_2400kv.jpg` |
+| ~~HobbyWing EZRun 3665SD G3 2400KV~~ (#30402604) | KV: 2400<br>Can: 37mm × 65.8mm<br>Weight: 304.5g<br>Cells: **2-4S**<br>Sensored: Yes (**proprietary G3 plug**)<br>Price: ~$70 (MSRP $120) | **Vetoed** | Pro: 4S + IP67, modular detachable design, **bearings documented** (front 16×5×5 / rear 11×5×5), 4-pole, R = 0.00816Ω<br>Con: **Proprietary G3 sensor plug — needs HWA30810007 adapter for the chosen Fire Phoenix ESC.** Adapter cost and one more failure point | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_hobbywing_ezrun_3665sd_g3.jpg` (same image works for all three 3665 KV variants — physically identical) |
+| ~~HobbyWing EZRun 3652SD G3 3300KV~~ (#30402603) | KV: 3300<br>Can: 37mm × 53mm<br>Weight: 227g<br>Cells: **2-3S max**<br>Sensored: Yes (JST-ZH)<br>Price: ~$60 (MSRP $93) | **Ruled Out** | Pro: Lightest motor in the group, IP67, modular detachable, **bearings documented** (front 13×5×4 / rear 11×5×5), 4-pole<br>Con: **2-3S max — fails the 4S Must.** Hobbywing sells 4100KV and 5400KV variants in this can too, all 3S max or lower | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_hobbywing_ezrun_3652sd_g3.jpg` (same image works for the 4100KV and 5400KV variants too) |
+| ~~HobbyWing EZRun 3665SD G3 3200KV~~ (#30402607) | KV: 3200<br>Can: 37mm × 65.8mm<br>Weight: 304.5g<br>Cells: **2-3S max**<br>Sensored: Yes (proprietary G3 plug)<br>Price: ~$70 (MSRP $120) | **Ruled Out** | Pro: IP67, modular detachable, bearings documented, 4-pole, R = 0.00555Ω<br>Con: **2-3S max — fails the 4S Must.** Also has the proprietary plug problem | (reuses `src/electronics_hobbywing_ezrun_3665sd_g3.jpg` — physically identical to the 2400KV) |
+| ~~HobbyWing XeRun 3660SD G3 3200KV~~ | KV: 3200<br>Can: ~36mm × 60mm<br>Weight: 230g<br>Cells: **3S max**<br>Sensored: Yes (JST-ZH)<br>Price: ~$100 (MSRP $140) | **Ruled Out** | Pro: Lighter than EZRun 3665, competition-grade racing line<br>Con: **3S max — fails the 4S Must** | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_hobbywing_xerun_3660sd_g3.jpg` |
 | ~~Castle Creations 1515 V2~~ | KV: 2200KV<br>Stator: 40x75mm<br>Weight: 429g<br>Cells: 2-6S<br>Sensored: Yes (Castle / JST-ZH compat)<br>Price: ~$100 | **Ruled Out** | Pro: True 1/8 scale, runs 6S, massive torque headroom<br>Con: **40mm can won't fit the Jato chassis** (fails the 36mm-class Must); 429g is overkill | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_castle_1515_v2_2200kv.jpg` |
 
 ---
@@ -71,24 +74,38 @@ The FastAzJato4x4 is lighter than a true 1/8 buggy, so **2400KV is at or just ab
 ### Castle Creations 1412 3200KV — In Hand
 
 - Already owned, proven on 4S with the Fire Phoenix ESC on the Slash 4x4
-- 36×50mm stator — the smallest can in the comparison; lightest 4S option at 265g
-- **Confirmed heat issue on 4S** — requires a cooling fan to stay in safe operating temps in grass / offroad. Fan adds weight, picks up mud / debris, adds a failure point
-- Older lamination technology — the heat isn't gearing, it's eddy-current losses in the stator
-- No splash / dust protection
-- 3200KV on 4S is above what the community recommends for this weight class without active cooling
-- Pairs natively with Fire Phoenix ESC via the JST-ZH sensor connector
+- Castle part **#060-0085-00**; retail **$119.95** (list $146.80)
+- Stator: 1.4" × 1.2" (per Castle naming); **can: 36mm OD × 62.5mm length** — fits the 36mm / ≤70mm Must
+- Weight: **265.4g** (9.4oz) with wires
+- Shaft: 15mm long × 1/8" (3.17mm) diameter
+- Mounting: M3 bolts @ 25.4mm spacing
+- Connectors: 4mm male Castle Bullet Connectors attached to **replaceable 13-gauge wires**; sensor wire 210mm included
+- Max RPM: 75,000
+- **Castle's official application rating**: 1/10 SC trucks / monster trucks / rock racers up to 6.5 lb on **up to 3S LiPo**. Castle says it "can be run on a 4s LiPo with very conservative gearing and keep a close eye on temperatures" — i.e. 4S is out-of-spec but possible if you're careful with gearing and watch temps. Runs hot in practice and basically requires a fan
+- Older lamination tech — the heat isn't gearing, it's eddy-current losses in the stator
+- Sensor board has silicone conformal coating (water-resistant sensor PCB), but sensor connector itself is not water resistant — Castle recommends dielectric grease on connectors after wet running
+- Castle's recommended ESCs for this motor: **Mamba X**, Copperhead 10, Sidewinder 4, Cobra 10 — all confirmed in the ESC analysis
 - $0 — already in hand
 
 ### Castle Creations 1415 2400KV — Candidate (leading)
 
-- 36×69.5mm stator — longer can than the 1412 for more torque
-- 2400KV on 4S is the community sweet spot for cool-running operation without a fan
-- 4S native, no asterisks
-- No IP rating — same as the 1412, no splash protection
-- 318g — heavier than the 1412 (265g) and 3665SD G3 2400KV (305g)
-- Requires regearing to compensate for the lower KV vs the 1412 (3200 → 2400KV)
-- Native JST-ZH sensor connector pairs directly with the chosen Fire Phoenix ESC
-- ~$80 — additional cost over the in-hand 1412
+- Castle part **#060-0060-00**; retail **$129.95** (list $159.00)
+- Stator: 1.4" × 1.5" (per Castle naming); **can: 36mm OD × 69.5mm length** — just under the 70mm Must
+- Weight: **318g** (11.2oz) with wires — heaviest 4S Castle option
+- Shaft: 15.5mm long × 1/8" (3.17mm) diameter
+- Mounting: M3 bolts @ 25mm spacing (note: 25mm vs 1412's 25.4mm — same drill pattern in practice but check before mounting)
+- Connectors: 4mm male Castle Bullet Connectors
+- Max RPM: 75,000
+- **Castle's official rating**: 3S-4S LiPo, 1/10 SC trucks up to 6.5 lb. 4S is native (no "with care" caveat like the 1412)
+- **Improved 4-pole 12-slot design** — better efficiency, runs cooler than the 1412
+- **REBUILDABLE design** — front bell/bearing assembly and rotor/shaft assembly are user-replaceable (meets the serviceability requirement)
+- QuietSense™ tech shields sensors from coil noise; Flux Shield™ + secondary sense magnets for precise startups
+- ROAR-standard sensor port with labeled connections
+- No mechanical timing adjustments needed — sensor alignment handles it automatically
+- Optional cooling fan (Castle says "coming soon" but motor designed to not need one)
+- Sensor board has silicone conformal coating (water-resistant PCB); sensor connector is not water resistant — dielectric grease recommended after wet running
+- Castle's recommended ESCs: **Mamba X**, Sidewinder 4, Cobra 10, Mamba Max Pro, Copperhead 10. Fire Phoenix is not on the official list but uses standard JST-ZH which connects to the included Castle sensor wire
+- $129.95 — additional cost over the in-hand 1412
 
 ### HobbyWing EZRun 3665SD G3 2400KV — Vetoed (proprietary connector)
 
