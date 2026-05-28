@@ -169,12 +169,18 @@ Castle 1412 2100KV (22T pinion)        6.32   51.6   0.41s    0.62s    0.83s    
 
 ### Real-world caveats (where the sim oversimplifies)
 
-This sim is a clean acceleration model. It misses two big real-world effects that swing things the OTHER direction:
+This sim is a clean acceleration model. It misses several real-world effects:
 
-1. **Iron losses (eddy currents) scale with RPM.** Higher-KV motors spin faster, so they have more iron loss at any given speed. The sim only tracks copper loss (I²R). In practice, eddy currents add a major heat term for high-KV motors that's not in the chart.
-2. **Sustained cruise current is higher for high-KV motors.** Once you're at cruise speed (not accelerating), the higher-KV motor needs more current to overcome drag because its torque-per-amp is lower. The sim's heat numbers are only valid for the brief acceleration spike — sustained heat over 5 minutes of running tells a very different story (3200KV runs hotter than 2400KV in real-world testing).
+1. **Launch is traction-limited, not power-limited.** The sim predicts ~3 Nm of wheel torque, which works out to ~2.5 g of peak acceleration on a 6.5 lb car. That's way past what RC tires can put down (~1 g on grippy surface, less offroad). So the first ~0.5 s of any launch in this class is bounded by tire grip, not motor power. All three motors will feel basically identical off the line; the difference only shows up as you build past ~20-25 mph and traction stops being the limit.
+2. **Subjective "punch" still goes to the 3200KV.** Even though stopwatched 0-30 / 0-40 times are within rounding error, the 3200KV with a small pinion magnifies low-RPM torque mechanically and its peak power happens at higher RPM — that's what makes it *feel* pipey on the throttle. The lower-KV motors with bigger pinions hit the same speeds at almost the same time but the power delivery is smoother and less peaky.
+3. **Iron losses (eddy currents) scale with RPM.** Higher-KV motors spin faster, so they have more iron loss at any given speed. The sim only tracks copper loss (I²R). In practice, eddy currents add a major heat term for high-KV motors that's not in the chart.
+4. **Sustained cruise current is higher for high-KV motors.** Once you're at cruise speed (not accelerating), the higher-KV motor needs more current to overcome drag because its torque-per-amp is lower. The sim's heat numbers are only valid for the brief acceleration spike — sustained heat over 5 minutes of running tells a very different story (3200KV runs hotter than 2400KV in real-world testing).
+5. **The 120A current cap is specific to the Fire Phoenix ESC.** Castle ESCs (Mamba X, Cobra, Copperhead) effectively don't enforce a hard current limit — they let the motor pull what it needs until thermal cutoff or something else gives. With a Castle ESC the 3200KV would pull *higher* peak current and accelerate harder than the sim shows; the lower-KV motors would also pull more but less, because their Kt is higher and they don't need as many amps for the same torque.
+6. **Castle understates their ratings.** Castle motors are widely known to handle more current and heat than the spec sheet suggests. The 1412 / 1415 rated at 75,000 max RPM and 6.5 lb max racing weight will, in practice, take more abuse than that without dying. Treat Castle specs as conservative floors, not ceilings.
 
-So the sim's answer "the lower-KV motors dissipate more heat in the windings during acceleration" is true in the narrow acceleration window, but in steady-state driving the higher-KV motors generate more heat overall — which is why the community consensus is 2400KV for 4S in this class.
+So the sim's answer "the lower-KV motors dissipate more heat in the windings during acceleration" is true in the narrow acceleration window with a current-limited ESC, but in steady-state driving the higher-KV motors generate more heat overall — which is why the community consensus is 2400KV for 4S in this class. And with an uncapped Castle ESC, the acceleration delta would widen *and* the heat delta would widen along with it.
+
+**The clean way to settle this empirically is the [GitHub issue #2 test plan](https://github.com/CheapAzHobbies/CheapAzTuningRC/issues/2)**: time both motors over the same distance with the same battery and surface, log motor temps after a fixed run.
 
 ### Running the sim yourself
 
