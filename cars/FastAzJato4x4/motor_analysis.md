@@ -226,9 +226,13 @@ The 4-banger analogy extends to the car. **High-revving small engines work best 
 
 The Jato 4x4 platform happens to be **lighter than typical 1/8 CF race chassis** (Tekno, Mugen, etc., which are designed for the heft of true 1/8-scale buggies). So the FastAzJato4x4 isn't carrying around the mass that justifies a bigger V8-style motor. A small high-revving motor in a light chassis is the matched pairing — exactly the same logic as why a sport coupe outruns a muscle car on a twisty track.
 
+### Speed-run community validation
+
+There's a reason **Castle motors are used in speed runs more often than any Hobbywing motor**. Speed runs are about pure top-end RPM — long straight, no climbing, no need for sustained torque. The winning recipe is the highest safe RPM × the highest stable voltage. That's exactly Castle's territory: smaller rotor → higher max RPM → more top speed when the chassis is geared for it. Hobbywing's bigger rotors are built for the opposite use case (heavy 1/8 trucks needing torque under load) and run into their wrap limit before they can spin to a speed-run RPM. The speed-run community converged on Castle the same way the math points — and for the same reason.
+
 ### Takeaway
 
-The marketing-driven "bigger is better" assumption falls apart once you look at the max RPM data and remember the chassis is the constraint, not the motor. **Smaller-but-faster-revving wins on a chassis that doesn't need 1/8-scale torque.**
+The marketing-driven "bigger is better" assumption falls apart once you look at the max RPM data and remember the chassis is the constraint, not the motor. **Smaller-but-faster-revving wins on a chassis that doesn't need 1/8-scale torque** — exactly what speed runners (and a light 1/10 4S racing build) actually want.
 
 ---
 
