@@ -16,6 +16,7 @@
 
 | Requirement | Type | Why |
 |---|---|---|
+| **Jato 4x4 / Slash 4x4 chassis pattern** | Must | Must be specifically for the 4x4 platform — 2WD chassis have different mount spacing and will not work |
 | **Accepts standard Traxxas Jato 4x4 parts** | Must | Gearbox housings, bulkheads, shock mounts, bumper mounts — all stock Traxxas hardware must bolt on without modification |
 | **Carbon fiber** | May | Light + stiff, ideal for this build — but the hard requirement is fit, not material |
 | **Cheap** | May | Arms are the intended fuse, chassis should last — but ≤$150 keeps the "just buy another one" option open if something goes wrong |
