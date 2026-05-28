@@ -1,6 +1,16 @@
 # Aero (Wing + Wing Mount) Selection — FastAzJato4x4
 
-> **Chosen: AliExpress generic wing + OEM Jato 4x4 wing mount (TRA9046)** — wing is cheap, replaceable, and lighter than OEM; already in hand. OEM mount bolts directly to the stock Jato rear tower (#9034), no extra hardware. STRC ST6808B vetoed: $66.99 buys a full CNC aluminum kit, but any broken piece means buying the whole kit again or swapping to plastic — unnecessary weight and expense when the wing mount is the only piece that matters here. Wing holes drilled with a reamer (not a drill) using the grid pattern on the underside — cleaner holes, better precision, less risk of cracking the nylon.
+> **Chosen: AliExpress generic wing + OEM Jato 4x4 wing mount (TRA9046)** — wing is cheap, replaceable, and lighter than OEM; already in hand. OEM mount bolts directly to the stock Jato rear tower (#9034), no extra hardware. Wing angle adjustability achieved with **3D printed angle shims** — no need for a fancier mount. Wing holes drilled with a reamer using the grid pattern on the underside — cleaner holes, less risk of cracking the nylon.
+
+<p align="center">
+  <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="600"></a><br>
+  <em>AliExpress 1/8 Buggy Wing (chosen)</em>
+</p>
+
+<p align="center">
+  <a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="600"></a><br>
+  <em>OEM Jato 4x4 Wing Mount TRA9046 (chosen)</em>
+</p>
 
 ---
 
@@ -48,10 +58,10 @@
 
 | Mount | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| **OEM Jato 4x4 wing mount** TRA9046 (mounts to #9034 rear tower) | **Chosen** | Pro: Direct fit to the chosen Jato stock rear tower (#9034). No modifications. $7.00 from AMain Hobbies<br>Con: **Shocks end up on the back side of the car** in the Jato 4x4 geometry — exposed to rear-end impact damage. User has cracked shock bodies this way before. **Non-adjustable** — fixed wing angle, no tuning | <a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="300"></a> |
+| **OEM Jato 4x4 wing mount** TRA9046 (mounts to #9034 rear tower) | **Chosen** | Pro: Direct fit to the chosen Jato stock rear tower (#9034). No modifications. $7.00 from AMain Hobbies. **Wing angle adjustable via 3D printed shims** — print different angles as needed, no fancy mount required<br>Con: **Shocks end up on the back side of the car** in the Jato 4x4 geometry — exposed to rear-end impact damage. User has cracked shock bodies this way before | <a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="300"></a> |
 | ~~**Team Losi 8ight Wing Mount** TLR341005~~ | Vetoed | Pro: Clean sandwich-plate install between wing and rear tower<br>Con: **$27.99 from AMain** — not worth it. **Non-adjustable** and still requires fabricating a sandwich plate. Ships in 7-8 days | <img src="src/aero_losi_8ight_wing_mount_tlr341005.webp" width="300"> |
 | ~~**Traxxas Sledge wing mount** TRA9518~~ | Vetoed | Pro: $6.00 from HobbyTown, pairs with TRA9517 wing<br>Con: **Non-adjustable.** Requires fabricating a sandwich plate — adds complexity. **Metal plate sits high up on the car — bad for CG.** Not worth the trade-off | <img src="src/aero_traxxas_sledge_wing_mount_tra9518.jpg" width="300"> | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/aero_losi_8ight_wing_mount.jpg` |
-| **HPI Vorza Flux Buggy Wing Mount** #67521 | Candidate | Pro: Uses the original stock Jato **rear** shock tower (#9034) — no tower swap needed. From the same platform as the HB D8 shocks. Likely adjustable unlike the OEM Jato and STRC options. $8.75 from PowerHobby, in stock. Long-running part — been available for years<br>Con: Mounting hole pattern to Jato tower not yet confirmed — verify before ordering | <img src="src/aero_hpi_vorza_flux_wing_mount_67521.webp" width="300"> |
+| ~~**HPI Vorza Flux Buggy Wing Mount** #67521~~ | Candidate | Pro: Uses the original stock Jato **rear** shock tower (#9034) — no tower swap needed. From the same platform as the HB D8 shocks. Likely adjustable unlike the OEM Jato and STRC options. $8.75 from PowerHobby, in stock. Long-running part — been available for years<br>Con: Mounting hole pattern to Jato tower not yet confirmed — verify before ordering | <img src="src/aero_hpi_vorza_flux_wing_mount_67521.webp" width="300"> |
 | ~~**STRC ST6808B backflash conversion kit**~~ | Vetoed | Pro: Repositions shocks to centered geometry — better rear-end crash protection<br>Con: **$66.99 for a full CNC aluminum kit.** Any broken piece requires buying the whole kit again (or swapping back to plastic) — parts aren't sold separately. Adds unnecessary weight; the wing mount is the only relevant piece here, and OEM does that job for $7.00. **Non-adjustable** — same fixed-angle limitation as OEM | <img src="src/aero_strc_st6808b_backflash_conversion.jpg" width="300"> |
 
 ---
