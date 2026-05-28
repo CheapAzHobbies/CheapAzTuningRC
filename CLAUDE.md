@@ -54,13 +54,35 @@ The user often uploads images inline that need to be saved into a car's `src/` f
 
 When the user asks for a part-selection comparison, save it as
 `cars/<CarName>/<part>_analysis.md` (alongside `motor_analysis.md`,
-`esc_analysis.md`, `shock_tower_analysis.md`). Use this table format
-so all comparison tables look the same:
+`esc_analysis.md`, `shock_tower_analysis.md`).
+
+### Document structure
+
+1. **Title** — `# <PartType> Selection — <CarName>`
+2. **Lead recommendation blockquote** — one paragraph: `> **Chosen / Leaning toward: <name>** — short reason`
+3. **Hero image** of the chosen / leading item at 600px wide, with product-page link. Skip if no image exists yet.
+4. `---`
+5. **Key Requirements table** (see below)
+6. **Comparison table** (see below)
+7. Detailed per-item notes, sensor compatibility, summary, etc. as needed
+
+### Key Requirements table
+
+```
+| Requirement | Type | Why |
+|---|---|---|
+| **<requirement>** | Hard / Soft | <one-line reason> |
+```
+
+Each requirement listed once — don't repeat the same requirement in different
+words across multiple rows.
+
+### Comparison table
 
 ```
 | <PartType> | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **Brand Model** | Key: value<br>Key: value<br>... | **In Hand** / **Candidate** / Ruled Out | Pro: ...<br>Con: ... | <a href="<product-page-url>"><img src="src/<image-filename>" width="300"></a> |
+| **Brand Model** | Key: value<br>Key: value<br>... | **Chosen** / **In Hand** / **Candidate** / **Vetoed** / Ruled Out | Pro: ...<br>Con: ... | <a href="<product-page-url>"><img src="src/<image-filename>" width="300"></a> |
 ```
 
 Rules:
@@ -73,7 +95,7 @@ Rules:
   - `Ruled Out` — hard technical dealbreaker (e.g. wrong voltage, won't fit)
 - **Row order**: Chosen / In Hand / Candidate rows at the top of the table, Vetoed / Ruled Out rows at the bottom. Strike through the row label with `~~name~~` for Vetoed and Ruled Out.
 - **Pros / Cons**: single cell with `Pro: ...<br>Con: ...`. Keep both on the same row even when one is short.
-- **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="300"></a>`. 300px is large enough to read on mobile. Use a local `src/` image when one exists; fall back to an external image only if no local one is available. Use `—` if no photo or link yet.
+- **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="300"></a>`. 300px in the table is large enough to read on mobile; 600px for the hero image of the chosen item. Use a local `src/` image when one exists; fall back to an external image only if no local one is available. Use `—` if no photo or link yet.
 - **Consistency audit**: claims like "lightest", "cheapest", "highest amp" must be checked against the actual numbers in the table. If multiple rows make conflicting claims, fix them (e.g. "lightest waterproof option" or "lightest 6S-capable" — narrow the claim instead of dropping it).
 - **Filename**: image names follow the image scheme above (`[section]_[brand]_[description]_[part-number].[ext]`).
 

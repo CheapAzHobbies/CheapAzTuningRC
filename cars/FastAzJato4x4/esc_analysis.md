@@ -2,15 +2,18 @@
 
 > **Chosen: Fire Phoenix XeRun 120A Enhanced (Speed Dragon)** — already in hand, fully waterproof (user-verified full submersion), sensored JST-ZH, proven on 4S with 3200KV on Slash 4x4. Zero additional spend. Works natively with Castle 1412 / 1415 and standard Hobbywing motors.
 
+<a href="https://www.aliexpress.com/item/4001205164437.html"><img src="src/electronics_firephoenix_xerun_120a_esc.jpg" width="600"></a>
+
 ---
 
 ## Key Requirements
 
-- **4S LiPo** — ESC must support 16.8V input
-- **Sensored** — smooth starts, no cogging; motor sensor connector compatibility matters
-- **Waterproof — hard requirement.** If it's not waterproof it's not being used. Non-waterproof ESCs are ruled out regardless of other specs.
-- **Sensored — hard requirement.** Must support sensored motor operation for smooth starts and low-speed control.
-- **1/10–1/8 scale current capacity** — 36mm stator motors pull significant amps
+| Requirement | Type | Why |
+|---|---|---|
+| **4S LiPo support** | Hard | ESC must handle 16.8V input |
+| **Waterproof** | Hard | Non-waterproof ESCs are ruled out regardless of other specs |
+| **Sensored** | Hard | Smooth starts, no cogging, low-speed control. Motor sensor connector compatibility matters |
+| **1/10–1/8 scale current capacity** | Hard | 36mm stator motors pull significant amps |
 
 ---
 
