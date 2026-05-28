@@ -34,6 +34,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
+| **Suspension arms** — FLM Rustler rear extended (USA-made) leading; front + remaining 2 TBD variants pending | Decision pending | TBD | TBD | [`arm_analysis.md`](arm_analysis.md) |
 | **Traxxas #9033 — stock composite front shock tower** | To buy (or pull from spares) | LHS / Traxxas / AMain | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | **Traxxas #9034 — stock composite rear shock tower** | To buy | LHS / Traxxas / AMain | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) — **note: pending [aero cascade decision](aero_analysis.md#shock-tower-compatibility-cascade)** (STRC backflash kit would swap this for older Slash-style tower) |
 | **HPI Apache C1 97mm big-bore shocks (#107365)** — front + rear set | To buy (4× shocks, 2 pairs) | Amazon / Hobby-Sports | $39.98 (2 pairs × $19.99) | [`shock_analysis.md`](shock_analysis.md) |
