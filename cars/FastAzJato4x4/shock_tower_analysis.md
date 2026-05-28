@@ -31,7 +31,7 @@
 
 | Tower | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **Traxxas Stock Composite (#9033 / #9034)** | Material: **Glass-filled nylon**<br>Thickness: **~4mm**<br>Weight: **~30-40 g per tower** (baseline)*<br>Failure mode: **Flexes, then cracks gradually (sacrificial)**<br>Price: **~$6 each** | **Chosen** | Pro: Same density as CFRP so no weight loss at same thickness; cheapest option; **sacrificial** — saves chassis / trans case / arms in a crash; **stocked at every hobby store** — easy to walk in and grab a replacement<br>Con: Less stiff than CF; suspension geometry can shift slightly under heavy shock load | <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="150"> <img src="src/suspension_shock_tower_traxxas_stock_rear_9034.jpg" width="150"><br><em>front #9033 · rear #9034</em> |
+| **Traxxas Stock Composite (#9033 / #9034)** | Material: **Glass-filled nylon**<br>Thickness: **~4mm**<br>Weight: **~30-40 g per tower** (baseline)*<br>Failure mode: **Flexes, then cracks gradually (sacrificial)**<br>Price: **~$6 each** | **Chosen** | Pro: Same density as CFRP so no weight loss at same thickness; cheapest option; **sacrificial** — saves chassis / trans case / arms in a crash; **stocked at every hobby store**; **the "Extreme HD" redesign rarely breaks in practice** — consumable in theory, but Jato 4x4 stock towers hold up surprisingly well<br>Con: Less stiff than CF; suspension geometry can shift slightly under heavy shock load | <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="150"> <img src="src/suspension_shock_tower_traxxas_stock_rear_9034.jpg" width="150"><br><em>front #9033 · rear #9034</em> |
 | ~~G-Maxx Carbon Fiber (front + rear set)~~ | Material: 3K CFRP<br>Thickness: presumed 4mm<br>Weight: **~30-40 g per tower** (≈ stock)*<br>Failure mode: Catastrophic snap (no warning)<br>Price: [$33.29 / set](https://www.ebay.com/itm/236159423243) — set only, no individual towers | **Vetoed** | Pro: Way stiffer than composite per gram, looks cool, matches stock weight<br>Con: **User experience — CF towers basically explode the front end of the Jato 4x4 in a direct tower crash.** The Jato's taller front tower has way more leverage than a Slash 4x4's, so a brittle CF tower destroys the whole front end instead of just cracking. **Set-only — break one tower, buy two**; eBay seller only, no walk-in availability | <a href="https://www.ebay.com/itm/236159423243"><img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="300"></a> |
 | ~~Cobra Racing 7075-T6 Aluminum (set)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: **~55-75 g per tower** (~80% heavier than stock)*<br>Failure mode: Bends or transfers force to mounts<br>Price: $49.95 / set — set only, no individual towers | **Ruled Out** | Pro: Tower itself rarely breaks<br>Con: **Fails the weight Must — ~80% heavier than stock.** Transfers impact straight to the trans case (known Jato killer). Permanent geometry distortion when bent. Set-only purchase; direct from Cobra Racing, no walk-in | <a href="https://cobraracing.net/product/cr-traxxas-jato-bl-2s-vxl-4s-4x4-black-aluminum-shock-towers-complete-set/"><img src="src/suspension_shock_tower_cobra_alum.jpg" width="300"></a> |
 | ~~Powerhobby Aluminum (set)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: **~55-75 g per tower** (~80% heavier than stock)*<br>Failure mode: Transfers force to mounts<br>Price: $39.99 / set — set only, no individual towers | **Ruled Out** | Pro: Cheaper aluminum option than Cobra<br>Con: **Fails the weight Must.** Same aluminum-passes-force-to-trans-case problem. Set-only purchase; Powerhobby online only | <img src="src/suspension_shock_tower_powerhobby_alum.jpg" width="300"> |
@@ -122,6 +122,18 @@
 - **Wrong geometry for the Jato 4x4.** The Slash 4x4 front tower geometry (mount points, height, arm pickup spacing) does not match the Jato 4x4 — these will not bolt up correctly to a Jato chassis
 - Listed here on purpose so they're not mistakenly ordered for a Jato build (they show up first in a lot of GPM searches because they're Slash-line popular)
 - If you want GPM on the Jato, get the Jato-specific GPM tower (see row above)
+
+---
+
+## Related: Tower Bracing (Optional)
+
+Not a tower itself — a separate add-on part that ties the front tower to the chassis for extra rigidity. Tracked here because it's a tower-adjacent decision.
+
+| Brace | Spec | Status | Pros / Cons | Photo / Link |
+|---|---|---|---|---|
+| ~~Traxxas TRA9061 Aluminum Front Shock Tower Brace~~ | Material: 6061-T6 aluminum (anodized, multiple colors)<br>Application: Front tower → chassis tie-in<br>Weight: adds ~15-25 g up high*<br>Price: **$39.95** | **Vetoed** | Pro: Stiffens the front tower / chassis joint, reduces flex under hard landings<br>Con: **Adds aluminum weight right at the top of the car** — same top-heavy / CG problem as aluminum towers. Stock #9033 / #9034 Jato towers rarely break in the first place, so this is bracing a part that already works. **Wildly expensive — $40 for an optional brace, vs $6 for a whole replacement stock tower** | <img src="src/suspension_shock_tower_brace_traxxas_9061.jpg" width="300"> |
+
+\* Weight estimated from material density × part volume; Traxxas does not publish per-part weights for this brace.
 
 ---
 
