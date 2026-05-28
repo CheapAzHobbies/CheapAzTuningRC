@@ -1,6 +1,6 @@
 # Aero (Wing + Wing Mount) Selection — FastAzJato4x4
 
-> **Chosen: AliExpress generic wing + OEM Jato 4x4 wing mount (TRA9046)** — wing is cheap, replaceable, and lighter than OEM; already in hand. OEM mount bolts directly to the stock Jato rear tower (#9034), no extra hardware. Wing angle adjustability achieved with **3D printed angle shims** — no need for a fancier mount. Wing holes drilled with a reamer using the grid pattern on the underside — cleaner holes, less risk of cracking the nylon.
+> **Chosen: AliExpress generic wing + OEM Jato 4x4 wing mount (TRA9046) via Meelobee technique** — best of both worlds. TRA9046 mounts to the Slash 4x4 Extreme HD rear tower using a small custom aluminum plate on top of the tower (not the side). Slash 4x4 tower geometry puts shocks centered and protected from rear-end impact — solves the one Con on the OEM mount. Wing angle adjustable via 3D printed shims. Wing holes drilled with a reamer on the grid pattern. Credit: [Meelobee on r/Traxxas](https://www.reddit.com/r/Traxxas/comments/1mzllk0/slash_4x4_converted_to_backslash/).
 
 <p align="center">
   <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="400"></a>&nbsp;<a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="400"></a><br>
@@ -53,7 +53,7 @@
 
 | Mount | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| **OEM Jato 4x4 wing mount** TRA9046 | **Chosen** | Pro: Direct fit to stock #9034 rear tower, no mods. $7.00. Angle adjustable via 3D printed shims<br><br>Con: Rear shocks exposed to external abuse — crash path puts them at risk. Known tradeoff, may revisit | <a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="500"></a> |
+| **OEM Jato 4x4 wing mount** TRA9046 | **Chosen** | Pro: $7.00. Angle adjustable via 3D printed shims. **Via Meelobee technique: mounts to Slash 4x4 Extreme HD tower using a small aluminum plate on top of the tower** — shocks centered and protected, shock exposure problem fully solved<br><br>Con: Requires fabricating a small aluminum plate (simple flat piece, not complex) | <a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="500"></a> |
 | ~~**Team Losi 8ight Wing Mount** TLR341005~~ | Vetoed | Pro: Clean sandwich-plate install<br><br>Con: $27.99 — not worth it. Non-adjustable, needs a fabricated plate | <img src="src/aero_losi_8ight_wing_mount_tlr341005.webp" width="500"> |
 | ~~**Traxxas Sledge wing mount** TRA9518~~ | Vetoed | Pro: $6.00, pairs with TRA9517<br><br>Con: Non-adjustable, needs a plate. Metal plate high up — bad for CG | <img src="src/aero_traxxas_sledge_wing_mount_tra9518.jpg" width="500"> |
 | ~~**HPI Vorza Flux Buggy Wing Mount** #67521~~ | Vetoed | Pro: $8.75, uses stock #9034 rear tower, likely adjustable<br><br>Con: Fit to Jato tower unconfirmed | <img src="src/aero_hpi_vorza_flux_wing_mount_67521.webp" width="500"> |
@@ -67,12 +67,11 @@ The wing mount choice changes which rear shock tower the build uses, which chang
 
 | Wing mount | Required rear tower | Shock position / Crash exposure | Photo |
 |---|---|---|---|
-| **OEM Jato 4x4 wing mount** | Stock Jato #9034 (chosen in [shock tower analysis](shock_tower_analysis.md)) | **Back side of the car** — shocks angled rearward off the tower<br><br>**Exposed to rear-end impacts** — user has cracked shock bodies (HPI Vorza 97mm) this way | <img src="src/shock_tower_traxxas_jato4x4_rear_spring_backside.jpg" width="500"> |
+| **OEM TRA9046 via Meelobee technique** ✅ Chosen | Slash 4x4 Extreme HD rear tower (part # TBD) + small custom aluminum plate on top | **Centered** — same protected geometry as the Slash 4x4-style tower<br><br>**Protected** — shocks forward of the rear bumper line, not in the crash path | <img src="src/aero_tra9046_meelobee_slash_tower_plate.webp" width="500"><br><em><a href="https://www.reddit.com/r/Traxxas/comments/1mzllk0/slash_4x4_converted_to_backslash/">Meelobee on r/Traxxas</a></em> |
+| OEM TRA9046 on stock Jato #9034 | Stock Jato #9034 | **Back side of the car** — shocks angled rearward off the tower<br><br>**Exposed to rear-end impacts** — user has cracked shock bodies (HPI Vorza 97mm) this way | <img src="src/shock_tower_traxxas_jato4x4_rear_spring_backside.jpg" width="500"> |
 | ~~STRC ST6808B conversion~~ (Vetoed) | Older Slash 4x4-style rear tower | **Centered** — shocks angled forward from the tower toward the chassis<br><br>**Protected** — chassis sits between shocks and the rear bumper line | <img src="src/shock_tower_strc_slash_conversion_shock_forward.jpg" width="500"> |
 
-**This is a real cross-decision constraint** between the aero analysis and the shock tower analysis. The shock tower analysis chose the stock #9034 partly because it's cheap, sacrificial, and 4S-rated for the Extreme HD strength. But that decision assumes the OEM Jato 4x4 wing mount — going with the STRC conversion would force a different rear tower entirely.
-
-**Decision: Path A chosen.** OEM mount + #9034 tower. Rear-shock exposure accepted as a known consumable risk — a shock rebuild is cheap relative to a $66.99 STRC kit that would need full replacement if any piece breaks.
+**Decision: Meelobee technique chosen** — TRA9046 on Slash 4x4 Extreme HD tower via a small aluminum plate on top. Best of both worlds: cheap OEM mount, protected shock geometry, no forced tower swap to an incompatible system. Slash 4x4 Extreme HD rear tower part number TBD — confirm before ordering.
 
 ---
 
