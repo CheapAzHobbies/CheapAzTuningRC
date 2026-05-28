@@ -3,13 +3,8 @@
 > **Chosen: AliExpress generic wing + OEM Jato 4x4 wing mount (TRA9046)** — wing is cheap, replaceable, and lighter than OEM; already in hand. OEM mount bolts directly to the stock Jato rear tower (#9034), no extra hardware. Wing angle adjustability achieved with **3D printed angle shims** — no need for a fancier mount. Wing holes drilled with a reamer using the grid pattern on the underside — cleaner holes, less risk of cracking the nylon.
 
 <p align="center">
-  <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="600"></a><br>
-  <em>AliExpress 1/8 Buggy Wing (chosen)</em>
-</p>
-
-<p align="center">
-  <a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="600"></a><br>
-  <em>OEM Jato 4x4 Wing Mount TRA9046 (chosen)</em>
+  <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="400"></a>&nbsp;<a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="400"></a><br>
+  <em>AliExpress 1/8 Buggy Wing &nbsp;·&nbsp; OEM Jato 4x4 Wing Mount TRA9046</em>
 </p>
 
 ---
