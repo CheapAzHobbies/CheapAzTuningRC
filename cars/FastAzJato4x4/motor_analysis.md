@@ -11,13 +11,16 @@
 | Requirement | Type | Why |
 |---|---|---|
 | **4S LiPo support** | Must | Build runs 4S — motor has to handle 16.8V without burning windings |
-| **36mm-class stator** | Must | Fits the FastAzJato4x4 motor mount; bigger cans (40mm+) won't fit the chassis |
+| **36mm can, ≤70mm overall length** | Must | Physical fit in the FastAzJato4x4 motor mount. 42mm cans technically fit but make the car **fat, heavy, and sluggish** — same goes for anything over ~70mm long |
+| **2200–3200KV** | Must | Target range for 4S on a 1/10-class chassis. Below 2200 = sluggish; above 3200 = too hot on 4S even with a fan |
 | **Sensored** | Must | Smooth starts, no cogging, low-speed control on the chosen Fire Phoenix ESC |
 | **Standard sensor connector (JST-ZH or Castle native)** | Must | Fire Phoenix uses JST-ZH; proprietary Hobbywing G3 plugs require a $-and-cable adapter |
-| **Runs cool on 4S without a fan** | May | A fan is added weight, mud trap, failure point; 2400KV-class motors run cool on 4S, 3200KV-class need cooling |
+| **Runs cool on 4S without a fan** | May | Strong preference. A fan is added weight, mud trap, failure point. 2400KV-class with modern (G3 / 4-pole) laminations runs cool on 4S; 3200KV-class generally needs cooling |
 | **Splash / dust resistance** | May | Nice for offroad / wet conditions but build is mostly track |
 | **Lightweight** | May | Lower mass helps acceleration and handling, especially in a 1/10-class chassis |
 | **Cheap / in hand** | May | $0 if already owned beats $80+ for a new motor |
+
+> **Castle naming convention:** the four-digit Castle model number is stator dimensions in tenths of an inch. **First two digits = stator diameter, last two digits = magnet length.** So a `1412` is a 1.4" diameter × 1.2" magnet stator (35.6mm × 30.5mm internal); a `1415` is 1.4" × 1.5" (35.6mm × 38.1mm); a `1515` is 1.5" × 1.5". The overall **can** is larger than the stator — Castle 14-series motors all use a 36mm OD can; 15-series and 17-series are bigger.
 
 ---
 
@@ -122,6 +125,24 @@ The FastAzJato4x4 is lighter than a true 1/8 buggy, so **2400KV is at or just ab
 - 2-6S rated, ~$100
 - **40mm can won't fit the Jato chassis motor mount — fails the 36mm-class Must**
 - 429g would be massive overkill on a 1/10-class chassis anyway
+
+---
+
+## Pinion Reference (32P, TBD)
+
+Pinion not yet chosen — depends on which motor lands. Spur is the **50T 32-pitch TRA6842R** (same as the K939 setup). Reference table for common 32P pinion sizes:
+
+| Pinion (32P) | FDR with 50T spur | Speed character | Typical motor pairing |
+|---|---|---|---|
+| 13T | 3.85 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused |
+| 15T | 3.33 | Tame, low motor temp | Castle 1412 3200KV starting point — keeps it cooler |
+| 17T | 2.94 | Balanced street / track | 2400KV stock-ish gearing |
+| 19T | 2.63 | Faster, more top end | **Likely starting point for Castle 1415 2400KV** |
+| 21T | 2.38 | High-speed bias | 2400KV with strong battery |
+| 23T | 2.17 | Top-end aggressive | 2200KV on light vehicle |
+| 25T | 2.00 | Speed-run territory | 2200KV-class only — monitor temps |
+
+> FDR (Final Drive Ratio) shown is the spur-to-pinion only; multiply by the internal transmission ratio (~2.78:1 for Slash/Jato 4x4) for the true wheel ratio. Lower FDR = faster top speed but more heat / less torque. Higher FDR = more punch but lower top speed.
 
 ---
 
