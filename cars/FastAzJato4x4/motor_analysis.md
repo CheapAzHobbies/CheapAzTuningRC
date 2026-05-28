@@ -314,11 +314,22 @@ KV is the only variable. **Stator size doesn't appear in this equation.** A 2400
 
 ### So what does a bigger stator actually buy you?
 
-Three things, none of them peak torque:
+Four things, none of them peak torque:
 
-1. **Thermal mass** — more iron = more material to absorb heat before reaching the magnet-demag temperature (~180°F). At the same load, the bigger motor stays cooler longer.
-2. **Saturation headroom** — at very high currents (typically >150A for these motors), iron saturates and torque output flattens out — you pump more amps but don't get proportionally more torque. The bigger stator pushes that saturation point higher. With a 120A ESC limit, you're probably below saturation on all of these motors so this rarely matters.
-3. **Continuous power rating** — same *instant* power, more *sustainable* power. The bigger motor can hold its torque output for minutes; the smaller one wants a fan if you ask the same of it.
+1. **More copper** — a longer can means each winding turn is physically longer, so total wire mass goes up. Same wire gauge, more of it.
+2. **Lower internal resistance (R)** — more copper cross-section = lower R. This is a hidden bonus: at the same current, `P_loss = I² × R` is smaller. The bigger motor **generates less heat per amp in the first place**.
+3. **More thermal mass** — more iron + more copper = more material to absorb that heat before reaching the magnet-demag temperature (~180°F). Plus longer can = more surface area for shedding heat to the air.
+4. **Saturation headroom** — at very high currents (typically >150A for these motors), iron saturates and torque output flattens out — you pump more amps but don't get proportionally more torque. The bigger stator pushes that saturation point higher. With a 120A ESC limit you're probably below saturation on all of these motors, so this rarely matters in this build.
+
+**So "the bigger motor runs cooler" is two compounding effects, not just one:**
+- It produces less heat per amp (lower R)
+- It dissipates the heat it does make better (more thermal mass + more surface area)
+
+Same peak torque per amp either way — but the bigger motor reaches thermal cutoff much later under sustained load.
+
+### The accurate one-liner
+
+> Same KV motors of different lengths have **identical peak torque at any current**. The longer one **runs cooler at that current** (because less I²R loss) **and can hold it longer** (because more thermal mass + surface area).
 
 ### Why people think "bigger = more torque"
 
