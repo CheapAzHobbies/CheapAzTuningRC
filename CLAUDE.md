@@ -101,7 +101,12 @@ Rules:
   - `Ruled Out` — hard technical dealbreaker (e.g. wrong voltage, won't fit)
 - **Row order**: Chosen / In Hand / Candidate rows at the top of the table, Vetoed / Ruled Out rows at the bottom. Strike through the row label with `~~name~~` for Vetoed and Ruled Out.
 - **Pros / Cons**: single cell with `Pro: ...<br>Con: ...`. Keep both on the same row even when one is short.
-- **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="300"></a>`. 300px in the table is large enough to read on mobile; 600px for the hero image of the chosen item. Use a local `src/` image when one exists; fall back to an external image only if no local one is available. Use `—` if no photo or link yet.
+- **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="300"></a>`. 300px in the table is large enough to read on mobile; 600px for the hero image of the chosen item. Use a local `src/` image when one exists; fall back to an external image only if no local one is available.
+- **Missing photos**: if no image exists yet, use a placeholder so the user knows one is needed — never use a bare `—`. Format:
+  ```html
+  <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/<expected-filename>.jpg`
+  ```
+  The expected filename should follow the `[section]_[brand]_[description]_[part-number].[ext]` convention so the user can drop the image straight in.
 - **Consistency audit**: claims like "lightest", "cheapest", "highest amp" must be checked against the actual numbers in the table. If multiple rows make conflicting claims, fix them (e.g. "lightest waterproof option" or "lightest 6S-capable" — narrow the claim instead of dropping it).
 - **Filename**: image names follow the image scheme above (`[section]_[brand]_[description]_[part-number].[ext]`).
 

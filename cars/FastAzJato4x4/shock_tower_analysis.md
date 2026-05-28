@@ -1,16 +1,6 @@
-# Shock Tower Material Research
+# Shock Tower Selection — FastAzJato4x4
 
-Cross-car research on shock tower material choices: stock composite, carbon fiber, aluminum. Applies broadly — Slash 4x4, Jato 4x4, ARRMA platforms, etc.
-
----
-
-## Decision for FastAzJato4x4 (racing): Stock Plastic
-
-Even for the racing build, **stock plastic wins on every axis**:
-
-1. **Same weight** — glass-filled nylon and CFRP have nearly identical density (~1.5 g/cm³). At equal thickness (~4mm), the aftermarket CF tower isn't meaningfully lighter.
-2. **Cheaper** — stock front and rear towers are ~$6 each from Traxxas. CF set is $33+.
-3. **Sacrificial** — Traxxas tuned the tower to break before the chassis or trans case. CF and aluminum shift failure to more expensive parts.
+> **Chosen: Traxxas stock composite (#9033 front + #9034 rear)** — same weight as aftermarket CF at equal thickness, cheapest at ~$6 each, and engineered as a sacrificial part so the chassis and trans case survive a hard crash.
 
 <p align="center">
   <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="300" alt="Traxxas stock front shock tower #9033">
@@ -22,18 +12,32 @@ Even for the racing build, **stock plastic wins on every axis**:
 
 ---
 
-## TL;DR (cross-car)
+## Key Requirements
 
-| Use case | Pick |
-|----------|------|
-| Bashing — want chassis/arms to survive | **Stock composite** |
-| Racing on a Jato 4x4 | **Stock composite** (cheap, sacrificial, same weight as CF) |
-| Racing on a Slash 4x4 (weak stock towers) | **Carbon fiber** |
-| Speed run / cosmetics only | Aluminum (don't use for bashing) |
+| Requirement | Type | Why |
+|---|---|---|
+| **Fits Jato 4x4 mounts** | Must | Direct bolt-on for #9033 front and #9034 rear positions |
+| **Survives racing impacts** | Must | Has to handle hard landings and rollovers without parking the car |
+| **Sacrificial failure** | Must | Tower should fail before chassis / trans case / arms — those are more expensive |
+| **Lightweight** | May | Lower weight helps acceleration and handling |
+| **Stiff** | May | Less flex = more consistent suspension geometry under load (matters more for racing than bashing) |
+| **Cheap** | May | Easy to replace after a crash without sweating the budget |
 
 ---
 
-## Material Properties
+## Shock Tower Comparison
+
+| Tower | Spec | Status | Pros / Cons | Photo / Link |
+|---|---|---|---|---|
+| **Traxxas Stock Composite (#9033 / #9034)** | Material: **Glass-filled nylon**<br>Thickness: **~4mm**<br>Weight: **baseline**<br>Failure mode: **Flexes, then cracks gradually (sacrificial)**<br>Price: **~$6 each** | **Chosen** | Pro: Same density as CFRP so no weight loss at same thickness; cheapest option; **sacrificial** — saves chassis / trans case / arms in a crash<br>Con: Less stiff than CF; suspension geometry can shift slightly under heavy shock load | see hero photos above |
+| ~~G-Maxx Carbon Fiber (front + rear set)~~ | Material: 3K CFRP<br>Thickness: presumed 4mm<br>Weight: ≈ stock (same density at same thickness)<br>Failure mode: Catastrophic snap (no warning)<br>Price: [$33.29 / set](https://www.ebay.com/itm/236159423243) | **Vetoed** | Pro: Way stiffer than composite per gram, looks cool, lightest aftermarket option<br>Con: **User experience — CF towers basically explode the front end of the Jato 4x4 in a direct tower crash.** The Jato's taller front tower has way more leverage than a Slash 4x4's, so a brittle CF tower destroys the whole front end instead of just cracking. Not actually lighter than stock at 4mm | <a href="https://www.ebay.com/itm/236159423243"><img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="300"></a> |
+| ~~Cobra Racing 7075-T6 Aluminum (set)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: ~80% heavier than stock per unit volume<br>Failure mode: Bends or transfers force to mounts<br>Price: $49.95 / set | **Vetoed** | Pro: Tower itself rarely breaks<br>Con: Transfers impact straight to the trans case — known Jato killer. Permanent geometry distortion when bent | <a href="https://cobraracing.net/product/cr-traxxas-jato-bl-2s-vxl-4s-4x4-black-aluminum-shock-towers-complete-set/"><img src="src/suspension_shock_tower_cobra_alum.jpg" width="300"></a> |
+| ~~Powerhobby Aluminum (set)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: heavier than stock<br>Failure mode: Transfers force to mounts<br>Price: $39.99 / set | **Vetoed** | Pro: Cheaper aluminum option than Cobra<br>Con: Same aluminum-passes-force-to-trans-case problem | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/suspension_shock_tower_powerhobby_alum.jpg` |
+| ~~GPM 7075-T6 Aluminum (per tower)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: heavier than stock<br>Failure mode: Transfers force to mounts<br>Price: ~$28 each, multiple colors | **Vetoed** | Pro: Color options<br>Con: Same aluminum failure-cascade issue; sold per-tower so a full set is ~$56 | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/suspension_shock_tower_gpm_alum.jpg` |
+
+---
+
+## Material Properties (Reference)
 
 ### Density (g/cm³)
 
@@ -45,69 +49,59 @@ Even for the racing build, **stock plastic wins on every axis**:
 | CFRP (carbon fiber + epoxy, finished part) | ~1.50–1.60 |
 | 7075-T6 aluminum | 2.81 |
 
-**Key insight:** glass-filled nylon and CFRP are nearly identical in density. At the same thickness and shape, the weight is roughly the same. CF is **not** magically lighter than the plastic Traxxas uses.
+**Key insight:** glass-filled nylon and CFRP are nearly identical in density. At the same thickness and shape, the weight is roughly the same. CF is **not** magically lighter than the plastic Traxxas uses. CF wins on **stiffness per gram** — a 3mm CF tower can match a 4mm composite tower in rigidity, but most aftermarket CF towers are 4mm (same as stock), so real-world weight savings are minimal (~5–10g total). Aluminum at 7075-T6 is ~80% heavier per unit volume than either composite or CFRP.
 
-### Where CF Saves Weight
-
-CF wins on **stiffness per gram**. A 3mm CF plate can match a 4mm composite tower in rigidity, so a thinner CF tower can be 20–30% lighter at equal stiffness. But most off-the-shelf aftermarket CF towers (G-Maxx, Exotek, JConcepts) are the same 3–4mm as the stock tower, so real-world weight savings are minimal (~5–10g total).
-
-### Aluminum
-
-7075-T6 at typical 3–4mm thickness is roughly **80% heavier per unit volume** than either composite or CFRP. Aluminum towers are always a weight penalty.
-
----
-
-## Failure Modes
+### Failure Modes
 
 | Material | Behavior under impact | When it fails |
 |----------|----------------------|---------------|
-| Composite (glass-filled nylon) | Flexes, then cracks gradually. Cold makes it brittle. | Cracks at stress concentrations (shock mount holes, edges). Often still drivable cracked. |
-| Carbon fiber | Stays rigid through the impact, then snaps cleanly | Catastrophic — no warning, no partial damage. Delaminates under repeated abuse. |
-| 7075-T6 aluminum | Bends before breaking. Stays mostly intact. | Permanently deforms. Bent towers throw off geometry forever. |
-
-### What Actually Breaks
-
-- **Stock plastic**: tower cracks first. Chassis, A-arms, hinge pins usually survive.
-- **CF**: tower survives most crashes but fails catastrophically when it does. Chassis and arms more exposed.
-- **Aluminum**: tower itself rarely breaks — instead the **mounting points** crack. Known Jato issue: aluminum shock tower transfers impact to the transmission case, which then breaks. Traxxas literally engineered the plastic tower as a sacrificial part.
+| Composite (glass-filled nylon) | Flexes, then cracks gradually. Cold makes it brittle | Cracks at stress concentrations (shock mount holes, edges). Often still drivable cracked |
+| Carbon fiber | Stays rigid through impact, then snaps cleanly | Catastrophic — no warning. Delaminates under repeated abuse |
+| 7075-T6 aluminum | Bends before breaking. Stays mostly intact | Permanently deforms (geometry off forever) and **transfers force to mounts** — chassis / trans case / arms break instead |
 
 ---
 
-## Per-Car Recommendations
+## Detailed Notes
 
-### Slash 4x4 — CF towers worth it
+### Traxxas Stock Composite (#9033 / #9034) — Chosen
 
-- Stock plastic towers are a known weak point — flex enough that aggressive shock setups don't translate to wheels properly
-- Common failure: cracks at shock mount holes after heavy bashing
-- CF towers are stiffer, more crash-resistant than stock, and only marginally heavier
-- **Verdict:** CF worth it on a Slash 4x4 you actually drive hard
+- Glass-filled nylon, ~4mm thickness
+- Front: TRA9033; Rear: TRA9034; both ~$6 each direct from Traxxas
+- The Jato 4x4 "Extreme HD" redesign: double-shear link mounts, extra material — much less break-prone than the original nitro Jato towers
+- Density ~1.5 g/cm³ — basically identical to CFRP, so a 4mm CF tower won't be meaningfully lighter
+- Engineered as a sacrificial fuse: tower cracks first, chassis and trans case survive
+- Cracks gradually rather than snapping — often still drivable with a hairline crack, gets you back to the pit
 
-**Options:**
-- Exotek (ETK2213/2214) — 4mm quasi-weave, well-reviewed
-- JConcepts MT 4.0 — designed for monster truck duty
-- Xtreme Racing — budget
+### G-Maxx Carbon Fiber Set — Vetoed (Jato-specific failure mode)
 
-### Jato 4x4 (BL-2S / VXL-4S) — stay stock
+- 3K carbon fiber, presumed 4mm (same as stock); sold by MonsterKingz on eBay
+- **User experience: CF towers basically explode the front end of the Jato 4x4 on a direct tower crash.**
+- Why it's worse on a Jato than a Slash 4x4: the Jato's front tower is **taller**. A taller tower = longer lever arm, so a hit on the tower delivers far more force into the front bulkhead and diff than the same hit on a Slash's shorter front tower. Composite flexes through that load; brittle CF transmits all of it.
+- On a Slash 4x4, CF front towers are fine because the tower is shorter — the diff and front end usually survive when the tower lets go. On a Jato 4x4, you lose the whole front end.
+- Lightest aftermarket option but only marginally lighter than stock (5–10g across both towers) — no meaningful weight upside to offset the failure mode
+- $33 set vs ~$12 for stock pair
 
-- Traxxas already redesigned the Jato 4x4 towers as "Extreme HD" with double-shear link mounts and extra material — much less break-prone than the original nitro Jato
-- CF doesn't save meaningful weight at typical 4mm thickness
-- Aluminum transfers force to trans case (well-known issue)
-- Stock towers run ~$6 each — cheapest option as well as sacrificial
-- **Verdict:** stock composite is the smart pick, even for racing
+### Cobra Racing 7075-T6 Aluminum Set — Vetoed
 
-**Aftermarket options (if you want them anyway):**
+- High-grade 7075-T6 aluminum, CNC-machined
+- 80% heavier per unit volume than composite/CF
+- Aluminum doesn't break — it transfers shock load straight to the mounting points
+- Known Jato pattern: aluminum tower stays intact, **trans case cracks instead**
+- Looks great (anodized finishes) but trades a $6 tower for a much more expensive trans case
+- $49.95 set
 
-| Option | Price | Notes |
-|--------|-------|-------|
-| **Traxxas stock composite (#9033 front, #9034 rear)** | **~$6 each** | Cheapest; sacrificial; same weight as CF at 4mm |
-| G-Maxx / MonsterKingz CF (front + rear) | [$33.29](https://www.ebay.com/itm/236159423243) | Lightest aftermarket option; presumed 4mm. Sold by MonsterKingz on eBay |
-| Powerhobby aluminum set | $39.99 | Heavier than stock |
-| Cobra Racing 7075-T6 aluminum set | $49.95 | Beefiest aluminum option |
-| GPM 7075-T6 aluminum (per tower) | ~$28 ea | Color options |
+### Powerhobby Aluminum Set — Vetoed
 
-| G-Maxx Carbon Fiber | Cobra Racing Aluminum |
-|---------------------|-----------------------|
-| ![G-Maxx CF towers](src/suspension_shock_tower_gmaxx_cf.jpg) | ![Cobra Racing aluminum towers](src/suspension_shock_tower_cobra_alum.jpg) |
+- Same 7075-T6 aluminum trade-off as Cobra: tower survives, mounts don't
+- Cheaper at $39.99 — but cheaper doesn't help when the failure mode is wrong for a Jato
+- No upside over stock for this build
+
+### GPM 7075-T6 Aluminum — Vetoed
+
+- Sold per tower (~$28 each, so ~$56 for front + rear)
+- Multiple anodized color options
+- Same aluminum failure cascade as Cobra / Powerhobby
+- No reason to pick this over stock for a basher / racer
 
 ---
 
