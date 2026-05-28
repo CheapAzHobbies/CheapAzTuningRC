@@ -37,15 +37,15 @@ Running 3200KV on 4S and needing a fan is not a setup problem — it's a physics
 
 ## Motor Comparison
 
-| Motor | KV | Stator | Weight | Cell Rating | Sensored | Splash | Status | Why Choose | Why Not |
-|---|---|---|---|---|---|---|---|---|---|
-| **HobbyWing EZRun 3665SD G3** | **2400KV** | **36x65mm** | **305g** | **2-4S** | **Yes (proprietary waterproof plug — needs adapter)** | **IP64** | **Candidate** | Only HobbyWing option with 4S + IP64; G3 laminations, sensored capable | 800KV lower requires regearing; proprietary sensor plug needs adapter for most ESCs; additional cost |
-| Castle Creations 1415 | 2400KV | 36x69.5mm | 318g | 3-4S | Yes (works with HW ESC) | None | Candidate | 4S rated, longer can than 1412 for more torque, sensored works with HobbyWing ESC | No splash protection, heavier than 1412, requires regearing |
-| Castle Creations 1412 | 3200KV | 36x50mm | 265g | 4S (with care) | Yes (works with HW ESC) | None | In Hand | In hand, proven on 4S, no regearing needed, lightest 4S option | No splash protection, older lamination tech runs hotter, 4S needs conservative gearing |
-| HobbyWing EZRun 3652SD G3 | 3300KV | 36x52mm | 227g | **3S max** | Yes (JST-ZH) | IP5X | Ruled Out | Lightest motor in the group, G3 laminations, sensored | 3S max — dealbreaker for 4S build |
-| HobbyWing EZRun 3665SD G3 | 3200KV | 36x65mm | 305g | **3S max** | Yes (proprietary waterproof plug) | IP64 | Ruled Out | IP64, largest stator, G3 laminations | 3S max — dealbreaker for 4S build |
-| HobbyWing XeRun 3660SD G3 | 3200KV | 36x60mm | 230g | **3S max** | Yes (JST-ZH) | IP5X | Ruled Out | Lighter than EZRun 3665, competition-grade G3 laminations | 3S max — dealbreaker for 4S build |
-| Castle Creations 1515 V2 | 2200KV | 40x75mm | 429g | 2-6S | Yes (works with HW ESC) | None | Ruled Out | True 1/8 scale, runs 6S, massive torque headroom | 40mm can won't fit Jato chassis, 429g is overkill |
+| Motor | Spec | Status | Pros / Cons | Photo / Link |
+|---|---|---|---|---|
+| **HobbyWing EZRun 3665SD G3** | KV: **2400KV**<br>Stator: **36x65mm**<br>Weight: **305g**<br>Cells: **2-4S**<br>Sensored: **Yes (proprietary waterproof plug — needs adapter)**<br>Splash: **IP64** | **Candidate** | Pro: Only HobbyWing option with 4S + IP64; G3 laminations, sensored capable<br>Con: 800KV lower requires regearing; proprietary sensor plug needs adapter for most ESCs; additional cost | — |
+| Castle Creations 1415 | KV: 2400KV<br>Stator: 36x69.5mm<br>Weight: 318g<br>Cells: 3-4S<br>Sensored: Yes (works with HW ESC)<br>Splash: None | Candidate | Pro: 4S rated, longer can than 1412 for more torque, sensored works with HobbyWing ESC<br>Con: No splash protection, heavier than 1412, requires regearing | — |
+| Castle Creations 1412 | KV: 3200KV<br>Stator: 36x50mm<br>Weight: 265g<br>Cells: 4S (with care)<br>Sensored: Yes (works with HW ESC)<br>Splash: None | In Hand | Pro: In hand, proven on 4S, no regearing needed, lightest 4S option<br>Con: No splash protection, older lamination tech runs hotter, 4S needs conservative gearing | — |
+| HobbyWing EZRun 3652SD G3 | KV: 3300KV<br>Stator: 36x52mm<br>Weight: 227g<br>Cells: **3S max**<br>Sensored: Yes (JST-ZH)<br>Splash: IP5X | Ruled Out | Pro: Lightest motor in the group, G3 laminations, sensored<br>Con: 3S max — dealbreaker for 4S build | — |
+| HobbyWing EZRun 3665SD G3 | KV: 3200KV<br>Stator: 36x65mm<br>Weight: 305g<br>Cells: **3S max**<br>Sensored: Yes (proprietary waterproof plug)<br>Splash: IP64 | Ruled Out | Pro: IP64, largest stator, G3 laminations<br>Con: 3S max — dealbreaker for 4S build | — |
+| HobbyWing XeRun 3660SD G3 | KV: 3200KV<br>Stator: 36x60mm<br>Weight: 230g<br>Cells: **3S max**<br>Sensored: Yes (JST-ZH)<br>Splash: IP5X | Ruled Out | Pro: Lighter than EZRun 3665, competition-grade G3 laminations<br>Con: 3S max — dealbreaker for 4S build | — |
+| Castle Creations 1515 V2 | KV: 2200KV<br>Stator: 40x75mm<br>Weight: 429g<br>Cells: 2-6S<br>Sensored: Yes (works with HW ESC)<br>Splash: None | Ruled Out | Pro: True 1/8 scale, runs 6S, massive torque headroom<br>Con: 40mm can won't fit Jato chassis, 429g is overkill | — |
 
 ---
 

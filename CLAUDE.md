@@ -50,6 +50,27 @@ The user often uploads images inline that need to be saved into a car's `src/` f
 - If the md file already references an image path (e.g. `src/suspension_shock_tower_stock_front.jpg`), **rename incoming images to match that exact path** rather than inventing a new name.
 - If no path is referenced yet, follow the CONTRIBUTING.md naming scheme and update the md file to point at the new filename in the same commit.
 
+## Analysis docs (motor, ESC, shock tower, etc.)
+
+When the user asks for a part-selection comparison, save it as
+`cars/<CarName>/<part>_analysis.md` (alongside `motor_analysis.md`,
+`esc_analysis.md`, `shock_tower_analysis.md`). Use this table format
+so all comparison tables look the same:
+
+```
+| <PartType> | Spec | Status | Pros / Cons | Photo / Link |
+|---|---|---|---|---|
+| **Brand Model** | Key: value<br>Key: value<br>... | **In Hand** / **Candidate** / Ruled Out | Pro: ...<br>Con: ... | <a href="<product-page-url>"><img src="src/<image-filename>" width="300"></a> |
+```
+
+Rules:
+- **Spec** column: each key/value pair on its own line via `<br>`. Bold the row label and matching spec values for the leading candidate.
+- **Status**: `In Hand`, `Candidate`, `Ruled Out`. Strike through with `~~name~~` when ruled out.
+- **Pros / Cons**: single cell with `Pro: ...<br>Con: ...`. Keep both on the same row even when one is short.
+- **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="300"></a>`. 300px is large enough to read on mobile. Use a local `src/` image when one exists; fall back to an external image only if no local one is available. Use `—` if no photo or link yet.
+- **Consistency audit**: claims like "lightest", "cheapest", "highest amp" must be checked against the actual numbers in the table. If multiple rows make conflicting claims, fix them (e.g. "lightest waterproof option" or "lightest 6S-capable" — narrow the claim instead of dropping it).
+- **Filename**: image names follow the image scheme above (`[section]_[brand]_[description]_[part-number].[ext]`).
+
 ## Commit messages
 
 - Short imperative title (≤ 70 chars), then a one- or two-sentence body explaining the why.
