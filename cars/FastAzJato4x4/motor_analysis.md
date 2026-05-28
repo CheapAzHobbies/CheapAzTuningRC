@@ -220,6 +220,12 @@ Manufacturers spec a **max RPM** to keep you safely under the wrap's limit. Cast
 - A bigger Hobbywing motor with more stator iron and more rotor mass is built for **torque under load** (the V8), but its RPM ceiling is the same or lower than the smaller Castle equivalent.
 - On a light 1/10 chassis on 4S, you usually want RPM, not raw torque. The bigger motor's torque advantage is wasted (chassis is too light to need it) and its mass penalty is unwelcome (more grams up high, see [the weight comparison above](#real-world-weight-1412-3200kv--cooling-vs-1415-2400kv-bare)).
 
+### And the chassis matches the motor
+
+The Honda analogy extends to the car. **High-revving small engines work best in lightweight cars** — the S2000, MX-5, NSX. Put a screaming Honda four-pot in a heavy SUV and it stays out of its powerband and dies. Put a big V8 in an MX-5 and you can't put the power down.
+
+The Jato 4x4 platform happens to be **lighter than typical 1/8 CF race chassis** (Tekno, Mugen, etc., which are designed for the heft of true 1/8-scale buggies). So the FastAzJato4x4 isn't carrying around the mass that justifies a bigger V8-style motor. A small high-revving motor in a light chassis is the matched pairing — exactly the same logic as why a sport coupe outruns a muscle car on a twisty track.
+
 ### Takeaway
 
 The marketing-driven "bigger is better" assumption falls apart once you look at the max RPM data and remember the chassis is the constraint, not the motor. **Smaller-but-faster-revving wins on a chassis that doesn't need 1/8-scale torque.**
