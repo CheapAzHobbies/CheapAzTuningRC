@@ -25,8 +25,9 @@
 |---|---|---|
 | **Retains the hinge pins** | Must | **The Traxxas bumpers on this chassis family hold the front and rear hinge pins in their bores.** No bumper = pins migrate = arms come loose = car is dead. This is a hard mechanical requirement, not a crash-protection one |
 | **Bolts to the CF chassis bumper mount holes** | Must | The chassis is Slash 4x4 pattern, bumpers must match those mount points |
-| **Doesn't put shocks in the crash path** | Must | Already broke an HPI Vorza 97mm shock on a rear-end hit with the back-side-shock geometry — avoid repeating |
 | **Cheap** | Must | Bumpers double as skid plates on this build — they wear through use, not just crashes. Cheap = guilt-free replacement |
+| **Made of metal** | **Should Not** | Even though weight isn't really the issue (bumpers sit low, not the top-heavy problem aluminum towers have), **metal bumpers bend permanently on hard hits and stay looking crooked forever.** You can't reshape aluminum back to factory by hand — you live with the bent bumper or replace it (at much higher cost than the $7 TRA9044 set). Plastic cracks instead, which is easier to swap |
+| **Doesn't put shocks in the crash path** | May | Already broke an HPI Vorza 97mm shock on a rear-end hit with the back-side-shock geometry — but tbh that crash was kind of a freak accident, not a routine failure mode. Worth avoiding if cheap to design around, but not a hard requirement |
 | **Absorbs impact, doesn't transfer to chassis** | May | Same logic as the shock tower analysis — a sacrificial bumper is nice for chassis longevity but the chassis is already disposable (~$100 CF), so this is a "nice to have" not a hard requirement |
 | **Survives most crashes intact** | May | Cheap to replace either way, but fewer trips to the workbench is nice |
 | **Lightweight** | May | Bumpers sit low on the chassis (not the worst place for weight), and skipping them isn't viable for mechanical reasons anyway — small lever to optimize |
@@ -51,17 +52,17 @@ The Slash 4x4 / Rustler 4x4 / Jato 4x4 family share the same bumper mount patter
 
 ### OEM set (front + rear together)
 
-| Part | Fits | Status | Price | Notes |
+| Part | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **TRA9044 — Traxxas Front + Rear Skid Plates** | Native Slash 4x4 / Jato 4x4 family fit | **Leading** | **$7.00** for the pair | Sold as a single set with both pieces — same part the [K939 build](../K939/README.md) already uses. Minimal profile, light, cheap, holds the hinge pins. Default pick |
+| **TRA9044 — Traxxas Front + Rear Skid Plates** | Material: glass-filled nylon<br>Coverage: front + rear (pair)<br>Fits: Slash 4x4 / Jato 4x4 family<br>Price: **$7.00** for the set | **Leading** | Pro: Sold as a single set with both pieces — same part the [K939 build](../K939/README.md) already uses. Minimal profile, light, cheap, holds the hinge pins. Default pick<br>Con: Minimal impact protection (intentional, per the recovery-focused logic above) | <a href="https://traxxas.com/products/parts/9044"><img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="300"></a> |
 
 ### Alternative front bumper (cosmetic / protection upgrade)
 
-| Part | Fits | Status | Price | Notes |
+| Part | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **TRA5435 — Rustler 4x4 front bumper** | Same Slash 4x4 chassis family | Candidate (with custom mount) | ~$8-10 | Slightly larger than the TRA9044 front, doesn't extend past the wheels. Better protection without locking the car into cartwheels. **Ugly stock; would need a custom front wing mount / cosmetic shroud to look intentional** — see [3D Models](README.md#3d-models) TODO. Would replace the TRA9044's front piece while keeping the rear |
-| **TRA5535 — original 2WD Jato front bumper** | Native to the original 2WD Jato. **Not a direct fit on the Jato 4x4 — can be drilled to fit** | Candidate (with drilling) | ~$6-8 | An option if you want the 2WD Jato's specific front-end aesthetic on the 4x4 chassis. Mounting holes don't line up out of the box; needs the user to drill new mount holes through the bumper to match the Jato 4x4 / Slash 4x4 chassis pattern. Cheap and direct labor — nothing exotic |
-| ~~TRA6835 — Slash 4x4 front bumper~~ | Slash 4x4 chassis pattern | Vetoed | ~$8 | Larger than the Rustler / TRA9044 front; extends further forward = more likely to dig in on a bad landing and trigger a cartwheel. Wrong direction for this build's recovery-focused logic |
+| **TRA5435 — Rustler 4x4 front bumper** | Material: glass-filled nylon<br>Fits: Slash 4x4 family pattern<br>Price: ~$8-10 | Candidate (with custom mount) | Pro: Slightly larger than the TRA9044 front, doesn't extend past the wheels. Better protection without locking the car into cartwheels<br>Con: **Ugly stock; would need a custom front wing mount / cosmetic shroud to look intentional** — see [3D Models](README.md#3d-models) TODO. Would replace the TRA9044's front piece while keeping the rear | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 Need image — save as `src/bumpers_traxxas_rustler_4x4_front_tra5435.jpg` |
+| **TRA5535 — original 2WD Jato front bumper** | Material: glass-filled nylon<br>Native fit: 2WD Jato (NOT 4x4)<br>**Not a direct fit on Jato 4x4 — can be drilled to fit**<br>Price: ~$6-8 | Candidate (with drilling) | Pro: An option if you want the 2WD Jato's specific front-end aesthetic on the 4x4 chassis<br>Con: Mounting holes don't line up out of the box; needs the user to drill new mount holes through the bumper to match the Jato 4x4 / Slash 4x4 chassis pattern. Cheap and direct labor — nothing exotic | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 Need image — save as `src/bumpers_traxxas_2wd_jato_front_tra5535.jpg` |
+| ~~TRA6835 — Slash 4x4 front bumper~~ | Material: glass-filled nylon<br>Fits: Slash 4x4 chassis pattern<br>Price: ~$8 | Vetoed | Pro: Native to the Slash 4x4 line<br>Con: Larger than the Rustler / TRA9044 front; extends further forward = more likely to dig in on a bad landing and trigger a cartwheel. Wrong direction for this build's recovery-focused logic | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 Need image — save as `src/bumpers_traxxas_slash_4x4_front_tra6835.jpg` |
 
 > Verify exact fit with the chosen AliExpress CF chassis before ordering. Mount-hole spacing is the key check. **TRA9044 ships as a pair (front + rear), so ordering one part number covers both ends.**
 
