@@ -45,7 +45,7 @@
 - Fits: 1/8 RC off-road buggy
 - Includes: 1x tail wing
 
-**Take:** wing aero on a 1/10-1/8 class car at offroad speeds is mostly cosmetic. Pick the cheap one, replace when it breaks.
+**Take:** at 1/8 scale and offroad speeds, the wing provides real aerodynamic benefit — air control and stability, especially mid-air. Pick the cheap one so you don't think twice about replacing it when it breaks.
 
 ---
 
