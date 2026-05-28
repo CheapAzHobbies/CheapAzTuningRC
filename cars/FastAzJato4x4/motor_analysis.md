@@ -26,6 +26,23 @@
 
 ---
 
+## Table of Contents
+
+- [Key Requirements](#key-requirements)
+- [Motor Comparison](#motor-comparison) — full table of every candidate
+- [Related: Motor Cooling (Optional)](#related-motor-cooling-optional) — Surpass twin-fan heatsink
+- [Real-World Weight: 1412 3200KV + Cooling vs 1415 2400KV Bare](#real-world-weight-1412-3200kv--cooling-vs-1415-2400kv-bare) — head-to-head weight ranking
+- [Acceleration Simulation](#acceleration-simulation-2400kv-vs-3200kv-vs-2100kv-geared-to-same-top-speed) — Python physics sim w/ chart
+- [Smaller Stators Can Win: V8 vs High-Revving 4 Banger](#smaller-stators-can-win-v8-vs-high-revving-4-banger) — centrifugal-force physics, max RPM data, speed-run validation
+- [Bigger Stator ≠ More Peak Torque (at the same KV)](#bigger-stator--more-peak-torque-at-the-same-kv) — what bigger actually buys you (hint: not peak torque)
+- [KV Reference](#kv-reference) — community consensus by KV, open question on gearing tradeoff
+- [Sensor Connector Compatibility](#sensor-connector-compatibility) — motor ↔ ESC plug matrix
+- [Detailed Notes](#detailed-notes) — per-motor bullet specs
+- [Pinion Reference (32P, TBD)](#pinion-reference-32p-tbd) — gear ratio cheat sheet
+- [Sources](#sources)
+
+---
+
 ## Key Requirements
 
 | Requirement | Type | Why |

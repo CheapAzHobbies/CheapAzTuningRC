@@ -85,6 +85,8 @@ The doc section should:
 6. **Comparison table** (see below)
 7. Detailed per-item notes, sensor compatibility, summary, etc. as needed
 
+**Table of Contents.** Once an analysis doc grows past ~5 `##` sections, add a `## Table of Contents` with bulleted markdown links right after the hero image. Format each link as `[Section Name](#section-anchor) — short one-line summary` so the TOC also serves as a "what's in this doc" overview.
+
 ### Key Requirements table
 
 ```
