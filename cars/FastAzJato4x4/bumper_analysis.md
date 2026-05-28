@@ -78,7 +78,7 @@ The OEM TRA9044 set already covers the rear. These are options if you want to up
 | **TRA6836 — Traxxas Slash 4x4 rear bumper + mount** | Material: glass-filled nylon<br>Native fit: Slash 4x4 chassis pattern<br>Price: ~$8 | Candidate | Pro: Bigger / sturdier than the TRA9044 rear piece. Matches the Slash 4x4 front (TRA6835) if going the full Slash look. Required by [STRC backflash conversion](aero_analysis.md#shock-tower-compatibility-cascade) if that path is chosen<br><br>Con: Larger profile + extra weight at the rear; cosmetics tie you into the Slash 4x4 look | <img src="src/bumpers_traxxas_slash_4x4_rear_tra6836.jpg" width="500"> |
 | **RPM 80122 — Slash 4x4 Rear Bumper** | Material: black nylon (RPM reinforced composite)<br>Native fit: Slash 4x4 (LCG + non-LCG)<br>Price: ~$12-15 | Candidate (premium aftermarket) | Pro: RPM's bulletproof composite — survives hits that crack Traxxas OEM. Pairs with the RPM 80022 front for a full RPM front+rear black bumper set<br><br>Con: Pricier than OEM; locks in the Slash look | <img src="src/bumpers_rpm_80122_slash_4x4_rear.jpg" width="500"> |
 
-> Verify exact fit with the chosen AliExpress CF chassis before ordering. Mount-hole spacing is the key check. **TRA9044 ships as a pair (front + rear) and is the cheapest path** — the alternatives are for specific upgrades, not replacements for the OEM set in the general case.
+> **TRA9044 ships as a pair (front + rear) and is the cheapest path** — the alternatives are for specific upgrades, not replacements for the OEM set in the general case.
 
 ---
 
