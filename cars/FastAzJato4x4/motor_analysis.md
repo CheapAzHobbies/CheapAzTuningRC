@@ -1,8 +1,10 @@
 # Motor Selection — FastAzJato4x4
 
-> **Leaning toward: HobbyWing EZRun 3665SD G3 2400KV** — aligns with community consensus for this platform, resolves confirmed heat issue with the Castle 1412 3200KV.
+> **Leaning toward: Castle Creations 1415 2400KV** — 4S native, runs cool (the original reason to drop the 3200KV), no proprietary connector. Pairs natively with the chosen Fire Phoenix ESC over standard JST-ZH.
 >
-> No HobbyWing motor hits 3200KV + 4S simultaneously. Castle 1412 3200KV (in hand) runs hot on 4S and requires a fan. Community data on Slash 4x4 and e-Jato builds consistently points to 2400KV as the 4S sweet spot — cool running, no fan needed. The EZRun 3665SD G3 uses a proprietary waterproof sensor plug designed for the MAX10 G2 ESC — needs an adapter for other ESCs.
+> The HobbyWing EZRun 3665SD G3 2400KV was the prior top pick but is **vetoed** — proprietary waterproof sensor plug requires an adapter for any non-MAX10-G2 ESC. The Fire Phoenix ESC is chosen, so the proprietary plug is dead weight.
+>
+> Castle 1412 3200KV (in hand) still works but runs hot on 4S and requires a fan. Castle 1415 is the clean upgrade path with no connector issues.
 
 ---
 
@@ -39,13 +41,13 @@ Running 3200KV on 4S and needing a fan is not a setup problem — it's a physics
 
 | Motor | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **HobbyWing EZRun 3665SD G3** | KV: **2400KV**<br>Stator: **36x65mm**<br>Weight: **305g**<br>Cells: **2-4S**<br>Sensored: **Yes (proprietary waterproof plug — needs adapter)**<br>Splash: **IP64** | **Candidate** | Pro: Only HobbyWing option with 4S + IP64; G3 laminations, sensored capable<br>Con: 800KV lower requires regearing; proprietary sensor plug needs adapter for most ESCs; additional cost | — |
-| Castle Creations 1415 | KV: 2400KV<br>Stator: 36x69.5mm<br>Weight: 318g<br>Cells: 3-4S<br>Sensored: Yes (works with HW ESC)<br>Splash: None | Candidate | Pro: 4S rated, longer can than 1412 for more torque, sensored works with HobbyWing ESC<br>Con: No splash protection, heavier than 1412, requires regearing | — |
-| Castle Creations 1412 | KV: 3200KV<br>Stator: 36x50mm<br>Weight: 265g<br>Cells: 4S (with care)<br>Sensored: Yes (works with HW ESC)<br>Splash: None | In Hand | Pro: In hand, proven on 4S, no regearing needed, lightest 4S option<br>Con: No splash protection, older lamination tech runs hotter, 4S needs conservative gearing | — |
-| HobbyWing EZRun 3652SD G3 | KV: 3300KV<br>Stator: 36x52mm<br>Weight: 227g<br>Cells: **3S max**<br>Sensored: Yes (JST-ZH)<br>Splash: IP5X | Ruled Out | Pro: Lightest motor in the group, G3 laminations, sensored<br>Con: 3S max — dealbreaker for 4S build | — |
-| HobbyWing EZRun 3665SD G3 | KV: 3200KV<br>Stator: 36x65mm<br>Weight: 305g<br>Cells: **3S max**<br>Sensored: Yes (proprietary waterproof plug)<br>Splash: IP64 | Ruled Out | Pro: IP64, largest stator, G3 laminations<br>Con: 3S max — dealbreaker for 4S build | — |
-| HobbyWing XeRun 3660SD G3 | KV: 3200KV<br>Stator: 36x60mm<br>Weight: 230g<br>Cells: **3S max**<br>Sensored: Yes (JST-ZH)<br>Splash: IP5X | Ruled Out | Pro: Lighter than EZRun 3665, competition-grade G3 laminations<br>Con: 3S max — dealbreaker for 4S build | — |
-| Castle Creations 1515 V2 | KV: 2200KV<br>Stator: 40x75mm<br>Weight: 429g<br>Cells: 2-6S<br>Sensored: Yes (works with HW ESC)<br>Splash: None | Ruled Out | Pro: True 1/8 scale, runs 6S, massive torque headroom<br>Con: 40mm can won't fit Jato chassis, 429g is overkill | — |
+| Castle Creations 1412 | KV: 3200KV<br>Stator: 36x50mm<br>Weight: 265g<br>Cells: 4S (with care)<br>Sensored: Yes (works with HW ESC)<br>Splash: None | **In Hand** | Pro: In hand, proven on 4S, no regearing needed, lightest 4S option<br>Con: No splash protection, older lamination tech runs hotter, 4S needs conservative gearing | — |
+| **Castle Creations 1415** | KV: **2400KV**<br>Stator: **36x69.5mm**<br>Weight: **318g**<br>Cells: **3-4S**<br>Sensored: **Yes (works with HW ESC)**<br>Splash: **None** | **Candidate** | Pro: 4S rated, 2400KV runs cool (no fan needed), longer can than 1412 for more torque, native JST-ZH sensor plug with Fire Phoenix<br>Con: No splash protection, heavier than 1412, requires regearing | — |
+| ~~HobbyWing EZRun 3665SD G3 2400KV~~ | KV: 2400KV<br>Stator: 36x65mm<br>Weight: 305g<br>Cells: 2-4S<br>Sensored: Yes (proprietary waterproof plug — needs adapter)<br>Splash: IP64 | **Vetoed** | Pro: Only HobbyWing option with 4S + IP64; G3 laminations, sensored capable<br>Con: **Proprietary waterproof sensor plug — vetoed.** Needs HWA30810007 adapter for any non-MAX10-G2 ESC. 800KV lower requires regearing; additional cost | — |
+| ~~HobbyWing EZRun 3652SD G3~~ | KV: 3300KV<br>Stator: 36x52mm<br>Weight: 227g<br>Cells: **3S max**<br>Sensored: Yes (JST-ZH)<br>Splash: IP5X | Ruled Out | Pro: Lightest motor in the group, G3 laminations, sensored<br>Con: 3S max — dealbreaker for 4S build | — |
+| ~~HobbyWing EZRun 3665SD G3 3200KV~~ | KV: 3200KV<br>Stator: 36x65mm<br>Weight: 305g<br>Cells: **3S max**<br>Sensored: Yes (proprietary waterproof plug)<br>Splash: IP64 | Ruled Out | Pro: IP64, largest stator, G3 laminations<br>Con: 3S max — dealbreaker for 4S build; proprietary plug | — |
+| ~~HobbyWing XeRun 3660SD G3~~ | KV: 3200KV<br>Stator: 36x60mm<br>Weight: 230g<br>Cells: **3S max**<br>Sensored: Yes (JST-ZH)<br>Splash: IP5X | Ruled Out | Pro: Lighter than EZRun 3665, competition-grade G3 laminations<br>Con: 3S max — dealbreaker for 4S build | — |
+| ~~Castle Creations 1515 V2~~ | KV: 2200KV<br>Stator: 40x75mm<br>Weight: 429g<br>Cells: 2-6S<br>Sensored: Yes (works with HW ESC)<br>Splash: None | Ruled Out | Pro: True 1/8 scale, runs 6S, massive torque headroom<br>Con: 40mm can won't fit Jato chassis, 429g is overkill | — |
 
 ---
 

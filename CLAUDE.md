@@ -65,7 +65,13 @@ so all comparison tables look the same:
 
 Rules:
 - **Spec** column: each key/value pair on its own line via `<br>`. Bold the row label and matching spec values for the leading candidate.
-- **Status**: `In Hand`, `Candidate`, `Ruled Out`. Strike through with `~~name~~` when ruled out.
+- **Status** values, in priority order:
+  - `Chosen` — final selection
+  - `In Hand` — already owned
+  - `Candidate` — under consideration
+  - `Vetoed` — user-rejected for a soft reason (e.g. proprietary connector, brand preference)
+  - `Ruled Out` — hard technical dealbreaker (e.g. wrong voltage, won't fit)
+- **Row order**: Chosen / In Hand / Candidate rows at the top of the table, Vetoed / Ruled Out rows at the bottom. Strike through the row label with `~~name~~` for Vetoed and Ruled Out.
 - **Pros / Cons**: single cell with `Pro: ...<br>Con: ...`. Keep both on the same row even when one is short.
 - **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="300"></a>`. 300px is large enough to read on mobile. Use a local `src/` image when one exists; fall back to an external image only if no local one is available. Use `—` if no photo or link yet.
 - **Consistency audit**: claims like "lightest", "cheapest", "highest amp" must be checked against the actual numbers in the table. If multiple rows make conflicting claims, fix them (e.g. "lightest waterproof option" or "lightest 6S-capable" — narrow the claim instead of dropping it).
