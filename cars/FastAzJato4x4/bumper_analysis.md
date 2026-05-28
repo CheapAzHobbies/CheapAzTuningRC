@@ -60,6 +60,7 @@ The Slash 4x4 / Rustler 4x4 / Jato 4x4 family share the same bumper mount patter
 | Part | Fits | Status | Price | Notes |
 |---|---|---|---|---|
 | **TRA5435 — Rustler 4x4 front bumper** | Same Slash 4x4 chassis family | Candidate (with custom mount) | ~$8-10 | Slightly larger than the TRA9044 front, doesn't extend past the wheels. Better protection without locking the car into cartwheels. **Ugly stock; would need a custom front wing mount / cosmetic shroud to look intentional** — see [3D Models](README.md#3d-models) TODO. Would replace the TRA9044's front piece while keeping the rear |
+| **TRA5535 — original 2WD Jato front bumper** | Native to the original 2WD Jato. **Not a direct fit on the Jato 4x4 — can be drilled to fit** | Candidate (with drilling) | ~$6-8 | An option if you want the 2WD Jato's specific front-end aesthetic on the 4x4 chassis. Mounting holes don't line up out of the box; needs the user to drill new mount holes through the bumper to match the Jato 4x4 / Slash 4x4 chassis pattern. Cheap and direct labor — nothing exotic |
 | ~~TRA6835 — Slash 4x4 front bumper~~ | Slash 4x4 chassis pattern | Vetoed | ~$8 | Larger than the Rustler / TRA9044 front; extends further forward = more likely to dig in on a bad landing and trigger a cartwheel. Wrong direction for this build's recovery-focused logic |
 
 > Verify exact fit with the chosen AliExpress CF chassis before ordering. Mount-hole spacing is the key check. **TRA9044 ships as a pair (front + rear), so ordering one part number covers both ends.**
