@@ -12,9 +12,9 @@ Even for the racing build, **stock plastic wins on every axis**:
 2. **Cheaper** — stock front and rear towers are ~$6 each from Traxxas. CF set is $33+.
 3. **Sacrificial** — Traxxas tuned the tower to break before the chassis or trans case. CF and aluminum shift failure to more expensive parts.
 
-| Stock Front Tower (#9033) | Stock Rear Tower (#9034) |
+| Traxxas Stock Front Tower (#9033) | Traxxas Stock Rear Tower (#9034) |
 |-------------------|------------------|
-| ![Stock front shock tower](src/suspension_shock_tower_stock_front_9033.jpg) | ![Stock rear shock tower](src/suspension_shock_tower_stock_rear_9034.jpg) |
+| ![Traxxas stock front shock tower](src/suspension_shock_tower_stock_front_9033.jpg) | ![Traxxas stock rear shock tower](src/suspension_shock_tower_stock_rear_9034.jpg) |
 
 ---
 
@@ -95,7 +95,7 @@ CF wins on **stiffness per gram**. A 3mm CF plate can match a 4mm composite towe
 
 | Option | Price | Notes |
 |--------|-------|-------|
-| **Stock Traxxas composite (#9033 front, #9034 rear)** | **~$6 each** | Cheapest; sacrificial; same weight as CF at 4mm |
+| **Traxxas stock composite (#9033 front, #9034 rear)** | **~$6 each** | Cheapest; sacrificial; same weight as CF at 4mm |
 | G-Maxx / MonsterKingz CF (front + rear) | [$33.29](https://www.ebay.com/itm/236159423243) | Lightest aftermarket option; presumed 4mm. Sold by MonsterKingz on eBay |
 | Powerhobby aluminum set | $39.99 | Heavier than stock |
 | Cobra Racing 7075-T6 aluminum set | $49.95 | Beefiest aluminum option |
