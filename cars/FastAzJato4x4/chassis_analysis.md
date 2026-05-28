@@ -27,10 +27,10 @@
 
 | Chassis | Material | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **AliExpress / Temu CF chassis** (fits TRA6808 Slash 4x4 VXL) | 3K carbon fiber, ~4mm | **Chosen** | Pro: **~$100 or less** — cheap enough to risk. Direct fit to the Slash 4x4 chassis pattern that the Jato 4x4 shares. Light + stiff. Disposable in a crash, easy to replace<br>Con: QC varies between sellers; CF quality not always spec'd; no warranty | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/chassis_aliexpress_cf_slash_4x4.jpg` |
-| ~~Traxxas stock plastic chassis~~ | Composite nylon | **Vetoed** | Pro: Free (in box with the Jato 4x4), bulletproof in crashes<br>Con: Heaviest option, the entire point of the build is to swap this for something stiffer + lighter | (use stock car photo) |
-| ~~Premium CF chassis (Pro-Line, Exotek, Avid)~~ | Premium 3K CF | **Vetoed** | Pro: Best CF quality, fitment tested<br>Con: $200-400 for a part that gets crashed regularly. Cost doesn't justify the QC bump for this build | — |
-| ~~Aluminum chassis~~ | 7075-T6 | **Ruled Out** | Pro: Most durable<br>Con: Way too heavy. Aluminum chassis adds weight in the worst place (low and central, killing acceleration / handling) | — |
+| **AliExpress / Temu CF chassis** (fits TRA6808 Slash 4x4 VXL) | 3K carbon fiber, ~4mm | **Chosen** | Pro: **~$100 or less** — cheap enough to risk. Direct fit to the Slash 4x4 chassis pattern that the Jato 4x4 shares. Light + stiff. Disposable in a crash, easy to replace<br><br>Con: QC varies between sellers; CF quality not always spec'd; no warranty | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/chassis_aliexpress_cf_slash_4x4.jpg` |
+| ~~Traxxas stock plastic chassis~~ | Composite nylon | **Vetoed** | Pro: Free (in box with the Jato 4x4), bulletproof in crashes<br><br>Con: Heaviest option, the entire point of the build is to swap this for something stiffer + lighter | (use stock car photo) |
+| ~~Premium CF chassis (Pro-Line, Exotek, Avid)~~ | Premium 3K CF | **Vetoed** | Pro: Best CF quality, fitment tested<br><br>Con: $200-400 for a part that gets crashed regularly. Cost doesn't justify the QC bump for this build | — |
+| ~~Aluminum chassis~~ | 7075-T6 | **Ruled Out** | Pro: Most durable<br><br>Con: Way too heavy. Aluminum chassis adds weight in the worst place (low and central, killing acceleration / handling) | — |
 
 ---
 

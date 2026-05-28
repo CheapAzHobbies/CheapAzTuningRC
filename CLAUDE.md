@@ -117,8 +117,8 @@ Rules:
   - `Vetoed` — user-rejected for a soft reason (e.g. proprietary connector, brand preference)
   - `Ruled Out` — hard technical dealbreaker (e.g. wrong voltage, won't fit)
 - **Row order**: Chosen / In Hand / Candidate rows at the top of the table, Vetoed / Ruled Out rows at the bottom. Strike through the row label with `~~name~~` for Vetoed and Ruled Out.
-- **Pros / Cons**: single cell with `Pro: ...<br>Con: ...`. Keep both on the same row even when one is short.
-- **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="300"></a>`. 300px in the table is large enough to read on mobile; 600px for the hero image of the chosen item. Use a local `src/` image when one exists; fall back to an external image only if no local one is available.
+- **Pros / Cons**: single cell with `Pro: ...<br><br>Con: ...` — use a double `<br>` between Pro and Con to add a blank line for readability. Keep both on the same row even when one is short. Keep each line short and punchy — no long run-on sentences.
+- **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="500"></a>`. **Minimum 500px in the table**; 600px for the hero image of the chosen item. Use a local `src/` image when one exists; fall back to an external image only if no local one is available.
 - **Multi-part items**: when one row covers a pair (e.g. front + rear shock tower), show both photos side-by-side at 150px each with `&nbsp;` between, plus a centered `<em>` caption naming each. Example:
   ```html
   <img src="src/...front.jpg" width="150"> <img src="src/...rear.jpg" width="150"><br><em>front · rear</em>
