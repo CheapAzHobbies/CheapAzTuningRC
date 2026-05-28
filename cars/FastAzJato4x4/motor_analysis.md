@@ -189,7 +189,7 @@ It'll print the table and save a fresh chart to `cars/FastAzJato4x4/src/motor_si
 
 ---
 
-## Smaller Stators Can Win: "V8 vs High-Revving Honda"
+## Smaller Stators Can Win: "V8 vs High-Revving 4 Banger"
 
 A common assumption in RC is that bigger stator = better. **Not always true on 4S in this weight class.** Here's why:
 
@@ -212,17 +212,17 @@ Manufacturers spec a **max RPM** to keep you safely under the wrap's limit. Cast
 | Hobbywing EZRun 3652/3665 SD G3 | 36mm × 52-65mm (medium) | 75,000 (similar class) |
 | Castle 1515 V2 | 1.5" × 1.5" (large) | **60,000** |
 
-**Smaller stator = higher safe RPM.** That's the same trade-off you see in cars: a small high-revving 4-cylinder (Honda) can spin to 8500+ RPM safely, while a big V8 has to be governed lower because the rotating mass is bigger and the bottom end can't take infinite RPM.
+**Smaller rotor = higher safe RPM. Bigger rotor = more leverage (torque per amp).** That's the trade-off: torque comes from `T = F × r`, so a bigger rotor radius gives the magnetic force a longer lever arm to push the shaft — more torque per amp drawn. But the same bigger radius is what gets you to the rotor-wrap limit sooner at high RPM. Same trade-off you see in engines: a small high-revving 4 banger can spin to 8500+ RPM safely (low rotating mass, short stroke), while a big V8 has more leverage on the crank but the bottom end can't take infinite RPM.
 
 ### Why this matters for 4S on a 1/10 chassis
 
 - A "smaller, older design" 36mm Castle motor isn't necessarily worse — it can **safely spin higher** before the rotor lets go.
-- A bigger Hobbywing motor with more stator iron and more rotor mass is built for **torque under load** (the V8), but its RPM ceiling is the same or lower than the smaller Castle equivalent.
+- A bigger Hobbywing motor with more stator iron and a bigger rotor is built for **torque under load** (the V8) — bigger rotor radius = more leverage per amp — but its RPM ceiling is the same or lower than the smaller Castle equivalent.
 - On a light 1/10 chassis on 4S, you usually want RPM, not raw torque. The bigger motor's torque advantage is wasted (chassis is too light to need it) and its mass penalty is unwelcome (more grams up high, see [the weight comparison above](#real-world-weight-1412-3200kv--cooling-vs-1415-2400kv-bare)).
 
 ### And the chassis matches the motor
 
-The Honda analogy extends to the car. **High-revving small engines work best in lightweight cars** — the S2000, MX-5, NSX. Put a screaming Honda four-pot in a heavy SUV and it stays out of its powerband and dies. Put a big V8 in an MX-5 and you can't put the power down.
+The 4-banger analogy extends to the car. **High-revving small engines work best in lightweight cars** — the S2000, MX-5, NSX. Put a screaming high-revving four-pot in a heavy SUV and it stays out of its powerband and dies. Put a big V8 with all that crank leverage in an MX-5 and you can't put the power down.
 
 The Jato 4x4 platform happens to be **lighter than typical 1/8 CF race chassis** (Tekno, Mugen, etc., which are designed for the heft of true 1/8-scale buggies). So the FastAzJato4x4 isn't carrying around the mass that justifies a bigger V8-style motor. A small high-revving motor in a light chassis is the matched pairing — exactly the same logic as why a sport coupe outruns a muscle car on a twisty track.
 
