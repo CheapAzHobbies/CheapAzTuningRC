@@ -29,8 +29,16 @@
 
 | Wing | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| **Generic AliExpress 1/8 buggy wing** | **In Hand / Leading** | Pro: Cheap (~$3-8), lots of color / shape options, easy to replace<br>Con: QC varies; mounting hole spacing not always standardized — verify against the chosen mount before ordering | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/aero_aliexpress_wing.jpg` |
-| **Traxxas Jato 4x4 stock wing** | Candidate | Pro: Guaranteed fit to OEM Jato wing mount, factory-spec aero<br>Con: ~$15-25 from Traxxas, more expensive than generic for no real performance gain on this build | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/aero_traxxas_jato_4x4_stock_wing.jpg` |
+| **Generic AliExpress 1/8 Buggy Tail Wing** | **In Hand / Leading** | Pro: Cheap, nylon plastic (good tenacity), grid pattern on underside for easy mounting hole marking, easy to replace<br>Con: QC varies; verify mounting hole spacing against chosen mount before ordering more | <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="300"></a><br><img src="src/aero_generic_wing_aliexpress_dimensions.webp" width="300"><br><em>with dimensions</em> |
+| **Traxxas Jato 4x4 stock wing** (part #90154) | Candidate | Pro: Guaranteed fit to OEM Jato wing mount, factory-spec aero<br>Con: ~$15-25 from Traxxas, more expensive than generic for no real performance gain on this build | <a href="https://www.traxxas.com/products/parts/90154"><img src="src/aero_traxxas_jato_4x4_stock_wing_90154.jpg" width="300"></a> |
+
+**AliExpress wing specs (in hand):**
+- Material: Nylon plastic
+- Size: 213mm × 85mm × 50mm
+- Colors available: black / red / white / green / yellow
+- Grid pattern on underside for easy mounting hole marking
+- Fits: 1/8 RC off-road buggy
+- Includes: 1x tail wing
 
 **Take:** wing aero on a 1/10-1/8 class car at offroad speeds is mostly cosmetic. Pick the cheap one, replace when it breaks.
 
