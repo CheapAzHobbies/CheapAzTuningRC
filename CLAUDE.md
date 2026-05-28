@@ -102,6 +102,12 @@ Rules:
 - **Row order**: Chosen / In Hand / Candidate rows at the top of the table, Vetoed / Ruled Out rows at the bottom. Strike through the row label with `~~name~~` for Vetoed and Ruled Out.
 - **Pros / Cons**: single cell with `Pro: ...<br>Con: ...`. Keep both on the same row even when one is short.
 - **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="300"></a>`. 300px in the table is large enough to read on mobile; 600px for the hero image of the chosen item. Use a local `src/` image when one exists; fall back to an external image only if no local one is available.
+- **Multi-part items**: when one row covers a pair (e.g. front + rear shock tower), show both photos side-by-side at 150px each with `&nbsp;` between, plus a centered `<em>` caption naming each. Example:
+  ```html
+  <img src="src/...front.jpg" width="150"> <img src="src/...rear.jpg" width="150"><br><em>front · rear</em>
+  ```
+- **Chosen row in the table**: include the photos in the Photo cell too — don't write "see hero above". The table should be self-contained.
+- **Same-brand, cross-platform parts**: if a brand sells two variants for similar-but-different cars (e.g. GPM SLA028 for Slash 4x4 vs TJ028 for Jato 4x4), split into two rows — the right-fit row gets its own status, the wrong-fit row is `Ruled Out` for geometry mismatch and exists to warn future readers not to order it.
 - **Missing photos**: if no image exists yet, use a placeholder so the user knows one is needed — never use a bare `—`. Format:
   ```html
   <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/<expected-filename>.jpg`

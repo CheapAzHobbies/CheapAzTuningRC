@@ -29,11 +29,12 @@
 
 | Tower | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **Traxxas Stock Composite (#9033 / #9034)** | Material: **Glass-filled nylon**<br>Thickness: **~4mm**<br>Weight: **baseline**<br>Failure mode: **Flexes, then cracks gradually (sacrificial)**<br>Price: **~$6 each** | **Chosen** | Pro: Same density as CFRP so no weight loss at same thickness; cheapest option; **sacrificial** — saves chassis / trans case / arms in a crash<br>Con: Less stiff than CF; suspension geometry can shift slightly under heavy shock load | see hero photos above |
+| **Traxxas Stock Composite (#9033 / #9034)** | Material: **Glass-filled nylon**<br>Thickness: **~4mm**<br>Weight: **baseline**<br>Failure mode: **Flexes, then cracks gradually (sacrificial)**<br>Price: **~$6 each** | **Chosen** | Pro: Same density as CFRP so no weight loss at same thickness; cheapest option; **sacrificial** — saves chassis / trans case / arms in a crash<br>Con: Less stiff than CF; suspension geometry can shift slightly under heavy shock load | <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="150"> <img src="src/suspension_shock_tower_traxxas_stock_rear_9034.jpg" width="150"><br><em>front #9033 · rear #9034</em> |
 | ~~G-Maxx Carbon Fiber (front + rear set)~~ | Material: 3K CFRP<br>Thickness: presumed 4mm<br>Weight: ≈ stock (same density at same thickness)<br>Failure mode: Catastrophic snap (no warning)<br>Price: [$33.29 / set](https://www.ebay.com/itm/236159423243) | **Vetoed** | Pro: Way stiffer than composite per gram, looks cool, lightest aftermarket option<br>Con: **User experience — CF towers basically explode the front end of the Jato 4x4 in a direct tower crash.** The Jato's taller front tower has way more leverage than a Slash 4x4's, so a brittle CF tower destroys the whole front end instead of just cracking. Not actually lighter than stock at 4mm | <a href="https://www.ebay.com/itm/236159423243"><img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="300"></a> |
 | ~~Cobra Racing 7075-T6 Aluminum (set)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: ~80% heavier than stock per unit volume<br>Failure mode: Bends or transfers force to mounts<br>Price: $49.95 / set | **Vetoed** | Pro: Tower itself rarely breaks<br>Con: Transfers impact straight to the trans case — known Jato killer. Permanent geometry distortion when bent | <a href="https://cobraracing.net/product/cr-traxxas-jato-bl-2s-vxl-4s-4x4-black-aluminum-shock-towers-complete-set/"><img src="src/suspension_shock_tower_cobra_alum.jpg" width="300"></a> |
-| ~~Powerhobby Aluminum (set)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: heavier than stock<br>Failure mode: Transfers force to mounts<br>Price: $39.99 / set | **Vetoed** | Pro: Cheaper aluminum option than Cobra<br>Con: Same aluminum-passes-force-to-trans-case problem | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/suspension_shock_tower_powerhobby_alum.jpg` |
-| ~~GPM 7075-T6 Aluminum (per tower)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: heavier than stock<br>Failure mode: Transfers force to mounts<br>Price: ~$28 each, multiple colors | **Vetoed** | Pro: Color options<br>Con: Same aluminum failure-cascade issue; sold per-tower so a full set is ~$56 | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/suspension_shock_tower_gpm_alum.jpg` |
+| ~~Powerhobby Aluminum (set)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: heavier than stock<br>Failure mode: Transfers force to mounts<br>Price: $39.99 / set | **Vetoed** | Pro: Cheaper aluminum option than Cobra<br>Con: Same aluminum-passes-force-to-trans-case problem | <img src="src/suspension_shock_tower_powerhobby_alum.jpg" width="300"> |
+| ~~GPM 7075-T6 Aluminum — Jato 4x4 fit (TJ028 front / TJ030 rear)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: heavier than stock<br>Failure mode: Transfers force to mounts<br>Price: $27.90 front (TJ028) / $28.90 rear (TJ030) | **Vetoed** | Pro: Color options, correct Jato 4x4 geometry<br>Con: Same aluminum failure-cascade issue; sold per-tower so a full set is ~$57 | <img src="src/suspension_shock_tower_gpm_alum_tj028_front.jpg" width="150"> <img src="src/suspension_shock_tower_gpm_alum_tj030_rear.jpg" width="150"><br><em>TJ028 front · TJ030 rear (Jato 4x4 fit)</em> |
+| ~~GPM 7075-T6 Aluminum — Slash 4x4 (SLA028 / SLA030)~~ | Material: 7075-T6 aluminum<br>Thickness: ~4mm<br>Weight: heavier than stock<br>Failure mode: Transfers force to mounts<br>Price: ~$28 each | **Ruled Out** | Pro: GPM's most common shock tower set, lots of color options<br>Con: **Wrong geometry — Slash 4x4 front tower does not fit the Jato 4x4 mount points / arm pickups.** Won't bolt up correctly. Listed here so it's not mistakenly ordered for a Jato build | <img src="src/suspension_shock_tower_gpm_alum_sla028_front.jpg" width="150"> <img src="src/suspension_shock_tower_gpm_alum_sla030_rear.jpg" width="150"><br><em>SLA028 front · SLA030 rear — Slash 4x4 only</em> |
 
 ---
 
@@ -96,12 +97,20 @@
 - Cheaper at $39.99 — but cheaper doesn't help when the failure mode is wrong for a Jato
 - No upside over stock for this build
 
-### GPM 7075-T6 Aluminum — Vetoed
+### GPM 7075-T6 Aluminum (Jato 4x4 fit) — Vetoed
 
 - Sold per tower (~$28 each, so ~$56 for front + rear)
 - Multiple anodized color options
-- Same aluminum failure cascade as Cobra / Powerhobby
+- Has correct Jato 4x4 mount geometry (unlike the SLA028 / SLA030 Slash variants below)
+- Still passes the same aluminum failure cascade as Cobra / Powerhobby
 - No reason to pick this over stock for a basher / racer
+
+### GPM 7075-T6 Aluminum SLA028 / SLA030 (Slash 4x4) — Ruled Out (won't fit Jato)
+
+- GPM's well-known Slash 4x4 shock tower set — SLA028 front, SLA030 rear
+- **Wrong geometry for the Jato 4x4.** The Slash 4x4 front tower geometry (mount points, height, arm pickup spacing) does not match the Jato 4x4 — these will not bolt up correctly to a Jato chassis
+- Listed here on purpose so they're not mistakenly ordered for a Jato build (they show up first in a lot of GPM searches because they're Slash-line popular)
+- If you want GPM on the Jato, get the Jato-specific GPM tower (see row above)
 
 ---
 
