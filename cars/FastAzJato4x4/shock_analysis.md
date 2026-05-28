@@ -3,9 +3,10 @@
 > **Leaning toward: Hot Bodies D8 (metal-body version)** — same physical design as the HPI Apache C1 already in hand on the K939 build, but **metal body** instead of plastic. The plastic Apache C1 is fine and light (planned for front + rear on this build); the metal D8 is an optimization if shock-body damage in crashes becomes a problem.
 >
 > **Current spec target** (subject to TBD on oil weight):
-> - **Springs:** white (front) + grey 52gf (rear) — same as K939 spec
+> - **Springs:** **white 59gf (HB 67454, 76mm) front + gray 52gf (HB 67453, 76mm) rear** — same as K939 spec
 > - **Pistons:** 1.4mm × 6 holes, front + rear
 > - **Oil:** 45wt front, **50-60wt rear (TBD)** — final pick depends on track conditions
+> - **Shock eye-to-eye:** 97 mm (Apache C1 / D8 front spec) — D8 rears optionally 112 mm if going the full mixed-length D8 setup
 >
 > **Traxxas Big Bore XXL shocks are explicitly vetoed:** they were "big bore" when released years ago but are not by modern standards, and they're way overpriced for the performance.
 
@@ -51,14 +52,32 @@ This is the target tuning — same as the K939 build, adjusted slightly for the 
 
 | Position | Spring | Piston | Oil |
 |---|---|---|---|
-| **Front** | White (stock Apache C1 / D8) | **1.4mm × 6 holes** | **45wt** |
+| **Front** | **White 59gf** (Hot Bodies #67454, 76mm — stock Apache C1 / D8) | **1.4mm × 6 holes** | **45wt** |
 | **Rear** | **Grey 52gf** (Hot Bodies #67453, 76mm — soft for bump compliance) | **1.4mm × 6 holes** | **50-60wt (TBD)** — start at 50, bump to 60 if too plush |
 
 **Why this setup:**
-- White front spring = stock baseline, well-matched to typical front weight bias
-- Grey 52gf rear = softer than stock, prioritizes bump compliance over roll stiffness — picked because the target tracks have rough hardpack
+- **White 59gf front + grey 52gf rear** = stock Apache C1 / D8 spec, K939-tested. Slightly softer rear gives more bump compliance over hardpack
 - 1.4mm × 6 holes = mid-range damping, good general-purpose piston. Tighter holes (1.2-1.3mm) increase damping for smoother tracks; bigger holes (1.5-1.6mm) loosen damping for whoops
 - 45wt front / 50-60wt rear = rear heavier to control squat under power and rebound from jumps. 60wt is the upper end if 50wt feels too floaty on landings
+
+### Hot Bodies Big Bore Shock Spring chart (full lineup)
+
+All HB Big Bore springs sold as a pair. The chosen pair is bolded. **Shorter springs (60mm)** suit shorter shock bodies / tighter packaging; **76mm** is the most common length for 97mm-eye-to-eye Apache C1 / D8 fronts.
+
+| Part # | Color | Length | Rate | Sold as |
+|---|---|---|---|---|
+| HB 67446 | Gray | 60 mm | 74 gf | pair |
+| HB 67448 | Blue | 60 mm | 89 gf | pair |
+| HB 67449 | Orange | 60 mm | 98 gf | pair |
+| HB 67450 | Green | 68 mm | 59 gf | pair |
+| HB 67451 | Yellow | 68 mm | 68 gf | pair |
+| HB 67452 | Red | 68 mm | 81 gf | pair |
+| **HB 67453** | **Gray** | **76 mm** | **52 gf** | **pair — chosen rear** |
+| **HB 67454** | **White** | **76 mm** | **59 gf** | **pair — chosen front** |
+| HB 67455 | Blue | 76 mm | 63 gf | pair |
+| HB 67456 | Orange | 76 mm | 74 gf | pair |
+
+> **Eye-to-eye shock length reference**: Apache C1 / D8 fronts are **97 mm eye-to-eye**. Hot Bodies D8 rears are an optional **112 mm eye-to-eye** (HBS67298) if you want longer rear droop / travel — note the longer rear shock body changes which spring length fits cleanly.
 
 ---
 
