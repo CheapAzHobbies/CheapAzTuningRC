@@ -72,4 +72,5 @@ The wing mount choice changes which rear shock tower the build uses, which chang
 ## Notes
 
 - AliExpress wing mounting holes drilled with a reamer — use the grid pattern on the underside to locate the holes, then ream to size. Cleaner cut than a drill bit, less risk of cracking the nylon.
+- Wing can also be zip-tied to the mount — works, but ghetto. Ream the holes properly.
 - Reference: the K939 build uses the older Slash 4x4-style rear shock geometry — that platform has *not* had the rear-shock crash exposure problem the FastAzJato4x4 prototype hit with the Jato stock tower. Rear-shock exposure is accepted on this build as a known consumable risk.
