@@ -58,8 +58,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
 | **AliExpress CF chassis** (fits Traxxas Slash 4x4 VXL TRA6808 pattern) | To buy | AliExpress / Temu | ~$100 (or less) | [`chassis_analysis.md`](chassis_analysis.md) |
-| **Front bumper** — Traxxas TRA5535 Jato 4x4 OEM (minimal-profile, recovery-friendly) | To buy | LHS / AMain | ~$6-8 | [`bumper_analysis.md`](bumper_analysis.md#front-bumper) |
-| **Rear bumper** — Traxxas TRA5536 Jato 4x4 OEM (assumes OEM wing mount path; switches to TRA6836 Slash 4x4 if STRC conversion is chosen) | To buy — pending [wing mount cascade](aero_analysis.md#shock-tower-compatibility-cascade) | LHS / AMain | ~$6-8 | [`bumper_analysis.md`](bumper_analysis.md#rear-bumper) |
+| **Front + rear bumper set** — Traxxas TRA9044 Front and Rear Skid Plates (covers both, same part as K939 build) | To buy | LHS / AMain / Tammies | **$7.00** | [`bumper_analysis.md`](bumper_analysis.md#oem-set-front--rear-together) |
 
 ---
 
