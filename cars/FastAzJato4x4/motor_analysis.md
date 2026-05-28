@@ -49,21 +49,34 @@
 
 ---
 
+## Related: Motor Cooling (Optional)
+
+Not a motor itself — a fan/heatsink add-on that bolts to the motor's outside if you need active cooling. Tracked here because it directly affects the motor decision (a 1412 3200KV needs one; a 1415 2400KV or 1412 2100KV doesn't).
+
+| Cooling Rig | Spec | Status | Pros / Cons | Photo / Link |
+|---|---|---|---|---|
+| ~~Surpass Hobby 36mm Dual-Fan Aluminum Heatsink~~ | Fan size: 30mm × 30mm × 10mm (×2)<br>Heatsink: T6 aluminum frame, graphite fan cover<br>Suits: 36mm-can 540 / 550 motors<br>Max RPM: 28,000 @ 8.4V<br>Cable: 263mm extension included<br>**Weight: 55 g** (full assembly)<br>Price: ~$7.28 (AliExpress) | **Vetoed** | Pro: Cheap (~$7), comes complete with both fans + heatsink + extension cable, well-reviewed (4.9/5 across 186 reviews), one of the lightest dual-fan options<br>Con: **Bracing a problem the chosen motor shouldn't have.** Adds 55g up high on the motor (raises CG), and the leading 1415 2400KV / 1412 2100KV picks don't need cooling at all. Only useful if sticking with the in-hand 1412 3200KV | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_surpass_hobby_fan_heatsink_36mm_dual.jpg` if you want a photo |
+
+> Must order the **36mm dual-fan** variant — the 28/29mm versions are for smaller 380/390 motors (won't fit a 36mm can), and the single-fan 36mm version (46g) doesn't cool as well. Sizes/weights from the same Surpass listing: 28/29 single 29g, 28/29 dual 34g, 36 single 46g, **36 dual 55g**.
+
+---
+
 ## Real-World Weight: 1412 3200KV + Cooling vs 1415 2400KV Bare
 
-The Castle 1412 3200KV's "free, already in hand, lightest 4S option" advantage looks great on paper. But it needs a fan to stay in safe temps on 4S, and the fan + heatsink rig isn't light. Once you account for the cooling, the two leading options end up at basically the same effective weight:
+The Castle 1412 3200KV's "free, already in hand, lightest 4S option" advantage looks great on paper. But it needs a fan to stay in safe temps on 4S, and the cooling rig isn't light. Once you account for the cooling, the two leading options end up at basically the same effective weight:
 
 | Setup | Component | Weight |
 |---|---|---|
 | **Castle 1412 3200KV + cooling** | Castle 1412 3200KV motor | 265 g |
-| | Surpass twin 30mm metal fans (2 × ~18g) | ~36 g |
-| | Surpass aluminum heatsink mount (36×47mm) | ~14 g |
-| | **Total** | **~315 g** |
+| | **Surpass Hobby 36mm dual-fan heatsink** (T6 aluminum frame, graphite cover, two plastic fans — all-in-one assembly, $7.28 on AliExpress) | **55 g** |
+| | **Total** | **320 g** |
 | **Castle 1415 2400KV bare** | Castle 1415 2400KV motor | 318 g |
 | | No fan needed (4S native, 2400KV runs cool) | 0 g |
 | | **Total** | **318 g** |
 
-**Within 3 grams.** And the 1412 + cooling weight is all sitting **up high on the motor**, exactly where added mass hurts handling most (raises CG). The 1415 just is the weight — no extra bracketry, no fan motor, nothing to install.
+**Within 2 grams.** And the 1412 + cooling weight is all sitting **up high on the motor**, exactly where added mass hurts handling most (raises CG). The 1415 just is the weight — no extra bracketry, no fan housing, nothing to mount.
+
+> Surpass Hobby 36mm dual-fan heatsink — confirmed specs from listing: aluminum heatsink frame + graphite fan cover + two plastic-blade fans, 28000 RPM @ 8.4V, 55g for the complete 36mm dual-fan assembly (lighter 28/29mm versions are 29-34g, single-fan 36mm is 46g — we'd need the 36mm dual to cool the 36mm-can 1412).
 
 **Take:** the in-hand 1412's weight advantage disappears once cooling is honest in the math. The 1415 buys you cooler running, no fan dependence, native 4S, modern 4-pole 12-slot design, and the same effective weight for ~$130. The 1412 2100KV variants do even better — 4S native AND lower bare weight than the 1415.
 
