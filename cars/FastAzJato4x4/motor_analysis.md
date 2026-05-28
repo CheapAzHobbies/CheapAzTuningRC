@@ -286,6 +286,54 @@ The marketing-driven "bigger is better" assumption falls apart once you look at 
 
 ---
 
+## Bigger Stator ≠ More Peak Torque (at the same KV)
+
+Common assumption: bigger motor = more torque. **Wrong at the same KV.** Here's the physics:
+
+### Torque per amp is determined by KV alone
+
+The torque constant of a brushless motor is:
+
+```
+Kt = 60 / (2π × KV)    [N·m/A]
+```
+
+KV is the only variable. **Stator size doesn't appear in this equation.** A 2400KV motor — whether it's a 179g Tekin Pro4, a 221g Tekin Pro4 HD, or a 318g Castle 1415 — makes the same torque per amp.
+
+| Motor | Stator size | KV | Kt (N·m/A) | Peak T at 120A |
+|---|---|---|---|---|
+| Tekin Pro4 2400KV | 179g (short can) | 2400 | 0.00398 | **0.477 N·m** |
+| Tekin Pro4 HD 2500KV | 221g (long can) | 2500 | 0.00382 | 0.459 N·m |
+| Castle 1412 2100KV | 1.4" × 1.2" | 2100 | 0.00455 | 0.546 N·m |
+| Castle 1412 3200KV | 1.4" × 1.2" | 3200 | 0.00298 | 0.358 N·m |
+| Castle 1415 2400KV | 1.4" × 1.5" | 2400 | 0.00398 | **0.477 N·m** |
+| Castle 1515 V2 2200KV | 1.5" × 1.5" | 2200 | 0.00434 | 0.521 N·m |
+| Castle 1406 2280KV | 1.4" × 0.6" | 2280 | 0.00419 | 0.502 N·m |
+
+**Notice:** the Castle 1415 2400KV (318g) and the Tekin Pro4 2400KV (179g) make **identical peak torque** despite a 139g size difference. The 1415 is not a "more torque" motor — it's a "more sustained torque" motor.
+
+### So what does a bigger stator actually buy you?
+
+Three things, none of them peak torque:
+
+1. **Thermal mass** — more iron = more material to absorb heat before reaching the magnet-demag temperature (~180°F). At the same load, the bigger motor stays cooler longer.
+2. **Saturation headroom** — at very high currents (typically >150A for these motors), iron saturates and torque output flattens out — you pump more amps but don't get proportionally more torque. The bigger stator pushes that saturation point higher. With a 120A ESC limit, you're probably below saturation on all of these motors so this rarely matters.
+3. **Continuous power rating** — same *instant* power, more *sustainable* power. The bigger motor can hold its torque output for minutes; the smaller one wants a fan if you ask the same of it.
+
+### Why people think "bigger = more torque"
+
+Because the comparison is almost never apples-to-apples. People usually compare a **low-KV big motor** (e.g. Castle 1515 V2 2200KV at 0.00434 Kt) against a **high-KV small motor** (e.g. Castle 1412 3200KV at 0.00298 Kt). The 1515 wins on torque per amp — but that's a **KV** difference, not a **size** difference. Wind a 1412 at 2200KV (Castle does — the 1412 2100KV is basically this) and it has the same Kt as the 1515. The 1515 just keeps making that torque for longer without overheating.
+
+### Engine analogy
+
+Same logic as the V8-vs-4-banger framing above: a small high-revving engine and a big lazy engine making the same peak horsepower at the crank will accelerate a light car at the same rate. The big engine just doesn't have to work as hard to do it — runs cooler, lasts longer, sustains the output. **The size buys longevity and sustained capability, not peak number.**
+
+### What this means for the Jato 4x4 motor pick
+
+The "Pro4 HD 2500KV has more torque than the regular Pro4 2400KV" intuition is wrong. They have **identical peak torque** at any given current draw. The HD's 42g of extra iron buys thermal headroom — important if the track loads the motor hard for sustained pulls, irrelevant for mixed-throttle bashing. This is why the chosen Pro4 HD at $70 isn't a huge step up from the regular Pro4 at $60 *unless* you're going to flog it on hot tracks.
+
+---
+
 ## KV Reference
 
 KV is a no-load speed rating — same top speed at same KV on same voltage. The differences between options at the same KV are torque, heat, and efficiency (stator size, lamination quality, how the motor is wound for the voltage).
