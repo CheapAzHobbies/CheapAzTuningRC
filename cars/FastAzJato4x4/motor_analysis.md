@@ -1,8 +1,15 @@
 # Motor Selection — FastAzJato4x4
 
-> **Leaning toward: Castle Creations 1415 2400KV — 5mm shaft (#060-0067-00)** — 4S native, runs cool without a fan, 5mm shaft (preferred), modern 4-pole 12-slot design, rebuildable, pairs natively with the chosen Fire Phoenix ESC over standard JST-ZH. The Castle 1412 2100KV 5mm (#060-0095-00) is a strong runner-up — even cooler running, lighter (265 g vs 318 g), cheaper ($124.95 vs $134.95), but slightly less top end.
+> **Build context:** the Jato 4x4 isn't really a 1/10 — it's basically a **1/8 buggy** in chassis size and intended duty. Manufacturer "1/10 SCT" recommendations under-spec for this car. The chosen ESC is a Hobbywing-clone Fire Phoenix XeRun 120A — universal JST-ZH sensor, no brand ecosystem (no Castle Link, no SmartSense, no Tekin HotWire), so motor selection comes down to pure physical specs not brand integration.
 >
-> Castle 1412 3200KV is in hand and works, **but** runs hot on 4S and needs a fan. Once you add the Surpass twin-fan + heatsink rig (~50 g), the 1412 + cooling weighs ~315 g — basically the same as a 1415 2400KV bare (318 g), with all that mass sitting **up high on the motor** where it hurts handling. Reducing the cooling rig = reducing complexity = **cool**. Badum tss. 🥁
+> **Leaning toward: Tekin Pro4 HD 2500KV (#TT2521)** — $69.99, 35.85 × 62.5 mm, 221 g, 4-pole 12-slot, 5mm shaft, 1-4S LiPo/LiHV, rebuildable, ABEC5 bearings, universal dual-plug sensor. The HD long can gives the 1/8-buggy-class sustained-load thermal headroom that the regular Pro4 (179 g, 52.9 mm can) might come up short on for a 6-7 lb chassis on rough offroad. Half the price and ~100 g lighter than the Castle 1415 2400KV.
+>
+> Runners-up worth real consideration:
+> - **Tekin Redline T8 Gen3 4030 2650KV (#TEKTT2340)** — true 1/8 racing motor, 311 g, 5mm × 19mm beefy shaft, $180-200. 7 g lighter than the Castle 1415 so passes the size-Must exception. The right call if the build skews more 1/8-racing than 1/10-bashing
+> - **Tekin Pro4 2400KV (#TT2507)** — $59.99, only 179 g. Almost certainly fine for a 4S 6-7 lb chassis, but the shorter can has less sustained thermal margin if the track loads it up. Cheapest 4S 2400KV by a wide margin
+> - **Castle 1415 2400KV** — premium, "understated ratings" reputation, modern 4-pole 12-slot, rebuildable. Heavier (318 g) and double the price, but no asterisks
+>
+> **The in-hand Castle 1412 3200KV** still works but runs hot on 4S and needs a fan. Once you add the Surpass twin-fan + heatsink rig (~63 g with metal fans), the 1412 + cooling weighs ~328 g — heavier than every 4S-native candidate above, with all that mass sitting **up high on the motor** where it hurts handling. Reducing the cooling rig = reducing complexity = **cool**. Badum tss. 🥁
 
 <p align="center"><img src="src/electronics_castle_1415_2400kv.jpg" width="600"></p>
 
