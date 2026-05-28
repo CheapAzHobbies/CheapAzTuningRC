@@ -60,7 +60,7 @@ When the user asks for a part-selection comparison, save it as
 
 1. **Title** — `# <PartType> Selection — <CarName>`
 2. **Lead recommendation blockquote** — one paragraph: `> **Chosen / Leaning toward: <name>** — short reason`
-3. **Hero image** of the chosen / leading item at 600px wide, with product-page link. Skip if no image exists yet.
+3. **Hero image** of the chosen / leading item at 600px wide, centered with `<p align="center">`, wrapping the product-page link. Skip if no image exists yet.
 4. `---`
 5. **Key Requirements table** (see below)
 6. **Comparison table** (see below)
@@ -71,11 +71,12 @@ When the user asks for a part-selection comparison, save it as
 ```
 | Requirement | Type | Why |
 |---|---|---|
-| **<requirement>** | Hard / Soft | <one-line reason> |
+| **<requirement>** | Must / Nice | <one-line reason> |
 ```
 
-Each requirement listed once — don't repeat the same requirement in different
-words across multiple rows.
+- **Must** = hard requirement; any option that fails it is automatically Ruled Out.
+- **Nice** = preference / nice-to-have; missing it doesn't disqualify.
+- List each requirement once — don't repeat the same requirement in different words across multiple rows.
 
 ### Comparison table
 
