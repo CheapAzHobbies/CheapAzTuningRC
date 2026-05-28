@@ -12,7 +12,8 @@
 ## Table of Contents
 
 - [Key Requirements](#key-requirements)
-- [Arm Comparison](#arm-comparison) — 5 variants (3 known + 2 TBD)
+- [Arm Comparison](#arm-comparison) — 6 variants
+- [Shock Guards](#shock-guards) — keeps debris out of drivetrain, crash protection
 - [Notes](#notes)
 
 ---
@@ -42,6 +43,16 @@
 | ~~**TRA3655R** Standard wheelbase HD~~ | Proprietary composite with flex additive. Stock length. Front/rear 4x4, rear 2WD. $12.00 | Ruled Out | Pro: Stronger than OEM TRA3655X — proprietary composite flexes instead of snapping, works cold weather. $12<br><br>Con: **Discontinued online** — AMain lists it as discontinued. Same length as OEM, no wheelbase extension | <img src="src/suspension_traxxas_slash4x4_hd_arms_tra3655r.jpg" width="500"> |
 | ~~**PRO6082-01** ProTrac standard wheelbase~~ | Nylon. Front + rear in one set (usable either position). Fits Slash 4x4 / Stampede 4x4 with ProTrac kit. $13.75 | **Ruled Out** | Pro: Ideal arm — would be the first choice if available. Front + rear covered by one part number. $13.75 for a set<br><br>Con: **Discontinued — unobtanium.** Can't source replacements for a race car. No point building around a part you can't replace when it breaks | <img src="src/suspension_proline_protrac_arms_pro6082-01.webp" width="500"> |
 | ~~**RPM80702** Standard wheelbase~~ | Flexible nylon compound | Vetoed | Pro: Great for bashing — flexibility absorbs impacts instead of snapping. Won't break<br><br>Con: **Most flexible** — flex transfers load into driveshafts. Thinner CVDs (e.g. Tekno) and custom axles will bend; only E-Revo CVDs (double Tekno thickness) survive. **Warps from just sitting in storage** — unacceptable for a race car. Loses the rigid feel the FLM arms deliver | <img src="src/suspension_rpm_arms_rpm80702.jpg" width="500"> |
+
+---
+
+## Shock Guards
+
+Plastic guards that mount around the arm / drivetrain area. Keep dirt, grass, and debris out of the driveshafts mid-run, and provide light crash protection on the lower chassis. Lightweight — the main value is protection, not structure.
+
+| Guard | Status | Pros / Cons | Photo / Link |
+|---|---|---|---|
+| TBD | TBD | TBD | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"> |
 
 ---
 
