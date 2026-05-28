@@ -2,14 +2,25 @@
 
 > **Build context:** the Jato 4x4 isn't really a 1/10 — it's basically a **1/8 buggy** in chassis size and intended duty. Manufacturer "1/10 SCT" recommendations under-spec for this car. The chosen ESC is a Hobbywing-clone Fire Phoenix XeRun 120A — universal JST-ZH sensor, no brand ecosystem (no Castle Link, no SmartSense, no Tekin HotWire), so motor selection comes down to pure physical specs not brand integration.
 >
-> **Leaning toward: Tekin Pro4 HD 2500KV (#TT2521)** — $69.99, 35.85 × 62.5 mm, 221 g, 4-pole 12-slot, 5mm shaft, 1-4S LiPo/LiHV, rebuildable, ABEC5 bearings, universal dual-plug sensor. The HD long can gives the 1/8-buggy-class sustained-load thermal headroom that the regular Pro4 (179 g, 52.9 mm can) might come up short on for a 6-7 lb chassis on rough offroad. Half the price and ~100 g lighter than the Castle 1415 2400KV.
->
-> Runners-up worth real consideration:
-> - **Tekin Redline T8 Gen3 4030 2650KV (#TEKTT2340)** — true 1/8 racing motor, 311 g, 5mm × 19mm beefy shaft, $180-200. 7 g lighter than the Castle 1415 so passes the size-Must exception. The right call if the build skews more 1/8-racing than 1/10-bashing
-> - **Tekin Pro4 2400KV (#TT2507)** — $59.99, only 179 g. Almost certainly fine for a 4S 6-7 lb chassis, but the shorter can has less sustained thermal margin if the track loads it up. Cheapest 4S 2400KV by a wide margin
-> - **Castle 1415 2400KV** — premium, "understated ratings" reputation, modern 4-pole 12-slot, rebuildable. Heavier (318 g) and double the price, but no asterisks
->
-> **The in-hand Castle 1412 3200KV** still works but runs hot on 4S and needs a fan. Once you add the Surpass twin-fan + heatsink rig (~63 g with metal fans), the 1412 + cooling weighs ~328 g — heavier than every 4S-native candidate above, with all that mass sitting **up high on the motor** where it hurts handling. Reducing the cooling rig = reducing complexity = **cool**. Badum tss. 🥁
+> **Chosen: Tekin Pro4 HD 2500KV (#TT2521)** — $69.99, 35.85 × 62.5 mm, 221 g, 4-pole 12-slot, 5mm shaft, 1-4S LiPo/LiHV, rebuildable, ABEC5 bearings, universal dual-plug sensor. The HD long can gives the 1/8-buggy-class sustained-load thermal headroom that the regular Pro4 (179 g, 52.9 mm can) might come up short on for a 6-7 lb chassis on rough offroad. Same motor Slash 4x4 racers run on 4S. Half the price and ~100 g lighter than the Castle 1415 2400KV.
+
+### Top 4 head-to-head
+
+| | Tekin Pro4 HD 2500KV ⭐ | Tekin Pro4 2400KV | Tekin T8 Gen3 4030 2650KV | Castle 1415 2400KV 5mm |
+|---|---|---|---|---|
+| KV | 2500 | 2400 | 2650 | 2400 |
+| Cells | 1-4S LiPo/LiHV | 1-4S LiPo/LiHV | 4S | 3-4S |
+| Can | 35.85 × 62.5 mm | 35.85 × 52.9 mm | 40 × 69 mm | 36 × 69.5 mm |
+| Weight | **221 g** | **179 g** | 311 g | 318 g |
+| Shaft | 5mm × 15.3mm | 5mm × 15.3mm | 5mm × 19mm | 5mm |
+| Max RPM | 65,000 | 65,000 | 65,000 | 75,000 |
+| Pole / Slot | 4 / 12 | 4 / 12 | 4 / 12 | 4 / 12 |
+| Rebuildable | Yes | Yes | Yes | Yes |
+| Bearings | 5×14×5 / 5×11×5 | 5×14×5 / 5×11×5 | 5×16×5 / 5×11×5 | (NMB, size not published) |
+| Price | **$69.99** | $59.99 | $180-200 | $134.95 |
+| Pick reason | **Chosen — best balance for 1/8-buggy 4S dirt** | Honorable — cheapest, lightest, send-it pick | Honorable — true 1/8 motor, beefy shaft | Honorable — premium build, understated ratings |
+
+**The in-hand Castle 1412 3200KV** still works but runs hot on 4S and needs a fan. Once you add the Surpass twin-fan + heatsink rig (~63 g with metal fans), the 1412 + cooling weighs ~328 g — heavier than every 4S-native candidate above, with all that mass sitting **up high on the motor** where it hurts handling. Reducing the cooling rig = reducing complexity = **cool**. Badum tss. 🥁
 
 <p align="center"><img src="src/electronics_castle_1415_2400kv.jpg" width="600"></p>
 
