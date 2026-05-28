@@ -19,7 +19,7 @@
 | **Fits Jato 4x4 mounts** | Must | Direct bolt-on for #9033 front and #9034 rear positions |
 | **Survives racing impacts** | Must | Has to handle hard landings and rollovers without parking the car |
 | **Sacrificial failure** | Must | Tower should fail before chassis / trans case / arms — those are more expensive |
-| **Weight ≤ stock** | Must | Aluminum towers are ~80% heavier per unit volume — added weight hurts acceleration and handling, and isn't worth the failure-cascade trade-off |
+| **Weight ≤ stock** | Must | Shock towers sit **high on the car** — adding weight there raises the CG, makes the car tippy in corners, and hurts handling more than the same weight added anywhere else. Aluminum towers are ~80% heavier per unit volume and **right where you don't want extra weight** |
 | **Stiff** | May | Less flex = more consistent suspension geometry under load (matters more for racing than bashing) |
 | **Cheap** | May | Easy to replace after a crash without sweating the budget |
 
@@ -64,7 +64,10 @@
 | Carbon fiber | Stays rigid through impact, then snaps cleanly | Catastrophic — no warning. Delaminates under repeated abuse |
 | 7075-T6 aluminum | Bends before breaking. Stays mostly intact | Permanently deforms (geometry off forever) and **transfers force to mounts** — chassis / trans case / arms break instead |
 
-> **Aluminum nuance:** the "bends instead of breaks" property is a real strength on **thin flat plates** where exact geometry isn't critical — a flat aluminum chassis plate or skid plate can be bent back to "close enough" after a crash and keep working. **Shock towers aren't that part for two reasons:** (1) every degree of bend changes shock angle, droop, camber gain, and damping — geometry IS the part. (2) These aftermarket towers are CNC'd from solid 4mm 7075 — good luck bending one of those back by hand. You'd need a press, and even then you're not getting it back to factory geometry. So the "I can fix it after a crash" upside of aluminum doesn't actually apply here.
+> **Aluminum nuance:** the "bends instead of breaks" property is a real strength on **thin flat plates** where exact geometry isn't critical — a flat aluminum chassis plate or skid plate can be bent back to "close enough" after a crash and keep working. **Shock towers aren't that part for three reasons:**
+> 1. Every degree of bend changes shock angle, droop, camber gain, and damping — geometry IS the part.
+> 2. These aftermarket towers are CNC'd from solid 4mm 7075 — good luck bending one of those back by hand. You'd need a press, and even then you're not getting it back to factory geometry.
+> 3. Towers are **mounted high on the car**, so the extra ~30+ g of aluminum sits right where added mass hurts handling the most — raises CG and makes the car tippy. Of all the places to put weight, the top of the shocks is the worst.
 
 ---
 
