@@ -56,11 +56,16 @@ When the user asks for a part-selection comparison, save it as
 `cars/<CarName>/<part>_analysis.md` (alongside `motor_analysis.md`,
 `esc_analysis.md`, `shock_tower_analysis.md`).
 
+**Stay on topic.** A `<part>_analysis.md` covers that one part only. If
+relevant tangents come up during research (e.g. chassis weights came
+up while analyzing shock towers), drop them — don't append a "related
+research" section. Keep the doc tight on its subject.
+
 ### Document structure
 
 1. **Title** — `# <PartType> Selection — <CarName>`
 2. **Lead recommendation blockquote** — one paragraph: `> **Chosen / Leaning toward: <name>** — short reason`
-3. **Hero image** of the chosen / leading item at 600px wide, centered with `<p align="center">`, wrapping the product-page link. Skip if no image exists yet.
+3. **Hero image(s)** of the chosen / leading item at 600px wide, centered with `<p align="center">`, wrapping the product-page link. If the chosen item is actually two parts (e.g. front + rear shock tower), put both at 300px inside one centered `<p>` with `&nbsp;` between them and a centered italic caption below. Skip if no image exists yet.
 4. `---`
 5. **Key Requirements table** (see below)
 6. **Comparison table** (see below)

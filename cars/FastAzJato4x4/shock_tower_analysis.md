@@ -12,9 +12,13 @@ Even for the racing build, **stock plastic wins on every axis**:
 2. **Cheaper** — stock front and rear towers are ~$6 each from Traxxas. CF set is $33+.
 3. **Sacrificial** — Traxxas tuned the tower to break before the chassis or trans case. CF and aluminum shift failure to more expensive parts.
 
-| Traxxas Stock Front Tower (#9033) | Traxxas Stock Rear Tower (#9034) |
-|-------------------|------------------|
-| ![Traxxas stock front shock tower](src/suspension_shock_tower_traxxas_stock_front_9033.jpg) | ![Traxxas stock rear shock tower](src/suspension_shock_tower_traxxas_stock_rear_9034.jpg) |
+<p align="center">
+  <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="300" alt="Traxxas stock front shock tower #9033">
+  &nbsp;&nbsp;
+  <img src="src/suspension_shock_tower_traxxas_stock_rear_9034.jpg" width="300" alt="Traxxas stock rear shock tower #9034">
+</p>
+
+<p align="center"><em>Traxxas Stock Front Tower (#9033)&nbsp;&nbsp;·&nbsp;&nbsp;Traxxas Stock Rear Tower (#9034)</em></p>
 
 ---
 
@@ -105,16 +109,10 @@ CF wins on **stiffness per gram**. A 3mm CF plate can match a 4mm composite towe
 |---------------------|-----------------------|
 | ![G-Maxx CF towers](src/suspension_shock_tower_gmaxx_cf.jpg) | ![Cobra Racing aluminum towers](src/suspension_shock_tower_cobra_alum.jpg) |
 
-### ARRMA Typhon 6S — chassis weight savings minimal
-
-(Not towers, but related research while in the rabbit hole.) Stock V5 plastic chassis is ~300g. CF chassis options (Scorched Parts CF Hybrid at 258g, M2C lightweight at 279g) save only 20–40g — roughly 1% of total vehicle weight, with a stiffness penalty that hurts bash compliance. Not worth it for most users.
-
 ---
 
 ## Sources
 
-- [Powerhobby Carbon Fiber Chassis for Arrma 6S](https://www.powerhobby.com/products/powerhobby-carbon-fiber-chassis-for-arrma-6s-outcast-typhon-senton-notorious)
-- [Scorched Parts CF Hybrid Chassis](https://scorchedparts.co.uk/products/copy-of-carbon-fibre-hybrid-chassis-arrma-kraton-6s-v1-v4)
 - [Cobra Racing Jato 4x4 aluminum tower set](https://cobraracing.net/product/cr-traxxas-jato-bl-2s-vxl-4s-4x4-black-aluminum-shock-towers-complete-set/)
 - [G-Maxx / MonsterKingz CF towers for Jato 4x4 — eBay $33.29](https://www.ebay.com/itm/236159423243)
 - [Exotek Slash 4x4 CF shock tower](https://www.exotekracing.com/slash-4x4-carbon-fiber-shock-tower-front-4wd-slash-rally)
