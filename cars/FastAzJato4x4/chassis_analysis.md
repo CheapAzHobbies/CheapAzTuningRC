@@ -37,5 +37,5 @@
 ## Notes
 
 - **Why TRA6808 fit pattern works:** the Slash 4x4 VXL and the Jato 4x4 share the same gearbox housings, bulkhead spacing, and shock mount geometry. A Slash 4x4 CF chassis bolts up to a Jato 4x4 drivetrain without modification.
-- **Disposable mindset:** at ~$100 the chassis is cheaper than one premium battery. Crash it, replace it. Don't tune your driving around protecting the chassis.
+- **Actual failure-mode hierarchy on this build:** the chassis is *not* the most-broken part — the **FLM extended arms are first to go** in a hard crash, and they bend rather than shatter so you can roughly reshape them and keep driving. See [`arm_analysis.md`](arm_analysis.md). The CF chassis is genuinely durable in practice. So while "disposable mindset" was the original framing for picking a cheap CF chassis, in reality you'll be replacing arms way more often than chassis plates.
 - **QC tip:** if buying from AliExpress, look for sellers with 95%+ positive feedback and >100 sold; avoid the brand-new listings. Photos in customer reviews are more honest than seller-supplied images.
