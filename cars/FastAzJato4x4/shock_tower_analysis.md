@@ -4,15 +4,28 @@ Cross-car research on shock tower material choices: stock composite, carbon fibe
 
 ---
 
-## TL;DR
+## Decision for FastAzJato4x4 (racing): Stock Plastic
+
+Even for the racing build, **stock plastic wins on every axis**:
+
+1. **Same weight** — glass-filled nylon and CFRP have nearly identical density (~1.5 g/cm³). At equal thickness (~4mm), the aftermarket CF tower isn't meaningfully lighter.
+2. **Cheaper** — stock front and rear towers are ~$6 each from Traxxas. CF set is $33+.
+3. **Sacrificial** — Traxxas tuned the tower to break before the chassis or trans case. CF and aluminum shift failure to more expensive parts.
+
+| Stock Front Tower | Stock Rear Tower |
+|-------------------|------------------|
+| ![Stock front shock tower](src/suspension_shock_tower_stock_front.jpg) | ![Stock rear shock tower](src/suspension_shock_tower_stock_rear.jpg) |
+
+---
+
+## TL;DR (cross-car)
 
 | Use case | Pick |
 |----------|------|
 | Bashing — want chassis/arms to survive | **Stock composite** |
-| Racing — want consistent suspension geometry | **Carbon fiber** |
+| Racing on a Jato 4x4 | **Stock composite** (cheap, sacrificial, same weight as CF) |
+| Racing on a Slash 4x4 (weak stock towers) | **Carbon fiber** |
 | Speed run / cosmetics only | Aluminum (don't use for bashing) |
-
-For a Jato 4x4 basher: **stock plastic wins**. Traxxas tuned the tower to be the sacrificial fuse — switching to CF or aluminum just shifts failure to more expensive parts (chassis, trans case, arms).
 
 ---
 
@@ -75,12 +88,14 @@ CF wins on **stiffness per gram**. A 3mm CF plate can match a 4mm composite towe
 - Traxxas already redesigned the Jato 4x4 towers as "Extreme HD" with double-shear link mounts and extra material — much less break-prone than the original nitro Jato
 - CF doesn't save meaningful weight at typical 4mm thickness
 - Aluminum transfers force to trans case (well-known issue)
-- **Verdict:** stock composite is the smart pick
+- Stock towers run ~$6 each — cheapest option as well as sacrificial
+- **Verdict:** stock composite is the smart pick, even for racing
 
 **Aftermarket options (if you want them anyway):**
 
 | Option | Price | Notes |
 |--------|-------|-------|
+| **Stock Traxxas composite (front and rear)** | **~$6 each** | Cheapest; sacrificial; same weight as CF at 4mm |
 | G-Maxx / MonsterKingz CF (front + rear) | [$33.29](https://www.ebay.com/itm/236159423243) | Lightest aftermarket option; presumed 4mm. Sold by MonsterKingz on eBay |
 | Powerhobby aluminum set | $39.99 | Heavier than stock |
 | Cobra Racing 7075-T6 aluminum set | $49.95 | Beefiest aluminum option |
