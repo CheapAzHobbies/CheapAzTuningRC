@@ -57,7 +57,8 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
 | **AliExpress CF chassis** (fits Traxxas Slash 4x4 VXL TRA6808 pattern) | To buy | AliExpress / Temu | ~$100 (or less) | [`chassis_analysis.md`](chassis_analysis.md) |
-| **Front + rear bumpers** — Traxxas stock plastic (Slash / Rustler / Jato 4x4 family, exact part TBD on fit check) | To buy | LHS / AMain | $10-15 / pair | [`bumper_analysis.md`](bumper_analysis.md) |
+| **Front bumper** — Traxxas TRA5535 Jato 4x4 OEM (minimal-profile, recovery-friendly) | To buy | LHS / AMain | ~$6-8 | [`bumper_analysis.md`](bumper_analysis.md#front-bumper) |
+| **Rear bumper** — Traxxas TRA5536 Jato 4x4 OEM (assumes OEM wing mount path; switches to TRA6836 Slash 4x4 if STRC conversion is chosen) | To buy — pending [wing mount cascade](aero_analysis.md#shock-tower-compatibility-cascade) | LHS / AMain | ~$6-8 | [`bumper_analysis.md`](bumper_analysis.md#rear-bumper) |
 
 ---
 

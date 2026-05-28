@@ -116,7 +116,7 @@ TBD
 
 | Model | Description | Status |
 |-------|-------------|--------|
-| — | — | — |
+| Custom front-end shroud / wing mount + Rustler bumper integration | Cosmetic shroud that integrates the Rustler 4x4 front bumper (better crash protection, ugly stock) into a clean wing mount. Discussed in [`bumper_analysis.md`](bumper_analysis.md#notes) | Idea / TODO |
 
 ---
 

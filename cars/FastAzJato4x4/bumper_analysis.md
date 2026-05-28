@@ -1,6 +1,10 @@
 # Bumper Selection — FastAzJato4x4
 
-> **Leaning toward: Traxxas stock plastic bumpers from the Slash 4x4 / Jato 4x4 family.** Composite foam-backed bumpers are the matched part for the chassis, cheap, sacrificial, and absorb impacts instead of transferring them to the chassis (same logic as the [shock tower analysis](shock_tower_analysis.md)). Front and rear options TBD between specific Slash 4x4, Rustler 4x4, and Jato 4x4 part numbers.
+> **Front: leaning toward OEM Jato 4x4 front bumper.** Counterintuitive logic: the Jato bumper gives almost no real protection, but **if the nose hits the ground hard enough to matter, the car is going to cartwheel anyway**. A minimal bumper means the nose doesn't dig in — gives a chance to **throttle up and recover from a bad landing** instead of pivoting end-over. A bigger bumper digs into the ground and locks you into the cartwheel.
+>
+> **Tempting alternative: Rustler 4x4 front bumper** — slightly larger, doesn't extend past the wheels (or close to it), so it's still recovery-friendly. The blocker is **it's ugly**. Possible solve: **design a custom front wing mount / cosmetic shroud that integrates the Rustler bumper** so it looks intentional rather than retrofitted.
+>
+> **Rear: leaning toward Traxxas stock plastic** from the Slash 4x4 / Jato family — exact part number depends on the resolved [wing mount cascade decision](aero_analysis.md#shock-tower-compatibility-cascade).
 
 ---
 
@@ -38,23 +42,34 @@
 
 ## Specific part-number options
 
-The Slash 4x4 / Rustler 4x4 / Jato 4x4 family share the same bumper mount pattern, so multiple Traxxas part numbers work. Final pick is preference-driven (cosmetics, exact shape).
+The Slash 4x4 / Rustler 4x4 / Jato 4x4 family share the same bumper mount pattern, so multiple Traxxas part numbers work.
 
-| Part | Fits | Notes |
-|---|---|---|
-| **TRA6835 — Slash 4x4 front bumper** | Slash 4x4 chassis pattern | Common, well-tested. Default starting point |
-| **TRA6836 — Slash 4x4 rear bumper** | Slash 4x4 chassis pattern | Pairs with TRA6835 |
-| **TRA5435 — Rustler 4x4 front bumper** | Same Slash 4x4 chassis family | Slightly different shape — narrower, more pointed |
-| **TRA5536 — Rustler 4x4 rear bumper** | Same family | Pair |
-| **TRA5535 — Jato 4x4 front bumper** | Native Jato fit | Most native to the Jato platform; check fit with the chosen CF chassis |
-| **TRA5536 — Jato 4x4 rear bumper** | Native Jato fit | (Same part number as some Rustler — verify with seller) |
+### Front bumper
 
-> Part numbers above are starting points — verify exact fit with the chosen AliExpress CF chassis before ordering (chassis seller usually documents which Traxxas bumpers their chassis is drilled for). Mount-hole spacing is the key check.
+| Part | Fits | Status | Notes |
+|---|---|---|---|
+| **TRA5535 — Jato 4x4 front bumper** | Native Jato fit | **Leading** | Minimal profile, low ground contact area = recoverable from bad landings. The "let the car cartwheel only if it really has to" pick |
+| TRA5435 — Rustler 4x4 front bumper | Same Slash 4x4 chassis family | Candidate (with custom mount) | Slightly larger than the Jato bumper, doesn't extend past the wheels. Better protection without locking the car into cartwheels. **Ugly stock; would need a custom front wing mount / cosmetic shroud to look intentional** — see [3D Models](README.md#3d-models) TODO |
+| TRA6835 — Slash 4x4 front bumper | Slash 4x4 chassis pattern | Vetoed | Larger than the Rustler / Jato; extends further forward = more likely to dig in on a bad landing and trigger a cartwheel. Wrong direction for this build's recovery-focused logic |
+
+### Rear bumper
+
+Rear bumper choice is constrained by the [wing mount cascade decision](aero_analysis.md#shock-tower-compatibility-cascade) — the OEM Jato wing mount and STRC backflash conversion bolt to different rear bumper geometry.
+
+| Part | Fits | Status | Notes |
+|---|---|---|---|
+| **TRA5536 — Jato 4x4 rear bumper** | Native Jato fit, pairs with OEM Jato wing mount | **Leading if going OEM Jato wing mount** | Same minimal-profile logic as the front |
+| TRA6836 — Slash 4x4 rear bumper | Slash 4x4 chassis pattern, pairs with STRC backflash conversion | Candidate (if going STRC conversion) | Use this if the wing mount cascade lands on the STRC option |
+| TRA5536 — Rustler 4x4 rear bumper | Same family | Candidate | (Note: same part number as some Jato listings — verify with seller before ordering) |
+
+> All part numbers above are starting points — verify exact fit with the chosen AliExpress CF chassis before ordering. Mount-hole spacing is the key check.
 
 ---
 
 ## Notes
 
+- **Recovery-focused logic on the front bumper:** a Jato 4x4 hitting nose-first hard enough to need a bumper is already in a bad landing. The bumper's job here isn't to absorb the impact — it's to **not catch the ground and trigger a cartwheel** before you can power out of it. Smaller bumper = less ground contact = better chance to throttle through and save the run.
 - **Why no premium / aftermarket bumpers:** the chassis is intended as disposable (~$100 CF). Spending $40-60 on premium bumpers for a chassis you might crash-replace is upside-down value.
 - **Sacrificial logic carries over from shock towers:** the chosen direction in this build is "let cheap plastic parts absorb the energy so expensive parts (chassis, diffs, motor) don't have to."
-- **Photos & exact part numbers TBD** — finalize when ordering, based on which specific Slash / Rustler / Jato bumper shape clears the bodywork and arm geometry on the FastAzJato4x4.
+- **Custom front-bumper / wing-mount integration (TODO):** if the Rustler 4x4 front bumper proves to give meaningful crash protection without sacrificing recovery, a custom front-end shroud / wing mount that integrates the bumper would be worth a 3D print. Tracked in [3D Models](README.md#3d-models). Goal: keep the Rustler's better protection geometry while making it look like an intentional part of the car rather than a retrofit.
+- **Photos & exact part numbers TBD** — finalize when ordering, based on which specific Jato / Rustler / Slash bumper shape clears the bodywork and arm geometry on the FastAzJato4x4.
