@@ -20,6 +20,8 @@
 - [3D Models](#3d-models)
 - [TODO / Notes](#todo--notes)
 
+> **Decision-locked parts** with a chosen part and confirmed cost live in [`BOM.md`](BOM.md).
+
 ---
 
 ## Car Overview
