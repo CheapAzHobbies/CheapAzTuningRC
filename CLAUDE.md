@@ -79,7 +79,20 @@ The doc section should:
 
 1. **Title** — `# <PartType> Selection — <CarName>`
 2. **Lead recommendation blockquote** — one paragraph: `> **Chosen / Leaning toward: <name>** — short reason`
-3. **Hero image(s)** of the chosen / leading item at 600px wide, centered with `<p align="center">`, wrapping the product-page link. If the chosen item is actually two parts (e.g. front + rear shock tower), put both at 500px inside one centered `<p>` with `&nbsp;` between them and a centered italic caption below. Skip if no image exists yet.
+3. **Hero image(s)** of the chosen / leading item, always inside `<p align="center">`. **Always centered — no exceptions.**
+   - **1 image**: 600px wide, wrapped in the product-page link.
+   - **2 images (max)**: side by side at 500px each, separated by `&nbsp;`, both inside one `<p align="center">`. Caption on a new line below using `<br><em>left · right</em>`.
+   - Skip if no image exists yet.
+   ```html
+   <!-- 1 image -->
+   <p align="center"><a href="URL"><img src="src/file.jpg" width="600"></a><br><em>Caption</em></p>
+
+   <!-- 2 images side by side -->
+   <p align="center">
+     <img src="src/left.jpg" width="500">&nbsp;<img src="src/right.jpg" width="500"><br>
+     <em>Left caption · Right caption</em>
+   </p>
+   ```
 4. `---`
 5. **Key Requirements table** (see below)
 6. **Comparison table** (see below)

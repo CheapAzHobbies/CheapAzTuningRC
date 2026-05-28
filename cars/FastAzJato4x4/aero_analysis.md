@@ -3,7 +3,7 @@
 > **Chosen: AliExpress generic wing + OEM Jato 4x4 wing mount (TRA9046) via Meelobee technique** — best of both worlds. TRA9046 mounts to the Slash 4x4 Extreme HD rear tower (**TRA9039**, $6.00) using a small custom aluminum plate on top of the tower (not the side). Slash 4x4 tower geometry puts shocks centered and protected from rear-end impact — solves the one Con on the OEM mount. Wing angle adjustable via 3D printed shims. Wing holes drilled with a reamer on the grid pattern. Credit: [Meelobee on r/Traxxas](https://www.reddit.com/r/Traxxas/comments/1mzllk0/slash_4x4_converted_to_backslash/) — specifically for the wing mount-to-tower plate method.
 
 <p align="center">
-  <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="400"></a>&nbsp;<a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="400"></a><br>
+  <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="500"></a>&nbsp;<a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="500"></a><br>
   <em>AliExpress 1/8 Buggy Wing &nbsp;·&nbsp; OEM Jato 4x4 Wing Mount TRA9046</em>
 </p>
 
