@@ -47,6 +47,26 @@
 
 ---
 
+## Real-World Weight: 1412 3200KV + Cooling vs 1415 2400KV Bare
+
+The Castle 1412 3200KV's "free, already in hand, lightest 4S option" advantage looks great on paper. But it needs a fan to stay in safe temps on 4S, and the fan + heatsink rig isn't light. Once you account for the cooling, the two leading options end up at basically the same effective weight:
+
+| Setup | Component | Weight |
+|---|---|---|
+| **Castle 1412 3200KV + cooling** | Castle 1412 3200KV motor | 265 g |
+| | Surpass twin 30mm metal fans (2 × ~18g) | ~36 g |
+| | Surpass aluminum heatsink mount (36×47mm) | ~14 g |
+| | **Total** | **~315 g** |
+| **Castle 1415 2400KV bare** | Castle 1415 2400KV motor | 318 g |
+| | No fan needed (4S native, 2400KV runs cool) | 0 g |
+| | **Total** | **318 g** |
+
+**Within 3 grams.** And the 1412 + cooling weight is all sitting **up high on the motor**, exactly where added mass hurts handling most (raises CG). The 1415 just is the weight — no extra bracketry, no fan motor, nothing to install.
+
+**Take:** the in-hand 1412's weight advantage disappears once cooling is honest in the math. The 1415 buys you cooler running, no fan dependence, native 4S, modern 4-pole 12-slot design, and the same effective weight for ~$130. The 1412 2100KV variants do even better — 4S native AND lower bare weight than the 1415.
+
+---
+
 ## KV Reference
 
 KV is a no-load speed rating — same top speed at same KV on same voltage. The differences between options at the same KV are torque, heat, and efficiency (stator size, lamination quality, how the motor is wound for the voltage).
