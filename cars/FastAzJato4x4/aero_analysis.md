@@ -67,8 +67,8 @@ The wing mount choice changes which rear shock tower the build uses, which chang
 
 | Wing mount | Required rear tower | Shock position / Crash exposure | Photo |
 |---|---|---|---|
-| **OEM Jato 4x4 wing mount** | Stock Jato #9034 (chosen in [shock tower analysis](shock_tower_analysis.md)) | **Back side of the car** — shocks angled rearward off the tower<br>**Exposed to rear-end impacts** — user has cracked shock bodies (HPI Vorza 97mm) this way | <img src="src/shock_tower_traxxas_jato4x4_rear_spring_backside.jpg" width="500"> |
-| ~~STRC ST6808B conversion~~ (Vetoed) | Older Slash 4x4-style rear tower | **Centered** — shocks angled forward from the tower toward the chassis<br>**Protected** — chassis sits between shocks and the rear bumper line | <img src="src/shock_tower_strc_slash_conversion_shock_forward.jpg" width="500"> |
+| **OEM Jato 4x4 wing mount** | Stock Jato #9034 (chosen in [shock tower analysis](shock_tower_analysis.md)) | **Back side of the car** — shocks angled rearward off the tower<br><br>**Exposed to rear-end impacts** — user has cracked shock bodies (HPI Vorza 97mm) this way | <img src="src/shock_tower_traxxas_jato4x4_rear_spring_backside.jpg" width="500"> |
+| ~~STRC ST6808B conversion~~ (Vetoed) | Older Slash 4x4-style rear tower | **Centered** — shocks angled forward from the tower toward the chassis<br><br>**Protected** — chassis sits between shocks and the rear bumper line | <img src="src/shock_tower_strc_slash_conversion_shock_forward.jpg" width="500"> |
 
 **This is a real cross-decision constraint** between the aero analysis and the shock tower analysis. The shock tower analysis chose the stock #9034 partly because it's cheap, sacrificial, and 4S-rated for the Extreme HD strength. But that decision assumes the OEM Jato 4x4 wing mount — going with the STRC conversion would force a different rear tower entirely.
 
