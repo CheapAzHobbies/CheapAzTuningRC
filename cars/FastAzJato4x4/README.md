@@ -52,6 +52,7 @@ TBD
 |-----------|------|-------|
 | CVDs | Traxxas E-Revo CVDs | Chopped to fit |
 | Hubs | Traxxas Jato 4x4 stock hex hubs | — |
+| Diff Housings | Traxxas stock plastic | Lightest and cheapest option — aluminum diff housings add weight and cost without meaningful durability gain on this build |
 
 ---
 
