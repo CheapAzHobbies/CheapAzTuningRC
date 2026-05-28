@@ -37,5 +37,9 @@
 ## Notes
 
 - **Why TRA6808 fit pattern works:** the Slash 4x4 VXL and the Jato 4x4 share the same gearbox housings, bulkhead spacing, and shock mount geometry. A Slash 4x4 CF chassis bolts up to a Jato 4x4 drivetrain without modification.
-- **Actual failure-mode hierarchy on this build:** the chassis is *not* the most-broken part — the **FLM extended arms are first to go** in a hard crash, and they bend rather than shatter so you can roughly reshape them and keep driving. See [`arm_analysis.md`](arm_analysis.md). The CF chassis is genuinely durable in practice. So while "disposable mindset" was the original framing for picking a cheap CF chassis, in reality you'll be replacing arms way more often than chassis plates.
+- **Chassis is hopefully NOT actually disposable.** The original framing ("cheap enough to risk") was a worst-case attitude. The expected reality:
+  - **Arms give way first** — FLM extended arms are bendable, take the hit, get reshaped back, keep driving (see [`arm_analysis.md`](arm_analysis.md))
+  - **The whole build is light** — less mass = less kinetic energy in any given crash = less force into the chassis. A light car bouncing off something at 35 mph delivers less energy to the chassis than a heavy 1/8 truck would
+  - **The minimal-bumper choice is a calculated risk**, not a "the chassis is disposable so whatever" attitude. Going [TRA9044 minimal-profile bumpers](bumper_analysis.md) accepts that some chassis hits will sneak through in exchange for cartwheel recovery
+  - Net effect: the CF chassis should last considerably longer than the cheap price suggests, and "disposable" is really the fallback plan rather than the operating assumption
 - **QC tip:** if buying from AliExpress, look for sellers with 95%+ positive feedback and >100 sold; avoid the brand-new listings. Photos in customer reviews are more honest than seller-supplied images.
