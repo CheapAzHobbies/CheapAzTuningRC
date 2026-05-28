@@ -48,7 +48,7 @@
 
 | Mount | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| **OEM Jato 4x4 wing mount** (Traxxas, mounts to #9034 rear tower) | **Leading** | Pro: Direct fit to the chosen Jato stock rear tower (#9034). No modifications. Cheapest mount path<br>Con: **Shocks end up on the back side of the car** in the Jato 4x4 geometry — exposed to rear-end impact damage. User has cracked shock bodies this way before | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/aero_traxxas_jato_4x4_oem_wing_mount.jpg` |
+| **OEM Jato 4x4 wing mount** TRA9046 (mounts to #9034 rear tower) | **Leading** | Pro: Direct fit to the chosen Jato stock rear tower (#9034). No modifications. $7.00 from AMain Hobbies<br>Con: **Shocks end up on the back side of the car** in the Jato 4x4 geometry — exposed to rear-end impact damage. User has cracked shock bodies this way before | <a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="300"></a> |
 | **STRC SPTST6808B backflash conversion kit** | Candidate | Pro: Repositions the wing/body mount and **uses the older Slash 4x4-style rear shock tower geometry, which centers the shocks instead of putting them at the back** — better shock protection in rear-end crashes. Includes the mount + necessary brackets<br>Con: **Forces using the older Slash 4x4-style rear shock tower instead of the chosen #9034 Jato stock tower** — see [shock tower cascade below](#shock-tower-compatibility-cascade). $30-50 kit cost. Adds parts and assembly complexity | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/aero_strc_sptst6808b_backflash_conversion.jpg` |
 
 ---
