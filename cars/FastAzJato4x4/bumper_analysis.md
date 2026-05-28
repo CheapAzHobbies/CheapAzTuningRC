@@ -13,8 +13,7 @@
 ## Table of Contents
 
 - [Key Requirements](#key-requirements)
-- [Bumper Comparison](#bumper-comparison) — material families
-- [Specific part-number options](#specific-part-number-options) — Slash / Rustler / Jato fits
+- [Bumper Options](#bumper-options) — OEM set, front alternatives, rear alternatives
 - [Notes](#notes)
 
 ---
@@ -35,20 +34,7 @@
 
 ---
 
-## Bumper Comparison
-
-| Material family | Status | Pros / Cons | Notes |
-|---|---|---|---|
-| **Traxxas stock plastic + foam** (Slash / Rustler / Jato family) | **Leading** | Pro: Cheap, light, sacrificial. Widely stocked at every hobby store. Matches the chassis class. **Multi-role: front bumper also takes ground hits as a quasi-skid; stock Jato rear skid plate replaces a separate rear bumper entirely**<br><br>Con: Cracks under hard impacts; needs occasional replacement | Same "cheap consumable" reasoning as the chosen Traxxas stock shock towers |
-| ~~Aluminum / billet bumpers~~ | **Vetoed** | Pro: Won't break in normal crashes. **Weight isn't the issue here** — bumpers sit low on the chassis (unlike shock towers up high), so the CG / handling penalty for aluminum is small<br><br>Con: **Bends instead of breaking — and once bent, it stays bent and looks bad permanently.** Can't reshape aluminum back to factory by hand; you live with the crooked bumper or replace it (at much higher cost than a $5 plastic). Plus the chassis-cascade problem (transfers impact to the CF chassis instead of cracking sacrificially) — see [shock tower aluminum nuance](shock_tower_analysis.md#material-properties-reference) | — |
-| ~~Carbon fiber bumpers~~ | **Vetoed** | Pro: Stiff, light<br><br>Con: Brittle failure mode — when CF bumpers break, they explode and transfer the rest of the energy to the chassis. Worst of both worlds for the role bumpers play | — |
-| ~~Skipping the bumpers entirely~~ | **Ruled Out** | Pro: "Saves weight"<br><br>Con: **Not actually a weight-savings option — the Traxxas bumpers retain the hinge pins on this chassis family.** No bumper = pins migrate out = arms come loose. Cars die from this. And weight savings is minimal anyway since the bumpers are tiny plastic parts | — |
-
----
-
-## Specific part-number options
-
-The Slash 4x4 / Rustler 4x4 / Jato 4x4 family share the same bumper mount pattern, so a wide range of Traxxas (and RPM aftermarket) part numbers work.
+## Bumper Options
 
 ### OEM set — front + rear together (the leading default)
 
