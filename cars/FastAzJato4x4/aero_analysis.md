@@ -29,7 +29,7 @@
 
 | Wing | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| **Generic AliExpress 1/8 Buggy Tail Wing** | **Chosen** | Pro: Cheap, noticeably lighter than Traxxas stock wing, nylon plastic (good tenacity), grid pattern on underside — drill holes with a reamer for clean precision cuts without cracking. Easy to replace when it breaks<br>Con: QC varies on finish; irrelevant for a wing you're drilling anyway | <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="300"></a><br><img src="src/aero_generic_wing_aliexpress_dimensions.webp" width="300"><br><em>with dimensions</em> |
+| **Generic AliExpress 1/8 Buggy Tail Wing** | **Chosen** | Pro: $2.50–$4, noticeably lighter than Traxxas stock wing, nylon plastic (good tenacity), grid pattern on underside — drill holes with a reamer for clean precision cuts without cracking. Also fits E-Revo 1.0. Easy to replace when it breaks<br>Con: QC varies on finish; irrelevant for a wing you're drilling anyway | <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="300"></a><br><img src="src/aero_generic_wing_aliexpress_dimensions.webp" width="300"><br><em>with dimensions</em> |
 | **Traxxas Jato 4x4 stock wing** (#9517) + **wing mounts** (#9046) | Candidate | Pro: Guaranteed fit to OEM Jato geometry, no guesswork on mount hole spacing<br>Con: Heavier than AliExpress nylon wing — generic is noticeably lighter. $13.79 (wing + mounts bundle) from Jenny's RC | <a href="https://www.traxxas.com/products/parts/9517"><img src="src/aero_traxxas_jato_4x4_stock_wing_90154.jpg" width="300"></a> |
 
 **AliExpress wing specs (in hand):**

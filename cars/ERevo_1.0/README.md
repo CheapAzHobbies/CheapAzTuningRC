@@ -88,7 +88,7 @@ TBD
 
 ## Aero & Body
 
-TBD
+**Wing:** Generic AliExpress 1/8 Buggy Tail Wing — $2.50–$4, fits perfectly. Nylon, lighter than OEM. Grid pattern on underside for marking drill holes; use a reamer for clean cuts. Same wing as FastAzJato4x4.
 
 ---
 
