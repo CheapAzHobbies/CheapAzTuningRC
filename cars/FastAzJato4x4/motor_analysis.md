@@ -55,20 +55,21 @@ Not a motor itself — a fan/heatsink add-on that bolts to the motor's outside i
 
 | Cooling Rig | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| ~~Surpass Hobby 36mm Dual-Fan Aluminum Heatsink — stock plastic fans~~ | Fan size: 30mm × 30mm × 10mm (×2 plastic)<br>Heatsink: T6 aluminum frame, graphite fan cover<br>Suits: 36mm-can 540 / 550 motors<br>Max RPM: 28,000 @ 8.4V<br>Cable: 263mm extension included<br>**Weight: 55 g total** (18g fans + 37g heatsink/mount/cable)<br>Price: ~$7.28 (AliExpress) | **Vetoed** | Pro: Cheap (~$7), comes complete with both fans + heatsink + extension cable, well-reviewed (4.9/5 across 186 reviews), the 9g plastic fans are the lightest option<br>Con: **Bracing a problem the chosen motor shouldn't have.** Adds 55g up high on the motor (raises CG); leading 1415 2400KV / 1412 2100KV picks don't need cooling. Plastic fans are more fragile than metal | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/electronics_surpass_hobby_fan_heatsink_36mm_dual.jpg` |
-| ~~Surpass Hobby 36mm Dual-Fan Heatsink — metal fan swap~~ | Same heatsink + mount + cable as above<br>2× metal fans @ 13.17g each = 26.34g<br>**Weight: ~63 g total** (26.3g fans + 37g heatsink/mount/cable)<br>Price: ~$7.28 heatsink + ~$10 for 2 metal fans | **Vetoed** | Pro: Metal fans basically never fail unless smacked; same airflow as plastic at this size<br>Con: 8 g heavier than the plastic-fan setup (~63 g vs 55 g), and the whole rig is still vetoed for the leading motor picks | (same Surpass photo) |
+| ~~Surpass Hobby 36mm Dual-Fan Aluminum Heatsink (with metal fans)~~ | Heatsink: T6 aluminum frame, graphite fan cover<br>2× 30mm metal fans @ 13.17g each = 26.3g<br>Suits: 36mm-can 540 / 550 motors (marked "540-L")<br>Footprint: 60.2 × 47 × 34.3mm<br>Max RPM: 28,000 @ 8.4V<br>Cable: 263mm extension included<br>**Weight: ~63 g total** (26.3g metal fans + 37g heatsink/mount/cable)<br>Price: ~$7.28 heatsink + ~$10 for metal fans = **~$17 all in** | **Vetoed** | Pro: Cheap (~$17 total), one of the lightest dual-fan options, metal fans basically never fail unless smacked, complete with extension cable<br>Con: **Bracing a problem the chosen motor shouldn't have.** Adds ~63 g up high on the motor (raises CG); leading 1415 2400KV / 1412 2100KV picks don't need cooling | <img src="src/electronics_surpass_hobby_fan_heatsink_36mm_dual.png" width="300"> |
 
-### Math: how the 55 g breaks down
+### Math: where the ~63 g comes from
 
-- Listed assembly weight (Surpass listing): **55 g**
-- 2 × plastic fans @ 9 g each: **18 g**
-- → Heatsink + mounting + extension cable: **55 − 18 = 37 g**
-- 2 × metal fans @ 13.17 g each: **26.3 g**
-- → Total with metal fans: **37 + 26.3 = ~63 g**
+The Surpass listing ships with plastic fans and lists assembly weight at **55 g**. Plastic fans die fast in practice and always get swapped for metal, so the realistic setup is:
 
-The non-fan structure (T6 aluminum frame + graphite cover + cable) is **37 g**, irreducible. Fan swap only moves the needle by 8 g.
+- Listed assembly (with plastic fans): **55 g**
+- − 2 × plastic fans @ 9 g each: **18 g**
+- = Heatsink + mounting + extension cable (irreducible): **37 g**
+- + 2 × metal fans @ 13.17 g each: **26.3 g**
+- = **~63 g total with metal fans**
 
-> Must order the **36mm dual-fan** variant — the 28/29mm versions are for smaller 380/390 motors (won't fit a 36mm can), and the single-fan 36mm version (46g) doesn't cool as well. Sizes/weights from the same Surpass listing: 28/29 single 29g, 28/29 dual 34g, 36 single 46g, **36 dual 55g**.
+The 37 g of T6 aluminum frame + graphite cover + cable is baked in regardless of fan choice.
+
+> Must order the **36mm dual-fan** variant — the 28/29mm versions are for smaller 380/390 motors (won't fit a 36mm can), and the single-fan 36mm version (46g) doesn't cool as well. Sizes from the same Surpass listing: 28/29 single 29g, 28/29 dual 34g, 36 single 46g, **36 dual 55g** (all with stock plastic fans).
 
 ---
 
@@ -78,10 +79,7 @@ The Castle 1412 3200KV's "free, already in hand, lightest 4S option" advantage l
 
 | Setup | Component | Weight |
 |---|---|---|
-| **Castle 1412 3200KV + Surpass plastic-fan cooling** | Castle 1412 3200KV motor | 265 g |
-| | Surpass 36mm dual heatsink + 2× plastic fans (9g ea) | 55 g |
-| | **Total** | **320 g** |
-| **Castle 1412 3200KV + Surpass metal-fan cooling** | Castle 1412 3200KV motor | 265 g |
+| **Castle 1412 3200KV + Surpass cooling (metal fans)** | Castle 1412 3200KV motor | 265 g |
 | | Surpass 36mm dual heatsink + 2× metal fans (13.17g ea) | ~63 g |
 | | **Total** | **~328 g** |
 | **Castle 1415 2400KV bare** | Castle 1415 2400KV motor | 318 g |
@@ -91,7 +89,7 @@ The Castle 1412 3200KV's "free, already in hand, lightest 4S option" advantage l
 | | No fan needed (4S native, "cool running torque animal") | 0 g |
 | | **Total** | **265 g** |
 
-**Plastic-fan setup is within 2 g of the 1415 bare; metal-fan setup is 10 g heavier than the bare 1415.** Either way, the 1412 + cooling weight is sitting **up high on the motor**, exactly where added mass hurts handling most (raises CG). The 1415 just is the weight — no extra bracketry, no fan housing, nothing to mount. The **1412 2100KV bare at 265 g blows everything else out of the water on weight** — 53 g lighter than the 1415, 55 g lighter than the cooled 1412.
+**The cooled 1412 setup is 10 g heavier than the bare 1415**, and the 63 g of cooling rig is sitting **up high on the motor** — exactly where added mass hurts handling most (raises CG). The 1415 just is the weight — no extra bracketry, no fan housing, nothing to mount. The **1412 2100KV bare at 265 g blows everything else out of the water on weight** — 53 g lighter than the 1415, 63 g lighter than the cooled 1412.
 
 > Surpass Hobby 36mm dual-fan heatsink — confirmed specs from listing: aluminum heatsink frame + graphite fan cover + two plastic-blade fans, 28000 RPM @ 8.4V, 55g for the complete 36mm dual-fan assembly (lighter 28/29mm versions are 29-34g, single-fan 36mm is 46g — we'd need the 36mm dual to cool the 36mm-can 1412).
 
