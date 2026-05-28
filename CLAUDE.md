@@ -79,7 +79,7 @@ The doc section should:
 
 1. **Title** — `# <PartType> Selection — <CarName>`
 2. **Lead recommendation blockquote** — one paragraph: `> **Chosen / Leaning toward: <name>** — short reason`
-3. **Hero image(s)** of the chosen / leading item at 600px wide, centered with `<p align="center">`, wrapping the product-page link. If the chosen item is actually two parts (e.g. front + rear shock tower), put both at 300px inside one centered `<p>` with `&nbsp;` between them and a centered italic caption below. Skip if no image exists yet.
+3. **Hero image(s)** of the chosen / leading item at 600px wide, centered with `<p align="center">`, wrapping the product-page link. If the chosen item is actually two parts (e.g. front + rear shock tower), put both at 500px inside one centered `<p>` with `&nbsp;` between them and a centered italic caption below. Skip if no image exists yet.
 4. `---`
 5. **Key Requirements table** (see below)
 6. **Comparison table** (see below)
@@ -105,7 +105,7 @@ The doc section should:
 ```
 | <PartType> | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **Brand Model** | Key: value<br>Key: value<br>... | **Chosen** / **In Hand** / **Candidate** / **Vetoed** / Ruled Out | Pro: ...<br>Con: ... | <a href="<product-page-url>"><img src="src/<image-filename>" width="300"></a> |
+| **Brand Model** | Key: value<br>Key: value<br>... | **Chosen** / **In Hand** / **Candidate** / **Vetoed** / Ruled Out | Pro: ...<br><br>Con: ... | <a href="<product-page-url>"><img src="src/<image-filename>" width="500"></a> |
 ```
 
 Rules:
@@ -119,16 +119,17 @@ Rules:
 - **Row order**: Chosen / In Hand / Candidate rows at the top of the table, Vetoed / Ruled Out rows at the bottom. Strike through the row label with `~~name~~` for Vetoed and Ruled Out.
 - **Pros / Cons**: single cell with `Pro: ...<br><br>Con: ...` — use a double `<br>` between Pro and Con to add a blank line for readability. Keep both on the same row even when one is short. Keep each line short and punchy — no long run-on sentences.
 - **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="500"></a>`. **Minimum 500px in the table**; 600px for the hero image of the chosen item. Use a local `src/` image when one exists; fall back to an external image only if no local one is available.
-- **Multi-part items**: when one row covers a pair (e.g. front + rear shock tower), show both photos side-by-side at 150px each with `&nbsp;` between, plus a centered `<em>` caption naming each. Example:
+- **Multi-part items**: when one row covers a pair (e.g. front + rear shock tower), show both photos side-by-side at 250px each with `&nbsp;` between, plus a centered `<em>` caption naming each. Example:
   ```html
-  <img src="src/...front.jpg" width="150"> <img src="src/...rear.jpg" width="150"><br><em>front · rear</em>
+  <img src="src/...front.jpg" width="250"> <img src="src/...rear.jpg" width="250"><br><em>front · rear</em>
   ```
+- **Keep images inside the table**: never move photos out of the table into a separate gallery section below — the table must be self-contained. The Photo/Link column stays in every comparison table. If an image feels too small, increase the `width` attribute (minimum 500px), not remove it from the table.
 - **Chosen row in the table**: include the photos in the Photo cell too — don't write "see hero above". The table should be self-contained.
 - **Same-brand, cross-platform parts**: if a brand sells two variants for similar-but-different cars (e.g. GPM SLA028 for Slash 4x4 vs TJ028 for Jato 4x4), split into two rows — the right-fit row gets its own status, the wrong-fit row is `Ruled Out` for geometry mismatch and exists to warn future readers not to order it.
 - **Shared photos**: when several rows are physically the same part with different windings or trim (e.g. Hobbywing EZRun 3665SD G3 in 2400 / 3200 / 4000KV — same can, different windings), use the same `src/` image for all of them. The leading row gets the `<img>` tag; later rows show `(reuses src/<filename>)` to make the relationship obvious without duplicating the photo.
 - **Missing photos**: if no image exists yet, use a placeholder so the user knows one is needed — never use a bare `—`. Format:
   ```html
-  <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="300"><br>🚧 save as `src/<expected-filename>.jpg`
+  <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/<expected-filename>.jpg`
   ```
   The expected filename should follow the `[section]_[brand]_[description]_[part-number].[ext]` convention so the user can drop the image straight in.
 - **Consistency audit**: claims like "lightest", "cheapest", "highest amp" must be checked against the actual numbers in the table. If multiple rows make conflicting claims, fix them (e.g. "lightest waterproof option" or "lightest 6S-capable" — narrow the claim instead of dropping it).
