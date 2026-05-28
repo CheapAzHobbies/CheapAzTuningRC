@@ -52,7 +52,8 @@ Plastic guards that mount around the arm / drivetrain area. Keep dirt, grass, an
 
 | Guard | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| **TRA6732** Traxxas Front Suspension Arm Guards | **Chosen** | Pro: $9.95. Composite, lightweight. Keeps grass out of driveshafts and debris off shocks/sway bar mounts. Includes all hardware (spacers, hollow balls, screws). Fits Slash 4x4 even though listed for Stampede 4x4. Also fits RPM arms<br><br>Con: Front guards listed — rear version may need trimming to clear chassis | <a href="https://www.amazon.com/dp/B00FIIWV9I"><img src="src/suspension_traxxas_arm_guards_tra6732.jpg" width="500"></a> |
+| **TRA6732** Front Arm Guards | **Chosen** | Pro: $9.95. Composite, lightweight. Keeps grass out of driveshafts and debris off shocks/sway bar mounts. Includes all hardware (spacers, hollow balls, screws). Fits Slash 4x4 even though listed for Stampede 4x4. Also fits RPM arms<br><br>Con: None — bolt-on with included hardware | <a href="https://www.amazon.com/dp/B00FIIWV9I"><img src="src/suspension_traxxas_arm_guards_tra6732.jpg" width="500"></a> |
+| **TRA6733** Rear Arm Guards | **Chosen** | Pro: $7.00. Same composite construction as front. Keeps rear driveshafts and shocks protected. In stock at HobbyTown<br><br>Con: None noted | <img src="src/suspension_traxxas_arm_guards_rear_tra6733.jpg" width="500"> |
 
 ---
 
