@@ -29,8 +29,8 @@
 
 | Wing | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| **Generic AliExpress 1/8 Buggy Tail Wing** | **In Hand / Leading** | Pro: Cheap, nylon plastic (good tenacity), grid pattern on underside for easy mounting hole marking, easy to replace<br>Con: QC varies; verify mounting hole spacing against chosen mount before ordering more | <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="300"></a><br><img src="src/aero_generic_wing_aliexpress_dimensions.webp" width="300"><br><em>with dimensions</em> |
-| **Traxxas Jato 4x4 stock wing** (part #90154) | Candidate | Pro: Guaranteed fit to OEM Jato wing mount, factory-spec aero<br>Con: ~$15-25 from Traxxas, more expensive than generic for no real performance gain on this build | <a href="https://www.traxxas.com/products/parts/90154"><img src="src/aero_traxxas_jato_4x4_stock_wing_90154.jpg" width="300"></a> |
+| **Generic AliExpress 1/8 Buggy Tail Wing** | **In Hand / Leading** | Pro: Cheap, noticeably lighter than Traxxas stock wing, nylon plastic (good tenacity), grid pattern on underside for easy mounting hole marking, easy to replace<br>Con: QC varies; verify mounting hole spacing against chosen mount before ordering more | <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="300"></a><br><img src="src/aero_generic_wing_aliexpress_dimensions.webp" width="300"><br><em>with dimensions</em> |
+| **Traxxas Jato 4x4 stock wing** (#9517) + **wing mounts** (#9046) | Candidate | Pro: Guaranteed fit to OEM Jato geometry, no guesswork on mount hole spacing<br>Con: Heavier than AliExpress nylon wing — generic is noticeably lighter. ~$15-25 from Traxxas | <a href="https://www.traxxas.com/products/parts/9517"><img src="src/aero_traxxas_jato_4x4_stock_wing_90154.jpg" width="300"></a> |
 
 **AliExpress wing specs (in hand):**
 - Material: Nylon plastic
