@@ -56,23 +56,26 @@ All parts go in one table with these columns:
 All images go in `CarName/src/` and follow this format:
 
 ```
-[section]_[part-description]_[part-number].[ext]
+[section]_[brand]_[part-description]_[part-number].[ext]
 ```
 
 **Sections:** `base`, `suspension`, `drivetrain`, `electronics`, `steering`, `aero`, `body`, `bumpers`, `overview`
 
+**Brand:** the manufacturer (e.g. `traxxas`, `hpi`, `hb`, `tekno`, `castle`, `strc`, `wltoys`, `gmaxx`, `cobra`). Omit if the part is generic / AliExpress / no real brand.
+
 **Examples:**
 ```
-suspension_shocks_apache_c1_107365.jpg
-drivetrain_center_diff_tra6814.jpg
-electronics_esc_copperhead10.jpg
-bumpers_skid_plates_tra9044.jpg
-body_pink_white.jpg
+suspension_hpi_shocks_apache_c1_107365.jpg
+drivetrain_traxxas_center_diff_tra6814.jpg
+electronics_castle_esc_copperhead10.jpg
+bumpers_traxxas_skid_plates_tra9044.jpg
+body_pink_white.jpg                    (generic — brand omitted)
 ```
 
 Rules:
 - All lowercase
 - Underscores, no spaces
+- Brand right after section
 - Include part number at the end when available
 
 ---

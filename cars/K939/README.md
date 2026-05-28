@@ -112,21 +112,21 @@ None — removed for Meldrum Bar Park conditions.
 
 | Part # | Description | Category | Cost | Source | Photo |
 |--------|-------------|----------|------|--------|-------|
-| K939 | Wltoys K939 1/10 4WD 2.4G Electric RC Short Course RTR | Base Car | $137.70 (inc. shipping) | Alibaba (Aug 2019) | ![](src/base_car_wltoys_k939_alibaba.png) |
-| HPI 107365 | Big Bore Sport Shock Set Apache C1 (97mm, 2pcs) x2 sets | Suspension | $39.98 ($19.99 ea) | Amazon — Hobby-Sports | ![](src/suspension_shocks_apache_c1_107365.jpg) |
-| HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | $11.75 | eBay — power_hobby | ![](src/suspension_springs_hb67453_52gf_grey.jpg) |
-| TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | $83.75 (gifted by sister) | PowerHobby | ![](src/drivetrain_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
-| TKR1654-17 | Tekno RC 17mm M6 Hub Adapter Driveshaft Slash/Stampede (set of 2) | Drivetrain | $46.30 ($23.15 ea) | eBay — qliquid_rc | ![](src/drivetrain_hub_adapter_tkr1654-17.jpg) |
-| TRA6814 | Traxxas Slash 4x4 Pre-Built Center Differential Kit — nylon construction, sealed, currently running 500k wt oil, 2S LiPo/NiMH rated. **Note: cheaper to buy individual parts and build yourself.** | Drivetrain | $38.99 | Tammies | ![](src/drivetrain_center_diff_tra6814.jpg) |
-| TRA6842R | Traxxas 32P 50T Center Diff Spur Gear Slash 4x4 — black plastic construction | Drivetrain | $3.00 | Tammies | ![](src/drivetrain_spur_gear_tra6842r_50t.png) |
-| — | Castle Creations 1412 3200kv Sensored Motor 5mm Shaft (x2) | Electronics | $168.06 ($84.03 ea) | Castle Creations | ![](src/electronics_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
-| — | Castle Creations Copperhead 10 1/10 ESC (x2) | Electronics | $217.42 ($108.71 ea) | Castle Creations | ![](src/electronics_esc_copperhead10.jpg) |
+| K939 | Wltoys K939 1/10 4WD 2.4G Electric RC Short Course RTR | Base Car | $137.70 (inc. shipping) | Alibaba (Aug 2019) | ![](src/base_wltoys_car_k939_alibaba.png) |
+| HPI 107365 | Big Bore Sport Shock Set Apache C1 (97mm, 2pcs) x2 sets | Suspension | $39.98 ($19.99 ea) | Amazon — Hobby-Sports | ![](src/suspension_hpi_shocks_apache_c1_107365.jpg) |
+| HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | $11.75 | eBay — power_hobby | ![](src/suspension_hb_springs_52gf_grey_hb67453.jpg) |
+| TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | $83.75 (gifted by sister) | PowerHobby | ![](src/drivetrain_tekno_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
+| TKR1654-17 | Tekno RC 17mm M6 Hub Adapter Driveshaft Slash/Stampede (set of 2) | Drivetrain | $46.30 ($23.15 ea) | eBay — qliquid_rc | ![](src/drivetrain_tekno_hub_adapter_tkr1654-17.jpg) |
+| TRA6814 | Traxxas Slash 4x4 Pre-Built Center Differential Kit — nylon construction, sealed, currently running 500k wt oil, 2S LiPo/NiMH rated. **Note: cheaper to buy individual parts and build yourself.** | Drivetrain | $38.99 | Tammies | ![](src/drivetrain_traxxas_center_diff_tra6814.jpg) |
+| TRA6842R | Traxxas 32P 50T Center Diff Spur Gear Slash 4x4 — black plastic construction | Drivetrain | $3.00 | Tammies | ![](src/drivetrain_traxxas_spur_gear_tra6842r_50t.png) |
+| — | Castle Creations 1412 3200kv Sensored Motor 5mm Shaft (x2) | Electronics | $168.06 ($84.03 ea) | Castle Creations | ![](src/electronics_castle_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
+| — | Castle Creations Copperhead 10 1/10 ESC (x2) | Electronics | $217.42 ($108.71 ea) | Castle Creations | ![](src/electronics_castle_esc_copperhead10.jpg) |
 | — | Aluminum Servo Bell Crank Set | Steering | $10.00 | AliExpress | — |
-| SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | $0.00 (free) | — | ![](src/aero_wing_mount_sptst6808b.jpg) |
+| SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | $0.00 (free) | — | ![](src/aero_strc_wing_mount_sptst6808b.jpg) |
 | Generic | White Rear Wing | Aero | $3.70 | AliExpress | ![](src/aero_wing_rear_white.png) |
-| Generic | Tokyo Speed 110mm 1/8 RC Off-Road Buggy Wheels 17mm Hex (4pcs) | Aero | $20.13 | AliExpress | ![](src/aero_wheels_tokyo_speed_110mm_1-8_buggy.png) |
+| Generic | Tokyo Speed 110mm 1/8 RC Off-Road Buggy Wheels 17mm Hex (4pcs) | Aero | $20.13 | AliExpress | ![](src/aero_tokyo_speed_wheels_110mm_1-8_buggy.png) |
 | Generic | Pink & White Body | Body | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
-| TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | Tammies | ![](src/bumpers_skid_plates_tra9044.jpg) |
+| TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | Tammies | ![](src/bumpers_traxxas_skid_plates_tra9044.jpg) |
 | TBD | Pinion | Drivetrain | — | — | — |
 | | **Total (known)** | | **$812.78** | | |
 

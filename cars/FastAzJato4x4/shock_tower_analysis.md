@@ -14,7 +14,7 @@ Even for the racing build, **stock plastic wins on every axis**:
 
 | Traxxas Stock Front Tower (#9033) | Traxxas Stock Rear Tower (#9034) |
 |-------------------|------------------|
-| ![Traxxas stock front shock tower](src/suspension_shock_tower_stock_front_9033.jpg) | ![Traxxas stock rear shock tower](src/suspension_shock_tower_stock_rear_9034.jpg) |
+| ![Traxxas stock front shock tower](src/suspension_shock_tower_traxxas_stock_front_9033.jpg) | ![Traxxas stock rear shock tower](src/suspension_shock_tower_traxxas_stock_rear_9034.jpg) |
 
 ---
 
@@ -103,7 +103,7 @@ CF wins on **stiffness per gram**. A 3mm CF plate can match a 4mm composite towe
 
 | G-Maxx Carbon Fiber | Cobra Racing Aluminum |
 |---------------------|-----------------------|
-| ![G-Maxx CF towers](src/suspension_shock_tower_cf_gmaxx.jpg) | ![Cobra Racing aluminum towers](src/suspension_shock_tower_alum_cobra.jpg) |
+| ![G-Maxx CF towers](src/suspension_shock_tower_gmaxx_cf.jpg) | ![Cobra Racing aluminum towers](src/suspension_shock_tower_cobra_alum.jpg) |
 
 ### ARRMA Typhon 6S — chassis weight savings minimal
 
