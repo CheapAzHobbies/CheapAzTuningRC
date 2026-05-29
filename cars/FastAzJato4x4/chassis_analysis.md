@@ -1,14 +1,16 @@
 # Chassis Selection — FastAzJato4x4
 
-> **Chosen: AliExpress carbon fiber chassis** (fits Traxxas Slash 4x4 VXL TRA6808 family) — ~$100 or less. The chassis the entire FastAzJato4x4 build is named after. Mounts all standard Traxxas Jato 4x4 parts directly.
+> **Chosen: AliExpress / Cobra Racing CF Chassis Kit** — ~$100, LCG, genuine carbon fiber + aluminum alloy, complete kit with all mounting hardware. Direct fit to Slash 4x4 / Jato 4x4 pattern, accepts all standard Traxxas parts.
+
+<p align="center"><img src="src/chassis_aliexpress_cf_slash_4x4.png" width="600"><br><em>AliExpress / Cobra Racing CF LCG Chassis Kit — ~$100</em></p>
 
 ---
 
 ## Table of Contents
 
-- [Key Requirements](#key-requirements) — Must / May for the chassis pick
-- [Chassis Comparison](#chassis-comparison) — every option considered
-- [Notes](#notes) — fitment + "send it" reasoning
+- [Key Requirements](#key-requirements)
+- [Chassis Comparison](#chassis-comparison)
+- [Notes](#notes)
 
 ---
 
@@ -20,18 +22,17 @@
 | **Accepts standard Traxxas Jato 4x4 parts** | Must | Gearbox housings, bulkheads, shock mounts, bumper mounts — all stock Traxxas hardware must bolt on without modification |
 | **Carbon fiber** | May | Light + stiff, ideal for this build — but the hard requirement is fit, not material |
 | **Cheap** | May | Arms are the intended fuse, chassis should last — but ≤$150 keeps the "just buy another one" option open if something goes wrong |
-| **Available without 2-month wait** | May | AliExpress and similar sellers ship in 2-4 weeks |
 
 ---
 
 ## Chassis Comparison
 
-| Chassis | Material | Status | Pros / Cons | Photo / Link |
+| Chassis | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **AliExpress / Cobra Racing CF Chassis Kit** (fits TRA6808 / 6087 / 6804 Slash 4x4 VXL) | Material: Genuine carbon fiber + aluminum alloy (not fiberglass or CF-look plastic)<br>Type: LCG (Low Center of Gravity)<br>Includes: alum front+rear bulkheads, adjustable alum motor mount (3S–8S), alum battery holder + strap, alum servo mount, CF center brace, all hardware + schematic<br>Motor fit: VXL-3s, 550 type, Castle 1515 + similar<br>Install: no cutting/drilling, ~60–90 min<br>Tested: large pinion gear-up to 125 MPH<br>Sold as: same kit under multiple brand names (AliExpress generics, Cobra Racing, etc.) | **Chosen** | Pro: **~$100 or less**. Complete kit — no separate bulkhead, motor mount, or servo mount purchases needed. Genuine CF, significantly lighter than aluminum. Direct fit to Slash 4x4 / Jato 4x4 pattern. Castle 1515 compatible. Easy to replace if needed<br><br>Con: QC varies between sellers; no warranty. **Weight vs OEM plastic unconfirmed** — kit has aluminum components throughout; needs a weigh-in to verify it's actually lighter than stock | <img src="src/chassis_aliexpress_cf_slash_4x4.png" width="500"> |
-| ~~Traxxas OEM HCG chassis (6822)~~ | Composite nylon<br>Type: HCG (High Center of Gravity) | **Vetoed** | Pro: Free (in box with Jato 4x4), tough in crashes<br><br>Con: High center of gravity hurts handling. Heavier and less stiff than CF. Whole point of this build is to replace it | <img src="src/chassis_traxxas_oem_hcg_6822.jpg" width="500"> |
-| ~~Traxxas OEM LCG chassis (TRA7422)~~ | Composite nylon<br>Type: LCG (Low Center of Gravity) | **Vetoed** | Pro: Lower CG than HCG version — better handling than standard. Tough in crashes<br><br>Con: Still plastic and heavier/less stiff than CF. The CF kit is also LCG, so no reason to stay on plastic | <img src="src/chassis_traxxas_oem_lcg_tra7422.jpg" width="500"> |
-| ~~**STRC LCG Chassis — Slash 4×4**~~ | Material: 4mm CNC aluminum lower + 2.5mm graphite upper deck<br>Includes: alum bulkhead, motor mount + cam, rear suspension mounts, battery brackets, servo mount, sway bar mounts, all hardware<br>Price: ~$99<br>Design: 2S lipo / 550 motor (3S compatible w/ possible plug mods)<br>Status: **Discontinued** | Vetoed | Pro: CNC machined, hard anodized, comprehensive kit, LCG design — well engineered for its time. Same price as the CF kit<br><br>Con: **Discontinued.** Aluminum lower chassis also adds weight vs CF | <img src="src/chassis_strc_alum_lcg_slash_4x4.jpg" width="500"> |
+| **AliExpress / Cobra Racing CF Chassis Kit** (fits TRA6808 / 6087 / 6804 Slash 4x4 VXL) | **Genuine CF + aluminum alloy** (not fiberglass or CF-look plastic)<br>**LCG** (Low Center of Gravity)<br>Includes: alum front+rear bulkheads, adjustable alum motor mount (3S–8S), alum battery holder + strap, alum servo mount, CF center brace, all hardware + schematic<br>Motor fit: VXL-3s, 550 type, Castle 1515 + similar<br>Install: no cutting/drilling, ~60–90 min<br>Tested: large pinion gear-up to 125 MPH<br>Sold as: same kit under multiple brand names | **Chosen** | Pro: **~$100 or less**. Complete kit — no separate bulkhead, motor mount, or servo mount purchases needed. Genuine CF, significantly lighter than aluminum. Direct fit to Slash 4x4 / Jato 4x4 pattern. Castle 1515 compatible. Easy to replace if needed<br><br>Con: QC varies between sellers; no warranty. **Weight vs OEM plastic unconfirmed** — kit has aluminum components throughout; needs a weigh-in to verify it's actually lighter than stock | <img src="src/chassis_aliexpress_cf_slash_4x4.png" width="500"> |
+| ~~Traxxas OEM HCG chassis (6822)~~ | Composite nylon<br>HCG (High Center of Gravity) | **Vetoed** | Pro: Free (in box with Jato 4x4), tough in crashes<br><br>Con: High center of gravity hurts handling. Heavier and less stiff than CF. Whole point of this build is to replace it | <img src="src/chassis_traxxas_oem_hcg_6822.jpg" width="500"> |
+| ~~Traxxas OEM LCG chassis (TRA7422)~~ | Composite nylon<br>LCG (Low Center of Gravity) | **Vetoed** | Pro: Lower CG than HCG version — better handling than standard. Tough in crashes<br><br>Con: Still plastic and heavier/less stiff than CF. The CF kit is also LCG, so no reason to stay on plastic | <img src="src/chassis_traxxas_oem_lcg_tra7422.jpg" width="500"> |
+| ~~**STRC LCG Chassis — Slash 4×4**~~ | 4mm CNC aluminum lower + 2.5mm graphite upper deck<br>Includes: alum bulkhead, motor mount + cam, rear suspension mounts, battery brackets, servo mount, sway bar mounts, all hardware<br>Designed for: 2S lipo / 550 motor (3S compatible w/ possible plug mods)<br>Price: ~$99 | Vetoed | Pro: CNC machined, hard anodized, comprehensive kit, LCG design — well engineered for its time. Same price as the CF kit<br><br>Con: **Discontinued.** Aluminum lower chassis also adds weight vs CF | <img src="src/chassis_strc_alum_lcg_slash_4x4.jpg" width="500"> |
 
 ---
 
