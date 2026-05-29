@@ -1,18 +1,18 @@
 # Differential Selection — FastAzJato4x4
 
 > **Chosen:**
-> - **Front & rear diffs: Traxxas E-Revo** — already in hand. The E-Revo diffs use **6mm outdrives** which mate with the chosen E-Revo CVDs (chopped to fit). Jato 4x4 / Slash 4x4 stock diffs use 5mm outdrives which **physically can't fit E-Revo cups, and the smaller diff openings can't accept E-Revo axles either** — wrong direction of compatibility.
-> - **Center diff: stock Traxxas** with **20k wt oil** — user-tested over multiple builds, no reason to change.
-> - **Center driveshaft: doesn't really matter** — Tekno, stock metal, stock plastic all work. Pick on price and availability.
+> - **Front & rear diffs: Traxxas E-Revo 1.0 with XO-1 I-bar cross pin** — E-Revo housing gives the only 6mm outdrives that mate with the chosen E-Revo CVDs. XO-1 I-bar cross pin swapped inside for added strength. All other diffs (Jato 4x4, Slash 4x4, XO-1) use 5mm outdrives and are ruled out.
+> - **Center diff: stock Traxxas with 20k wt oil** — user-tested across multiple builds, no reason to change.
+> - **Center driveshaft: pick on price and availability** — all options work, consequence-free choice.
 
 ---
 
 ## Table of Contents
 
-- [Key Requirements](#key-requirements) — Must / May for the diff pick
-- [Front & Rear Diff Comparison](#front--rear-diff-comparison) — why E-Revo over Jato/Slash stock
-- [Center Diff Oil](#center-diff-oil) — viscosity choice
-- [Center Driveshaft](#center-driveshaft) — quick summary, basically doesn't matter
+- [Key Requirements](#key-requirements)
+- [Front & Rear Diff Comparison](#front--rear-diff-comparison)
+- [Center Diff Oil](#center-diff-oil)
+- [Center Driveshaft](#center-driveshaft)
 - [Sources](#sources)
 
 ---
@@ -21,7 +21,7 @@
 
 | Requirement | Type | Why |
 |---|---|---|
-| **6mm outdrives** (front & rear) | Must | Match the chosen E-Revo CVDs and E-Revo axles already in hand |
+| **6mm outdrives** (front & rear) | Must | Match the chosen E-Revo CVDs and axles already in hand — all stock Jato/Slash/XO-1 diffs are 5mm and won't accept them |
 | **Fits Jato 4x4 gearbox housing** | Must | Has to physically bolt up to the chassis mounts |
 | **Sealed for oil** | Must | Tunable damping via diff oil viscosity |
 | **Field-rebuildable** | May | Diff service is routine; user-rebuildable beats throw-and-replace |
@@ -31,11 +31,14 @@
 
 ## Front & Rear Diff Comparison
 
-| Diff | Outdrive | Status | Pros / Cons | Photo / Link |
+| Diff | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **Traxxas E-Revo 1.0 differentials (x2 — front & rear)** | **6mm** | **In Hand** | Pro: **Mates the in-hand E-Revo CVDs and axles** (5mm Jato/Slash diffs can't); sealed, rebuildable, field-tunable with diff oil; user has both in hand at $0 cost. Stout 1/8-class internals despite the 1/10 chassis<br><br>Con: Heavier than Jato 4x4 stock; E-Revo diff cases require minor fitting to the Jato gearbox housing | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/drivetrain_traxxas_e_revo_diff.jpg` |
-| ~~Traxxas Jato 4x4 stock diffs~~ | 5mm | **Ruled Out** | Pro: Native fit to the Jato 4x4 gearbox housing<br><br>Con: **5mm outdrives won't accept the in-hand E-Revo CVD cups, and the 5mm diff axles won't fit E-Revo cups either.** Wrong direction of compatibility. Would force ditching the E-Revo CVDs and axles | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/drivetrain_traxxas_jato_4x4_stock_diff.jpg` |
-| ~~Traxxas Slash 4x4 stock diffs~~ | 5mm | **Ruled Out** | Same 5mm outdrive problem as the Jato 4x4 stock diff | (would share Jato stock photo) |
+| **Traxxas E-Revo 1.0 diffs + XO-1 I-bar** | Outdrive: **6mm**<br>Internal upgrade: **XO-1 I-bar cross pin** (I-shaped, stronger than standard round cross pin)<br>Part numbers: TBD — verify E-Revo 1.0 front/rear diff part numbers | **Chosen — In Hand** | Pro: **Only 6mm outdrive diff that mates the in-hand E-Revo CVDs.** XO-1 I-bar cross pin swapped inside adds significant strength under high-torque loads. 1/8-class internals in a 1/10 chassis — overbuilt for the role. $0 cost (already in hand)<br><br>Con: Heavier than stock Jato diffs; E-Revo diff cases require minor fitting to the Jato gearbox housing | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/drivetrain_traxxas_e_revo_diff.jpg` |
+| ~~**Traxxas XO-1 diffs**~~ | Outdrive: **5mm**<br>Internal: I-bar cross pin<br>Part numbers: TBD | Ruled Out | Pro: I-bar cross pin is the strongest stock Traxxas diff internals<br><br>Con: **5mm outdrives — same incompatibility as Jato/Slash stock diffs.** I-bar cross pin is salvaged and used inside the E-Revo housing; the XO-1 diff case itself is not used | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/drivetrain_traxxas_xo1_diff.jpg` |
+| ~~**GPM aftermarket diffs**~~ | Outdrive: TBD — verify<br>Material: aluminum housing<br>Part numbers: TBD | Ruled Out | Pro: Aluminum housing, stronger than plastic OEM<br><br>Con: Outdrive size TBD — verify before ordering. Aluminum housings add weight | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/drivetrain_gpm_diff.jpg` |
+| ~~**Integy aftermarket diffs**~~ | Outdrive: TBD — verify<br>Material: aluminum housing<br>Part numbers: TBD | Ruled Out | Pro: Aftermarket precision, aluminum housing options<br><br>Con: Outdrive size TBD — verify before ordering. Aluminum housings add weight | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/drivetrain_integy_diff.jpg` |
+| ~~Traxxas Jato 4x4 stock diffs~~ | Outdrive: 5mm<br>Part numbers: TBD | **Ruled Out** | Pro: Native fit to the Jato 4x4 gearbox housing<br><br>Con: **5mm outdrives — physically can't mate the in-hand E-Revo CVDs or axles** | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/drivetrain_traxxas_jato_4x4_stock_diff.jpg` |
+| ~~Traxxas Slash 4x4 stock diffs~~ | Outdrive: 5mm<br>Part numbers: TBD | **Ruled Out** | Same 5mm outdrive problem as Jato 4x4 stock diff | (reuses `src/drivetrain_traxxas_jato_4x4_stock_diff.jpg`) |
 
 ### Why 6mm wins
 
@@ -44,13 +47,13 @@ The drivetrain compatibility chain is rigid:
 - **E-Revo axles** — 6mm
 - **Diffs must be 6mm to mate both ends**
 
-Going with 5mm diffs would force replacing the CVDs and the axles, which defeats the in-hand-parts advantage and opens up a much bigger sourcing problem. The E-Revo diff is the dependency that everything else in the drivetrain already accepts.
+Every stock Traxxas diff (Jato 4x4, Slash 4x4, XO-1) uses 5mm outdrives. The E-Revo 1.0 is the only option with 6mm, making it the only compatible diff for this build.
 
 ---
 
 ## Center Diff Oil
 
-**Chosen: 20,000 wt (20k cSt).** User-tested across multiple builds, lands in the sweet spot between freewheeling traction handoff and progressive lockup under throttle. No reason to deviate.
+**Chosen: 20,000 wt (20k cSt).** User-tested across multiple builds, lands in the sweet spot between freewheeling traction handoff and progressive lockup under throttle.
 
 | Oil weight | Behavior | Use case |
 |---|---|---|
@@ -60,29 +63,21 @@ Going with 5mm diffs would force replacing the CVDs and the axles, which defeats
 | 50k cSt | Mostly locked, all-four-wheels-pull feel | Crawling, low-grip climbs |
 | 100k+ | Effectively locked spool | Drag/speed-run with grip |
 
-**Why not just lock the center diff (spool / locker)?**
-- Locked center = no torque differentiation front-to-rear = chassis pushes / pivots awkwardly on uneven surfaces
-- 20k gives the locked-feel under power without the disadvantages on rough offroad
+**Why not just lock the center diff?** Locked center = no torque differentiation front-to-rear = chassis pushes / pivots awkwardly on uneven surfaces. 20k gives the locked-feel under power without the disadvantages on rough offroad.
 
 ---
 
 ## Center Driveshaft
 
-**Take: pick on price and availability, all options work.** The center driveshaft is one of the most consequence-free choices in a Jato 4x4 build. Differences between options come down to durability under abuse, not performance — none of them cost you measurable speed or handling on this chassis.
+**Take: pick on price and availability — all options work.** Differences come down to durability under abuse, not performance.
 
-| Option | Status | Notes |
-|---|---|---|
-| **Stock Traxxas plastic** | Candidate | Cheapest, lightest. Will deform under hard 4S abuse over many packs but cheap to replace |
-| **Stock Traxxas metal** | Candidate | More durable than plastic, slight weight penalty (~10 g), pennies more |
-| **Tekno aftermarket** | Candidate | Best build quality, most expensive, definitive durability win — overkill for casual use |
-| **Other (GPM, RPM, etc.)** | Candidate | Vary in quality, no clear winner |
+| Driveshaft | Spec | Status | Pros / Cons | Photo / Link |
+|---|---|---|---|---|
+| **Stock Traxxas plastic** | Material: plastic<br>Part numbers: TBD | Candidate | Pro: Cheapest, lightest<br><br>Con: Will deform under hard 4S abuse over many packs | — |
+| **Stock Traxxas metal** | Material: steel<br>Part numbers: TBD | Candidate | Pro: More durable than plastic, ~10g weight penalty<br><br>Con: Slightly more expensive than plastic | — |
+| **Tekno aftermarket** | Material: hardened steel<br>Part numbers: TBD | Candidate | Pro: Best build quality, definitive durability win<br><br>Con: Most expensive — overkill for casual use | — |
 
-**Pick logic:**
-- Bashing budget build → stock plastic
-- Most builds → stock metal (best value)
-- Race / heavy 4S abuse → Tekno
-
-**Honestly:** this is a part that breaks rarely and even when it does it doesn't park the car. **Spend the budget on motors, batteries, and tires before optimizing this.**
+**Pick logic:** bashing → stock plastic. Most builds → stock metal (best value). Race / heavy 4S abuse → Tekno. This part breaks rarely and doesn't park the car when it does — spend the budget on motors, batteries, and tires first.
 
 ---
 
