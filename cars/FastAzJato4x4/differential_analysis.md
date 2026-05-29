@@ -21,7 +21,7 @@
 
 | Requirement | Type | Why |
 |---|---|---|
-| **6mm outdrives** (front & rear) | Must | Match the chosen E-Revo CVDs and axles already in hand — all stock Jato/Slash/XO-1 diffs are 5mm and won't accept them |
+| **E-Revo 1.0 standard 6mm outdrives** | Must | Must match the chosen E-Revo 1.0 standard cups — **not extended cups, not E-Revo 2.0 cups**. Standard 1.0 cups keep costs down and are the correct fit for this build |
 | **Fits Jato 4x4 gearbox housing** | Must | Has to physically bolt up to the chassis mounts |
 | **Sealed for oil** | Must | Tunable damping via diff oil viscosity |
 | **Field-rebuildable** | May | Diff service is routine; user-rebuildable beats throw-and-replace |
@@ -47,7 +47,7 @@ The drivetrain compatibility chain is rigid:
 - **E-Revo axles** — 6mm
 - **Diffs must be 6mm to mate both ends**
 
-Every stock Traxxas diff (Jato 4x4, Slash 4x4, XO-1) uses 5mm outdrives. The E-Revo 1.0 is the only option with 6mm, making it the only compatible diff for this build.
+Every stock Traxxas diff (Jato 4x4, Slash 4x4, XO-1) uses 5mm outdrives. The E-Revo 1.0 is the only option with 6mm, making it the only compatible diff for this build. **Use standard E-Revo 1.0 cups — not extended cups, not E-Revo 2.0 cups.** Standard cups are cheaper and correct for this setup.
 
 ---
 
