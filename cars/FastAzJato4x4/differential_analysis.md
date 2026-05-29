@@ -12,6 +12,7 @@
 - [Key Requirements](#key-requirements)
 - [Front & Rear Diff Comparison](#front--rear-diff-comparison)
 - [Alternative Upgrade Parts](#alternative-upgrade-parts)
+- [Center Diff](#center-diff)
 - [Center Diff Oil](#center-diff-oil)
 - [Center Driveshaft](#center-driveshaft)
 - [Sources](#sources)
@@ -59,6 +60,18 @@ The drivetrain compatibility chain is rigid:
 - **Diffs must be 6mm to mate both ends**
 
 Every stock Traxxas diff (Jato 4x4, Slash 4x4, XO-1) uses 5mm outdrives. The E-Revo 1.0 is the only option with 6mm, making it the only compatible diff for this build. **Use standard E-Revo 1.0 cups — not extended cups, not E-Revo 2.0 cups.** Standard cups are cheaper and correct for this setup.
+
+---
+
+## Center Diff
+
+> **Chosen: TRA6814 — Traxxas Pre-Built Center Differential Kit (Slash 4x4)** — sealed, pre-filled, tunes via silicone oil viscosity. 20k wt oil chosen.
+
+<p align="center"><img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="600"><br><em>TRA6814 Pre-Built Center Differential Kit — $39.95</em></p>
+
+| Center Diff | Spec | Status | Pros / Cons | Photo / Link |
+|---|---|---|---|---|
+| **TRA6814 — Traxxas Pre-Built Center Diff Kit** | Part: **TRA6814**<br><br>Price: **$39.95**<br><br>Sealed, pre-filled<br><br>Tunable via silicone oil viscosity<br><br>Fits: Slash 4x4, Jato 4x4 | **Chosen** | Pro: Pre-built and pre-filled — installs in minutes. Sealed and tunable. Transfers power to front and rear independently for maximum corner speed and smooth delivery in rough conditions<br><br>Con: $39.95 | <img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="500"> |
 
 ---
 
