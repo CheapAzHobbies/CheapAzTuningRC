@@ -71,7 +71,7 @@ Every stock Traxxas diff (Jato 4x4, Slash 4x4, XO-1) uses 5mm outdrives. The E-R
 
 | Center Diff | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **TRA6814 — Traxxas Pre-Built Center Diff Kit** | Part: **TRA6814**<br><br>Price: **$39.95**<br><br>Sealed, pre-filled<br><br>Tunable via silicone oil viscosity<br><br>Fits: Slash 4x4, Jato 4x4 | **Chosen** | Pro: Pre-built and pre-filled — installs in minutes. Sealed and tunable. Transfers power to front and rear independently for maximum corner speed and smooth delivery in rough conditions<br><br>Con: $39.95 | <img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="500"> |
+| **TRA6814 — Traxxas Pre-Built Center Diff Kit** | Part: **TRA6814**<br><br>Housing: **TRA6884** ($5 — replacement housing with X-ring gaskets, ring gear gaskets/bushings, hardware)<br><br>Price: **$39.95** complete<br><br>Sealed, pre-filled<br><br>Tunable via silicone oil viscosity<br><br>Fits: Slash 4x4, Jato 4x4 | **Chosen** | Pro: Pre-built and pre-filled — installs in minutes. Sealed and tunable. Transfers power to front and rear independently for maximum corner speed and smooth delivery in rough conditions. **$5 replacement housing (TRA6884)** keeps rebuild cost low<br><br>Con: $39.95 for the complete kit | <img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="500">&nbsp;<img src="src/drivetrain_traxxas_center_diff_housing_tra6884.jpg" width="500"><br><em>TRA6814 complete kit · TRA6884 housing</em> |
 
 ---
 
