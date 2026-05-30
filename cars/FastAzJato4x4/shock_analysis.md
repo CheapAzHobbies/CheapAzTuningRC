@@ -61,7 +61,7 @@ Spares to keep on hand for when an Apache C1 shock body gets destroyed in a cras
 |---|---|---|---|
 | **Hot Bodies 67435** — Big Bore shock body set | Threaded **aluminum** bodies, **2 pcs** | Apache C1 / HB D8 big-bore shocks | <img src="src/suspension_hb_shock_body_67435.jpg" width="250"> |
 | **HPI 67515** — Big Bore Shock Maintenance Set | Rebuild kit: X-rings, silicone o-rings, bladders + caps, seal spacers | Apache C1 / HB D8 big-bore shocks | <img src="src/suspension_hpi_shock_maintenance_set_67515.jpg" width="250"> |
-| **Hot Bodies 67437** — Big Bore Shock Bottom Cap | O-ring sealed threaded **bottom caps, 2-pack** (Vorza / D8S big bore) | Apache C1 / HB D8 big-bore shocks | <img src="https://placehold.co/250x170/eee/333?text=IMAGE+NEEDED" width="250"><br>🚧 save as `src/suspension_hb_shock_bottom_cap_67437.jpg` |
+| **Hot Bodies 67437** — Big Bore Shock Bottom Cap | O-ring sealed threaded **bottom caps, 2-pack** (Vorza / D8S big bore), **pink anodized** | Apache C1 / HB D8 big-bore shocks | <img src="src/suspension_hb_shock_bottom_cap_67437.jpg" width="250"> |
 
 > **Bonus:** because the 67435 bodies are aluminum, replacing a cracked plastic Apache C1 body with these effectively does the [metal-body upgrade](#plastic-vs-metal-body-trade-off) one shock at a time — no need to buy whole D8s.
 
