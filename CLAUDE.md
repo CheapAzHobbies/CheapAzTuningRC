@@ -116,21 +116,24 @@ The doc section should:
 ### Comparison table
 
 ```
-| <PartType> | Spec | Status | Pros / Cons | Photo / Link |
-|---|---|---|---|---|
-| **Brand Model** | Key: value<br>Key: value<br>... | **Chosen** / **In Hand** / **Candidate** / **Vetoed** / Ruled Out | Pro: ...<br><br>Con: ... | <a href="<product-page-url>"><img src="src/<image-filename>" width="500"></a> |
+| <PartType> | Spec | Pros / Cons | Photo / Link |
+|---|---|---|---|
+| ⭐ **Brand Model** | Key: value<br>Key: value<br>... | Pro: ...<br><br>Con: ... | <a href="<product-page-url>"><img src="src/<image-filename>" width="500"></a> |
 ```
 
 Rules:
-- **Fixed columns — never improvise the layout.** Every comparison table uses exactly these five columns in this order: `| <PartType> | Spec | Status | Pros / Cons | Photo / Link |`. Do **not** rename the second column or replace it with a single attribute (e.g. `Material`, `Body material`, `Weight`, `Color`) — those are `key: value` lines *inside* the Spec cell, never their own column. When creating or editing an analysis doc, copy the column layout from an existing one — **`esc_analysis.md` is the canonical reference**. If a doc is already in a different format, fix it to match rather than extending the odd format.
+- **Fixed columns — never improvise the layout.** Every comparison table uses exactly these four columns in this order: `| <PartType> | Spec | Pros / Cons | Photo / Link |`. **There is no separate Status column** — status is shown as an emoji prefix on the row label in the first column (see legend below). Do **not** rename the second column or replace it with a single attribute (e.g. `Material`, `Body material`, `Weight`, `Color`) — those are `key: value` lines *inside* the Spec cell, never their own column. Copy the column layout from an existing doc — **`esc_analysis.md` is the canonical reference**. If a doc is in a different format (extra Status column, single-attribute second column), fix it to match.
+- **Status = an emoji on the first-column label, not its own column.** Legend (priority order):
+  - ⭐ `Chosen` — final selection (also used for `Leading` / leaning-toward)
+  - 🟢 `In Hand` — already owned
+  - 🥈 `Runner-up` — second choice / fallback if the chosen falls through
+  - 🔵 `Candidate` — under consideration
+  - ❌ `Vetoed` — user-rejected for a soft reason (e.g. proprietary connector, brand preference)
+  - 🚫 `Ruled Out` — hard technical dealbreaker (e.g. wrong voltage, won't fit)
+
+  The emoji goes first, then the **bold** part name: `| ⭐ **FLM26800** | ... |`. A status qualifier (front/rear, budget, etc.) goes after the name in italics: `⭐ **FLM26800** — *front*`. For Vetoed / Ruled Out the emoji sits before the strikethrough: `🚫 ~~**Name**~~`.
 - **Spec** column: keep it short — only the essentials needed for at-a-glance comparison (typically Cells, Amps, Weight, Waterproof, Sensored, Price). Each key/value pair on its own line via `<br>`. Bold the row label and matching spec values for the leading candidate. Everything else (BEC, dimensions, motor compatibility, application limits, certifications, programming features, etc.) belongs in the Detailed Notes section below, **as bullets** under each item — not crammed into the table cell.
-- **Status** values, in priority order:
-  - `Chosen` — final selection
-  - `In Hand` — already owned
-  - `Candidate` — under consideration
-  - `Vetoed` — user-rejected for a soft reason (e.g. proprietary connector, brand preference)
-  - `Ruled Out` — hard technical dealbreaker (e.g. wrong voltage, won't fit)
-- **Row order**: Chosen / In Hand / Candidate rows at the top of the table, Vetoed / Ruled Out rows at the bottom. Strike through the row label with `~~name~~` for Vetoed and Ruled Out.
+- **Row order**: ⭐ / 🟢 / 🥈 / 🔵 rows at the top of the table, ❌ / 🚫 rows at the bottom.
 - **Pros / Cons**: single cell with `Pro: ...<br><br>Con: ...` — use a double `<br>` between Pro and Con to add a blank line for readability. Keep both on the same row even when one is short. Keep each line short and punchy — no long run-on sentences.
 - **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="500"></a>`. **Minimum 500px in the table**; 600px for the hero image of the chosen item. Use a local `src/` image when one exists; fall back to an external image only if no local one is available.
 - **Multi-part items**: when one row covers a pair (e.g. front + rear shock tower), show both photos side-by-side at 250px each with `&nbsp;` between, plus a centered `<em>` caption naming each. Example:
@@ -139,7 +142,7 @@ Rules:
   ```
 - **Keep images inside the table**: never move photos out of the table into a separate gallery section below — the table must be self-contained. The Photo/Link column stays in every comparison table. If an image feels too small, increase the `width` attribute (minimum 500px), not remove it from the table.
 - **Chosen row in the table**: include the photos in the Photo cell too — don't write "see hero above". The table should be self-contained.
-- **Same-brand, cross-platform parts**: if a brand sells two variants for similar-but-different cars (e.g. GPM SLA028 for Slash 4x4 vs TJ028 for Jato 4x4), split into two rows — the right-fit row gets its own status, the wrong-fit row is `Ruled Out` for geometry mismatch and exists to warn future readers not to order it.
+- **Same-brand, cross-platform parts**: if a brand sells two variants for similar-but-different cars (e.g. GPM SLA028 for Slash 4x4 vs TJ028 for Jato 4x4), split into two rows — the right-fit row gets its own status emoji, the wrong-fit row gets 🚫 `Ruled Out` for geometry mismatch and exists to warn future readers not to order it.
 - **Shared photos**: when several rows are physically the same part with different windings or trim (e.g. Hobbywing EZRun 3665SD G3 in 2400 / 3200 / 4000KV — same can, different windings), use the same `src/` image for all of them. The leading row gets the `<img>` tag; later rows show `(reuses src/<filename>)` to make the relationship obvious without duplicating the photo.
 - **Missing photos**: if no image exists yet, use a placeholder so the user knows one is needed — never use a bare `—`. Format:
   ```html

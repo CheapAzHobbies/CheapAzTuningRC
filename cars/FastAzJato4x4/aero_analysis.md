@@ -32,10 +32,10 @@
 
 ## Wing Comparison
 
-| Wing | Status | Pros / Cons | Photo / Link |
+| Wing | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| **Generic AliExpress 1/8 Buggy Tail Wing** | **Chosen** | Pro: $2.50–$4, lighter than OEM, nylon, grid underside for reamer drilling. Fits E-Revo 1.0. Good sacrificial part<br><br>Con: QC on finish varies — doesn't matter since you're drilling it anyway | <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="500"></a><br><img src="src/aero_generic_wing_aliexpress_dimensions.webp" width="500"><br><em>with dimensions</em> |
-| **Traxxas Jato 4x4 / Sledge wing** TRA9517 | Candidate | Pro: Guaranteed OEM fit, no guesswork. Shared part between Jato 4x4 and Sledge<br><br>Con: Heavier than AliExpress wing. $13.79 (wing + mounts bundle) from Jenny's RC | <a href="https://www.traxxas.com/products/parts/9517"><img src="src/aero_traxxas_jato_4x4_stock_wing_90154.jpg" width="500"></a><br><img src="src/aero_traxxas_sledge_wing_tra9517.jpg" width="500"><br><em>TRA9517 (Sledge)</em> |
+| ⭐ **Generic AliExpress 1/8 Buggy Tail Wing** | Material: nylon<br><br>Size: 213 × 85 × 50mm<br><br>Price: **$2.50–$4**<br><br>Fits: 1/8 buggy / E-Revo 1.0 | Pro: Lighter than OEM, grid underside for reamer drilling. Good sacrificial part<br><br>Con: QC on finish varies — doesn't matter since you're drilling it anyway | <a href="https://www.aliexpress.us/item/3256807547003209.html"><img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="500"></a><br><img src="src/aero_generic_wing_aliexpress_dimensions.webp" width="500"><br><em>with dimensions</em> |
+| 🔵 **Traxxas Jato 4x4 / Sledge wing** | Part: **TRA9517** (Jato 4x4 / Sledge)<br><br>Material: OEM plastic<br><br>Price: $13.79 (wing + mounts bundle, Jenny's RC) | Pro: Guaranteed OEM fit, no guesswork. Shared part between Jato 4x4 and Sledge<br><br>Con: Heavier than the AliExpress wing | <a href="https://www.traxxas.com/products/parts/9517"><img src="src/aero_traxxas_jato_4x4_stock_wing_90154.jpg" width="500"></a><br><img src="src/aero_traxxas_sledge_wing_tra9517.jpg" width="500"><br><em>TRA9517 (Sledge)</em> |
 
 **AliExpress wing specs (in hand):**
 - Material: Nylon plastic
@@ -51,13 +51,13 @@
 
 ## Wing Mount Comparison
 
-| Mount | Status | Pros / Cons | Photo |
+| Mount | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| **OEM Jato 4x4 wing mount** TRA9046 | **Chosen** | Pro: $7.00. Angle adjustable via 3D printed shims. **Via Meelobee technique: mounts to Slash 4x4 Extreme HD tower using a small aluminum plate on top of the tower** — shocks centered and protected, shock exposure problem fully solved<br><br>Con: Requires fabricating a small aluminum plate (simple flat piece, not complex) | <a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="500"></a> |
-| ~~**Team Losi 8ight Wing Mount** TLR341005~~ | Vetoed | Pro: Clean sandwich-plate install<br><br>Con: $27.99 — not worth it. Non-adjustable, needs a fabricated plate | <img src="src/aero_losi_8ight_wing_mount_tlr341005.webp" width="500"> |
-| ~~**Traxxas Sledge wing mount** TRA9518~~ | Vetoed | Pro: $6.00, pairs with TRA9517<br><br>Con: Non-adjustable, needs a plate. Metal plate high up — bad for CG | <img src="src/aero_traxxas_sledge_wing_mount_tra9518.jpg" width="500"> |
-| ~~**HPI Vorza Flux Buggy Wing Mount** #67521~~ | Vetoed | Pro: $8.75, uses stock #9034 rear tower, likely adjustable<br><br>Con: Fit to Jato tower unconfirmed | <img src="src/aero_hpi_vorza_flux_wing_mount_67521.webp" width="500"> |
-| ~~**STRC ST6808B backflash conversion kit**~~ | Vetoed | Pro: Centers shocks — better crash protection<br><br>Con: $66.99 full CNC kit, parts not sold separately — any breakage means buying the whole thing again. Unnecessary weight | <img src="src/aero_strc_st6808b_backflash_conversion.jpg" width="500"> |
+| ⭐ **OEM Jato 4x4 wing mount** | Part: **TRA9046**<br><br>Price: **$7.00**<br><br>Angle-adjustable (3D-printed shims) | Pro: **Via Meelobee technique: mounts to the Slash 4x4 Extreme HD tower using a small aluminum plate on top of the tower** — shocks centered and protected, shock-exposure problem fully solved<br><br>Con: Requires fabricating a small aluminum plate (simple flat piece, not complex) | <a href="https://www.amainhobbies.com/traxxas-jato-4x4-wing-mounts-set/p1506632"><img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="500"></a> |
+| ❌ ~~**Team Losi 8ight Wing Mount**~~ | Part: **TLR341005**<br><br>Price: $27.99<br><br>Non-adjustable | Pro: Clean sandwich-plate install<br><br>Con: $27.99 — not worth it. Non-adjustable, needs a fabricated plate | <img src="src/aero_losi_8ight_wing_mount_tlr341005.webp" width="500"> |
+| ❌ ~~**Traxxas Sledge wing mount**~~ | Part: **TRA9518**<br><br>Price: $6.00<br><br>Pairs with TRA9517 | Pro: Pairs with TRA9517<br><br>Con: Non-adjustable, needs a plate. Metal plate high up — bad for CG | <img src="src/aero_traxxas_sledge_wing_mount_tra9518.jpg" width="500"> |
+| ❌ ~~**HPI Vorza Flux Buggy Wing Mount**~~ | Part: **#67521**<br><br>Price: $8.75<br><br>Uses stock #9034 tower | Pro: Likely adjustable, uses stock #9034 rear tower<br><br>Con: Fit to Jato tower unconfirmed | <img src="src/aero_hpi_vorza_flux_wing_mount_67521.webp" width="500"> |
+| ❌ ~~**STRC ST6808B backflash conversion kit**~~ | Part: **ST6808B**<br><br>Price: $66.99 (full CNC kit) | Pro: Centers shocks — better crash protection<br><br>Con: $66.99 full CNC kit, parts not sold separately — any breakage means buying the whole thing again. Unnecessary weight | <img src="src/aero_strc_st6808b_backflash_conversion.jpg" width="500"> |
 
 ---
 
