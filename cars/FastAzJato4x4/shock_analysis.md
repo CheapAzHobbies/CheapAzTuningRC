@@ -39,10 +39,10 @@
 
 | Shock | Body material | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **HPI Racing Apache C1 (#107365)** — 97mm big bore | Plastic | **In Hand** (running on K939) — planned for FastAzJato4x4 front + rear | Pro: Light, cheap (~$20/pair), threaded, rebuildable, well-tuned out of the box, **same internal design as the Hot Bodies D8 below**. Apache C1 = HPI's plastic version of the D8 shock<br><br>Con: Plastic body cracks under hard impacts (rocks, rollovers, rear-end hits) | <img src="src/suspension_hpi_shocks_apache_c1_107365.jpg" width="500"> |
+| **HPI Racing Apache C1 (#107365)** — 97mm big bore | Plastic | **In Hand** (running on K939) — planned for FastAzJato4x4 front + rear | Pro: Light, cheap (**~$20–30/pair**, MPN H107365), threaded, rebuildable, well-tuned out of the box, **same internal design as the Hot Bodies D8 below**. Apache C1 = HPI's plastic version of the D8 shock<br><br>Con: Plastic body cracks under hard impacts (rocks, rollovers, rear-end hits) | <img src="src/suspension_hpi_shocks_apache_c1_107365.jpg" width="500"> |
 | **Hot Bodies D8 (metal body)** | Metal (aluminum) | **Leaning toward — the optimization step from the Apache C1** | Pro: **Same physical design and internals as the Apache C1** but with a metal body — survives impacts that would crack the plastic version. ~$35-50/pair, still way cheaper than premium racing shocks<br><br>Con: ~15-20g heavier per shock (aluminum body adds mass at the corners — small handling penalty); more expensive | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/suspension_hot_bodies_d8_shocks.jpg` |
 | ~~Traxxas Big Bore XXL~~ | Plastic | **Vetoed** | Pro: Native fit to a Traxxas chassis, factory body color match<br><br>Con: **Not actually big bore by modern standards** — the "XXL" name is marketing from when the shock first launched; today's real big bores are larger diameter. Overpriced ($50-70/pair) for what they deliver. No tuning advantage over the cheaper Apache C1 / D8 | — |
-| **GTR Shocks** (Pro-Line, JConcepts, etc.) | Aluminum | **Vetoed (overkill)** | Pro: Premium racing shock, best tuning options, most adjustability, top-tier internals<br><br>Con: $80-150/pair. Diminishing returns for a basher / casual race build — the Apache C1 / D8 covers 90% of what GTRs do for a fraction of the cost | — |
+| **Traxxas GTR shocks** — stock OEM XXL (XX-Long), aluminum big bore | Aluminum | **Candidate (stock OEM option)** | Pro: **Come stock on the higher Slash 4x4 trims (Ultimate / Platinum)** — aluminum threaded big-bore body sheds heat and shrugs off impacts that crack plastic. Good OEM availability + spares, native Traxxas fit<br><br>Con: Heavier than the plastic Apache C1; pricier. Verify XX-Long length vs the 97mm class. Part # / price TBD — confirm | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/suspension_traxxas_gtr_shocks_xxl.jpg` |
 
 ---
 
@@ -92,7 +92,7 @@ The Apache C1 (plastic) and Hot Bodies D8 (metal) are **the same shock internall
 | Weight (each) | ~45-50g | ~60-65g |
 | Impact resistance | Cracks under hard hits on body | Dents but doesn't crack |
 | Repairability after impact | Replace whole body | Often still usable, sometimes straighten |
-| Price (pair) | ~$20 | ~$35-50 |
+| Price (pair) | ~$20-30 | ~$35-50 |
 | Heat (sustained running) | Plastic insulates — oil stays hotter, fades faster | Aluminum sheds heat — more consistent damping over a long pack |
 | Handling impact of weight | Lighter unsprung mass = better bump response | 4×15-20g = ~80g added across all corners — small but measurable |
 
