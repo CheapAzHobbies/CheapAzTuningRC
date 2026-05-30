@@ -122,6 +122,7 @@ The doc section should:
 ```
 
 Rules:
+- **Fixed columns — never improvise the layout.** Every comparison table uses exactly these five columns in this order: `| <PartType> | Spec | Status | Pros / Cons | Photo / Link |`. Do **not** rename the second column or replace it with a single attribute (e.g. `Material`, `Body material`, `Weight`, `Color`) — those are `key: value` lines *inside* the Spec cell, never their own column. When creating or editing an analysis doc, copy the column layout from an existing one — **`esc_analysis.md` is the canonical reference**. If a doc is already in a different format, fix it to match rather than extending the odd format.
 - **Spec** column: keep it short — only the essentials needed for at-a-glance comparison (typically Cells, Amps, Weight, Waterproof, Sensored, Price). Each key/value pair on its own line via `<br>`. Bold the row label and matching spec values for the leading candidate. Everything else (BEC, dimensions, motor compatibility, application limits, certifications, programming features, etc.) belongs in the Detailed Notes section below, **as bullets** under each item — not crammed into the table cell.
 - **Status** values, in priority order:
   - `Chosen` — final selection
