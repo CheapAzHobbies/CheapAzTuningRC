@@ -27,8 +27,7 @@
 | Setup | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **No sway bars** | Nothing installed | Pro: **Max independent wheel compliance — more mechanical grip and better bump absorption on loose / rough dirt.** Lighter, simpler, nothing extra to break. **This track works better without them**<br><br>Con: More body roll in hard corners on high-grip / smooth surfaces — not our track | — *(nothing installed)* |
-| 🔵 **Front sway bar** (situational) | Traxxas Slash 4x4 sway-bar set — front<br><br>Part #: TBD | Pro: Reduces front roll, sharper turn-in on high-grip / smooth tracks<br><br>Con: Cuts front bump compliance — hurts on our loose surface. Not needed here | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 only if added — save as `src/suspension_traxxas_swaybar_front.jpg` |
-| 🔵 **Rear sway bar** (situational) | Traxxas Slash 4x4 sway-bar set — rear<br><br>Part #: TBD | Pro: Reduces rear roll, a lever to tune mid-corner balance<br><br>Con: Same compliance trade-off; not needed on this track | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 only if added — save as `src/suspension_traxxas_swaybar_rear.jpg` |
+| 🔵 **Traxxas Sway Bar Kit** (situational) | Part: **6898**<br><br>**Front + rear bars in one kit**, multiple tuned thicknesses<br><br>Installs without disassembly<br><br>Price: **$25** | Pro: Track-tested — reduces chassis roll and ups corner speed on high-grip / hardpack / pavement. Tuned bar thicknesses, hardware + instructions included. Bolt-on/off in minutes<br><br>Con: Cuts bump compliance — not wanted on our loose / rough track. Only worth it if the surface turns high-grip | <img src="src/suspension_traxxas_swaybar_kit_6898.jpg" width="500"> |
 
 ---
 
