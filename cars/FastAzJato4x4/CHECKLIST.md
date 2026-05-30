@@ -18,7 +18,8 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Gearbox / diff housing** — `gearbox_housing_analysis.md`
 - [x] **Bumpers** — `bumper_analysis.md`
 - [x] **Aero** (wing + wing mount) — `aero_analysis.md`
-- [x] **Swaybars** — **decided: none.** This track works better without them, no doc needed
+- [x] **Swaybars** — **decided: none** (track works better without them) — `swaybar_analysis.md`
+- [x] **Bearings** — reference list of sizes + locations, not a tuning call — `bearings_reference.md`
 
 ---
 
@@ -41,7 +42,6 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 
 ### Drivetrain
 - [ ] **Pinion gear / final drive ratio** — gearing for the chosen motor/KV (spur already covered in the diff doc)
-- [ ] **Bearings** — full kit / sizes / sealed vs rubber
 
 ### Electronics
 - [ ] **Battery** — pack selection for this car (capacity / C-rating / size-fit in the CF chassis); the shared `batteries/` is just a tracker
