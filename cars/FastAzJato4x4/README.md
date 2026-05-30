@@ -94,7 +94,7 @@ TBD
 |-----------|------|-------|
 | Wing | Generic AliExpress 1/8 buggy wing | [`aero_analysis.md`](aero_analysis.md) |
 | Wing mount | OEM Jato 4x4 TRA9046 via Meelobee technique (on Slash 4x4 Extreme HD rear tower) | [`aero_analysis.md`](aero_analysis.md) |
-| Body / shell | TBD | — |
+| Body / shell | JConcepts P2 (0684) leaning; Traxxas OEM 9018 family fallback | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 
 ---
 

@@ -3,12 +3,9 @@
 > **Chosen: Jato 4x4 stock front (#9033) + Traxxas Slash 4x4 Extreme HD rear (TRA9039) via Meelobee technique** — front stays Jato 4x4 stock composite (correct height, sacrificial). Rear swaps to the Slash 4x4 Extreme HD tower so the TRA9046 wing mount mounts via a small aluminum plate on top of the tower — shocks centered and protected, OEM mount retained. $6.00 each. Credit: [Meelobee on r/Traxxas](https://www.reddit.com/r/Traxxas/comments/1mzllk0/slash_4x4_converted_to_backslash/).
 
 <p align="center">
-  <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="500" alt="Traxxas Jato 4x4 front shock tower #9033">
-  &nbsp;&nbsp;
-  <img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra9039.jpg" width="500" alt="Traxxas Slash 4x4 Extreme HD rear tower TRA9039">
+  <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="500">&nbsp;<img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra9039.jpg" width="500"><br>
+  <em>Jato 4x4 Front #9033 (chosen) · Slash 4x4 Extreme HD Rear TRA9039 (chosen via Meelobee plate)</em>
 </p>
-
-<p align="center"><em>Jato 4x4 Front #9033 — Chosen&nbsp;&nbsp;·&nbsp;&nbsp;Slash 4x4 Extreme HD Rear TRA9039 — Chosen via Meelobee plate</em></p>
 
 ---
 

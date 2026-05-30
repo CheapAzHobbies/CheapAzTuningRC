@@ -48,7 +48,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [ ] **Radio / receiver** — FlySky FGr4S V2 is "Considering" in the BOM
 
 ### Body
-- [ ] **Body / shell** — `Aero & Body` in the README is still TBD for the body itself
+- [x] **Body / shell** — covered in [`aero_analysis.md`](aero_analysis.md#body-comparison): JConcepts P2 (0684) leaning, Traxxas OEM 9018 family fallback
 
 ---
 
