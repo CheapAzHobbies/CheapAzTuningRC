@@ -2,8 +2,10 @@
 
 > **Chosen:**
 > - **Front & rear diffs: Traxxas E-Revo 1.0 — the winner.** Cheap, easy to maintain, and last just as long as anything else under proper use. 6mm outdrives, I-bar stock, plastic housing that outlasts aluminum. All other diffs use 5mm outdrives and are ruled out.
-> - **Center diff: stock Traxxas with 20k wt oil** — user-tested across multiple builds, no reason to change.
-> - **Center driveshaft: pick on price and availability** — all options work, consequence-free choice.
+> - **Center diff: stock Traxxas TRA6814 (OEM plastic) with 20k wt oil** — lighter than alum+steel units, user-tested across multiple builds, no reason to change.
+> - **Spur gear: TRA3956R 54T plastic** — plastic is the intentional fuse; 54T spreads load for even wear and lands the gearing right.
+
+<p align="center"><img src="src/drivetrain_traxxas_e_revo_diff_assembled_tra5379x.jpg" width="600"><br><em>Traxxas E-Revo 1.0 diff — the winner. 6mm outdrives, I-bar stock, plastic housing. ~$14.97 assembled at Jenny's RC</em></p>
 
 ---
 
@@ -106,6 +108,8 @@ A slipper clutch replaces the center diff entirely. Vetoed here because it doesn
 ## Spur Gear
 
 > **Chosen: TRA3956R — 54T plastic spur.** Plastic is correct by design — the spur is the intentional sacrificial failure point. In a bad crash it strips before transferring force to the metal pinion, driveshafts, and gearbox, protecting far more expensive parts. 54T is the pick over 50T/52T: **more teeth spread the load and wear more evenly, making it slightly stronger**, and **54T lands our gearing right where we want it.** Lasts a long time under normal use and is dirt cheap to replace.
+
+<p align="center"><img src="src/drivetrain_traxxas_spur_gear_tra3956r_54t.jpg" width="600"><br><em>TRA3956R — 54T plastic spur. The chosen sacrificial fuse — $3</em></p>
 
 ### Spur Gear Requirements
 
