@@ -18,6 +18,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Gearbox / diff housing** — `gearbox_housing_analysis.md`
 - [x] **Bumpers** — `bumper_analysis.md`
 - [x] **Aero** (wing + wing mount) — `aero_analysis.md`
+- [x] **Swaybars** — **decided: none.** This track works better without them, no doc needed
 
 ---
 
@@ -37,9 +38,6 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 ### Wheels & tires
 - [ ] **Wheels + tires** — biggest single gap
 - [ ] **Hubs / wheel hexes** — stock Jato 4x4 hex vs alum upgrades
-
-### Suspension
-- [ ] **Swaybars / anti-roll bars** — README flags `Swaybars | TBD`
 
 ### Drivetrain
 - [ ] **Pinion gear / final drive ratio** — gearing for the chosen motor/KV (spur already covered in the diff doc)

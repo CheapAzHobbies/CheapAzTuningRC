@@ -44,7 +44,7 @@ TBD
 |-----------|------|-------|
 | Shocks | Hot Bodies D8 Big Bore — all around | TBD spec |
 | Arms | FLM Extended Arms (USA made) | Custom fit |
-| Swaybars | TBD | — |
+| Swaybars | None | Track works better without them |
 
 ---
 
