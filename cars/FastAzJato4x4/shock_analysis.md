@@ -16,6 +16,7 @@
 
 - [Key Requirements](#key-requirements)
 - [Shock Comparison](#shock-comparison) — body / brand options
+- [Replacement Parts (shock bodies)](#replacement-parts-shock-bodies) — spare HB 67435 bodies
 - [Setup Spec (Springs / Pistons / Oil)](#setup-spec-springs--pistons--oil)
 - [Plastic vs Metal Body Trade-off](#plastic-vs-metal-body-trade-off)
 - [Notes](#notes)
@@ -43,6 +44,16 @@
 | **Hot Bodies D8 (metal body)** | Metal (aluminum) | **Leaning toward — the optimization step from the Apache C1** | Pro: **Same physical design and internals as the Apache C1** but with a metal body — survives impacts that would crack the plastic version. ~$35-50/pair, still way cheaper than premium racing shocks<br><br>Con: ~15-20g heavier per shock (aluminum body adds mass at the corners — small handling penalty); more expensive | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/suspension_hot_bodies_d8_shocks.jpg` |
 | ~~Traxxas Big Bore XXL~~ | Plastic | **Vetoed** | Pro: Native fit to a Traxxas chassis, factory body color match<br><br>Con: **Not actually big bore by modern standards** — the "XXL" name is marketing from when the shock first launched; today's real big bores are larger diameter. Overpriced ($50-70/pair) for what they deliver. No tuning advantage over the cheaper Apache C1 / D8 | — |
 | **Traxxas GTR shocks** — stock OEM XXL (XX-Long), aluminum big bore | Aluminum | **Candidate (stock OEM option)** | Pro: **Come stock on the higher Slash 4x4 trims (Ultimate / Platinum)** — aluminum threaded big-bore body sheds heat and shrugs off impacts that crack plastic. Good OEM availability + spares, native Traxxas fit<br><br>Con: Heavier than the plastic Apache C1; pricier. Verify XX-Long length vs the 97mm class. Part # / price TBD — confirm | <img src="https://placehold.co/300x200/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/suspension_traxxas_gtr_shocks_xxl.jpg` |
+
+### Replacement Parts (shock bodies)
+
+Spares to keep on hand for when an Apache C1 shock body gets destroyed in a crash. Worth stashing one set so a cracked body doesn't sideline the car.
+
+| Part | Spec | Fits | Photo |
+|---|---|---|---|
+| **Hot Bodies 67435** — Big Bore shock body set | Threaded **aluminum** bodies, **2 pcs** | Apache C1 / HB D8 big-bore shocks | <img src="src/suspension_hot_bodies_shock_body_67435.jpg" width="250"> |
+
+> **Bonus:** because the 67435 bodies are aluminum, replacing a cracked plastic Apache C1 body with these effectively does the [metal-body upgrade](#plastic-vs-metal-body-trade-off) one shock at a time — no need to buy whole D8s.
 
 ---
 
