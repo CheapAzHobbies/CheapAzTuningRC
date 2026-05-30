@@ -6,7 +6,7 @@
 > - **Springs:** **white 59gf (HB 67454, 76mm) front + gray 52gf (HB 67453, 76mm) rear** — same as K939 spec
 > - **Pistons:** 1.4mm × 6 holes, front + rear
 > - **Oil:** 45wt front, **50-60wt rear (TBD)** — final pick depends on track conditions
-> - **Shock length:** 97 mm (Apache C1 / D8 front spec — see [reference note](#hot-bodies-big-bore-shock-spring-chart-full-lineup) for what "97mm" actually measures); D8 rears optionally 112 mm if going the full mixed-length D8 setup
+> - **Shock length:** 97 mm **shaft length** (Apache C1 / D8 front spec — this is shaft length, *not* eye-to-eye, which is [still TBD](#hot-bodies-big-bore-shock-spring-chart-full-lineup)); D8 rears optionally 112 mm if going the full mixed-length D8 setup
 >
 > **Traxxas Big Bore XX-Long (2662) is vetoed:** it was "big bore" years ago, but its **10mm bore** isn't by today's standards (vs the C1/D8's 16mm) — a waste of money even at $26.95. The aluminum **GTR XX-Long (7462X, 13mm bore)** is the better OEM option if you want an in-production aluminum shock, but still less plush than the big-bore C1/D8.
 
@@ -99,9 +99,9 @@ All HB Big Bore springs sold as a pair. The chosen pair is bolded. **Shorter spr
 | HB 67455 | Blue | 76 mm | 63 gf | pair |
 | HB 67456 | Orange | 76 mm | 74 gf | pair |
 
-> **Shock length reference**: Apache C1 / D8 fronts are spec'd as **97 mm**. Hot Bodies D8 rears are an optional **112 mm** (HBS67298) if you want longer rear droop / travel — note the longer rear shock body changes which spring length fits cleanly.
+> **Shock length reference**: Apache C1 / D8 fronts are spec'd as **97 mm (shaft length)**. Hot Bodies D8 rears are an optional **112 mm** (HBS67298) if you want longer rear droop / travel — note the longer rear shock body changes which spring length fits cleanly.
 >
-> **Caveat on what "97mm" / "112mm" actually means**: Hot Bodies / HPI don't explicitly define which measurement they're using. RC forum convention (RCTech, RCU) treats these numbers as **overall pin-to-pin length at full extension** (effectively eye-to-eye when you treat the mounting holes as eyes). The threaded body alone would be ~55-65mm; the rest is shaft + caps. Some manufacturers spec at-rest installed length instead. Verify with a caliper on an actual shock before ordering specific aftermarket parts that depend on exact length.
+> **What "97mm" / "112mm" actually means — it's the shaft length, not eye-to-eye.** These numbers refer to the **shock shaft length**, *not* the overall pin-to-pin / eye-to-eye length. **The eye-to-eye length is still TBD** — measure an actual shock with a caliper to get it. Confirm the real installed length before ordering any aftermarket parts (springs, shafts, bodies) that depend on it.
 
 ---
 
