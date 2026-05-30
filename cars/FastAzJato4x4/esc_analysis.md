@@ -1,6 +1,6 @@
 # ESC Selection — FastAzJato4x4
 
-> **Chosen: Fire Phoenix XeRun 120A Enhanced (Speed Dragon)** — already in hand, fully waterproof (user-verified full submersion), sensored JST-ZH, proven on 4S with 3200KV on Slash 4x4. Zero additional spend. Works natively with Castle 1412 / 1415 and standard Hobbywing motors.
+> **Chosen: Fire Phoenix XeRun 120A Enhanced (Speed Dragon)** — already in hand, fully waterproof (I verified full submersion myself), sensored JST-ZH, proven on 4S with 3200KV on Slash 4x4. Zero additional spend. Works natively with Castle 1412 / 1415 and standard Hobbywing motors.
 
 <p align="center"><a href="https://www.aliexpress.com/item/4001205164437.html"><img src="src/electronics_firephoenix_xerun_120a_esc.jpg" width="500"></a></p>
 
@@ -36,7 +36,7 @@
 | ⭐ **Fire Phoenix XeRun 120A Enhanced (Speed Dragon)** | Cells: **2-4S**<br><br>Amps: **120A**<br><br>Weight: **105g**<br><br>Waterproof: **Full submersion**<br><br>Sensored: **Yes (JST-ZH)**<br><br>Price: **$30 (in hand)** | Pro: Already owned, proven on 4S with 3200KV on Slash 4x4, fully waterproof (full soak), sensored, comes with fan, zero cost<br><br>Con: Lower amp rating than Castle Mamba options; Chinese market rebrand; 4S ceiling no headroom | <a href="https://www.aliexpress.com/item/4001205164437.html"><img src="src/electronics_firephoenix_xerun_120a_esc.jpg" width="500"></a> |
 | 🔵 **Castle Mamba X** | Cells: 2-6S<br><br>Amps: not published*<br><br>Weight: 101g<br><br>Waterproof: Yes (epoxy)<br><br>Sensored: Yes (SmartSense)<br><br>Price: ~$190 | Pro: 6S rated, **officially supports the Castle 1412 in-hand motor**, adjustable BEC, datalogging<br><br>Con: Amps not published; no IP rating; fan must come off in wet conditions | <a href="https://www.castlecreations.com/en/mamba-x-esc-010-0155-00"><img src="https://castlecreationscom-2.azureedge.net/img/product/Mamba_X_10th_Scale-18-B.jpg" width="500"></a> |
 | 🔵 **Castle Mamba Monster X** | Cells: 2-6S<br><br>Amps: not published*<br><br>Weight: 111g<br><br>Waterproof: Yes (epoxy)<br><br>Sensored: Yes (SmartSense)<br><br>Price: ~$200 | Pro: True 1/8 scale power handling, 6S overhead<br><br>Con: **Wrong motor class for the in-hand 1412** — spec'd for 1512 / 1515 only; overkill for 36mm motors | <a href="https://www.castlecreations.com/en/mamba-monster-x-esc-010-0145-00"><img src="https://castlecreationscom-1.azureedge.net/img/product/010-0145-00_1-B.jpg" width="500"></a> |
-| 🔵 **Castle Copperhead 10** — *(budget)* | Cells: 2-4S<br><br>Amps: not published*<br><br>Weight: 71g<br><br>Waterproof: Yes (epoxy)<br><br>Sensored: Yes (SmartSense)<br><br>Price: ~$145 (sale ~$95) | Pro: Lightest on the list, **user runs 2 on the K939 — never struggle or thermal**, CRYO-DRIVE keeps it cool<br><br>Con: 4S ceiling; vehicle weight cap ~7.5 lb (FastAzJato4x4 at the edge); spec'd for 1406 not the 1412 | <a href="https://www.castlecreations.com/en/copperhead-10-16-8v-wp-sensored-esc-010-0166-00"><img src="https://castlecreationscom-1.azureedge.net/img/product/900x900_010-0166-00_(2)-B.jpg" width="500"></a> |
+| 🔵 **Castle Copperhead 10** — *(budget)* | Cells: 2-4S<br><br>Amps: not published*<br><br>Weight: 71g<br><br>Waterproof: Yes (epoxy)<br><br>Sensored: Yes (SmartSense)<br><br>Price: ~$145 (sale ~$95) | Pro: Lightest on the list, **I run 2 on the K939 — never struggle or thermal**, CRYO-DRIVE keeps it cool<br><br>Con: 4S ceiling; vehicle weight cap ~7.5 lb (FastAzJato4x4 at the edge); spec'd for 1406 not the 1412 | <a href="https://www.castlecreations.com/en/copperhead-10-16-8v-wp-sensored-esc-010-0166-00"><img src="https://castlecreationscom-1.azureedge.net/img/product/900x900_010-0166-00_(2)-B.jpg" width="500"></a> |
 | ❌ ~~HobbyWing EZRun MAX10 G2 140A~~ | Cells: 2-4S<br><br>Amps: 140A<br><br>Weight: 120g<br><br>Waterproof: IP67<br><br>Sensored: Yes (proprietary G3 port)<br><br>Price: ~$60 (combo ~$150) | Pro: IP67, lightest waterproof HW option, smart fan only spins when hot<br><br>Con: **Proprietary G3 sensor port — vetoed.** Needs HobbyWing adapter for any non-EZRun G3 motor | <a href="https://www.hobbywingdirect.com/products/ezrun-max10-g2-esc"><img src="src/electronics_hobbywing_ezrun_max10_g2_hw30102603.jpg" width="500"></a> |
 | 🚫 ~~HobbyWing XeRun XR8 SCT~~ | Cells: 2-4S<br><br>Amps: 140A<br><br>Weight: 91g<br><br>Waterproof: **NO**<br><br>Sensored: Yes (JST-ZH)<br><br>Price: ~$200 | Pro: Light at 91g, competition-grade<br><br>Con: **Not waterproof — hard no for this build**; BEC only 6V / 3A (fails HV-servo May requirement); superseded by XR8 PRO G3 | <a href="https://www.hobbywingdirect.com/collections/xerun-xr8-esc/sct"><img src="src/electronics_hobbywing_xerun_xr8_sct_hwa30113301.jpg" width="500"></a> |
 | 🚫 ~~HobbyWing XeRun XR8 PRO G3~~ | Cells: 2-4S<br><br>Amps: 200A<br><br>Weight: 103g<br><br>Waterproof: **NO**<br><br>Sensored: Yes / Sensorless<br><br>Price: ~$150 | Pro: Newest XeRun racing ESC, 200A continuous, 4S match, OTA programmable<br><br>Con: **Not waterproof — XeRun racing line, hard no for this build** | <a href="https://www.hobbywingdirect.com/products/xr8-pro-g3-esc"><img src="src/electronics_hobbywing_xerun_xr8_pro_g3.jpg" width="500"></a> |
@@ -65,12 +65,12 @@
 
 - Chinese market rebrand of the HobbyWing XeRun 120A Enhanced (强化速龙). Not the standard V3.1 — that's 2-3S only. The Enhanced version is 2-4S and waterproof.
 - Dimensions: 43 × 36 × 33mm
-- BEC: 6V/5A or 7.4V/5A (solder mod — done on user's units)
+- BEC: 6V/5A or 7.4V/5A (solder mod — done on my units)
 - Burst current: 760A; resistance 0.0003 ohm
 - Sensor input: JST-ZH — works with Castle 1412/1415 and standard Hobbywing motors. Needs adapter (HWA30810007) for EZRun 3665SD G3 proprietary plug.
-- Fan included; powered directly from battery (max 8V). User confirmed fan doesn't overspeed on 4S, so voltage is regulated in practice.
-- User confirmed full submersion, not just splash resistant. Surprisingly capable for a $30 ESC.
-- User-proven: 4S with 3200KV on Slash 4x4, zero issues. Cost $30 on Temu/AliExpress.
+- Fan included; powered directly from battery (max 8V). I confirmed the fan doesn't overspeed on 4S, so voltage is regulated in practice.
+- I confirmed full submersion, not just splash resistant. Surprisingly capable for a $30 ESC.
+- Proven on my car: 4S with 3200KV on Slash 4x4, zero issues. Cost $30 on Temu/AliExpress.
 
 ### Castle Mamba X — Candidate
 
@@ -105,7 +105,7 @@
 - Runs SmartSense, sensored-only, or brushed
 - CRYO-DRIVE minimizes part-throttle heat; 30mm removable fan with dual-use fan guard
 - Data Logging Lite, telemetry, B-Link 2 compatible
-- **User runs 2 on the K939 — never struggle or thermal**
+- **I run 2 on the K939 — never struggle or thermal**
 - MSRP $177, street ~$145, sale prices as low as ~$95
 
 ### HobbyWing EZRun MAX10 G2 140A — Vetoed (proprietary connector)
