@@ -35,7 +35,7 @@
 | **97mm big-bore class** | Must | Matches the FastAzJato4x4 ride height + arm geometry; smaller shocks don't have the travel |
 | **Threaded body for adjustable preload** | Must | Setup tunability is the whole point of an aftermarket shock |
 | **Standard pistons + shaft** | Must | Common spares + tunable pistons available off the shelf |
-| **Rebuildable** | Must | Shocks need re-oiling and seal replacement every 10-20 packs |
+| **Rebuildable** | Must | Must come apart to service — but rebuild only when one leaks or breaks, no fixed schedule |
 | **Reasonably priced** | May | Premium racing shocks cost more than the chosen motor — diminishing returns for offroad use |
 | **Metal body** | May | Light enough plastic is acceptable; metal is the optimization for crash resistance |
 
@@ -131,4 +131,4 @@ The Apache C1 (plastic) and Hot Bodies D8 (metal) are **the same shock internall
 - The K939 build uses Apache C1 (plastic) and has not had a body-cracking problem in ~~years~~ many packs — the FastAzJato4x4 *might* be fine on plastic too. The trigger to swap to metal D8 would be **first cracked body**, not pre-emptive optimization.
 - **Shock tower geometry interacts with shock survival** — see the [aero analysis cascade](aero_analysis.md#shock-tower-compatibility-cascade). The "shocks at the back of the car" geometry from the OEM Jato wing mount + #9034 stock tower is the root cause of past shock body damage. **The fix on this build is the special combo: a Slash 4x4 rear tower (old *or* new version) + the metal plate + the OEM Jato 4x4 wing mount** — it corrects the geometry so the plastic shocks survive, which is cheaper insurance than upgrading to metal bodies (or the STRC backflash kit).
 - **Oil weight is climate-dependent** — silicone shock oil thickens in cold weather. The 45wt front / 50-60wt rear target assumes mild conditions; bump down 5wt per side if running in cold.
-- **Rebuild schedule:** every 10-20 packs, pull shocks apart, inspect seals + o-rings, replace oil. Plastic shock o-rings degrade faster than the metal D8's; another small win for the metal upgrade if rebuild frequency matters.
+- **Maintenance: run them till something breaks or leaks** — no scheduled rebuild interval. When a shock starts leaking or a seal/o-ring fails, rebuild *that* shock then. Otherwise leave them alone.
