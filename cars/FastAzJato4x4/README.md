@@ -1,6 +1,6 @@
 # FastAzJato4x4
 
-> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. Carbon fiber custom chassis, FLM extended arms (USA made), E-Revo CVDs chopped to fit, stock Jato hex hubs, Mamba Monster X + 3200KV on 4S, Hot Bodies D8 big bore shocks all around.
+> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 extended arms (front) + ProTrac PRO6082-01 (rear), E-Revo 1.0 CVDs chopped to fit, stock Jato hex hubs, Tekin Pro4 HD 2500KV + Fire Phoenix XeRun 120A on 4S, plastic Apache C1 / Wltoys A929 big-bore shocks (metal Hot Bodies B8/D8 as the runner-up).
 >
 > **Build Status: WIP — actively sourcing parts. Car does not exist yet.**
 
@@ -28,7 +28,7 @@
 
 **Base Car:** Traxxas Jato 4x4 (heavily modified — custom carbon fiber chassis build)
 
-![Car Overview](src/car_overview.jpg)
+_No build photo yet — the car doesn't physically exist; this is a parts-selection / planning build._
 
 ---
 
