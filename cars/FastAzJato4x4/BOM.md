@@ -23,9 +23,9 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | **Traxxas E-Revo 1.0 front differential** | **In Hand** | — | $0 (sunk) | [`differential_analysis.md`](differential_analysis.md) |
 | **Traxxas E-Revo 1.0 rear differential** | **In Hand** | — | $0 (sunk) | [`differential_analysis.md`](differential_analysis.md) |
 | **Stock Traxxas center diff** + **20k wt oil** | To buy from spares / LHS | LHS / Traxxas | ~$15 + $5 oil | [`differential_analysis.md`](differential_analysis.md#center-diff-oil) |
-| **Center driveshaft** — stock plastic / stock metal / Tekno (pick cheapest in stock) | To buy | LHS / AMain | $10-30 | [`differential_analysis.md`](differential_analysis.md#center-driveshaft) |
-| **Front gearbox housing** — Traxxas stock plastic or compatible kit (Wltoys K939 / Remo EMU9 / HQ727) | To buy | AliExpress / LHS / Traxxas | $10-20 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
-| **Rear gearbox housing** — Traxxas stock plastic or compatible kit | To buy | AliExpress / LHS / Traxxas | $10-20 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
+| **Center driveshaft** — stock Slash 4x4 aluminum **TRA6855** (215mm; *not* the 189mm Rustler TRA6755) | To buy | LHS / AMain | ~$10 | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
+| **Front gearbox housing** — Traxxas **TRA6881** (clones vetoed — no cheaper than OEM) | To buy | LHS / AMain | $4.00 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
+| **Rear gearbox housing** — Traxxas **TRA6880** | To buy | LHS / AMain | $4.00 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **TRA5153 Traxxas Drive Cup** (E-Revo standard, x2 pairs = 4 total) | **In Hand** | AMain | $16.00 (sunk, gifted) | (drivetrain compatibility — referenced in [`differential_analysis.md`](differential_analysis.md)) |
 
 ---
@@ -34,10 +34,11 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
-| **Suspension arms** — FLM Rustler rear extended (USA-made) leading; front + remaining 2 TBD variants pending | Decision pending | TBD | TBD | [`arm_analysis.md`](arm_analysis.md) |
+| **Suspension arms** — FLM26800 extended (front) + ProTrac PRO6082-01 (rear) | To buy | FLM / eBay | $30 + $13.75 | [`arm_analysis.md`](arm_analysis.md) |
 | **Traxxas #9033 — stock composite front shock tower** | To buy (or pull from spares) | LHS / Traxxas / AMain | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
-| **Traxxas #9034 — stock composite rear shock tower** | To buy | LHS / Traxxas / AMain | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) — **note: pending [aero cascade decision](aero_analysis.md#shock-tower-compatibility-cascade)** (STRC backflash kit would swap this for older Slash-style tower) |
+| **Traxxas Slash 4x4 Extreme HD rear shock tower (TRA9039)** — via Meelobee technique | To buy | LHS / AMain | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) (aero cascade resolved) |
 | **HPI Apache C1 97mm big-bore shocks (#107365)** — front + rear set | To buy (4× shocks, 2 pairs) | Amazon / Hobby-Sports | $39.98 (2 pairs × $19.99) | [`shock_analysis.md`](shock_analysis.md) |
+| **Hot Bodies HB67454 white 59gf 76mm springs** — front | To buy | eBay / power_hobby | ~$11.75 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Hot Bodies HB67453 grey 52gf 76mm springs** — rear | To buy | eBay / power_hobby | $11.75 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **1.4mm × 6 hole shock pistons** (Apache C1 / D8 compatible) — 4 sets | To buy | LHS | ~$10 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Silicone shock oil 45wt** (front) | To buy | LHS | ~$6 / bottle | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
@@ -67,7 +68,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
 | **Generic AliExpress 1/8 buggy wing** | **In Hand** (or to buy if not already) | AliExpress | ~$3-8 | [`aero_analysis.md`](aero_analysis.md) |
-| **Wing mount** — OEM Jato 4x4 (default) or STRC SPTST6808B backflash conversion | **Decision pending** — see [shock tower compatibility cascade](aero_analysis.md#shock-tower-compatibility-cascade) | LHS / AMain | OEM ~$10-20, STRC ~$30-50 (free if STRC SPTST6808B already in hand from K939 build) | [`aero_analysis.md`](aero_analysis.md) |
+| **Wing mount** — OEM Jato 4x4 **TRA9046** via Meelobee technique (on Slash 4x4 Extreme HD rear tower) | Chosen | LHS / AMain | $7.00 | [`aero_analysis.md`](aero_analysis.md) |
 
 ---
 
@@ -76,9 +77,9 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | Bucket | Sub-total |
 |---|---|
 | **Already in hand (sunk cost)** — ESC, both E-Revo diffs, servo, drive cups | **$71** |
-| **To buy — locked spec** — motor, shock towers, chassis, Apache C1 shocks + springs + pistons + oils, bell crank | **~$214** |
-| **To buy — pending exact pick** — center diff + driveshaft, gearbox housings (front + rear), bumpers, wing + wing mount | **~$60-120** |
-| **Total estimated (chosen + estimated open items)** | **~$345-405** |
+| **To buy — locked spec** — motor, shock towers, chassis, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$270** |
+| **Still open (no cost yet)** — tie rods, body, pinion, bearing kit | TBD |
+| **Total estimated (locked items)** | **~$340** |
 
 ---
 
@@ -90,8 +91,8 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 - **6mm vs 5mm drivetrain:** the in-hand E-Revo diffs dictate 6mm outdrives, which in turn mate the in-hand E-Revo CVDs and axles. Stock Jato/Slash 5mm diffs are physically incompatible — see [differential_analysis.md](differential_analysis.md).
 - **Aluminum gearbox housings:** vetoed — CF chassis already has a metal skid plate protecting the diffs from below, making the aluminum-housing upgrade redundant. See [gearbox_housing_analysis.md](gearbox_housing_analysis.md#why-aluminum-isnt-worth-it-on-this-build).
 - **Aluminum bumpers / shock towers:** vetoed per the sacrificial-failure logic. Aluminum on this build is reserved for the bell crank only (where stiffness under steering load matters and crash exposure is low).
-- **Cross-decision dependency:** the rear shock tower pick depends on the wing mount decision. OEM Jato wing mount + #9034 stock tower exposes rear shocks to rear-end crashes (broke an HPI Vorza 97mm previously). STRC backflash conversion + older Slash 4x4 rear tower protects shocks but invalidates the chosen #9034. See [`aero_analysis.md`](aero_analysis.md#shock-tower-compatibility-cascade).
-- **Pinion / spur:** TBD, [reference table here](motor_analysis.md#pinion-reference-32p-tbd) — not yet decided.
+- **Cross-decision resolved (Meelobee technique):** OEM Jato **TRA9046** wing mount on a **Slash 4x4 Extreme HD rear tower (TRA9039)** with a small aluminum top plate. Shocks centered and protected from rear-end impact, no STRC kit needed. See [`aero_analysis.md`](aero_analysis.md#shock-tower-compatibility-cascade).
+- **Spur:** decided — **TRA3956R 54T** plastic ([`differential_analysis.md`](differential_analysis.md#spur-gear)). **Pinion:** TBD, [reference table](motor_analysis.md#pinion-reference-32p-tbd).
 - **Metal vs plastic shock bodies:** running Apache C1 plastic out of the gate; upgrade to Hot Bodies D8 metal only if body cracks become a recurring problem. See [shock_analysis.md plastic-vs-metal](shock_analysis.md#plastic-vs-metal-body-trade-off).
 
 For everything else (FLM arms, hubs, body, etc.) that's still being researched, see the [main README parts list](README.md#parts-list).

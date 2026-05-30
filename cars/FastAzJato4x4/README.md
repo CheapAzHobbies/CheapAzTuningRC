@@ -42,9 +42,12 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Shocks | Hot Bodies D8 Big Bore — all around | TBD spec |
-| Arms | FLM Extended Arms (USA made) | Custom fit |
-| Swaybars | None | Track works better without them |
+| Shocks | HPI Apache C1 / Wltoys A929 plastic 97mm big bore (front + rear) | Metal HB B8/D8 = runner-up — [`shock_analysis.md`](shock_analysis.md) |
+| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 50-60wt R | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| Arms | FLM26800 extended (front) + ProTrac PRO6082-01 (rear) | [`arm_analysis.md`](arm_analysis.md) |
+| Shock towers | Jato stock #9033 front + Slash 4x4 Extreme HD TRA9039 rear (Meelobee) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
+| Arm guards | TRA6732 front + TRA6733 rear | [`arm_analysis.md`](arm_analysis.md#shock-guards) |
+| Swaybars | None | Track works better without them — [`swaybar_analysis.md`](swaybar_analysis.md) |
 
 ---
 
@@ -52,19 +55,25 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| CVDs | Traxxas E-Revo CVDs | Chopped to fit |
+| Diffs (front + rear) | Traxxas E-Revo 1.0 (6mm) | In hand — [`differential_analysis.md`](differential_analysis.md) |
+| Axle CVDs | E-Revo 1.0 CVDs (or knock-off), chopped to fit | [`driveshaft_analysis.md`](driveshaft_analysis.md) |
+| Center diff | Stock TRA6814 OEM plastic + 20k wt oil | [`differential_analysis.md`](differential_analysis.md#center-diff) |
+| Center driveshaft | Stock Slash 4x4 alum TRA6855 (215mm) | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
+| Spur gear | TRA3956R 54T plastic | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
+| Diff / gearbox housings | Traxxas plastic — TRA6881 front / TRA6880 rear ($4 ea) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | Hubs | Traxxas Jato 4x4 stock hex hubs | — |
-| Diff Housings | Traxxas stock plastic | Lightest and cheapest option — aluminum diff housings add weight and cost without meaningful durability gain on this build |
+| Bearings | Full sealed kit (Slash 4x4 sizes) | [`bearings_reference.md`](bearings_reference.md) |
 
 ---
 
 ## Electronics
 
-| Component | Part | Qty |
-|-----------|------|-----|
-| ESC | Castle Creations Mamba Monster X | 1 |
-| Motor | 3200KV | 1 |
+| Component | Part | Notes |
+|-----------|------|-------|
+| ESC | Fire Phoenix XeRun 120A Enhanced (Speed Dragon) | In hand — [`esc_analysis.md`](esc_analysis.md) |
+| Motor | Tekin Pro4 HD 2500KV (#TT2521) | [`motor_analysis.md`](motor_analysis.md) |
 | Battery | 4S LiPo | — |
+| Receiver | FlySky FGr4S V2 | Considering |
 
 ---
 
@@ -72,20 +81,29 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Steering + Hubs | 7075 Aluminum Front Steering + C Hub & Rear Axle Carriers — Jato 4x4 | $46.80, eBay (MonsterKingz) |
-| Servo | PTK 9752TG-D Metal High Speed — 1/8 1/10 | $25.00 each |
+| Bell crank | Generic AliExpress aluminum bell crank set | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
+| Knuckles + carriers | 7075 alum front steering + C-hub & rear axle carriers — Jato 4x4 | $46.80, eBay (MonsterKingz) |
+| Servo | PTK 9752TG-D Metal High Speed — 1/8 1/10 | In hand — $25.00 |
+| Tie rods | TBD — front needs 4mm rod upgrade | see [`arm_analysis.md`](arm_analysis.md) |
 
 ---
 
 ## Aero & Body
 
-TBD
+| Component | Part | Notes |
+|-----------|------|-------|
+| Wing | Generic AliExpress 1/8 buggy wing | [`aero_analysis.md`](aero_analysis.md) |
+| Wing mount | OEM Jato 4x4 TRA9046 via Meelobee technique (on Slash 4x4 Extreme HD rear tower) | [`aero_analysis.md`](aero_analysis.md) |
+| Body / shell | TBD | — |
 
 ---
 
 ## Bumpers
 
-TBD
+| Component | Part | Notes |
+|-----------|------|-------|
+| Front + rear | Traxxas TRA9044 front + rear skid plates ($7 set) | [`bumper_analysis.md`](bumper_analysis.md) |
+| Front shock guard (alt) | Rustler TRA6736 / RPM 81042 — both guard the front shocks well | [`bumper_analysis.md`](bumper_analysis.md) |
 
 ---
 
@@ -96,8 +114,8 @@ TBD
 | — | Traxxas Jato 4x4 | Base Car | — | — | — | — |
 | — | RC Carbon Fiber Chassis Kit fit for Traxxas Slash VXL 4x4 TRA6808 | Chassis | $100.26 | [Temu](https://www.temu.com) / [AliExpress](https://a.aliexpress.com/_mPWcAS3) | Considering | — |
 | — | FLM Extended Arms (USA made) | Suspension | — | — | — | — |
-| — | Carbon Fiber Front + Rear Shock Towers — Traxxas Jato 4x4 VXL | Suspension | $33.29 | eBay (MonsterKingz) | Considering | — |
-| — | Hot Bodies D8 Big Bore Shocks (all around) | Suspension | — | — | — | — |
+| #9033 / TRA9039 | Stock front (#9033) + Slash 4x4 Extreme HD rear (TRA9039) shock towers — CF towers vetoed | Suspension | ~$12 | LHS / AMain | Chosen | — |
+| 107365 / A929-14 | HPI Apache C1 / Wltoys A929 plastic 97mm big-bore shocks (front + rear) | Suspension | ~$16–30/pr | Amazon / AliExpress | Chosen | — |
 | — | Traxxas E-Revo CVDs (chopped to fit) | Drivetrain | — | — | — | — |
 | — | Traxxas E-Revo Differentials (x2) | Drivetrain | — | — | In Hand | — |
 | TRA5153 | Traxxas Drive Cup (2) — E-Revo 1.0 standard (x2 pairs / 4 total) | Drivetrain | $8.00/pair | [AMain Hobbies](https://www.amainhobbies.com) | In Hand | — |
@@ -106,7 +124,7 @@ TBD
 | — | PTK 9752TG-D Metal High Speed Servo — 1/8 1/10, 2S LiPo ready | Steering | $25.00 | Temu | In Hand | — |
 | — | Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — Waterproof, 4S | Electronics | $30.00 | Temu | In Hand | — |
 | — | FlySky FGr4S V2 Receiver — AFHDS3, PWM/PPM/IBUS, IPX4, Bidirectional | Electronics | $28.49 | AliExpress | Considering | — |
-| — | 3200KV Motor | Electronics | — | — | — | — |
+| #TT2521 | Tekin Pro4 HD 2500KV brushless motor | Electronics | $69.99 | Tekin direct | To buy | — |
 
 ---
 
