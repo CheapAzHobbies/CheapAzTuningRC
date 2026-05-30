@@ -2,7 +2,7 @@
 
 > **Chosen:**
 > - **Axle (wheel) driveshafts: E-Revo 1.0 CVDs, chopped to fit.** Real or the ~$20 knock-off — both work equally well. Shortened with a 6mm threaded collet (or metal tube): thread/solder both cut ends into the collet to the right length. 6mm to match the E-Revo diffs and cups.
-> - **Center driveshaft: stock Traxxas aluminum one-piece (TRA6755/6855).** Plastic deforms on 4S and the Tekno Big Bone isn't worth the money — stock metal is the pick.
+> - **Center driveshaft: stock Slash 4x4 aluminum one-piece (TRA6855, 215mm).** Plastic deforms on 4S and the Tekno Big Bone isn't worth the money — stock metal is the pick. **Don't grab TRA6755 — that's the 189mm Rustler shaft and it's too short.**
 
 <p align="center">
   <img src="src/drivetrain_traxxas_e_revo_cvd_5451r.jpg" width="500">&nbsp;<img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="500"><br>
@@ -79,9 +79,10 @@ Either way the goal is the same: shorten the E-Revo CVD to the correct Jato 4x4 
 
 | Driveshaft | Spec | Status | Pros / Cons | Photo / Link |
 |---|---|---|---|---|
-| **Stock Traxxas aluminum (one-piece)** | Material: 6061-T6 aluminum, splined one-piece<br><br>Part: **TRA6755** (silver) / **TRA6855** (blue) | **Chosen** | Pro: **Best value — light, stiff, splines onto the front/rear input shafts with no driveline play.** Handles 4S where plastic deforms; no premium spent on the Tekno for zero gain<br><br>Con: One-piece (non-telescoping); aluminum can bend in a hard hit | <img src="src/drivetrain_traxxas_center_driveshaft_6755.jpg" width="500"> |
+| **Stock Slash 4x4 aluminum (one-piece)** | Material: 6061-T6 aluminum, hollow one-piece<br><br>Part: **TRA6855** (Slash 4x4)<br><br>Length: **215mm** (8.5")<br><br>Price: **$10** | **Chosen** | Pro: **Best value — light, stiff, splines onto the front/rear input shafts with no driveline play.** Correct **215mm** Slash 4x4 length. Handles 4S where plastic deforms; no premium spent on the Tekno for zero gain<br><br>Con: One-piece (non-telescoping); aluminum can bend in a hard hit | <img src="src/drivetrain_traxxas_center_driveshaft_6855.jpg" width="500"> |
 | ~~**Tekno Big Bone aftermarket**~~ | Type: dog-bone center shaft + outdrives<br><br>Part: **TKR6855** (Slash 4x4 kit)<br><br>Material: anodized aluminum shaft, hardened steel outdrives<br><br>Price: **$34.99** (in stock) | Vetoed | Pro: Nicely built dog-bone, hardened steel outdrives<br><br>Con: **Not worth the money — no performance gain over stock.** The shaft still bends and the outdrives get super chewed up, and it runs noisily. Literally cheaper to run stock metal, or even plastic at worst | <img src="src/drivetrain_tekno_center_driveshaft_tkr6855.jpg" width="500"> |
 | ~~**Stock plastic (screw pin)**~~ | Material: black plastic center driveshaft w/ screw pin<br><br>Part: **TRA6767**<br><br>Price: **$4.00** | Ruled Out | Pro: Cheapest at $4 — lightest option<br><br>Con: **We're running 4S — plastic deforms under that power** over many packs. Fine for a stock basher, not for this build | <img src="src/drivetrain_traxxas_center_driveshaft_6767.jpg" width="500"> |
+| ~~**Rustler 4x4 aluminum (wrong fit)**~~ | Material: 6061-T6 aluminum<br><br>Part: **TRA6755** (Rustler 4x4)<br><br>Length: **189mm** (6.5")<br><br>Price: **$10** | Ruled Out | Pro: Same aluminum build as the Slash shaft — looks nearly identical<br><br>Con: **Too short — 189mm vs the Slash 4x4's 215mm.** Easy to order by mistake; this is the Rustler/Stampede 4x4 part. Get **TRA6855** instead | <img src="src/drivetrain_traxxas_center_driveshaft_6755.jpg" width="500"> |
 
 ---
 
@@ -90,7 +91,8 @@ Either way the goal is the same: shorten the E-Revo CVD to the correct Jato 4x4 
 - **Why CVDs over U-joints:** the E-Revo 1.0 U-joint shafts (and FLM hardened-steel U-joints) work, but the U-joint **hits the suspension arm at full travel and catches the steering link** sometimes. The CVDs deliver power smoothly through the whole travel range without that clearance problem — that's why they're the pick.
 - **Real vs knock-off CVD:** both work equally well. The ~$20 knock-off is the value choice since the shaft gets cut down and rebuilt anyway.
 - **Collet pick logic:** threaded 6mm collet = cleanest, strongest join. Metal tube + solder = fallback if you don't have a collet. Either way, measure twice, cut once.
-- **Center driveshaft pick logic:** **stock metal (TRA6755/6855) is the choice on this 4S build.** Plastic ($4) is fine for a stock basher but deforms under 4S. **Skip the Tekno Big Bone** — costs much more for no performance gain, still bends, chews up its outdrives, and runs noisily.
-- **Confirmed part numbers:** E-Revo CVD = **TRA5451R** (set, no singles); E-Revo U-joint axle = **TRA5451X**; Slash stock U-joint axle = **TRA6852X/6851X**; Slash HD steel CV = **TRA6852R/6851R**; Slash EHD = **TRA6852A/6851A**; alum center driveshaft = **TRA6755/6855**; plastic center driveshaft = **TRA6767**; Tekno center = **TKR6855**.
+- **Center driveshaft pick logic:** **stock Slash 4x4 metal (TRA6855, 215mm) is the choice on this 4S build.** Plastic ($4) is fine for a stock basher but deforms under 4S. **Skip the Tekno Big Bone** — costs much more for no performance gain, still bends, chews up its outdrives, and runs noisily.
+- **Watch the center-shaft length:** **TRA6855 = Slash 4x4 (215mm/8.5")**, **TRA6755 = Rustler/Stampede 4x4 (189mm/6.5")**. They look identical but the Rustler shaft is ~26mm too short for the Slash. Order TRA6855.
+- **Confirmed part numbers:** E-Revo CVD = **TRA5451R** (set, no singles); E-Revo U-joint axle = **TRA5451X**; Slash stock U-joint axle = **TRA6852X/6851X**; Slash HD steel CV = **TRA6852R/6851R**; Slash EHD = **TRA6852A/6851A**; alum center driveshaft = **TRA6855** (Slash 4x4, 215mm — *not* TRA6755, which is the 189mm Rustler); plastic center driveshaft = **TRA6767**; Tekno center = **TKR6855**.
 - **Still TBD:** the FLM part number. Also verify 6mm fitment for the Slash axles against the E-Revo cups.
 - **Images still needed:** E-Revo U-joint shaft, FLM hardened-steel driveshaft, plastic center driveshaft (TRA6767), and the Tekno TKR6855 (its site blocked the fetch).
