@@ -112,8 +112,8 @@ The Apache C1 (plastic) and Hot Bodies D8 (metal) are **the same shock internall
 | | Apache C1 (plastic) | D8 (metal) |
 |---|---|---|
 | Weight (each) | ~45-50g | ~60-65g |
-| Impact resistance | Cracks under hard hits on body | Dents but doesn't crack |
-| Repairability after impact | Replace whole body | Often still usable, sometimes straighten |
+| Impact resistance | Cracks under hard hits on body | **Bulletproof — never seen a metal body dent *or* crack** on any metal shock |
+| Repairability after impact | Replace whole body | N/A — they just keep going |
 | Price (pair) | $20-30 | $58 new (disc.), $30-80 used |
 | Heat (sustained running) | Plastic insulates — oil stays hotter, fades faster | Aluminum sheds heat — more consistent damping over a long pack |
 | Handling impact of weight | Lighter unsprung mass = better bump response | 4×15-20g = ~80g added across all corners — small but measurable |
