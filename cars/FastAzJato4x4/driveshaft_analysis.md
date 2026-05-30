@@ -5,8 +5,8 @@
 > - **Center driveshaft: stock Slash 4x4 aluminum one-piece (TRA6855, 215mm).** Plastic deforms on 4S and the Tekno Big Bone isn't worth the money — stock metal is the pick. **Don't grab TRA6755 — that's the 189mm Rustler shaft and it's too short.**
 
 <p align="center">
-  <img src="src/drivetrain_traxxas_e_revo_cvd_5451r.jpg" width="500">&nbsp;<img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="500"><br>
-  <em>Chosen: E-Revo 1.0 CVDs, chopped to fit · Runner-up: knock-off Slash 4x4 HD steel CV</em>
+  <img src="src/drivetrain_traxxas_e_revo_cvd_5451r.jpg" width="330">&nbsp;<img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="330">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855.jpg" width="330"><br>
+  <em>Chosen axle: E-Revo 1.0 CVDs, chopped to fit · Runner-up axle: knock-off Slash 4x4 HD steel CV · Chosen center shaft: stock Slash 4x4 TRA6855 (215mm)</em>
 </p>
 
 > **Runner-up note:** if the E-Revo CVD route falls through, the **knock-off Slash 4x4 HD steel CV ($20–30)** is the next best. Same smooth steel-CV feel for a fraction of the genuine TRA6851R price. **It's a 5mm diff end, so switch the diff to 5mm outdrives and cups** (the E-Revo route is 6mm) — easy swap, just an extra step.
