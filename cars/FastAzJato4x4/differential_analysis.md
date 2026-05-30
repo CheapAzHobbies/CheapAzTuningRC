@@ -5,7 +5,7 @@
 > - **Center diff: stock Traxxas TRA6814 (OEM plastic) with 20k wt oil** — lighter than alum+steel units, user-tested across multiple builds, no reason to change.
 > - **Spur gear: TRA3956R 54T plastic** — plastic is the intentional fuse; 54T spreads load for even wear and lands the gearing right.
 
-<p align="center"><img src="src/drivetrain_traxxas_e_revo_diff_assembled_tra5379x.jpg" width="600"><br><em>Traxxas E-Revo 1.0 diff — the winner. 6mm outdrives, I-bar stock, plastic housing. ~$14.97 assembled at Jenny's RC</em></p>
+<p align="center"><img src="src/drivetrain_traxxas_e_revo_diff_assembled_tra5379x.jpg" height="240">&nbsp;<img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" height="240">&nbsp;<img src="src/drivetrain_traxxas_spur_gear_tra3956r_54t.jpg" height="240"><br><em>The chosen drivetrain: E-Revo 1.0 front/rear diff · TRA6814 OEM plastic center diff · TRA3956R 54T plastic spur</em></p>
 
 ---
 
