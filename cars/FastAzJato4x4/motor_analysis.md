@@ -4,6 +4,10 @@
 >
 > **Chosen: Tekin Pro4 HD 2500KV (#TT2521)** — $69.99, 35.85 × 62.5 mm, 221 g, 4-pole 12-slot, 5mm shaft, 1-4S LiPo/LiHV, rebuildable, ABEC5 bearings, universal dual-plug sensor. The HD long can gives the 1/8-buggy-class sustained-load thermal headroom that the regular Pro4 (179 g, 52.9 mm can) might come up short on for a 6-7 lb chassis on rough offroad. Same motor Slash 4x4 racers run on 4S. Half the price and ~100 g lighter than the Castle 1415 2400KV.
 
+<p align="center"><a href="https://store.teamtekin.com/pro4-hd-2500kv-brushless-motor/"><img src="src/electronics_tekin_pro4_hd_2500kv.jpg" width="500"></a></p>
+
+---
+
 ### Top 4 head-to-head
 
 | | Tekin Pro4 HD 2500KV ⭐ | Tekin Pro4 2400KV | Tekin T8 Gen3 4030 2650KV | Castle 1415 2400KV 5mm |
@@ -21,8 +25,6 @@
 | Pick reason | **Chosen — best balance for 1/8-buggy 4S dirt** | Honorable — cheapest, lightest, send-it pick | Honorable — true 1/8 motor, beefy shaft | Honorable — premium build, understated ratings |
 
 **The in-hand Castle 1412 3200KV** still works but runs hot on 4S and needs a fan. Once you add the Surpass twin-fan + heatsink rig (~63 g with metal fans), the 1412 + cooling weighs ~328 g — heavier than every 4S-native candidate above, with all that mass sitting **up high on the motor** where it hurts handling. Reducing the cooling rig = reducing complexity = **cool**. Badum tss. 🥁
-
-<p align="center"><a href="https://store.teamtekin.com/pro4-hd-2500kv-brushless-motor/"><img src="src/electronics_tekin_pro4_hd_2500kv.jpg" width="500"></a></p>
 
 ---
 

@@ -79,7 +79,7 @@ The doc section should:
 
 1. **Title** — `# <PartType> Selection — <CarName>`
 2. **Lead recommendation blockquote** — one paragraph: `> **Chosen / Leaning toward: <name>** — short reason`
-3. **Hero image(s)** of the chosen / leading item, always inside `<p align="center">`. **Always centered — no exceptions.**
+3. **Hero image(s)** of the chosen / leading item, always inside `<p align="center">`. **Always centered — no exceptions.** **The hero goes directly after the lead blockquote and ABOVE everything else — before the Key Requirements and the comparison table. Never bury it below a table or after discussion paragraphs** (a reader should see the chosen item's photo first, not a table that mentions other brands).
    - **1 image**: 600px wide, wrapped in the product-page link.
    - **2 images (max)**: side by side at 500px each, separated by `&nbsp;`, both inside one `<p align="center">`. Caption on a new line below using `<br><em>left · right</em>`.
    - Skip if no image exists yet.
