@@ -45,10 +45,22 @@
 
 ## Steering
 
-| Component | Part |
-|-----------|------|
-| Front C-Hub / Caster Block (aluminum) | **LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S** (black) |
-| Front Steering Block / Knuckle (aluminum) | **LIGHT HOUSE Aluminum Front Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S** (black) |
+| Component | Part | Weight (pair) |
+|-----------|------|---------------|
+| Front C-Hub / Caster Block (aluminum) | **LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S** (black) | **25.5 g** bare · 36.4 g w/ hardware kit |
+| Front Steering Block / Knuckle (aluminum) | **LIGHT HOUSE Aluminum Front Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S** (black) | **22.4 g** bare · 34.9 g w/ hardware kit |
+
+### Weighed-in photos
+
+<p align="center">
+  <img src="src/steering_lighthouse_aluminum_knuckle_bare_weight.jpg" width="380">&nbsp;<img src="src/steering_lighthouse_aluminum_knuckle_with_hardware_weight.jpg" width="380"><br>
+  <em>Knuckles bare: 22.4 g · Knuckles + hardware kit: 34.9 g</em>
+</p>
+
+<p align="center">
+  <img src="src/steering_lighthouse_aluminum_c_hub_bare_weight.jpg" width="380">&nbsp;<img src="src/steering_lighthouse_aluminum_c_hub_with_hardware_weight.jpg" width="380"><br>
+  <em>C-hubs bare: 25.5 g · C-hubs + hardware kit: 36.4 g</em>
+</p>
 
 ---
 
