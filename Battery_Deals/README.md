@@ -12,4 +12,4 @@ Sorted by date, newest first.
 
 | Date | Pack | Qty | Best Price | $/pack | Coupon | Source |
 |------|------|-----|------------|--------|--------|--------|
-| 2026-06-01 | Zeee 11.4V 120C 4200mAh XT60 3S LiPo SoftCase | 2 | **$51.82** | $25.91 | FAVEDEAL20 (20% off, max $350, ends 6/14) | eBay — zeee_official_store |
+| 2026-06-01 | Zeee 11.4V 120C 4200mAh XT60 3S LiPo SoftCase | 2 | **$47.39** | $23.70 | FAVEDEAL20 stacked / other (TBD) | eBay — zeee_official_store |
