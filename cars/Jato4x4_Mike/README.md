@@ -8,9 +8,11 @@
 
 - [Car Overview](#car-overview)
 - [Suspension](#suspension)
+- [Steering](#steering)
 - [Drivetrain](#drivetrain)
 - [Electronics](#electronics)
 - [Tuning Notes](#tuning-notes)
+- [Parts Purchased](#parts-purchased)
 - [TODO / Notes](#todo--notes)
 
 ---
@@ -38,6 +40,15 @@
 |----------|--------|
 | Front | 6 hole × 1.4 |
 | Rear | 6 hole × 1.2 |
+
+---
+
+## Steering
+
+| Component | Part |
+|-----------|------|
+| Front C-Hub / Caster Block (aluminum) | **LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S** (black) |
+| Front Steering Block / Knuckle (aluminum) | **LIGHT HOUSE Aluminum Front Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S** (black) |
 
 ---
 
@@ -70,6 +81,17 @@ Subjective on-track:
 - **Car feels lighter and faster overall** — less effort everywhere, throttle response sharper
 
 Cross-reference for the FastAzJato4x4 pinion decision (currently TBD): the 11T 32P / 3200KV combo on this Jato is the empirical data point that pinion sizing is **not** purely a top-speed equation — gearing for the power-band sweet spot beats gearing for theoretical max RPM.
+
+---
+
+## Parts Purchased
+
+| Date | Part | Qty | Total | Source |
+|------|------|-----|-------|--------|
+| 2026-05-19 | LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S (black) | 1 | $15.29 | AliExpress — LIGHT HOUSE 188527 Store |
+| 2026-05-19 | LIGHT HOUSE Aluminum Front Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S (black) | 1 | $14.42 | AliExpress — LIGHT HOUSE 188527 Store |
+
+> Both items shipped on the same order **#8210896333264866** — subtotal $29.71, paid **$24.67** ($5.04 off). Free returns within 90 days.
 
 ---
 

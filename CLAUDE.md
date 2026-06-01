@@ -23,9 +23,10 @@ When the user says **"check inbox"** (or drops files and describes them), do thi
    - Order receipt / cart screenshot for a **car-specific part** → add a row to that car's `<part>_analysis.md` Price History section.
    - 3D model file (`.stl`, `.step`) → `cars/<CarName>/3d-models/`.
    - Random spec / tuning info → relevant car README section.
-3. **Move or copy the bytes** as appropriate (`mv` via Bash for images, manual write for info pulled out of a screenshot).
-4. **Delete the source file from `inbox/`** once routing is complete. Never leave processed files lingering in `inbox/`.
-5. **If a file can't be routed with confidence**, leave it in `inbox/` and ask the user where it belongs.
+3. **Move the file to its destination** with `mv` via Bash (don't copy-then-delete). For images, that's the right `src/` folder with the proper `[section]_[brand]_[part]_[part-#].[ext]` filename. For 3D models, the right `3d-models/` folder. **Inbox is a transit point — pictures should end up at their permanent location, not be deleted.**
+4. **For pure info screenshots** (e.g. a receipt where the value has already been transcribed into a `.md` row): if there's a sensible permanent home (e.g. `Deals/src/` for deal-related screenshots), `mv` there; otherwise the source file may be deleted since the info is preserved in the markdown destination.
+5. **Never leave processed files lingering in `inbox/`** — every file either reaches its permanent home via `mv` or gets deleted when it has no permanent home.
+6. **If a file can't be routed with confidence**, leave it in `inbox/` and ask the user where it belongs.
 
 The `inbox/README.md` itself is sticky — never delete that.
 
