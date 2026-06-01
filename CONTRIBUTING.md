@@ -85,9 +85,7 @@ Rules:
 | Resource | Location | Notes |
 |----------|----------|-------|
 | Batteries | `batteries/` | Shared across all cars — log charge cycles here |
-| Battery Deals | `Battery_Deals/` | Cheapest battery prices seen, by date — cross-source (eBay / AliExpress / Amazon) |
-| AliExpress Codes | `AliExpress_Codes/` | Active AliExpress sitewide promo codes ranked by % off |
-| Deals | `Deals/` | Pricing snapshots and sale tracking (per sale event) |
+| Deals | `Deals/` | All price tracking + coupon codes (batteries, servos, ESCs, AliExpress codes, per-sale snapshots) |
 | 3D Models | `CarName/3d-models/` | Per-car STL files |
 
 ---
@@ -99,23 +97,11 @@ Log every charge cycle with date, mAh put in, and resting voltage after.
 
 ---
 
-## Battery Deals
-
-Add a row to `Battery_Deals/README.md` whenever a battery is bought (or seen at a notable low).  
-Structure: **grouped by battery model** (one sub-table per model) with newest-first inside each group, plus a top "Lowest Per-Pack Price by Model" summary so you can scan all-time lows in one glance.  
-Per-row columns: Date, Qty, Total, $/pack, Coupon, Source.
-
----
-
-## AliExpress Codes
-
-When a sitewide AliExpress promo is running (SSUS, summer sale, 11.11, etc.), add the active codes to `AliExpress_Codes/README.md`.  
-Columns: Code, Discount (e.g. `$X off $Y+`), % Off, Notes.  
-Sort by **% Off descending** — best discount on top.
-
----
-
 ## Deals
 
-Add a new `.md` file under `Deals/` for each sale event.  
-Name format: `brand_sale-name_year.md` (e.g. `castle_creations_memorial_day_2026.md`)
+All deal tracking lives under `Deals/`. See `Deals/README.md` for the index.
+
+- **Generic-part deals** (batteries, servos, ESCs, etc.) → `Deals/<category>.md`. Grouped by model, newest-first inside each group, plus a top "Lowest Per-Unit Price by Model" summary. Per-row columns: Date, Qty, Total, $/unit, Coupon, Source.
+- **Coupon codes** (sitewide AliExpress promos) → `Deals/aliexpress_codes.md`. Columns: Code, Discount, % Off, Notes. Sort by **% Off descending**.
+- **One-time sale events** → new `Deals/brand_sale-name_year.md` file (e.g. `castle_creations_memorial_day_2026.md`).
+- **Car-specific part prices** → that car's `<part>_analysis.md` Price History section, not here. Link back to `Deals/` if a code there helped.

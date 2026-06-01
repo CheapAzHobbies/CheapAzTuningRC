@@ -44,7 +44,7 @@ AliExpress / Cobra Racing CF Chassis Kit — RCTOYFUN Store, listed at **$169.64
 
 | Date | Price | Discount Path | Notes |
 |------|-------|---------------|-------|
-| 2026-06-01 | **$73.17** ✅ **purchased** | Sale + SSUS14 + final-checkout discounts (≈$24 off the $97.27 sale price) | Order #8211906604074866. Summer Sale 2026, free shipping, free returns, $1 coupon if delayed. See [`/AliExpress_Codes/`](../../AliExpress_Codes/) |
+| 2026-06-01 | **$73.17** ✅ **purchased** | Sale + SSUS14 + final-checkout discounts (≈$24 off the $97.27 sale price) | Order #8211906604074866. Summer Sale 2026, free shipping, free returns, $1 coupon if delayed. See [`/Deals/aliexpress_codes.md`](../../Deals/aliexpress_codes.md) |
 | 2026-06-01 | $82.27 | Sale + SSUS14 ($14 off $89+) cart preview | Cart screenshot before final-checkout discount stack |
 
 ---

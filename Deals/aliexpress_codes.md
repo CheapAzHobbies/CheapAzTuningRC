@@ -16,7 +16,7 @@ Captured 2026-06-01.
 | **SSUS08** | $8 off $49+ | **16.33%** | |
 | **SSUS24** | $24 off $149+ | **16.11%** | |
 | **SSUS40** | $40 off $249+ | **16.06%** | |
-| **SSUS14** | $14 off $89+ | **15.73%** | Used on FastAzJato4x4 CF chassis 6/1/26 → $82.27 |
+| **SSUS14** | $14 off $89+ | **15.73%** | Used on FastAzJato4x4 CF chassis 6/1/26 → $82.27 cart preview ($73.17 final) |
 | **SSUS93** | $93 off $599+ | **15.53%** | |
 | **SSUS60** | $60 off $399+ | **15.04%** | |
 | **SSUS75** | $75 off $499+ | **15.03%** | Worst % off — avoid this tier if possible |

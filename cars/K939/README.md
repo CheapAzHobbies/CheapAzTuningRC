@@ -104,7 +104,7 @@ None — removed for Meldrum Bar Park conditions.
 | Wing Mount | STRC SPTST6808B 1/8 E-Buggy Conversion Kit (wing mount only) | Received free |
 | Rear Wing | White wing (AliExpress) | $3.70 |
 | Wheels | Tokyo Speed 110mm 1/8 RC Off-Road Buggy Wheels 17mm Hex (4pcs) — Yellow (AliExpress) | $20.13 |
-| Body | ZD Racing 08421-V3 1/8 4WD Off-Road body — Pink & White (AliExpress) | Body mount TBD. Best price: **$20.90** est. after benefits on **2026-06-01** (Summer Sale + SSUS03 coupon, listed $25.16, MSRP $25.94). See [`/AliExpress_Codes/`](../../AliExpress_Codes/) |
+| Body | ZD Racing 08421-V3 1/8 4WD Off-Road body — Pink & White (AliExpress) | Body mount TBD. Best price: **$20.90** est. after benefits on **2026-06-01** (Summer Sale + SSUS03 coupon, listed $25.16, MSRP $25.94). See [`/Deals/aliexpress_codes.md`](../../Deals/aliexpress_codes.md) |
 
 ---
 

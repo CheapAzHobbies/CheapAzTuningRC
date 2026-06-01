@@ -4,7 +4,7 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 
 > Per-pack charge logs live in individual files based on [`TEMPLATE.md`](TEMPLATE.md).
 >
-> For purchase/sale price history (cheapest seen, coupons used, sources), see [`/Battery_Deals/`](../Battery_Deals/).
+> For purchase/sale price history (cheapest seen, coupons used, sources), see [`/Deals/batteries.md`](../Deals/batteries.md).
 
 ---
 
