@@ -13,7 +13,7 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 | 1 | Zeee 2S 8000 #1 | 8000 mAh | 3/19/24 | 29 | Sticker |
 | 2 | Zeee 2S 8000 #2 | 8000 mAh | 3/19/24 | 26 | |
 | 3 | Zeee 4S | 8000 mAh | 3/18/24 | 20 | |
-| 4 | Zeee Premo #1 | 6000 mAh | 6/21/23 | 73 | |
+| 4 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 73 | LiHV |
 | 5 | Gortpot #1 | 4000 mAh | 4/20/23 | 34 | |
 | 6 | Gortpot #2 | 4000 mAh | 4/20/23 | 29 | |
 | 7 | Zeee 2S #1 | 5200 mAh | 11/18/22 | 467 | |
@@ -41,7 +41,7 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 
 | # | Pack | Capacity | Acquired | Retired | Cycles | Notes |
 |---|------|----------|----------|---------|--------|-------|
-| 1 | Zeee Premo #2 | 6000 mAh | 6/21/23 | 6/1/26 | 93 | Wrapped. Died from over-discharge + no balancing — user error |
+| 1 | Zeee Premo #2 | 3S HV 4200 mAh | 6/21/23 | 6/1/26 | 93 | LiHV. Wrapped. Died from over-discharge + no balancing — user error |
 | 2 | Zeee (Deans connector) | 8000 mAh | 6/2020 | 3/13/24 | 698 | |
 | 3 | K939 OEM | 3800 mAh | 12/22/19 | 2/7/20 | 32 | |
 | 4 | Noname #4 | 400 mAh | 1/26/16 | 3/19/18 | 192 | |
