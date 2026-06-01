@@ -20,6 +20,7 @@
 - [Knock-Off E-Revo CVDs](#knock-off-e-revo-cvds)
 - [Shortening E-Revo CVDs (collet method)](#shortening-e-revo-cvds-collet-method)
 - [Center Driveshaft Comparison](#center-driveshaft-comparison)
+- [Price History](#price-history)
 - [Notes](#notes)
 
 ---
@@ -84,6 +85,16 @@ Either way the goal is the same: shorten the E-Revo CVD to the correct Jato 4x4 
 | ❌ ~~**Tekno Big Bone aftermarket**~~ | Type: dog-bone center shaft + outdrives<br><br>Part: **TKR6855** (Slash 4x4 kit)<br><br>Material: anodized aluminum shaft, hardened steel outdrives<br><br>Price: **$34.99** (in stock) | Pro: Nicely built dog-bone, hardened steel outdrives<br><br>Con: **Not worth the money — no performance gain over stock.** The shaft still bends and the outdrives get super chewed up, and it runs noisily. Literally cheaper to run stock metal, or even plastic at worst | <img src="src/drivetrain_tekno_center_driveshaft_tkr6855.jpg" width="500"> |
 | 🚫 ~~**Stock plastic (screw pin)**~~ | Material: black plastic center driveshaft w/ screw pin<br><br>Part: **TRA6767**<br><br>Price: **$4.00** | Pro: Cheapest at $4 — lightest option<br><br>Con: **We're running 4S — plastic deforms under that power** over many packs. Fine for a stock basher, not for this build | <img src="src/drivetrain_traxxas_center_driveshaft_6767.jpg" width="500"> |
 | 🚫 ~~**Rustler 4x4 aluminum (wrong fit)**~~ | Material: 6061-T6 aluminum<br><br>Part: **TRA6755** (Rustler 4x4)<br><br>Length: **189mm** (6.5")<br><br>Price: **$10** | Pro: Same aluminum build as the Slash shaft — looks nearly identical<br><br>Con: **Too short — 189mm vs the Slash 4x4's 215mm.** Easy to order by mistake; this is the Rustler/Stampede 4x4 part. Get **TRA6855** instead | <img src="src/drivetrain_traxxas_center_driveshaft_6755.jpg" width="500"> |
+
+---
+
+## Price History
+
+### Axle (wheel) driveshafts
+
+| Date | Price | Discount Path | Notes |
+|------|-------|---------------|-------|
+| 2026-06-01 | **$21.10** ✅ **purchased** | Sale (~$6.66 off the $27.76 sale price) + $1 coupon if delayed | Order #8211906604054866 from FengS Store on AliExpress. Product title: "Front & Rear Driveshafts For TRAXXAS Hoss/Rustler/Slash/Stampede 4X4 2wd 1/10 RC Car Upgrade Accessories" — set of 4 (front + rear pair). Free returns. See [`/Deals/aliexpress_codes.md`](../../Deals/aliexpress_codes.md) |
 
 ---
 

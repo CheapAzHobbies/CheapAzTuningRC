@@ -24,6 +24,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | **Traxxas E-Revo 1.0 rear differential** | **In Hand** | — | $0 (sunk) | [`differential_analysis.md`](differential_analysis.md) |
 | **Stock Traxxas center diff** + **20k wt oil** | To buy from spares / LHS | LHS / Traxxas | ~$15 + $5 oil | [`differential_analysis.md`](differential_analysis.md#center-diff-oil) |
 | **Center driveshaft** — stock Slash 4x4 aluminum **TRA6855** (215mm; *not* the 189mm Rustler TRA6755) | To buy | LHS / AMain | ~$10 | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
+| **Front + Rear axle driveshafts** — Hoss/Rustler/Slash/Stampede 4X4 family (FengS Store), set of 4, order #8211906604054866 | **Purchased** 2026-06-01 | AliExpress — FengS Store | **$21.10** (paid; listed $27.76) | [`driveshaft_analysis.md`](driveshaft_analysis.md#price-history) |
 | **Front gearbox housing** — Traxxas **TRA6881** (clones vetoed — no cheaper than OEM) | To buy | LHS / AMain | $4.00 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Rear gearbox housing** — Traxxas **TRA6880** | To buy | LHS / AMain | $4.00 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **TRA5153 Traxxas Drive Cup** (E-Revo standard, x2 pairs = 4 total) | **In Hand** | AMain | $16.00 (sunk, gifted) | (drivetrain compatibility — referenced in [`differential_analysis.md`](differential_analysis.md)) |
@@ -76,10 +77,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs, servo, drive cups, **CF chassis** | **$144** |
+| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs, servo, drive cups, CF chassis, **axle driveshafts** | **$165** |
 | **To buy — locked spec** — motor, shock towers, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$240** |
 | **Still open (no cost yet)** — tie rods, body, pinion, bearing kit | TBD |
-| **Total estimated (locked items)** | **~$384** |
+| **Total estimated (locked items)** | **~$405** |
 
 ---
 
