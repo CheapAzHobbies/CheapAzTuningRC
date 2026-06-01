@@ -52,6 +52,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
 | **Generic AliExpress aluminum servo bell crank set** (same family as K939 build) | To buy | AliExpress | ~$10.00 | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
+| **Traxxas TRA3775 Oilite brass bushings (5×8×2.5mm)** — bell-crank pivot upgrade, swap into the aluminum kit in place of ball bearings | **In Hand** (purchased 2025-08-24) | eBay — gottshall5896 | **$7.69** (sunk) | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#price-history) |
 
 ---
 
@@ -77,10 +78,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs, servo, drive cups, CF chassis, **axle driveshafts** | **$165** |
+| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs, servo, drive cups, CF chassis, axle driveshafts, **TRA3775 bell-crank bushings** | **$173** |
 | **To buy — locked spec** — motor, shock towers, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$240** |
 | **Still open (no cost yet)** — tie rods, body, pinion, bearing kit | TBD |
-| **Total estimated (locked items)** | **~$405** |
+| **Total estimated (locked items)** | **~$413** |
 
 ---
 
