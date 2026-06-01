@@ -42,6 +42,13 @@ When the user shares a price/coupon, route it to the right place inside `Deals/`
 
 If a new generic-part category comes up (connectors, wire, bearings, etc.) and a deal isn't a one-off, create `Deals/<category>.md` following the same structure.
 
+**Always include the order ID** in a deal/purchase row when the user shares one (e.g. AliExpress `Order 8211906604074866`). It makes it easy to look up the order later for warranty / dispute / re-order.
+
+**When a part is purchased** (not just compared), make three updates in the same commit:
+1. Add a `✅ purchased` row to the part's `<part>_analysis.md` Price History.
+2. Flip the part's status in `BOM.md` from `To buy` → `Purchased <date>`, update the price to the actual paid amount, and recompute the cost-summary totals.
+3. If the part is generic (battery, servo, ESC), add a row to the matching `Deals/<category>.md` too.
+
 ## Branch policy
 
 - **Push directly to `main`.** No feature branches, no PRs unless explicitly asked.
@@ -127,7 +134,8 @@ The doc section should:
 4. `---`
 5. **Key Requirements table** (see below)
 6. **Comparison table** (see below)
-7. Detailed per-item notes, sensor compatibility, summary, etc. as needed
+7. **Price History** (optional) — once a part actually gets purchased, add a `## Price History` section with a table tracking actual paid prices over time. Columns: `Date | Price | Discount Path | Notes`. Mark the row that was actually purchased with `✅ **purchased**` and include the order ID in Notes. Cross-link to `Deals/aliexpress_codes.md` (or wherever the code came from) when a coupon helped.
+8. Detailed per-item notes, sensor compatibility, summary, etc. as needed
 
 **Table of Contents.** Once an analysis doc grows past ~5 `##` sections, add a `## Table of Contents` with bulleted markdown links right after the hero image. Format each link as `[Section Name](#section-anchor) — short one-line summary` so the TOC also serves as a "what's in this doc" overview.
 
