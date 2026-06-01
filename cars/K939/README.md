@@ -104,7 +104,7 @@ None — removed for Meldrum Bar Park conditions.
 | Wing Mount | STRC SPTST6808B 1/8 E-Buggy Conversion Kit (wing mount only) | Received free |
 | Rear Wing | White wing (AliExpress) | $3.70 |
 | Wheels | Tokyo Speed 110mm 1/8 RC Off-Road Buggy Wheels 17mm Hex (4pcs) — Yellow (AliExpress) | $20.13 |
-| Body | Pink & White (AliExpress) | $25.00 — body mount TBD |
+| Body | ZD Racing 08421-V3 1/8 4WD Off-Road body — Pink & White (AliExpress) | Body mount TBD. Best price: **$20.90** est. after benefits on **2026-06-01** (Summer Sale + SSUS03 coupon, listed $25.16, MSRP $25.94). See [`/AliExpress_Codes/`](../../AliExpress_Codes/) |
 
 ---
 
@@ -125,7 +125,7 @@ None — removed for Meldrum Bar Park conditions.
 | SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | $0.00 (free) | — | ![](src/aero_strc_wing_mount_sptst6808b.jpg) |
 | Generic | White Rear Wing | Aero | $3.70 | AliExpress | ![](src/aero_wing_rear_white.png) |
 | Generic | Tokyo Speed 110mm 1/8 RC Off-Road Buggy Wheels 17mm Hex (4pcs) | Aero | $20.13 | AliExpress | ![](src/aero_tokyo_speed_wheels_110mm_1-8_buggy.png) |
-| Generic | Pink & White Body | Body | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
+| ZD Racing 08421-V3 | 1/8 4WD Off-Road body — Pink & White (best: $20.90 on 2026-06-01 via SSUS03) | Body | $25.00 | AliExpress | ![](src/body_pink_white.jpg) |
 | TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | Tammies | ![](src/bumpers_traxxas_skid_plates_tra9044.jpg) |
 | TBD | Pinion | Drivetrain | — | — | — |
 | | **Total (known)** | | **$812.78** | | |
