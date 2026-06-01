@@ -18,7 +18,7 @@ Price tracking for servos — generic parts used across multiple builds.
 
 ### JX CLS6322HV — 21kg Coreless HV Digital Metal-Gear *(retired — successor: PTK 9752TG-D)*
 
-> **No more buying.** The PTK 9752TG-D is the successor to the JX series. The 16 units already in the parts bin get used up across builds, then done — see [`cars/FastAzJato4x4/servo_analysis.md`](../cars/FastAzJato4x4/servo_analysis.md).
+> **No more buying. Stock is out** — the 16 units below all got used across the build group's cars (mine + friends'). The JX was the standard for years; the PTK 9752TG-D is the successor going forward. See [`cars/FastAzJato4x4/servo_analysis.md`](../cars/FastAzJato4x4/servo_analysis.md).
 
 | Date | Qty | Total | $/unit | Coupon | Source |
 |------|-----|-------|--------|--------|--------|

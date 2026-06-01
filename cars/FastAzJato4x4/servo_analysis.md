@@ -33,8 +33,8 @@
 | Servo | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **PTK 9752TG-D** | Torque: ~25–50 kg-cm (model-dependent)<br><br>Speed: high (low-profile high-speed digital)<br><br>Gear: metal<br><br>HV: yes<br><br>Weight: TBD (waiting on photo) | Pro: **Already in hand, 8 spares bought at ~$19.65/ea**, well-matched to this build's chosen aluminum bell crank, low-profile fits the CF chassis cavity, HV<br><br>Con: Torque rating is sometimes overstated in PTK marketing; real-world numbers TBD by bench test | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/steering_ptk_9752tgd_servo.jpg` |
-| ❌ ~~**JX Ecoboost CLS6336HV** — *predecessor*~~ | Torque: **36 kg-cm**<br><br>Speed: 0.07s / 60°<br><br>Gear: metal<br><br>HV: yes<br><br>Weight: **67.3 g** (measured) | Pro: Big torque number, JX reliability is well documented in heli circles, CNC aluminum housing<br><br>Con: **Superseded by the PTK 9752TG-D** in this build — kept here as the predecessor data point, not as a live candidate. $23.85/ea (cheapest seen) vs ~$19.65 PTK | <img src="src/steering_jx_cls6336hv_servo_weight.jpg" width="500"> |
-| ❌ ~~**JX CLS6322HV** — *predecessor, retired from purchase*~~ | Torque: **21 kg-cm**<br><br>Speed: high (coreless digital)<br><br>Gear: metal<br><br>HV: yes<br><br>Weight: TBD (waiting on photo) | Pro: Cheapest seen — $17.13/ea in bulk, JX reliability, coreless = fast, **16 units already in the parts bin** (5 historical orders, see [`Deals/servos.md`](../../Deals/servos.md))<br><br>Con: **Superseded by the PTK 9752TG-D — retired from future purchases.** The existing 16-unit stockpile gets used up, then done. 21 kg-cm is also on the lower end for the aluminum bell crank + 4S steering load | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/steering_jx_cls6322hv_servo.jpg` |
+| ❌ ~~**JX Ecoboost CLS6336HV** — *predecessor*~~ | Torque: **36 kg-cm**<br><br>Speed: 0.07s / 60°<br><br>Gear: metal<br><br>HV: yes<br><br>Weight: TBD (waiting on photo) | Pro: Big torque number, JX reliability is well documented in heli circles, CNC aluminum housing<br><br>Con: **Superseded by the PTK 9752TG-D** in this build — kept here as the predecessor data point, not as a live candidate. $23.85/ea (cheapest seen) vs ~$19.65 PTK | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/steering_jx_cls6336hv_servo.jpg` |
+| ❌ ~~**JX CLS6322HV** (EcoBoost branding) — *predecessor, retired & out of stock*~~ | Torque: **21 kg-cm**<br><br>Speed: high (coreless digital)<br><br>Gear: metal<br><br>HV: yes<br><br>Weight: **67.3 g** (measured) | Pro: Cheapest seen historically — $17.13/ea in bulk, the standard the build group ran for years (16 acquired across 5 orders, see [`Deals/servos.md`](../../Deals/servos.md))<br><br>Con: **Superseded by the PTK 9752TG-D — retired & all 16 units used up.** Friends in the group still run their remaining ones, but no more orders are going in. 21 kg-cm is on the lower end for the aluminum bell crank + 4S steering load | <img src="src/steering_jx_cls6322hv_servo_weight.jpg" width="500"> |
 
 ---
 
@@ -45,8 +45,8 @@ Verified gram readings off the scale. Drop the inbox photos here as they get rou
 | Servo | Photo | Weight |
 |-------|-------|--------|
 | PTK 9752TG-D | 🚧 save as `src/steering_ptk_9752tgd_servo_weight.jpg` | TBD |
-| **JX CLS6336HV** | <img src="src/steering_jx_cls6336hv_servo_weight.jpg" width="280"> | **67.3 g** |
-| JX CLS6322HV | 🚧 save as `src/steering_jx_cls6322hv_servo_weight.jpg` | TBD |
+| JX CLS6336HV | 🚧 save as `src/steering_jx_cls6336hv_servo_weight.jpg` | TBD |
+| **JX CLS6322HV** | <img src="src/steering_jx_cls6322hv_servo_weight.jpg" width="280"> | **67.3 g** |
 
 ---
 
