@@ -21,6 +21,7 @@ Build logs, part lists, setup notes, 3D models, and battery trackers for all my 
 |----------|--------|-------|
 | Batteries | [batteries](batteries/) | Shared across all cars — master tracker + per-pack cycle logs |
 | Deals | [Deals](Deals/) | All price tracking + coupon codes — batteries, servos, ESCs, AliExpress codes, per-sale snapshots |
+| Inbox | [inbox](inbox/) | Drop unsorted files here (images, receipts, screenshots) — Claude routes them to the right place |
 
 ---
 

@@ -86,7 +86,14 @@ Rules:
 |----------|----------|-------|
 | Batteries | `batteries/` | Shared across all cars — log charge cycles here |
 | Deals | `Deals/` | All price tracking + coupon codes (batteries, servos, ESCs, AliExpress codes, per-sale snapshots) |
+| Inbox | `inbox/` | Dropzone for unsorted files — Claude routes them to the right place |
 | 3D Models | `CarName/3d-models/` | Per-car STL files |
+
+---
+
+## Inbox
+
+If you're not at the terminal (phone, no shell access) and need to drop a file into the repo, put it in `inbox/`. Tell Claude "check inbox" and it'll inspect each file, route it to the correct destination with the correct naming, and delete the source from `inbox/` once the info is captured.
 
 ---
 

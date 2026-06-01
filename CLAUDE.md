@@ -9,7 +9,25 @@ Guidance for Claude when working in this repo. See [`CONTRIBUTING.md`](CONTRIBUT
 - `cars/<CarName>/` — one folder per build. Each has `README.md`, optional `src/` (photos) and `3d-models/` (STLs).
 - `batteries/` — shared across all cars. `README.md` is the master tracker; `TEMPLATE.md` is the per-pack log template.
 - `Deals/` — **single home for all price tracking + coupon codes**. Generic-part deals (batteries, servos, ESCs, etc.) and sitewide promo codes live here. See `Deals/README.md` for the file index.
+- `inbox/` — **dropzone for unsorted files** (images, order receipts, screenshots, PDFs, 3D models). User drops files here when they can't route them manually; Claude inspects, routes to the right place, and deletes from `inbox/` after.
 - Root `README.md` — index table of all cars.
+
+## Inbox workflow
+
+When the user says **"check inbox"** (or drops files and describes them), do this for every file in `inbox/` (except `README.md`):
+
+1. **Identify it.** Read the file (Read tool for images / PDFs / md; Bash `file` if unsure). What part / car / deal / category does it relate to?
+2. **Pick the destination** using the same routing rules below:
+   - Part photo of an existing build → `cars/<CarName>/src/` with `[section]_[brand]_[part]_[part-#].[ext]` naming (see `CONTRIBUTING.md`).
+   - Order receipt / cart screenshot for a **generic part** (battery / servo / ESC / etc.) → add a row to the matching `Deals/<category>.md`.
+   - Order receipt / cart screenshot for a **car-specific part** → add a row to that car's `<part>_analysis.md` Price History section.
+   - 3D model file (`.stl`, `.step`) → `cars/<CarName>/3d-models/`.
+   - Random spec / tuning info → relevant car README section.
+3. **Move or copy the bytes** as appropriate (`mv` via Bash for images, manual write for info pulled out of a screenshot).
+4. **Delete the source file from `inbox/`** once routing is complete. Never leave processed files lingering in `inbox/`.
+5. **If a file can't be routed with confidence**, leave it in `inbox/` and ask the user where it belongs.
+
+The `inbox/README.md` itself is sticky — never delete that.
 
 ## Where deal info goes
 
