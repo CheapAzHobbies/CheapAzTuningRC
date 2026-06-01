@@ -41,7 +41,9 @@
 
 | Date | Price | Discount Path | Notes |
 |------|-------|---------------|-------|
-| 2025-08-24 | **$7.69** ✅ **purchased** | Listed price | Order #24-13486-84641 from eBay seller **gottshall5896**. Delivered 2025-08-30. Title: "Traxxas Oilite Bushings 5x8x2.5mm Bandit Stampede Rustler Steering Posts 3775". Already in hand for the FastAzJato build |
+| 2025-08-24 | **$7.69** ✅ **purchased** | Listed price | Order #24-13486-84641 from eBay seller **gottshall5896**. Delivered 2025-08-30. Title: "Traxxas Oilite Bushings 5x8x2.5mm Bandit Stampede Rustler Steering Posts 3775". Pack of 12 bushings. Already in hand for the FastAzJato build |
+
+<p align="center"><img src="src/steering_traxxas_tra3775_oilite_bushing.jpg" width="500"><br><em>Traxxas #3775 — Oilite bushings 5×8×2.5mm, 12 per pack</em></p>
 
 ---
 
