@@ -24,6 +24,8 @@ When the user says **"check inbox"** (or drops files and describes them), do thi
    - 3D model file (`.stl`, `.step`) → `cars/<CarName>/3d-models/`.
    - Random spec / tuning info → relevant car README section.
 3. **Move the file to its destination** with `mv` via Bash (don't copy-then-delete). For images, that's the right `src/` folder with the proper `[section]_[brand]_[part]_[part-#].[ext]` filename. For 3D models, the right `3d-models/` folder. **Inbox is a transit point — pictures should end up at their permanent location, not be deleted.**
+   - **Scale / weight photos:** when a photo shows a digital scale with a part on it, Read the image, **transcribe the gram reading**, and update the **Weight** cell in the relevant table (e.g. the analysis doc's Weight Photos table, the spec cell of a comparison row, etc.) in the same commit that moves the photo. Filename convention: `[section]_[brand]_[part]_[part-#]_weight.jpg`. Don't just save the image — capture the number it conveys.
+   - **Scale / spec readings** in general (caliper measurements, voltmeter screens, etc.) follow the same rule: read the value, write it into the relevant table, then move the image.
 4. **For pure info screenshots** (e.g. a receipt where the value has already been transcribed into a `.md` row): if there's a sensible permanent home (e.g. `Deals/src/` for deal-related screenshots), `mv` there; otherwise the source file may be deleted since the info is preserved in the markdown destination.
 5. **Never leave processed files lingering in `inbox/`** — every file either reaches its permanent home via `mv` or gets deleted when it has no permanent home.
 6. **If a file can't be routed with confidence**, leave it in `inbox/` and ask the user where it belongs.
