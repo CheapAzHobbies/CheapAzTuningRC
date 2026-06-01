@@ -58,7 +58,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
-| **AliExpress CF chassis** (fits Traxxas Slash 4x4 VXL TRA6808 pattern) | To buy | AliExpress / Temu | ~$100 (or less) | [`chassis_analysis.md`](chassis_analysis.md) |
+| **AliExpress CF chassis** (fits Traxxas Slash 4x4 VXL TRA6808 pattern) — RCTOYFUN Store, order #8211906604074866 | **Purchased** 2026-06-01 | AliExpress — RCTOYFUN | **$73.17** (paid; listed $169.64) | [`chassis_analysis.md`](chassis_analysis.md#price-history) |
 | **Front + rear bumper set** — Traxxas TRA9044 Front and Rear Skid Plates (covers both, same part as K939 build) | To buy | LHS / AMain / Tammies | **$7.00** | [`bumper_analysis.md`](bumper_analysis.md#oem-set-front--rear-together) |
 
 ---
@@ -76,10 +76,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand (sunk cost)** — ESC, both E-Revo diffs, servo, drive cups | **$71** |
-| **To buy — locked spec** — motor, shock towers, chassis, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$270** |
+| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs, servo, drive cups, **CF chassis** | **$144** |
+| **To buy — locked spec** — motor, shock towers, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$240** |
 | **Still open (no cost yet)** — tie rods, body, pinion, bearing kit | TBD |
-| **Total estimated (locked items)** | **~$340** |
+| **Total estimated (locked items)** | **~$384** |
 
 ---
 
