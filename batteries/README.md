@@ -10,8 +10,8 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 
 | # | Pack | Capacity | Acquired | Cycles | Notes |
 |---|------|----------|----------|--------|-------|
-| 1 | Zeee 3S 4200 #1 | 4200 mAh | 6/1/26 | 3 | New |
-| 2 | Zeee 3S 4200 #2 | 4200 mAh | 6/1/26 | 3 | New |
+| 1 | Zeee 3S 4200 #1 | 4200 mAh | TBD | 3 | |
+| 2 | Zeee 3S 4200 #2 | 4200 mAh | TBD | 3 | |
 | 3 | Zeee 2S 8000 #1 | 8000 mAh | 3/19/24 | 29 | Sticker |
 | 4 | Zeee 2S 8000 #2 | 8000 mAh | 3/19/24 | 26 | |
 | 5 | Zeee 4S | 8000 mAh | 3/18/24 | 20 | |
