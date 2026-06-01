@@ -8,11 +8,29 @@ Price tracking for battery sales/coupons across all sources (eBay, AliExpress, A
 
 ---
 
-## Best Prices Seen
+## Lowest Per-Pack Price by Model
 
-Sorted by date, newest first.
+At-a-glance: cheapest **per-pack** ever seen for each model I run / care about.
 
-| Date | Pack | Chem | Qty | Best Price | $/pack | Coupon | Source |
-|------|------|------|-----|------------|--------|--------|--------|
-| 2026-06-01 | Zeee 11.4V 120C 4200mAh XT60 3S Shorty SoftCase | LiPo | 2 | **$47.39** | $23.70 | FAVEDEAL20 stacked / other (TBD) | eBay — zeee_official_store |
-| 2025-09-21 | Zeee Premo 11.4V 120C 4200mAh HV 3S Shorty SoftCase XT60 | **LiHV** | 2 | **$46.59** | **$23.30** | (TBD — listed $58.26, paid $46.59) | AliExpress — ZEEE Direct Store (Order 8204556163634866) |
+| Model | Chem | All-Time Low $/pack | When | Source |
+|-------|------|---------------------|------|--------|
+| Zeee Premo 3S 4200mAh Shorty (HV) | LiHV | **$23.30** | 2025-09-21 | AliExpress — ZEEE Direct Store |
+| Zeee 3S 4200mAh Shorty | LiPo | **$23.70** | 2026-06-01 | eBay — zeee_official_store |
+
+---
+
+## Deal History — by Battery Model
+
+All recorded deals grouped by model, newest first within each group.
+
+### Zeee Premo 3S 4200mAh Shorty (LiHV)
+
+| Date | Qty | Total | $/pack | Coupon | Source |
+|------|-----|-------|--------|--------|--------|
+| 2025-09-21 | 2 | **$46.59** | **$23.30** | (TBD — listed $58.26, paid $46.59) | AliExpress — ZEEE Direct Store (Order 8204556163634866) |
+
+### Zeee 3S 4200mAh Shorty (LiPo)
+
+| Date | Qty | Total | $/pack | Coupon | Source |
+|------|-----|-------|--------|--------|--------|
+| 2026-06-01 | 2 | **$47.39** | **$23.70** | FAVEDEAL20 stacked / other (TBD) | eBay — zeee_official_store |

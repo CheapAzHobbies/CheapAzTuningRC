@@ -85,7 +85,9 @@ Rules:
 | Resource | Location | Notes |
 |----------|----------|-------|
 | Batteries | `batteries/` | Shared across all cars — log charge cycles here |
-| Deals | `Deals/` | Pricing snapshots and sale tracking |
+| Battery Deals | `Battery_Deals/` | Cheapest battery prices seen, by date — cross-source (eBay / AliExpress / Amazon) |
+| AliExpress Codes | `AliExpress_Codes/` | Active AliExpress sitewide promo codes ranked by % off |
+| Deals | `Deals/` | Pricing snapshots and sale tracking (per sale event) |
 | 3D Models | `CarName/3d-models/` | Per-car STL files |
 
 ---
@@ -94,6 +96,22 @@ Rules:
 
 Copy `batteries/TEMPLATE.md` and rename it for each pack (e.g. `batteries/pack1.md`).  
 Log every charge cycle with date, mAh put in, and resting voltage after.
+
+---
+
+## Battery Deals
+
+Add a row to `Battery_Deals/README.md` whenever a battery is bought (or seen at a notable low).  
+Structure: **grouped by battery model** (one sub-table per model) with newest-first inside each group, plus a top "Lowest Per-Pack Price by Model" summary so you can scan all-time lows in one glance.  
+Per-row columns: Date, Qty, Total, $/pack, Coupon, Source.
+
+---
+
+## AliExpress Codes
+
+When a sitewide AliExpress promo is running (SSUS, summer sale, 11.11, etc.), add the active codes to `AliExpress_Codes/README.md`.  
+Columns: Code, Discount (e.g. `$X off $Y+`), % Off, Notes.  
+Sort by **% Off descending** — best discount on top.
 
 ---
 

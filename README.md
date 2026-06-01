@@ -19,8 +19,10 @@ Build logs, part lists, setup notes, 3D models, and battery trackers for all my 
 
 | Resource | Folder | Notes |
 |----------|--------|-------|
-| Batteries | [batteries](batteries/) | Shared across all cars |
-| Deals | [Deals](Deals/) | Sale tracking and pricing snapshots |
+| Batteries | [batteries](batteries/) | Shared across all cars — master tracker + per-pack cycle logs |
+| Battery Deals | [Battery_Deals](Battery_Deals/) | Cheapest battery prices seen (eBay / AliExpress / Amazon), by date |
+| AliExpress Codes | [AliExpress_Codes](AliExpress_Codes/) | Active AliExpress promo codes ranked by % off |
+| Deals | [Deals](Deals/) | Per-sale-event pricing snapshots (Castle Memorial Day, etc.) |
 
 ---
 

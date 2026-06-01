@@ -8,8 +8,19 @@ Guidance for Claude when working in this repo. See [`CONTRIBUTING.md`](CONTRIBUT
 
 - `cars/<CarName>/` — one folder per build. Each has `README.md`, optional `src/` (photos) and `3d-models/` (STLs).
 - `batteries/` — shared across all cars. `README.md` is the master tracker; `TEMPLATE.md` is the per-pack log template.
-- `Deals/` — pricing snapshots / sale tracking.
+- `Battery_Deals/` — battery price tracking (cheapest seen, when, what code). Cross-source: eBay, AliExpress, Amazon. Tracks cost; **cycle history stays in `batteries/`**.
+- `AliExpress_Codes/` — active AliExpress coupon codes ranked by % off. Reference from car `<part>_analysis.md` Price History rows when a coupon got the deal.
+- `Deals/` — per-sale-event pricing snapshots (e.g. `castle_creations_memorial_day_2026.md`). One `.md` per sale.
 - Root `README.md` — index table of all cars.
+
+## Where deal info goes
+
+When the user shares a price/coupon, route it to the right place:
+
+- **Battery price** (any brand, any source) → `Battery_Deals/README.md`. **Grouped by model** with newest-first inside each group, plus a top "Lowest Per-Pack Price by Model" summary table. Each row: date, qty, total, $/pack, coupon, source.
+- **AliExpress coupon code** (sitewide promo like SSUS14) → `AliExpress_Codes/README.md`. Add to the active-sale table sorted by % off descending.
+- **Car-specific part price** (chassis, motor, etc.) → that part's `<part>_analysis.md` Price History section. Cross-link to `AliExpress_Codes/` or `Battery_Deals/` if a coupon/listing there was the path to the price.
+- **One-time sale event** (brand-wide, e.g. Castle Memorial Day) → new `.md` in `Deals/`.
 
 ## Branch policy
 
