@@ -46,4 +46,5 @@
 - **All rockers are Progressive 2 (90-T).** Don't mix rates front-to-rear unless deliberately tuning — the whole setup assumes Progressive 2.
 - **The alloy's best feature is the replaceable steel hex insert.** The bolt threads into a steel hex pressed into the aluminum, so if you strip a thread you swap a cheap steel hex instead of the whole rocker (per the listing review).
 - **Keep a plastic set as a spare** — it's the lighter, sacrificial option if you ever want to drop weight for a specific track, and it's cheap insurance.
+- **Linkage shimming + wear strategy.** Running metal Hot Bodies D8 shocks makes it easy to shim the shock end with **M3×1 mm shims** to keep it centered on the rocker. The push-rod rod ends are **RPM** (plastic), so all the stretch and abuse is consolidated onto a cheap, quick-swap part. Same philosophy as the unbreakable alloy rocker — push the wear onto whatever's cheapest to replace, and maintenance stays cheap.
 - **Enron buying:** $24.48 on sale ($27.85 list), or $20.14 each at 3+ pieces; sold as 4P (front + rear) or 2PCS sets in silver/orange/green/red/blue.

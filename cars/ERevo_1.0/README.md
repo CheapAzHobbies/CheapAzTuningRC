@@ -40,8 +40,10 @@ TBD
 
 | Spec | Value |
 |------|-------|
-| Body | Hot Bodies D8 97mm |
+| Body | Hot Bodies D8 97mm (metal) |
 | Piston | 4 × 1.2 |
+
+**Linkage / maintenance:** the metal D8 bodies shim easily with **M3×1 mm shims** to keep the shock end centered on the rocker. Push-rod rod ends are **RPM** (plastic), so all the stretch/abuse is consolidated onto a cheap, quick-swap part — keeps linkage upkeep cheap.
 
 ### Shock Oil
 
