@@ -50,7 +50,7 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 | Front | 90wt |
 | Rear | 100wt |
 
-> Full shock writeup — body choice, piston/oil tuning, the bigger-bore/lighter-oil logic, and the M3 shim + RPM rod-end linkage strategy — in [`shock_analysis.md`](shock_analysis.md).
+> Full shock writeup — body choice, piston/oil tuning, the bigger-bore/lighter-oil logic, Acxess springs, the 3D-printed shock-to-chassis mounts, and the M3 shim + RPM rod-end linkage strategy — in [`shock_analysis.md`](shock_analysis.md).
 
 ### Rear Arms
 
@@ -128,7 +128,7 @@ TBD
 
 | Model | Description | Status |
 |-------|-------------|--------|
-| Shock-to-chassis mount | Custom bracket to mount the D8 / Apache C1 shocks to the chassis — see [`shock_analysis.md`](shock_analysis.md#mounting-3d-printed) | ⏳ Needed (TBD) |
+| Shock-to-chassis mounts (front + rear) | Adapters to fit 97 mm big-bore (D8 / Apache C1) shocks to the Revo Gen 1 — STL + editable STEP in [`3d-models/shock_mounts/`](3d-models/shock_mounts/), [Thingiverse 7090606](https://www.thingiverse.com/thing:7090606) | ✅ Available |
 
 ---
 
@@ -137,5 +137,5 @@ TBD
 - [ ] Fill in all build details
 - [ ] Add parts and costs
 - [ ] Add photos
-- [ ] **Design + print the shock-to-chassis mount** (D8 shocks don't bolt to stock mounting)
-- [ ] Lock in spring rates (stock D8 buggy springs too soft for the truck)
+- [x] Shock-to-chassis mount designed — STL + STEP on [Thingiverse](https://www.thingiverse.com/thing:7090606)
+- [ ] Switch to **50–55 mm springs** (currently on 60–63 mm Acxess; running Gold front / Tan rear)

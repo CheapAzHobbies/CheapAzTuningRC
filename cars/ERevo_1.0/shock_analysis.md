@@ -12,9 +12,10 @@
 - [Shock Comparison](#shock-comparison) — D8 metal vs plastic twins vs stock
 - [Setup Spec — Piston & Oil](#setup-spec--piston--oil) — baseline, my numbers, and the why
 - [Why Heavier Oil](#why-heavier-oil) — temperature stability vs shock fade
-- [Springs](#springs) — stock D8 springs are too soft for a heavy truggy
+- [Springs](#springs) — Acxess springs, equivalence chart, and the 50–55 mm length issue
 - [Linkage — Shimming & Rod Ends](#linkage--shimming--rod-ends)
-- [Mounting (3D-printed)](#mounting-3d-printed) — custom shock-to-chassis mount needed
+- [Mounting (3D-printed)](#mounting-3d-printed) — my Thingiverse shock-to-chassis adapters
+- [Assembly](#assembly-hbhpi-big-bore--revo-gen-1) — building the HB/HPI shocks onto the Revo Gen 1
 - [Notes](#notes)
 
 ---
@@ -67,7 +68,26 @@ I run at the top of the oil range on purpose: **heavier oil is significantly mor
 
 **The springs that come with the HB D8 are not right for this build.** The D8 is a **1/8 buggy** shock, and its included springs are rated for a buggy's weight. The **E-Revo is a much heavier machine** — a massive truggy with big tires and a high CG. Bolt the D8 buggy springs straight on and the truck **sags into its travel and bottoms out**, with no rate left to hold ride height or control the weight on landings.
 
-**Run stiffer springs sized for the truck's weight.** The target is enough rate to **hold ride height and soak big landings without packing or bottoming**, while staying soft enough to track rough terrain. Exact spring rate is **TBD** — record the front/rear rates here once dialed in.
+**Use Acxess Springs** ([acxesspring.com](https://www.acxesspring.com/)) — I bought mine from [thespringstore.com](https://www.thespringstore.com/). The chart below maps each Acxess spring to its **equivalent GTR spring color and rate** (rates copied from the original GTR shock table). Mix and match by rate. Assume **~60 mm length** unless noted.
+
+| Equiv GTR color | Rate (N/mm) | Acxess industrial part # |
+|---|---|---|
+| Yellow | 2.8 | PC077-938-7000-MW-2333-CG-N-IN |
+| White | 2.9 | PC085-975-7630-SST-2335-C-N-IN |
+| Orange / Green | 3.3 | PC085-975-7630-MW-2335-C-N-IN |
+| ⭐ **Gold** *(my front)* | **3.73** (63.5 mm) | PC092-975-9000-MW-2500-CG-N-IN |
+| ⭐ **Tan** *(my rear)* | **4.0** | PC085-975-6630-MW-2335-C-N-IN |
+| Black | 4.5 | PC096-975-8000-SST-2346-C-N-IN |
+| Silver / Pink | 5.2 | PC096-975-8000-MW-2346-C-N-IN |
+| Blue | 5.9 | PC105-1014-8000-SST-2355-C-N-IN |
+| Purple | 6.2 (63.5 mm) | PC112-1010-10800-MW-2500-CG-N-IN |
+
+- **My setup:** **Gold front / Tan rear.**
+- **General rule: softer front, stiffer rear.** Pick a front color, then go one step up the chart for the rear — e.g. **Silver front → Blue rear**.
+
+### ⚠️ Spring length — go 50–55 mm, not 60 mm
+
+**Big issue with the springs I recommend:** don't run the **60 mm** springs shown in the kit picture. They *will* wear in and eventually settle to near-perfect ride height with the right droop — but you should just start with **50–55 mm** springs. Anything **shorter than ~55 mm** is about perfect: it nearly covers the whole shock body and looks clean. (I already spent ~$55 on the 60–63 mm springs, so I'm running those for now.)
 
 ---
 
@@ -80,7 +100,29 @@ I run at the top of the oil range on purpose: **heavier oil is significantly mor
 
 ## Mounting (3D-printed)
 
-⚠️ **Needs a custom 3D-printed shock mount to attach these shocks to the chassis.** The D8 / Apache C1 shocks don't bolt straight to the E-Revo's stock shock mounting, so a **printed bracket is required** to locate them to the chassis at the right angle/height. Design is **TBD** — drop the STL in [`3d-models/`](3d-models/) and link it here once it's printed and validated.
+✅ **Solved with my own custom shock-mount adapters** — published on Thingiverse: **[thing:7090606](https://www.thingiverse.com/thing:7090606)**. They let true 1/8 big-bore shocks (97 mm Hot Bodies D8 / HPI 107365 Apache C1) bolt onto the **Revo Gen 1** chassis. **Works with swaybars** (slight trimming). Tuned for racing, not max-air bashing — but the editable STEP files are included if you want to take it further.
+
+Files in [`3d-models/shock_mounts/`](3d-models/shock_mounts/):
+- `Front_Shock_Mount.stl` / `Rear_Shock_Mount.stl` — print-ready
+- `EREVO_Front_Shock_Mount_Upgrade.step` / `EREVO_Rear_Shock_Mount_Upgrade.step` — editable CAD
+
+<p align="center">
+  <img src="src/suspension_shock_mount_front_3d.png" width="380">&nbsp;<img src="src/suspension_shock_mount_rear_3d.png" width="380"><br>
+  <em>Front · rear shock-mount adapters (Revo Gen 1 → 97 mm big bore)</em>
+</p>
+
+---
+
+## Assembly (HB/HPI big bore → Revo Gen 1)
+
+Steps to set the HPI / Hot Bodies shocks up front and rear with these mounts:
+
+1. **Drill the stock eyelet** — enlarge the hole in the stock shock-shaft eyelet until it reaches the ball joint.
+2. **Trim the eyelet** — shorten it so the threaded part of the shaft can screw in deep enough to **just touch (or nearly touch) the ball**.
+3. **Assemble the internals** — install the **original bump-stop** inside the body, then stack the **kit washer**, then the **1.2 mm 4-hole piston** on top, and fasten with the provided **lock nut**. Fill with **80wt oil** — the baseline for both front and rear.
+4. **Cap setup** — press-fit the ball joint from the **original GTR cap / eyelet** into the new shock cap; make sure it sits **flush**.
+
+**Oil cross-reference:** 50wt in the stock Revo Gen 1 shocks feels similar to **80–90wt in these HB/HPI big bores** — the bigger bore needs heavier oil for the same feel (see [Bigger bore → lighter oil](#bigger-bore--lighter-oil-why-some-go-smaller-piston)). 80wt is the baseline; I run [90wt front / 100wt rear](#setup-spec--piston--oil).
 
 ---
 
