@@ -2,10 +2,7 @@
 
 > **Chosen: Enron aluminum #5358 (Progressive 2, 90-T) — full front + rear set** — the plastic OEM rockers fail regularly (going through **4–5 sets a year**), so durability wins over weight. The alloy adds only **~4–6 g per corner** (~22 g across the whole car) and never cracks. Bonus: it threads into **replaceable steel hex inserts**, so a stripped thread = swap a cheap hex, not the rocker. **Paid $14.31** for the silver 4P (front + rear) set — a steal vs $11 for plastic, and it stops the yearly replacement cycle. All rockers stay **Progressive 2 (90-T)**.
 
-<p align="center">
-  <img src="src/suspension_enron_rocker_alloy_pair_hardware.jpg" width="500">&nbsp;<img src="src/suspension_enron_rocker_alloy_single.jpg" width="500"><br>
-  <em>Enron aluminum #5358, Progressive 2 — pair + hardware 32.0 g · single bare 13.5 g</em>
-</p>
+<p align="center"><a href="https://www.aliexpress.com/"><img src="src/suspension_enron_rocker_alloy_pair_hardware.jpg" width="600"></a><br><em>Enron aluminum #5358, Progressive 2 — pair + hardware 32.0 g</em></p>
 
 ---
 
@@ -32,7 +29,7 @@
 
 | Rocker | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Enron aluminum #5358** (Progressive 2, front + rear) — *silver, in hand* | Material: CNC aluminum<br><br>Weight (single, bare): **13.7 g front / 13.5 g rear**<br><br>+ hardware: **~2.5 g/rocker** (~5 g per pair)<br><br>Rate: **Progressive 2 (90-T)**<br><br>Colors: silver / orange / green / red / blue<br><br>Price: **$14.31 paid** (silver 4P, May 2026); list ~$25–27.85 | Pro: **Won't crack** — ends the 4–5-sets-a-year plastic replacement cycle. **Replaceable steel hex inserts** where the bolt threads, so a stripped thread = swap the cheap hex, not the rocker<br><br>Con: **+4.4 g front / +6.5 g rear per corner** over plastic (bare); steel hardware adds more; 2×+ the price; not sacrificial — passes impact to the tower | <a href="https://www.aliexpress.com/"><img src="src/suspension_enron_rocker_alloy_pair_hardware.jpg" width="250"></a> <img src="src/suspension_enron_rocker_alloy_pair_hardware_bagged.jpg" width="250"><br><em>pair + hardware — 32.0 g · 32.3 g bagged</em> |
+| ⭐ **Enron aluminum #5358** (Progressive 2, front + rear) — *silver, in hand* | Material: CNC aluminum<br><br>Weight (single, bare): **13.7 g front / 13.5 g rear**<br><br>+ hardware: **~2.5 g/rocker** (~5 g per pair)<br><br>Rate: **Progressive 2 (90-T)**<br><br>Colors: silver / orange / green / red / blue<br><br>Price: **$14.31 paid** (silver 4P, May 2026); list ~$25–27.85 | Pro: **Won't crack** — ends the 4–5-sets-a-year plastic replacement cycle. **Replaceable steel hex inserts** where the bolt threads, so a stripped thread = swap the cheap hex, not the rocker<br><br>Con: **+4.4 g front / +6.5 g rear per corner** over plastic (bare); steel hardware adds more; 2×+ the price; not sacrificial — passes impact to the tower | <a href="https://www.aliexpress.com/"><img src="src/suspension_enron_rocker_alloy_single.jpg" width="250"></a> <img src="src/suspension_enron_rocker_alloy_pair_hardware.jpg" width="250"> <img src="src/suspension_enron_rocker_alloy_pair_hardware_bagged.jpg" width="250"><br><em>single bare 13.5 g · pair + hardware 32.0 g · 32.3 g bagged</em> |
 | 🥈 **Traxxas OEM plastic #5358** (Progressive 2, front + rear set) — *lighter fallback* | Material: glass-filled composite<br><br>Weight (single, bare): **9.3 g front / 7.0 g rear**<br><br>Rate: **Progressive 2 (90-T)**<br><br>Includes: 8 red aluminum spacers<br><br>Price: **$11.00** (full set) | Pro: **Lightest option**, cheap, OEM-correct, comes with the spacer set, sacrificial in crashes<br><br>Con: **Cracks regularly — 4–5 sets/year**, which is exactly why it's no longer the pick | <img src="src/suspension_traxxas_rocker_oem_plastic_front.jpg" width="250"> <img src="src/suspension_traxxas_rocker_oem_plastic_rear.jpg" width="250"><br><em>front 9.3 g · rear 7.0 g</em> |
 
 > **Buying note:** the Enron listing sells **4P** (front + rear, 4 arms) or **2PCS** (front-only or rear-only). Fits Traxxas 1/10 Revo / E-Revo / E-Revo 2.0 / Slayer Pro 4X4 / Summit.
