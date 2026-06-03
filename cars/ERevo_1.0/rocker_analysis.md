@@ -1,10 +1,10 @@
 # Suspension Rocker Selection — E-Revo 1.0
 
-> **Leaning toward: stock OEM plastic rockers (Progressive 2)** — they're the lightest option and the per-corner aluminum penalty turned out small (~4 g front, ~2 g rear), so the Enron alloy set is a legitimate durability upgrade if you keep cracking plastic. All rockers here are the **Progressive 2** rate. Measured singles: **OEM plastic 9.3 g (front) / ~11.7 g (rear)** vs **Enron aluminum 13.5 g bare**.
+> **Chosen: Enron aluminum #5358 (Progressive 2, 90-T) — full front + rear set** — the plastic OEM rockers fail regularly (going through **4–5 sets a year**), so durability wins over weight. The alloy adds only **~4–6 g per corner** (~22 g across the whole car) and never cracks. Bonus: it threads into **replaceable steel hex inserts**, so a stripped thread = swap a cheap hex, not the rocker. ~$24.48/set vs $11 for plastic, but it stops the yearly replacement cycle. All rockers stay **Progressive 2 (90-T)**.
 
 <p align="center">
-  <img src="src/suspension_traxxas_rocker_oem_plastic_front.jpg" width="500">&nbsp;<img src="src/suspension_traxxas_rocker_oem_plastic_rear.jpg" width="500"><br>
-  <em>OEM plastic Progressive 2 — front 9.3 g · rear ~11.7 g (single, bare)</em>
+  <img src="src/suspension_enron_rocker_alloy_pair_hardware.jpg" width="500">&nbsp;<img src="src/suspension_enron_rocker_alloy_single.jpg" width="500"><br>
+  <em>Enron aluminum #5358, Progressive 2 — pair + hardware 32.0 g · single bare 13.5 g</em>
 </p>
 
 ---
@@ -12,8 +12,7 @@
 ## Table of Contents
 
 - [Key Requirements](#key-requirements)
-- [Rocker Comparison](#rocker-comparison) — plastic vs aluminum
-- [Weight Breakdown](#weight-breakdown) — how the single-rocker weights were measured / derived
+- [Rocker Comparison](#rocker-comparison) — aluminum vs plastic, front + rear weights
 - [Notes](#notes)
 
 ---
@@ -22,10 +21,10 @@
 
 | Requirement | Type | Why |
 |---|---|---|
-| **Progressive 2 rate** | Must | Whole car is set up on the Progressive 2 rocker rate — any swap has to match |
-| **Fits E-Revo 1.0 front + rear towers** | Must | Front and rear rockers ride on the same pivot hardware |
-| **Lightweight** | May | Rockers are unsprung-adjacent moving mass; lighter = snappier suspension response |
-| **Crack-resistant** | May | Plastic rockers can crack on hard landings; alloy never cracks but adds weight |
+| **Crack-resistant** | Must | Plastic rockers fail ~4–5 sets/year — durability is now the deciding factor |
+| **Progressive 2 (90-T) rate** | Must | Whole car is set up on the Progressive 2 rocker rate — any swap has to match |
+| **Fits E-Revo 1.0 front + rear towers** | Must | #5358 fits the Revo / E-Revo / E-Revo 2.0 / Slayer Pro / Summit family |
+| **Lightweight** | May | Rockers are moving suspension mass; lighter is nicer, but secondary to not breaking |
 
 ---
 
@@ -33,54 +32,18 @@
 
 | Rocker | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Traxxas OEM plastic** (Progressive 2, front + rear) | Material: glass-filled composite<br><br>Weight (single, bare): **9.3 g front / ~11.7 g rear**<br><br>Rate: **Progressive 2**<br><br>Price: cheap OEM | Pro: **Lightest option.** Sacrificial in crashes, cheap to replace, no extra steel hardware weight<br><br>Con: Can crack on hard direct hits / big landings | <img src="src/suspension_traxxas_rocker_oem_plastic_front.jpg" width="250"> <img src="src/suspension_traxxas_rocker_oem_plastic_rear.jpg" width="250"><br><em>front 9.3 g · rear ~11.7 g</em> |
-| 🔵 **Enron aluminum** (HD, front + rear) | Material: CNC aluminum<br><br>Weight (single, bare): **13.5 g**<br><br>+ hardware: **~2.5 g/rocker** (~5 g per pair)<br><br>Rate: Progressive 2 geometry<br><br>Part / price: Enron (TBD) | Pro: **Won't crack** — survives the landings that snap plastic. Tight, slop-free pivot<br><br>Con: **+4.2 g front / +1.8 g rear per corner** over plastic (bare); steel hardware adds a little more; not sacrificial — passes impact to the tower instead of breaking cheap | <img src="src/suspension_enron_rocker_alloy_pair_hardware.jpg" width="500"><br><em>Enron alloy pair + hardware — 32.0 g</em> |
+| ⭐ **Enron aluminum #5358** (Progressive 2, front + rear) | Material: CNC aluminum<br><br>Weight (single, bare): **13.7 g front / 13.5 g rear**<br><br>+ hardware: **~2.5 g/rocker** (~5 g per pair)<br><br>Rate: **Progressive 2 (90-T)**<br><br>Colors: silver / orange / green / red / blue<br><br>Price: **$24.48** sale ($27.85 list), $20.14 ea ≥3pcs | Pro: **Won't crack** — ends the 4–5-sets-a-year plastic replacement cycle. **Replaceable steel hex inserts** where the bolt threads, so a stripped thread = swap the cheap hex, not the rocker<br><br>Con: **+4.4 g front / +6.5 g rear per corner** over plastic (bare); steel hardware adds more; 2×+ the price; not sacrificial — passes impact to the tower | <a href="https://www.aliexpress.com/"><img src="src/suspension_enron_rocker_alloy_pair_hardware.jpg" width="250"></a> <img src="src/suspension_enron_rocker_alloy_pair_hardware_bagged.jpg" width="250"><br><em>pair + hardware — 32.0 g · 32.3 g bagged</em> |
+| 🥈 **Traxxas OEM plastic #5358** (Progressive 2, front + rear set) — *lighter fallback* | Material: glass-filled composite<br><br>Weight (single, bare): **9.3 g front / 7.0 g rear**<br><br>Rate: **Progressive 2 (90-T)**<br><br>Includes: 8 red aluminum spacers<br><br>Price: **$11.00** (full set) | Pro: **Lightest option**, cheap, OEM-correct, comes with the spacer set, sacrificial in crashes<br><br>Con: **Cracks regularly — 4–5 sets/year**, which is exactly why it's no longer the pick | <img src="src/suspension_traxxas_rocker_oem_plastic_front.jpg" width="250"> <img src="src/suspension_traxxas_rocker_oem_plastic_rear.jpg" width="250"><br><em>front 9.3 g · rear 7.0 g</em> |
 
----
-
-## Weight Breakdown
-
-The goal was the **weight of a single rocker on its own** (no mounting hardware), so plastic and aluminum compare apples-to-apples.
-
-**Measured directly:**
-
-| Item | Reading |
-|---|---|
-| OEM plastic front rocker (single, bare) | **9.3 g** |
-| OEM plastic rear rocker (single, bare) | **~11.7 g** *(scale shot sideways — confirm)* |
-| Enron aluminum rocker (single, bare, no hardware) | **13.5 g** |
-| Enron aluminum **pair + hardware** | **32.0 g** (re-weighed: 32.3 g) |
-
-<p align="center">
-  <img src="src/suspension_enron_rocker_alloy_single.jpg" width="380">&nbsp;<img src="src/suspension_enron_rocker_alloy_pair_hardware_bagged.jpg" width="380"><br>
-  <em>Single alloy rocker, no hardware — 13.5 g · alloy pair + bagged hardware — 32.3 g</em>
-</p>
-
-**Deriving the hardware weight** (so any single rocker can be isolated, front or rear — hardware is the same at both ends):
-
-```
-pair + hardware        = 32.0 g
-two bare rockers        = 2 × 13.5 = 27.0 g
-hardware (per pair)     = 32.0 − 27.0 = 5.0 g   → ~2.5 g per rocker
-```
-
-So a **single aluminum rocker, bare = 13.5 g**, confirmed both by direct measurement and by subtracting the ~5 g hardware from the pair.
-
-**Aluminum vs plastic, per corner (bare rocker only):**
-
-| Corner | Plastic | Aluminum | Penalty |
-|---|---|---|---|
-| Front | 9.3 g | 13.5 g | **+4.2 g** |
-| Rear | ~11.7 g | 13.5 g | **+1.8 g** |
-
-**Whole car** (4 rockers: 2 front + 2 rear, bare): plastic ≈ **42 g** vs aluminum ≈ **54 g** → **about +12 g total**, plus a little extra for the heavier steel hardware.
+> **Buying note:** the Enron listing sells **4P** (front + rear, 4 arms) or **2PCS** (front-only or rear-only). Fits Traxxas 1/10 Revo / E-Revo / E-Revo 2.0 / Slayer Pro 4X4 / Summit.
 
 ---
 
 ## Notes
 
-- **All rockers are Progressive 2.** Don't mix rates front-to-rear unless you're deliberately tuning — the whole setup assumes Progressive 2.
-- **The aluminum penalty is genuinely small.** +4 g (front) / +2 g (rear) per corner is a rounding error next to chassis/battery weight, so if you're cracking plastic rockers the Enron alloy set is a reasonable durability buy — the usual "alloy is too heavy" argument barely applies here.
-- **Plastic is still the lighter, sacrificial choice.** It breaks cheap and protects the tower; alloy never breaks but hands the impact to whatever it bolts to.
-- **Hardware is shared front/rear**, so the ~2.5 g/rocker hardware figure applies at both ends — only the bare rocker weight differs between front and rear.
-- **Enron part number / price: TBD** — fill in from the AliExpress listing when ordering.
+- **Why aluminum won:** plastic OEM rockers crack and get replaced **4–5 times a year**. At $11/set that's ~$44–55/yr in plastic plus the downtime; one $24.48 alloy set that doesn't break ends the cycle. The ~22 g weight penalty is an easy trade for not rebuilding rockers every few months.
+- **Both are #5358.** Traxxas OEM (#5358, $11) is the *Progressive 2 (90-T) Rocker Arm Set & Spacers* — the full front + rear set with 8 red aluminum spacers. Enron reuses the same #5358 number for its aluminum clone.
+- **All rockers are Progressive 2 (90-T).** Don't mix rates front-to-rear unless deliberately tuning — the whole setup assumes Progressive 2.
+- **The alloy's best feature is the replaceable steel hex insert.** The bolt threads into a steel hex pressed into the aluminum, so if you strip a thread you swap a cheap steel hex instead of the whole rocker (per the listing review).
+- **Keep a plastic set as a spare** — it's the lighter, sacrificial option if you ever want to drop weight for a specific track, and it's cheap insurance.
+- **Enron buying:** $24.48 on sale ($27.85 list), or $20.14 each at 3+ pieces; sold as 4P (front + rear) or 2PCS sets in silver/orange/green/red/blue.

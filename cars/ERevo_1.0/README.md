@@ -55,7 +55,7 @@ TBD
 
 ### Rockers
 
-- Progressive 2 rate, front + rear. See [`rocker_analysis.md`](rocker_analysis.md) — OEM plastic (9.3 g front / ~11.7 g rear) vs Enron aluminum (13.5 g bare).
+- **Enron aluminum #5358**, Progressive 2 (90-T), front + rear — chosen over OEM plastic (which fails 4–5 sets/yr). See [`rocker_analysis.md`](rocker_analysis.md). Weights: alloy 13.7 g front / 13.5 g rear vs plastic 9.3 g front / 7.0 g rear.
 
 ---
 
