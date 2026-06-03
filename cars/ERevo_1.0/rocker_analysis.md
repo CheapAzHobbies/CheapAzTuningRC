@@ -10,6 +10,7 @@
 
 - [Key Requirements](#key-requirements)
 - [Rocker Comparison](#rocker-comparison) — aluminum vs plastic, front + rear weights
+- [Bearing vs Bushing](#bearing-vs-bushing) — pivot hardware: why bushings here
 - [Notes](#notes)
 
 ---
@@ -35,6 +36,19 @@
 | 🥈 **Traxxas OEM plastic #5358** (Progressive 2, front + rear set) — *lighter fallback* | Material: glass-filled composite<br><br>Weight (single, bare): **9.3 g front / 7.0 g rear**<br><br>Rate: **Progressive 2 (90-T)**<br><br>Includes: 8 red aluminum spacers<br><br>Price: **$11.00** (full set) | Pro: **Lightest option**, cheap, OEM-correct, comes with the spacer set, sacrificial in crashes<br><br>Con: **Cracks regularly — 4–5 sets/year**, which is exactly why it's no longer the pick | <img src="src/suspension_traxxas_rocker_oem_plastic_front.jpg" width="250"> <img src="src/suspension_traxxas_rocker_oem_plastic_rear.jpg" width="250"><br><em>front 9.3 g · rear 7.0 g</em> |
 
 > **Buying note:** the Enron listing sells **4P** (front + rear, 4 arms) or **2PCS** (front-only or rear-only). Fits Traxxas 1/10 Revo / E-Revo / E-Revo 2.0 / Slayer Pro 4X4 / Summit.
+
+---
+
+## Bearing vs Bushing
+
+> **Use the Traxxas oilite bronze bushings on the rocker pivots — not bearings.** The bushings **limit movement** (no slop) and **do no damage to the rocker studs**.
+
+| Pivot option | Spec | Pros / Cons | Photo |
+|---|---|---|---|
+| ⭐ **Traxxas oilite bronze bushings** | 5×11×4 mm<br><br>Self-lubricating sintered bronze<br><br>Cheap, comes as a bag | Pro: **Limits movement** — tight, no play. Bronze is **softer than the steel stud**, so the bushing wears itself, **never the stud**. Self-lubricating and tolerant of dirt<br><br>Con: More friction than a bearing — irrelevant on a slow rocker pivot | <img src="src/suspension_traxxas_oilite_bushings_5x11x4.jpg" width="500"> |
+| 🔵 **Traxxas ball bearings 5×11×4 mm** (#4607) | 5×11×4 mm, metal-shielded<br><br>Part: **TRA4607**<br><br>Price: **$24.00** (8) | Pro: Lower friction, the "bearing upgrade" feel<br><br>Con: **Hard races can groove/wear the rocker studs**; any bearing play becomes slop; get gritty and notchy in a dirty offroad pivot — **not what we want here** | <img src="src/suspension_traxxas_ball_bearings_5x11x4_4607.jpg" width="500"> |
+
+On a rocker pivot the goal is **controlled, slop-free movement**, not low friction — the rocker barely rotates. The oilite bushing gives a precise fit that limits play, and because the bronze is softer than the steel stud it sacrifices itself instead of scoring the (harder-to-replace) stud. A ball bearing reduces friction nobody needs here, while its hard races can wear the studs and its play shows up as slop. **Bushings win on these rockers.**
 
 ---
 
