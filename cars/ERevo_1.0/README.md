@@ -53,6 +53,10 @@ TBD
 
 - Traxxas TRA5328 / TRA5327 adjustable rear arms — 10–19 setting range
 
+### Rockers
+
+- Progressive 2 rate, front + rear. See [`rocker_analysis.md`](rocker_analysis.md) — OEM plastic (9.3 g front / ~11.7 g rear) vs Enron aluminum (13.5 g bare).
+
 ---
 
 ## Drivetrain
