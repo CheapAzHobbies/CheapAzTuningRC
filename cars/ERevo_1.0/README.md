@@ -49,7 +49,8 @@ TBD
 
 | Position | Weight |
 |----------|--------|
-| Front & Rear | 50wt |
+| Front | 90wt |
+| Rear | 100wt |
 
 ### Rear Arms
 
