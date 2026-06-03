@@ -20,6 +20,7 @@
 | Requirement | Type | Why |
 |---|---|---|
 | **Won't bend** | Must | Bent rods are the #1 linkage failure on a heavy E-Revo — stainless steel holds where aluminum folds |
+| **Corrosion / rust resistant** | Must | Car is **regularly driven at the beach** — salt and sand rust plain steel fast; stainless rods + plastic ends shrug it off |
 | **Adjustable (turnbuckle)** | Must | Set toe / camber-link length without buying fixed rods |
 | **Correct eye-to-eye length** | Must | Must match the E-Revo geometry — the GPM set fits both 1.0 and 2.0 |
 | **Replaceable rod ends** | May | The rod end should be the cheap sacrificial wear point, swappable on its own |
@@ -30,7 +31,7 @@
 
 | Rod set | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **GPM stainless steel** (8-pc tie + push rod set) | Material: **stainless steel**<br><br>MPN: **ER2160S-OC-BEBK**<br><br>Fits: E-Revo **1.0 & 2.0** (same eye-to-eye)<br><br>Adjustable turnbuckles<br><br>Price: **$37.29** (8 pc) | Pro: **Never bent one** — strongest of the three. Stainless won't rust, fully adjustable, complete front+rear set in one box, works **far better than stock or aluminum**<br><br>Con: Priciest option; comes with stiff plastic ends I swap for RPM | <a href="https://www.ebay.com/"><img src="src/suspension_gpm_pushrod_tierod_stainless_er2160s.jpg" width="500"></a> |
+| ⭐ **GPM stainless steel** (8-pc tie + push rod set) | Material: **stainless steel**<br><br>MPN: **ER2160S-OC-BEBK**<br><br>Fits: E-Revo **1.0 & 2.0** (same eye-to-eye)<br><br>Adjustable turnbuckles<br><br>Price: **$37.29** (8 pc) | Pro: **Never bent one** — strongest of the three. Stainless won't rust, fully adjustable, complete front+rear set in one box, works **far better than stock or aluminum**<br><br>Con: Priciest option and **noticeably heavier** overall than aluminum/stock — a weight I accept for the strength; comes with stiff plastic ends I swap for RPM | <a href="https://www.ebay.com/"><img src="src/suspension_gpm_pushrod_tierod_stainless_er2160s.jpg" width="500"></a> |
 | 🔵 **Traxxas aluminum turnbuckles** | Material: anodized aluminum<br><br>Adjustable | Pro: Light, looks good, adjustable<br><br>Con: **Aluminum bends** on hard hits — a real failure point on this truck; GPM stainless is clearly better | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/suspension_traxxas_aluminum_rods.jpg` |
 | 🔵 **Traxxas stock rods** | Material: stock (OEM)<br><br>Adjustable | Pro: Came on the car, fine as a baseline<br><br>Con: Rod ends break eventually; not as strong as the GPM stainless — the GPM is a clear step up | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/suspension_traxxas_stock_rods.jpg` |
 
@@ -43,6 +44,7 @@ The rod end is meant to be the **cheap, sacrificial wear point** — let it take
 | Rod end | Pros / Cons | Photo |
 |---|---|---|
 | ⭐ **RPM long rod ends** (RPM80512, 12-pc) | Pro: **Bulletproof RPM material — last far longer** than stock and deliberately **take the stress**, so the ends fail before the rods. **Thicker around the ball stud**, and the shank has flats that make them easy to thread on. Cheap at **$9.99 / 12**<br><br>Con: **Must trim ~5 mm to match the original rod-end length**; sold **without pivot balls** — reuse the stock Traxxas hollow balls. Slightly more give than a stiff stock end | <img src="src/suspension_rpm_rod_ends_long_rpm80512.jpg" width="500"><br><em>RPM80512 long turnbuckle rod ends (black, 12)</em> |
+| 🔵 **RPM short rod ends** (RPM80472, 12-pc) | Pro: Same tough RPM material and shank flats; **may be the perfect length with no trimming** needed. Replaces stock **TRA5347**. Cheap at **$8.95 / 12**<br><br>Con: Length unverified — **might be a touch too short**; sold **without pivot balls** (reuse stock Traxxas balls) | <img src="src/suspension_rpm_rod_ends_short_rpm80472.jpg" width="500"><br><em>RPM80472 short rod ends (12)</em> |
 | 🔵 **GPM plastic ball ends** (ER2160S-BE-BK, 16-pc) | Pro: **Stiff and decent** when new — precise feel; cheap at **$13.90 / 16**. These are the ends the GPM rods ship with<br><br>Con: **Break eventually**; once they go you're replacing them more often than RPM ends | <img src="src/suspension_gpm_rod_ends_plastic_er2160s_be-bk.jpg" width="500"><br><em>GPM ER2160S-BE-BK — 16 black plastic ball ends</em> |
 
 ---
@@ -51,6 +53,11 @@ The rod end is meant to be the **cheap, sacrificial wear point** — let it take
 
 - **Fits both E-Revo 1.0 and 2.0.** The listing is for the 2.0 VXL (86086-4), but the rods are the same eye-to-eye length, so the set drops onto the 1.0 too.
 - **Why stainless over aluminum:** aluminum turnbuckles look nice and save a few grams, but they **bend** on hard landings — the exact failure this set eliminates. Stainless steel is the right call on a heavy truck that hits hard.
+- **Beach-proof:** this car gets driven at the **beach** regularly, so corrosion matters as much as strength. **Stainless steel won't rust** in salt/sand, and the **plastic RPM/GPM rod ends can't rust at all** — the whole linkage is corrosion-proof. Plain steel rods would be a bad call here. Still, rinse and dry the car after beach runs to keep salt out of the bearings and metal hardware elsewhere.
+- **Weight trade-off:** the stainless rods are **noticeably heavier** overall than aluminum or stock — I chose **strength over weight** (no bending, no rust beats saving a few grams on this truck).
 - **Swap the ends to RPM.** The GPM set ships with stiff plastic ends; replace them with **RPM rod ends** so the linkage wear lands on a cheap, easy-to-replace part and the rods stay straight.
-- **RPM fitment (RPM80512):** the **long** RPM rod ends replace **TRA5525** (the short ones replace TRA5347). They come **without pivot balls**, so reuse the **stock Traxxas hollow balls**. **Trim ~5 mm off each RPM end** so the assembled length matches the original rod ends — otherwise the geometry/length is off.
+- **RPM fitment:** the **long** ends (RPM80512) replace **TRA5525**; the **short** ends (RPM80472) replace **TRA5347**. Both come **without pivot balls**, so reuse the **stock Traxxas hollow balls**.
+- **Two ways to hit the right length:**
+  - **My way (trim):** run **two long ends and chop ~5 mm off each** so the assembled length matches the original rod ends.
+  - **No-cut trick:** run **one RPM short + one RPM long** on each rod and thread them in so the **bases cover all the exposed threads** — that dials the length in without cutting. The short alone may also just be the right length, but it's unverified (could be slightly short).
 - **Order:** GPM stainless tie rods & push rods, 8-pc set, $37.29 — ordered Jun 30 2025 (eBay, seller hebendj), in hand.
