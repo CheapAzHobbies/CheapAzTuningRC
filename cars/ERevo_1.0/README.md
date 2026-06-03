@@ -58,7 +58,7 @@ TBD
 
 ### Rockers
 
-- **Enron aluminum #5358**, Progressive 2 (90-T), front + rear — chosen over OEM plastic (which fails 4–5 sets/yr). See [`rocker_analysis.md`](rocker_analysis.md). Weights: alloy 13.7 g front / 13.5 g rear vs plastic 9.3 g front / 7.0 g rear.
+- **Enron aluminum #5358**, Progressive 2 (90-T), front + rear (silver, in hand — paid **$14.31**) — chosen over OEM plastic (which fails 4–5 sets/yr). See [`rocker_analysis.md`](rocker_analysis.md). Weights: alloy 13.7 g front / 13.5 g rear vs plastic 9.3 g front / 7.0 g rear.
 
 ---
 
@@ -114,6 +114,7 @@ TBD
 |--------|-------------|----------|------|--------|-------|
 | — | Traxxas E-Revo 1.0 | Base Car | — | — | — |
 | — | Castle Creations 1515 2200KV Motor | Electronics | — | — | — |
+| 5358 | Enron aluminum rockers, Progressive 2 (silver 4P) | Suspension | $14.31 | AliExpress (NEW ENRON) | [rocker_analysis.md](rocker_analysis.md) |
 
 ---
 
