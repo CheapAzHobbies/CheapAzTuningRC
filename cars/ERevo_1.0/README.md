@@ -52,6 +52,14 @@ TBD
 | Front | 90wt |
 | Rear | 100wt |
 
+**Piston & oil tuning notes:**
+
+- **Baseline:** the 4-hole 1.2 piston is commonly recommended around **80wt front and rear**.
+- **My setup:** **90wt front / 100wt rear.** The extra rear weight helps prevent bucking and keeps the back of the car planted over rough terrain. This sits at the **upper end of regular shock-oil weights** — if you'd rather stay in the standard oil range, run a piston with **fewer or smaller holes**.
+- **Brand barely matters** — shock oils vary 2–3wt off each other anyway. I like **TLR** oils since they go up to 100wt (probably higher — didn't check).
+- **Why some go to a smaller piston:** to stay on standard shock oils. The E-Revo originally shipped with a **2-hole piston**. Counterintuitive logic: for the *same* hole size and count (e.g. 2-hole 1.3), a **bigger-bore shock has to force more oil through those holes** than a smaller one — so the bigger shock can run **lighter oil** to match the OG shock's feel. For example, where a smaller shock wants ~**55wt**, a bigger-bore shock can run **40–45wt** with similar characteristics.
+- **Why I run heavy oil anyway:** heavier oil is **significantly more temperature-stable** — it holds up across weather and resists **shock fade** (as the oil heats up the shock gets less effective). Worth running at the top of the oil range for that consistency.
+
 ### Rear Arms
 
 - Traxxas TRA5328 / TRA5327 adjustable rear arms — 10–19 setting range
