@@ -1,15 +1,15 @@
 # Shock Selection — E-Revo 1.0
 
-> **Chosen: Hot Bodies D8 97mm metal big bore (16mm bore)** — metal is deliberately the pick here, the opposite of the lighter plastic route on the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md). The E-Revo is a heavier truck, and the metal bodies let me **shim the shock end centered on the rocker with M3×1 mm shims**, while **RPM plastic push-rod rod ends** soak up all the stretch and abuse — cheap, repeatable maintenance. Running **4-hole 1.2 mm pistons** with **90wt front / 100wt rear** oil. The D8 is the same shock as the HPI Apache C1 (its plastic twin).
+> **Chosen: HPI Apache C1 97mm plastic big bore (16mm bore)** — on this build the shocks sit **inboard** (rocker-actuated, behind the [3D-printed mounts](#mounting-3d-printed)), so they're **not exposed to crash abuse**. That removes the only reason to run a metal body, and the plastic's big advantage — **lighter weight** — wins with no downside. Same 16mm big-bore shock as the metal **Hot Bodies D8** (now the runner-up). Running **4-hole 1.2 mm pistons** with **90wt front / 100wt rear** oil, and **Acxess springs** (the included big-bore springs are wrong for this heavy truck — see [Springs](#springs)). RPM plastic push-rod rod ends soak up the linkage abuse.
 
-<p align="center"><img src="src/suspension_hb_d8_shocks_hbs67296.jpg" width="600"><br><em>Hot Bodies D8 97mm metal big bore (HBS67296) — 16mm bore, threaded body</em></p>
+<p align="center"><img src="src/suspension_hpi_shocks_apache_c1_107365.jpg" width="600"><br><em>HPI Apache C1 97mm plastic big bore (#107365) — 16mm bore, lighter than the metal D8</em></p>
 
 ---
 
 ## Table of Contents
 
 - [Key Requirements](#key-requirements)
-- [Shock Comparison](#shock-comparison) — D8 metal vs plastic twins vs stock
+- [Shock Comparison](#shock-comparison) — plastic Apache C1 vs metal D8 vs stock
 - [Setup Spec — Piston & Oil](#setup-spec--piston--oil) — baseline, my numbers, and the why
 - [Why Heavier Oil](#why-heavier-oil) — temperature stability vs shock fade
 - [Springs](#springs) — Acxess springs, equivalence chart, and the 50–55 mm length issue
@@ -25,7 +25,7 @@
 | Requirement | Type | Why |
 |---|---|---|
 | **97 mm big-bore (16 mm) class** | Must | Matches E-Revo ride height + travel; gives the plush, consistent damping the chassis needs |
-| **Metal body** | Must (here) | Lets the shock end be shimmed centered on the rocker with M3×1 shims, and survives heavy-truck crashes without denting |
+| **Lightweight body** | May | The shocks sit **inboard** (rocker-actuated, behind the mounts), so they take no crash hits — no need for a heavy metal body; lighter plastic is the win |
 | **Threaded body** | Must | Adjustable preload is the point of an aftermarket shock |
 | **Rebuildable** | Must | Comes apart to service — rebuild when one leaks or breaks, no fixed schedule |
 | **Temperature-stable damping** | May | Heavier oil holds its rate as the shock heats up (resists shock fade) |
@@ -36,9 +36,9 @@
 
 | Shock | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Hot Bodies D8 97mm** (metal big bore, HBS67296) | Bore: **16 mm**<br><br>Body: **metal**, threaded<br><br>Piston: **4 × 1.2 mm**<br><br>Oil: **90wt F / 100wt R**<br><br>Length: 97 mm shaft | Pro: **Metal body shims clean with M3×1** to center on the rocker, never dents, plush 16mm bore, rebuildable, same shock as the Apache C1<br><br>Con: Heavier than the plastic twin; discontinued (still produced as the Apache C1 / A929) | <img src="src/suspension_hb_d8_shocks_hbs67296.jpg" width="500"> |
-| 🔵 **HPI Apache C1 / Wltoys A929** (plastic big bore) | Bore: **16 mm**<br><br>Body: **plastic**, threaded<br><br>Same internals as the D8<br><br>Price: cheap (A929 ~$16/pr) | Pro: **Much lighter**, cheap, identical 16mm bore and internals<br><br>Con: Plastic body flexes and won't take the M3 shim trick as cleanly; less ideal on a heavy truck — better suited to the lighter Jato build | <img src="src/suspension_hpi_shocks_apache_c1_107365.jpg" width="250"> <img src="src/suspension_wltoys_a929_shocks_a929-14.jpg" width="250"><br><em>Apache C1 · Wltoys A929</em> |
-| 🚫 ~~**Stock Traxxas GTR** (E-Revo OEM)~~ | Body: aluminum, threaded<br><br>Piston: **2-hole** (OEM)<br><br>Smaller effective flow than the 4×1.2 setup | Pro: Came on the car, big-bore aluminum<br><br>Con: **Superseded by the D8** — the 2-hole OEM piston is the baseline I tuned away from; D8 gives a more tunable big-bore package | <img src="src/suspension_traxxas_gtr_shocks_stock.jpg" width="500"> |
+| ⭐ **HPI Apache C1 97mm** (plastic big bore, #107365) | Bore: **16 mm**<br><br>Body: **plastic**, threaded<br><br>Piston: **4 × 1.2 mm**<br><br>Oil: **90wt F / 100wt R**<br><br>Springs: Acxess (not included)<br><br>Length: 97 mm shaft | Pro: **Lighter than the metal D8**, and the inboard shocks are protected so there's no crash exposure to worry about. Same plush 16mm big-bore internals, rebuildable, cheap (A929 twin ~$16/pr)<br><br>Con: **Doesn't come with the right springs** for a heavy truck — the included buggy springs are too soft, swap to [Acxess](#springs) | <img src="src/suspension_hpi_shocks_apache_c1_107365.jpg" width="250"> <img src="src/suspension_wltoys_a929_shocks_a929-14.jpg" width="250"><br><em>Apache C1 (#107365) · Wltoys A929 twin</em> |
+| 🥈 **Hot Bodies D8 97mm** (metal big bore, HBS67296) | Bore: **16 mm**<br><br>Body: **metal**, threaded<br><br>Same 16mm internals as the C1 | Pro: Metal body **never dents** and the shock end shims a touch more precisely with M3×1; identical big-bore internals<br><br>Con: **Heavier** than the plastic C1 — and the shocks are protected here, so that toughness buys nothing; discontinued. **Also no correct springs included** (same Acxess swap) | <img src="src/suspension_hb_d8_shocks_hbs67296.jpg" width="500"> |
+| 🚫 ~~**Stock Traxxas GTR** (E-Revo OEM)~~ | Threaded GTR body, red springs<br><br>Piston: **2-hole** (OEM)<br><br>Parts: **TRA5460X · TRA5437 · TRA5438 · TRA5463** (shocks + springs)<br><br>Smaller effective flow than the 4×1.2 big-bore setup | Pro: Came on the car<br><br>Con: **Superseded by the D8** — the 2-hole OEM piston is the baseline I tuned away from; D8 gives a more tunable big-bore package | <img src="src/suspension_traxxas_gtr_shocks_stock.jpg" width="500"><br><em>Stock Revo GTR shocks + springs (TRA5460X)</em> |
 
 ---
 
@@ -93,7 +93,7 @@ I run at the top of the oil range on purpose: **heavier oil is significantly mor
 
 ## Linkage — Shimming & Rod Ends
 
-- **Metal D8 bodies shim easily with M3×1 mm shims** to keep the shock end **centered on the rocker** — clean, repeatable, and only possible because the body is metal (plastic flexes and won't hold the shim stack as precisely).
+- **Shim the shock end with M3×1 mm shims** to keep it **centered on the rocker** — clean and repeatable. (A metal body holds the shim stack a touch more precisely, but the chosen plastic C1 works fine.)
 - **Push-rod rod ends are RPM (plastic)**, so all the stretch and abuse in the linkage is **consolidated onto a cheap, quick-swap part**. Same philosophy as the [aluminum rockers](rocker_analysis.md) — push wear onto whatever's cheapest to replace, and maintenance stays cheap.
 
 ---
@@ -129,5 +129,5 @@ Steps to set the HPI / Hot Bodies shocks up front and rear with these mounts:
 ## Notes
 
 - **D8 = Apache C1.** The metal Hot Bodies D8 (HBS67296) and the plastic HPI Apache C1 are the same shock; the Wltoys A929 is a budget knock-off of the C1. Bodies and most internals interchange — see the [FastAzJato4x4 shock analysis](../FastAzJato4x4/shock_analysis.md) for the full big-bore parts breakdown (spare bodies, maintenance sets, spring charts).
-- **Metal here, plastic there.** This build chooses metal for the shim trick + heavy-truck durability; the lighter Jato build chooses the plastic twin for weight. Same shock family, opposite trade-off.
+- **Plastic, same as the Jato.** Both this build and the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md) run the **plastic Apache C1 for weight** — here it works because the **inboard shocks are shielded from crash abuse**. The metal D8 is the runner-up if a plastic body ever fails.
 - **Rebuild on condition, not schedule** — service a shock only when it leaks or breaks.

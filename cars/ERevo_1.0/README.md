@@ -40,8 +40,9 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 
 | Spec | Value |
 |------|-------|
-| Body | Hot Bodies D8 97mm (metal) |
+| Body | HPI Apache C1 97mm plastic big bore (#107365) — lighter; D8 metal is the runner-up |
 | Piston | 4 × 1.2 |
+| Springs | Acxess (Gold front / Tan rear) — stock big-bore springs too soft |
 
 ### Shock Oil
 
