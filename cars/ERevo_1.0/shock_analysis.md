@@ -12,7 +12,9 @@
 - [Shock Comparison](#shock-comparison) — D8 metal vs plastic twins vs stock
 - [Setup Spec — Piston & Oil](#setup-spec--piston--oil) — baseline, my numbers, and the why
 - [Why Heavier Oil](#why-heavier-oil) — temperature stability vs shock fade
+- [Springs](#springs) — stock D8 springs are too soft for a heavy truggy
 - [Linkage — Shimming & Rod Ends](#linkage--shimming--rod-ends)
+- [Mounting (3D-printed)](#mounting-3d-printed) — custom shock-to-chassis mount needed
 - [Notes](#notes)
 
 ---
@@ -47,13 +49,25 @@
 
 ### Bigger bore → lighter oil (why some go smaller-piston)
 
-Some people drop to a smaller piston to stay on standard shock oils. The E-Revo originally shipped with a **2-hole piston**. The logic sounds backwards but holds: for the *same* hole size and count (e.g. 2-hole 1.3), a **bigger-bore shock has to force more oil through those holes** than a smaller one — so the bigger shock can run **lighter oil** to match the smaller (OG) shock's feel. For example, where a smaller shock wants ~**55wt**, a bigger-bore shock can run **40–45wt** with similar characteristics.
+**What "bore" means:** the bore is the **inside diameter of the shock body** — effectively the size of the piston face. A bigger bore = a **bigger piston**.
+
+**Why a bigger bore needs lighter oil:** for the *same* suspension movement (same shaft speed and travel), a **bigger piston sweeps more oil volume** on each stroke. That larger volume still has to squeeze through the **same piston holes** (same count and size), so it's forced through **faster and meets more resistance — i.e. more damping**. To bring the damping back down to where a smaller shock sat, you run **thinner (lighter) oil** in the bigger shock.
+
+So it sounds backwards — *bigger shock, lighter oil* — but it's just compensating for the extra oil the bigger piston shoves through the same holes. The E-Revo originally shipped with a **2-hole piston**, and some people deliberately drop to a smaller piston (fewer / smaller holes) to stay on standard oil weights. For example, where a smaller shock wants ~**55wt**, a bigger-bore shock can run **40–45wt** with similar characteristics.
 
 ---
 
 ## Why Heavier Oil
 
 I run at the top of the oil range on purpose: **heavier oil is significantly more temperature-stable**. It holds its damping rate across weather swings and resists **shock fade** — as the oil heats up during a run, a shock becomes less effective, and lighter oils lose their rate faster. The small consistency tax of running thick oil is worth it for damping that feels the same lap 1 and lap 10.
+
+---
+
+## Springs
+
+**The springs that come with the HB D8 are not right for this build.** The D8 is a **1/8 buggy** shock, and its included springs are rated for a buggy's weight. The **E-Revo is a much heavier machine** — a massive truggy with big tires and a high CG. Bolt the D8 buggy springs straight on and the truck **sags into its travel and bottoms out**, with no rate left to hold ride height or control the weight on landings.
+
+**Run stiffer springs sized for the truck's weight.** The target is enough rate to **hold ride height and soak big landings without packing or bottoming**, while staying soft enough to track rough terrain. Exact spring rate is **TBD** — record the front/rear rates here once dialed in.
 
 ---
 
@@ -64,9 +78,14 @@ I run at the top of the oil range on purpose: **heavier oil is significantly mor
 
 ---
 
+## Mounting (3D-printed)
+
+⚠️ **Needs a custom 3D-printed shock mount to attach these shocks to the chassis.** The D8 / Apache C1 shocks don't bolt straight to the E-Revo's stock shock mounting, so a **printed bracket is required** to locate them to the chassis at the right angle/height. Design is **TBD** — drop the STL in [`3d-models/`](3d-models/) and link it here once it's printed and validated.
+
+---
+
 ## Notes
 
 - **D8 = Apache C1.** The metal Hot Bodies D8 (HBS67296) and the plastic HPI Apache C1 are the same shock; the Wltoys A929 is a budget knock-off of the C1. Bodies and most internals interchange — see the [FastAzJato4x4 shock analysis](../FastAzJato4x4/shock_analysis.md) for the full big-bore parts breakdown (spare bodies, maintenance sets, spring charts).
 - **Metal here, plastic there.** This build chooses metal for the shim trick + heavy-truck durability; the lighter Jato build chooses the plastic twin for weight. Same shock family, opposite trade-off.
 - **Rebuild on condition, not schedule** — service a shock only when it leaks or breaks.
-- **Springs:** running the stock D8 spring set (TBD if changed) — note final spring rates here once locked.

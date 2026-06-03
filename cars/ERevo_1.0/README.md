@@ -128,7 +128,7 @@ TBD
 
 | Model | Description | Status |
 |-------|-------------|--------|
-| — | — | — |
+| Shock-to-chassis mount | Custom bracket to mount the D8 / Apache C1 shocks to the chassis — see [`shock_analysis.md`](shock_analysis.md#mounting-3d-printed) | ⏳ Needed (TBD) |
 
 ---
 
@@ -137,3 +137,5 @@ TBD
 - [ ] Fill in all build details
 - [ ] Add parts and costs
 - [ ] Add photos
+- [ ] **Design + print the shock-to-chassis mount** (D8 shocks don't bolt to stock mounting)
+- [ ] Lock in spring rates (stock D8 buggy springs too soft for the truck)
