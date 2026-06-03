@@ -44,7 +44,7 @@ The rod end is meant to be the **cheap, sacrificial wear point** — let it take
 | Rod end | Pros / Cons | Photo |
 |---|---|---|
 | ⭐ **RPM long rod ends** (RPM80512, 12-pc) | Pro: **Bulletproof RPM material — last far longer** than stock and deliberately **take the stress**, so the ends fail before the rods. **Thicker around the ball stud**, and the shank has flats that make them easy to thread on. Cheap at **$9.99 / 12**<br><br>Con: **Must trim ~5 mm to match the original rod-end length**; sold **without pivot balls** — reuse the stock Traxxas hollow balls. Slightly more give than a stiff stock end | <img src="src/suspension_rpm_rod_ends_long_rpm80512.jpg" width="500"><br><em>RPM80512 long turnbuckle rod ends (black, 12)</em> |
-| 🔵 **RPM short rod ends** (RPM80472, 12-pc) | Pro: Same tough RPM material and shank flats; **may be the perfect length with no trimming** needed. Replaces stock **TRA5347**. Cheap at **$8.95 / 12**<br><br>Con: Length unverified — **might be a touch too short**; sold **without pivot balls** (reuse stock Traxxas balls) | <img src="src/suspension_rpm_rod_ends_short_rpm80472.jpg" width="500"><br><em>RPM80472 short rod ends (12)</em> |
+| 🔵 **RPM short rod ends** (RPM80472, 12-pc) | Pro: Same tough RPM material and shank flats; **fit the stock/original pushrods directly** (replace **TRA5347**), no trimming. Cheap at **$8.95 / 12**<br><br>Con: **Too short on their own for the GPM stainless rods** — pair with a long to reach 102 mm (see notes); sold **without pivot balls** (reuse stock Traxxas balls) | <img src="src/suspension_rpm_rod_ends_short_rpm80472.jpg" width="500"><br><em>RPM80472 short rod ends (12)</em> |
 | 🔵 **GPM plastic ball ends** (ER2160S-BE-BK, 16-pc) | Pro: **Stiff and decent** when new — precise feel; cheap at **$13.90 / 16**. These are the ends the GPM rods ship with<br><br>Con: **Break eventually**; once they go you're replacing them more often than RPM ends | <img src="src/suspension_gpm_rod_ends_plastic_er2160s_be-bk.jpg" width="500"><br><em>GPM ER2160S-BE-BK — 16 black plastic ball ends</em> |
 
 ---
@@ -57,7 +57,8 @@ The rod end is meant to be the **cheap, sacrificial wear point** — let it take
 - **Weight trade-off:** the stainless rods are **noticeably heavier** overall than aluminum or stock — I chose **strength over weight** (no bending, no rust beats saving a few grams on this truck).
 - **Swap the ends to RPM.** The GPM set ships with stiff plastic ends; replace them with **RPM rod ends** so the linkage wear lands on a cheap, easy-to-replace part and the rods stay straight.
 - **RPM fitment:** the **long** ends (RPM80512) replace **TRA5525**; the **short** ends (RPM80472) replace **TRA5347**. Both come **without pivot balls**, so reuse the **stock Traxxas hollow balls**.
-- **Two ways to hit the right length:**
-  - **My way (trim):** run **two long ends and chop ~5 mm off each** so the assembled length matches the original rod ends.
-  - **No-cut trick:** run **one RPM short + one RPM long** on each rod and thread them in so the **bases cover all the exposed threads** — that dials the length in without cutting. The short alone may also just be the right length, but it's unverified (could be slightly short).
+- **RPM short fits the stock pushrods directly** — on the original Traxxas pushrods the short ends are the right length as-is.
+- **For the GPM stainless rods, target 102 mm** (the stock pushrod length) — the short ends alone are too short here. Two ways to get there:
+  - **My way (trim):** run **two RPM long ends and chop ~5 mm off each**.
+  - **No-cut:** run **one RPM long + one RPM short** per rod — that combo lands **exactly 102 mm** with no cutting (thread them so the bases cover all the exposed threads).
 - **Order:** GPM stainless tie rods & push rods, 8-pc set, $37.29 — ordered Jun 30 2025 (eBay, seller hebendj), in hand.
