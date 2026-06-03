@@ -52,14 +52,25 @@ The rod end is meant to be the **cheap, sacrificial wear point** — let it take
 
 ## Notes
 
-- **Fits both E-Revo 1.0 and 2.0.** The listing is for the 2.0 VXL (86086-4), but the rods are the same eye-to-eye length, so the set drops onto the 1.0 too.
-- **Why stainless over aluminum (and stock steel):** aluminum looks nice and saves a few grams, but it **snaps** on hard hits; ordinary steel **bends**. The GPM stainless is **extra thick**, so it does **neither — no bending, no snapping at all**. That's the whole reason it's the pick on a heavy truck that lands hard.
-- **Beach-proof:** the regular spot is the dirt track, but this car also sees **beach** running, so corrosion matters as much as strength. **Stainless steel won't rust** in salt/sand, and the **plastic RPM/GPM rod ends can't rust at all** — the whole linkage is corrosion-proof. Plain steel rods would be a bad call here. Still, rinse and dry the car after beach runs to keep salt out of the bearings and metal hardware elsewhere.
-- **Weight trade-off:** the stainless rods are **noticeably heavier** overall than aluminum or stock — I chose **strength over weight** (no bending, no rust beats saving a few grams on this truck).
-- **Swap the ends to RPM.** The GPM set ships with stiff plastic ends; replace them with **RPM rod ends** so the linkage wear lands on a cheap, easy-to-replace part and the rods stay straight.
-- **RPM fitment:** the **long** ends (RPM80512) replace **TRA5525**; the **short** ends (RPM80472) replace **TRA5347**. Both come **without pivot balls**, so reuse the **stock Traxxas hollow balls**.
-- **RPM short fits the stock pushrods directly** — on the original Traxxas pushrods the short ends are the right length as-is.
-- **For the GPM stainless rods, target 102 mm** (the stock pushrod length) — the short ends alone are too short here. Two ways to get there:
-  - **My way (trim):** run **two RPM long ends and chop ~5 mm off each**.
-  - **No-cut:** run **one RPM long + one RPM short** per rod — that combo lands **exactly 102 mm** with no cutting (thread them so the bases cover all the exposed threads).
-- **Order:** GPM stainless tie rods & push rods, 8-pc set, $37.29 — ordered Jun 30 2025 (eBay, seller hebendj), in hand.
+### The rods (GPM stainless kit)
+
+- **Fits both E-Revo 1.0 and 2.0.** The GPM rod kit is *listed* for the 2.0 VXL (86086-4), but the rods are the same eye-to-eye length, so the kit drops straight onto the 1.0 too.
+- **Why the GPM stainless rods beat aluminum and stock steel:** aluminum rods look nice and save a few grams but **snap** on hard hits; ordinary steel rods **bend**. The GPM stainless rods are **extra thick**, so they do **neither — no bending, no snapping**. That's why they're the pick on a heavy truck that lands hard.
+- **Weight trade-off (the rods):** the GPM stainless rods are **noticeably heavier** than the aluminum or stock rods — I chose strength over weight (not bending or rusting beats saving a few grams).
+
+### The rod ends (RPM swap + getting the length right)
+
+- **Swap the GPM rods' ends to RPM.** The GPM kit *ships with* stiff plastic rod ends; replace those with **RPM rod ends** so linkage wear lands on a cheap, quick-swap part and the rods themselves stay straight.
+- **RPM part numbers:** RPM **long** ends = **RPM80512** (replace Traxxas **TRA5525**); RPM **short** ends = **RPM80472** (replace Traxxas **TRA5347**). Both ship **without pivot balls**, so reuse the **stock Traxxas hollow balls**.
+- **RPM short ends on the *stock* pushrods:** on the original Traxxas pushrods, the RPM **short** ends are the right length as-is — no trimming.
+- **RPM ends on the *GPM stainless* rods:** these rods need the rod end to reach **102 mm** (the stock pushrod length), and the RPM short ends alone are too short here. Two ways to hit 102 mm:
+  - **Trim (my way):** two **RPM long** ends, chop **~5 mm** off each.
+  - **No-cut:** **one RPM long + one RPM short** per rod — that combo lands **exactly 102 mm** (thread them in so the bases cover all the exposed threads).
+
+### Track & conditions
+
+- **Dirt track + occasional beach:** the regular spot is the **dirt track**, but the car also runs the **beach** sometimes — that's why corrosion resistance matters here. The **GPM stainless rods won't rust** and the **plastic RPM rod ends can't rust at all**, so the whole linkage is corrosion-proof (plain steel rods would be a bad call). Still, rinse and dry the car after beach runs to protect the bearings and other metal hardware.
+
+### Purchase
+
+- **Order:** GPM stainless tie + push rod kit, 8-pc set, **$37.29** — ordered Jun 30 2025 (eBay, seller hebendj), in hand.
