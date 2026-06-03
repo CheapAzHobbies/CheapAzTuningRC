@@ -3,7 +3,8 @@
 Build logs, part lists, setup notes, 3D models, and battery trackers for all my RC cars.
 
 > eBay Store: [cheapa-zhobbies](https://www.ebay.com/usr/cheapa-zhobbies)  
-> The FastAzJato4x4 is being developed in conjunction with my best friend Mike's cars.
+> The FastAzJato4x4 is being developed in conjunction with my best friend Mike's cars.  
+> **All builds are set up for Meldrum Bar Park** — a dirt race track (the regular spot). The cars also see occasional **beach** running, so corrosion-resistant choices (stainless rods, plastic rod ends) still factor into part selection.
 
 ## Cars
 

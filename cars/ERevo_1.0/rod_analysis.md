@@ -20,7 +20,7 @@
 | Requirement | Type | Why |
 |---|---|---|
 | **Won't bend or snap** | Must | Broken/bent rods are the #1 linkage failure on a heavy E-Revo — **extra-thick stainless holds where aluminum snaps and plain steel bends** |
-| **Corrosion / rust resistant** | Must | Car is **regularly driven at the beach** — salt and sand rust plain steel fast; stainless rods + plastic ends shrug it off |
+| **Corrosion / rust resistant** | Must | The regular spot is the dirt track, but the car also sees **beach** running — salt and sand rust plain steel fast; stainless rods + plastic ends shrug it off |
 | **Adjustable (turnbuckle)** | Must | Set toe / camber-link length without buying fixed rods |
 | **Correct eye-to-eye length** | Must | Must match the E-Revo geometry — the GPM set fits both 1.0 and 2.0 |
 | **Replaceable rod ends** | May | The rod end should be the cheap sacrificial wear point, swappable on its own |
@@ -46,7 +46,7 @@ The rod end is meant to be the **cheap, sacrificial wear point** — let it take
 | ⭐ **RPM long rod ends** (RPM80512, 12-pc) | Pro: **Bulletproof RPM material — last far longer** than stock and deliberately **take the stress**, so the ends fail before the rods. **Thicker around the ball stud**, and the shank has flats that make them easy to thread on. Cheap at **$9.99 / 12**<br><br>Con: **Must trim ~5 mm to match the original rod-end length**; sold **without pivot balls** — reuse the stock Traxxas hollow balls. Slightly more give than a stiff stock end | <img src="src/suspension_rpm_rod_ends_long_rpm80512.jpg" width="500"><br><em>RPM80512 long turnbuckle rod ends (black, 12)</em> |
 | 🔵 **RPM short rod ends** (RPM80472, 12-pc) | Pro: Same tough RPM material and shank flats; **fit the stock/original pushrods directly** (replace **TRA5347**), no trimming. Cheap at **$8.95 / 12**<br><br>Con: **Too short on their own for the GPM stainless rods** — pair with a long to reach 102 mm (see notes); sold **without pivot balls** (reuse stock Traxxas balls) | <img src="src/suspension_rpm_rod_ends_short_rpm80472.jpg" width="500"><br><em>RPM80472 short rod ends (12)</em> |
 | 🔵 **GPM plastic ball ends** (ER2160S-BE-BK, 16-pc) | Pro: **Stiff and decent** when new — precise feel; cheap at **$13.90 / 16**. These are the ends the GPM rods ship with<br><br>Con: **Break eventually**; once they go you're replacing them more often than RPM ends | <img src="src/suspension_gpm_rod_ends_plastic_er2160s_be-bk.jpg" width="500"><br><em>GPM ER2160S-BE-BK — 16 black plastic ball ends</em> |
-| 🔵 **Traxxas stock rod ends** (TRA5348 large, 4-pc) | Pro: OEM fit, **dirt cheap at $2 / 4**, stiff and precise when new<br><br>Con: **Break eventually** — the original weak point the RPM ends are meant to replace | <img src="src/suspension_traxxas_stock_rod_ends_tra5348.jpg" width="500"><br><em>Traxxas TRA5348 large rod ends (4)</em> |
+| ❌ ~~**Traxxas stock rod ends** (TRA5348 large, 4-pc)~~ | Pro: OEM fit, **dirt cheap at $2 / 4**, stiff and precise when new<br><br>Con: **Super weak — tend to pull out of the threads / pop off the rod.** The original weak point the RPM ends fix | <img src="src/suspension_traxxas_stock_rod_ends_tra5348.jpg" width="500"><br><em>Traxxas TRA5348 large rod ends (4)</em> |
 
 ---
 
@@ -54,7 +54,7 @@ The rod end is meant to be the **cheap, sacrificial wear point** — let it take
 
 - **Fits both E-Revo 1.0 and 2.0.** The listing is for the 2.0 VXL (86086-4), but the rods are the same eye-to-eye length, so the set drops onto the 1.0 too.
 - **Why stainless over aluminum (and stock steel):** aluminum looks nice and saves a few grams, but it **snaps** on hard hits; ordinary steel **bends**. The GPM stainless is **extra thick**, so it does **neither — no bending, no snapping at all**. That's the whole reason it's the pick on a heavy truck that lands hard.
-- **Beach-proof:** this car gets driven at the **beach** regularly, so corrosion matters as much as strength. **Stainless steel won't rust** in salt/sand, and the **plastic RPM/GPM rod ends can't rust at all** — the whole linkage is corrosion-proof. Plain steel rods would be a bad call here. Still, rinse and dry the car after beach runs to keep salt out of the bearings and metal hardware elsewhere.
+- **Beach-proof:** the regular spot is the dirt track, but this car also sees **beach** running, so corrosion matters as much as strength. **Stainless steel won't rust** in salt/sand, and the **plastic RPM/GPM rod ends can't rust at all** — the whole linkage is corrosion-proof. Plain steel rods would be a bad call here. Still, rinse and dry the car after beach runs to keep salt out of the bearings and metal hardware elsewhere.
 - **Weight trade-off:** the stainless rods are **noticeably heavier** overall than aluminum or stock — I chose **strength over weight** (no bending, no rust beats saving a few grams on this truck).
 - **Swap the ends to RPM.** The GPM set ships with stiff plastic ends; replace them with **RPM rod ends** so the linkage wear lands on a cheap, easy-to-replace part and the rods stay straight.
 - **RPM fitment:** the **long** ends (RPM80512) replace **TRA5525**; the **short** ends (RPM80472) replace **TRA5347**. Both come **without pivot balls**, so reuse the **stock Traxxas hollow balls**.

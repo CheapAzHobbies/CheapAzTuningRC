@@ -30,7 +30,7 @@
 
 ## Track & Setup Philosophy
 
-TBD
+Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); the car also sees occasional **beach** running. Part choices favor **durability over light weight**, with **corrosion resistance** for the beach days: stainless steel rods, plastic rod ends, alloy rockers that don't crack, and heavy shock oil for consistent damping. Rinse and dry after beach runs to keep salt out of the bearings.
 
 ---
 
