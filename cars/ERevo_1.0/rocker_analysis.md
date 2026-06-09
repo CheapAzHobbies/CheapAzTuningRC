@@ -11,6 +11,7 @@
 - [Key Requirements](#key-requirements)
 - [Rocker Comparison](#rocker-comparison) — aluminum vs plastic, front + rear weights
 - [Bearing vs Bushing](#bearing-vs-bushing) — pivot hardware: why bushings here
+- [Rocker Post (the stud)](#rocker-post-the-stud--steel-vs-aluminum) — steel vs aluminum
 - [Notes](#notes)
 
 ---
@@ -49,6 +50,17 @@
 | ❌ ~~**Traxxas ball bearings 5×11×4 mm** (#4607)~~ | 5×11×4 mm, metal-shielded<br><br>Part: **TRA4607**<br><br>Price: **$24.00** (8) | Pro: Nice when new on a clean track — low friction, smooth<br><br>Con: **Practically seizes almost immediately** once grit gets in, and eventually **damages the rocker pivot point**; the tracks I run are filthy, so it never lasts | <img src="src/suspension_traxxas_ball_bearings_5x11x4_4607.jpg" width="500"> |
 
 As a general rule, **bushings suit parts that only swing through a partial arc** (like a rocker), while **bearings are for parts that fully rotate** — wheels, gears, driveshafts. A rocker pivot is exactly the first case: the goal is **controlled, slop-free movement**, not low friction, since the rocker barely rotates. The oilite bushing gives a precise fit that limits play, and because the bronze is softer than the steel stud it sacrifices itself instead of scoring the (harder-to-replace) stud. A ball bearing reduces friction nobody needs here, and on the **filthy tracks I run it practically seizes almost immediately** once grit works in — then it grinds and **damages the rocker pivot point**. It's only nice when new on a clean track. **Bushings win on these rockers.**
+
+---
+
+## Rocker Post (the stud) — steel vs aluminum
+
+> **Chosen: steel TRA5354.** This is the stud the rocker pivots on — the oilite bushing rides on it. Steel is stronger overall and, critically, it **bends instead of shearing**: the aluminum version sheared clean off multiple times, even on the plastic rockers. A bent steel post backs out of the bulkhead easily; a sheared aluminum stub snaps flush and is a pain to extract. The ~16 g the aluminum saves isn't worth a no-warning failure on a high-load suspension post.
+
+| Post | Spec | Pros / Cons | Photo / Link |
+|---|---|---|---|
+| ⭐ **Steel — TRA5354** | Material: steel<br><br>Qty: **2 per pack**<br><br>Price: **$3.25** | Pro: **Stronger — chosen.** **Bends instead of shearing** (no surprise failure), and a bent post **backs out of the bulkhead easily** to replace. Cheapest. Harder than the bronze bushing, so the bushing stays the sacrificial part<br><br>Con: ~16 g heavier than the aluminum set — negligible | <img src="src/suspension_traxxas_rocker_post_steel_tra5354.jpg" width="500"> |
+| ❌ ~~**Aluminum — TRA5354X**~~ | Material: aluminum<br><br>Qty: **4 per pack**<br><br>Price: **$12.50**<br><br>Saves ~16 g vs steel | Pro: -16 g vs steel; Traxxas claims "without sacrificing strength"<br><br>Con: **Sheared off multiple times in real use — even on the plastic rockers.** Shears clean instead of bending, so it fails with no warning **and the stub snaps off flush in the bulkhead**, making it a pain to extract. A high-load suspension post is an awful spot for aluminum. Marginal weight saving not worth it; ~4× the steel price | <img src="src/suspension_traxxas_rocker_post_alum_tra5354x.jpg" width="500"> |
 
 ---
 
