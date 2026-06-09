@@ -2,7 +2,7 @@
 
 Money tracking: what friends owe me for parts/cars I sell them, and what I order. Kept separate from the per-car build docs so the numbers live in one place.
 
-> **Sign convention (Mike's account):** **negative = Mike owes me more** (he bought/took a part, or I fronted cash); **positive = credit** (he paid me, or I bought something from him). Running notes like *"now at: X"* are **settle-up checkpoints** — the balance was reconciled to that number on that line.
+> **Sign convention (Mike's account) — confirmed:** **negative = Mike owes me more** (he bought/took a part, or I fronted cash); **positive = Mike paying me back** (a payment, or goods like the E-Revo he gave me). Running notes like *"now at: X"* are **settle-up checkpoints** — the balance was reconciled to that number on that line.
 
 ---
 
@@ -12,7 +12,7 @@ Money tracking: what friends owe me for parts/cars I sell them, and what I order
 |--------|---------|-------|--------------|
 | **Mike** | **≈ $46.00** | Last checkpoint "now at: 0" + `-40` (borrowed cash) + `-6` (gold 30mm fan) | 2026-06-08 |
 
-⚠️ Pending confirmation — see flags at the bottom of Mike's account.
+⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags at the bottom of Mike's account.
 
 ---
 
@@ -105,7 +105,7 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 
 ### Flags to resolve
 
-1. **Sign convention** — confirm negative = "Mike owes me." If it's the reverse, the whole balance flips.
+1. ~~**Sign convention**~~ — ✅ confirmed: negative = Mike owes me, positive (+) = Mike paying me back.
 2. **Settle-up checkpoints** — the line items between your `Total:` / `now at:` notes don't sum to those numbers, so I treated each note as a reconciled reset (you squared up to that figure). Confirm that's right, and that **−$46** is the live balance.
 3. **Missing amounts** — #37 "Fan 10x35" and #50 "Micro" have no dollar figure. What were they?
 4. **Possible duplicates** — entries #28/#54 (4250/C4250 800KV) and #46 (C4250 800KV) repeat; confirm they're separate purchases, not the same one logged twice.
