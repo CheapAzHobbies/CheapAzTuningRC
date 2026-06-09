@@ -55,7 +55,7 @@
 There are basically **three generations** of these carriers, each with its own bearing setup:
 
 1. **Pre-EHD (OG)** — parts TRA6832X (C-hub) / TRA6837X (steering block) / TRA1952X (rear). Bearings **TRA5116 5×11×4** + **TRA5119 10×15×4**. The **OG rear runs the same bearing inner and outer** (5×11×4 both); the front mixes sizes.
-2. **XO-1** — **only the front is different** from pre-EHD: the XO-1 front knuckle steps up to **6×12×4 + 12×18×4**. This is the front geometry the **Tekno TKR6837 nylon** and **GPM alloy** knuckles copy. Rear stays pre-EHD.
+2. **XO-1** — the XO-1 front knuckle steps up to **6×12×4 + 12×18×4** (this is the front geometry the **Tekno TKR6837 nylon** and **GPM alloy** knuckles copy). The XO-1 **rear carrier (part 6455)** runs **6×12×4 (TRA5117) inner + outer — same bearing both sides**.
 3. **EHD** — parts TRA9032 / TRA9037 / TRA9050. **Front and rear both** use **6×12×4 (TRA5117) + 12×18×4 (TRA5120A)**. **This is the build's generation** (MonsterKingz / Lighthouse fit here).
 
 **Special case — Tekno M6 rear** (TKR1952T15 / T05): bigger bearings for load handling — **10×15×4 inner + 6×12×4 outer** (the "10 mm inner" that clears the M6 axle barrel; works with chopped E-Revo axles).
@@ -70,6 +70,7 @@ There are basically **three generations** of these carriers, each with its own b
 |---|---|---|
 | **EHD** front + rear (MonsterKingz / Lighthouse / stock EHD) | 6×12×4 (TRA5117) | 12×18×4 (TRA5120A) |
 | **XO-1 front** (Tekno TKR6837 / GPM alloy) | 6×12×4 | 12×18×4 |
+| **XO-1 rear** (part 6455) | 6×12×4 (TRA5117) | 6×12×4 (TRA5117) *(same)* |
 | **Tekno M6 rear** (TKR1952T15 / T05) | 10×15×4 | 6×12×4 |
 | **Pre-EHD (OG) front** (TRA6832X / 6837X) | 5×11×4 | 10×15×4 |
 | **Pre-EHD (OG) rear** (TRA1952X) | 5×11×4 | 5×11×4 *(same)* |
