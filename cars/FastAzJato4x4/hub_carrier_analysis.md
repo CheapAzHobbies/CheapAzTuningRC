@@ -1,6 +1,7 @@
 # Steering Blocks, C-Hubs & Hub Carriers — FastAzJato4x4
 
 > **Chosen: MonsterKingz / G-Maxx 7075 alloy full set — front + rear.**
+> - **Why EHD / why MonsterKingz:** we're most likely running the **E-Revo 1/10 CVD axles**, which need the **EHD hubs** (only the EHD carriers take the 12 mm ID inner bearing the E-Revo axle requires). The **MonsterKingz set just happens to be bushed out — includes brass bushings — and is the cheapest** EHD option, so it's the pick.
 > - **Front (C-hub + steering block):** alloy is the durable answer — even the strongest EHD plastic breaks too often up front.
 > - **Rear carrier:** alloy too (comes with the set), but **shaved down a lot with a Dremel** to cut the over-built "meat" (down toward Tekno-slim), so the rear weight penalty mostly goes away. Everything's fully captured, so removing the excess reinforcement is safe.
 > - **Inner bearing (applies to all EHD variants):** EHD carriers run the **biggest bearings** (6×12×4 inner + 12×18×4 outer) and **work perfectly with the chopped-down E-Revo CVD axles** this build runs — the aftermarket **5451R** set (fits 1/10 E-Revo / E-Maxx / T-Maxx / Revo). Converting any of them to **Tekno M6 axles is the hard part** — the inner would need a **10 mm ID bearing** (outer unchanged). The 10×15×4 is hard to find; a **10×15×5 (5 mm thick)** variant may sub in, pending testing.
@@ -78,7 +79,7 @@ There are basically **three generations** of these carriers, each with its own b
 | Option | Notes |
 |---|---|
 | **Stock shoulder screw — TRA3642X (4)** | Holds the steering blocks onto the C-hubs. Works, but wears loose over time |
-| ⭐ **Brass bushing + standard M3 screw** | **The better way — the MonsterKingz and GPM kits already include brass bushings.** Makes the pivot last basically forever and stay tighter. When it wears loose you **don't replace the knuckle — just drop in a fresh bushing** (~$3 for 100 = set for life). *Bushing size TBD — measure it.* |
+| ⭐ **Brass bushing + standard M3 screw** | **The better way — the MonsterKingz and GPM kits already include brass bushings.** Makes the pivot last basically forever and stay tighter. When it wears loose you **don't replace the knuckle — just drop in a fresh bushing** (~$3 for 100 = set for life). *Bushing size TBD — measure it.*<br><br><img src="src/suspension_brass_bushings_example.jpg" width="300"><br><em>flanged brass (sintered/oilite) bushings — example sizes</em> |
 
 > ⚠️ Match bearings to the exact carrier — the inner and outer differ on most of these, the three generations aren't interchangeable, and the Tekno M6 rear needs its own 10×15×4 inner.
 
