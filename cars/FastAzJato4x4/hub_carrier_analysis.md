@@ -25,11 +25,12 @@
 
 | Requirement | Type | Why |
 |---|---|---|
-| **Fits Jato 4x4 EHD geometry** | Must | Direct fit: Jato 4x4 BL-2s / Slash 4x4 BL-2s / Rustler 4x4 BL-2s / Stampede 4x4 BL-2s (the 9000-series EHD family) |
-| **Takes the EHD bearings** | Must | Hubs ride on **TRA5117 (6×12×4)** + **TRA5120A (12×18×4)** — both the plastic and alloy parts use the same bearings |
-| **Front survives hard front impacts** | Must | Front uprights take the hits; the strongest OEM plastic (EHD) still breaks too often, so the front needs alloy |
-| **Rear: just locate the hub** | May | Rear carrier sees almost no load — plastic is plenty, alloy is wasted weight there |
-| **Cheap / available** | May | Wear/crash item up front; rear is a cheap stock part |
+| **Metal front (C-hub + steering block)** | Must | The front takes the hits — even the strongest OEM plastic breaks too often, so the front **must be alloy** |
+| **Standard, available bearings** | Must | Must run **off-the-shelf standard bearings** — the **10×15×5**, or whatever the stock EHD bearing is (6×12×4 / 12×18×4). **No unobtainium sizes** (e.g. the 12×15×4 that only Boca makes at ~$60/ea) |
+| **Rear: metal or plastic** | May | Rear sees almost no load — either material works back there |
+| **Doesn't have to be EHD** | May | Any generation is fine **as long as the front is metal** — EHD isn't required |
+| **Fits the (E-)Revo axles without modification** | May | Nice if it drops onto the chopped E-Revo CVD axles with no bearing surgery |
+| **Cheap / affordable** | May | Wear/crash item — cheaper is better, all else equal |
 
 ---
 
