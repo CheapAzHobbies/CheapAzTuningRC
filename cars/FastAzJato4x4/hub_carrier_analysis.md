@@ -79,7 +79,7 @@ There are basically **three generations** of these carriers, each with its own b
 
 | Option | Notes |
 |---|---|
-| **Stock shoulder screw — TRA3642X (4)** | Holds the steering blocks onto the C-hubs. Works, but wears loose over time |
+| **Stock shoulder screw — TRA3642X** (3×12 mm, 6-pack, $3.00) | Holds the steering blocks onto the C-hubs. Works, but wears loose over time<br><br><img src="src/suspension_traxxas_shoulder_screw_3642x.jpg" width="250"> |
 | ⭐ **Brass bushing + standard M3 screw** | **The better way — the MonsterKingz and GPM kits already include brass bushings.** Makes the pivot last basically forever and stay tighter. When it wears loose you **don't replace the knuckle — just drop in a fresh bushing** (~$3 for 100 = set for life). *Bushing size TBD — measure it.*<br><br><img src="src/suspension_brass_bushings_example.jpg" width="300"><br><em>flanged brass (sintered/oilite) bushings — example sizes</em> |
 
 > ⚠️ Match bearings to the exact carrier — the inner and outer differ on most of these, the three generations aren't interchangeable, and the Tekno M6 rear needs its own 10×15×4 inner.
