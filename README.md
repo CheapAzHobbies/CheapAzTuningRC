@@ -16,6 +16,7 @@ Build logs, part lists, setup notes, 3D models, and battery trackers for all my 
 | FastAzJato4x4 | [FastAzJato4x4](cars/FastAzJato4x4/README.md) | Custom E-Buggy on Jato 4x4 — CF chassis, FLM arms, E-Revo CVDs, stock Jato hubs, Monster X 4S |
 | Traxxas Jato 4x4 (Mike's) | [Jato4x4_Mike](cars/Jato4x4_Mike/README.md) | Mike's car — related to FastAzJato4x4, separate build |
 | Mugen Seiki MBX8 truggy (Eco) | [MugenMBX8T_Eco](cars/MugenMBX8T_Eco/README.md) | 1/8 electric MBX8 converted to truggy — evaluating used lot ([value analysis](cars/MugenMBX8T_Eco/lot_analysis.md)) |
+| Mugen MBX Electric Truggy | [Mugen_MBX_Truggy](cars/Mugen_MBX_Truggy/README.md) | **Evaluating used purchase** — MBX7TR-E? + Hobbywing XR8/2300KV + big spares haul |
 
 ## Shared
 
