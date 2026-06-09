@@ -1,14 +1,16 @@
 # Steering Blocks, C-Hubs & Hub Carriers — FastAzJato4x4
 
-> **Chosen: MonsterKingz / G-Maxx 7075 alloy full set — front + rear.**
-> - **Why EHD / why MonsterKingz:** we're most likely running the **E-Revo 1/10 CVD axles**, which need the **EHD hubs** (only the EHD carriers take the 12 mm ID inner bearing the E-Revo axle requires). The **MonsterKingz set just happens to be bushed out — includes brass bushings — and is the cheapest *overall***: a full front + rear alloy set with bearings *and* brass bushings in one $46.80 buy, cheaper than piecing it together. So it's the pick.
-> - **Front (C-hub + steering block):** alloy is the durable answer — even the strongest EHD plastic breaks too often up front.
-> - **Rear carrier:** alloy too — it comes with the full kit, so there's **no extra spend on a separate rear**, and a **metal rear means never worrying about it** (I've broken Tekno plastic rear hubs before). It's **shaved down a lot with a Dremel** to cut the over-built "meat" (toward Tekno-slim), so the weight penalty mostly goes away. Everything's fully captured, so removing the excess reinforcement is safe.
-> - **Inner bearing (applies to all EHD variants):** EHD carriers run the **biggest bearings** (6×12×4 inner + 12×18×4 outer) and **work perfectly with the chopped-down E-Revo CVD axles** this build runs — the aftermarket **5451R** set (fits 1/10 E-Revo / E-Maxx / T-Maxx / Revo). Converting any of them to **Tekno M6 axles is the hard part** — the inner would need a **10 mm ID bearing** (outer unchanged). The 10×15×4 is hard to find; a **10×15×5 (5 mm thick)** variant may sub in — **bought, but not yet tested**.
+> **Chosen: MonsterKingz / G-Maxx 7075 alloy full set (front + rear), $46.80.**
 >
-> **Build is EHD geometry** (confirmed — Lighthouse/MonsterKingz parts fit the Jato 4x4 BL-2S on the EHD 6×12×4 / 12×18×4 bearings). The pre-EHD OEM blue alloy is a different generation — see notes.
+> We run E-Revo 1/10 CVD axles, which only fit **EHD hubs** (they take the 12mm ID inner bearing the axle needs). MonsterKingz is the **cheapest overall** EHD set and ships **bushed out** (brass bushings included), so it's the pick.
+>
+> - **Front:** must be alloy. Even the strongest EHD plastic breaks too often.
+> - **Rear:** alloy too, comes with the kit (no extra spend). Metal means never worrying about it (I've broken Tekno plastic rears before). Dremel-shave it to drop the over-built weight toward Tekno-slim; everything's captured, so it's safe.
+> - **Bearings:** EHD runs the biggest (6×12×4 inner, 12×18×4 outer) and fits the chopped E-Revo CVD (5451R) axles. Converting to Tekno M6 needs a 10mm ID inner (10×15×5 bought, not yet tested).
+>
+> Build runs **EHD geometry** (confirmed). The pre-EHD OEM blue alloy is a different generation, see [Notes](#notes).
 
-<p align="center"><img src="src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg" width="600"><br><em>Chosen: MonsterKingz / G-Maxx 7075 alloy full set — front + rear. The rear gets Dremel-shaved for weight reduction (down toward Tekno-slim).</em></p>
+<p align="center"><img src="src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg" width="600"><br><em>Chosen: MonsterKingz / G-Maxx 7075 alloy full set (front + rear). The rear gets Dremel-shaved for weight reduction.</em></p>
 
 ---
 
@@ -56,7 +58,7 @@ Three generations, each with its own bearing setup. *(Size → part #: 5×11×4 
 
 | Generation | Carrier parts | Front (in / out) | Rear (in / out) | Notes |
 |---|---|---|---|---|
-| ⭐ **EHD** | TRA9032 / TRA9037 / TRA9050 | 6×12×4 / 12×18×4 | 6×12×4 / 12×18×4 | **the build's gen** — MonsterKingz / Lighthouse |
+| ⭐ **EHD** | TRA9032 / TRA9037 / TRA9050 | 6×12×4 / 12×18×4 | 6×12×4 / 12×18×4 | **the build's gen** (MonsterKingz / Lighthouse). Use with E-Revo CVD axles |
 | **XO-1** | front **6439** · rear **6455** | 10×15×4 / 6×12×4 | 6×12×4 / 6×12×4 | front geometry the Tekno TKR6837 / GPM alloy copy |
 | **Pre-EHD (OG)** | TRA6832X / TRA6837X / TRA1952X | 5×11×4 / 10×15×4 | 5×11×4 / 5×11×4 | wrong gen for this build |
 | **Tekno M6 rear** *(special)* | TKR1952T15 / T05 | — | 10×15×4 / 6×12×4 | bigger bearings; **Tekno M6 axles only** |
@@ -86,12 +88,12 @@ The inner bearing's ID has to match the axle — which is why the two axle syste
 
 ## Notes
 
-- **Why split front alloy / rear plastic:** the front uprights eat the impacts and even the strongest OEM plastic (EHD) cracks too often, so alloy earns its weight up front. The rear carrier barely sees load, so plastic stays — lighter, cheaper, and no downside back there.
-- **Still inside the crash hierarchy.** The [FLM extended arms](arm_analysis.md) remain the intended fuse — they bend first. Alloy front uprights don't change that; they just stop the front C-hub/steering block from being the weak link that breaks before the arm does.
-- **The plastic ideal vs the alloy reality.** The **Tekno TKR6837** nylon steering block ($8.79, M6) is *ideally* what you'd run — very strong for plastic, cheap, and sacrificial in this build's philosophy. But the front is a high-stress area and even strong plastic breaks a few, so the durable answer is the Lighthouse alloy. Worth keeping a couple Tekno blocks as cheap spares either way.
-- **The front pick depends on the axle system.** Running the **chopped E-Revo CVD axles** (EHD geometry, 6×12×4 / 12×18×4) → the **MonsterKingz EHD alloy** front is the pick. Running the **Tekno M6 axles** (XO-1 geometry, 10×15×4 / 6×12×4) → the **GPM aluminum XO-1 hubs** are the ideal front. Each path has its own bearings — don't mix.
-- **Buying:** the MonsterKingz / G-Maxx 7075 set ($46.80, EHD) is the full four-piece set; the **Lighthouse front-only** alloy (~$25, already owned) buys just the front pieces that actually need it. The **Traxxas OEM blue aluminum** set (TRA6837X / TRA6832X / TRA1952X) is a genuine full set but **pre-EHD geometry**. Whichever front alloy you run, keep a **plastic rear carrier**.
-- **Build is EHD — confirmed.** The Lighthouse front and rear are listed "for Traxxas Jato 1/8 4x4 BL-2S" and ship with the EHD 6×12×4 / 12×18×4 bearings, so the FastAzJato runs **EHD geometry**. That means the **EHD alloy (Lighthouse / MonsterKingz)** is the correct fit. The **Traxxas OEM blue alloy is pre-EHD** (5×11×4 / 10×15×4 bearings) and is a different generation — keep it for a pre-EHD car, don't mix it onto this build.
-- **All EHD rears can be shaved — alloy *or* plastic.** Every EHD rear carrier is **over-built, with way more "meat"/reinforcement than needed** (everything's fully captured — bearings + axle supported on both sides). A few minutes with a **Dremel** drops weight on any of them: it takes the alloy rear down toward Tekno-slim, and the **stock plastic rear can be lightened the same way**.
-- **Stock EHD reference (Jenny's RC, gray, assembled):** TRA9037 steering block · TRA9032 caster block (C-hub) · TRA9050 rear carrier · TRA3642X shoulder screws · TRA5117 + TRA5120A bearings. Direct fit Jato 4x4 / Slash 4x4 / Rustler 4x4 / Stampede 4x4 BL-2s.
-- **TODO:** confirm the exact front EHD part that breaks (the one to replace with alloy first) — user to verify.
+- **Why metal front, any rear:** the front eats the impacts and even the strongest EHD plastic cracks too often, so it must be alloy. The rear barely sees load, so material doesn't matter back there.
+- **Crash hierarchy still holds.** The [FLM extended arms](arm_analysis.md) are the intended fuse; they bend first. Alloy fronts just stop the C-hub / steering block from breaking before the arm does.
+- **Plastic ideal vs alloy reality.** The Tekno TKR6837 nylon block ($8.79) is *ideally* what you'd run (strong for plastic, cheap, sacrificial), but the front still breaks a few, so alloy is the durable answer. Keep a couple Tekno blocks as cheap spares.
+- **Front pick follows the axle system.** E-Revo CVD axles (EHD) take the **MonsterKingz EHD alloy** front. Tekno M6 axles (XO-1) take the **GPM aluminum XO-1** front. Each path has its own bearings, don't mix (see [Axle ↔ hub compatibility](#axle--hub-compatibility)).
+- **Buying:** full front + rear, get the **MonsterKingz set** ($46.80). Fronts only, get the **Lighthouse front** (~$25, owned). The Traxxas OEM blue set is genuine but pre-EHD, wrong generation here.
+- **All EHD rears can be shaved (alloy or plastic).** They're over-built with everything captured (bearings + axle supported both sides), so a few minutes with a Dremel drops real weight on any of them.
+- **Stock EHD reference (Jenny's RC, gray):** TRA9037 steering block, TRA9032 C-hub, TRA9050 rear carrier, TRA3642X screws, TRA5117 + TRA5120A bearings. Direct fit Jato / Slash / Rustler / Stampede 4x4 BL-2s.
+- **TODO:** confirm which front EHD part breaks first (the one to swap to alloy first).
+- **TODO:** test the **10×15×5** inner bearing for the Tekno M6 conversion (bought, not yet tried).
