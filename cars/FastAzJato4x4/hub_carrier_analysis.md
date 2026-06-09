@@ -50,37 +50,35 @@
 
 ## Bearings & Hardware
 
-### Three generations of carriers
+### Carrier generations & their bearings
 
-There are basically **three generations** of these carriers, each with its own bearing setup:
+Three generations, each with its own bearing setup. *(Size → part #: 5×11×4 = TRA5116 · 6×12×4 = TRA5117 · 10×15×4 = TRA5119 · 12×18×4 = TRA5120A.)*
 
-1. **Pre-EHD (OG)** — parts TRA6832X (C-hub) / TRA6837X (steering block) / TRA1952X (rear). Bearings **TRA5116 5×11×4** + **TRA5119 10×15×4**. The **OG rear runs the same bearing inner and outer** (5×11×4 both); the front mixes sizes.
-2. **XO-1** — front carrier **part 6439**, bearings **10×15×4 (TRA5119) inner + 6×12×4 (TRA5117) outer** (this is the front geometry the **Tekno TKR6837 nylon** and **GPM alloy** knuckles copy). The XO-1 **rear carrier (part 6455)** runs **6×12×4 (TRA5117) inner + outer — same bearing both sides**.
-3. **EHD** — parts TRA9032 / TRA9037 / TRA9050. **Front and rear both** use **6×12×4 (TRA5117) + 12×18×4 (TRA5120A)**. **This is the build's generation** (MonsterKingz / Lighthouse fit here).
-
-**Special case — Tekno M6 rear** (TKR1952T15 / T05): bigger bearings for load handling — **10×15×4 inner + 6×12×4 outer** (the "10 mm inner" that clears the M6 axle barrel). This is **for the Tekno M6 axles — it does *not* fit the chopped E-Revo axles**, which require a **12 mm ID inner bearing**. That 12 mm ID requirement is exactly why the **E-Revo axle works with the EHD hubs** (they carry the 12×18×4 = 12 mm ID inner) **but not the XO-1-style hubs** (Tekno M6 / GPM XO-1, which use a 10 mm ID inner). To force an E-Revo axle into an XO-1-style hub you'd need a **12×15×4** bearing (12 mm ID for the axle, 15 mm OD for the XO-1 pocket) — a **non-standard size**, so it's **basically unobtainium**: only **Boca Bearing** makes it, at **~$60 for a single bearing**. So the two systems don't realistically cross over.
+| Generation | Carrier parts | Front (in / out) | Rear (in / out) | Notes |
+|---|---|---|---|---|
+| ⭐ **EHD** | TRA9032 / TRA9037 / TRA9050 | 6×12×4 / 12×18×4 | 6×12×4 / 12×18×4 | **the build's gen** — MonsterKingz / Lighthouse |
+| **XO-1** | front **6439** · rear **6455** | 10×15×4 / 6×12×4 | 6×12×4 / 6×12×4 | front geometry the Tekno TKR6837 / GPM alloy copy |
+| **Pre-EHD (OG)** | TRA6832X / TRA6837X / TRA1952X | 5×11×4 / 10×15×4 | 5×11×4 / 5×11×4 | wrong gen for this build |
+| **Tekno M6 rear** *(special)* | TKR1952T15 / T05 | — | 10×15×4 / 6×12×4 | bigger bearings; **Tekno M6 axles only** |
 
 ### The four bearing sizes
 
 <p align="center"><img src="src/suspension_bearing_tra5116_5x11x4.jpg" height="150"> <img src="src/suspension_bearing_tra5117_6x12x4.jpg" height="150"> <img src="src/suspension_bearing_tra5119_10x15x4.jpg" height="150"> <img src="src/suspension_bearing_tra5120_12x18x4.jpg" height="150"><br><em>TRA5116 5×11×4 · TRA5117 6×12×4 · TRA5119 10×15×4 · TRA5120A 12×18×4</em></p>
 
-### Per-carrier inner / outer
+### Axle ↔ hub compatibility
 
-| Carrier (gen) | Inner | Outer |
-|---|---|---|
-| **EHD** front + rear (MonsterKingz / Lighthouse / stock EHD) | 6×12×4 (TRA5117) | 12×18×4 (TRA5120A) |
-| **XO-1 front** (part 6439; Tekno TKR6837 / GPM alloy) | 10×15×4 (TRA5119) | 6×12×4 (TRA5117) |
-| **XO-1 rear** (part 6455 — blue alloy, $29.95) | 6×12×4 (TRA5117) | 6×12×4 (TRA5117) *(same)* |
-| **Tekno M6 rear** (TKR1952T15 / T05) | 10×15×4 | 6×12×4 |
-| **Pre-EHD (OG) front** (TRA6832X / 6837X) | 5×11×4 | 10×15×4 |
-| **Pre-EHD (OG) rear** (TRA1952X) | 5×11×4 | 5×11×4 *(same)* |
+The inner bearing's ID has to match the axle — which is why the two axle systems **don't cross over**:
+
+- **E-Revo CVD axle** → needs a **12 mm ID inner** → works with **EHD hubs** (the 12×18×4 = 12 mm ID), **not** the XO-1-style hubs (10 mm ID inner).
+- **Tekno M6 axle** → needs a **10 mm ID inner** → works with **XO-1-style hubs** (Tekno M6 / GPM XO-1), **not** the EHD hubs.
+- **Bridging them** would need a **12×15×4** bearing (12 mm ID axle, 15 mm OD XO-1 pocket) — a **non-standard size, basically unobtainium** (only Boca Bearing, ~$60 each). So **pick a lane**.
 
 ### Pivot hardware — screw vs brass bushing
 
 | Option | Notes |
 |---|---|
 | **Stock shoulder screw — TRA3642X** (3×12 mm, 6-pack, $3.00) | Holds the steering blocks onto the C-hubs. Works, but over time it **wears into the actual C-hub — permanent damage to the part itself** (vs the brass bushing, which sacrifices itself and protects the C-hub)<br><br><img src="src/suspension_traxxas_shoulder_screw_3642x.jpg" width="250"> |
-| ⭐ **Brass bushing + standard M3 screw** | **The better way — the MonsterKingz and GPM kits already include brass bushings.** Makes the pivot last basically forever and stay tighter. **The brass is softer than the aluminum, so it deforms first — the cheap bushing sacrifices itself and protects the alloy C-hub.** When it wears loose you **don't replace the knuckle — just drop in a fresh bushing** (~$3 for 100 = set for life). *Bushing size TBD — measure it.*<br><br><img src="src/suspension_brass_bushings_example.jpg" width="300"><br><em>flanged brass (sintered/oilite) bushings — example sizes</em> |
+| ⭐ **Brass bushing + standard M3 screw** | **The better way — the MonsterKingz and GPM kits already include brass bushings.** Makes the pivot last basically forever and stay tighter. **The brass is softer than the aluminum, so it deforms first — the cheap bushing sacrifices itself and protects the alloy C-hub.** It also runs **smooth and self-lubricated** (sintered bronze stores oil in its pores), keeping the pivot slop-free and effectively burnishing it smooth. *(Verified general principle: a bronze/oilite bushing is a softer, self-lubricating **sacrificial** bearing surface that wears before — and protects — the harder mating part.)* When it wears loose you **don't replace the knuckle — just drop in a fresh bushing** (~$3 for 100 = set for life). *Bushing size TBD — measure it.*<br><br><img src="src/suspension_brass_bushings_example.jpg" width="300"><br><em>flanged brass (sintered/oilite) bushings — example sizes</em> |
 
 > ⚠️ Match bearings to the exact carrier — the inner and outer differ on most of these, the three generations aren't interchangeable, and the Tekno M6 rear needs its own 10×15×4 inner.
 
