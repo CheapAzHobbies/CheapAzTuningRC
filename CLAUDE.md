@@ -99,8 +99,14 @@ When the user asks for a part-selection comparison, save it as
 
 **Stay on topic.** A `<part>_analysis.md` covers that one part only. If
 relevant tangents come up during research (e.g. chassis weights came
-up while analyzing shock towers), drop them — don't append a "related
+up while analyzing shock towers), drop them, don't append a "related
 research" section. Keep the doc tight on its subject.
+
+**Writing style.** Keep prose tight and scannable. **No em dashes** in
+body text or notes; use commas, periods, parentheses, or shorter
+sentences instead. **Avoid walls of text**; prefer tables and short
+bullets over long paragraphs. If a note runs past ~2 lines, break it
+up or move the detail into a table.
 
 **Simulations.** When a physics simulation helps answer a build
 question, save the script under `cars/<CarName>/sim/` with a
