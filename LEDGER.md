@@ -2,33 +2,119 @@
 
 Money tracking: what friends owe me for parts/cars I sell them, and what I order. Kept separate from the per-car build docs so the numbers live in one place.
 
-> **How to use:** log every sale in **Sales** and every purchase in **Orders**. The **Outstanding Balances** table at the top is the running total of who still owes me — update it whenever a sale is added or a payment comes in.
+> **Sign convention (Mike's account):** **negative = Mike owes me more** (he bought/took a part, or I fronted cash); **positive = credit** (he paid me, or I bought something from him). Running notes like *"now at: X"* are **settle-up checkpoints** — the balance was reconciled to that number on that line.
 
 ---
 
 ## Outstanding Balances
 
-Running total of what each person still owes me. Update when a sale or payment is logged.
+| Person | Owes Me | Basis | Last Updated |
+|--------|---------|-------|--------------|
+| **Mike** | **≈ $46.00** | Last checkpoint "now at: 0" + `-40` (borrowed cash) + `-6` (gold 30mm fan) | 2026-06-08 |
 
-| Person | Owes Me | Last Updated |
-|--------|---------|--------------|
-| Mike | $0.00 | — |
+⚠️ Pending confirmation — see flags at the bottom of Mike's account.
 
 ---
 
-## Sales — what friends buy from me
+## Mike — running account
 
-Parts and cars I sell. **Balance** = the unpaid amount still owed on that line (Price − amount paid).
+Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint rows (in **bold**) are your own settle-up notes.
 
-| Date | Buyer | Item | Price | Paid | Balance | Notes |
-|------|-------|------|-------|------|---------|-------|
-| | Mike | | | | | |
+| # | Amount | Item / Note |
+|---|--------|-------------|
+| 1 | -$11.64 | General purchase (unspecified) |
+| 2 | -$144.00 | Boat (uses E-Revo parts) |
+| 3 | +$100.00 | Payment / credit |
+| 4 | -$10.00 | Plane motor |
+| 5 | -$117.00 | Zorro |
+| 6 | -$5.00 | Golden 4010 fan |
+| 7 | -$10.00 | Slash axle |
+| 8 | -$10.00 | Slash axle |
+| 9 | -$10.00 | Slash axle |
+| 10 | +$25.00 | Payment / credit |
+| 11 | -$7.00 | Green filament |
+| 12 | -$7.00 | Orange filament |
+| 13 | -$7.00 | Red filament |
+| 14 | +$80.00 | You bought E-Revo from Mike (credit) |
+| 15 | -$6.00 | 20 props |
+| 16 | -$5.00 | 1806 2400KV motor |
+| 17 | +$100.00 | Payment (paid) |
+| 18 | -$5.00 | GTR XXL shock shaft (Henry) |
+| 19 | -$150.00 | Boat 2 |
+| 20 | +$200.00 | Payment (paid) |
+| 21 | -$5.83 | Prop |
+| 22 | -$5.06 | 1806 2400KV |
+| 23 | -$10.00 | PDI1109 MG servo (x2) |
+| 24 | -$9.00 | R86A |
+| 25 | -$13.17 | Wheel / tire |
+| 26 | -$37.53 | 3x Injora servo |
+| 27 | -$51.67 | Hobbywing Skywalker ESC |
+| 28 | -$24.11 | 4250 800KV motor |
+| 29 | -$3.41 | 2205 2300KV |
+| 30 | -$24.11 | NeebRC |
+| 31 | -$49.00 | Filament |
+| 32 | +$350.00 | Payment / credit |
+| 33 | -$42.17 | R86 + C5055-335KV |
+| 34 | -$13.46 | Gendab 63mm blue spinner |
+| 35 | +$10.00 | Payment / credit |
+| 36 | -$3.40 | General purchase (unspecified) |
+| 37 | -$??? | Fan 10x35 — ⚠️ **amount missing** |
+| 38 | -$57.00 | 2x Zeee battery |
+| 39 | -$2.38 | Light green battery strap |
+| 40 | -$4.29 | Red battery strap 250mm |
+| 41 | -$12.00 | 2x PTK7465 |
+| 42 | -$8.00 | 2x 2205 2300KV motor |
+| 43 | -$8.00 | Anker M5 nozzle |
+| 44 | -$3.00 | Elegoo Max nozzles |
+| 45 | -$10.00 | Elegoo Max extruder gear |
+| | **Total: -$5.23** | **(your checkpoint — doesn't match line items above; see flags)** |
+| 46 | -$22.53 | Surpass Hobby C4250 800KV |
+| 47 | -$3.23 | 2212 2450KV |
+| 48 | -$11.98 | Skywalker ESC |
+| 49 | -$14.00 | Storage house |
+| | **Total: -$42.97** | **(your checkpoint)** |
+| 50 | -$??? | Micro — ⚠️ **amount missing** |
+| 51 | +$200.00 | Payment / credit |
+| | **Current balance: $157** | **(your checkpoint / settle-up)** |
+| 52 | -$12.00 | 2x servos |
+| 53 | -$7.53 | Gemfan 6x4 props (3 pairs) |
+| 54 | -$31.19 | Surpass Hobby C4250 800KV |
+| 55 | -$9.97 | Hobbywing Skywalker 40A |
+| 56 | -$7.55 | Shock tool |
+| 57 | -$22.09 | 2x 1400KV motor |
+| 58 | -$17.79 | 3x PTK micro servo |
+| 59 | -$6.39 | Race tire foams |
+| 60 | -$4.15 | 2x 20 props |
+| 61 | -$155.70 | Hobbytown Washington |
+| | **Now at: -$123.36** | **(your checkpoint / settle-up)** |
+| 62 | +$15.00 | RC crap from Tammies (credit) |
+| 63 | +$50.00 | Payment / credit |
+| 64 | +$7.00 | Jato bumpers (credit) |
+| 65 | +$51.36 | Payment / credit |
+| 66 | +$40.00 | Borrow for Tony |
+| 67 | -$40.00 | From Tony (repaid) |
+| 68 | -$7.00 | Fan |
+| 69 | +$7.00 | Jato 4x4 front tower (credit) |
+| 70 | -$27.00 | PTK big servo |
+| 71 | -$25.00 | Lighthouse Jato C-hub + steering block |
+| 72 | -$20.00 | GPM bell crank |
+| | **Now at: $0** | **(your checkpoint / settle-up)** |
+| 73 | -$40.00 | Borrowing cash |
+| 74 | -$6.00 | Gold 30mm fan |
+| | **➡️ Current: -$46.00 → Mike owes ≈ $46** | from "Now at: 0" + #73 + #74 |
+
+### Flags to resolve
+
+1. **Sign convention** — confirm negative = "Mike owes me." If it's the reverse, the whole balance flips.
+2. **Settle-up checkpoints** — the line items between your `Total:` / `now at:` notes don't sum to those numbers, so I treated each note as a reconciled reset (you squared up to that figure). Confirm that's right, and that **−$46** is the live balance.
+3. **Missing amounts** — #37 "Fan 10x35" and #50 "Micro" have no dollar figure. What were they?
+4. **Possible duplicates** — entries #28/#54 (4250/C4250 800KV) and #46 (C4250 800KV) repeat; confirm they're separate purchases, not the same one logged twice.
 
 ---
 
 ## Payments received
 
-Log payments here as they come in, then knock the balance down above.
+Log payments here as they come in, then update Mike's account + Outstanding Balances.
 
 | Date | From | Amount | Method | Against (item / "balance") |
 |------|------|--------|--------|----------------------------|
@@ -38,12 +124,8 @@ Log payments here as they come in, then knock the balance down above.
 
 ## Orders — what I buy
 
-My own purchases (parts, cars, supplies). Helps track spend and what's inbound.
+My own purchases (parts, cars, supplies).
 
 | Date | Item | Source | Cost | For (car) | Status | Notes |
 |------|------|--------|------|-----------|--------|-------|
 | 2026-06-01 | Axle driveshafts | | $21.10 | FastAzJato4x4 | Purchased | E-Revo CVDs |
-
----
-
-> Tip: keep amounts as plain dollars (e.g. `$21.10`). When Mike pays, add a row in **Payments received** and update both his line in **Sales** (Paid / Balance) and his **Outstanding Balance** total.
