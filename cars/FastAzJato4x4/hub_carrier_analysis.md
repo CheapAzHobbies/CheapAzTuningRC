@@ -3,11 +3,11 @@
 > **Chosen: MonsterKingz / G-Maxx 7075 alloy full set — front + rear.**
 > - **Front (C-hub + steering block):** alloy is the durable answer — even the strongest EHD plastic breaks too often up front.
 > - **Rear carrier:** alloy too (comes with the set), but **shaved down a lot with a Dremel** to cut the over-built "meat" (down toward Tekno-slim), so the rear weight penalty mostly goes away. Everything's fully captured, so removing the excess reinforcement is safe.
-> - **Inner bearing:** the standard EHD inner bearing **works perfectly with the chopped-down E-Revo axles** this build runs. Tekno M6 axles would instead need a **10 mm inner bearing** — not used here. **This applies to all EHD variants.**
+> - **Inner bearing (applies to all EHD variants):** EHD carriers run the **biggest bearings** (6×12×4 inner + 12×18×4 outer) and **work perfectly with the chopped-down E-Revo CVD axles** this build runs — the aftermarket **5451R** set (fits 1/10 E-Revo / E-Maxx / T-Maxx / Revo). Converting any of them to **Tekno M6 axles is the hard part** — the inner would need a **10 mm ID bearing** (outer unchanged).
 >
 > **Build is EHD geometry** (confirmed — Lighthouse/MonsterKingz parts fit the Jato 4x4 BL-2S on the EHD 6×12×4 / 12×18×4 bearings). The pre-EHD OEM blue alloy is a different generation — see notes.
 
-<p align="center"><img src="src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg" width="380">&nbsp;<img src="src/suspension_traxxas_ehd_carriers_oem_plastic.jpg" width="380"><br><em>MonsterKingz / G-Maxx 7075 alloy set (front goes here) · stock EHD plastic (rear stays here)</em></p>
+<p align="center"><img src="src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg" width="600"><br><em>Chosen: MonsterKingz / G-Maxx 7075 alloy full set — front + rear. The rear gets Dremel-shaved for weight reduction (down toward Tekno-slim).</em></p>
 
 ---
 
