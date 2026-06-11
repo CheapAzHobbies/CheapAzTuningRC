@@ -17,6 +17,7 @@
 - [Compatibility buckets](#compatibility-buckets)
 - [Full spares inventory](#full-spares-inventory)
 - [Value summary](#value-summary)
+- [Buy / negotiate / walk](#buy--negotiate--walk)
 - [Open items / need pics](#open-items--need-pics)
 
 ---
@@ -31,6 +32,7 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 | **ESC** | Hobbywing **XR8** (fan + cap module, red power button, EC5 battery lead) | ~$130–170 new / **$90–130 used** — *confirm variant: XR8 / Plus / SCT* |
 | **Motor** | **"Lightning"** brushless can, ~2300KV (per you) | Budget motor — **$30–50 used** |
 | **Steering servo** | **Savöx digital**, label reads ~**"SB-2273SG"** | Legit servo — ~$70–90 new / **$40–60 used** *(confirm exact prefix)* |
+| **Battery** | LiPo pack included | $20–50 — **check it's not puffed**, health unknown |
 | **Body (clear)** | **Leadfinger Racing (LFR)** 1/8 **buggy** body, untrimmed, film on | ~$30–45 new — **fits only if reverted to buggy** |
 | **Body (painted)** | Blue→green fade **buggy** body, used | $0–15 — buggy spare |
 | **Wheels** | 1× AKA race set + 1× Pro-Line Badlands (basher) — *not mounted in these pics* | ~$60–95 the pair — **confirm they're 1/8 truggy size, not buggy** |
@@ -72,7 +74,8 @@ Now that the car is a **truggy**, the `MBX8Te` (MBX8 Truggy electric) arm + turn
 | **RC55509** | Turnbuckles, ballcups, pivot balls, steering tie rod | `MBX8Te` — truggy conversion part |
 | **E2146** | Front upright | `MBX8/7R` |
 | **E2116** | Titanium turnbuckle set | `MBX8/7/MGT` |
-| Alloy shock towers (×2, f+r) | aftermarket | verify MBX8 truggy cut |
+| Stainless steel screw kit | full-chassis hardware | `MBX8 & MBX8T` — fits ✅ |
+| Alloy shock towers (×2, f+r) + mud guards | aftermarket | verify MBX8 truggy cut |
 | Alloy steering bellcranks (×2, 32.0 g) | aftermarket | verify MBX8 fit |
 | E2324 | Battery connector holder (electric) | `MBX/T/MGT` — verify |
 | C0271 / H0867 / C0529A / H0855 / C0264 | Generic ball/link/pivot hardware | universal — verify sizes |
@@ -104,6 +107,7 @@ Quantities are **conservative** — several SKUs were photographed multiple time
 | E2146 | Front upright | MBX8/7R | ✅ yes | 1 | 720 | 720 |
 | E2116 | Titanium turnbuckle set | MBX8/7/MGT | ✅ yes | 1 | 1,100 | 1,100 |
 | E2324 | Battery connector holder | MBX/T/MGT | ✅ verify | 1 | 1,100 | 1,100 |
+| — | Stainless steel screw kit | MBX8 & MBX8T | ✅ yes | 1 | — | — |
 | E2152 | Rear lower arm mount R (alloy) | MBX8 | ❌ **bent** | 1 | 2,710 | 0 |
 | E2712 | Engine mount washer | MBX8/8T | 🚫 nitro | 1 | 290 | 290 |
 | E2244 | HT F/R diff gear set 44T | MBX7R/E/MGT/E | ♻️ MBX7 | 1 (≤2?) | 5,200 | 5,200 |
@@ -136,7 +140,7 @@ Quantities are **conservative** — several SKUs were photographed multiple time
 | — | Loose CVD/universal joints (used) | — | ♻️ verify | 1 lot | — | — |
 | — | Center-transmission assembly (used) | — | ♻️ MBX7 | 1 | — | — |
 | — | LFR clear + painted bodies | buggy | 🔶 buggy only | 2 | ~5,000* | 5,000 |
-| — | Alloy shock towers (f+r) | aftermarket | ✅ verify | 1 pr | ~9,000* | 9,000 |
+| — | Alloy shock towers (f+r) + mud guards | aftermarket | ✅ verify | 1 pr | ~9,000* | 9,000 |
 | — | Alloy steering bellcranks — **32.0 g** | aftermarket | ✅ verify | 1 pr | ~5,000* | 5,000 |
 
 \* No factory price tag (store bags, alloy, bodies) — estimated at typical retail, flagged `*`.
@@ -162,6 +166,24 @@ Realistic used-market value **to you** (USD):
 > **Bottom line:** a fair all-in is roughly **$500–750**, driven by the **complete running MBX8 truggy + XR8 ESC + Savöx servo + the truggy conversion parts + two wheel sets.** The truggy setup makes the `MBX8Te` arm/turnbuckle bags genuinely useful (they're the conversion kit), which nudges value up vs. a plain buggy. But the wall of new Mugen boxes is still mostly **MBX7/MGT** stock that won't touch your MBX8 — great resale, just don't pay MBX8 prices for it.
 >
 > **Negotiation levers:** the bent E2152, the nitro-only E2712, the buggy-only bodies, and the entire MBX7-generation diff/gear stack are all "not for this truggy." Confirm it **runs**, that the **wheels are truggy-size**, and what **truggy body** it currently wears before settling a runner price.
+
+---
+
+## Buy / negotiate / walk
+
+Decision rests on the **asking price** (still TBD) against the ~$500–750 fair range above. This is a high-end 1/8 race platform — maintenance-heavy, not a grab-and-bash — so it's great value for someone who'll run and wrench it, wrong buy if you just want something to throw around.
+
+- **Under ~$400 and it runs** → strong buy; the XR8 + Savöx + roller alone nearly cover it.
+- **$400–550** → fair, given the truggy is complete and the conversion parts are usable; lean on the rust + the dead MBX7 pile to negotiate.
+- **$550–700** → only worth it if you'll actually run the truggy *and* part out the MBX7 spares to recoup; a basher-only buyer is overpaying.
+- **$700+** → walk unless it's near-mint underneath, which the corrosion says it isn't.
+
+**Before money changes hands:**
+1. **Power it up** — listen for diff/bearing grind, confirm steering works.
+2. **Spin the wheels by hand** — smooth vs gritty (bearing/diff refresh due on a rusty car).
+3. **Battery not puffed**; motor + XR8 confirmed working.
+4. **Confirm wheels are truggy-size** and what **truggy body** it wears.
+5. **Eyeball the verify items** (alloy towers/bellcranks, E2324) against the car for fit.
 
 ---
 
