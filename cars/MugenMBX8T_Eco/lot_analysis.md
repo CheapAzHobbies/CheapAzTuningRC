@@ -31,7 +31,7 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 | Item | What | Value note |
 |---|---|---|
 | **Chassis** | Mugen **MBX8**, electric (Eco), **converted to truggy** — 4 big-bore shocks, carbon shock towers, center diff | The backbone of the deal |
-| **ESC + motor** | Hobbywing **Xerun XR8 combo** (fan + cap module, red power button, EC5 lead) | Combo ~$200–280 new / **$120–180 used** — solid, confirmed |
+| **ESC + motor** | Hobbywing **Xerun XR8 Plus** combo (1/8 competition, **sensored**; fan + cap, red button, EC5 lead) | ESC alone **$159.99 new** (BeachRC); combo ~$220–280 new / **$120–180 used** |
 | **Motor** | ~2300KV brushless (per you, "Lightning") — likely the Xerun combo motor | counted in the combo above |
 | **Steering servo** | **Savöx digital**, label reads ~**"SB-2273SG"** | Legit servo — ~$70–90 new / **$40–60 used** *(confirm exact prefix)* |
 | **Battery** | LiPo pack included | $20–50 — **check it's not puffed**, health unknown |
@@ -231,7 +231,7 @@ Realistic used-market value **to you** (USD):
 | **MBX8 truggy roller** (complete, well-used) | $600+ new kit | **$200–350 used** |
 | **Rear chassis worn** — chews pinions; needs E2435A plate (~$80) + new bevel pinion + remesh | — | **−$80 to −120** (repair) |
 | **Front end + bumper + skids gone** — ball joints/eyelets shot, upper-arm bushings blasted, body mounts + front bumper destroyed, front/rear skid plates missing | — | **−$90 to −170** (repair; box covers some hardware) |
-| **Hobbywing Xerun XR8 combo** (ESC + motor) | ~$200–280 new | **$120–180 used** |
+| **Hobbywing Xerun XR8 Plus combo** (ESC ~$160 new alone + motor) | ~$220–280 new | **$120–180 used** |
 | **Savöx ~SB-2273SG servo** | ~$80 new | **$40–60 used** |
 | **AKA race + Pro-Line Badlands wheels** | ~$110 | **$60–95** (confirm truggy size) |
 | **Spares — usable on the truggy** (MBX8Te arms + turnbuckles, E2146, E2116, hardware, alloy towers/cranks*, batt holder, **+ HTD diff case/seals E2232/E2241/E2242/E2243 + steering parts E0160/E2123/E2301/E2316 — see audit**) | ~$200 retail | **$90–150** |
