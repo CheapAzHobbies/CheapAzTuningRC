@@ -69,7 +69,7 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 - **Front body mounts blasted** — **E2148B** MBX8 body-mount set (body mounts + chassis brace + upper plate).
 - **Front bumper destroyed** — needs a new MBX8T front bumper (verify P/N). The box's `E0410` bumpers are **MBX7/6** and don't fit.
 - **Front + rear skid plates missing** — this is the **root cause of the rear-chassis wear** (nothing protecting the plate). Replace with **steel skids** (e.g. T-Works front+rear set), not just stock plastic, so it doesn't recur.
-- **Shocks shot** — all 4 shock **o-rings/seals blasted** (rebuild with a Mugen Big Bore shock seal set) and the **shock standoffs** are worn (replace; aftermarket alloy T-Works/Avid fit MBX7/8, ~$12–20/pr).
+- **Shocks shot** — all 4 **leaking/blown** (no damping). Full rebuild: Mugen Big Bore seal set + oil; **inspect shafts for scoring/bend** (add shock shafts if pitted). Worn **standoffs** too. The dead shocks + missing skids are *why* the rear chassis got hammered this hard.
 - **Steering bellcrank balls** — already replaced, now mint ✅ (alloy bellcranks + found ball joints).
 
 ### Repair cost estimate (parts, US retail, DIY labor)
