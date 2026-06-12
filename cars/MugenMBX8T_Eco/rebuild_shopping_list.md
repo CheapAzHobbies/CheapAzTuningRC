@@ -34,7 +34,7 @@ Everything you need to **buy** to turn the lot into a reliable runner. Part numb
 | # | Item | Part # | Qty | eBay $ | Notes |
 |---|---|---|---|---|---|
 | 11 | Big Bore shock seal set | **Mugen BB Oil Seal Set** (verify E#) | 1 | | all 4 leaking/blown; inspect shafts for scoring |
-| 11b | Shock shafts (if scored/bent) | verify | 0–1 set | | only if shafts pitted on teardown |
+| 11b | Shock shafts (if scored/bent) | front ~E0517 / TO-260-MBX8 (aftermkt) | 0–1 set | | only if shafts pitted; verify rear # |
 | 12 | Shock standoffs | alloy or stock | 1–2 set | | worn |
 | 13 | Shock oil | front + rear wt | 2 | | for the rebuild |
 
