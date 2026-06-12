@@ -31,7 +31,7 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 | Item | What | Value note |
 |---|---|---|
 | **Chassis** | Mugen **MBX8**, electric (Eco), **converted to truggy** — 4 big-bore shocks, carbon shock towers, center diff | The backbone of the deal |
-| **ESC + motor** | Hobbywing **Xerun XR8 Plus + 4274 G3 2250KV** combo (1/8 competition, **sensored**; cap module, red button, EC5 lead) — **cooling fan missing** (housing present), needs ~$12 fan before running | ESC **$160** + motor ~$110 new; combo ~$280–330 new / **$150–200 used** |
+| **ESC + motor** | Hobbywing **Xerun XR8 Plus + 4274 G3 2250KV** combo (1/8 competition, **sensored**; cap, red button, EC5 lead) — **fan missing & apparently run fanless a long time** → possible heat degradation, **bench-test before trusting** | combo ~$280–330 new; **$60–200 used** depending on ESC health (could be cooked) |
 | **Motor** | Hobbywing **Xerun 4274 G3, 2250KV** (sensored) — the combo motor | ~$110 new alone (counted in combo above) |
 | **Steering servo** | **Savöx digital**, label reads ~**"SB-2273SG"** | Legit servo — ~$70–90 new / **$40–60 used** *(confirm exact prefix)* |
 | **Battery** | LiPo pack included | $20–50 — **check it's not puffed**, health unknown |
@@ -52,9 +52,9 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 | Need | Part # | Note |
 |---|---|---|
 | Rear chassis plate | **E2435A** | MBX8TR ECO, ~$70–95 |
-| Gear box (the diff "box", front/rear) | **E2142** | one part fits front + rear, buggy + truggy |
-| Rear bevel pinion (the chewed one) | **E2263** | 10T straight-cut truggy bevel |
-| Mating conical ring gear (if damaged) | **E2264** | 46T, used with E2263, front or rear |
+| Rear bevel pinion (the bad gear) | **E2263** | 10T straight-cut truggy bevel — **the only diff part needed** |
+| Gear box housing | E2142 | only if the housing itself is worn (rear diff internals are OK) |
+| Conical ring gear | E2264 | **not needed** — rear diff is fine |
 
 - **Set the mesh** with a paper shim and blue-Loctite the gearbox screws after re-locating.
 - **Check** the gearbox feet / screw holes aren't egg-shaped too. A new plate won't help if the gearbox side is also worn.
@@ -75,14 +75,14 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 | Area | Parts | Est. |
 |---|---|---|
 | Rear chassis plate | E2435A | $80–95 |
-| Gear box + bevel/conical (if worn) | E2142 / E2263 / E2264 | $40–60 |
+| Rear bevel pinion (diff & conical are OK) | E2263 | $10–15 |
 | Front bumper | MBX8T bumper | $12–18 |
 | Front + rear skid plates | steel (T-Works etc.) | $15–30 |
 | Front body mounts | E2148B | $22–30 |
 | Ball joints / eyelets / ball cups | E0151 + rod ends + pivot balls (box covers some) | $20–45 |
 | Front upper-arm bushings | verify P/N | $10–15 |
 | ESC cooling fan (XR8 30mm) | missing on the XR8 Plus | $10–15 |
-| **Total (parts)** | | **~$210–305** |
+| **Total (parts)** | | **~$180–265** |
 
 Trim to ~**$150–200** if the gear box/conical are reusable and you use the box's H0867 / C0529A / H0855 hardware for the balls and eyelets. Labor is your time.
 
@@ -232,7 +232,7 @@ Realistic used-market value **to you** (USD):
 | **MBX8 truggy roller** (complete, well-used) | $600+ new kit | **$200–350 used** |
 | **Rear chassis worn** — chews pinions; needs E2435A plate (~$80) + new bevel pinion + remesh | — | **−$80 to −120** (repair) |
 | **Front end + bumper + skids gone** — ball joints/eyelets shot, upper-arm bushings blasted, body mounts + front bumper destroyed, front/rear skid plates missing | — | **−$90 to −170** (repair; box covers some hardware) |
-| **Hobbywing Xerun XR8 Plus + 4274 G3 2250KV combo** (needs ~$12 fan) | ~$280–330 new | **$150–200 used** |
+| **Hobbywing Xerun XR8 Plus + 4274 G3 2250KV combo** (fan missing, **run hot — test ESC health**) | ~$280–330 new | **$60–200 used** (ESC may be heat-degraded) |
 | **Savöx ~SB-2273SG servo** | ~$80 new | **$40–60 used** |
 | **AKA race + Pro-Line Badlands wheels** | ~$110 | **$60–95** (confirm truggy size) |
 | **Spares — usable on the truggy** (MBX8Te arms + turnbuckles, E2146, E2116, hardware, alloy towers/cranks*, batt holder, **+ HTD diff case/seals E2232/E2241/E2242/E2243 + steering parts E0160/E2123/E2301/E2316 — see audit**) | ~$200 retail | **$90–150** |
@@ -240,7 +240,7 @@ Realistic used-market value **to you** (USD):
 | **Spares — MBX7/MGT resale pile** (big diff **gear sets** E2244/E2248/E2247/E2203, std cases E2201/E2202, gearbox E0146, center mount E2101, upright E2129, bumpers E0410, E2138, E2015) | ~$250 retail | **$70–130 if parted out** (≈ $0 if you don't) |
 | **N/A / damaged** (E2712 nitro, E2152 bent) | — | **$0** |
 
-> **Bottom line:** the roller needs **~$200–290 of repair parts** (rear chassis + diff, missing skids, destroyed front bumper, full front-end refresh), so a fair "to you" number lands around **$300–500** — carried mostly by the **Xerun XR8 combo + Savöx servo + two wheel sets** and the usable **HTD diff seals/case + steering** spares. The big diff **gear sets and mounts** are still MBX7/MGT resale. Treat the roller as a **project, not a runner**, and price it that way.
+> **Bottom line:** the roller needs **~$180–265 of repair parts** (rear chassis + bevel pinion, missing skids, destroyed front bumper, full front-end refresh, ESC fan), so a fair "to you" number lands around **$300–500** — carried mostly by the **Xerun XR8 Plus combo + Savöx servo + two wheel sets**. **Big caveat:** that combo (the deal's main asset) **ran fanless a long time** and may be heat-degraded, so bench-test it before paying — if the ESC is cooked, realistic value drops toward **$150–300**. The big diff **gear sets and mounts** are still MBX7/MGT resale. Treat the roller as a **project, not a runner**, and price it that way.
 >
 > **Negotiation levers:** the **worn rear chassis** (new E2435A + bevel pinion + remesh, ~$80–120 of work), the bent E2152, the nitro-only E2712, the buggy-only bodies, and the MBX7 diff **gear sets / mounts** are all "not for this truggy" or "needs fixing." Confirm it **runs**, that the **wheels are truggy-size**, and what **truggy body** it currently wears before settling a runner price.
 
@@ -258,7 +258,7 @@ Decision rests on the **asking price** (still TBD) minus **~$200–290 of repair
 **Before money changes hands:**
 1. **Power it up** — listen for diff/bearing grind, confirm steering works.
 2. **Spin the wheels by hand** — smooth vs gritty (bearing/diff refresh due on a rusty car).
-3. **Battery not puffed**; motor + XR8 confirmed working.
+3. **Battery not puffed.** **Bench-test the XR8 Plus** under load with a fan fitted — it ran fanless a long time, so watch for thermal cutoff, hesitation, or a burnt smell. The ESC is the deal's main asset; if it's cooked, the value collapses.
 4. **Confirm wheels are truggy-size** and what **truggy body** it wears.
 5. **Eyeball the verify items** (alloy towers/bellcranks, E2324) against the car for fit.
 
