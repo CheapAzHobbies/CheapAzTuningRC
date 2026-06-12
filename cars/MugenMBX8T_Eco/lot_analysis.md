@@ -252,6 +252,8 @@ Realistic used-market value **to you** (USD):
 
 ## eBay resale reality (the MBX7/MGT spares lot)
 
+> 📊 Per-part prices + sellability are in [`parts_valuation.csv`](parts_valuation.csv) (open in Sheets/Excel).
+
 The resale pile *retails* ~$250+, but eBay's cut and shipping eat most of it.
 
 **eBay costs (2026):** final value fee **~13.5% + $0.40/order**; small parts ship ~**$5 each** (USPS Ground Advantage bubble mailer); a heavy all-in-one box ~**$15–25**. Buyers expect free shipping, so it comes out of your proceeds, and slow-moving Mugen race parts often need a Promoted Listing (+2–5%) to actually sell.
