@@ -12,9 +12,11 @@
 ## Table of Contents
 
 - [The car & electronics (confirmed from photos)](#the-car--electronics-confirmed-from-photos)
+- [Known issues / condition](#known-issues--condition)
 - [What you're buying](#what-youre-buying)
 - [The big catch: MBX7 ≠ MBX8](#the-big-catch-mbx7--mbx8)
 - [Compatibility buckets](#compatibility-buckets)
+- [Verified compatibility audit](#verified-compatibility-audit)
 - [Full spares inventory](#full-spares-inventory)
 - [Value summary](#value-summary)
 - [Buy / negotiate / walk](#buy--negotiate--walk)
@@ -38,6 +40,17 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 | **Wheels** | 1× AKA race set + 1× Pro-Line Badlands (basher) — *not mounted in these pics* | ~$60–95 the pair — **confirm they're 1/8 truggy size, not buggy** |
 
 > ⚠️ **As a truggy it needs a truggy body + truggy-size tires.** Confirm what body it currently runs, and that at least one of the wheel sets is truggy-size. The two buggy bodies in the lot are for the buggy configuration.
+
+---
+
+## Known issues / condition
+
+**Rear chassis worn — chewing rear pinions.** Per the seller the truck eats rear pinion gears. Diagnosed cause: the rear of the chassis plate is thin / wallowed enough that the **rear gearbox screws walk ~0.5mm rearward**, which opens up the **bevel pinion → conical (ring) gear mesh** and strips the pinion under power.
+
+- **Fix:** new chassis plate → **E2435A** (MBX8TR ECO, ~$70–95). Re-locate the gearbox, set bevel/conical mesh with a paper shim, blue-Loctite the gearbox screws.
+- **Also replace:** the chewed **rear bevel pinion** (MBX8 10T truggy bevel) and inspect the mating conical for damage. These are MBX8 parts; nothing in the MBX7 box covers them.
+- **Also check:** the gearbox feet / screw holes aren't egg-shaped too — a new plate won't help if the gearbox side is also worn.
+- **Value impact:** makes this a needs-work roller, not a clean runner. See the chassis line in the value summary; use it to negotiate.
 
 ---
 
@@ -93,6 +106,35 @@ LFR clear body · painted body — both **buggy** shells; you'll want a **truggy
 
 ### ❌ Damaged
 **E2152** Rear lower arm mount R (`MBX8`, alloy) — hand-labeled **"Bent."** Would otherwise fit; budget $0 (straightening reference / scrap).
+
+---
+
+## Verified compatibility audit
+
+Part-by-part fitment checks against the **MBX8 truggy**, verified against Mugen's published fitment listings. This **supersedes the buckets above where they differ** — the bag tags undersell several parts. The rule that emerged: diff **seals/consumables** + steering **small parts** carried forward MBX7→MBX8 and **fit**; diff **gears**, **mounts**, the **standard diff case**, and **gen-specific uprights** were redesigned and **don't**.
+
+| Part | What | Verified fitment | Fits truggy? |
+|---|---|---|---|
+| E0160 | Front lower kingpin ball | MBX6 / 7 / **8** | ✅ |
+| E2123 | Steel kingpin ball | MBX7 / MGT7 / **MBX8** | ✅ |
+| E2146 | Front upright (non-trailing) | X8 / X8T / X7 | ✅ |
+| E2301 | Servo saver set | MBX7 / 8 / MGT | ✅ |
+| E2316 | Servo saver spring (hard) | X8 / X8T / X7R / GT7 | ✅ |
+| H0855 | Ball link 6mm (C0111C) | MBX8 / MBX6 (universal) | ✅ |
+| E2241 | HTD diff gasket | MBX7R / MGT7 / **MBX8** | ✅ |
+| E2242 | HTD S6 diff o-rings | X8 / X8T / MBX7R | ✅ |
+| E2243 | HTD diff washer set | MBX7R / MGT7 / **MBX8** | ✅ |
+| E2232 | HTD diff **case** | MBX7R / MGT7 / **MBX8** | ✅ |
+| E2324 | Battery connector holder | MBX8 / 8R / MBX8T | ✅ |
+| E0410 | Front bumper (foam) | MBX6 / 7 only | 🚫 |
+| E2101 | Center diff mount | MBX7 / MGT7 only | 🚫 |
+| E2201 | Standard diff case | MBX7 only | 🚫 |
+| E2203 | Conical gear 42T | MBX7 (MBX8 uses E2254) | 🚫 |
+| E2244 | HTD gear set 44T | X7R / MGT (MBX8 uses E2255) | 🚫 |
+| E2248 | HTD gear set 42T | X7R / MGT (MBX8 uses E2256) | 🚫 |
+| E2129 | Front upright (trailing) | X7R / X7RE only (geometry; hub bearings are the same 8×16×5) | 🚫 |
+
+> **Net effect:** the HTD diff **case + all seals/washers** (E2232 / E2241 / E2242 / E2243) plus the **steering & servo-saver small parts** (E0160 / E2123 / E2301 / E2316 / H0855) move from "resale" to **usable on the truck** — diff-rebuild + steering refresh stock for the actual MBX8. You'd still buy the MBX8 **gears** (E2254 / E2255 / E2256 + E2252 bevel). The big diff **gear sets** and **mounts** stay resale.
 
 ---
 
@@ -154,18 +196,19 @@ Realistic used-market value **to you** (USD):
 | Bucket | Sticker / retail | Realistic to you |
 |---|---|---|
 | **MBX8 truggy roller** (complete, well-used) | $600+ new kit | **$200–350 used** |
+| **Rear chassis worn** — chews pinions; needs E2435A plate (~$80) + new bevel pinion + remesh | — | **−$80 to −120** (repair / negotiation) |
 | **Hobbywing XR8 ESC** | ~$150 new | **$90–130 used** |
 | **Savöx ~SB-2273SG servo** | ~$80 new | **$40–60 used** |
 | **Lightning 2300KV motor** | ~$50 new | **$30–50 used** |
 | **AKA race + Pro-Line Badlands wheels** | ~$110 | **$60–95** (confirm truggy size) |
-| **Spares — usable on the truggy** (MBX8Te arms + turnbuckles, E2146, E2116, hardware, alloy towers/cranks*, batt holder) | ~$150 retail | **$70–120** |
+| **Spares — usable on the truggy** (MBX8Te arms + turnbuckles, E2146, E2116, hardware, alloy towers/cranks*, batt holder, **+ HTD diff case/seals E2232/E2241/E2242/E2243 + steering parts E0160/E2123/E2301/E2316 — see audit**) | ~$200 retail | **$90–150** |
 | **Buggy bodies** (LFR + painted) — only if reverted to buggy | ~$50 | **$15–40** |
-| **Spares — MBX7/MGT resale pile** (diff sets, gears, cases, driveshafts, uprights, etc.) | ~$300 retail | **$80–150 if parted out** (≈ $0 if you don't) |
+| **Spares — MBX7/MGT resale pile** (big diff **gear sets** E2244/E2248/E2247/E2203, std cases E2201/E2202, gearbox E0146, center mount E2101, upright E2129, bumpers E0410, E2138, E2015) | ~$250 retail | **$70–130 if parted out** (≈ $0 if you don't) |
 | **N/A / damaged** (E2712 nitro, E2152 bent) | — | **$0** |
 
-> **Bottom line:** a fair all-in is roughly **$500–750**, driven by the **complete running MBX8 truggy + XR8 ESC + Savöx servo + the truggy conversion parts + two wheel sets.** The truggy setup makes the `MBX8Te` arm/turnbuckle bags genuinely useful (they're the conversion kit), which nudges value up vs. a plain buggy. But the wall of new Mugen boxes is still mostly **MBX7/MGT** stock that won't touch your MBX8 — great resale, just don't pay MBX8 prices for it.
+> **Bottom line:** a fair all-in is roughly **$500–750 before the chassis repair** — knock **$80–120** for the worn rear plate (chews pinions). Value is driven by the **complete MBX8 truggy + XR8 ESC + Savöx servo + truggy conversion parts + two wheel sets**, plus (newly confirmed) a stash of **MBX8-compatible HTD diff seals/case + steering parts** for rebuilds. The big diff **gear sets and mounts** are still MBX7/MGT resale — don't pay MBX8 prices for those.
 >
-> **Negotiation levers:** the bent E2152, the nitro-only E2712, the buggy-only bodies, and the entire MBX7-generation diff/gear stack are all "not for this truggy." Confirm it **runs**, that the **wheels are truggy-size**, and what **truggy body** it currently wears before settling a runner price.
+> **Negotiation levers:** the **worn rear chassis** (new E2435A + bevel pinion + remesh, ~$80–120 of work), the bent E2152, the nitro-only E2712, the buggy-only bodies, and the MBX7 diff **gear sets / mounts** are all "not for this truggy" or "needs fixing." Confirm it **runs**, that the **wheels are truggy-size**, and what **truggy body** it currently wears before settling a runner price.
 
 ---
 
@@ -196,6 +239,7 @@ Decision rests on the **asking price** (still TBD) against the ~$500–750 fair 
 - [ ] **XR8 variant** — XR8 / XR8 Plus / XR8 SCT? Affects value.
 - [ ] **Savöx exact model** — confirm "SB-2273SG" vs another 2273 prefix.
 - [ ] **Alloy shock towers + bellcranks** — confirm MBX8 truggy cut (no tags).
+- [ ] **Rear chassis** — order E2435A, check gearbox feet for wear, replace chewed bevel pinion, re-mesh + Loctite.
 - [ ] Quantities marked "≤N?" — count actual packs to firm up the resale total.
 
 *All spares photos are in [`src/`](src/), named by part number.*
