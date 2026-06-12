@@ -47,7 +47,7 @@ Everything you need to **buy** to turn the lot into a reliable runner. Part numb
 ### Electronics
 | # | Item | Part # | Qty | eBay $ | Notes |
 |---|---|---|---|---|---|
-| 17 | XR8 cooling fan (30mm) | Hobbywing | 1 | | missing — must have before running |
+| 17 | XR8 cooling fan (30mm) | (have one, free) | 1 | **$0** | installed — now bench-test the ESC |
 | 18 | New ESC (only if XR8 cooked) | — | 0–1 | | ~$130 — decide after bench-test |
 
 **Running total so far (4 items): ~$200**  ·  full rebuild now trending **~$290–390** — the chassis alone is $127, well above the early estimate.
