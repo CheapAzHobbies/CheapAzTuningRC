@@ -19,6 +19,7 @@
 - [Verified compatibility audit](#verified-compatibility-audit)
 - [Full spares inventory](#full-spares-inventory)
 - [Value summary](#value-summary)
+- [eBay resale reality](#ebay-resale-reality-the-mbx7mgt-spares-lot)
 - [Buy / negotiate / walk](#buy--negotiate--walk)
 - [Open items / need pics](#open-items--need-pics)
 
@@ -33,7 +34,7 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 | **Chassis** | Mugen **MBX8**, electric (Eco), **converted to truggy** — 4 big-bore shocks, carbon shock towers, center diff | The backbone of the deal |
 | **ESC + motor** | Hobbywing **Xerun XR8 Plus + 4274 G3 2250KV** combo (1/8 competition, **sensored**; cap, red button, EC5 lead) — **fan missing & apparently run fanless a long time** → possible heat degradation, **bench-test before trusting** | combo ~$280–330 new; **$60–200 used** depending on ESC health (could be cooked) |
 | **Motor** | Hobbywing **Xerun 4274 G3, 2250KV** (sensored) — the combo motor | ~$110 new alone (counted in combo above) |
-| **Steering servo** | **Savöx digital**, label reads ~**"SB-2273SG"** | Legit servo — ~$70–90 new / **$40–60 used** *(confirm exact prefix)* |
+| **Steering servo** | **Savöx digital**, ~**"SB-2273SG"** | ~$70–90 new but **near-worthless used** — sub-$20 PTK-class servos match/beat it for speed + torque, so call it **$0–20** |
 | **Battery** | LiPo pack included | $20–50 — **check it's not puffed**, health unknown |
 | **Body (clear)** | **Leadfinger Racing (LFR)** 1/8 **buggy** body, untrimmed, film on | ~$30–45 new — **fits only if reverted to buggy** |
 | **Body (painted)** | Blue→green fade **buggy** body, used | $0–15 — buggy spare |
@@ -233,16 +234,33 @@ Realistic used-market value **to you** (USD):
 | **Rear chassis worn** — chews pinions; needs E2435A plate (~$80) + new bevel pinion + remesh | — | **−$80 to −120** (repair) |
 | **Front end + bumper + skids gone** — ball joints/eyelets shot, upper-arm bushings blasted, body mounts + front bumper destroyed, front/rear skid plates missing | — | **−$90 to −170** (repair; box covers some hardware) |
 | **Hobbywing Xerun XR8 Plus + 4274 G3 2250KV combo** (fan missing, **run hot — test ESC health**) | ~$280–330 new | **$60–200 used** (ESC may be heat-degraded) |
-| **Savöx ~SB-2273SG servo** | ~$80 new | **$40–60 used** |
+| **Savöx ~SB-2273SG servo** | ~$80 new | **$0–20** (sub-$20 PTK servos undercut it) |
 | **AKA race + Pro-Line Badlands wheels** | ~$110 | **$60–95** (confirm truggy size) |
 | **Spares — usable on the truggy** (MBX8Te arms + turnbuckles, E2146, E2116, hardware, alloy towers/cranks*, batt holder, **+ HTD diff case/seals E2232/E2241/E2242/E2243 + steering parts E0160/E2123/E2301/E2316 — see audit**) | ~$200 retail | **$90–150** |
 | **Buggy bodies** (LFR + painted) — only if reverted to buggy | ~$50 | **$15–40** |
-| **Spares — MBX7/MGT resale pile** (big diff **gear sets** E2244/E2248/E2247/E2203, std cases E2201/E2202, gearbox E0146, center mount E2101, upright E2129, bumpers E0410, E2138, E2015) | ~$250 retail | **$70–130 if parted out** (≈ $0 if you don't) |
+| **Spares — MBX7/MGT resale pile** (gear sets, cases, gearbox, mount, upright, bumpers, driveshafts) | ~$250 retail | **~$100–200 eBay part-out / ~$110 as one lot** (see eBay section) |
 | **N/A / damaged** (E2712 nitro, E2152 bent) | — | **$0** |
 
-> **Bottom line:** the roller needs **~$180–265 of repair parts** (rear chassis + bevel pinion, missing skids, destroyed front bumper, full front-end refresh, ESC fan), so a fair "to you" number lands around **$300–500** — carried mostly by the **Xerun XR8 Plus combo + Savöx servo + two wheel sets**. **Big caveat:** that combo (the deal's main asset) **ran fanless a long time** and may be heat-degraded, so bench-test it before paying — if the ESC is cooked, realistic value drops toward **$150–300**. The big diff **gear sets and mounts** are still MBX7/MGT resale. Treat the roller as a **project, not a runner**, and price it that way.
+> **Bottom line:** the roller needs **~$180–265 of repair parts** (rear chassis + bevel pinion, missing skids, destroyed front bumper, full front-end refresh, ESC fan), so a fair "to you" number lands around **$300–500** — carried mostly by the **Xerun XR8 Plus combo + two wheel sets** (the Savöx is near-worthless resale now that sub-$20 PTK-class servos beat it). **Big caveat:** that combo (the deal's main asset) **ran fanless a long time** and may be heat-degraded, so bench-test it before paying — if the ESC is cooked, realistic value drops toward **$150–300**. The big diff **gear sets and mounts** are still MBX7/MGT resale. Treat the roller as a **project, not a runner**, and price it that way.
 >
 > **Negotiation levers:** the **worn rear chassis** (new E2435A + bevel pinion + remesh, ~$80–120 of work), the bent E2152, the nitro-only E2712, the buggy-only bodies, and the MBX7 diff **gear sets / mounts** are all "not for this truggy" or "needs fixing." Confirm it **runs**, that the **wheels are truggy-size**, and what **truggy body** it currently wears before settling a runner price.
+
+---
+
+## eBay resale reality (the MBX7/MGT spares lot)
+
+The resale pile *retails* ~$250+, but eBay's cut and shipping eat most of it.
+
+**eBay costs (2026):** final value fee **~13.5% + $0.40/order**; small parts ship ~**$5 each** (USPS Ground Advantage bubble mailer); a heavy all-in-one box ~**$15–25**. Buyers expect free shipping, so it comes out of your proceeds, and slow-moving Mugen race parts often need a Promoted Listing (+2–5%) to actually sell.
+
+| Strategy | Gross | Fees + shipping + materials | **Net to you** | Effort |
+|---|---|---|---|---|
+| **Part out** (~15–18 listings) | $250–380 | −$130–180 | **~$120–220** | high (weeks of listing + post-office runs) |
+| **One lot** ("MBX7R/MGT spares haul") | $120–180 | −$30–50 | **~$90–130** | low (one box, one trip) |
+
+**What actually moves:** the diff **gear sets** (E2244/E2248, ~$35–45 ea new-in-pkg), **E2015 rear universals** (~$30–40), and the **conicals** carry the value. Cases, gearboxes, mounts, bumpers are $5–12 filler that barely cover their own shipping.
+
+**Takeaway:** don't count the pile as "$250." After eBay + shipping it nets **~$100–200**, and only if you grind the listings. A single lot at **~$110 net** is the low-effort play. Either way it's beer money, not a windfall, so factor it that way into what you pay.
 
 ---
 
