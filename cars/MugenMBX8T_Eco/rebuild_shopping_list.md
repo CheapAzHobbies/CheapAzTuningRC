@@ -24,9 +24,9 @@ Everything you need to **buy** to turn the lot into a reliable runner. Part numb
 | # | Item | Part # | Qty | eBay $ | Notes |
 |---|---|---|---|---|---|
 | 5 | Front body mounts | **E2029** | 1 | **$7.99** +$5.99 ship | MBX8TR truggy mounts (E2148B was the buggy set) |
-| 6 | Front bumper | **verify on E2030 diagram** | 1 | | destroyed; NOT box E0410 (those are MBX7) |
-| 7 | Front upper-arm bushings | **verify on E2030 diagram** | 1 set | | loose-arm cause |
-| 8 | Ball cups | **E0151** | 1–2 pk | | worn eyelets |
+| 6 | Front bumper | **E2421B** | 1 | **$11.99** +$2.99 ship | MBX8 bumper — confirm truggy fit on E2030 diagram |
+| 7 | Front upper-arm bushings | **E2173A** | 1 | **$16.75** +$2.99 ship | MBX8R suspension bushings set |
+| 8 | Ball cups | E0151 | — | ~$24.99 +$10 ship | **SKIP — box RC55509 kit already has ballcups** |
 | 9 | Rod ends / ball ends | **H0855** (C0111C) | 2–3 pk | | box has some; buy extra |
 | 10 | Pivot balls | **H0867** | 1–2 pk | | box has some; buy extra |
 
