@@ -11,9 +11,9 @@ Everything you need to **buy** to turn the lot into a reliable runner. Part numb
 ### Rear / drivetrain
 | # | Item | Part # | Qty | eBay $ | Notes |
 |---|---|---|---|---|---|
-| 1 | Rear chassis plate | **E2435A** | 1 | | the worn one — root cause |
-| 2 | Bevel pinion 10T | **E2263** | 1–3 | | rear is bad; check front + center diffs too |
-| 3 | Gear box housing | E2142 | 0–1 | | only if the housing is worn (diff internals OK) |
+| 1 | Rear chassis plate | **E2435A** | 1 | **$126.99** | AMain, list $160, free ship |
+| 2 | Bevel pinion 10T | **E2263** | 1 | **$19.49** +$5.49 ship | rear only (front/center OK) |
+| 3 | Gear box housing | **E2142a** | 1 | **$28.50** +$5.85 ship | housing is worn |
 
 ### Chassis protection
 | # | Item | Part # | Qty | eBay $ | Notes |
@@ -23,7 +23,7 @@ Everything you need to **buy** to turn the lot into a reliable runner. Part numb
 ### Front end / steering
 | # | Item | Part # | Qty | eBay $ | Notes |
 |---|---|---|---|---|---|
-| 5 | Front body mount set | **E2148B** | 1 | | blasted |
+| 5 | Front body mounts | **E2029** | 1 | **$7.99** +$5.99 ship | MBX8TR truggy mounts (E2148B was the buggy set) |
 | 6 | Front bumper | MBX8T (verify) | 1 | | destroyed; box E0410 are MBX7 — won't fit |
 | 7 | Front upper-arm bushings | verify | 1 set | | the loose-arm cause |
 | 8 | Ball cups | **E0151** | 1–2 pk | | worn eyelets |
@@ -50,4 +50,4 @@ Everything you need to **buy** to turn the lot into a reliable runner. Part numb
 | 17 | XR8 cooling fan (30mm) | Hobbywing | 1 | | missing — must have before running |
 | 18 | New ESC (only if XR8 cooked) | — | 0–1 | | ~$130 — decide after bench-test |
 
-**Running total (fill in): $________**  ·  earlier estimate **~$200–295** (excl. a replacement ESC).
+**Running total so far (4 items): ~$200**  ·  full rebuild now trending **~$290–390** — the chassis alone is $127, well above the early estimate.
