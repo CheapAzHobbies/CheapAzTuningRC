@@ -47,9 +47,18 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 
 **Rear chassis worn — chewing rear pinions.** Per the seller the truck eats rear pinion gears. Diagnosed cause: the rear of the chassis plate is thin / wallowed enough that the **rear gearbox screws walk ~0.5mm rearward**, which opens up the **bevel pinion → conical (ring) gear mesh** and strips the pinion under power.
 
-- **Fix:** new chassis plate → **E2435A** (MBX8TR ECO, ~$70–95). Re-locate the gearbox, set bevel/conical mesh with a paper shim, blue-Loctite the gearbox screws.
-- **Also replace:** the chewed **rear bevel pinion** (MBX8 10T truggy bevel) and inspect the mating conical for damage. These are MBX8 parts; nothing in the MBX7 box covers them.
-- **Also check:** the gearbox feet / screw holes aren't egg-shaped too — a new plate won't help if the gearbox side is also worn.
+**Repair parts (all MBX8 truggy. None are in the MBX7 spares box):**
+
+| Need | Part # | Note |
+|---|---|---|
+| Rear chassis plate | **E2435A** | MBX8TR ECO, ~$70–95 |
+| Gear box (the diff "box", front/rear) | **E2142** | one part fits front + rear, buggy + truggy |
+| Rear bevel pinion (the chewed one) | **E2263** | 10T straight-cut truggy bevel |
+| Mating conical ring gear (if damaged) | **E2264** | 46T, used with E2263, front or rear |
+
+- **Set the mesh** with a paper shim and blue-Loctite the gearbox screws after re-locating.
+- **Check** the gearbox feet / screw holes aren't egg-shaped too. A new plate won't help if the gearbox side is also worn.
+- **Note:** the box's `E2247` 46T conical is the **MBX7TR** version, NOT this. The MBX8 truggy 46T is **E2264**.
 - **Value impact:** makes this a needs-work roller, not a clean runner. See the chassis line in the value summary; use it to negotiate.
 
 ---
