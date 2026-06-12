@@ -69,6 +69,7 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 - **Front body mounts blasted** — **E2148B** MBX8 body-mount set (body mounts + chassis brace + upper plate).
 - **Front bumper destroyed** — needs a new MBX8T front bumper (verify P/N). The box's `E0410` bumpers are **MBX7/6** and don't fit.
 - **Front + rear skid plates missing** — this is the **root cause of the rear-chassis wear** (nothing protecting the plate). Replace with **steel skids** (e.g. T-Works front+rear set), not just stock plastic, so it doesn't recur.
+- **Shocks shot** — all 4 shock **o-rings/seals blasted** (rebuild with a Mugen Big Bore shock seal set) and the **shock standoffs** are worn (replace; aftermarket alloy T-Works/Avid fit MBX7/8, ~$12–20/pr).
 - **Steering bellcrank balls** — already replaced, now mint ✅ (alloy bellcranks + found ball joints).
 
 ### Repair cost estimate (parts, US retail, DIY labor)
@@ -82,8 +83,10 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 | Front body mounts | E2148B | $22–30 |
 | Ball joints / eyelets / ball cups | E0151 + rod ends + pivot balls (box covers some) | $20–45 |
 | Front upper-arm bushings | verify P/N | $10–15 |
+| Shock seals / o-rings (×4 shocks) | Mugen Big Bore seal set | $8–12 |
+| Shock standoffs | alloy (T-Works / Avid) or stock | $12–20 |
 | ESC cooling fan (XR8 30mm) | missing on the XR8 Plus | $10–15 |
-| **Total (parts)** | | **~$180–265** |
+| **Total (parts)** | | **~$200–295** |
 
 Trim to ~**$150–200** if the gear box/conical are reusable and you use the box's H0867 / C0529A / H0855 hardware for the balls and eyelets. Labor is your time.
 
@@ -241,7 +244,7 @@ Realistic used-market value **to you** (USD):
 | **Spares — MBX7/MGT resale pile** (gear sets, cases, gearbox, mount, upright, bumpers, driveshafts) | ~$250 retail | **~$100–200 eBay part-out / ~$110 as one lot** (see eBay section) |
 | **N/A / damaged** (E2712 nitro, E2152 bent) | — | **$0** |
 
-> **Bottom line:** the roller needs **~$180–265 of repair parts** (rear chassis + bevel pinion, missing skids, destroyed front bumper, full front-end refresh, ESC fan), so a fair "to you" number lands around **$300–500** — carried mostly by the **Xerun XR8 Plus combo + two wheel sets** (the Savöx is near-worthless resale now that sub-$20 PTK-class servos beat it). **Big caveat:** that combo (the deal's main asset) **ran fanless a long time** and may be heat-degraded, so bench-test it before paying — if the ESC is cooked, realistic value drops toward **$150–300**. The big diff **gear sets and mounts** are still MBX7/MGT resale. Treat the roller as a **project, not a runner**, and price it that way.
+> **Bottom line:** the roller needs **~$200–295 of repair parts** (rear chassis + bevel pinion, missing skids, destroyed front bumper, full front-end refresh, shock rebuild, ESC fan), so a fair "to you" number lands around **$300–500** — carried mostly by the **Xerun XR8 Plus combo + two wheel sets** (the Savöx is near-worthless resale now that sub-$20 PTK-class servos beat it). **Big caveat:** that combo (the deal's main asset) **ran fanless a long time** and may be heat-degraded, so bench-test it before paying — if the ESC is cooked, realistic value drops toward **$150–300**. The big diff **gear sets and mounts** are still MBX7/MGT resale. Treat the roller as a **project, not a runner**, and price it that way.
 >
 > **Negotiation levers:** the **worn rear chassis** (new E2435A + bevel pinion + remesh, ~$80–120 of work), the bent E2152, the nitro-only E2712, the buggy-only bodies, and the MBX7 diff **gear sets / mounts** are all "not for this truggy" or "needs fixing." Confirm it **runs**, that the **wheels are truggy-size**, and what **truggy body** it currently wears before settling a runner price.
 
