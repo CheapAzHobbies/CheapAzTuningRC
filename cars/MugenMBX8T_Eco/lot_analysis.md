@@ -31,8 +31,8 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 | Item | What | Value note |
 |---|---|---|
 | **Chassis** | Mugen **MBX8**, electric (Eco), **converted to truggy** — 4 big-bore shocks, carbon shock towers, center diff | The backbone of the deal |
-| **ESC** | Hobbywing **XR8** (fan + cap module, red power button, EC5 battery lead) | ~$130–170 new / **$90–130 used** — *confirm variant: XR8 / Plus / SCT* |
-| **Motor** | **"Lightning"** brushless can, ~2300KV (per you) | Budget motor — **$30–50 used** |
+| **ESC + motor** | Hobbywing **Xerun XR8 combo** (fan + cap module, red power button, EC5 lead) | Combo ~$200–280 new / **$120–180 used** — solid, confirmed |
+| **Motor** | ~2300KV brushless (per you, "Lightning") — likely the Xerun combo motor | counted in the combo above |
 | **Steering servo** | **Savöx digital**, label reads ~**"SB-2273SG"** | Legit servo — ~$70–90 new / **$40–60 used** *(confirm exact prefix)* |
 | **Battery** | LiPo pack included | $20–50 — **check it's not puffed**, health unknown |
 | **Body (clear)** | **Leadfinger Racing (LFR)** 1/8 **buggy** body, untrimmed, film on | ~$30–45 new — **fits only if reverted to buggy** |
@@ -60,6 +60,30 @@ A complete, **heavily used** Mugen **MBX8** roller, **converted from buggy to tr
 - **Check** the gearbox feet / screw holes aren't egg-shaped too. A new plate won't help if the gearbox side is also worn.
 - **Note:** the box's `E2247` 46T conical is the **MBX7TR** version, NOT this. The MBX8 truggy 46T is **E2264**.
 - **Value impact:** makes this a needs-work roller, not a clean runner. See the chassis line in the value summary; use it to negotiate.
+
+**Front end fully worn (heavy).** Past "rusty." Needs a full refresh:
+
+- **Every ball joint worn flat** (not even round anymore) and **all eyelets / rod ends blown out** — replace the lot. The box's usable hardware covers some of it: **H0867** pivot balls, **C0529A** link balls, **H0855** 6mm rod ends, plus **E0151** MBX8 ball cups. Buy extra rod ends + pivot balls to do the whole car.
+- **Front upper arms loose** — the plastic pivot bushings/collars are blasted. Replace the MBX8 front upper-arm bushing set (verify P/N).
+- **Front body mounts blasted** — **E2148B** MBX8 body-mount set (body mounts + chassis brace + upper plate).
+- **Front bumper destroyed** — needs a new MBX8T front bumper (verify P/N). The box's `E0410` bumpers are **MBX7/6** and don't fit.
+- **Front + rear skid plates missing** — this is the **root cause of the rear-chassis wear** (nothing protecting the plate). Replace with **steel skids** (e.g. T-Works front+rear set), not just stock plastic, so it doesn't recur.
+- **Steering bellcrank balls** — already replaced, now mint ✅ (alloy bellcranks + found ball joints).
+
+### Repair cost estimate (parts, US retail, DIY labor)
+
+| Area | Parts | Est. |
+|---|---|---|
+| Rear chassis plate | E2435A | $80–95 |
+| Gear box + bevel/conical (if worn) | E2142 / E2263 / E2264 | $40–60 |
+| Front bumper | MBX8T bumper | $12–18 |
+| Front + rear skid plates | steel (T-Works etc.) | $15–30 |
+| Front body mounts | E2148B | $22–30 |
+| Ball joints / eyelets / ball cups | E0151 + rod ends + pivot balls (box covers some) | $20–45 |
+| Front upper-arm bushings | verify P/N | $10–15 |
+| **Total (parts)** | | **~$200–290** |
+
+Trim to ~**$150–200** if the gear box/conical are reusable and you use the box's H0867 / C0529A / H0855 hardware for the balls and eyelets. Labor is your time.
 
 ---
 
@@ -205,17 +229,17 @@ Realistic used-market value **to you** (USD):
 | Bucket | Sticker / retail | Realistic to you |
 |---|---|---|
 | **MBX8 truggy roller** (complete, well-used) | $600+ new kit | **$200–350 used** |
-| **Rear chassis worn** — chews pinions; needs E2435A plate (~$80) + new bevel pinion + remesh | — | **−$80 to −120** (repair / negotiation) |
-| **Hobbywing XR8 ESC** | ~$150 new | **$90–130 used** |
+| **Rear chassis worn** — chews pinions; needs E2435A plate (~$80) + new bevel pinion + remesh | — | **−$80 to −120** (repair) |
+| **Front end + bumper + skids gone** — ball joints/eyelets shot, upper-arm bushings blasted, body mounts + front bumper destroyed, front/rear skid plates missing | — | **−$90 to −170** (repair; box covers some hardware) |
+| **Hobbywing Xerun XR8 combo** (ESC + motor) | ~$200–280 new | **$120–180 used** |
 | **Savöx ~SB-2273SG servo** | ~$80 new | **$40–60 used** |
-| **Lightning 2300KV motor** | ~$50 new | **$30–50 used** |
 | **AKA race + Pro-Line Badlands wheels** | ~$110 | **$60–95** (confirm truggy size) |
 | **Spares — usable on the truggy** (MBX8Te arms + turnbuckles, E2146, E2116, hardware, alloy towers/cranks*, batt holder, **+ HTD diff case/seals E2232/E2241/E2242/E2243 + steering parts E0160/E2123/E2301/E2316 — see audit**) | ~$200 retail | **$90–150** |
 | **Buggy bodies** (LFR + painted) — only if reverted to buggy | ~$50 | **$15–40** |
 | **Spares — MBX7/MGT resale pile** (big diff **gear sets** E2244/E2248/E2247/E2203, std cases E2201/E2202, gearbox E0146, center mount E2101, upright E2129, bumpers E0410, E2138, E2015) | ~$250 retail | **$70–130 if parted out** (≈ $0 if you don't) |
 | **N/A / damaged** (E2712 nitro, E2152 bent) | — | **$0** |
 
-> **Bottom line:** a fair all-in is roughly **$500–750 before the chassis repair** — knock **$80–120** for the worn rear plate (chews pinions). Value is driven by the **complete MBX8 truggy + XR8 ESC + Savöx servo + truggy conversion parts + two wheel sets**, plus (newly confirmed) a stash of **MBX8-compatible HTD diff seals/case + steering parts** for rebuilds. The big diff **gear sets and mounts** are still MBX7/MGT resale — don't pay MBX8 prices for those.
+> **Bottom line:** the roller needs **~$200–290 of repair parts** (rear chassis + diff, missing skids, destroyed front bumper, full front-end refresh), so a fair "to you" number lands around **$300–500** — carried mostly by the **Xerun XR8 combo + Savöx servo + two wheel sets** and the usable **HTD diff seals/case + steering** spares. The big diff **gear sets and mounts** are still MBX7/MGT resale. Treat the roller as a **project, not a runner**, and price it that way.
 >
 > **Negotiation levers:** the **worn rear chassis** (new E2435A + bevel pinion + remesh, ~$80–120 of work), the bent E2152, the nitro-only E2712, the buggy-only bodies, and the MBX7 diff **gear sets / mounts** are all "not for this truggy" or "needs fixing." Confirm it **runs**, that the **wheels are truggy-size**, and what **truggy body** it currently wears before settling a runner price.
 
@@ -223,12 +247,12 @@ Realistic used-market value **to you** (USD):
 
 ## Buy / negotiate / walk
 
-Decision rests on the **asking price** (still TBD) against the ~$500–750 fair range above. This is a high-end 1/8 race platform — maintenance-heavy, not a grab-and-bash — so it's great value for someone who'll run and wrench it, wrong buy if you just want something to throw around.
+Decision rests on the **asking price** (still TBD) minus **~$200–290 of repairs** (chassis, diff, skids, bumper, full front-end). This is a high-end 1/8 race platform, but in this condition a **strip-and-rebuild project**, not a grab-and-bash. Worth it for someone who'll wrench it, a bad buy if you wanted a runner.
 
-- **Under ~$400 and it runs** → strong buy; the XR8 + Savöx + roller alone nearly cover it.
-- **$400–550** → fair, given the truggy is complete and the conversion parts are usable; lean on the rust + the dead MBX7 pile to negotiate.
-- **$550–700** → only worth it if you'll actually run the truggy *and* part out the MBX7 spares to recoup; a basher-only buyer is overpaying.
-- **$700+** → walk unless it's near-mint underneath, which the corrosion says it isn't.
+- **Under ~$250** → buy; the **Xerun XR8 combo + Savöx** nearly cover it and you treat the roller as a rebuild project.
+- **$250–400** → only fair if you'll do the full rebuild (chassis + diff + front end + skids + bumper) and part out the MBX7 pile to recoup.
+- **$400–550** → overpaying unless the repairs are already done; this is a worn project roller, not a runner.
+- **$550+** → walk. Corrosion + chewed chassis + missing skids + destroyed front end = a project priced like a car.
 
 **Before money changes hands:**
 1. **Power it up** — listen for diff/bearing grind, confirm steering works.
