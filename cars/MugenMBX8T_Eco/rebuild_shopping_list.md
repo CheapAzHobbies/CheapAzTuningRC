@@ -4,6 +4,8 @@ Everything you need to **buy** to turn the lot into a reliable runner. Part numb
 
 > ⚠️ **Test the XR8 Plus FIRST** (fit a fan, run it hard). It ran fanless a long time. If it's cooked, add a new ESC (~$130) before buying anything else.
 
+> 🚨 **CONFIRM THE EXACT MODEL BEFORE BUYING THE CHASSIS.** The parts list photographed is **MBX8T ECO [E2024]** = the 2018 **MBX8TE**. But the **E2435A** chassis priced below is the **MBX8TR ECO [E2030]** = the 2023 model — a *different model year with a different chassis plate*. If this car is the E2024 MBX8TE, **E2435A is the wrong chassis.** Verify which truggy it is (sticker / manual / chassis number) before ordering.
+
 > 🟢 **Already in the box — do NOT buy:** HTD diff case E2232 + seals E2241/E2242/E2243, kingpin balls E0160/E2123, servo saver E2301/E2316, upright E2146, Ti turnbuckles E2116, conversion arms RC57532 + RC55509, stainless screw kit, alloy towers/bellcranks, some rod ends/pivot balls (H0855/H0867/C0529A).
 
 ## Buy list (fill in eBay prices as you find them)
@@ -11,7 +13,7 @@ Everything you need to **buy** to turn the lot into a reliable runner. Part numb
 ### Rear / drivetrain
 | # | Item | Part # | Qty | eBay $ | Notes |
 |---|---|---|---|---|---|
-| 1 | Rear chassis plate | **E2435A** | 1 | **$126.99** | AMain, list $160, free ship |
+| 1 | Rear chassis plate | **E2435A** (MBX8TR ECO) | 1 | **$126.99** | ⚠️ confirm car isn't the older E2024 MBX8TE first — different chassis |
 | 2 | Bevel pinion 10T | **E2263** | 1 | **$19.49** +$5.49 ship | rear only (front/center OK) |
 | 3 | Gear box housing | **E2142a** | 1 | **$28.50** +$5.85 ship | housing is worn |
 
