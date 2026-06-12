@@ -24,16 +24,16 @@ Everything you need to **buy** to turn the lot into a reliable runner. Part numb
 | # | Item | Part # | Qty | eBay $ | Notes |
 |---|---|---|---|---|---|
 | 5 | Front body mounts | **E2029** | 1 | **$7.99** +$5.99 ship | MBX8TR truggy mounts (E2148B was the buggy set) |
-| 6 | Front bumper | MBX8T (verify) | 1 | | destroyed; box E0410 are MBX7 — won't fit |
-| 7 | Front upper-arm bushings | verify | 1 set | | the loose-arm cause |
+| 6 | Front bumper | **verify on E2030 diagram** | 1 | | destroyed; NOT box E0410 (those are MBX7) |
+| 7 | Front upper-arm bushings | **verify on E2030 diagram** | 1 set | | loose-arm cause |
 | 8 | Ball cups | **E0151** | 1–2 pk | | worn eyelets |
-| 9 | Rod ends / ball ends | (box covers some) | 2–3 pk | | every eyelet worn |
-| 10 | Pivot balls | (box covers some) | 1–2 pk | | every ball worn flat |
+| 9 | Rod ends / ball ends | **H0855** (C0111C) | 2–3 pk | | box has some; buy extra |
+| 10 | Pivot balls | **H0867** | 1–2 pk | | box has some; buy extra |
 
 ### Shocks
 | # | Item | Part # | Qty | eBay $ | Notes |
 |---|---|---|---|---|---|
-| 11 | Big Bore shock seal/o-ring set | Mugen BB seals | 1 | | does all 4 shocks |
+| 11 | Big Bore shock seal set | **Mugen BB Oil Seal Set** (verify E#) | 1 | | does all 4 shocks |
 | 12 | Shock standoffs | alloy or stock | 1–2 set | | worn |
 | 13 | Shock oil | front + rear wt | 2 | | for the rebuild |
 
