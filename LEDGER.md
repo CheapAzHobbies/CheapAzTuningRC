@@ -10,7 +10,7 @@ Money tracking: what friends owe me for parts/cars I sell them, and what I order
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $46.00** | Last checkpoint "now at: 0" + `-40` (borrowed cash) + `-6` (gold 30mm fan) | 2026-06-08 |
+| **Mike** | **≈ $117.02** | $46 prior + PTK servo $42.84 + foam inserts $8.08 + RED SPIDER wheels $20.10 | 2026-06-13 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags at the bottom of Mike's account.
 
@@ -101,7 +101,11 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | | **Now at: $0** | **(your checkpoint / settle-up)** |
 | 73 | -$40.00 | Borrowing cash |
 | 74 | -$6.00 | Gold 30mm fan |
-| | **➡️ Current: -$46.00 → Mike owes ≈ $46** | from "Now at: 0" + #73 + #74 |
+| | **Checkpoint (6/8): -$46.00** | from "Now at: 0" + #73 + #74 |
+| 75 | -$42.84 | PTK 9110 MG-D 100KG brushless servo (AliExpress, PTK Servo Store, 6/1; paid $42.84 of $61.51 list) |
+| 76 | -$8.08 | 4pc 1/8 RC foam inserts (AliExpress, Choice, 6/1) |
+| 77 | -$20.10 | RED SPIDER 17mm hex wheels+tires, 4pc, 1/8 (AliExpress, Choice, 6/7) |
+| | **➡️ Current: -$117.02 → Mike owes ≈ $117** | −$46 + #75 + #76 + #77 |
 
 ### Flags to resolve
 
