@@ -102,9 +102,9 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 73 | -$40.00 | Borrowing cash |
 | 74 | -$6.00 | Gold 30mm fan |
 | | **Checkpoint (6/8): -$46.00** | from "Now at: 0" + #73 + #74 |
-| 75 | -$42.84 | PTK 9110 MG-D 100KG brushless servo (AliExpress, PTK Servo Store, 6/1; paid $42.84 of $61.51 list) |
-| 76 | -$8.08 | 4pc 1/8 RC foam inserts (AliExpress, Choice, 6/1) |
-| 77 | -$20.10 | RED SPIDER 17mm hex wheels+tires, 4pc, 1/8 (AliExpress, Choice, 6/7) |
+| 75 | -$42.84 | PTK 9110 MG-D 100KG brushless servo |
+| 76 | -$8.08 | 4pc 1/8 RC foam inserts |
+| 77 | -$20.10 | RED SPIDER 17mm hex wheels + tires (4pc) |
 | | **➡️ Current: -$117.02 → Mike owes ≈ $117** | −$46 + #75 + #76 + #77 |
 
 ### Flags to resolve
