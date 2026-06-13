@@ -10,7 +10,7 @@ Money tracking: what friends owe me for parts/cars I sell them, and what I order
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $117.02** | $46 prior + PTK servo $42.84 + foam inserts $8.08 + RED SPIDER wheels $20.10 | 2026-06-13 |
+| **Mike** | **≈ $67.02** | $117.02 − $50.00 Zelle payment (6/13) | 2026-06-13 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags at the bottom of Mike's account.
 
@@ -105,7 +105,8 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 75 | -$42.84 | PTK 9110 MG-D 100KG brushless servo |
 | 76 | -$8.08 | 4pc 1/8 RC foam inserts |
 | 77 | -$20.10 | RED SPIDER 17mm hex wheels + tires (4pc) |
-| | **➡️ Current: -$117.02 → Mike owes ≈ $117** | −$46 + #75 + #76 + #77 |
+| 78 | +$50.00 | Payment — Zelle (6/13) |
+| | **➡️ Current: -$67.02 → Mike owes ≈ $67** | −$46 + #75 + #76 + #77 + #78 |
 
 ### Flags to resolve
 
@@ -122,7 +123,7 @@ Log payments here as they come in, then update Mike's account + Outstanding Bala
 
 | Date | From | Amount | Method | Against (item / "balance") |
 |------|------|--------|--------|----------------------------|
-| | | | | |
+| 2026-06-13 | Mike | $50.00 | Zelle | balance |
 
 ---
 
