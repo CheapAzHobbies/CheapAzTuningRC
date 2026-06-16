@@ -2,6 +2,8 @@
 
 > 1/10 4WD brushless monster truck — **kept mostly stock**. This page is a build/maintenance log, not a deep parts analysis: the plan is stock running gear plus a few easy items (shock oil, wheels/tires, basic alloy hubs) and the cheap durability swaps the community already agrees on. The big takeaway from owners: **the driveline is what breaks — stock up on dog bones, diff cups, and gears.**
 
+> 🎓 **Graduation gift** from my dad, **Hien Nguyen**, for finishing my **Electrical Engineering** degree at **Portland State University** (graduated June 14, 2026).
+
 *Photo TBD.*
 
 ---
