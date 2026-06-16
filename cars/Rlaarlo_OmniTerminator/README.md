@@ -16,6 +16,7 @@
 - [Maintenance Parts to Keep On Hand](#maintenance-parts-to-keep-on-hand)
 - [Planned Light Upgrades](#planned-light-upgrades)
 - [Option Parts Catalog](#option-parts-catalog)
+- [3D Models (references)](#3d-models-references)
 - [Parts List](#parts-list)
 - [TODO / Notes](#todo--notes)
 - [Sources](#sources)
@@ -101,6 +102,18 @@ Full Rlaarlo option/upgrade sheet (every part number) and the AL alloy modificat
   <img src="src/reference_rlaarlo_omniterminator_option_parts_p1.jpg" width="440">&nbsp;<img src="src/reference_rlaarlo_omniterminator_alloy_mod_kit_p2.jpg" width="440"><br>
   <em>Option parts (R11130–R11158, RZ062, RZ066) · AL alloy modification kit (reinforced diffs, S2 transmission rods, alloy swing-arm braces, H17 hexes)</em>
 </p>
+
+---
+
+## 3D Models (references)
+
+> **Third-party paid designs are referenced here, not redistributed.** These are **CULTS "Private Use"** licensed STLs I own — the files are **not committed** to this public repo (that would break the license and undercut the designer). Re-download from your Cults purchase history when you want to print.
+
+| Model | Designer | Source | Photo |
+|---|---|---|---|
+| Rear Chassis Skid Plate / Bottom Cover Upgrade | OG_Cranck | [Cults3D](https://cults3d.com/en/3d-model/game/rear-chassis-skid-plate-protector-for-rlaarlo-omni-terminator-bottom-cover-upgr) | <img src="src/reference_rlaarlo_skid_plate_og_cranck.jpg" width="200"> |
+
+Same designer also has an Omni-Terminator **Differential & Gear Cover** and a **Shock Preload Spacer (10/15mm)** on [their Cults profile](https://cults3d.com/en/users/OG_Cranck/3d-models).
 
 ---
 
