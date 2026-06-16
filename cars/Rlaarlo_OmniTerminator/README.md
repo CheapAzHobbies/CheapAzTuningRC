@@ -13,6 +13,7 @@
 - [Known Weak Points — what breaks](#known-weak-points--what-breaks)
 - [Maintenance Parts to Keep On Hand](#maintenance-parts-to-keep-on-hand)
 - [Planned Light Upgrades](#planned-light-upgrades)
+- [Option Parts Catalog](#option-parts-catalog)
 - [Parts List](#parts-list)
 - [TODO / Notes](#todo--notes)
 - [Sources](#sources)
@@ -58,19 +59,20 @@ Owner consensus (ARRMA forum, RCTalk, Rlaarlo group) is that this truck is a fun
 
 Based on owner opinions, prioritized — 🔴 buy before you run it hard, 🟡 nice to have, 🟢 occasional/cosmetic. (Prices are SeriousRC £ for reference; Rlaarlo.com sells direct in the US. Part numbers are universal.)
 
-| Priority | Part | Rlaarlo # | Why |
-|---|---|---|---|
-| 🔴 | Front CVD drive shafts (2-pack) | R11036 | Dog bones fail first — the most-replaced part |
-| 🔴 | **S2 hardened CVD drive shafts** (upgrade) | R11141 | 45# steel; outlasts stock — the swap to make if you keep breaking them |
-| 🔴 | Diff drive cups / hardened diff | S2 cups · R11007/8/9 | Cups round out where the dog bone seats |
-| 🔴 | Hardened pinion (+ spare spur) | aftermarket / R11154 (33T) | Stock gears strip; hardened pinion lasts far longer |
-| 🟡 | Center drive gear / shaft (33T, 60T) | R11154 · R11144 | Center driveline wear |
-| 🟡 | H17 hex adaptors (4-pack) | R11151 / RZ062 | Hexes round out |
-| 🟡 | Shock absorbers (2-pack) + oil/springs | R11001 | Leak/bend; oil for tuning |
-| 🟡 | Full bearing kit | ABEC-3 set (eBay) | Dirt/sand kills bearings — have a reseal set |
-| 🟢 | Front steering hubs / rear carriers | R11132 / R11133 | Bend in crashes (also an alloy upgrade) |
-| 🟢 | Servo saver set | R11137 | Protects the steering servo |
-| 🟢 | Body shell / wheels + tires | R11078… / R11082 | Cosmetic + wear |
+| Priority | Part | Rlaarlo # | Why | Photo |
+|---|---|---|---|---|
+| 🔴 | S2 hardened CVD driveshafts | R11141 (front) / R11142 (rear) | Dog bones fail first; S2 hardened outlasts stock | <img src="src/drivetrain_rlaarlo_cvd_driveshafts_r11141.jpg" width="200"> |
+| 🔴 | Standard front CVD driveshafts (2-pack) | R11036 | Cheaper stock-style spare to keep around | |
+| 🔴 | S2 diff drive cups | R11145 (also R11146/47/48) | Cups round out where the bone seats | <img src="src/drivetrain_rlaarlo_diff_drive_cups_r11145.jpg" width="200"> |
+| 🔴 | 65T S2 central differential | R11139 | Center diff wears/strips (34T diff = R11140) | <img src="src/drivetrain_rlaarlo_center_diff_65t_r11139.jpg" width="200"> |
+| 🔴 | Hardened M1 pinion | R11155 (24T) / R11156 (26T) / R11157 (28T) | Stock pinion strips; hardened lasts far longer | <img src="src/drivetrain_rlaarlo_pinion_24t_r11155.jpg" width="200"> |
+| 🟡 | 33T M1 center drive gear | R11154 (60T shaft = R11144) | Center driveline wear | <img src="src/drivetrain_rlaarlo_center_gear_33t_r11154.jpg" width="200"> |
+| 🟡 | H17 alloy hex adaptors | RZ062 (or R11151) | Hexes round out | <img src="src/drivetrain_rlaarlo_hex_adapters_h17_rz062.jpg" width="200"> |
+| 🟡 | Shock absorbers (2-pack) + oil | R11001 | Leak/bend; oil for tuning | |
+| 🟡 | Full bearing kit | ABEC-3 set (eBay) | Dirt and sand kill bearings; keep a reseal set | |
+| 🟢 | Front steering hubs / rear carriers | R11132 / R11133 | Bend in crashes (also an alloy upgrade) | <img src="src/suspension_rlaarlo_front_steering_hubs_r11132.jpg" width="200"> |
+| 🟢 | Servo saver set | R11137 | Protects the steering servo | |
+| 🟢 | Paddle sand tires / body shell | R11152 / R11078 | Beach grip + cosmetic wear | <img src="src/wheels_rlaarlo_paddle_sand_tires_r11152.jpg" width="200"> |
 
 ---
 
@@ -80,9 +82,24 @@ Keeping it mostly stock — only these:
 
 - **Hardened steel pinion** (cheap insurance against the most common strip).
 - **S2 hardened CVDs + S2 diff drive cups** — the one durability swap every owner recommends.
-- **Aluminum hubs / steering:** front steering hubs (R11132), rear hub carriers (R11133), alloy upper steering brace (R11134), alloy gearbox cover (R11164).
+- **Aluminum hubs / steering:** front steering hubs (R11132), rear hub carriers (R11133), alloy upper steering brace (R11134), alloy gearbox cover (R11138).
 - **Shock oil tuning** — dial damping for dirt (analysis later if it's worth a doc).
 - **Wheels/tires:** **paddle sand tires (R11152)** for beach days; a grippier dirt tire for Meldrum.
+
+---
+
+## Option Parts Catalog
+
+Full Rlaarlo option/upgrade sheet (every part number) and the AL alloy modification-kit overview — handy for ordering spares by R-number.
+
+<p align="center">
+  <img src="src/reference_rlaarlo_omniterminator_option_parts_p1.jpg" width="700"><br>
+  <em>Omni-Terminator option parts (R11130–R11158, RZ062, RZ066)</em>
+</p>
+<p align="center">
+  <img src="src/reference_rlaarlo_omniterminator_alloy_mod_kit_p2.jpg" width="700"><br>
+  <em>AL alloy modification kit: reinforced diffs, S2 transmission rods, alloy swing-arm braces, H17 hexes</em>
+</p>
 
 ---
 
