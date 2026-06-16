@@ -74,7 +74,7 @@ Prioritized — 🔴 buy before you run it hard, 🟡 nice to have, 🟢 occasio
 | 🟡 | 🔧 | H17 alloy hex adaptors | RZ062 (or R11151) | Hexes round out | <img src="src/drivetrain_rlaarlo_hex_adapters_h17_rz062.jpg" width="180"> |
 | 🟡 | 🔧 | Shock absorbers (2-pack) + oil | R11001 | Leak/bend; oil for tuning | |
 | 🟡 | 🔧 | Full bearing kit | ABEC-3 set (eBay) | Dirt and sand kill bearings; keep a reseal set | |
-| 🟢 | 🔧 | Servo saver set | R11137 | Protects the steering servo | |
+| 🟢 | 🔧 | Servo saver (alloy upgrade) | R11137 (stock) | Protects the steering servo; alloy version available (fits RZ001 / 1/10 rally) | <img src="src/steering_rlaarlo_aluminum_servo_saver.jpg" width="180"> |
 | 🟢 | 🔧 | Paddle sand tires / body shell | R11152 / R11078 | Beach grip + cosmetic wear | <img src="src/wheels_rlaarlo_paddle_sand_tires_r11152.jpg" width="180"> |
 
 > **Pricing:** AliExpress (where the cheapest of these usually are) blocks automated price-scraping, so live $ figures are TBD. CVD driveshafts also show up on **Amazon / eBay** as "for Rlaarlo Omni-Terminator" parts. Paste an AliExpress listing or a cart total and I'll fill a price column.
