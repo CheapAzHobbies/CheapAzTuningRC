@@ -16,7 +16,7 @@
 - [Maintenance Parts to Keep On Hand](#maintenance-parts-to-keep-on-hand)
 - [Planned Light Upgrades](#planned-light-upgrades)
 - [Option Parts Catalog](#option-parts-catalog)
-- [3D Models (references)](#3d-models-references)
+- [3D Models](#3d-models)
 - [Parts List](#parts-list)
 - [TODO / Notes](#todo--notes)
 - [Sources](#sources)
@@ -78,7 +78,12 @@ Prioritized — 🔴 buy before you run it hard, 🟡 nice to have, 🟢 occasio
 | 🟡 | 🔧 | Full bearing kit | ABEC-3 set (eBay) | Dirt and sand kill bearings; keep a reseal set | |
 | 🟢 | 🔧 | Servo saver (alloy upgrade) | R11137 (stock) | Protects the steering servo; alloy version available (fits RZ001 / 1/10 rally) | <img src="src/steering_rlaarlo_aluminum_servo_saver.jpg" width="180"> |
 
-> **Pricing:** AliExpress (where the cheapest of these usually are) blocks automated price-scraping, so live $ figures are TBD. CVD driveshafts also show up on **Amazon / eBay** as "for Rlaarlo Omni-Terminator" parts. Paste an AliExpress listing or a cart total and I'll fill a price column.
+> **Where to buy / pricing:** I can't scrape live AliExpress prices (login wall), so $ figures are TBD. Sources:
+> - **Official Rlaarlo AliExpress store** — [RLAARLO Original Parts for OMNI-TERMINATOR](https://www.aliexpress.us/item/3256807605383286.html) (genuine parts, most complete single listing — pick the part from the dropdown).
+> - **Third-party "for Rlaarlo" sellers** (AliExpress / Amazon / eBay) — usually cheaper for generic wear parts (CVDs, hexes, bearings, M1 pinion); quality varies.
+> - **Benchmark (FairRC):** S2 diff cup ~**$12.99**, S2 CVD driveshaft ~**$29.99** — use these to judge if an AliExpress price is actually a deal.
+>
+> Paste a listing or cart total and I'll fill in a price column.
 
 > **Center diff vs spool:** **R11139 (65T) is the center _differential_** — the one to keep. **R11144 (60T) / R11154 (33T)** are **solid center gear / drive-shaft (spool)** parts — a locked-center setup with no diff action, *not* a diff wear replacement.
 >
@@ -109,15 +114,25 @@ Full Rlaarlo option/upgrade sheet (every part number) and the AL alloy modificat
 
 ---
 
-## 3D Models (references)
+## 3D Models
 
-> **Third-party paid designs are referenced here, not redistributed.** These are **CULTS "Private Use"** licensed STLs I own — the files are **not committed** to this public repo (that would break the license and undercut the designer). Re-download from your Cults purchase history when you want to print.
+### ⭐ Rear skid plate — simon vezina (chosen, STL included)
 
-| Model | Designer | Source | Photo |
-|---|---|---|---|
-| Rear Chassis Skid Plate / Bottom Cover Upgrade | OG_Cranck | [Cults3D](https://cults3d.com/en/3d-model/game/rear-chassis-skid-plate-protector-for-rlaarlo-omni-terminator-bottom-cover-upgr) | <img src="src/reference_rlaarlo_skid_plate_og_cranck.jpg" width="200"> |
+**Rlaarlo Omni Terminator Skid Plates** by **simon vezina** — covers the underside of the main chassis. Licensed **CC BY-NC 4.0** (free, attribution + non-commercial), so the STL **is included** here: [`3d-models/skid_plate_rear_simon_vezina/`](3d-models/skid_plate_rear_simon_vezina/). I only print the **rear skid** (the set also has full / left / right).
 
-Same designer also has an Omni-Terminator **Differential & Gear Cover** and a **Shock Preload Spacer (10/15mm)** on [their Cults profile](https://cults3d.com/en/users/OG_Cranck/3d-models).
+**Why this over the Cults plate below:**
+- The Cults design has a **flaw** — you screw into a **tiny piece of plastic that shears off**.
+- This one is **easier to print** and just uses **longer bolts (or stock)**.
+
+<p align="center"><img src="src/reference_rlaarlo_skid_plate_simon_vezina.jpg" width="460"></p>
+
+> Source: [Printables](https://www.printables.com/model/1251771-rlaarlo-omni-terminator-skid-plates/files) · License **CC BY-NC 4.0** (credit simon vezina, non-commercial — don't sell prints). See `ATTRIBUTION.txt` in the model folder.
+
+### Reference only (not redistributed)
+
+❌ **Rear Chassis Skid Plate / Bottom Cover** by **OG_Cranck** — a **CULTS "Private Use"** (paid) design, so the STL is **not committed** here (would break the license). Also superseded by simon's design (the tiny-plastic shear-off flaw above). Re-download from your Cults purchases: [Cults3D](https://cults3d.com/en/3d-model/game/rear-chassis-skid-plate-protector-for-rlaarlo-omni-terminator-bottom-cover-upgr). Same designer also has a **Differential & Gear Cover** and a **Shock Preload Spacer** on [their Cults profile](https://cults3d.com/en/users/OG_Cranck/3d-models).
+
+<p align="center"><img src="src/reference_rlaarlo_skid_plate_og_cranck.jpg" width="200"></p>
 
 ---
 

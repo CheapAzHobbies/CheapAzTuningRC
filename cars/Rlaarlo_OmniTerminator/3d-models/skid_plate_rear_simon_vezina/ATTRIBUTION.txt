@@ -1,0 +1,13 @@
+Rlaarlo Omni Terminator Skid Plates - REAR SKID
+================================================
+Designer : simon vezina (@simonvezina_475729)
+Source   : https://www.printables.com/model/1251771-rlaarlo-omni-terminator-skid-plates/files
+License  : Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)
+           https://creativecommons.org/licenses/by-nc/4.0/
+           - Attribution required (credit simon vezina)
+           - NonCommercial use only (do not sell prints/files)
+           - Remix allowed
+
+Included here under CC BY-NC: only the "rear skid" file. The full set
+(full / rear / left / right) is on the Printables page above.
+This repo is a personal, non-commercial build log.
