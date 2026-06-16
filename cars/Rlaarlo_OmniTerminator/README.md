@@ -99,8 +99,8 @@ Keeping it mostly stock — only these:
 Full Rlaarlo option/upgrade sheet (every part number) and the AL alloy modification-kit overview — handy for ordering spares by R-number.
 
 <p align="center">
-  <img src="src/reference_rlaarlo_omniterminator_option_parts_p1.jpg" width="440">&nbsp;<img src="src/reference_rlaarlo_omniterminator_alloy_mod_kit_p2.jpg" width="440"><br>
-  <em>Option parts (R11130–R11158, RZ062, RZ066) · AL alloy modification kit (reinforced diffs, S2 transmission rods, alloy swing-arm braces, H17 hexes)</em>
+  <img src="src/reference_rlaarlo_omniterminator_alloy_mod_kit_p2.jpg" width="440">&nbsp;<img src="src/reference_rlaarlo_omniterminator_option_parts_p1.jpg" width="440"><br>
+  <em>AL alloy modification kit (reinforced diffs, S2 transmission rods, alloy swing-arm braces, H17 hexes) · Option parts (R11130–R11158, RZ062, RZ066)</em>
 </p>
 
 ---
