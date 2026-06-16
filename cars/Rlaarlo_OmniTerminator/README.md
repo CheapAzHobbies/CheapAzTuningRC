@@ -71,8 +71,7 @@ Prioritized — 🔴 buy before you run it hard, 🟡 nice to have, 🟢 occasio
 | 🔴 | 👥 | S2 diff drive cups | R11145 (also R11146/47/48) | Cups round out where the bone seats | <img src="src/drivetrain_rlaarlo_diff_drive_cups_r11145.jpg" width="180"> |
 | 🔴 | 👥 | Hardened M1 pinion | R11155 (24T) / R11156 (26T) / R11157 (28T) — **or any generic M1** | Stock pinion strips; hardened lasts far longer. **M1 is a standard module**, so a generic hardened M1 pinion (e.g. **Surpass Hobby**) is way cheaper than the Rlaarlo-branded one | <img src="src/drivetrain_rlaarlo_pinion_24t_r11155.jpg" width="180"> |
 | 🔴 | 👥 | Steering knuckles / hubs (alloy) | R11132 (front) / R11133 (rear) | **Stock plastic knuckles break** — alloy is a real fix, not cosmetic | <img src="src/suspension_rlaarlo_front_steering_hubs_r11132.jpg" width="180"> |
-| 🟡 | 🔧 | 65T central differential | R11139 | In the driveline (34T diff = R11140); upgrade exists, not a loud complaint | <img src="src/drivetrain_rlaarlo_center_diff_65t_r11139.jpg" width="180"> |
-| 🟡 | 🔧 | 33T M1 center drive gear | R11154 (60T shaft = R11144) | Center driveline wear | <img src="src/drivetrain_rlaarlo_center_gear_33t_r11154.jpg" width="180"> |
+| 🟢 | 🔧 | 65T central differential | R11139 (34T diff = R11140) | **Not a common break, just wears over time.** Skip the alloy diff (not worth it) — if it wears, replacing the cheaper **housing** beats buying a whole diff | <img src="src/drivetrain_rlaarlo_center_diff_65t_r11139.jpg" width="180"> |
 | 🟡 | 🔧 | Suspension arms (upper, S2) | R11130 (front) / R11131 (rear) | Carbon CF plates hint arms can break, but not a common report | |
 | 🟡 | 🔧 | H17 alloy hex adaptors | RZ062 (or R11151) | Hexes round out | <img src="src/drivetrain_rlaarlo_hex_adapters_h17_rz062.jpg" width="180"> |
 | 🟡 | 🔧 | Shock absorbers (2-pack) + oil | R11001 | Leak/bend; oil for tuning | |
@@ -80,6 +79,10 @@ Prioritized — 🔴 buy before you run it hard, 🟡 nice to have, 🟢 occasio
 | 🟢 | 🔧 | Servo saver (alloy upgrade) | R11137 (stock) | Protects the steering servo; alloy version available (fits RZ001 / 1/10 rally) | <img src="src/steering_rlaarlo_aluminum_servo_saver.jpg" width="180"> |
 
 > **Pricing:** AliExpress (where the cheapest of these usually are) blocks automated price-scraping, so live $ figures are TBD. CVD driveshafts also show up on **Amazon / eBay** as "for Rlaarlo Omni-Terminator" parts. Paste an AliExpress listing or a cart total and I'll fill a price column.
+
+> **Center diff vs spool:** **R11139 (65T) is the center _differential_** — the one to keep. **R11144 (60T) / R11154 (33T)** are **solid center gear / drive-shaft (spool)** parts — a locked-center setup with no diff action, *not* a diff wear replacement.
+>
+> **Buying just the housing:** **yes** — the diff **housing, drive cups, and gear set are sold individually** (Rlaarlo direct, FairRC, SeriousRC), so a worn diff usually only needs the cheap housing, not a whole new diff.
 
 ---
 
