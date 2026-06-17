@@ -56,7 +56,7 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 ### Arms
 
 - **Front: stock Traxxas arms** (kept). The RPM front A-arms flex too much, and that flex breaks the CVDs, so the stiffer stock arms stay up front.
-- **Rear: RPM 80562 True Track Rear A-Arm Conversion** (black) — **in hand** ($32.95, PowerHobby). Deletes the rear toe links, locks rear toe at **1.5°/side (3° total)**, kills bump steer, ~32 g lighter; lower pillow ball becomes a 4 mm hinge pin (upper stays a ball for camber). Installs with the Traxxas 3932 flat-head screws (3×6 mm).
+- **Rear: RPM 80562 True Track Rear A-Arm Conversion** (black) — **in hand** ($32.95, PowerHobby). Deletes the rear toe links, locks rear toe at **1.5°/side (3° total)**, kills bump steer, ~32 g lighter; lower pillow ball becomes a 4 mm hinge pin (upper stays a ball for camber). Installs with the Traxxas 3932 flat-head screws (3×6 mm). Downside: gives up the adjustable rear wheelbase (the TRA5333R extended arms add +10/+19 mm) for a fixed, slightly shorter one.
 - Full front-vs-rear reasoning in [`arm_analysis.md`](arm_analysis.md).
 
 ### Tie Rods / Push Rods
