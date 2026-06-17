@@ -30,6 +30,7 @@
 | **Pillow balls that don't pull through** | Must | Stock carriers split and let the pillow balls tear out under impact |
 | **Fits stock axles (no axle change)** | Must | Bearing bores must stay 6 mm and 12 mm so the stock stub axles still fit |
 | **Holds up on dirt + occasional beach** | Must | Grit and corrosion are constant; press-fit bearings reduce slop/wear |
+| **Keep it light** | May | Race build, so lighter axles/hubs are preferred for less rotating + unsprung mass |
 
 ---
 
@@ -69,7 +70,7 @@ RPM's claims for the bigger bearings vs stock:
 
 - The 2.0's **17×26×5 inner** bearing and **8 mm** axle dwarf even the RPM oversized setup, that's why the 2.0 driveline takes more abuse.
 - **It's a full conversion, not a bearing swap.** Running 2.0 hubs on a 1.0 means changing the carriers, stub axles, CVDs, drive cups, 17 mm hexes, and wheels. A whole driveline, not a hop-up.
-- **Verdict for the 1.0:** the RPM oversized bearings are the sensible upgrade. The 2.0 driveline is only worth it if you want the absolute biggest setup and are ready to swap the whole corner.
+- **Verdict for this race build:** no. The 2.0's bigger axles/cups are **heavier rotating and unsprung mass**, and a **race build wants lighter axles**. So the bigger driveline works against you here. The RPM oversized bearings on the lighter 1.0 driveline are the right call.
 
 ---
 
