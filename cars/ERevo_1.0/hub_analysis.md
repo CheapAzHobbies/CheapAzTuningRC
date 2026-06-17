@@ -14,6 +14,7 @@
 - [Key Requirements](#key-requirements)
 - [Bearing Size Comparison](#bearing-size-comparison) — stock vs RPM oversized, the whole point
 - [Carrier Comparison](#carrier-comparison) — RPM vs stock
+- [Carrier Service Parts](#carrier-service-parts) — RPM 80010 setscrews / bushing caps for rebuilds
 - [Rear Hub: Pin vs Pillow Ball](#rear-hub-pin-vs-pillow-ball)
 - [Notes](#notes)
 
@@ -60,6 +61,16 @@ RPM's claims for the bigger bearings vs stock:
 | ⭐ **RPM 80582 steering blocks / axle carriers** (black) — *front, in hand* | Bearings: **oversized** 6×15×5 outer / 12×21×5 inner (included)<br><br>Walls: **+40%** thickness around pillow balls<br><br>Pillow-ball support: **+20% material** (no pull-through)<br><br>Set screws: **two-piece aluminum + Delrin**<br><br>Warranty: **lifetime** against breakage<br><br>Fits: Revo / E-Revo / T-Maxx 2.5R/3.3 / E-Maxx / Slayer<br><br>Price: **$23.75** (PowerHobby) | Pro: **Oversized bearings** (double load rating) in a **much stronger carrier** that stops the pillow balls tearing out. Normally does **both ends**; here it runs the **front**. Press-fit seats reduce slop<br><br>Con: Replacement bearings are **non-stock oversized sizes** (plan ahead); composite, not alloy | <a href="https://www.powerhobby.com/products/rpm-80582-axle-carriers-steering-blocks-revo-t-maxx-2-5r-3-3-e-maxx-16-8-slayer"><img src="src/steering_rpm_axle_carriers_steering_blocks_80582.jpg" width="500"></a> |
 | ⭐ **RPM True Track rear axle carriers** (in the 80562 kit) — *rear, in hand* | Bearings: **same oversized** 6×15×5 / 12×21×5 (included)<br><br>Lower mount: **4 mm hinge pin** (not a pillow ball)<br><br>Bundled with the rear A-arms (no separate purchase)<br><br>Warranty: **lifetime** against breakage | Pro: **Comes as part of the True Track deal** (cheaper than buying rear carriers alone), same oversized bearings, and the pin locks rear toe. "Beefy" rear carriers<br><br>Con: Only fits the True Track pin geometry; rear toe becomes fixed (see [`arm_analysis.md`](arm_analysis.md)) | <a href="https://www.powerhobby.com/products/rpm-80562-true-track-rear-a-arm-conversion-kit-black-traxxas-revo"><img src="src/suspension_rpm_truetrack_rear_arm_80562.jpg" width="500"></a> |
 | 🚫 ~~**Stock Traxxas carriers** (TRA5334)~~ | Bearings: **stock** 6×12×4 outer / 12×18×4 inner<br><br>Walls: thinner; pillow balls can pull through<br><br>Price: OEM | Pro: Cheap, uses common stock-size bearings<br><br>Con: **Walls split and pillow balls pull through** under impact; **smaller bearings fail faster** on a heavy truck | <img src="src/steering_traxxas_carriers_stock_tra5334.jpg" width="500"> |
+
+---
+
+## Carrier Service Parts
+
+> **RPM 80010 Pillow Ball Set Screws & Bushing Caps** — a **service/consumable item**, not pillow balls. Keep a pack on the shelf for the next carrier rebuild. The setscrew + Delrin cap are what **capture the pillow ball inside the carrier**; when they wear you replace just these instead of buying whole new pillow balls (roughly half the cost). The Delrin caps also have **~2× the contact area** on the ball, which helps the **pop-out** problem.
+
+| Part | Spec | Notes | Photo / Link |
+|---|---|---|---|
+| **RPM 80010** Pillow Ball Set Screws & Bushing Caps | Per pack: **4 aluminum setscrews, 4 Delrin bushing caps, 2 axle spacers** (= 2 carriers; buy **2 packs** for all four corners)<br><br>Price: **$6.99** | Fits **stock Traxxas axle carriers** and **RPM oversized-bearing carriers** (so the 80582 front and True Track rear). Direct service replacement for worn setscrews / caps | <a href="https://www.amainhobbies.com/"><img src="src/steering_rpm_pillowball_setscrews_caps_80010.jpg" width="500"></a> |
 
 ---
 

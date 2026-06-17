@@ -64,6 +64,22 @@
 | ❌ ~~**Traxxas 4933X aluminum pivot balls (4)**~~ — *lighter only* | Material: **7075-T6 aluminum**, PTFE-coated<br><br>Saves **~19 g** per 4-pack<br><br>Price: **$20.00** (out of stock) | Pro: -19 g, PTFE coating pivots smoother<br><br>Con: **Aluminum gets shaved down fast** once the **boots rip** and grit gets in (they always do). Not worth it on a basher; 3× the price and out of stock | <a href="https://traxxas.com/products/parts/4933X"><img src="src/suspension_traxxas_pivot_balls_alum_4933x.jpg" width="500"></a> |
 | 🚫 ~~**GPM SERV007 steel pillow balls (8)**~~ — *wrong scale* | For the **1:16 Mini E-Revo** only (silver or black)<br><br>Price: $19.90 | Pro: Steel, 8-piece set<br><br>Con: **Does not fit the 1/10 E-Revo 1.0** — it's the Mini (1:16) part. The full-size GPM equivalent is **ER007S** (the Steel #45 row above), not SERV007 | <img src="src/suspension_gpm_pillow_balls_mini_serv007.jpg" width="500"> |
 
+### Flanged pillow ball alternative? (researched, none fit)
+
+Looked for a **flanged / shouldered pillow ball** that stops on a face at a fixed depth instead of threading in by feel. **Nothing off the shelf fits the Revo:**
+
+| Option | Thread × Ball | Why it doesn't fit |
+|---|---|---|
+| **Traxxas 4933** (this truck) | ~**M5** × ~**11 mm** | Reference. Figures are a user measurement, **not** an official spec |
+| Samix flanged (e.g. SAMBFS-58) | — × **5.8 mm** | Crawler/buggy size, far too small |
+| Mugen flanged (MUGC0107D) | — × **7 mm** | 1/8-buggy size, too small for the Revo bushing cap |
+| Arrma Kraton/Outcast **8S** (ARA330629) | **M4** × **11 mm** | **Ball matches** the Revo, but thread is **M4, not M5**, so it won't thread in |
+| Arrma **6S** EXB (ARA330657) | **M6** × **14 mm** | Both too big |
+
+- **Verdict:** no drop-in flanged ball in the Revo's size. The Arrma 8S ball is the only one with a matching 11 mm ball, but the M4 thread rules it out unless your ball is actually M4. **Measure your pivot ball's thread + diameter** before chasing any of these.
+- **If you want fixed depth anyway:** set the stock 4933 ball to depth and **threadlock it**, or shim under the head for a repeatable stop.
+- **Servicing the captured ball** (setscrew + Delrin cap) uses **RPM 80010**, see [`hub_analysis.md` → Carrier Service Parts](hub_analysis.md#carrier-service-parts).
+
 ---
 
 ## Notes
