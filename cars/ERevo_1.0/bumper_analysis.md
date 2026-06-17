@@ -38,7 +38,7 @@
 
 ## Rear Bumper
 
-> 🚫 **No rear bumper.** It protects nothing useful on this truck, and there's already a **metal bulkhead in the back** doing the real protecting. Skipping it saves weight and a part to break. The only bumper worth running here is the front one, and that's mostly for looks.
+> 🚫 **No rear bumper.** It protects nothing useful on this truck, and there's already a **metal bulkhead in the back** taking the hits. Skipping it saves weight and a part to break. The only bumper worth running here is the front one, and that's mostly for looks.
 
 ---
 
@@ -46,6 +46,6 @@
 
 - **Front bumper is mostly aesthetic.** On these trucks the front bumper takes a lot of abuse but **rarely actually breaks** — owners mostly swap it to make the truck look fresh (clean it up for photos). So the priority is light + good-looking, not bombproof.
 - **Why nylon over metal.** The metal bumper that came with the car **bent on the first impact** and stayed bent, plus it hung weight off the nose. Nylon flexes and springs back, weighs less, and is cheaper to replace.
-- **It helps the truck cartwheel.** A light, rounded front bumper lets the truck **tumble/cartwheel** over an impact instead of catching and tweaking suspension parts. That's a real handling reason on top of the looks.
+- **It helps the truck cartwheel.** A light, rounded front bumper lets the truck **tumble/cartwheel** over an impact instead of catching and tweaking suspension parts. So it's not purely cosmetic.
 - **Cheap-piece strategy.** Running the **RPM 80802 mount** under the nylon bar means the part most likely to tweak (the mount) is a **$5 standalone replacement**, not a $10 full set.
 - **Rear: skip it.** No rear bumper, by design. The rear metal bulkhead already protects the back end.

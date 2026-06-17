@@ -1,6 +1,6 @@
 # Axle Carrier / Hub Selection — E-Revo 1.0
 
-> **Chosen: RPM oversized-bearing carriers at both ends.** The **front steering blocks** are the **RPM 80582** set ($23.75, in hand); the **rear axle carriers come bundled in the [RPM 80562 True Track kit](arm_analysis.md)** (cheaper than buying rear carriers separately), and both ends run the **same oversized bearings**. The composite is stronger than stock (**40% thicker** pillow-ball walls, **20% more material** so the balls don't pull through), but the real win is the oversized bearings: **~2 mm more axle contact, ~33% bigger balls, ~2× load rating**. That matters because the **Revo is heavy yet runs the same small stock bearings as the much lighter [Jato 4x4](../FastAzJato4x4/README.md)**, which is why I exploded bearings for years. RPM molded parts carry a **lifetime breakage warranty**.
+> **Chosen: RPM oversized-bearing carriers at both ends.** The **front steering blocks** are the **RPM 80582** set ($23.75, in hand); the **rear axle carriers come bundled in the [RPM 80562 True Track kit](arm_analysis.md)** (cheaper than buying rear carriers separately), and both ends run the **same oversized bearings**. The composite is stronger than stock (**40% thicker** pillow-ball walls, **20% more material** so the balls don't pull through), but the bearings are what I'm after: **~2 mm more axle contact, ~33% bigger balls, ~2× load rating**. The **Revo is heavy yet runs the same small stock bearings as the much lighter [Jato 4x4](../FastAzJato4x4/README.md)**, so I exploded bearings for years. RPM molded parts carry a **lifetime breakage warranty**.
 
 <p align="center">
   <img src="src/steering_rpm_axle_carriers_steering_blocks_80582.jpg" width="500">&nbsp;<img src="src/suspension_rpm_truetrack_rear_arm_80562.jpg" width="500"><br>
@@ -77,7 +77,7 @@ So on the rear corners, the bottom of the hub runs a **pin**, not a pillow ball.
 
 ## Notes
 
-- **Why this is really a bearing upgrade.** The strong carrier is nice, but the reason to buy it is the **oversized bearings**: stock wheel bearings on a heavy E-Revo wear out and develop play fast. Doubling the load rating and adding axle contact is the real durability gain.
+- **This is a bearing upgrade first.** The stronger carrier is a bonus; I buy it for the **oversized bearings**. Stock wheel bearings on a heavy E-Revo wear out and get play fast, so doubling the load rating and adding axle contact is where the durability comes from.
 - **IDs are unchanged.** Both oversized bearings keep the **stock 6 mm / 12 mm bores**, so the **stock stub axles fit** with no other changes. Only the carrier pockets are bigger.
 - **Stock replacement sizes (for reference):** outer **6×12×4 mm** = TRA5117, inner **12×18×4 mm** = TRA5120. Do not order these for the RPM carriers, they are too small.
 - **Pillow-ball pull-through was the stock failure.** The stock carriers split and let the pillow balls tear out; RPM's +40% walls / +20% material fix exactly that.
