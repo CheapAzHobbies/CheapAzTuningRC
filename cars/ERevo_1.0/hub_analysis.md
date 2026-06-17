@@ -82,7 +82,7 @@ RPM's claims for the bigger bearings vs stock:
 
 - Pull the wheel, then the **stub axle and bearings come out the wheel (outboard) side**.
 - The **CVD / driveshaft pops out of the diff cup at the center** — that's the disconnect point, so the carrier never has to come off the arms.
-- **Leave the pillow balls in place.** They're held with **super glue** (threadlock doesn't bite well on a plastic-to-metal thread), so don't break them loose for routine service. Only undo them to swap a whole carrier or arm.
+- **Pillow balls can stay put.** They're held with **super glue** (threadlock doesn't bite well on a plastic-to-metal thread). You don't need to disturb them for routine service, but you **can break them loose if you want, just reapply glue** when you reinstall.
 - When the **setscrew or bushing cap** finally wears, replace those with **RPM 80010** (above), not the whole pillow ball.
 
 ---
