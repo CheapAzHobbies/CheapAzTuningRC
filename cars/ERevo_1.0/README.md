@@ -119,7 +119,9 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 
 ## Bumpers
 
-- **RPM 80802 Front Bumper Mount** (black, Revo / E-Revo) — **in hand** ($5.39, PowerHobby). **Never cracks** unlike the stock bumper. The catch with the OEM one: when it cracks you have to buy the **whole bumper set (~$10)**, not just the ~$5 piece that broke, so the RPM is both tougher and cheaper to live with.
+- **Front:** **Traxxas 5335 nylon front bumper + mount** ($10 set) on the **RPM 80802 mount** ($5.39, in hand). The nylon bar is light, flexes instead of bending, looks good, and helps the truck cartwheel; the tougher RPM mount underneath means a tweaked mount is a ~$5 swap, not a whole $10 set. Replaced the junk stock blue metal bumper that bent on the first hit.
+- **Rear:** **none** by design. A rear bumper protects nothing here and there's already a metal bulkhead in back.
+- Full writeup in [`bumper_analysis.md`](bumper_analysis.md).
 
 ---
 
