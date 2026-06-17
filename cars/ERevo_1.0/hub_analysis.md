@@ -72,7 +72,7 @@ RPM's claims for the bigger bearings vs stock:
 
 | Part | Spec | Notes | Photo / Link |
 |---|---|---|---|
-| **RPM 80010** Pillow Ball Set Screws & Bushing Caps | Per pack: **4 aluminum setscrews, 4 Delrin bushing caps, 2 axle spacers** (= 2 carriers; buy **2 packs** for all four corners)<br><br>Price: **$6.99** | Fits **stock Traxxas axle carriers** and **RPM oversized-bearing carriers** (so the 80582 front and True Track rear). Direct service replacement for worn setscrews / caps | <a href="https://www.amainhobbies.com/"><img src="src/steering_rpm_pillowball_setscrews_caps_80010.jpg" width="500"></a> |
+| **RPM 80010** Pillow Ball Set Screws & Bushing Caps | Per pack: **4 aluminum setscrews, 4 Delrin bushing caps, 2 axle spacers** (= 2 carriers; buy **2 packs** for all four corners)<br><br>Price: **$6.99** | Fits **stock Traxxas axle carriers** and **RPM oversized-bearing carriers** — the **80582 front** (both pillow balls) and the **True Track rear** (its **upper** pillow ball only; the lower mount is a 4 mm pin, no cap). **Not confirmed** for the Enron alloy carriers (see that candidate row). Direct service replacement for worn setscrews / caps | <a href="https://www.amainhobbies.com/"><img src="src/steering_rpm_pillowball_setscrews_caps_80010.jpg" width="500"></a> |
 
 ---
 
