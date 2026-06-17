@@ -13,6 +13,7 @@
 
 - [Key Requirements](#key-requirements)
 - [Bearing Size Comparison](#bearing-size-comparison) — stock vs RPM oversized, the whole point
+- [E-Revo 2.0: Even Bigger](#e-revo-20-even-bigger-reference) — the next size up, but a different platform
 - [Carrier Comparison](#carrier-comparison) — RPM vs stock
 - [Carrier Service Parts](#carrier-service-parts) — RPM 80010 setscrews / bushing caps for rebuilds
 - [Servicing the Hubs](#servicing-the-hubs) — disassemble from the center, leave the pillow balls glued
@@ -50,6 +51,25 @@ RPM's claims for the bigger bearings vs stock:
 - **~2× the load rating** and **~3× the fatigue rating** of the stock bearings.
 
 > **Replacement note:** the oversized sizes (6×15×5 and 12×21×5) are **not** the stock Traxxas sizes, so order those exact dimensions, not the stock TRA5117 / TRA5120. Buy them **in bulk off AliExpress** (way cheaper than FastEddy / BocaBearings), though you won't go through many, these bearings are **so large they rarely break or wear**. The carrier kit ships with one set installed.
+
+---
+
+## E-Revo 2.0: Even Bigger (reference)
+
+> The E-Revo **2.0** is the next size up, but it gets there with a **different, bigger driveline** (8 mm axles, 17 mm hex, splined CVDs, bigger cups), so it's a **separate platform, not a bolt-on** for the 1.0.
+
+| Spec | Stock 1.0 | RPM oversized 1.0 | **E-Revo 2.0** |
+|---|---|---|---|
+| **Outer** (wheel) bearing | 6×12×4 | 6×15×5 | **8×16×5** |
+| **Inner** bearing | 12×18×4 | 12×21×5 | **17×26×5** |
+| Stub axle | 6 mm | 6 mm | **8 mm** |
+| Wheel hex | 14 mm | 14 mm | **17 mm** |
+| Driveshaft | dogbone / CVD | (same) | **splined CVD** |
+| Drive cup | 5153R | 5153R | **bigger steel (8652)** |
+
+- The 2.0's **17×26×5 inner** bearing and **8 mm** axle dwarf even the RPM oversized setup, that's why the 2.0 driveline takes more abuse.
+- **It's a full conversion, not a bearing swap.** Running 2.0 hubs on a 1.0 means changing the carriers, stub axles, CVDs, drive cups, 17 mm hexes, and wheels. A whole driveline, not a hop-up.
+- **Verdict for the 1.0:** the RPM oversized bearings are the sensible upgrade. The 2.0 driveline is only worth it if you want the absolute biggest setup and are ready to swap the whole corner.
 
 ---
 
