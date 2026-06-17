@@ -71,6 +71,7 @@ RPM's claims for the bigger bearings vs stock:
 - The 2.0's **17×26×5 inner** bearing and **8 mm** axle dwarf even the RPM oversized setup, that's why the 2.0 driveline takes more abuse.
 - **It's a full conversion, not a bearing swap.** Running 2.0 hubs on a 1.0 means changing the carriers, stub axles, CVDs, drive cups, 17 mm hexes, and wheels. A whole driveline, not a hop-up.
 - **The 2.0 axles are unusually large.** The 2.0 runs **massive 5-6 mm CVD shafts**, bigger than the **4 mm** shafts even expensive 1/8 buggies use. That's a lot of strength, but also a lot of **rotating weight**, exactly what a race build doesn't want.
+- **And they don't last longer.** The 2.0 axles break at about the **same time** as the 1.0's, because they mainly fail at the **ball ends**, not the shaft. So the bigger, heavier shaft adds strength where it doesn't break, no durability win for the weight.
 - **Verdict for this race build:** no. The 2.0's bigger axles/cups are **heavier rotating and unsprung mass**, and a **race build wants lighter axles**. So the bigger driveline works against you here. The RPM oversized bearings on the lighter 1.0 driveline are the right call.
 
 ---
