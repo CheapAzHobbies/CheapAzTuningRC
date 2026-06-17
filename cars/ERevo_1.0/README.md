@@ -56,6 +56,7 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 ### Rear Arms
 
 - Traxxas TRA5328 / TRA5327 adjustable rear arms — 10–19 setting range
+- **RPM 80562 True Track Rear A-Arm Conversion Kit** (black) — corrects rear toe/geometry vs the stock arms; **in hand** ($32.95, PowerHobby). Installs with the Traxxas 3932 flat-head screws (3×6 mm) from the same order.
 
 ### Tie Rods / Push Rods
 
@@ -81,6 +82,10 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 
 - Traxxas TRA3958 — 58T
 
+### Drive Cups
+
+- **Traxxas 5153R Inner Drive Cups (2)** — **×2 packs (4 cups), in hand** ($16, PowerHobby). The diff-side cups the driveshafts/CVDs seat into; common wear/break point, good to have spares.
+
 ---
 
 ## Electronics
@@ -97,7 +102,7 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 
 ## Steering
 
-TBD
+- **RPM 80582 Axle Carriers / Steering Blocks** (black) — heavy-duty front steering blocks + rear axle carriers (Revo / T-Maxx 2.5R/3.3 / E-Maxx / Slayer); **in hand** ($23.75, PowerHobby). Tougher than the stock blocks.
 
 ---
 
@@ -105,11 +110,13 @@ TBD
 
 **Wing:** Generic AliExpress 1/8 Buggy Tail Wing — $2.50–$4, fits perfectly. Nylon, lighter than OEM. Grid pattern on underside for marking drill holes; use a reamer for clean cuts. **Same wing as [FastAzJato4x4](../FastAzJato4x4/aero_analysis.md)** — see that doc for the full write-up.
 
+**Body posts:** **Traxxas 8614 clipless body posts, front & rear** (E-Revo VXL BL) — **in hand** ($5, PowerHobby).
+
 ---
 
 ## Bumpers
 
-TBD
+- **RPM 80802 Front Bumper Mount** (black, Revo / E-Revo) — **in hand** ($5.39, PowerHobby). Mount for the front bumper/skid.
 
 ---
 
@@ -120,6 +127,14 @@ TBD
 | — | Traxxas E-Revo 1.0 | Base Car | — | — | — |
 | — | Castle Creations 1515 2200KV Motor | Electronics | — | — | — |
 | 5358 | Enron aluminum rockers, Progressive 2 (silver 4P) | Suspension | $14.31 | AliExpress (NEW ENRON) | [rocker_analysis.md](rocker_analysis.md) |
+| RPM 80562 | True Track rear A-arm conversion kit (black) | Suspension | $32.95 | PowerHobby | <img src="src/suspension_rpm_truetrack_rear_arm_80562.jpg" width="150"> |
+| RPM 80582 | Axle carriers / steering blocks (black) | Steering | $23.75 | PowerHobby | <img src="src/steering_rpm_axle_carriers_steering_blocks_80582.jpg" width="150"> |
+| 5153R | Traxxas inner drive cups (2) — ×2 packs | Drivetrain | $16.00 | PowerHobby | <img src="src/drivetrain_traxxas_inner_drive_cups_5153r.jpg" width="150"> |
+| RPM 80802 | Front bumper mount (black) | Bumpers | $5.39 | PowerHobby | <img src="src/bumper_rpm_front_bumper_mount_80802.jpg" width="150"> |
+| 8614 | Traxxas clipless body posts (front & rear) | Body | $5.00 | PowerHobby | <img src="src/body_traxxas_clipless_body_posts_8614.jpg" width="150"> |
+| 3932 | Traxxas flat-head screws 3×6 mm (6) | Hardware | $2.50 | PowerHobby | <img src="src/hardware_traxxas_flathead_screws_3932.jpg" width="150"> |
+
+> **PowerHobby order** (7 items, subtotal **$85.59**, code **WELCOME10** −$10.00 → **$75.59**).
 
 ---
 
