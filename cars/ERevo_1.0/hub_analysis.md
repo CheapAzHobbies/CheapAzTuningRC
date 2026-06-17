@@ -103,4 +103,4 @@ So on the rear corners, the bottom of the hub runs a **pin**, not a pillow ball.
 
 - **Decision: RPM plastic.** Lighter (less unsprung weight) with a bit of give that protects other parts, worth the marginally lower stiffness. Enron metal is the runner-up; either lasts the life of the car.
 - **Stock axles still fit.** The oversized bearings keep the stock 6 / 12 mm bores; only the carrier pockets are bigger.
-- **Don't order stock bearing sizes** (TRA5117 6×12×4 / TRA5120 12×18×4), they're too small for these carriers.
+- **Don't order stock bearing sizes** (TRA5117 6×12×4 / TRA5120 12×18×4) for these carriers, they're too small. Those still get stocked for the [Jato 4x4](../FastAzJato4x4/README.md), which runs them.
