@@ -16,6 +16,7 @@
 - [Linkage — Shimming & Rod Ends](#linkage--shimming--rod-ends)
 - [Mounting (3D-printed)](#mounting-3d-printed) — my Thingiverse shock-to-chassis adapters
 - [Assembly](#assembly-hbhpi-big-bore--revo-gen-1) — building the HB/HPI shocks onto the Revo Gen 1
+- [Droop / Travel Limiting](#droop--travel-limiting) — internal spacer vs the dropped limit straps + brace
 - [Notes](#notes)
 
 ---
@@ -127,9 +128,22 @@ Steps to set the HPI / Hot Bodies shocks up front and rear with these mounts:
 
 ---
 
+## Droop / Travel Limiting
+
+> **Chosen: limit droop with a proper internal spacer inside the shock.** This caps down-travel from the inside, so there's nothing hanging off the outside to add weight or tear away. The external limit-strap route (plus the brace to mount it) was bought first, then dropped.
+
+| Approach | Spec | Pros / Cons | Photo / Link |
+|---|---|---|---|
+| ⭐ **Internal shock spacer** — *chosen* | Spacer added inside the shock to cap shaft extension | Pro: Limits droop **with no external parts**, no added weight, nothing to snap off in a crash. Tunable by spacer thickness<br><br>Con: Have to open the shock to change it | (internal, no photo) |
+| ❌ ~~**Hot Racing limit straps**~~ — *bought first, not used* | Lengths: **85 mm (SLS85T1801)** and **90 mm (SLS90T1111)**, both fit E-Revo **1.0 & 2.0**<br><br>2-ply nylon strap, CNC aluminum clevis ends<br><br>~$7–13/pair | Pro: External, easy to fit; stops the rod ends pulling off at full droop<br><br>Con: **Added weight** and the **straps snap/tear off after abuse**. The internal spacer does the same job cleaner. QC on length can vary pair to pair | <img src="src/suspension_hotracing_limit_straps_90mm_sls90t1111.jpg" width="250"> <img src="src/suspension_hotracing_limit_straps_85mm_sls85t1801.jpg" width="250"><br><em>90 mm SLS90T1111 · 85 mm SLS85T1801</em> |
+| ❌ ~~**Traxxas 5632 rear chassis brace**~~ — *bought only to mount the straps, not used* | Aluminum (blue), 129 mm; incl. 2× 3×35 + 1× 4×14 screws<br><br>$12.75 | Pro: Stiffens the rear; the mounting point for the rear straps<br><br>Con: Only bought to hang the limit straps. With the straps gone and a **metal rear bulkhead** already stiffening the back, it adds **needless weight** for no benefit | <img src="src/chassis_traxxas_rear_chassis_brace_5632.jpg" width="250"> |
+
+Both the limit straps (85 mm / 90 mm) fit the E-Revo 1.0 and 2.0, so they're kept on the shelf, but the **internal spacer** is the actual solution on this truck.
+
+---
+
 ## Notes
 
 - **D8 = Apache C1.** The metal Hot Bodies D8 (HBS67296) and the plastic HPI Apache C1 are the same shock; the Wltoys A929 is a budget knock-off of the C1. Bodies and most internals interchange — see the [FastAzJato4x4 shock analysis](../FastAzJato4x4/shock_analysis.md) for the full big-bore parts breakdown (spare bodies, maintenance sets, spring charts).
 - **Plastic, same as the Jato.** Both this build and the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md) run the **plastic Apache C1 for weight** — here it works because the **inboard shocks are shielded from crash abuse**. The metal D8 is the runner-up if a plastic body ever fails.
 - **Rebuild on condition, not schedule** — service a shock only when it leaks or breaks.
-- **Droop limited internally, no straps or brace.** Originally bought the **Traxxas 5632 aluminum rear chassis brace** ($12.75) to mount **Hot Racing limit straps** (**SLS90T1111**, 90 mm, E-Revo rear) and cap rear droop. Switched to limiting droop with a **proper internal spacer inside the shock** instead, which dropped both the brace and the straps. No added weight, and no straps to snap off after abuse. The **rear metal bulkhead** already stiffens the back, so the brace isn't needed for rigidity either. Both the 5632 brace and the limit straps are **not used**.
