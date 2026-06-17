@@ -15,6 +15,7 @@
 - [Bearing Size Comparison](#bearing-size-comparison) — stock vs RPM oversized, the whole point
 - [Carrier Comparison](#carrier-comparison) — RPM vs stock
 - [Carrier Service Parts](#carrier-service-parts) — RPM 80010 setscrews / bushing caps for rebuilds
+- [Servicing the Hubs](#servicing-the-hubs) — disassemble from the center, leave the pillow balls glued
 - [Rear Hub: Pin vs Pillow Ball](#rear-hub-pin-vs-pillow-ball)
 - [Notes](#notes)
 
@@ -71,6 +72,17 @@ RPM's claims for the bigger bearings vs stock:
 | Part | Spec | Notes | Photo / Link |
 |---|---|---|---|
 | **RPM 80010** Pillow Ball Set Screws & Bushing Caps | Per pack: **4 aluminum setscrews, 4 Delrin bushing caps, 2 axle spacers** (= 2 carriers; buy **2 packs** for all four corners)<br><br>Price: **$6.99** | Fits **stock Traxxas axle carriers** and **RPM oversized-bearing carriers** (so the 80582 front and True Track rear). Direct service replacement for worn setscrews / caps | <a href="https://www.amainhobbies.com/"><img src="src/steering_rpm_pillowball_setscrews_caps_80010.jpg" width="500"></a> |
+
+---
+
+## Servicing the Hubs
+
+> **Service from the center, not the pillow balls.** For bearings and stub axles you don't disturb the pillow balls at all, which is what keeps them from wearing out.
+
+- Pull the wheel, then the **stub axle and bearings come out the wheel (outboard) side**.
+- The **CVD / driveshaft pops out of the diff cup at the center** — that's the disconnect point, so the carrier never has to come off the arms.
+- **Leave the pillow balls in place.** They're held with **super glue** (threadlock doesn't bite well on a plastic-to-metal thread), so don't break them loose for routine service. Only undo them to swap a whole carrier or arm.
+- When the **setscrew or bushing cap** finally wears, replace those with **RPM 80010** (above), not the whole pillow ball.
 
 ---
 

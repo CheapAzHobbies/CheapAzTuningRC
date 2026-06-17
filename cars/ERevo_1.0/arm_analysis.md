@@ -77,7 +77,7 @@ Looked for a **flanged / shouldered pillow ball** that stops on a face at a fixe
 | Arrma **6S** EXB (ARA330657) | **M6** × **14 mm** | Both too big |
 
 - **Verdict:** no drop-in flanged ball in the Revo's size. The Arrma 8S ball is the only one with a matching 11 mm ball, but the M4 thread rules it out unless your ball is actually M4. **Measure your pivot ball's thread + diameter** before chasing any of these.
-- **If you want fixed depth anyway:** set the stock 4933 ball to depth and **threadlock it**, or shim under the head for a repeatable stop.
+- **If you want fixed depth anyway:** set the stock 4933 ball to depth and **super glue it** (threadlock doesn't bite well on plastic-to-metal), or shim under the head for a repeatable stop.
 - **Servicing the captured ball** (setscrew + Delrin cap) uses **RPM 80010**, see [`hub_analysis.md` → Carrier Service Parts](hub_analysis.md#carrier-service-parts).
 
 ---
