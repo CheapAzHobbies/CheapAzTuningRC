@@ -53,10 +53,11 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 
 > Full shock writeup — body choice, piston/oil tuning, the bigger-bore/lighter-oil logic, Acxess springs, the 3D-printed shock-to-chassis mounts, and the M3 shim + RPM rod-end linkage strategy — in [`shock_analysis.md`](shock_analysis.md).
 
-### Rear Arms
+### Arms
 
-- Traxxas TRA5328 / TRA5327 adjustable rear arms — 10–19 setting range
-- **RPM 80562 True Track Rear A-Arm Conversion Kit** (black) — corrects rear toe/geometry vs the stock arms; **in hand** ($32.95, PowerHobby). Installs with the Traxxas 3932 flat-head screws (3×6 mm) from the same order.
+- **Front: stock Traxxas arms** (kept). The RPM front A-arms flex too much, and that flex breaks the CVDs, so the stiffer stock arms stay up front.
+- **Rear: RPM 80562 True Track Rear A-Arm Conversion** (black) — **in hand** ($32.95, PowerHobby). Deletes the rear toe links, locks rear toe at **1.5°/side (3° total)**, kills bump steer, ~32 g lighter; lower pillow ball becomes a 4 mm hinge pin (upper stays a ball for camber). Installs with the Traxxas 3932 flat-head screws (3×6 mm).
+- Full front-vs-rear reasoning in [`arm_analysis.md`](arm_analysis.md).
 
 ### Tie Rods / Push Rods
 
@@ -84,7 +85,7 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 
 ### Drive Cups
 
-- **Traxxas 5153R Inner Drive Cups (2)** — **×2 packs (4 cups), in hand** ($16, PowerHobby). The diff-side cups the driveshafts/CVDs seat into; common wear/break point, good to have spares.
+- **Traxxas 5153R Inner Drive Cups (2)** — **×2 packs (4 cups), in hand** ($16, PowerHobby). The diff-side cups the CVD driveshafts seat into; pair these with the AliExpress CVDs. Common wear/break point, good to have spares.
 
 ---
 
@@ -102,7 +103,7 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 
 ## Steering
 
-- **RPM 80582 Axle Carriers / Steering Blocks** (black) — heavy-duty front steering blocks + rear axle carriers (Revo / T-Maxx 2.5R/3.3 / E-Maxx / Slayer); **in hand** ($23.75, PowerHobby). Tougher than the stock blocks.
+- **RPM 80582 Axle Carriers / Steering Blocks** (black) — heavy-duty front steering blocks + rear axle carriers; **in hand** ($23.75, PowerHobby). Stronger composite **plus oversized bearings** (6×15×5 outer / 12×21×5 inner vs stock 6×12×4 / 12×18×4, ~2× load rating). On the rear the lower mount runs a 4 mm pin (True Track) instead of a pillow ball. Full bearing comparison in [`hub_analysis.md`](hub_analysis.md).
 
 ---
 
@@ -110,13 +111,15 @@ Set up for **Meldrum Bar Park** — a **dirt race track** (the regular spot); th
 
 **Wing:** Generic AliExpress 1/8 Buggy Tail Wing — $2.50–$4, fits perfectly. Nylon, lighter than OEM. Grid pattern on underside for marking drill holes; use a reamer for clean cuts. **Same wing as [FastAzJato4x4](../FastAzJato4x4/aero_analysis.md)** — see that doc for the full write-up.
 
-**Body posts:** **Traxxas 8614 clipless body posts, front & rear** (E-Revo VXL BL) — **in hand** ($5, PowerHobby).
+**Body:** Currently on the **original E-Revo body** (OG style, preferred look). Planning the **Traxxas 8612 E-Revo 2.0 "Solar Flare"** pre-painted body — comes painted with decals plus clipless mounts, reinforcement, and roof skid, which works out cheaper than painting an aftermarket 1.0 body and adding the protective bits separately ($79.95, currently out of stock at PowerHobby). The 2.0 shell wears out, so the plan is to reuse its protective plastic on an OG-style body. Full reasoning in [`body_analysis.md`](body_analysis.md).
+
+**Body posts:** **Traxxas 8614 clipless body posts, front & rear** (E-Revo VXL BL) — **in hand** ($5, PowerHobby). Bought to run clipless mounting on an OG-style body.
 
 ---
 
 ## Bumpers
 
-- **RPM 80802 Front Bumper Mount** (black, Revo / E-Revo) — **in hand** ($5.39, PowerHobby). Mount for the front bumper/skid.
+- **RPM 80802 Front Bumper Mount** (black, Revo / E-Revo) — **in hand** ($5.39, PowerHobby). **Never cracks** unlike the stock bumper. The catch with the OEM one: when it cracks you have to buy the **whole bumper set (~$10)**, not just the ~$5 piece that broke, so the RPM is both tougher and cheaper to live with.
 
 ---
 

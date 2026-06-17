@@ -120,6 +120,7 @@ Steps to set the HPI / Hot Bodies shocks up front and rear with these mounts:
 1. **Drill the stock eyelet** — enlarge the hole in the stock shock-shaft eyelet until it reaches the ball joint.
 2. **Trim the eyelet** — shorten it so the threaded part of the shaft can screw in deep enough to **just touch (or nearly touch) the ball**.
 3. **Assemble the internals** — install the **original bump-stop** inside the body, then stack the **kit washer**, then the **1.2 mm 4-hole piston** on top, and fasten with the provided **lock nut**. Fill with **80wt oil** — the baseline for both front and rear.
+   - **Bump-stop length:** the stock GTR bump-stops are **ever so slightly too short** in these big bores. May make custom ones a bit **thicker** to limit down-travel/topping out; exact length **TBD**.
 4. **Cap setup** — press-fit the ball joint from the **original GTR cap / eyelet** into the new shock cap; make sure it sits **flush**.
 
 **Oil cross-reference:** 50wt in the stock Revo Gen 1 shocks feels similar to **80–90wt in these HB/HPI big bores** — the bigger bore needs heavier oil for the same feel (see [Bigger bore → lighter oil](#bigger-bore--lighter-oil-why-some-go-smaller-piston)). 80wt is the baseline; I run [90wt front / 100wt rear](#setup-spec--piston--oil).
