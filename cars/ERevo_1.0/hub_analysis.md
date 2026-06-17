@@ -101,12 +101,6 @@ So on the rear corners, the bottom of the hub runs a **pin**, not a pillow ball.
 
 ## Notes
 
-- **This is a bearing upgrade first.** The stronger carrier is a bonus; I buy it for the **oversized bearings**. Stock wheel bearings on a heavy E-Revo wear out and get play fast, so doubling the load rating and adding axle contact is where the durability comes from.
-- **IDs are unchanged.** Both oversized bearings keep the **stock 6 mm / 12 mm bores**, so the **stock stub axles fit** with no other changes. Only the carrier pockets are bigger.
-- **Stock replacement sizes (for reference):** outer **6×12×4 mm** = TRA5117, inner **12×18×4 mm** = TRA5120. Do not order these for the RPM carriers, they are too small.
-- **Pillow-ball pull-through was the stock failure.** The stock carriers split and let the pillow balls tear out; RPM's +40% walls / +20% material fix exactly that.
-- **Why the Revo ate bearings for years.** The stock Revo runs **basically the same small bearings as the [Jato 4x4](../FastAzJato4x4/README.md)**, which is a notably **smaller and lighter** truck. The Revo is not, so those bearings are undersized for its weight and **exploded constantly**. The oversized bearings finally size the bearing to the truck.
-- **Front and rear are normally the same hub.** On a stock truck the 80582 carriers do both ends. **True Track changes that**: the rear runs the kit's pin-style carrier, the front stays on the 80582.
-- **Lifetime warranty.** RPM molded parts (the 80582 carriers and the True Track parts) carry a **lifetime breakage warranty**.
-- **Can't go wrong either way.** RPM plastic (80582 / True Track) or the Enron metal carriers both take the oversized bearings and will most likely **last the life of the car**. The trade is weight: the **plastic is lighter (less unsprung weight)**, the **metal is tougher and cheap to just replace**.
-- **Going with the RPM plastic.** Fine with the marginally lower stiffness in exchange for **less unsprung weight** and a bit of **give that protects other parts** in a hit. Best balance of the options.
+- **Decision: RPM plastic.** Lighter (less unsprung weight) with a bit of give that protects other parts, worth the marginally lower stiffness. Enron metal is the runner-up; either lasts the life of the car.
+- **Stock axles still fit.** The oversized bearings keep the stock 6 / 12 mm bores; only the carrier pockets are bigger.
+- **Don't order stock bearing sizes** (TRA5117 6×12×4 / TRA5120 12×18×4), they're too small for these carriers.
