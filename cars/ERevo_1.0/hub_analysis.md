@@ -49,7 +49,7 @@ RPM's claims for the bigger bearings vs stock:
 - **~2 mm more contact** with the axle (the extra width), for smoother, longer-running support.
 - **~2× the load rating** and **~3× the fatigue rating** of the stock bearings.
 
-> **Replacement note:** the oversized sizes (6×15×5 and 12×21×5) are **not** the stock Traxxas sizes, so buy replacements as those exact dimensions from RPM or a bearing supplier (FastEddy, BocaBearings, etc.), not the stock TRA5117 / TRA5120. The carrier kit ships with one set installed.
+> **Replacement note:** the oversized sizes (6×15×5 and 12×21×5) are **not** the stock Traxxas sizes, so order those exact dimensions, not the stock TRA5117 / TRA5120. Buy them **in bulk off AliExpress** (way cheaper than FastEddy / BocaBearings), though you won't go through many, these bearings are **so large they rarely break or wear**. The carrier kit ships with one set installed.
 
 ---
 
