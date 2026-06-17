@@ -2,7 +2,7 @@
 
 > **Front: Traxxas 5335 silver nylon bumper + mount. Rear: none.** The truck came (as a gift) with a junk **blue metal front bumper** that **bent the moment it hit anything** and added pointless nose weight, so it's gone. The **nylon 5335** is light, **flexes instead of bending**, looks good, and actually helps the truck **cartwheel cleanly** instead of digging in. I run the tougher **RPM 80802 mount** under it, so a tweaked mount is a **$5 part** instead of a whole new set. **No rear bumper at all** — it protects nothing, and there's already a metal bulkhead back there.
 
-<p align="center"><a href="https://www.powerhobby.com/products/traxxas-5335-satin-chrome-front-bumper-mount-revo-e-revo"><img src="src/bumper_traxxas_nylon_front_bumper_mount_5335.jpg" width="600"></a><br><em>Traxxas 5335 — silver nylon front bumper + black nylon mount (with mounting screws)</em></p>
+<p align="center"><img src="src/bumper_traxxas_nylon_front_bumper_mount_5335.jpg" width="600"><br><em>Traxxas 5335 — silver nylon front bumper + black nylon mount (with mounting screws)</em></p>
 
 ---
 
@@ -30,8 +30,8 @@
 
 | Bumper | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Traxxas 5335 nylon front bumper + mount** — *chosen* | Material: **nylon** (silver bumper / black mount)<br><br>Includes: bumper + mount + 2× 3×25 mm and 2× 4×10 mm cap screws<br><br>Fits: Revo / E-Revo<br><br>Price: **$10.00** (set) | Pro: **Light**, **flexes instead of bending**, looks good, and **helps the truck cartwheel** instead of digging the nose in<br><br>Con: If the bumper bar ever cracks it's a **$10 full set** (which is why the mount underneath is the cheaper RPM part) | <a href="https://www.powerhobby.com/products/traxxas-5335-satin-chrome-front-bumper-mount-revo-e-revo"><img src="src/bumper_traxxas_nylon_front_bumper_mount_5335.jpg" width="500"></a> |
-| 🟢 **RPM 80802 front bumper mount** — *in hand, runs under the 5335 bar* | Composite **mount only** (no bumper bar)<br><br>Price: **$5.39** (PowerHobby) | Pro: **Tougher mount**; if the mount tweaks you replace a **~$5 part**, not the whole $10 set<br><br>Con: Mount only, so it pairs with the 5335 (or stock) bumper bar | <a href="https://www.powerhobby.com/products/rpm-80802-front-bumper-mount-revo-e-revo"><img src="src/bumper_rpm_front_bumper_mount_80802.jpg" width="500"></a> |
+| ⭐ **Traxxas 5335 nylon front bumper + mount** — *chosen* | Material: **nylon** (silver bumper / black mount)<br><br>Includes: bumper + mount + 2× 3×25 mm and 2× 4×10 mm cap screws<br><br>Fits: Revo / E-Revo<br><br>Price: **$10.00** (set) | Pro: **Light**, **flexes instead of bending**, looks good, and **helps the truck cartwheel** instead of digging the nose in<br><br>Con: If the bumper bar ever cracks it's a **$10 full set** (which is why the mount underneath is the cheaper RPM part) | <img src="src/bumper_traxxas_nylon_front_bumper_mount_5335.jpg" width="500"> |
+| 🟢 **RPM 80802 front bumper mount** — *in hand, runs under the 5335 bar* | Composite **mount only** (no bumper bar)<br><br>Price: **$5.39** (PowerHobby) | Pro: **Tougher mount**; if the mount tweaks you replace a **~$5 part**, not the whole $10 set<br><br>Con: Mount only, so it pairs with the 5335 (or stock) bumper bar | <img src="src/bumper_rpm_front_bumper_mount_80802.jpg" width="500"> |
 | ❌ ~~**Stock blue metal front bumper** (came with the car)~~ | Material: metal<br><br>Heavy | Pro: None worth keeping<br><br>Con: **Bent the moment it hit something** (stays bent), and adds **dead nose weight**. Exactly what a basher bumper shouldn't do | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/bumper_stock_blue_metal_front.jpg` |
 
 ---

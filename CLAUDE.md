@@ -127,12 +127,12 @@ The doc section should:
 1. **Title** — `# <PartType> Selection — <CarName>`
 2. **Lead recommendation blockquote** — one paragraph: `> **Chosen / Leaning toward: <name>** — short reason`
 3. **Hero image(s)** of the chosen / leading item, always inside `<p align="center">`. **Always centered — no exceptions.** **The hero goes directly after the lead blockquote and ABOVE everything else — before the Key Requirements and the comparison table. Never bury it below a table or after discussion paragraphs** (a reader should see the chosen item's photo first, not a table that mentions other brands).
-   - **1 image**: 600px wide, wrapped in the product-page link.
+   - **1 image**: 600px wide. **Plain `<img>` — never wrap photos in an `<a href>` product link (external links rot and break).**
    - **2 images (max)**: side by side at 500px each, separated by `&nbsp;`, both inside one `<p align="center">`. Caption on a new line below using `<br><em>left · right</em>`.
    - Skip if no image exists yet.
    ```html
    <!-- 1 image -->
-   <p align="center"><a href="URL"><img src="src/file.jpg" width="600"></a><br><em>Caption</em></p>
+   <p align="center"><img src="src/file.jpg" width="600"><br><em>Caption</em></p>
 
    <!-- 2 images side by side -->
    <p align="center">
@@ -166,7 +166,7 @@ The doc section should:
 ```
 | <PartType> | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Brand Model** | Key: value<br>Key: value<br>... | Pro: ...<br><br>Con: ... | <a href="<product-page-url>"><img src="src/<image-filename>" width="500"></a> |
+| ⭐ **Brand Model** | Key: value<br>Key: value<br>... | Pro: ...<br><br>Con: ... | <img src="src/<image-filename>" width="500"> |
 ```
 
 Rules:
@@ -183,7 +183,7 @@ Rules:
 - **Spec** column: keep it short — only the essentials needed for at-a-glance comparison (typically Cells, Amps, Weight, Waterproof, Sensored, Price). Each key/value pair on its own line via `<br>`. Bold the row label and matching spec values for the leading candidate. Everything else (BEC, dimensions, motor compatibility, application limits, certifications, programming features, etc.) belongs in the Detailed Notes section below, **as bullets** under each item — not crammed into the table cell.
 - **Row order**: ⭐ / 🟢 / 🥈 / 🔵 rows at the top of the table, ❌ / 🚫 rows at the bottom.
 - **Pros / Cons**: single cell with `Pro: ...<br><br>Con: ...` — use a double `<br>` between Pro and Con to add a blank line for readability. Keep both on the same row even when one is short. Keep each line short and punchy — no long run-on sentences.
-- **Photo / Link**: `<a href="...product-page..."><img src="src/<filename>" width="500"></a>`. **Minimum 500px in the table**; 600px for the hero image of the chosen item. Use a local `src/` image when one exists; fall back to an external image only if no local one is available.
+- **Photo / Link**: `<img src="src/<filename>" width="500">` — **plain image, never wrapped in an `<a href>` product link** (external product links rot and break, so don't include them). **Minimum 500px in the table**; 600px for the hero image of the chosen item. Use a local `src/` image when one exists; fall back to an external image only if no local one is available.
 - **Multi-part items**: when one row covers a pair (e.g. front + rear shock tower), show both photos side-by-side at 250px each with `&nbsp;` between, plus a centered `<em>` caption naming each. Example:
   ```html
   <img src="src/...front.jpg" width="250"> <img src="src/...rear.jpg" width="250"><br><em>front · rear</em>
