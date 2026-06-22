@@ -45,6 +45,13 @@
 
 > Both the **front 80582** carriers and the **rear True Track** carriers use these **same oversized bearings**, so one replacement size covers all four corners.
 
+**Measured weights (oversized set in hand):** outer **6×15×5 = 7.5 g/pair**, inner **12×21×5 = 11.6 g/pair**.
+
+<p align="center">
+  <img src="src/suspension_bearing_6x15x5_outer_pair_weight.jpg" width="250">&nbsp;<img src="src/suspension_bearing_12x21x5_inner_pair_weight.jpg" width="250"><br>
+  <em>outer 6×15×5 = 7.5 g/pr · inner 12×21×5 = 11.6 g/pr</em>
+</p>
+
 RPM's claims for the bigger bearings vs stock:
 
 - **~33% larger balls** inside the race.
@@ -82,7 +89,7 @@ RPM's claims for the bigger bearings vs stock:
 
 | Carrier | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **RPM 80582 steering blocks / axle carriers** (black) — *front, in hand* | Bearings: **oversized** 6×15×5 outer / 12×21×5 inner (included)<br><br>Walls: **+40%** thickness around pillow balls<br><br>Pillow-ball support: **+20% material** (no pull-through)<br><br>Set screws: **two-piece aluminum + Delrin**<br><br>Warranty: **lifetime** against breakage<br><br>Fits: Revo / E-Revo / T-Maxx 2.5R/3.3 / E-Maxx / Slayer<br><br>Price: **$23.75** (PowerHobby) | Pro: **Oversized bearings** (double load rating) in a **much stronger carrier** that stops the pillow balls tearing out. Normally does **both ends**; here it runs the **front**. Press-fit seats reduce slop<br><br>Con: Replacement bearings are **non-stock oversized sizes** (plan ahead); composite, not alloy | <img src="src/steering_rpm_axle_carriers_steering_blocks_80582.jpg" width="500"> |
+| ⭐ **RPM 80582 steering blocks / axle carriers** (black) — *front, in hand* | Bearings: **oversized** 6×15×5 outer / 12×21×5 inner (included)<br><br>Weight: **35.1 g / set of 4** (~8.8 g ea)<br><br>Walls: **+40%** thickness around pillow balls<br><br>Pillow-ball support: **+20% material** (no pull-through)<br><br>Set screws: **two-piece aluminum + Delrin**<br><br>Warranty: **lifetime** against breakage<br><br>Fits: Revo / E-Revo / T-Maxx 2.5R/3.3 / E-Maxx / Slayer<br><br>Price: **$23.75** (PowerHobby); MSRP **$34.95** | Pro: **Oversized bearings** (double load rating) in a **much stronger carrier** that stops the pillow balls tearing out. Normally does **both ends**; here it runs the **front**. Press-fit seats reduce slop<br><br>Con: Replacement bearings are **non-stock oversized sizes** (plan ahead); composite, not alloy | <img src="src/steering_rpm_axle_carriers_steering_blocks_80582.jpg" width="250"> <img src="src/steering_rpm_axle_carriers_steering_blocks_80582_weight.jpg" width="250"><br><em>product · 35.1 g/set</em> |
 | ⭐ **RPM True Track rear axle carriers** (in the 80562 kit) — *rear, in hand* | Bearings: **same oversized** 6×15×5 / 12×21×5 (included)<br><br>Lower mount: **4 mm hinge pin** (not a pillow ball)<br><br>Bundled with the rear A-arms (no separate purchase)<br><br>Warranty: **lifetime** against breakage | Pro: **Comes as part of the True Track deal** (cheaper than buying rear carriers alone), same oversized bearings, and the pin locks rear toe. "Beefy" rear carriers<br><br>Con: Only fits the True Track pin geometry; rear toe becomes fixed (see [`arm_analysis.md`](arm_analysis.md)) | <img src="src/suspension_rpm_truetrack_rear_arm_80562.jpg" width="500"> |
 | 🥈 **Aftermarket aluminum carriers** (Enron 5334 / 5334R) — *runner-up; verify service-part fit* | Material: CNC aluminum<br><br>Bearings: **oversized** (takes the same big bearings)<br><br>Fits Revo 3.3 / Summit / T-Maxx / Slayer<br><br>Colors: silver / blue / red<br><br>Price: ~**$10–18** (AliExpress, with coupons) | Pro: **Metal (won't crack)**, **runs the same oversized bearings** as the RPM, and **cheap enough (~$10–18/pair) to just replace the whole hub** if a bore wears, maybe cheaper than buying rebuild kits over time<br><br>Con: aluminum is **heavier = more unsprung weight** than the RPM plastic, which hurts suspension response<br><br>Open question: still worth checking if the **RPM 80010** kit fits (so you can rebuild instead of replace), but at this price it's **not a dealbreaker** either way | <img src="src/steering_enron_alloy_carriers_5334.jpg" width="500"> |
 | 🚫 ~~**Stock Traxxas carriers** (TRA5334)~~ | Bearings: **stock** 6×12×4 outer / 12×18×4 inner<br><br>Walls: thinner; pillow balls can pull through<br><br>L&R set, fits front + rear<br><br>Price: **$8.00** | Pro: Cheap, uses common stock-size bearings<br><br>Con: **Walls split and pillow balls pull through** under impact; **smaller bearings fail faster** on a heavy truck | <img src="src/steering_traxxas_carriers_stock_tra5334.jpg" width="500"> |
@@ -95,7 +102,7 @@ RPM's claims for the bigger bearings vs stock:
 
 | Part | Spec | Notes | Photo / Link |
 |---|---|---|---|
-| **RPM 80010** Pillow Ball Set Screws & Bushing Caps | Per pack: **4 aluminum setscrews, 4 Delrin bushing caps, 2 axle spacers** (= 2 carriers; buy **2 packs** for all four corners)<br><br>Price: **$6.99** | Fits **stock Traxxas axle carriers** and **RPM oversized-bearing carriers** — the **80582 front** (both pillow balls) and the **True Track rear** (its **upper** pillow ball only; the lower mount is a 4 mm pin, no cap). **Not confirmed** for the Enron alloy carriers (see that candidate row). Direct service replacement for worn setscrews / caps | <img src="src/steering_rpm_pillowball_setscrews_caps_80010.jpg" width="500"> |
+| **RPM 80010** Pillow Ball Set Screws & Bushing Caps | Per pack: **4 aluminum setscrews, 4 Delrin bushing caps, 2 axle spacers** (= 2 carriers; buy **2 packs** for all four corners)<br><br>Measured: **alloy setscrews 3.3 g / 4, Delrin caps 1.3 g / 4**<br><br>Price: **$6.99** | Fits **stock Traxxas axle carriers** and **RPM oversized-bearing carriers** — the **80582 front** (both pillow balls) and the **True Track rear** (its **upper** pillow ball only; the lower mount is a 4 mm pin, no cap). **Not confirmed** for the Enron alloy carriers (see that candidate row). Direct service replacement for worn setscrews / caps | <img src="src/steering_rpm_pillowball_setscrews_caps_80010.jpg" width="200"> <img src="src/steering_rpm_80010_setscrews_alloy_weight.jpg" width="170"> <img src="src/steering_rpm_80010_bushing_caps_delrin_weight.jpg" width="170"><br><em>80010 set · setscrews 3.3 g/4 · Delrin caps 1.3 g/4</em> |
 
 ---
 
@@ -127,3 +134,4 @@ So on the rear corners, the bottom of the hub runs a **pin**, not a pillow ball.
 - **Decision: RPM plastic.** Lighter (less unsprung weight) with a bit of give that protects other parts, worth the marginally lower stiffness. Enron metal is the runner-up; either lasts the life of the car.
 - **Stock axles still fit.** The oversized bearings keep the stock 6 / 12 mm bores; only the carrier pockets are bigger.
 - **Don't order stock bearing sizes** (TRA5117 6×12×4 / TRA5120 12×18×4) for these carriers, they're too small. Those still get stocked for the [Jato 4x4](../FastAzJato4x4/README.md), which runs them.
+- **80582 package (in hand):** MSRP **$34.95** (RPM card, made in USA); fits Revo / T-Maxx 2.5R & 3.3 / E-Maxx 16.8. Carrier set of 4 weighs **35.1 g**. See [package photo](src/steering_rpm_axle_carriers_steering_blocks_80582_package.jpg).
