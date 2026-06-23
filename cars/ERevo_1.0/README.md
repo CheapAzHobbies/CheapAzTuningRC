@@ -104,6 +104,7 @@ Set up for **Meldrum Bar Park** — a **dirt race track** where this E-Revo is *
 ## Steering
 
 - **RPM 80582 Axle Carriers / Steering Blocks** (black) — heavy-duty **front steering blocks**; **in hand** ($23.75, PowerHobby). The **rear axle carriers come bundled in the True Track kit** (same parts, no separate buy). Both run **oversized bearings** (6×15×5 outer / 12×21×5 inner vs stock 6×12×4 / 12×18×4, ~2× load rating); the Revo otherwise uses the same small bearings as the lighter Jato 4x4, which is why it ate bearings for years. Rear lower mount is a 4 mm pin (True Track). Lifetime warranty. Full comparison in [`hub_analysis.md`](hub_analysis.md).
+- **Service / wear parts** — pivot-ball dust boots (Traxxas **5378X**), the skipped driveshaft-boot kits (5459 / 5129), bearings, and pushrod ends are consolidated in [`service_parts_analysis.md`](service_parts_analysis.md).
 
 ---
 
