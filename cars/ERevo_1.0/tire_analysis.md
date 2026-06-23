@@ -36,8 +36,8 @@ Two generic 1/8 truggy sets I own (17 mm hex, nylon rim, hard foam, 4 tires + 4 
 
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| 🟢 **RedSpider dense-block set — current favorite** | Tight block tread, white rim<br><br>**140 mm dia · 70 mm wide · 90 mm rim · 208 g** (measured)<br><br>17 mm hex<br><br>Price: **$19.64 / set** (owned) | Pro: **Forward grip is excellent**; **wide 70 mm footprint** helps; cheap, the bar to beat<br><br>Con: **Wants more lateral (side) grip** for cornering | <img src="src/tire_redspider_truggy_white_favorite.png" width="250"> <img src="src/tire_redspider_truggy_dimensions.jpg" width="250"><br><em>tire · measured dims</em> |
-| ❌ ~~**Generic 26404 square-stud set — not a rebuy**~~ | Square-stud tread, black rim<br><br>**143 mm dia · 63 mm wide · 102 mm rim** (taller, narrower, bigger rim than the RedSpider)<br><br>17 mm hex<br><br>Price: **$32.44 / set** (Fiona Hobby, May 11 2026, order 8210691772464866) | Pro: Cheap-ish, fits<br><br>Con: **Only gripped when moist**, mediocre on dry dust, and **wore fast**; narrow 63 mm tread = smaller footprint, less grip | <img src="src/tire_generic_truggy_black_26404_previous.png" width="500"> |
+| 🟢 **RedSpider dense-block set — current favorite** | Tight block tread, white rim<br><br>**140 mm dia · 70 mm wide · 90 mm rim · 208 g** (measured)<br><br>17 mm hex<br><br>Price: **$19.64 / set** (owned) | Pro: **Forward grip is excellent**; **wide 70 mm footprint** helps; cheap, the bar to beat<br><br>Con: **Wants more lateral (side) grip** for cornering; **soft sponge insert packs out** and **not pre-glued** | <img src="src/tire_redspider_truggy_white_favorite.png" width="250"> <img src="src/tire_redspider_truggy_dimensions.jpg" width="250"><br><em>tire · measured dims</em> |
+| ❌ ~~**Generic 26404 square-stud set — not a rebuy**~~ | Square-stud tread, black rim<br><br>**143 mm dia · 63 mm wide · 102 mm rim** (taller, narrower, bigger rim than the RedSpider)<br><br>17 mm hex<br><br>Price: **$32.44 / set** (Fiona Hobby, May 11 2026, order 8210691772464866) | Pro: Cheap-ish, fits<br><br>Con: **Only gripped when moist**, mediocre on dry dust, and **wore fast**; narrow 63 mm tread = smaller footprint, less grip; **soft sponge insert packs out** and **not pre-glued** | <img src="src/tire_generic_truggy_black_26404_previous.png" width="500"> |
 
 > **What the new tire has to do:** keep the RedSpider's strong forward drive but **add lateral grip**, bite **dry loose dust** (not just moist), and last longer. A pin/spike "JConcepts similar" tread (Yufung) or a JetKo Block In should give more all-around side bite than the RedSpider's longitudinal blocks.
 
@@ -49,6 +49,7 @@ Two generic 1/8 truggy sets I own (17 mm hex, nylon rim, hard foam, 4 tires + 4 
 |---|---|---|
 | **Grip on loose / dusty / low-grip dirt** | Must | Meldrum Bar's normal state; the tread has to find bite in loose dust |
 | **Lateral / cornering grip** | Must | My favorite set has great forward grip but pushes in corners; the new tread needs side bite too |
+| **Closed-cell foam inserts** | Must | The hard sponges in my RedSpider + 26404 sets pack out fast (OK only for a bit); closed-cell holds shape under the heavy Revo |
 | **Still works wet / grippy** | May | Track firms up and grips when wet |
 | **Tread life under a heavy E-Revo** | May | The heavy truck eats soft compounds fast; reasonable life is nice but grip comes first |
 | **1/8 truggy / 17 mm hex fit** | Must | The Revo runs 1/8 truggy tires via a 17 mm hex |
@@ -107,8 +108,8 @@ PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the R
 
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Yufung 1/8 Truggy — Soft (blue)** — *leaning, daily* | Type: **1/8 truggy**, "JConcepts similar" tread<br><br>Compound: **soft** (blue; Yufung also calls it "Super Soft")<br><br>Outer dia: **140 mm** · width **60 mm** · rim **105 mm**<br><br>Hex: **17 mm**<br><br>Includes: **tire + rim + foam, pre-glued**<br><br>Price: **~$50–54 / set of 4** across its listings (was up to $93) | Pro: Still bites on loose dust but **lasts much longer** than super soft; complete glued wheel + foam, cheaper than JetKo<br><br>Con: Slightly less bite on dry loose dust than green | <img src="src/tire_yufung_truggy_blue_supersoft.png" width="500"> |
-| 🥈 **Yufung F802 1/8 Truggy — Super Soft (green)** — *grip special* | Type: **1/8 truggy** (F802), "JConcepts similar" tread<br><br>Compound: **super soft** (green)<br><br>Wheels: **white or yellow**<br><br>Outer dia: **140 mm** · width **60 mm** · rim **105 mm**<br><br>Hex: **17 mm**<br><br>Includes: **tire + rim + foam, pre-glued**<br><br>Price: **$52.06 / set of 4** (was $96.40) | Pro: **Softest = most grip** for the driest, lowest-grip days<br><br>Con: **Wears fastest** (a few weekends under the heavy Revo), so not the daily | <img src="src/tire_yufung_truggy_green_f802.png" width="500"> |
+| ⭐ **Yufung 1/8 Truggy — Soft (blue)** — *leaning, daily* | Type: **1/8 truggy**, "JConcepts similar" tread<br><br>Compound: **soft** (blue; Yufung also calls it "Super Soft")<br><br>Outer dia: **140 mm** · width **60 mm** · rim **105 mm**<br><br>Hex: **17 mm**<br><br>Includes: **tire + rim + closed-cell foam, pre-glued**<br><br>Price: **~$50–54 / set of 4** across its listings (was up to $93) | Pro: Still bites on loose dust but **lasts much longer** than super soft; **pre-glued with closed-cell foam** (meets my insert must), cheaper than JetKo<br><br>Con: Slightly less bite on dry loose dust than green; **60 mm wide vs my 70 mm favorite** (could mean less lateral grip) | <img src="src/tire_yufung_truggy_blue_supersoft.png" width="500"> |
+| 🥈 **Yufung F802 1/8 Truggy — Super Soft (green)** — *grip special* | Type: **1/8 truggy** (F802), "JConcepts similar" tread<br><br>Compound: **super soft** (green)<br><br>Wheels: **white or yellow**<br><br>Outer dia: **140 mm** · width **60 mm** · rim **105 mm**<br><br>Hex: **17 mm**<br><br>Includes: **tire + rim + closed-cell foam, pre-glued**<br><br>Price: **$52.06 / set of 4** (was $96.40) | Pro: **Softest = most grip** for the driest, lowest-grip days; pre-glued with closed-cell foam<br><br>Con: **Wears fastest** (a few weekends under the heavy Revo), so not the daily; **60 mm wide vs my 70 mm favorite** | <img src="src/tire_yufung_truggy_green_f802.png" width="500"> |
 
 ---
 
@@ -116,7 +117,7 @@ PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the R
 
 - **Hex:** the Revo is on a **17 mm hex** conversion to run 1/8 truggy wheels — confirm any Yufung wheels are 17 mm.
 - **Gluing:** race tires get **glued to the bead** (thin CA, run a bead around both sides). Don't trust AliExpress factory gluing for a race build; re-glue.
-- **Inserts:** check whether the set ships with foams and whether they're firm enough for the heavy Revo's big landings; closed-cell aftermarket foams are cheap insurance if not.
+- **Inserts: closed-cell is a must.** The hard sponges that came with my RedSpider and 26404 sets are OK for a bit then **pack out / go off**, and the **correct size is hard to find**. Those sets also came **not pre-glued**, so I had to glue them myself. **Yufung solves both:** all their sets come with **closed-cell inserts** and **pre-glued** — a real plus over my current tires.
 
 ---
 
