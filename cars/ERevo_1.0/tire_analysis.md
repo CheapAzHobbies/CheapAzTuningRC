@@ -1,6 +1,8 @@
 # Tire & Wheel Selection — E-Revo 1.0
 
-> **Leaning: super-soft, low-grip tread.** Top pick is the **PowerHobby (JetKo) J-Zero in Super Soft** (purpose-built low-grip tread). I'm also pricing **AliExpress tires from the Yufung Rubber Tire Store**, which use the **JConcepts color/compound scale**, as a cheaper alternative. Meldrum Bar is **loose, dusty, low-grip** dirt, so the soft end of the scale (JConcepts green = super soft) is what hooks up here.
+> **Leaning: super-soft, low-grip truggy tire.** Two real options: the proven **JetKo J-Zero Super Soft** (~$84/set) and the cheaper **Yufung 1/8 truggy "JConcepts Similar" in Super Soft (blue), $50.23/set of 4** (complete pre-glued wheel + foam, 17 mm hex). Meldrum Bar is **loose, dusty, low-grip** dirt, so I want the soft end of the scale. Note: Yufung's color codes are their own (their **blue = Super Soft**), so I go by the printed hardness label, not the color.
+
+<p align="center"><img src="src/tire_yufung_truggy_blue_supersoft.png" width="600"><br><em>Yufung 1/8 truggy set — Super Soft (blue), one-piece tire + wheel + foam insert, pre-glued, 17 mm hex</em></p>
 
 ---
 
@@ -46,7 +48,9 @@ JConcepts marks compound with a **color stripe** on the tire. Softest to firmest
 | ⚪ **White** | Medium | Groove / blue-groove (packed-in, high-bite) conditions |
 | 🟨 **Yellow** | Medium (firmest of this key) | Hard-packed, abrasive, longest wear |
 
-> Softer = more mechanical grip + faster wear. Firmer = less grip + longer life, only worth it on high-bite/hard-packed tracks. **Yufung's AliExpress tires use this same color scale**, so I can map their colors straight onto this chart. On a **low-grip** track like mine, softer is better, so I stay at the **green** end, not blue/white.
+> Softer = more mechanical grip + faster wear. Firmer = less grip + longer life, only worth it on high-bite/hard-packed tracks. On a **low-grip** track like mine, softer is better, so I want the **super-soft** end.
+>
+> ⚠️ **Yufung's colors are NOT the JConcepts order.** This store labels its **blue** truggy tire as **Super Soft** and its **white** buggy set as **50A Shore Hard**. So with Yufung, read the **printed hardness label** (Super Soft / 50A Hard), don't assume the JConcepts color meaning. The chart above is the JConcepts reference; Yufung just borrows the look.
 
 ---
 
@@ -74,12 +78,12 @@ Meldrum Bar is **loose, dusty, low grip** (grippy only when wet). On low-tractio
 
 ## Tire Comparison (Yufung)
 
-> 🚧 **Photos + exact models coming as I upload them.** Yufung lists by tread pattern + color compound; I'll fill spec/price/pattern per row and map each color to the [hardness scale](#jconcepts-compound-key-hardness-scale) above. The draw is price: a Yufung set should undercut the ~$84 JetKo set.
+> Both are from the Yufung (Vexar-Yufung) store. Go by the printed hardness label, not the color (see the [⚠️ note above](#jconcepts-compound-key-hardness-scale)). The truggy Super Soft set is the right fit + hardness for my track and still **undercuts the ~$84 JetKo set**.
 
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Yufung — super-soft (green) compound** — *leaning, daily* | Pattern: TBD<br><br>Compound: **super soft (green)**<br><br>Size / hex: TBD (needs 17 mm)<br><br>Inserts: TBD<br><br>Price: TBD | Pro: Soft end of the scale for loose low-grip dust; **cheaper than JetKo** so easy to stock several<br><br>Con: Confirm size + 17 mm hex fit, foams included, and that "green" really is their softest | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/tire_yufung_supersoft_green.jpg` |
-| 🔵 **Yufung — soft (blue) compound** — *wet/firm-day alt* | Pattern: TBD<br><br>Compound: **soft (blue)**<br><br>Size / hex: TBD<br><br>Inserts: TBD<br><br>Price: TBD | Pro: A touch more life for when the track wets up and grips<br><br>Con: Slightly less bite on dry loose dust than green | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/tire_yufung_soft_blue.jpg` |
+| ⭐ **Yufung 1/8 Truggy Set — Super Soft (blue)** — *leaning, budget* | Type: **1/8 truggy**, "JConcepts similar" tread<br><br>Compound: **Super Soft** (blue)<br><br>Outer dia: **140 mm** · width **60 mm** · rim **105 mm**<br><br>Hex: **17 mm**<br><br>Includes: **tire + rim + foam insert, pre-glued** (install directly)<br><br>Price: **$50.23 / set of 4** (was $93.02; 2pcs option also sold) | Pro: **Right fit + right hardness** (truggy, super soft) for loose low-grip dirt; complete glued wheel with foam, **cheaper than JetKo**<br><br>Con: Verify 140 mm dia vs current tires; "pre-glued" is fine but **check the bead before a race** | <img src="src/tire_yufung_truggy_blue_supersoft.png" width="500"> |
+| 🚫 ~~**Yufung 1/8 Buggy Set — White, 50A Shore Hard**~~ — *the one I priced first, wrong* | Type: **1/8 buggy** (narrower than truggy), mini-spike tread<br><br>Compound: **50A Shore, Hard** (white)<br><br>Hex: 17 mm, pre-glued, 4 pcs<br><br>Price: **$39.23 / set of 4** (was $58.55) | Pro: Cheapest, 17 mm hex, pre-glued<br><br>Con: **Hard compound slides on low grip**, and **buggy tread is narrower** than the truggy tires the Revo runs. Wrong on both counts for this track | <img src="src/tire_yufung_buggy_white_50a_hard.png" width="500"> |
 
 ---
 
@@ -93,9 +97,10 @@ Meldrum Bar is **loose, dusty, low grip** (grippy only when wet). On low-tractio
 
 ## Notes
 
-- **Color = hardness, across brands here.** Yufung copies the JConcepts color scale, so I read their tires off the same chart: green softest, blue soft, white/yellow firmer. On a low-grip track I stay at the green end.
+- **Read the label, not the color (Yufung).** Yufung looks JConcepts-ish but its colors don't follow the JConcepts order: their **blue = Super Soft**, their **white = 50A Hard**. So pick by the printed hardness, not the stripe color.
+- **Truggy, not buggy.** The Revo runs wider 1/8 truggy tires. The Yufung **truggy** set (140 mm dia, 60 mm wide) is the right shape; the buggy set is narrower and wrong for this truck.
 - **Heavy truck = compound life matters.** The E-Revo loads tires harder than a buggy, so soft compounds go off / wear faster. Super soft is the balance; only drop to the very softest for the worst-grip days.
-- **Two-set plan:** super-soft (J-Zero / Yufung green) for normal dusty days, plus a backup set for the worst dry low-grip; both still work when it's wet.
-- **Cost:** JetKo is **$41.99 per pair (~$84 / set of 4)** — the Yufung set is the budget play if the compound and fit check out.
+- **Cost:** JetKo J-Zero is **$41.99 / pair (~$84 / set of 4)**; the Yufung truggy Super Soft is **$50.23 / set of 4** (complete pre-glued wheels with foam). Yufung is the budget play and fits the spec.
+- **Pre-glued is convenient but verify.** Yufung ships glued and foamed, so install-and-go, but check the bead before a race day.
 - **Beach is a different tire.** Dirt compounds don't work on dry sand; that's a paddle-tire problem, not a compound pick.
-- **Verify before buying Yufung:** 17 mm hex fit, tire diameter vs the truck, foams included, and that their color codes match the JConcepts hardness order.
+- **Verify before buying Yufung:** 140 mm outer diameter vs the current tires, 17 mm hex fit, and that the bead glue holds.

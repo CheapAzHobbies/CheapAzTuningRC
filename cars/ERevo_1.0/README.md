@@ -121,9 +121,10 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 
 ## Tires & Wheels
 
-- **Compound:** Meldrum Bar is **loose, dusty, low-grip** dirt, so the **soft end** of the scale hooks up best. Leaning **JetKo J-Zero in Super Soft** (low-grip tread); also pricing cheaper **AliExpress tires from the Yufung Rubber Tire Store**, which use the **JConcepts color scale** (green = super soft, blue = soft, white/yellow = medium). Stay at the **green/super-soft** end for this track; blue is for when it wets up and grips.
-- **Hex:** 17 mm (1/8 truggy conversion). Race tires get glued to the bead; verify foam inserts are firm enough for the heavy Revo's landings.
-- Compound key, track-by-condition picks, JetKo treads, and the Yufung options in [`tire_analysis.md`](tire_analysis.md).
+- **Compound:** Meldrum Bar is **loose, dusty, low-grip** dirt, so the **super-soft** end hooks up best. Leaning the **Yufung 1/8 truggy "JConcepts Similar" Super Soft (blue), $50.23/set** of pre-glued wheels with foam — cheaper than the proven **JetKo J-Zero Super Soft (~$84/set)**, the backup pick.
+- **Read the label, not the color:** Yufung's colors don't follow JConcepts (their blue = Super Soft, white = 50A Hard). The white buggy set is ruled out (hard compound + narrower buggy tread).
+- **Hex:** 17 mm (1/8 truggy, 140 mm dia). Tires come pre-glued; check the bead before a race.
+- Full compound key, track picks, JetKo treads, and Yufung options in [`tire_analysis.md`](tire_analysis.md).
 
 ---
 
