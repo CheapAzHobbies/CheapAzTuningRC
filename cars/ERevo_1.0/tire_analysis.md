@@ -12,13 +12,14 @@
 ## Table of Contents
 
 - [Track context](#track-context) — why low grip is the target
-- [What I ran before (baseline)](#what-i-ran-before-baseline) — the old set and its problems
+- [What I've run (baseline)](#what-ive-run-baseline) — the sets I run and their problems
 - [Key Requirements](#key-requirements)
 - [JConcepts Compound Key (hardness scale)](#jconcepts-compound-key-hardness-scale) — what each color means
 - [What hardness for my track](#what-hardness-for-my-track) — loose low-grip dirt
 - [Comparison (PowerHobby / JetKo)](#comparison-powerhobby--jetko) — top tread picks
 - [Tire Comparison (Yufung)](#tire-comparison-yufung) — AliExpress options
 - [Wheels / Mounting](#wheels--mounting) — hex, gluing, inserts
+- [Price History](#price-history) — what I've paid
 - [Notes](#notes)
 
 ---
@@ -29,13 +30,19 @@
 
 ---
 
-## What I ran before (baseline)
+## What I've run (baseline)
 
-A generic **black 1/8 truggy set (26404, Fiona Hobby)** — square-stud tread, soft rubber, nylon rim, 143 mm dia / 63 mm wide, 17 mm hex, hard foam, $49.30/set.
+Two generic 143 mm truggy sets I own (both 17 mm hex, nylon rim, hard foam, 4 tires + 4 wheels):
 
-> **What I learned:** it **only gripped well when the track was moist** and was **mediocre the rest of the time**, plus it **wore out fast**. That's the problem the new tires have to fix: a tread/compound that actually bites **dry loose dust** (the track's normal state), and lasts longer. The Yufung "JConcepts similar" treads and the JetKo J-Zero are low-grip-specialist patterns aimed exactly at that.
+- 🟢 **Chanmoo dense-block set — current favorite.** Tight block tread, white rim. **Forward grip is excellent**, but I **want more lateral (side) grip** for cornering. Cheap and the bar to beat. Paid **$19.64/set**.
+- ❌ **Generic 26404 square-stud set — not a rebuy.** Black rim. **Only gripped when the track was moist**, mediocre on dry dust otherwise, and **wore fast**. Paid **$32.44/set** (Fiona Hobby, May 11 2026, order 8210691772464866).
 
-<p align="center"><img src="src/tire_generic_truggy_black_26404_previous.png" width="400"><br><em>The old generic 26404 truggy set — only worked moist, wore fast</em></p>
+<p align="center">
+  <img src="src/tire_chanmoo_truggy_white_favorite.png" width="350">&nbsp;<img src="src/tire_generic_truggy_black_26404_previous.png" width="350"><br>
+  <em>left: Chanmoo favorite (great forward grip, wants more lateral) · right: 26404 (only worked moist, wore fast)</em>
+</p>
+
+> **What the new tire has to do:** keep the Chanmoo's strong forward drive but **add lateral grip**, bite **dry loose dust** (not just moist), and **last longer**. A pin/spike "JConcepts similar" tread (Yufung) or the JetKo J-Zero should give more all-around side bite than the Chanmoo's longitudinal blocks.
 
 ---
 
@@ -44,6 +51,7 @@ A generic **black 1/8 truggy set (26404, Fiona Hobby)** — square-stud tread, s
 | Requirement | Type | Why |
 |---|---|---|
 | **Grip on loose / dusty / low-grip dirt** | Must | Meldrum Bar's normal state; the tread has to find bite in loose dust |
+| **Lateral / cornering grip** | Must | My favorite set has great forward grip but pushes in corners; the new tread needs side bite too |
 | **Still works wet / grippy** | May | Track firms up and grips when wet |
 | **Tread life under a heavy E-Revo** | Must | The heavy truck eats soft compounds fast; want reasonable life |
 | **1/8 truggy / 17 mm hex fit** | Must | The Revo runs 1/8 truggy tires via a 17 mm hex |
@@ -109,10 +117,21 @@ Meldrum Bar is **loose, dusty, low grip** (grippy only when wet). On low-tractio
 
 ---
 
+## Price History
+
+| Date | Item | Price | Notes |
+|---|---|---|---|
+| May 11, 2026 | Generic 26404 truggy set (Fiona Hobby) | **$32.44** | ✅ **purchased**, order 8210691772464866 (list $49.30). Baseline; only works moist, wore fast |
+| — | Chanmoo 143 mm truggy set | **$19.64** | ✅ **owned**, current favorite; great forward grip, wants more lateral |
+| — | Yufung truggy Soft (blue) | ~$50–54 | Leaning pick, not yet purchased |
+| — | Yufung F802 truggy Super Soft (green) | $52.06 | Grip-special runner-up, not yet purchased |
+
+---
+
 ## Notes
 
 - **Going blue for tire life.** Super soft (green) grips best but only lasts a few weekends under the heavy Revo, so blue (soft) is the daily. Keep a green set around only for the driest, lowest-grip days.
-- **Tread pattern matters too, not just compound.** My old 26404 set only worked when moist and was poor on dry dust. The new picks ("JConcepts similar" / J-Zero low-grip treads) are chosen specifically to bite dry loose dust, which the old square-stud tread didn't.
+- **Tread pattern matters too, not just compound.** My 26404 set only worked when moist and was poor on dry dust; my Chanmoo favorite has great forward grip but pushes in corners. The new picks ("JConcepts similar" / J-Zero low-grip treads) are chosen to bite dry loose dust and add the lateral grip the Chanmoo lacks.
 - **140 mm is the right size.** That's the diameter I originally ran, and both Yufung truggy sets are 140 mm, so they're a direct fit.
 - **Truggy only.** The Revo runs the wider 1/8 truggy size (140 mm dia, 60 mm wide). Yufung's buggy tires are skipped (narrower, wrong shape for this truck).
 - **Heavy truck = compound life matters.** The E-Revo loads tires harder than a buggy, so soft compounds go off / wear faster. That's why blue (soft) is the longer-wear daily and green (super soft) is the grip special.
