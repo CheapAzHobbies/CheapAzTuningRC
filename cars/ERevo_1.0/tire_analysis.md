@@ -91,14 +91,14 @@ Meldrum Bar is **loose, dusty, low grip** (grippy only when wet). On low-tractio
 
 PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the Revo runs) PowerHobby only sells **two treads — Block In and Lesnar** — each in **Ultra Soft / Super Soft / Medium Soft**, all in stock. Pricing is the same across colors/compounds: **$41.99/pair mounted** (≈$84/set of 4) or **$27.99/pair tires-only** (≈$56/set). The chart's J-Zero, Desirer, etc. are buggy-only, so they're off the table here.
 
-<p align="center"><img src="src/tire_powerhobby_jetko_tire_chart.jpg" width="600"><br><em>PowerHobby / JetKo 1/8 off-road tire chart (buggy line) — tread × compound × track condition</em></p>
+<p align="center"><img src="src/tire_powerhobby_jetko_tire_chart.png" width="700"><br><em>PowerHobby / JetKo 1/8 off-road tire chart (buggy line) — tread × compound × track condition</em></p>
 
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **Block In** — *the JetKo truggy pick* | Compounds: **Ultra / Super / Medium Soft**<br><br>Aggressive blocky-pin tread<br><br>Price: **$41.99/pair mounted**, **$27.99/pair tires-only** (≈$84 / ≈$56 per set of 4) | Pro: **Aggressive blocks bite loose/choppy dirt and give more lateral grip** (what I'm after); all three compounds in stock. Super Soft for loose dust, Medium Soft for wear<br><br>Con: Pricier than Yufung; soft compounds still wear under the heavy Revo | <img src="src/tire_powerhobby_blockin_truggy.jpg" width="500"> |
 | 🥈 **Lesnar** — *longest wear, all-around* | Compounds: **Ultra / Super / Medium Soft**<br><br>Fine micro-pin tread<br><br>Price: **$41.99/pair mounted**, **$27.99/pair tires-only** | Pro: **Best tread life**, smooth all-around; Medium Soft for max wear<br><br>Con: Less aggressive bite on loose dust and less lateral edge than Block In | <img src="src/tire_powerhobby_lesnar_truggy.jpg" width="500"> |
 | 🚫 ~~**J-Zero / Desirer / Sting / Zero (chart treads)**~~ — *buggy only* | 1/8 **buggy** treads from the chart above | Pro: n/a for this truck<br><br>Con: **Not offered in truggy** at PowerHobby; the truggy JetKo line is Block In + Lesnar only | — |
-| 🚫 ~~**Losi XXT — LOSA17701B (8ight-T)**~~ — *Losi brand, sold by PowerHobby* | Pre-mounted XXT square-stud tread, foam inserts<br><br>Price: **$57.99 / pair** (~$116/set), **out of stock** | Pro: Real Losi race tire, pre-mounted<br><br>Con: **Unavailable** and **~$116/set** is double the Yufung; XXT square-stud tread is like my 26404 (the one that only worked moist) | <img src="src/tire_losi_xxt_truggy_losa17701b.jpg" width="500"> |
+| 🚫 ~~**Losi XXT — LOSA17701B (8ight-T)**~~ — *Losi brand, sold by PowerHobby* | Pre-mounted XXT square-stud tread, foam inserts<br><br>Price: **$57.99 / pair** (~$116/set), **out of stock** | Pro: Real Losi race tire, pre-mounted<br><br>Con: **I don't like Losi tires on my track** (always the first set thrown out). Also **unavailable** and **~$116/set** is double the Yufung; XXT square-stud tread is like my 26404 (the one that only worked moist) | <img src="src/tire_losi_xxt_truggy_losa17701b.jpg" width="500"> |
 
 ---
 
