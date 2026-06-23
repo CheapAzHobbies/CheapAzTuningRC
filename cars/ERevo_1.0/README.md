@@ -30,7 +30,7 @@
 
 ## Track & Setup Philosophy
 
-Set up for **Meldrum Bar Park** — a **dirt race track** where this E-Revo is **actively raced** (the regular spot); the car also sees occasional **beach** running. Part choices favor **durability over light weight**, with **corrosion resistance** for the beach days: stainless steel rods, plastic rod ends, alloy rockers that don't crack, and heavy shock oil for consistent damping. Rinse and dry after beach runs to keep salt out of the bearings.
+Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt track** (not groomed; only the ramps and potholes get fixed now and then, and it can turn **grippy when wet**) where this E-Revo is **actively raced**, plus occasional **beach** running. Part choices favor **durability over light weight**, with **corrosion resistance** for the beach days: stainless steel rods, plastic rod ends, alloy rockers that don't crack, and heavy shock oil for consistent damping. Rinse and dry after beach runs to keep salt out of the bearings. **Tire choice for this low-grip surface is in [`tire_analysis.md`](tire_analysis.md).**
 
 ---
 
