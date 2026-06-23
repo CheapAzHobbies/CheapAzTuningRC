@@ -1,6 +1,6 @@
 # Tire & Wheel Selection — E-Revo 1.0
 
-> **Leaning: Yufung 1/8 truggy in Soft (blue), ~$50/set.** Yufung mimics the JConcepts compounds, so **blue = soft** and **green = super soft**. The green super-soft grips best on loose dust but **wears out in a few weekends** under the heavy Revo, so the **blue (soft) is the pick** for longer life; green stays as a grip special for the driest, lowest-grip days. Both are complete pre-glued truggy wheels with foam, 17 mm hex, and undercut the proven **JetKo J-Zero Super Soft (~$84/set)**.
+> **Leaning: Yufung 1/8 truggy in Soft (blue), ~$50/set.** Yufung mimics the JConcepts compounds, so **blue = soft** and **green = super soft**. The green super-soft grips best on loose dust but **wears out in a few weekends** under the heavy Revo, so the **blue (soft) is the pick** for longer life; green stays as a grip special for the driest, lowest-grip days. Both are complete pre-glued truggy wheels with foam, 17 mm hex, and undercut the **JetKo truggy treads (Block In / Lesnar, $27.99/pair tires-only, $41.99/pair mounted)** — the premium alternative if I want a proven race tire with more lateral bite.
 
 <p align="center">
   <img src="src/tire_yufung_truggy_blue_supersoft.png" width="500">&nbsp;<img src="src/tire_yufung_truggy_green_f802.png" width="500"><br>
@@ -53,7 +53,7 @@ Two generic 143 mm truggy sets I own (both 17 mm hex, nylon rim, hard foam, 4 ti
 | **Grip on loose / dusty / low-grip dirt** | Must | Meldrum Bar's normal state; the tread has to find bite in loose dust |
 | **Lateral / cornering grip** | Must | My favorite set has great forward grip but pushes in corners; the new tread needs side bite too |
 | **Still works wet / grippy** | May | Track firms up and grips when wet |
-| **Tread life under a heavy E-Revo** | Must | The heavy truck eats soft compounds fast; want reasonable life |
+| **Tread life under a heavy E-Revo** | May | The heavy truck eats soft compounds fast; reasonable life is nice but grip comes first |
 | **1/8 truggy / 17 mm hex fit** | Must | The Revo runs 1/8 truggy tires via a 17 mm hex |
 
 ---
@@ -89,17 +89,16 @@ Meldrum Bar is **loose, dusty, low grip** (grippy only when wet). On low-tractio
 
 ## Comparison (PowerHobby / JetKo)
 
-PowerHobby's own chart rates each JetKo tread + compound across track conditions (loose loamy → blue groove). For my loose, low-grip dirt, read the **loose loamy / muddy** columns in **Super Soft**.
+PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the Revo runs) PowerHobby only sells **two treads — Block In and Lesnar** — each in **Ultra Soft / Super Soft / Medium Soft**, all in stock. Pricing is the same across colors/compounds: **$41.99/pair mounted** (≈$84/set of 4) or **$27.99/pair tires-only** (≈$56/set). The chart's J-Zero, Desirer, etc. are buggy-only, so they're off the table here.
 
-<p align="center"><img src="src/tire_powerhobby_jetko_tire_chart.jpg" width="600"><br><em>PowerHobby / JetKo 1/8 off-road tire chart — tread × compound × track condition</em></p>
+<p align="center"><img src="src/tire_powerhobby_jetko_tire_chart.jpg" width="600"><br><em>PowerHobby / JetKo 1/8 off-road tire chart (buggy line) — tread × compound × track condition</em></p>
 
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **J-Zero** — *Super Soft, leaning* | Low-grip design, flexible deformation-zone tread<br><br>Mounted on 17 mm dish wheels<br><br>Price: **$41.99 / pair** ($84/set) | Pro: **Built for low grip** — flexible tread digs into loose dust and works wet/cold, exactly Meldrum Bar<br><br>Con: Gives up some bite if the track firms up or gets rough | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/tire_powerhobby_jzero_truggy.jpg` |
-| 🔵 **Block In** — *Super Soft, rough-day alt* | Blocky all-terrain, qualifying speed, A-main life<br><br>Price: **$41.99 / pair** | Pro: **Strong on rough / choppy / medium dirt** with race speed<br><br>Con: Blocky tread is less ideal on pure loose dust than the J-Zero | <img src="src/tire_powerhobby_blockin_truggy.jpg" width="500"> |
-| 🔵 **Lesnar** — *durability, wrong track* | Longest-lasting race tire, quick/agile<br><br>Price: **$41.99 / pair** | Pro: **Best tread life** (fits the durability ethos), all-around<br><br>Con: **Not a low-grip specialist** — less bite on loose dust than J-Zero | <img src="src/tire_powerhobby_lesnar_truggy.jpg" width="500"> |
-| 🔵 **Desirer** — *low-grip, verify fit* | Low-grip oriented (mostly a buggy tread) | Pro: Another low-grip option<br><br>Con: Primarily a buggy tread; **verify truggy sizing** before buying | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/tire_powerhobby_desirer_truggy.jpg` |
-| 🚫 ~~**Losi XXT — LOSA17701B (8ight-T)**~~ — *Losi brand, sold by PowerHobby* | Pre-mounted XXT square-stud tread on white zero-offset wheels<br><br>Blue compound, foam inserts<br><br>Price: **$57.99 / pair** (~$116/set), **out of stock** | Pro: Real Losi race tire, pre-mounted<br><br>Con: **Unavailable** and **~$116/set** is double the Yufung; XXT square-stud tread is like my 26404 (the one that only worked moist) | <img src="src/tire_losi_xxt_truggy_losa17701b.jpg" width="500"> |
+| ⭐ **Block In** — *the JetKo truggy pick* | Compounds: **Ultra / Super / Medium Soft**<br><br>Aggressive blocky-pin tread<br><br>Price: **$41.99/pair mounted**, **$27.99/pair tires-only** (≈$84 / ≈$56 per set of 4) | Pro: **Aggressive blocks bite loose/choppy dirt and give more lateral grip** (what I'm after); all three compounds in stock. Super Soft for loose dust, Medium Soft for wear<br><br>Con: Pricier than Yufung; soft compounds still wear under the heavy Revo | <img src="src/tire_powerhobby_blockin_truggy.jpg" width="500"> |
+| 🥈 **Lesnar** — *longest wear, all-around* | Compounds: **Ultra / Super / Medium Soft**<br><br>Fine micro-pin tread<br><br>Price: **$41.99/pair mounted**, **$27.99/pair tires-only** | Pro: **Best tread life**, smooth all-around; Medium Soft for max wear<br><br>Con: Less aggressive bite on loose dust and less lateral edge than Block In | <img src="src/tire_powerhobby_lesnar_truggy.jpg" width="500"> |
+| 🚫 ~~**J-Zero / Desirer / Sting / Zero (chart treads)**~~ — *buggy only* | 1/8 **buggy** treads from the chart above | Pro: n/a for this truck<br><br>Con: **Not offered in truggy** at PowerHobby; the truggy JetKo line is Block In + Lesnar only | — |
+| 🚫 ~~**Losi XXT — LOSA17701B (8ight-T)**~~ — *Losi brand, sold by PowerHobby* | Pre-mounted XXT square-stud tread, foam inserts<br><br>Price: **$57.99 / pair** (~$116/set), **out of stock** | Pro: Real Losi race tire, pre-mounted<br><br>Con: **Unavailable** and **~$116/set** is double the Yufung; XXT square-stud tread is like my 26404 (the one that only worked moist) | <img src="src/tire_losi_xxt_truggy_losa17701b.jpg" width="500"> |
 
 ---
 
@@ -140,7 +139,8 @@ PowerHobby's own chart rates each JetKo tread + compound across track conditions
 - **140 mm is the right size.** That's the diameter I originally ran, and both Yufung truggy sets are 140 mm, so they're a direct fit.
 - **Truggy only.** The Revo runs the wider 1/8 truggy size (140 mm dia, 60 mm wide). Yufung's buggy tires are skipped (narrower, wrong shape for this truck).
 - **Heavy truck = compound life matters.** The E-Revo loads tires harder than a buggy, so soft compounds go off / wear faster. That's why blue (soft) is the longer-wear daily and green (super soft) is the grip special.
-- **Cost:** JetKo J-Zero is **$41.99 / pair (~$84 / set of 4)**; Yufung truggy is **$52.06/set green** and **~$50–54/set blue** (complete pre-glued wheels with foam). Yufung is the budget play and fits the spec.
+- **Cost:** JetKo truggy (Block In / Lesnar) is **$41.99/pair mounted (~$84/set)** or **$27.99/pair tires-only (~$56/set)**; Yufung truggy is **$52.06/set green** and **~$50–54/set blue** (complete pre-glued wheels with foam). Yufung is the budget play and fits the spec.
+- **JetKo truggy = Block In or Lesnar only.** The J-Zero/Desirer/Zero treads from the chart are 1/8 buggy, not sold in truggy. Block In (aggressive, more lateral bite) is the JetKo pick if I go premium; Lesnar if I want max wear.
 - **Pre-glued is convenient but verify.** Yufung ships glued and foamed, so install-and-go, but check the bead before a race day.
 - **Beach is a different tire.** Dirt compounds don't work on dry sand; that's a paddle-tire problem, not a compound pick.
 - **Verify before buying Yufung:** 17 mm hex fit and that the bead glue holds (140 mm dia already matches what I ran).
