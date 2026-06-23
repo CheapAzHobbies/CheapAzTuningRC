@@ -12,6 +12,7 @@
 ## Table of Contents
 
 - [Track context](#track-context) — why low grip is the target
+- [What I ran before (baseline)](#what-i-ran-before-baseline) — the old set and its problems
 - [Key Requirements](#key-requirements)
 - [JConcepts Compound Key (hardness scale)](#jconcepts-compound-key-hardness-scale) — what each color means
 - [What hardness for my track](#what-hardness-for-my-track) — loose low-grip dirt
@@ -25,6 +26,16 @@
 ## Track context
 
 **Meldrum Bar Park** — unkept dirt, only the ramps + potholes get fixed occasionally. **Loose, dusty, low grip**, but can turn **grippy when wet**. The E-Revo runs **1/8 truggy tires (140 mm) on a 17 mm hex** — 140 mm is the size I originally ran. Low grip is the design target, balanced against tire life under the heavy truck.
+
+---
+
+## What I ran before (baseline)
+
+A generic **black 1/8 truggy set (26404, Fiona Hobby)** — square-stud tread, soft rubber, nylon rim, 143 mm dia / 63 mm wide, 17 mm hex, hard foam, $49.30/set.
+
+> **What I learned:** it **only gripped well when the track was moist** and was **mediocre the rest of the time**, plus it **wore out fast**. That's the problem the new tires have to fix: a tread/compound that actually bites **dry loose dust** (the track's normal state), and lasts longer. The Yufung "JConcepts similar" treads and the JetKo J-Zero are low-grip-specialist patterns aimed exactly at that.
+
+<p align="center"><img src="src/tire_generic_truggy_black_26404_previous.png" width="400"><br><em>The old generic 26404 truggy set — only worked moist, wore fast</em></p>
 
 ---
 
@@ -101,6 +112,7 @@ Meldrum Bar is **loose, dusty, low grip** (grippy only when wet). On low-tractio
 ## Notes
 
 - **Going blue for tire life.** Super soft (green) grips best but only lasts a few weekends under the heavy Revo, so blue (soft) is the daily. Keep a green set around only for the driest, lowest-grip days.
+- **Tread pattern matters too, not just compound.** My old 26404 set only worked when moist and was poor on dry dust. The new picks ("JConcepts similar" / J-Zero low-grip treads) are chosen specifically to bite dry loose dust, which the old square-stud tread didn't.
 - **140 mm is the right size.** That's the diameter I originally ran, and both Yufung truggy sets are 140 mm, so they're a direct fit.
 - **Truggy only.** The Revo runs the wider 1/8 truggy size (140 mm dia, 60 mm wide). Yufung's buggy tires are skipped (narrower, wrong shape for this truck).
 - **Heavy truck = compound life matters.** The E-Revo loads tires harder than a buggy, so soft compounds go off / wear faster. That's why blue (soft) is the longer-wear daily and green (super soft) is the grip special.
