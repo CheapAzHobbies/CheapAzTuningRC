@@ -208,7 +208,28 @@ When you start a **new part category**, define its field order once (add a short
 
 - **Tires / wheels:** Type · Tread · Compound · Dia · Width · Rim · Hex · Weight · Foam · Pre-glued · Price
 - **Radio controllers (transmitters):** Type · Channels · Protocol · Receivers · Gyro · Telemetry · Model memory · Display · Battery · Price
-- *(add new categories here as they are created — motors, ESCs, servos, batteries, shocks, etc.)*
+- **Arms (A-arms):** Type · Material · Position · Fits · Wheelbase · Pivot/Hardware · Stiffness · Toe · Origin · Weight · Price
+- **Bumpers:** Type · Material · Position · Fits · Includes · Weight · Price
+- **Shocks:** Type · Bore · Length · Body material · Piston · Mounting · Part · Spring · Oil · Price
+- **Hubs / axle carriers:** Type · Material · Bearing sizes · Hex · Fits · Pivot/Hardware · Brand · Colors · Toe · Warranty · Includes · Weight · Price
+- **Rockers:** Type · Material · Rate · Pivot/Hardware · Fits · Colors · Weight · Price
+- **Rods (turnbuckles / pushrods):** Type · Material · MPN · Fits · Adjustable · Length · Price
+- **Bodies:** Type/Part · Material · Finish · Includes · Fits · Price
+- **ESCs:** Cells · Current (A) · BEC · Sensored · Waterproof · Weight · Price
+- **Motors:** Type · KV · Cells · Can · Shaft · Sensored · Poles/Slots · Rotor · Max RPM · Max temp · Bearings · Rebuildable · Weight · Price
+- **Servos:** Type · Torque · Speed · Voltage · Gears · Case · Motor · Bearing · Refresh · Pulse width · Dead band · Neutral · Travel · Signal · Programmable · Size · Weight · Price
+- **Shock towers:** Material · Thickness · Dimensions · Weight · Failure mode · Price
+- **Gearbox housings:** Material · Part · Weight · Price
+- **Steering bell cranks:** Material · Pivots · Fits · Price
+- **Sway bars:** Part · Bars · Rates · Mounting · Includes · Price
+- **Chassis:** Material · CG · Fits · Includes · Price
+- **Differentials:** Outdrive · Housing · Internals · Part · Fits · Price
+- **Spur gears:** Teeth · Pitch · Material · Fits · Price
+- **Driveshafts (axle):** Type · Part · Diff end · Fits · Price
+- **Driveshafts (center):** Type · Material · Part · Length · Price
+- **Wings:** Part · Material · Size · Fits · Weight · Price
+- **Motor cooling (heatsink/fan):** Heatsink · Fans · Suits · Footprint · Fan max RPM · Cable · Weight · Price
+- *(add new categories here as they are created)*
 
 If you write an analysis for a category not yet listed, pick a sensible field order, apply it consistently, and append it to this registry.
 
