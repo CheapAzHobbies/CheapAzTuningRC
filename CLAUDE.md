@@ -200,13 +200,17 @@ Rules:
 - **Consistency audit**: claims like "lightest", "cheapest", "highest amp" must be checked against the actual numbers in the table. If multiple rows make conflicting claims, fix them (e.g. "lightest waterproof option" or "lightest 6S-capable" — narrow the claim instead of dropping it).
 - **Filename**: image names follow the image scheme above (`[section]_[brand]_[description]_[part-number].[ext]`).
 
-### Tire / wheel analysis spec format
+### Standardized Spec cell format (ALL analysis docs)
 
-For any `tire_analysis.md` / wheel analysis, **every comparison row's Spec cell uses this fixed field order**, one `**Key:** value` per `<br>` line. Use **`N/A`** when a field doesn't apply or isn't known yet (don't drop the field):
+**This applies to every comparison table in the whole repo, not just one part type.** Each part category has a **fixed Spec field order**, written one `**Key:** value` per `<br>` line, in the **same order in every row**. Use **`N/A`** when a field doesn't apply or isn't known yet — **never drop a field**, so rows stay aligned and scannable. Anything extra (special offset, brand notes, availability quirks) goes in the Pros/Cons cell, not the Spec block.
 
-`**Type:**` (e.g. 1/8 truggy / buggy) · `**Tread:**` · `**Compound:**` · `**Dia:**` · `**Width:**` · `**Rim:**` · `**Hex:**` · `**Weight:**` · `**Foam:**` (closed-cell / soft sponge / N/A) · `**Pre-glued:**` (Yes/No) · `**Price:**`
+When you start a **new part category**, define its field order once (add a short `> *Spec format: A · B · C ...*` note above the first table in that doc) and then reuse that exact order for every row and every future doc on that category. **Register the order in the list below** so it's reused, not reinvented:
 
-Keep the same order in every row so columns line up visually and it's easy to scan. Anything extra (special offset, brand notes, availability) goes in the Pros/Cons cell, not the Spec block.
+- **Tires / wheels:** Type · Tread · Compound · Dia · Width · Rim · Hex · Weight · Foam · Pre-glued · Price
+- **Radio controllers (transmitters):** Type · Channels · Protocol · Receivers · Gyro · Telemetry · Model memory · Display · Battery · Price
+- *(add new categories here as they are created — motors, ESCs, servos, batteries, shocks, etc.)*
+
+If you write an analysis for a category not yet listed, pick a sensible field order, apply it consistently, and append it to this registry.
 
 ## Commit messages
 
