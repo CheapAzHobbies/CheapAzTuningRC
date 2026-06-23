@@ -121,9 +121,9 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 
 ## Tires & Wheels
 
-- **Compound:** Meldrum Bar is **loose, dusty, low-grip** dirt, so the **super-soft** end hooks up best. Leaning the **Yufung F802 1/8 truggy Super Soft (green), $52.06/set** for grip, with the **blue (soft), ~$50/set** as the longer-wearing runner-up. Both are pre-glued wheels with foam and undercut the proven **JetKo J-Zero Super Soft (~$84/set)**.
-- **Yufung mimics JConcepts compounds:** green = super soft, blue = soft. Buggy tires skipped (the Revo runs the wider truggy size).
-- **Hex:** 17 mm (1/8 truggy, 140 mm dia). Tires come pre-glued; check the bead before a race.
+- **Compound:** Meldrum Bar is **loose, dusty, low-grip** dirt, but super soft only lasts a few weekends under the heavy Revo, so leaning the **Yufung 1/8 truggy Soft (blue), ~$50/set** for tire life. Keep the **green (super soft), $52.06/set** as a grip special for the driest days. Both are pre-glued wheels with foam and undercut the proven **JetKo J-Zero Super Soft (~$84/set)**.
+- **Yufung mimics JConcepts compounds:** blue = soft, green = super soft. Buggy tires skipped (the Revo runs the wider truggy size).
+- **Hex / size:** 17 mm hex, **140 mm dia** (the size originally run, so a direct fit). Tires come pre-glued; check the bead before a race.
 - Full compound key, track picks, JetKo treads, and Yufung options in [`tire_analysis.md`](tire_analysis.md).
 
 ---
