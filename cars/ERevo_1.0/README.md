@@ -13,6 +13,7 @@
 - [Electronics](#electronics)
 - [Steering](#steering)
 - [Aero & Body](#aero--body)
+- [Tires & Wheels](#tires--wheels)
 - [Bumpers](#bumpers)
 - [Parts List](#parts-list)
 - [3D Models](#3d-models)
@@ -115,6 +116,14 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 **Body:** Currently on the **original E-Revo body** (OG style, preferred look). Planning the **Traxxas 8612 E-Revo 2.0 "Solar Flare"** pre-painted body — comes painted with decals plus clipless mounts, reinforcement, and roof skid, which works out cheaper than painting an aftermarket 1.0 body and adding the protective bits separately ($79.95, currently out of stock at PowerHobby). The 2.0 shell wears out, so the plan is to reuse its protective plastic on an OG-style body. Full reasoning in [`body_analysis.md`](body_analysis.md).
 
 **Body posts:** **Traxxas 8614 clipless body posts, front & rear** (E-Revo VXL BL) — **in hand** ($5, PowerHobby). Bought to run clipless mounting on an OG-style body.
+
+---
+
+## Tires & Wheels
+
+- **Compound:** Meldrum Bar is **loose, dusty, low-grip** dirt, so the **soft end** of the scale hooks up best. Leaning **JetKo J-Zero in Super Soft** (low-grip tread); also pricing cheaper **AliExpress tires from the Yufung Rubber Tire Store**, which use the **JConcepts color scale** (green = super soft, blue = soft, white/yellow = medium). Stay at the **green/super-soft** end for this track; blue is for when it wets up and grips.
+- **Hex:** 17 mm (1/8 truggy conversion). Race tires get glued to the bead; verify foam inserts are firm enough for the heavy Revo's landings.
+- Compound key, track-by-condition picks, JetKo treads, and the Yufung options in [`tire_analysis.md`](tire_analysis.md).
 
 ---
 
