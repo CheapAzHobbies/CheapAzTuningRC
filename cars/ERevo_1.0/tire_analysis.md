@@ -39,7 +39,7 @@ Two generic 1/8 truggy sets I own (17 mm hex, nylon rim, hard foam, 4 tires + 4 
 
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| 🟢 **RedSpider dense-block set — current favorite** | **Type:** 1/8 truggy<br>**Tread:** dense block (square-stud)<br>**Compound:** soft rubber (unmarked)<br>**Dia:** 140 mm<br>**Width:** 70 mm<br>**Rim:** 90 mm<br>**Hex:** 17 mm<br>**Weight:** 208 g<br>**Foam:** soft sponge (packs out)<br>**Pre-glued:** No<br>**Price:** $19.64 / set (owned) | Pro: **Forward grip is excellent**; **wide 70 mm footprint** helps; cheap, the bar to beat<br><br>Con: **Wants more lateral (side) grip** for cornering; **soft sponge insert packs out** and **not pre-glued** | <img src="src/tire_redspider_truggy_white_favorite.png" width="250"> <img src="src/tire_redspider_truggy_dimensions.jpg" width="250"><br><em>tire · measured dims</em> |
+| 🟢 **RedSpider dense-block set — current favorite** | **Type:** 1/8 truggy<br>**Tread:** dense block (square-stud)<br>**Compound:** soft rubber (unmarked)<br>**Dia:** 140 mm<br>**Width:** 70 mm<br>**Rim:** 90 mm<br>**Hex:** 17 mm<br>**Weight:** 208 g<br>**Foam:** soft sponge (packs out)<br>**Pre-glued:** No<br>**Price:** $19.64 / set (RED SPIDER Store, Oct 24 2025, order 8206119326314866; list $23.69) | Pro: **Forward grip is excellent**; **wide 70 mm footprint** helps; cheap, the bar to beat<br><br>Con: **Wants more lateral (side) grip** for cornering; **soft sponge insert packs out** and **not pre-glued** | <img src="src/tire_redspider_truggy_white_favorite.png" width="250"> <img src="src/tire_redspider_truggy_dimensions.jpg" width="250"><br><em>tire · measured dims</em> |
 | ❌ ~~**Generic 26404 square-stud set — not a rebuy**~~ | **Type:** 1/8 truggy<br>**Tread:** square-stud<br>**Compound:** soft rubber (unmarked)<br>**Dia:** 143 mm<br>**Width:** 63 mm<br>**Rim:** 102 mm<br>**Hex:** 17 mm<br>**Weight:** N/A<br>**Foam:** soft sponge (packs out)<br>**Pre-glued:** No<br>**Price:** $32.44 / set (Fiona Hobby, May 11 2026, order 8210691772464866) | Pro: Cheap-ish, fits<br><br>Con: **Only gripped when moist**, mediocre on dry dust, and **wore fast**; narrow 63 mm tread = smaller footprint, less grip; **soft sponge insert packs out** and **not pre-glued** | <img src="src/tire_generic_truggy_black_26404_previous.png" width="500"> |
 
 > **What the new tire has to do:** keep the RedSpider's strong forward drive but **add lateral grip**, bite **dry loose dust** (not just moist), and last longer. A pin/spike "JConcepts similar" tread (Yufung) or a JetKo Block In should give more all-around side bite than the RedSpider's longitudinal blocks.
@@ -146,7 +146,7 @@ PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the R
 | Date | Item | Price | Notes |
 |---|---|---|---|
 | May 11, 2026 | Generic 26404 truggy set (Fiona Hobby) | **$32.44** | ✅ **purchased**, order 8210691772464866 (list $49.30). Baseline; only works moist, wore fast |
-| — | RedSpider 143 mm truggy set | **$19.64** | ✅ **owned**, current favorite; great forward grip, wants more lateral |
+| Oct 24, 2025 | RedSpider 140 mm truggy set (RED SPIDER Store) | **$19.64** | ✅ **purchased**, order 8206119326314866 (list $23.69). Current favorite; great forward grip, wants more lateral |
 | — | Yufung truggy Soft (blue) | ~$50–54 | Leaning pick, not yet purchased |
 | — | Yufung F802 truggy Super Soft (green) | $52.06 | Grip-special runner-up, not yet purchased |
 
