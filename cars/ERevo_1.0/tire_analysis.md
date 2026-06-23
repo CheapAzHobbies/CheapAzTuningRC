@@ -52,7 +52,7 @@ Two generic 1/8 truggy sets I own (17 mm hex, nylon rim, hard foam, 4 tires + 4 
 |---|---|---|
 | **Grip on loose / dusty / low-grip dirt** | Must | Meldrum Bar's normal state; the tread has to find bite in loose dust |
 | **Lateral / cornering grip** | Must | My favorite set has great forward grip but pushes in corners; the new tread needs side bite too |
-| **Closed-cell foam inserts** | Must | The hard sponges in my RedSpider + 26404 sets pack out fast (OK only for a bit); closed-cell holds shape under the heavy Revo |
+| **Closed-cell foam inserts** | May | The hard sponges in my RedSpider + 26404 sets pack out fast (OK only for a bit); closed-cell holds shape under the heavy Revo, but it's a preference not a dealbreaker |
 | **Still works wet / grippy** | May | Track firms up and grips when wet |
 | **Tread life under a heavy E-Revo** | May | The heavy truck eats soft compounds fast; reasonable life is nice but grip comes first |
 | **1/8 truggy / 17 mm hex fit** | Must | The Revo runs 1/8 truggy tires via a 17 mm hex |
@@ -145,6 +145,7 @@ PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the R
 ## Notes
 
 - **Going blue for tire life.** Super soft (green) grips best but only lasts a few weekends under the heavy Revo, so blue (soft) is the daily. Keep a green set around only for the driest, lowest-grip days.
+- **Softer isn't always more grip.** Past a point a too-soft compound can actually hook up *worse* — it squirms, balls up, or greases over under the heavy Revo. So "super soft" isn't automatically best; another reason blue (soft) over green here.
 - **Tread pattern matters too, not just compound.** My 26404 set only worked when moist and was poor on dry dust; my RedSpider favorite has great forward grip but pushes in corners. The new picks ("JConcepts similar" / Block In treads) are chosen to bite dry loose dust and add the lateral grip the RedSpider lacks.
 - **140 mm dia is the right height** (matches the RedSpider favorite), and both Yufung truggy sets are 140 mm. But **width matters for lateral grip:** the Yufung is **60 mm** vs the RedSpider's **70 mm**, so it could give *less* side bite, not more. A 70 mm JetKo truggy may be the better width match.
 - **Truggy only.** The Revo runs the wider 1/8 truggy size (140 mm dia, 60 mm wide). Yufung's buggy tires are skipped (narrower, wrong shape for this truck).
