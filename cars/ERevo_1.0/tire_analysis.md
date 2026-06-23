@@ -128,6 +128,8 @@ PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the R
 <p align="center"><img src="src/tire_aka_chart_truggy.jpg" width="500">&nbsp;<img src="src/tire_aka_chart_full.jpg" width="500"><br><em>left: AKA 1/8 truggy tread × condition + compound-by-temp · right: full AKA chart with part numbers / granular traction</em></p>
 
 > **What AKA's chart says for my track (loose, dusty, low grip):** for **Loose Loamy**, AKA rates **City Block and I-Beam "best"**, and **Gridiron + Impact only "good."** So the Gridiron is really a hard-pack tire here; **City Block (or the loose-specialist I-Beam) is the better AKA pick** for my dirt. Compound by temperature: **Ultra Soft** for cold (<~50°F), **Super Soft** for cool, **Soft** once it warms.
+>
+> **Best overall (one set, run until worn): AKA City Block, Soft (Long Wear).** I run a set till it's dead, so versatility + wear win. My track lives between **loose loamy** (normal) and **hard-pack with dust** (dried out) and never blue-grooves — and City Block rates **"best" at both** of those, covering my whole range. I-Beam dies once it dries; Gridiron/Impact are only "good" on loose (my most common state). Soft Long Wear balances grip and life under the heavy Revo; Super Soft only if I want max grip and accept faster wear.
 
 ---
 
