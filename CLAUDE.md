@@ -200,6 +200,14 @@ Rules:
 - **Consistency audit**: claims like "lightest", "cheapest", "highest amp" must be checked against the actual numbers in the table. If multiple rows make conflicting claims, fix them (e.g. "lightest waterproof option" or "lightest 6S-capable" — narrow the claim instead of dropping it).
 - **Filename**: image names follow the image scheme above (`[section]_[brand]_[description]_[part-number].[ext]`).
 
+### Tire / wheel analysis spec format
+
+For any `tire_analysis.md` / wheel analysis, **every comparison row's Spec cell uses this fixed field order**, one `**Key:** value` per `<br>` line. Use **`N/A`** when a field doesn't apply or isn't known yet (don't drop the field):
+
+`**Type:**` (e.g. 1/8 truggy / buggy) · `**Tread:**` · `**Compound:**` · `**Dia:**` · `**Width:**` · `**Rim:**` · `**Hex:**` · `**Weight:**` · `**Foam:**` (closed-cell / soft sponge / N/A) · `**Pre-glued:**` (Yes/No) · `**Price:**`
+
+Keep the same order in every row so columns line up visually and it's easy to scan. Anything extra (special offset, brand notes, availability) goes in the Pros/Cons cell, not the Spec block.
+
 ## Commit messages
 
 - Short imperative title (≤ 70 chars), then a one- or two-sentence body explaining the why.
