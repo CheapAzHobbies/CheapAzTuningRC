@@ -32,12 +32,12 @@
 
 ## What I've run (baseline)
 
-Two generic 143 mm truggy sets I own (143 mm dia / 63 mm wide, 17 mm hex, nylon rim, hard foam, 4 tires + 4 wheels). They set the bar the new tires have to beat:
+Two generic 1/8 truggy sets I own (17 mm hex, nylon rim, hard foam, 4 tires + 4 wheels). Both listings show the same generic 143×63 mm spec, but by hand they differ: the **26404 is taller and narrower**, the **RedSpider shorter and wider**. They set the bar the new tires have to beat:
 
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| 🟢 **RedSpider dense-block set — current favorite** | Tight block tread, white rim<br><br>143 mm dia · 63 mm wide · 17 mm hex<br><br>Price: **$19.64 / set** (owned) | Pro: **Forward grip is excellent**; cheap, the bar to beat<br><br>Con: **Wants more lateral (side) grip** for cornering | <img src="src/tire_redspider_truggy_white_favorite.png" width="500"> |
-| ❌ ~~**Generic 26404 square-stud set — not a rebuy**~~ | Square-stud tread, black rim<br><br>143 mm dia · 63 mm wide · 17 mm hex<br><br>Price: **$32.44 / set** (Fiona Hobby, May 11 2026, order 8210691772464866) | Pro: Cheap-ish, fits<br><br>Con: **Only gripped when moist**, mediocre on dry dust, and **wore fast** | <img src="src/tire_generic_truggy_black_26404_previous.png" width="500"> |
+| 🟢 **RedSpider dense-block set — current favorite** | Tight block tread, white rim<br><br>**Shorter and wider** than the 26404<br><br>17 mm hex (listing shows a generic 143×63 mm; treat as approximate)<br><br>Price: **$19.64 / set** (owned) | Pro: **Forward grip is excellent**; wider footprint helps; cheap, the bar to beat<br><br>Con: **Wants more lateral (side) grip** for cornering | <img src="src/tire_redspider_truggy_white_favorite.png" width="500"> |
+| ❌ ~~**Generic 26404 square-stud set — not a rebuy**~~ | Square-stud tread, black rim<br><br>**Taller and narrower** than the RedSpider<br><br>17 mm hex (exact dims unconfirmed; listing's 143×63 mm looks like a generic copy)<br><br>Price: **$32.44 / set** (Fiona Hobby, May 11 2026, order 8210691772464866) | Pro: Cheap-ish, fits<br><br>Con: **Only gripped when moist**, mediocre on dry dust, and **wore fast**; narrow tread = smaller footprint, less grip | <img src="src/tire_generic_truggy_black_26404_previous.png" width="500"> |
 
 > **What the new tire has to do:** keep the RedSpider's strong forward drive but **add lateral grip**, bite **dry loose dust** (not just moist), and last longer. A pin/spike "JConcepts similar" tread (Yufung) or a JetKo Block In should give more all-around side bite than the RedSpider's longitudinal blocks.
 
