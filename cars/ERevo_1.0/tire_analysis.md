@@ -89,6 +89,10 @@ Meldrum Bar is **loose, dusty, low grip** (grippy only when wet). On low-tractio
 
 ## Comparison (PowerHobby / JetKo)
 
+PowerHobby's own chart rates each JetKo tread + compound across track conditions (loose loamy → blue groove). For my loose, low-grip dirt, read the **loose loamy / muddy** columns in **Super Soft**.
+
+<p align="center"><img src="src/tire_powerhobby_jetko_tire_chart.jpg" width="600"><br><em>PowerHobby / JetKo 1/8 off-road tire chart — tread × compound × track condition</em></p>
+
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **J-Zero** — *Super Soft, leaning* | Low-grip design, flexible deformation-zone tread<br><br>Mounted on 17 mm dish wheels<br><br>Price: **$41.99 / pair** ($84/set) | Pro: **Built for low grip** — flexible tread digs into loose dust and works wet/cold, exactly Meldrum Bar<br><br>Con: Gives up some bite if the track firms up or gets rough | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/tire_powerhobby_jzero_truggy.jpg` |
