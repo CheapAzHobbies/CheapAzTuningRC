@@ -32,12 +32,12 @@
 
 ## What I've run (baseline)
 
-Two generic 1/8 truggy sets I own (17 mm hex, nylon rim, hard foam, 4 tires + 4 wheels). Both listings show the same generic 143×63 mm spec, but by hand they differ: the **26404 is taller and narrower**, the **RedSpider shorter and wider**. They set the bar the new tires have to beat:
+Two generic 1/8 truggy sets I own (17 mm hex, nylon rim, hard foam, 4 tires + 4 wheels). They differ in size: the **RedSpider favorite measures 140 mm dia × 70 mm wide (208 g)**, the **26404 is taller and narrower (~143 × 63 mm)**. They set the bar the new tires have to beat:
 
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| 🟢 **RedSpider dense-block set — current favorite** | Tight block tread, white rim<br><br>**Shorter and wider** than the 26404<br><br>17 mm hex (listing shows a generic 143×63 mm; treat as approximate)<br><br>Price: **$19.64 / set** (owned) | Pro: **Forward grip is excellent**; wider footprint helps; cheap, the bar to beat<br><br>Con: **Wants more lateral (side) grip** for cornering | <img src="src/tire_redspider_truggy_white_favorite.png" width="500"> |
-| ❌ ~~**Generic 26404 square-stud set — not a rebuy**~~ | Square-stud tread, black rim<br><br>**Taller and narrower** than the RedSpider<br><br>17 mm hex (exact dims unconfirmed; listing's 143×63 mm looks like a generic copy)<br><br>Price: **$32.44 / set** (Fiona Hobby, May 11 2026, order 8210691772464866) | Pro: Cheap-ish, fits<br><br>Con: **Only gripped when moist**, mediocre on dry dust, and **wore fast**; narrow tread = smaller footprint, less grip | <img src="src/tire_generic_truggy_black_26404_previous.png" width="500"> |
+| 🟢 **RedSpider dense-block set — current favorite** | Tight block tread, white rim<br><br>**140 mm dia · 70 mm wide · 90 mm rim · 208 g** (measured)<br><br>17 mm hex<br><br>Price: **$19.64 / set** (owned) | Pro: **Forward grip is excellent**; **wide 70 mm footprint** helps; cheap, the bar to beat<br><br>Con: **Wants more lateral (side) grip** for cornering | <img src="src/tire_redspider_truggy_white_favorite.png" width="250"> <img src="src/tire_redspider_truggy_dimensions.jpg" width="250"><br><em>tire · measured dims</em> |
+| ❌ ~~**Generic 26404 square-stud set — not a rebuy**~~ | Square-stud tread, black rim<br><br>**Taller and narrower** than the RedSpider (~143 mm dia · ~63 mm wide per listing, consistent with that)<br><br>17 mm hex<br><br>Price: **$32.44 / set** (Fiona Hobby, May 11 2026, order 8210691772464866) | Pro: Cheap-ish, fits<br><br>Con: **Only gripped when moist**, mediocre on dry dust, and **wore fast**; narrow tread = smaller footprint, less grip | <img src="src/tire_generic_truggy_black_26404_previous.png" width="500"> |
 
 > **What the new tire has to do:** keep the RedSpider's strong forward drive but **add lateral grip**, bite **dry loose dust** (not just moist), and last longer. A pin/spike "JConcepts similar" tread (Yufung) or a JetKo Block In should give more all-around side bite than the RedSpider's longitudinal blocks.
 
@@ -102,6 +102,8 @@ PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the R
 ## Tire Comparison (Yufung)
 
 > Both are 1/8 **truggy** sets from the Yufung (Vexar-Yufung) store, same 140×105×60 size, pre-glued with foam. Difference is compound: **blue = soft** (more wear), **green = super soft** (more grip). Going **blue** for tire life since super soft only lasts a few weekends here. Both **undercut the ~$84 JetKo set**. (Yufung's buggy tires are skipped: the Revo runs the wider truggy size.)
+>
+> ⚠️ **Width watch:** the Yufung truggy is **60 mm wide**, narrower than my RedSpider favorite (**70 mm**). Since I want **more** lateral grip, a narrower tire pushes the wrong way. Confirm the actual mounted width and compare to a 70 mm JetKo truggy before committing.
 
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
@@ -133,7 +135,7 @@ PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the R
 
 - **Going blue for tire life.** Super soft (green) grips best but only lasts a few weekends under the heavy Revo, so blue (soft) is the daily. Keep a green set around only for the driest, lowest-grip days.
 - **Tread pattern matters too, not just compound.** My 26404 set only worked when moist and was poor on dry dust; my RedSpider favorite has great forward grip but pushes in corners. The new picks ("JConcepts similar" / Block In treads) are chosen to bite dry loose dust and add the lateral grip the RedSpider lacks.
-- **140 mm is the right size.** That's the diameter I originally ran, and both Yufung truggy sets are 140 mm, so they're a direct fit.
+- **140 mm dia is the right height** (matches the RedSpider favorite), and both Yufung truggy sets are 140 mm. But **width matters for lateral grip:** the Yufung is **60 mm** vs the RedSpider's **70 mm**, so it could give *less* side bite, not more. A 70 mm JetKo truggy may be the better width match.
 - **Truggy only.** The Revo runs the wider 1/8 truggy size (140 mm dia, 60 mm wide). Yufung's buggy tires are skipped (narrower, wrong shape for this truck).
 - **Heavy truck = compound life matters.** The E-Revo loads tires harder than a buggy, so soft compounds go off / wear faster. That's why blue (soft) is the longer-wear daily and green (super soft) is the grip special.
 - **Cost:** JetKo truggy (Block In / Lesnar) is **$41.99/pair mounted (~$84/set)** or **$27.99/pair tires-only (~$56/set)**; Yufung truggy is **$52.06/set green** and **~$50–54/set blue** (complete pre-glued wheels with foam). Yufung is the budget play and fits the spec.
