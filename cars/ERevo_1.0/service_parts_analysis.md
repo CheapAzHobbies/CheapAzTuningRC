@@ -24,14 +24,16 @@
 
 - **What's in 5378X:** pivot ball caps (4), rubber dust boots (4), rubber dust plugs (4), **boot retainers in two colors: black (4) + blue (4)**. **2 packages** complete a truck. It's the **only Traxxas kit that ships both retainer colors together.**
 - **What the clips do:** the retainer traps the boot lip so suspension cycling and wheel spin can't pop the boot off, keeping dirt and water out of the joint.
-- **Clip selection by steering-block type:**
+- **Clip selection by axle-carrier type** (per the official Traxxas *Dust Boot Retainer Installation* sheet — the 5378X kit ships both):
 
-| Retainer | Use on | Note |
+| Retainer | Axle carrier | Reinforcement |
 |---|---|---|
-| **Black** | **Stock** steering block | A hair **smaller** |
-| **Blue** | **OEM-style** block with the **metal reinforcement** | Slightly larger |
+| **Black** | **#5334** | No steel-ring pivot-ball reinforcement |
+| **Blue (notched)** | **#5334R** | **Built-in steel ring** pivot-ball reinforcement |
 
-  > Match the retainer color to your block. The front runs **RPM 80582** blocks (see [hub_analysis](hub_analysis.md)), so test-fit both and use whichever seats cleanly.
+  > So the **blue notched** retainer is specifically for the **steel-ring-reinforced 5334R** block; **black** for the plain **5334** (user note: black is also a hair smaller). The front runs **RPM 80582** blocks (see [hub_analysis](hub_analysis.md)), so test-fit both and use whichever seats cleanly.
+
+<p align="center"><img src="src/steering_traxxas_dust_boot_retainer_install_sheet.jpg" width="500"><br><em>Traxxas Dust Boot Retainer Installation sheet: black → #5334, blue notched → #5334R (built-in steel ring)</em></p>
 
 ### Driveshaft boots — skipped, on purpose
 
