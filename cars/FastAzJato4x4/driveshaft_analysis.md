@@ -1,7 +1,7 @@
 # Driveshaft Selection — FastAzJato4x4
 
 > **Chosen:**
-> - **Axle (wheel) driveshafts: E-Revo 1.0 CVDs, chopped to fit.** Real or the ~$20 knock-off — both work equally well. Shortened with a 6mm threaded collet (or metal tube): thread/solder both cut ends into the collet to the right length. 6mm to match the E-Revo diffs and cups.
+> - **Axle (wheel) driveshafts: E-Revo 1.0 CVDs, chopped to fit.** Real or the ~$20 knock-off — both work equally well. Cut each in half and rejoin to length with a **1/4" internally-threaded standoff coupler + a mechanical lock** (cross-pin / set screws, not Loctite alone). 6mm (≈1/4") matches the E-Revo diffs and cups. See [join method](#shortening--joining-e-revo-cvds-custom-axles-wip).
 > - **Center driveshaft: stock Slash 4x4 aluminum one-piece (TRA6855, 215mm).** Plastic deforms on 4S and the Tekno Big Bone isn't worth the money — stock metal is the pick. **Don't grab TRA6755 — that's the 189mm Rustler shaft and it's too short.**
 
 <p align="center">
@@ -18,7 +18,7 @@
 - [Key Requirements](#key-requirements)
 - [Axle (Wheel) Driveshaft Comparison](#axle-wheel-driveshaft-comparison)
 - [Knock-Off E-Revo CVDs](#knock-off-e-revo-cvds)
-- [Shortening E-Revo CVDs (collet method)](#shortening-e-revo-cvds-collet-method)
+- [Shortening + Joining E-Revo CVDs](#shortening--joining-e-revo-cvds-custom-axles-wip)
 - [Center Driveshaft Comparison](#center-driveshaft-comparison)
 - [Price History](#price-history)
 - [Notes](#notes)
@@ -67,14 +67,30 @@ The knock-off E-Revo 1.0 CVDs run **~$20** and **perform identically to the genu
 
 ---
 
-## Shortening E-Revo CVDs (collet method)
+## Shortening + Joining E-Revo CVDs (custom axles, WIP)
 
-The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut down to length** and rejoined. Two ways:
+The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in half and rejoined to length**. The build: cut each CVD, thread both cut ends with a **1/4" die**, and join them with a **1/4" ID × 1" long internally-threaded standoff** as the center coupler. The E-Revo axles seat in the **Jato 4x4 EHD hubs**, with **4 Teflon (Traxxas) washers at the wheel end** and the **E-Revo hubs** (the same hubs run on the Revo and the Slash).
 
-1. **6mm threaded collet** — cut both ends, thread the two cut ends, and thread them into the collet to set the exact length. The collet is the coupler in the middle.
-2. **6mm metal tube** — slide the cut ends into a metal tube and **solder them together** at the right length.
+> ⚠️ **WIP** — exact cut length TBD (measure against the installed diff + hub; cut once).
 
-Either way the goal is the same: shorten the E-Revo CVD to the correct Jato 4x4 length while keeping it concentric and strong. Thread + collet is cleanest; solder + tube is the fallback. Measure against the installed diff and hub before cutting — cut once.
+### Join method — chosen: threaded + mechanical lock (not weld/braze)
+
+| Method | Verdict |
+|---|---|
+| ⭐ **Threaded standoff + mechanical lock** | **Chosen.** Thread both cut ends into the standoff to set length, then lock it. **Adjustable length, keeps it straight** (the bore aligns both halves), no heat. |
+| 🚫 **Weld / braze** | **Skip.** The CVD steel is hardened — weld/braze heat **anneals it right at the joint** (softens → bends/wears, or goes brittle → cracks), **warps straightness**, and **kills the length adjustability**. Only viable if you re-heat-treat, which isn't practical. |
+
+**Why threaded wins, and how to make it reliable:**
+
+- ✅ Adjustable length, easy to keep concentric, no heat damage.
+- ⚠️ Two weaknesses: (1) threading a 1/4" shaft cuts it to the thread root (~0.21"), so the threaded section is **~25–30% weaker** and a stress riser; (2) RC drivetrains **reverse load constantly** (throttle ↔ brake), which backs threads out — **red Loctite resists but doesn't guarantee it** under impact + vibration.
+- **So add a mechanical lock — don't trust Loctite alone:**
+  1. **Cross-pin** the standoff to each shaft half (drill through, drive a hardened/roll pin) — carries torque in double shear and physically blocks unthreading. Strongest.
+  2. Or **2 set screws per side** onto a small filed flat on the shaft.
+  3. **Retainer:** red Loctite 271 minimum, **263 / 2760 high-strength better**; for the slip-fit between shaft and bore, a **sleeve retainer (638 / 648)**.
+  4. **Slip-fit the standoff snug over the shaft** (not just thread-butt) so the bore holds both halves coaxial. **Check runout** (roll on glass) — a 1" coupler on a 1/4" shaft is a long span; runout = vibration/whip at RPM. Keep it short + balanced.
+
+Net: thread to set length → **cross-pin** → high-strength retainer. Adjustable + won't back out + the **pin carries the load**, not the thinned threads.
 
 ---
 
@@ -108,9 +124,10 @@ Either way the goal is the same: shorten the E-Revo CVD to the correct Jato 4x4 
 
 - **Why CVDs over U-joints:** the E-Revo 1.0 U-joint shafts work, but the U-joint **hits the suspension arm at full travel and catches the steering link** sometimes. The CVDs deliver power smoothly through the whole travel range without that clearance problem — that's why they're the pick.
 - **Real vs knock-off CVD:** both work equally well. The ~$20 knock-off is the value choice since the shaft gets cut down and rebuilt anyway.
-- **Collet pick logic:** threaded 6mm collet = cleanest, strongest join. Metal tube + solder = fallback if you don't have a collet. Either way, measure twice, cut once.
+- **Join method (custom axles):** **threaded 1/4" standoff + a mechanical lock (cross-pin or set screws) + high-strength retainer** is the pick — adjustable length, keeps it straight, no heat. **Don't weld/braze** (anneals the hardened CVD steel at the joint → bends/cracks, warps, no adjustability). Loctite alone backs out under reversing drivetrain torque, so the **mechanical lock is the key** — the pin carries the load, the thread just sets length. Measure twice, cut once.
+- **Diff: use the E-Revo 1.0 stock diffs.** Proven — E-Revo output drives + the knock-off CVD stock cups fit the stock Slash diffs and work great, and the E-Revo diff has the internal cross-**bar** that makes it stronger. **Before trying an XO1 diff, verify its outdrive/cup interface matches the E-Revo 6mm setup** — don't introduce that unknown unless it's confirmed-fit and meaningfully stronger.
 - **Center driveshaft pick logic:** **stock Slash 4x4 metal (TRA6855, 215mm) is the choice on this 4S build.** Plastic ($4) is fine for a stock basher but deforms under 4S. **Skip the Tekno Big Bone** — costs much more for no performance gain, still bends, chews up its outdrives, and runs noisily.
 - **Watch the center-shaft length:** **TRA6855 = Slash 4x4 (215mm/8.5")**, **TRA6755 = Rustler/Stampede 4x4 (189mm/6.5")**. They look identical but the Rustler shaft is ~26mm too short for the Slash. Order TRA6855.
 - **Custom length / slop note:** Traxxas one-piece splined center shafts leave ~3–4mm of axial slop on purpose. That play is fine — even helpful — on a **flexy plastic chassis**, but on a **rigid carbon-fiber chassis with a top plate** you'd rather run zero play. The **Raptor R TRA10155 (~247mm)** is longer than the Slash shaft, so you can **cut it to an exact custom length** and take the slop out. Measure the installed gap before cutting.
 - **Confirmed part numbers:** E-Revo CVD = **TRA5451R** (set, no singles); E-Revo U-joint axle = **TRA5451X**; Slash stock U-joint axle = **TRA6852X/6851X**; Slash HD steel CV = **TRA6852R/6851R**; Slash EHD = **TRA6852A/6851A**; alum center driveshaft = **TRA6855** (Slash 4x4, 215mm — *not* TRA6755, which is the 189mm Rustler); plastic center driveshaft = **TRA6767**; Tekno center = **TKR6855**.
-- **Still TBD:** verify 6mm fitment for the Slash axles against the E-Revo cups.
+- **Still TBD:** the exact **cut length** for the custom axles (WIP — dimensions to come). The knock-off CVD **stock cups are confirmed to fit the diffs**.
