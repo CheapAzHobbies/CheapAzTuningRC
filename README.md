@@ -23,6 +23,7 @@ Build logs, part lists, setup notes, 3D models, and battery trackers for all my 
 | Resource | Folder | Notes |
 |----------|--------|-------|
 | Batteries | [batteries](batteries/) | Shared across all cars — master tracker + per-pack cycle logs |
+| Power stations | [batteries/power_stations.md](batteries/power_stations.md) | Field-charging power banks I bring to the track (Anker SOLIX, etc.) |
 | Controllers | [controllers](controllers/) | Generic radio transmitter comparison by tier — not tied to any car |
 | Deals | [Deals](Deals/) | All price tracking + coupon codes — batteries, servos, ESCs, AliExpress codes, per-sale snapshots |
 | Inbox | [inbox](inbox/) | Drop unsorted files here (images, receipts, screenshots) — Claude routes them to the right place |
