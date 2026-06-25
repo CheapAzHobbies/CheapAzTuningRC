@@ -80,7 +80,7 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 > - **Off-the-shelf 6 mm ID steel spacer/tube** (no reaming) → ~0.5 mm gap → **Loctite 660** + cross-pin.
 > - **Rigid steel shaft coupler** (one body, set-screw clamp, file a flat on each shaft) → mechanical, no glue.
 >
-> A K&S 1/4" OD brass tube gives the right ~5.64 mm ID slip fit but its thin/soft wall is weak for an axle, so **steel one-piece is the call**. Caliper the shaft + dry test-slide before committing. **Local (Portland):** Ace/True Value (shaft collars/couplers, small steel tube), Metal Supermarkets / OnlineMetals (thick-wall steel cut to length), Harbor Freight (reamer).
+> A K&S 1/4" OD brass tube gives the right ~5.64 mm ID slip fit but its thin/soft wall is weak for an axle, so **steel one-piece is the call**. Caliper the shaft + dry test-slide before committing. **Local (Portland):** **Ace or Home Depot — K&S 1/4" OD steel tube** (one-piece, ~5.6 mm ID slip fit, stronger than the brass/alu on the same rack; metal-stock / spinner-rack aisle) is the easy in-stock pick (thin wall, but cross-pin + 648 holds it). **Harbor Freight** — 5.6 mm / 7-32" drill or reamer to size a sleeve. A *thick-wall* one-piece steel sleeve isn't stocked at those three — ream a steel tube/rod, or order online (McMaster "round unthreaded spacer" / Amazon "6 mm rigid shaft coupling").
 
 ### Join method — chosen: threaded + mechanical lock (not weld/braze)
 
