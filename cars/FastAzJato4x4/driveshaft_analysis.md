@@ -87,7 +87,7 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 | Method | Verdict |
 |---|---|
 | ⭐ **Threaded standoff + mechanical lock** | **Chosen.** Thread both cut ends into the standoff to set length, then lock it. **Adjustable length, keeps it straight** (the bore aligns both halves), no heat. |
-| 🚫 **Weld / braze** | **Skip.** The CVD steel is hardened — weld/braze heat **anneals it right at the joint** (softens → bends/wears, or goes brittle → cracks), **warps straightness**, and **kills the length adjustability**. Only viable if you re-heat-treat, which isn't practical. |
+| ✅ **Weld** — *viable IF the CVDs are soft* | **These knock-offs appear NOT heat-treated (relatively soft — confirm with a file test: file bites = soft = weldable).** That removes the anneal problem that rules out welding *hardened* steel. **Best: weld + sleeve** — slide both halves into a **medium-wall** steel sleeve (not the 0.36mm thin tube, it burns through), set length, **fillet-weld each sleeve end to the shaft**; the sleeve aligns it straight and the welds carry the load. Or a jigged **butt weld** (bevel ends, clamp dead-straight in a V-block). **TIG** preferred; tack opposite sides + weld in stages to control warp; grind smooth; **check runout** and straighten (soft steel tweaks easily). Permanent (no length adjust). ⚠️ **Genuine Traxxas CVDs are hardened — don't weld those.** |
 
 **Why threaded wins, and how to make it reliable:**
 
