@@ -87,7 +87,7 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 - **So add a mechanical lock — don't trust Loctite alone:**
   1. **Cross-pin** the standoff to each shaft half (drill through, drive a hardened/roll pin) — carries torque in double shear and physically blocks unthreading. Strongest.
   2. Or **2 set screws per side** onto a small filed flat on the shaft.
-  3. **Retainer:** red Loctite 271 minimum, **263 / 2760 high-strength better**; for the slip-fit between shaft and bore, a **sleeve retainer (638 / 648)**.
+  3. **Retainer (best first):** a **sleeve/bearing retainer — Loctite 638 (or 648 high-temp)** is best, it bonds the whole slip-fit cylinder in shear, far stronger than thread flanks. If using a pure threadlocker instead: **2760 (max) / 272 (high-temp) > 263 > red 271**. **Degrease both parts first**, and on **nickel-plated knock-off CVD steel use activator/primer (Loctite 7649 / 7471)** — plated steel is "inactive" and cures slow/weak without it. The retainer is the backup; the pin is what guarantees it.
   4. **Slip-fit the standoff snug over the shaft** (not just thread-butt) so the bore holds both halves coaxial. **Check runout** (roll on glass) — a 1" coupler on a 1/4" shaft is a long span; runout = vibration/whip at RPM. Keep it short + balanced.
 
 Net: thread to set length → **cross-pin** → high-strength retainer. Adjustable + won't back out + the **pin carries the load**, not the thinned threads.
