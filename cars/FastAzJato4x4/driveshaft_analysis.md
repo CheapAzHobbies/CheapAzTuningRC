@@ -1,7 +1,7 @@
 # Driveshaft Selection — FastAzJato4x4
 
 > **Chosen:**
-> - **Axle (wheel) driveshafts: E-Revo 1.0 CVDs, chopped to fit.** Real or the ~$20 knock-off — both work equally well. Cut each in half and **rejoin to length with a center sleeve** — several join methods compared below (leaning **weld + sleeve** since the knock-off CVDs file soft). 6mm (≈1/4") matches the E-Revo diffs and cups. See [build options](#build-options--joining-the-two-cvd-halves).
+> - **Axle (wheel) driveshafts: E-Revo 1.0 CVDs, chopped to fit.** Real or the ~$20 knock-off — both work equally well. Cut each in half and **rejoin to length with a center sleeve** — several join methods compared below (leaning **threaded + set screws + red Loctite** — easiest and serviceable). 6mm (≈1/4") matches the E-Revo diffs and cups. See [build options](#build-options--joining-the-two-cvd-halves).
 > - **Center driveshaft: stock Slash 4x4 aluminum one-piece (TRA6855, 215mm).** Plastic deforms on 4S and the Tekno Big Bone isn't worth the money — stock metal is the pick. **Don't grab TRA6755 — that's the 189mm Rustler shaft and it's too short.**
 
 <p align="center">
@@ -34,6 +34,7 @@
 | **Clears the arm + steering link at full travel** | Must | U-joint style shafts can foul the suspension arm at full droop and catch the steering link — must clear through the whole travel range |
 | **Survives 4S power** | Must | Has to transmit full torque without twisting or stripping |
 | **Cheap / available** | May | Wear item — the ~$20 knock-off CVD route keeps replacements painless |
+| **Easily serviceable** | Must | Want to adjust length / take the joined axle apart later without destroying it — favors removable **set screws + heat-release threadlocker** over pins, welds, or epoxy |
 
 ---
 
@@ -69,7 +70,7 @@ The knock-off E-Revo 1.0 CVDs run **~$20** and **perform identically to the genu
 
 ## Shortening + Joining E-Revo CVDs (custom axles, WIP)
 
-The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in half and rejoined to length** with a center sleeve. Several ways to make that joint — see **[Build options](#build-options--joining-the-two-cvd-halves)** below (leaning **weld + sleeve** now the CVDs file soft). The E-Revo axles seat in the **Jato 4x4 EHD hubs**, with **4 Teflon (Traxxas) washers at the wheel end** and the **E-Revo hubs** (the same hubs run on the Revo and the Slash).
+The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in half and rejoined to length** with a center sleeve. Several ways to make that joint — see **[Build options](#build-options--joining-the-two-cvd-halves)** below (leaning **threaded + set screws**, easiest + serviceable). The E-Revo axles seat in the **Jato 4x4 EHD hubs**, with **4 Teflon (Traxxas) washers at the wheel end** and the **E-Revo hubs** (the same hubs run on the Revo and the Slash).
 
 > ⚠️ **WIP** — exact cut length TBD (measure against the installed diff + hub; cut once).
 >
@@ -84,13 +85,13 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 
 ### Build options — joining the two CVD halves
 
-> **Status: still deciding.** Live candidates first; struck-through = ruled out. **Leaning weld + sleeve** now the CVDs file soft and there's a flux-core welder on hand.
+> **Status: leaning threaded + set screws (easiest + serviceable).** Live candidates first; struck-through = ruled out. The fat soft shaft gives plenty of margin, **set screws on filed flats carry the load and back out for service**, and **red Loctite torches off (~250°C)** to adjust later — so the simple threaded build is the front-runner. Weld + sleeve stays the strongest *permanent* fallback.
 
 | Option | How | Status |
 |---|---|---|
-| 🔵 **Weld + sleeve** | Both halves into a **medium-wall steel sleeve**, set length, **fillet-weld each end** to the shaft (sleeve aligns it, welds carry the load). Flux-core OK on the sleeve: low heat, .030" wire, stage the passes, chip slag, grind, **check runout**. Permanent. | **Leaning** — strongest given soft CVDs + you have the welder |
-| 🔵 **Slip-fit sleeve + 648 + cross-pin** | Steel sleeve reamed ~5.6 mm over the 5.5 mm shaft, **Loctite 648** + **cross-pin**. No heat, no warp. Permanent. | Live — best **no-weld** permanent build |
-| 🔵 **Threaded sleeve + cross-pin + retainer** | Thread both ends into an internally-threaded steel standoff to set length, **cross-pin** + high-strength retainer. | Live — only if you want **length-adjustability** (threading thins the shaft = weaker) |
+| ⭐ **Threaded sleeve + set screws + red Loctite** | Thread both cut ends into an internally-threaded steel standoff to set length → **2 set screws on a filed flat** per shaft (blue Loctite on the screws) → **red Loctite 271** on the main threads. **Torch the coupler (~250°C) to release for service/adjust**, back out the set screws, reset, re-Loctite. | **Leaning — easiest + serviceable.** Set screws beat a driven pin here (pin = near-permanent); red Loctite torches off |
+| 🔵 **Weld + sleeve** | Both halves into a **medium-wall steel sleeve**, set length, **fillet-weld each end** to the shaft (sleeve aligns it, welds carry load). Flux-core OK on the sleeve: low heat, .030" wire, stage the passes, chip slag, grind, **check runout**. Permanent. | Live fallback — **strongest**, given soft CVDs + you have the welder |
+| 🔵 **Slip-fit sleeve + 648 + cross-pin** | Steel sleeve reamed ~5.6 mm over the 5.5 mm shaft, **Loctite 648** + **cross-pin**. No heat, no warp. Permanent. | Live — best **no-weld permanent** build |
 | 🚫 ~~Telescoping nested tubes~~ | Nest K&S tubes to build wall thickness | **You want one piece** |
 | 🚫 ~~Threaded + Loctite only (no pin)~~ | Thread the ends + red Loctite, nothing mechanical | **Backs out** under reversing throttle/brake |
 | 🚫 ~~Thin brass/alu sleeve (structural)~~ | K&S 1/4" brass tube as the coupler | Wall too **thin/soft** (0.36 mm) for an axle |
@@ -105,6 +106,8 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 - **Retainer by gap (bonded options):** tight ~0.1–0.2 mm → **Loctite 648/638**; loose ~0.5 mm → **660**. **Degrease + prime** plated steel (Loctite 7649). The pin/weld carries the load; glue is the backup.
 - **Warp + runout:** jig dead-straight, weld/work in **stages**, then roll on glass or V-blocks + dial indicator and **straighten** (soft steel tweaks easily). Keep the coupler short.
 - **Permanent vs adjustable:** weld + sleeve and slip-fit + 648 are **permanent** (set length first); only the **threaded** option keeps length-adjustability.
+- **JB Weld on threads?** Works as a gap-filler, but it's **brittle** (cracks under reversing load), **permanent**, and **doesn't heat-release** — so it's out for a serviceable build. Use **red Loctite 271** instead.
+- **Serviceable build (the priority):** **set screws beat a cross-pin** — they back out for service (a driven pin you'd have to drill). File a **flat** where each set screw lands (bites a flat, won't spin), use **2 per side**, **blue Loctite on the screw threads**. Main threads: **red Loctite 271** (torch ~250°C to release) — or **blue 242** to service with hand tools, no torch. Keep the flame on the **metal coupler, off the CV boots/plastic** (or pull boots first), and **reapply fresh Loctite** on reassembly.
 
 ---
 
