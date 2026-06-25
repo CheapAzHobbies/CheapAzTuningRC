@@ -73,7 +73,9 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 
 > ⚠️ **WIP** — exact cut length TBD (measure against the installed diff + hub; cut once).
 >
-> **Sleeve sizing:** the CVD shaft is **5.5 mm** OD. For the slip-fit coupler use a **~6 mm ID** sleeve (~0.5 mm gap) — **not 1/4" / 6.35 mm** (~0.85 mm gap, too loose, won't stay concentric). Tighter is better: **ream to ~5.6–5.7 mm ID** if you can (~0.1–0.2 mm gap). Match the retainer to the gap: **tight gap → Loctite 648/638**; **6 mm-as-is 0.5 mm gap → Loctite 660** (high gap-fill; 638/648 only fill ~0.15–0.25 mm). Sleeve wall ≈8 mm+ OD so it stays stiff and can take the cross-pin.
+> **Sleeve sizing:** the CVD shaft is **5.5 mm** OD. For the slip-fit coupler use a **~6 mm ID** sleeve (~0.5 mm gap) — **not 1/4" / 6.35 mm ID** (~0.85 mm gap, too loose). Tighter is better: **ream to ~5.6–5.7 mm ID** if you can (~0.1–0.2 mm gap). Match the retainer to the gap: **tight gap → Loctite 648/638**; **6 mm-as-is 0.5 mm gap → Loctite 660** (high gap-fill). Sleeve wall ≈8 mm+ OD so it stays stiff and can take the cross-pin.
+>
+> **Easy standard part:** a **K&S 1/4" OD brass/aluminum tube** (0.014" wall) has an **ID of ~5.64 mm** — a near-perfect **~0.14 mm slip fit** on the 5.5 mm shaft (use **Loctite 648** at that gap). The brass/alu wall is thin + soft for an axle, so for strength either **telescope K&S tubes** (1/4" inner for the fit, 9/32" + 5/16" OD over it for wall) or back it with a **thick-wall steel sleeve ~5.6 mm ID**. Caliper the shaft + test-slide dry before bonding.
 
 ### Join method — chosen: threaded + mechanical lock (not weld/braze)
 
