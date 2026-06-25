@@ -81,6 +81,7 @@ The inner bearing's ID has to match the axle — which is why the two axle syste
 
 - The two EHD bearings have standard flanged versions: **12×18×4 → F6701**, **6×12×4 → MF126** (both in ZZ shielded / 2RS sealed; SMF126 = stainless 6×12×4).
 - **Front inner = F6701-2RS (flanged 12×18×4), maybe.** The flange acts as a built-in spacer that **pulls the axle inboard a few mm to narrow the front track**, which currently runs a touch too wide. Bought, **may or may not run it** — pending a fit/track-width check.
+- **Source (6×12×4 flanged):** **SMF126-2RS** stainless, **rubber-sealed** — AliExpress *DGYCB Bearing Official Store*, ~**$6.81/5pcs** (~$6.41 ea at 10+). Rubber 2RS seals keep grit/water out, good for the dirt/beach running.
 
 ### Pivot hardware — screw vs brass bushing
 
