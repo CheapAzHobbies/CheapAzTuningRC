@@ -110,17 +110,18 @@
 - **I run 2 on the K939 — never struggle or thermal**
 - MSRP $177, street ~$145, sale prices as low as ~$95
 
-### HobbyWing EZRun MAX10 G2 140A — Vetoed (proprietary connector)
+### HobbyWing EZRun MAX10 G2 140A — Combo candidate (matched 3665 G3 motor)
 
 - Dimensions: 53 × 39.5 × 37.2mm
 - BEC: 6V or 7.4V @ 5A (switch-mode)
 - Burst current: 880A
-- Motor KV limit: 3S → ≤4000KV 3665; 4S → ≤2600KV 4268
+- Motor KV limit: 3S → ≤4000KV (3665); **4S → ≤2600KV** — so the **2400KV 3665 just fits 4S**, while the 3200/4000KV are 3S only
 - Only HobbyWing ESC in this range with full IP67
-- Sold as combo with EZRun 3665SD G3 (proprietary waterproof sensor port lines up directly)
-- For Castle / standard JST-ZH motors, needs HobbyWing Sensor Adapter (HWA30810007) — the reason for the veto
+- **As a combo the proprietary G3 sensor port is a non-issue** — the ESC + EZRun 3665 SD G3 motor line up directly, no adapter
+- For Castle / standard JST-ZH motors (standalone use), needs the HobbyWing Sensor Adapter (HWA30810007) — only matters if *not* running the matched combo
 - Smart start-stop fan (only spins when hot), 32° turbo timing, OTA Bluetooth optional
-- $60 ESC alone; $150 combo with 3665SD G3 3200KV motor
+- $60 ESC alone; **$149.99 combo** with the 3665SD G3 motor
+- **What people typically run this kit in:** 1/10 **4×4 monster trucks / heavier 4WD trucks** (Arrma Granite / Big Rock / Typhon, Traxxas Stampede / Rustler / Slash 4×4) and light **truggies**. By KV: **2400KV on 4S** = heavier 1/10 4WD MT (the torque/4S config); **3200KV on 2-3S** = 1/10 SCT / all-around; **4000KV on 2-3S** = lighter buggy / on-road / speed. The FastAzJato is **heavier than the typical 1/10 target**, so the **2400KV/4S** (the kit's heaviest-duty config) is the match — and it sits near the top of what the MAX10 G2 is rated for.
 
 ### HobbyWing XeRun XR8 SCT — Ruled Out (not waterproof)
 
