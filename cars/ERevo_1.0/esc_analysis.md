@@ -45,4 +45,5 @@
 - **Why switch to Hobbywing anyway:** the **G2S doesn't cut out at ramps / in extreme conditions** (the plain G2 does), plus telemetry, waterproofing, and a combo that's **~$39 under the equivalent Castle combo** with a spare 4278 motor.
 - **Cheapest equally-fast path:** keep the owned **1515 2200KV** and add just the **Castle Monster X ESC ($147.96)** — same speed, no second motor. The Hobbywing combo only wins on reliability/telemetry/spare-motor, not speed.
 - **Open decision:** if going Hobbywing, run the combo's **4278SD** or keep the **1515** on the MAX8 GS2 — both are 6S, ~same KV.
+- **Cheaper combo option:** Hobbywing sells the **MAX8 G2S + 4274SD G2R** combo direct for **$187** (code **HWTRYOUTS**) — ~$22 under the 4278SD/$208.99 deal. The **4274** is a slightly **shorter/lighter** motor can than the 4278 (74 vs 78 mm); fine for the E-Revo, verify its KV (~2200KV likely).
 - **Price + buying note (G2S not G2)** live in [`Deals/escs.md`](../../Deals/escs.md).

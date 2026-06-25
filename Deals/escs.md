@@ -10,11 +10,20 @@ Price tracking for ESCs — generic parts used across multiple builds.
 
 | Model | All-Time Low $/unit | When | Source |
 |-------|---------------------|------|--------|
+| Hobbywing EZRun MAX8 G2S + **4274SD** G2R combo | **$187.00** | Jun 25, 2026 | Hobbywing direct, code HWTRYOUTS |
 | Hobbywing EZRun MAX8 GS2 + 4278SD 2250KV combo (HWI38010607) | **$208.99** | Jun 25, 2026 | AMain (eBay), code MIDYEAR5 |
 
 ---
 
 ## Deal History — by ESC Model
+
+### Hobbywing EZRun MAX8 G2S ESC + 4274SD G2R combo (Bluetooth)
+
+ESC + motor combo, **3–6S**. The **4274SD** motor is a slightly **shorter/lighter can** than the 4278SD (74 vs 78 mm). KV not listed — **verify (~2200KV likely)**. (For the E-Revo — cheaper than the 4278SD combo.)
+
+| Date | Price | Coupon / Path | Source | Notes |
+|------|-------|---------------|--------|-------|
+| Jun 25, 2026 | **$187.00** | code **HWTRYOUTS** (−$32.99) | Hobbywing North America (direct) | List $219.99 → **$187.00**. Free shipping. **~$22 cheaper** than the 4278SD combo below; 4274 motor is shorter/lighter |
 
 ### Hobbywing EZRun MAX8 GS2 + 4278SD 2250KV G2R combo (HWI38010607)
 
