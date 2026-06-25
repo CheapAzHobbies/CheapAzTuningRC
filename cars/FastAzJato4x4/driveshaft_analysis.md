@@ -1,7 +1,7 @@
 # Driveshaft Selection — FastAzJato4x4
 
 > **Chosen:**
-> - **Axle (wheel) driveshafts: E-Revo 1.0 CVDs, chopped to fit.** Real or the ~$20 knock-off — both work equally well. Cut each in half and rejoin to length with a **1/4" internally-threaded standoff coupler + a mechanical lock** (cross-pin / set screws, not Loctite alone). 6mm (≈1/4") matches the E-Revo diffs and cups. See [join method](#shortening--joining-e-revo-cvds-custom-axles-wip).
+> - **Axle (wheel) driveshafts: E-Revo 1.0 CVDs, chopped to fit.** Real or the ~$20 knock-off — both work equally well. Cut each in half and **rejoin to length with a center sleeve** — several join methods compared below (leaning **weld + sleeve** since the knock-off CVDs file soft). 6mm (≈1/4") matches the E-Revo diffs and cups. See [build options](#build-options--joining-the-two-cvd-halves).
 > - **Center driveshaft: stock Slash 4x4 aluminum one-piece (TRA6855, 215mm).** Plastic deforms on 4S and the Tekno Big Bone isn't worth the money — stock metal is the pick. **Don't grab TRA6755 — that's the 189mm Rustler shaft and it's too short.**
 
 <p align="center">
@@ -69,7 +69,7 @@ The knock-off E-Revo 1.0 CVDs run **~$20** and **perform identically to the genu
 
 ## Shortening + Joining E-Revo CVDs (custom axles, WIP)
 
-The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in half and rejoined to length**. The build: cut each CVD, thread both cut ends with a **1/4" die**, and join them with a **1/4" ID × 1" long internally-threaded standoff** as the center coupler. The E-Revo axles seat in the **Jato 4x4 EHD hubs**, with **4 Teflon (Traxxas) washers at the wheel end** and the **E-Revo hubs** (the same hubs run on the Revo and the Slash).
+The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in half and rejoined to length** with a center sleeve. Several ways to make that joint — see **[Build options](#build-options--joining-the-two-cvd-halves)** below (leaning **weld + sleeve** now the CVDs file soft). The E-Revo axles seat in the **Jato 4x4 EHD hubs**, with **4 Teflon (Traxxas) washers at the wheel end** and the **E-Revo hubs** (the same hubs run on the Revo and the Slash).
 
 > ⚠️ **WIP** — exact cut length TBD (measure against the installed diff + hub; cut once).
 >
@@ -82,26 +82,29 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 >
 > A K&S 1/4" OD brass tube gives the right ~5.64 mm ID slip fit but its thin/soft wall is weak for an axle, so **steel one-piece is the call**. Caliper the shaft + dry test-slide before committing. **Local (Portland):** **Ace or Home Depot — K&S 1/4" OD steel tube** (one-piece, ~5.6 mm ID slip fit, stronger than the brass/alu on the same rack; metal-stock / spinner-rack aisle) is the easy in-stock pick (thin wall, but cross-pin + 648 holds it). **Harbor Freight** — 5.6 mm / 7-32" drill or reamer to size a sleeve. A *thick-wall* one-piece steel sleeve isn't stocked at those three — ream a steel tube/rod, or order online (McMaster "round unthreaded spacer" / Amazon "6 mm rigid shaft coupling").
 
-### Join method — chosen: threaded + mechanical lock (not weld/braze)
+### Build options — joining the two CVD halves
 
-| Method | Verdict |
-|---|---|
-| ⭐ **Threaded standoff + mechanical lock** | **Chosen.** Thread both cut ends into the standoff to set length, then lock it. **Adjustable length, keeps it straight** (the bore aligns both halves), no heat. |
-| ✅ **Weld** — *viable IF the CVDs are soft* | **These knock-offs appear NOT heat-treated (relatively soft — confirm with a file test: file bites = soft = weldable).** That removes the anneal problem that rules out welding *hardened* steel. **Best: weld + sleeve** — slide both halves into a **medium-wall** steel sleeve (not the 0.36mm thin tube, it burns through), set length, **fillet-weld each sleeve end to the shaft**; the sleeve aligns it straight and the welds carry the load. Or a jigged **butt weld** (bevel ends, clamp dead-straight in a V-block). **TIG** preferred; tack opposite sides + weld in stages to control warp; grind smooth; **check runout** and straighten (soft steel tweaks easily). Permanent (no length adjust). ⚠️ **Genuine Traxxas CVDs are hardened — don't weld those.** |
+> **Status: still deciding.** Live candidates first; struck-through = ruled out. **Leaning weld + sleeve** now the CVDs file soft and there's a flux-core welder on hand.
 
-**Why threaded wins, and how to make it reliable:**
+| Option | How | Status |
+|---|---|---|
+| 🔵 **Weld + sleeve** | Both halves into a **medium-wall steel sleeve**, set length, **fillet-weld each end** to the shaft (sleeve aligns it, welds carry the load). Flux-core OK on the sleeve: low heat, .030" wire, stage the passes, chip slag, grind, **check runout**. Permanent. | **Leaning** — strongest given soft CVDs + you have the welder |
+| 🔵 **Slip-fit sleeve + 648 + cross-pin** | Steel sleeve reamed ~5.6 mm over the 5.5 mm shaft, **Loctite 648** + **cross-pin**. No heat, no warp. Permanent. | Live — best **no-weld** permanent build |
+| 🔵 **Threaded sleeve + cross-pin + retainer** | Thread both ends into an internally-threaded steel standoff to set length, **cross-pin** + high-strength retainer. | Live — only if you want **length-adjustability** (threading thins the shaft = weaker) |
+| 🚫 ~~Telescoping nested tubes~~ | Nest K&S tubes to build wall thickness | **You want one piece** |
+| 🚫 ~~Threaded + Loctite only (no pin)~~ | Thread the ends + red Loctite, nothing mechanical | **Backs out** under reversing throttle/brake |
+| 🚫 ~~Thin brass/alu sleeve (structural)~~ | K&S 1/4" brass tube as the coupler | Wall too **thin/soft** (0.36 mm) for an axle |
+| 🚫 ~~Epoxy / JB Weld~~ | Bond the joint with epoxy | **Brittle** under reversing torsion — cracks |
+| 🚫 ~~Press fit~~ | Hammer the shaft into a tight bore | Hard to size by hand, no glue gap, fights length-setting |
+| 🚫 ~~Weld/braze hardened steel~~ | Weld a hard axle without re-heat-treat | Anneals → soft/brittle joint (moot here — these file soft) |
 
-- ✅ Adjustable length, easy to keep concentric, no heat damage.
-- ⚠️ Two weaknesses: (1) threading a 1/4" shaft cuts it to the thread root (~0.21"), so the threaded section is **~25–30% weaker** and a stress riser; (2) RC drivetrains **reverse load constantly** (throttle ↔ brake), which backs threads out — **red Loctite resists but doesn't guarantee it** under impact + vibration.
-- **So add a mechanical lock — don't trust Loctite alone:**
-  1. **Cross-pin** the standoff to each shaft half (drill through, drive a hardened/roll pin) — carries torque in double shear and physically blocks unthreading. Strongest.
-  2. Or **2 set screws per side** onto a small filed flat on the shaft.
-  3. **Retainer (best first):** a **sleeve/bearing retainer — Loctite 638 (or 648 high-temp)** is best, it bonds the whole slip-fit cylinder in shear, far stronger than thread flanks. If using a pure threadlocker instead: **2760 (max) / 272 (high-temp) > 263 > red 271**. **Degrease both parts first**, and on **nickel-plated knock-off CVD steel use activator/primer (Loctite 7649 / 7471)** — plated steel is "inactive" and cures slow/weak without it. The retainer is the backup; the pin is what guarantees it.
-  4. **Slip-fit the standoff snug over the shaft** (not just thread-butt) so the bore holds both halves coaxial. **Check runout** (roll on glass) — a 1" coupler on a 1/4" shaft is a long span; runout = vibration/whip at RPM. Keep it short + balanced.
+**Shared build notes (any option):**
 
-Net: thread to set length → **cross-pin** → high-strength retainer. Adjustable + won't back out + the **pin carries the load**, not the thinned threads.
-
-> **Want it permanent instead of adjustable?** No glue truly equals steel on a small reversing axle, so the route is **slip-fit + cross-pin + Loctite 648** — the **648 is functionally permanent** (heat + force to remove) and the **pin** makes it mechanically permanent and carries the torque. Set the length first (you give up easy adjustment), then drill and pin. **Skip epoxy / JB Weld** (brittle under reversing torsion). Welding is the only metallurgically-permanent option, but only if you **re-heat-treat** after, or the joint goes soft/brittle.
+- **File-test before welding:** file bites = soft = weldable (these knock-offs, and apparently genuine Traxxas too). File **skates** = hardened, don't weld. **Tough/springy** = medium-carbon → **preheat + slow-cool** to avoid cracking.
+- **Soft but fat = likely strong enough:** the 5.5 mm shaft is bigger than typical ~4 mm aftermarket CVDs, and torsion scales with **diameter³** (≈2.6× the section), so the thickness offsets the missing hardness; soft also **bends instead of snapping**. Softness mainly costs **wear at the CV/spline contact points**, not the joined shaft.
+- **Retainer by gap (bonded options):** tight ~0.1–0.2 mm → **Loctite 648/638**; loose ~0.5 mm → **660**. **Degrease + prime** plated steel (Loctite 7649). The pin/weld carries the load; glue is the backup.
+- **Warp + runout:** jig dead-straight, weld/work in **stages**, then roll on glass or V-blocks + dial indicator and **straighten** (soft steel tweaks easily). Keep the coupler short.
+- **Permanent vs adjustable:** weld + sleeve and slip-fit + 648 are **permanent** (set length first); only the **threaded** option keeps length-adjustability.
 
 ---
 
