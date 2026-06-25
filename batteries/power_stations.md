@@ -16,6 +16,30 @@ Portable power stations I bring to the track for **field charging** (LiPo charge
 
 ---
 
+## Warranty RMA & FedEx Lost-Shipment Claim (F2000)
+
+Anker confirmed the F2000 faulty → return-and-replace, but the **return shipment to Anker's warehouse appears lost by FedEx** (no tracking scans since Jun 17). Anker only ships the replacement once the warehouse receives the return, so the replacement is **blocked on the FedEx claim.**
+
+| Reference | Value |
+|---|---|
+| Anker case | **#ANKER-TNX6380151566** |
+| FedEx support ticket | **C-246251942 Ref-03614** |
+| FedEx tracking | **872688268730** (FedEx Ground) |
+| Drop-off receipt # | **HIOKF00114590** |
+| Unit / part # | Anker SOLIX F2000 (PowerHouse 767) / **A1780** |
+| Serial # | **AZYSOU0E47200394** |
+| Declared value | **$949.99** |
+| Est. weight / dims | ~80 lb / ~20×20×16 in |
+| Drop-off | Jun 15 2026, 1:12 PM — FedEx Office, 8400 SW Nimbus Ave Ste 600, Beaverton OR 97008-7133 |
+
+**Timeline:** May 24 opened Anker support → Jun 5 Anker confirmed fault + sent prepaid FedEx label → **Jun 15** dropped off, shared receipt → **Jun 17 last tracking scan** → Jun 21 Anker flagged no movement, asked me (shipper) to open a FedEx inquiry → Jun 23 I opened the FedEx case → Jun 24/25 FedEx requested item details, I replied w/ value/serial/photos → **now: FedEx investigating likely-lost package; replacement blocked.**
+
+Evidence: [drop-off receipt](src/f2000_fedex_dropoff_receipt.jpg) · [package box](src/f2000_return_package_box.jpg).
+
+**Next / leverage:** I'm the shipper on a prepaid label, so the FedEx claim is mine to push (ticket C-246251942). If FedEx declares it lost, push Anker to ship the replacement on the lost-shipment basis (they have the receipt + tracking) rather than waiting on warehouse receipt. **Since the F2600 is on sale ($899) for *less* than the F2000's $949.99 declared value, ask Anker to fulfill the replacement as the F2600 at no extra cost — locked in before the sale ends 6/26.** (See the email draft / price watch below.)
+
+---
+
 ## Price Watch — replacement / more field power
 
 May need a **replacement** if the warranty unit is lost in shipping (see status above), or a **2nd standalone unit** (another F2000, or the bigger F2600), or an **expansion battery** (only useful once a working F2000 is back).
