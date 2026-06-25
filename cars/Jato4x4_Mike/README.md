@@ -69,7 +69,8 @@
 
 | Position | Part |
 |----------|------|
-| Pinion | **11T 32P** |
+| Pinion | **12T 32P** |
+| Spur | **54T** |
 
 ### Diff Oil
 
@@ -104,9 +105,9 @@
 
 ## Tuning Notes
 
-**11T 32P pinion + Castle 1412 3200KV is the keeper combo.**
+**12T 32P pinion on a 54T spur + Castle 1412 3200KV is the keeper combo.**
 
-Original intuition was that **higher RPM** = better air control, so a smaller pinion was the obvious move. Real-world finding: **torque matters as much as RPM** — the smaller pinion lets the motor reach the **top of its power band more easily**, which makes mid-air corrections feel just as responsive as the high-RPM theory promised, *and* keeps the motor cooler because it's not lugging.
+Original intuition was that **higher RPM** = better air control, so chasing the smallest pinion was the obvious move. Real-world finding: **torque matters as much as RPM** — gearing for the **power-band sweet spot** (12T here, not the tiniest pinion) makes mid-air corrections feel just as responsive as the high-RPM theory promised, *and* keeps the motor cooler because it's neither lugging nor screaming.
 
 Subjective on-track:
 - **Motor runs noticeably cooler** vs the previous taller gearing
@@ -114,7 +115,7 @@ Subjective on-track:
 - **"WOOOOO" sound is higher than ever before** — the motor is actually getting up into its happy RPM range
 - **Car feels lighter and faster overall** — less effort everywhere, throttle response sharper
 
-Cross-reference for the FastAzJato4x4 pinion decision (currently TBD): the 11T 32P / 3200KV combo on this Jato is the empirical data point that pinion sizing is **not** purely a top-speed equation — gearing for the power-band sweet spot beats gearing for theoretical max RPM.
+Cross-reference for the FastAzJato4x4 pinion decision (currently TBD): the 12T 32P / 3200KV combo on this Jato is the empirical data point that pinion sizing is **not** purely a top-speed equation — gearing for the power-band sweet spot beats gearing for theoretical max RPM.
 
 ---
 

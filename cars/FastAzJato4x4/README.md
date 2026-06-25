@@ -60,6 +60,7 @@ TBD
 | Center diff | Stock TRA6814 OEM plastic + 20k wt oil | [`differential_analysis.md`](differential_analysis.md#center-diff) |
 | Center driveshaft | Stock Slash 4x4 alum TRA6855 (215mm) | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | Spur gear | TRA3956R 54T plastic | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
+| Pinion | **12T 32P** on a 3200KV (matches Mike's Jato) → **16T 32P** if running a **2400KV** for the same top speed (12 × 3200/2400 = 16) | Lower-KV motor geared taller to the same top end |
 | Diff / gearbox housings | Traxxas plastic — TRA6881 front / TRA6880 rear ($4 ea) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | Hubs | Traxxas Jato 4x4 stock hex hubs | — |
 | Bearings | Full sealed kit (Slash 4x4 sizes) | [`bearings_reference.md`](bearings_reference.md) |
