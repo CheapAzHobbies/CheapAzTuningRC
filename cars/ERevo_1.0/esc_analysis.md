@@ -1,6 +1,6 @@
 # ESC + Motor Selection — E-Revo 1.0
 
-> **Leaning: Hobbywing EZRun MAX8 GS2 ESC + 4278SD 2250KV G2R combo (HWI38010607), $208.99.** Switching from the Castle path. Not for speed (KV is basically identical to the Castle 1515, so same top end on 6S) but for the **G2S reliability** (no cutout at ramps), telemetry, waterproofing, and value. Price tracked in [`Deals/escs.md`](../../Deals/escs.md); the Castle Memorial Day numbers are in [`Deals/castle_creations_memorial_day_2026.md`](../../Deals/castle_creations_memorial_day_2026.md).
+> **Leaning: Hobbywing EZRun MAX8 G2S ESC + 4278SD 2250KV G2R combo (HWI38010607) — $187 (Hobbywing direct, code HWTRYOUTS, Jun 25 2026).** Switching from the Castle path. Not for speed (KV is basically identical to the Castle 1515, so same top end on 6S) but for the **G2S reliability** (no cutout at ramps), telemetry, waterproofing, and value. Price tracked in [`Deals/escs.md`](../../Deals/escs.md); the Castle Memorial Day numbers are in [`Deals/castle_creations_memorial_day_2026.md`](../../Deals/castle_creations_memorial_day_2026.md).
 
 ---
 
@@ -23,7 +23,7 @@
 
 | ESC | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Hobbywing EZRun MAX8 GS2** | **Cells:** 4S–6S<br>**Current (A):** N/A (MAX8-class)<br>**BEC:** 6A/15A switch-mode, 6–8.4V<br>**Sensored:** Yes<br>**Waterproof:** Yes (+ dustproof)<br>**Weight:** 194 g<br>**Price:** $208.99 combo (see [Deals](../../Deals/escs.md)) | Pro: **G2S = no cutout at ramps/extremes;** 3× 680µF caps (870µF, +74% vs MAX8, no external cap needed); frameless fan + radiator cooling; 32° turbo timing (+25% RPM); HW Link app + Bluetooth logging; LVC / thermal / fail-safe / reverse-polarity protection. **Dims 60×48×40.5 mm**<br><br>Con: Locked to the Hobbywing ecosystem; OTA programmer / LCD box sold separately | — |
+| ⭐ **Hobbywing EZRun MAX8 GS2** | **Cells:** 4S–6S<br>**Current (A):** N/A (MAX8-class)<br>**BEC:** 6A/15A switch-mode, 6–8.4V<br>**Sensored:** Yes<br>**Waterproof:** Yes (+ dustproof)<br>**Weight:** 194 g<br>**Price:** **$187 combo, Jun 25 2026** (Hobbywing direct, HWTRYOUTS; see [Deals](../../Deals/escs.md)) | Pro: **G2S = no cutout at ramps/extremes;** 3× 680µF caps (870µF, +74% vs MAX8, no external cap needed); frameless fan + radiator cooling; 32° turbo timing (+25% RPM); HW Link app + Bluetooth logging; LVC / thermal / fail-safe / reverse-polarity protection. **Dims 60×48×40.5 mm**<br><br>Con: Locked to the Hobbywing ecosystem; OTA programmer / LCD box sold separately | <img src="src/electronics_hobbywing_max8g2s_4278_combo.jpg" width="500"> |
 | 🥈 **Castle Mamba Monster X (ESC-only, 010-0145-00)** | **Cells:** 6S (25.2V) WP<br>**Current (A):** N/A<br>**BEC:** N/A<br>**Sensored:** Yes-capable<br>**Waterproof:** Yes<br>**Weight:** N/A<br>**Price:** $147.96 (Memorial Day + 26% student) | Pro: **Cheapest path — reuses the owned 1515 2200KV motor** (no second motor to buy); proven Castle reliability + Castle Link<br><br>Con: No combo motor/spare; Memorial-Day pricing was a one-time sale (May 2026) | — |
 
 ---
@@ -45,5 +45,5 @@
 - **Why switch to Hobbywing anyway:** the **G2S doesn't cut out at ramps / in extreme conditions** (the plain G2 does), plus telemetry, waterproofing, and a combo that's **~$39 under the equivalent Castle combo** with a spare 4278 motor.
 - **Cheapest equally-fast path:** keep the owned **1515 2200KV** and add just the **Castle Monster X ESC ($147.96)** — same speed, no second motor. The Hobbywing combo only wins on reliability/telemetry/spare-motor, not speed.
 - **Open decision:** if going Hobbywing, run the combo's **4278SD** or keep the **1515** on the MAX8 GS2 — both are 6S, ~same KV.
-- **Cheaper combo option (verify motor):** Hobbywing-direct **MAX8 G2S combo for $187** (code **HWTRYOUTS**), ~$22 under the eBay 4278SD/$208.99. The listing is inconsistent — checkout says **4274SD G2R**, learn-more says **4268/4278 SD G2** (likely a typo). **Confirm the motor + gen before ordering** (4274 = 396 g vs 4278 = 455 g; G2R is the updated motor). If it ships the **4278SD G2R**, it's the **same combo as the eBay 38010607 for $22 less**. See [`Deals/escs.md`](../../Deals/escs.md).
+- **Confirmed: $187 = the 4278SD G2R 2250KV combo** (Hobbywing direct, code **HWTRYOUTS**, **Jun 25 2026**). The checkout text typo'd the motor as "4274SD," but the option-specific listing photo shows the **4278SD 2250KV** — same combo as the eBay 38010607, just **$22 cheaper**. The buy. See [`Deals/escs.md`](../../Deals/escs.md).
 - **Price + buying note (G2S not G2)** live in [`Deals/escs.md`](../../Deals/escs.md).
