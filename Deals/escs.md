@@ -19,7 +19,7 @@ Price tracking for ESCs — generic parts used across multiple builds.
 
 ### Hobbywing EZRun MAX8 G2S ESC + 4274SD G2R combo (Bluetooth)
 
-ESC + motor combo, **3–6S**. The **4274SD** motor is a slightly **shorter/lighter can** than the 4278SD (74 vs 78 mm). KV not listed — **verify (~2200KV likely)**. (For the E-Revo — cheaper than the 4278SD combo.)
+ESC + motor combo, **3–6S**. The **4274SD** is **2250KV — same KV as the 4278SD** — just a **shorter/lighter can** (74 mm / **396 g** vs 78 mm / **455 g**). Same speed, ~59 g lighter. (For the E-Revo — cheaper *and* lighter than the 4278SD combo.)
 
 | Date | Price | Coupon / Path | Source | Notes |
 |------|-------|---------------|--------|-------|
