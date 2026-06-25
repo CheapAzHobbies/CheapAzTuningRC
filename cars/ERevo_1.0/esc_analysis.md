@@ -2,6 +2,8 @@
 
 > **Chosen — ✅ purchased Jun 25 2026 for $187: Hobbywing EZRun MAX8 G2S ESC + 4278SD 2250KV G2R combo (HWI38010607)** (Hobbywing direct, code HWTRYOUTS). Switched from the Castle path. Not for speed (KV is basically identical to the Castle 1515, so same top end on 6S) but for the **G2S reliability** (no cutout at ramps), telemetry, waterproofing, and value. Price tracked in [`Deals/escs.md`](../../Deals/escs.md); the Castle Memorial Day numbers are in [`Deals/castle_creations_memorial_day_2026.md`](../../Deals/castle_creations_memorial_day_2026.md).
 
+<p align="center"><img src="src/electronics_hobbywing_max8g2s_4278_combo.jpg" width="600"><br><em>Hobbywing EZRun MAX8 G2S ESC + 4278SD 2250KV G2R motor — the chosen E-Revo combo</em></p>
+
 ---
 
 ## Key Requirements
