@@ -16,6 +16,7 @@
 - [Alternative Upgrade Parts](#alternative-upgrade-parts)
 - [Center Diff](#center-diff)
 - [Center Diff Oil](#center-diff-oil)
+- [Front & Rear Diff Oil](#front--rear-diff-oil)
 - [Spur Gear](#spur-gear)
 - [Sources](#sources)
 
@@ -112,6 +113,19 @@ A slipper clutch replaces the center diff entirely. Vetoed here because it doesn
 **Fill level: half full only.** Overfilling plastic diff housings causes them to explode under pressure — this is operator error. Fill to half, no more.
 
 **Why not just lock the center diff?** Locked center = no torque differentiation front-to-rear = chassis pushes / pivots awkwardly on uneven surfaces. 20k gives the locked-feel under power without the disadvantages on rough offroad.
+
+---
+
+## Front & Rear Diff Oil
+
+**Front: ~7k wt (recommended starting point)** — shared target with [Mike's Jato](../Jato4x4_Mike/README.md#diff-oil). On loose / low-grip dirt with the heavy 4S car, ~7k keeps steering while the 20k center holds drive stability.
+
+| Diff | Weight | Tuning |
+|---|---|---|
+| **Front** | **~7k wt** (start) | **Lighter (5k)** = more turn-in on the slickest days; **heavier (10k+)** = calmer if it torque-steers / plows |
+| **Rear** | TBD | Set after front + center are dialed |
+
+> Same target as Mike's Jato (the two share this setup) — dial it on track, then lock the value in on both cars. *(This is the Jato E-buggy figure; the [E-Revo](../ERevo_1.0/README.md) runs a heavier **30k** front because it's a different, heavier platform.)*
 
 ---
 
