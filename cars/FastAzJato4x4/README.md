@@ -71,8 +71,8 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| ESC | Fire Phoenix XeRun 120A Enhanced (Speed Dragon) | In hand — [`esc_analysis.md`](esc_analysis.md) |
-| Motor | Tekin Pro4 HD 2500KV (#TT2521) | [`motor_analysis.md`](motor_analysis.md) |
+| ESC | **Hobbywing EZRun MAX10 G2 140A** — ✅ bought Jun 25 2026 ($127 combo); Fire Phoenix XeRun 120A also in hand | [`esc_analysis.md`](esc_analysis.md) |
+| Motor | **Hobbywing EZRun 3665 G3 2400KV** (4-pole, came with the combo) — supersedes the Tekin Pro4 HD plan | [`motor_analysis.md`](motor_analysis.md) |
 | Battery | 4S LiPo | — |
 | Receiver | FlySky FGr4S V2 | Considering |
 
