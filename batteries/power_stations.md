@@ -8,15 +8,17 @@ Portable power stations I bring to the track for **field charging** (LiPo charge
 
 | Unit | Capacity | Output | Battery | Cycles | Weight | Qty |
 |---|---|---|---|---|---|---|
-| **Anker SOLIX F2000 (PowerHouse 767)** | **2048 Wh** | **2400W** (2800W surge), pure sine | LiFePO4 | 3000 → 80% | 67.2 lb / 30.5 kg | **×1** |
+| **Anker SOLIX F2000 (PowerHouse 767)** | **2048 Wh** | **2400W** (2800W surge), pure sine | LiFePO4 | 3000 → 80% | 67.2 lb / 30.5 kg | ×1 ⚠️ *out for warranty* |
+
+> ⚠️ **Status (Jun 2026):** the F2000 **broke** → sent to Anker for a **free warranty replacement**, but the shipment **may be lost by FedEx** (an 80 lb, table-sized box). So there may be **no working unit on hand** until Anker/FedEx resolve it — which is why a replacement / new unit is in play below. **Follow up with Anker on the RMA + FedEx tracking.**
 
 **F2000 details:** 12 ports — 4× NEMA 5-20 AC, 1× NEMA TT-30 (RV), 3× 100W USB-C, 2× 12W USB-A, 2× 120W (12V) car. Recharge: **1000W solar / 1440W AC** (0–80% in ~1.4 h). WiFi/Bluetooth app. Wheels + tow handle. 5-year warranty. Expandable to **4096 Wh** with one expansion battery.
 
 ---
 
-## Price Watch — adding more field power
+## Price Watch — replacement / more field power
 
-Two ways to add capacity: a **2nd standalone unit** (another F2000, or the bigger F2600), or an **expansion battery** on the owned F2000.
+May need a **replacement** if the warranty unit is lost in shipping (see status above), or a **2nd standalone unit** (another F2000, or the bigger F2600), or an **expansion battery** (only useful once a working F2000 is back).
 
 **Standalone units — Prime Day prices (as of Jun 25 2026, ends 6/26):**
 
