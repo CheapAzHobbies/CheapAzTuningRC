@@ -83,13 +83,13 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 
 | Axle | Length | Status | Notes |
 |---|---|---|---|
-| **Uncut E-Revo CVD** (bare, no stub) | **132 mm** | reference | Stock E-Revo 1.0 CVD before cutting — the starting stock to chop down. (The 131.70 mm photo is a *slightly bent* one; true stock is 132.) |
-| **Front (adjustable prototype)** | **91 mm flat** (without the manufacturing nub) | ✅ length dialed | Threaded turnbuckle-style center, adjusted to fit on the car. Re-measured with the caliper re-zeroed: **91 mm flat, ignoring the manufacturing nub** (the small cast nub on the cup side). That's the weld target for the final front pair. (Earlier 85.5 mm reading was bad — caliper was decalibrated.) **Shorter = front.** |
+| **Uncut E-Revo CVD** (bare, no stub) | **136.60 mm** | reference | Stock E-Revo 1.0 CVD before cutting — the starting stock to chop down. Re-measured with the caliper re-zeroed. (Earlier 131.70/132 mm was the *decalibrated* caliper, ~5 mm low — same error that gave the bad front reading.) |
+| **Front (adjustable prototype)** | **90.94 mm** (≈91 flat, without the manufacturing nub) | ✅ length dialed | Threaded turnbuckle-style center, adjusted to fit on the car. Re-measured with the caliper re-zeroed: **90.94 mm ignoring the manufacturing nub** (the small cast nub on the cup side) — round to **91 mm flat** for the weld target. (Earlier 85.5 mm reading was bad — caliper was decalibrated.) **Shorter = front.** |
 | **Rear** | TBD | ⏳ not built yet | Build + tune the rear adjustable prototype next, then weld. |
 
 <p align="center">
-  <img src="src/drivetrain_erevo_cvd_axle_uncut_131mm.jpg" width="420">&nbsp;<img src="src/drivetrain_erevo_cvd_axle_adjustable_front_86mm.jpg" width="420"><br>
-  <em>Uncut E-Revo CVD: 132 mm (this one slightly bent at 131.70) · Front adjustable prototype: 91 mm flat ignoring the manufacturing nub (the small cast nub on the cup side)</em>
+  <img src="src/drivetrain_erevo_cvd_axle_uncut_137mm.jpg" width="420">&nbsp;<img src="src/drivetrain_erevo_cvd_axle_adjustable_front_91mm.jpg" width="420"><br>
+  <em>Uncut E-Revo CVD: 136.60 mm · Front adjustable prototype: 90.94 mm (≈91 flat) — both re-measured with the caliper re-zeroed</em>
 </p>
 
 > **Sleeve sizing:** the CVD shaft is **5.5 mm** OD. For the slip-fit coupler use a **~6 mm ID** sleeve (~0.5 mm gap) — **not 1/4" / 6.35 mm ID** (~0.85 mm gap, too loose). Tighter is better: **ream to ~5.6–5.7 mm ID** if you can (~0.1–0.2 mm gap). Match the retainer to the gap: **tight gap → Loctite 648/638**; **6 mm-as-is 0.5 mm gap → Loctite 660** (high gap-fill). Sleeve wall ≈8 mm+ OD so it stays stiff and can take the cross-pin.
@@ -169,4 +169,4 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 - **Watch the center-shaft length:** **TRA6855 = Slash 4x4 (215mm/8.5")**, **TRA6755 = Rustler/Stampede 4x4 (189mm/6.5")**. They look identical but the Rustler shaft is ~26mm too short for the Slash. Order TRA6855.
 - **Custom length / slop note:** Traxxas one-piece splined center shafts leave ~3–4mm of axial slop on purpose. That play is fine — even helpful — on a **flexy plastic chassis**, but on a **rigid carbon-fiber chassis with a top plate** you'd rather run zero play. The **Raptor R TRA10155 (~247mm)** is longer than the Slash shaft, so you can **cut it to an exact custom length** and take the slop out. Measure the installed gap before cutting.
 - **Confirmed part numbers:** E-Revo CVD = **TRA5451R** (set, no singles); E-Revo U-joint axle = **TRA5451X**; Slash stock U-joint axle = **TRA6852X/6851X**; Slash HD steel CV = **TRA6852R/6851R**; Slash EHD = **TRA6852A/6851A**; alum center driveshaft = **TRA6855** (Slash 4x4, 215mm — *not* TRA6755, which is the 189mm Rustler); plastic center driveshaft = **TRA6767**; Tekno center = **TKR6855**.
-- **Cut length:** **front = 91 mm flat** weld target (prototype measures 91 mm ignoring the manufacturing nub, caliper re-zeroed; uncut stock CVD is 132 mm). **Rear not built yet** — tune it next. See [Measured lengths](#measured-lengths-prototype). The knock-off CVD **stock cups are confirmed to fit the diffs**.
+- **Cut length:** **front = 91 mm flat** weld target (prototype measures 90.94 mm ignoring the manufacturing nub, caliper re-zeroed; uncut stock CVD is 136.60 mm). **Rear not built yet** — tune it next. See [Measured lengths](#measured-lengths-prototype). The knock-off CVD **stock cups are confirmed to fit the diffs**.
