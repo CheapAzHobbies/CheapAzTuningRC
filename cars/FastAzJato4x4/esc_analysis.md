@@ -13,6 +13,7 @@
 - [Sensor Connector Compatibility](#sensor-connector-compatibility) — motor ↔ ESC plug matrix
 - [Detailed Notes](#detailed-notes) — bullet specs per ESC
 - [Summary](#summary) — head-to-head recap table
+- [2S Light-Race Alternative](#2s-light-race-alternative-different-goal) — optional light/underdog 2S build
 
 ---
 
@@ -176,3 +177,24 @@
 - **Want 6S headroom later** → Mamba X (for 1412/1415 motors) or Mamba Monster X (for 1512/1515 motors). All 4S ESCs are dead ends if voltage ever goes up.
 
 **Weight priority:** Fire Phoenix (105g, $30, in hand) and Copperhead 10 (71g, ~$95 on sale) are the two lightest waterproof options. Copperhead is the lightest on the entire list.
+
+---
+
+## 2S Light-Race Alternative (different goal)
+
+A separate direction from the 4S basher build: a **light 2S** car — the nimble underdog on a 4S-dominated track. The track's only rule is **1/8 buggy, 4S max**, so a 2S build is **legal just by being under the cap** (no stock/spec class to conform to — run any motor/timing). The low-grip surface can't put down 4S power anyway, and going 2S **sheds ~200–300 g+** (mostly the smaller battery) ≈ **7–10% off the car**, right where it helps cornering, landings, and driveline life.
+
+**2S powertrain:**
+- **ESC:** Hobbywing **XeRun XR10 Pro-WP** — **2S-only**, 160A/1200A, IP67, JST-ZH sensored (auto-fallback to sensorless), BEC 5–7.4V/5A, 95.6g. Boost/turbo timing + data logging (and a blinky mode if ever wanted, though this track doesn't require it).
+- **Motor:** **XeRun V10 8.5T (~4600KV)** — native JST-ZH, no adapter (Castle 4600KV also works). Open class, so KV is your call — go hotter (toward the **5.5T (~5800KV)** ESC limit) for more 2S punch, or stay 8.5T for cooler/torquier.
+- **2S motor limit (this ESC):** Touring ≥4.5T, **Buggy ≥5.5T** — the 8.5T is well within.
+
+**Why 2S here:**
+- **Lighter** (~200–300 g+) → nimbler, softer landings, less mass to throw around.
+- **Traction-limited track** → can't use 4S top speed anyway, so 2S is "enough."
+- **Kinder to the driveline** → less torque shock on the chopped E-Revo CVDs / gears (the build's weak point).
+- **Fun/underdog** → a clean light 2S that carries corner speed can beat heavier 4S cars on a technical layout.
+
+**Make it work:** commit to light (the whole point); **gear for the power band** so the high-KV motor doesn't lug/heat. No class restrictions, so tune timing/boost freely for max 2S drive.
+
+**Tradeoff:** gives up straight-line punch to the 4S cars — not a drag build. Wins on handling, consistency, and parts life on a technical low-grip track.
