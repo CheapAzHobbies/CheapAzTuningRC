@@ -10,6 +10,7 @@
 - [Suspension](#suspension)
 - [Steering](#steering)
 - [Drivetrain](#drivetrain)
+- [Wheels & Tires](#wheels--tires)
 - [Electronics](#electronics)
 - [Tuning Notes](#tuning-notes)
 - [Parts Purchased](#parts-purchased)
@@ -69,6 +70,27 @@
 | Position | Part |
 |----------|------|
 | Pinion | **11T 32P** |
+
+### Diff Oil
+
+| Diff | Weight | Note |
+|---|---|---|
+| **Front** | **~7k wt** (recommended starting point) | Loose / low-grip dirt: ~7k keeps steering with the heavy 4S car. Go **lighter (5k)** for more turn-in on the slickest days, **heavier (10k+)** if it torque-steers or plows. Dial in on track, then match it on the FastAzJato. |
+| **Center** | **20k wt** | Same as the [FastAzJato4x4](../FastAzJato4x4/differential_analysis.md#center-diff-oil) — balanced (diffs under hard throttle, freewheels at part-throttle) for 4S dirt. |
+| **Rear** | TBD | Set after front/center are dialed. |
+
+---
+
+## Wheels & Tires
+
+| Item | Spec |
+|---|---|
+| **Rims** | **Traxxas Jato 4x4 VXL 3.0" dished wheels — 17 mm hex** (white). Assembled tire+wheel set: **TRA9074-WHT**; wheels-only sold separately (verify exact SKU). |
+| **Tires** | **RedSpider** (the set run before) mounted on the Jato 4x4 rims |
+
+> **Wear-in:** these RedSpider tires take **~7 battery packs of running to fully wear in** before they reach maximum grip / performance — don't judge them when fresh.
+>
+> The **[FastAzJato4x4](../FastAzJato4x4/README.md) is planned to run the same wheel/tire setup** (Jato 4x4 rims + RedSpider).
 
 ---
 

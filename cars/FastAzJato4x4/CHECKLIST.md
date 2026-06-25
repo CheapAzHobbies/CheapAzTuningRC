@@ -37,7 +37,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [ ] **Steering knuckles / C-hubs + rear axle carriers** — MonsterKingz 7075 alum set in the BOM
 
 ### Wheels & tires
-- [ ] **Wheels + tires** — biggest single gap
+- [ ] **Wheels + tires** — biggest single gap. **Plan: Traxxas Jato 4x4 VXL rims (17 mm hex, 3.0") + RedSpider tires**, same setup as [Mike's Jato](../Jato4x4_Mike/README.md#wheels--tires).
 - [ ] **Hubs / wheel hexes** — stock Jato 4x4 hex vs alum upgrades
 
 ### Drivetrain
