@@ -75,7 +75,12 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 >
 > **Sleeve sizing:** the CVD shaft is **5.5 mm** OD. For the slip-fit coupler use a **~6 mm ID** sleeve (~0.5 mm gap) — **not 1/4" / 6.35 mm ID** (~0.85 mm gap, too loose). Tighter is better: **ream to ~5.6–5.7 mm ID** if you can (~0.1–0.2 mm gap). Match the retainer to the gap: **tight gap → Loctite 648/638**; **6 mm-as-is 0.5 mm gap → Loctite 660** (high gap-fill). Sleeve wall ≈8 mm+ OD so it stays stiff and can take the cross-pin.
 >
-> **Easy standard part:** a **K&S 1/4" OD brass/aluminum tube** (0.014" wall) has an **ID of ~5.64 mm** — a near-perfect **~0.14 mm slip fit** on the 5.5 mm shaft (use **Loctite 648** at that gap). The brass/alu wall is thin + soft for an axle, so for strength either **telescope K&S tubes** (1/4" inner for the fit, 9/32" + 5/16" OD over it for wall) or back it with a **thick-wall steel sleeve ~5.6 mm ID**. Caliper the shaft + test-slide dry before bonding.
+> **One-piece sleeve (preferred — no telescoping):** use a single **thick-wall steel sleeve**:
+> - ⭐ **Bored/reamed to ~5.6 mm ID** → ideal ~0.14 mm slip fit → **Loctite 648** + cross-pin. (Ream a ~5 mm-ID steel tube/spacer up to size.)
+> - **Off-the-shelf 6 mm ID steel spacer/tube** (no reaming) → ~0.5 mm gap → **Loctite 660** + cross-pin.
+> - **Rigid steel shaft coupler** (one body, set-screw clamp, file a flat on each shaft) → mechanical, no glue.
+>
+> A K&S 1/4" OD brass tube gives the right ~5.64 mm ID slip fit but its thin/soft wall is weak for an axle, so **steel one-piece is the call**. Caliper the shaft + dry test-slide before committing. **Local (Portland):** Ace/True Value (shaft collars/couplers, small steel tube), Metal Supermarkets / OnlineMetals (thick-wall steel cut to length), Harbor Freight (reamer).
 
 ### Join method — chosen: threaded + mechanical lock (not weld/braze)
 
