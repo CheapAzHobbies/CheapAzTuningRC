@@ -72,6 +72,10 @@
 | Pinion | **12T 32P** |
 | Spur | **54T** |
 
+### Custom Axles (shared with FastAzJato4x4)
+
+Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is dialed on an **adjustable threaded prototype** first, then the **final axles are welded** to that length (simpler, tools on hand, a fresh set is cheap to remake). **Shorter axle = front.** Full build write-up and the rejected join methods are in [`FastAzJato4x4/driveshaft_analysis.md`](../FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip).
+
 ### Diff Oil
 
 | Diff | Weight | Note |
