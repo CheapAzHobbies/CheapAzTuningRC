@@ -72,6 +72,8 @@ The knock-off E-Revo 1.0 CVDs run **~$20** and **perform identically to the genu
 The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in half and rejoined to length**. The build: cut each CVD, thread both cut ends with a **1/4" die**, and join them with a **1/4" ID × 1" long internally-threaded standoff** as the center coupler. The E-Revo axles seat in the **Jato 4x4 EHD hubs**, with **4 Teflon (Traxxas) washers at the wheel end** and the **E-Revo hubs** (the same hubs run on the Revo and the Slash).
 
 > ⚠️ **WIP** — exact cut length TBD (measure against the installed diff + hub; cut once).
+>
+> **Sleeve sizing:** the CVD shaft is **5.5 mm** OD. For the slip-fit coupler use a **~6 mm ID** sleeve (~0.5 mm gap) — **not 1/4" / 6.35 mm** (~0.85 mm gap, too loose, won't stay concentric). Tighter is better: **ream to ~5.6–5.7 mm ID** if you can (~0.1–0.2 mm gap). Match the retainer to the gap: **tight gap → Loctite 648/638**; **6 mm-as-is 0.5 mm gap → Loctite 660** (high gap-fill; 638/648 only fill ~0.15–0.25 mm). Sleeve wall ≈8 mm+ OD so it stays stiff and can take the cross-pin.
 
 ### Join method — chosen: threaded + mechanical lock (not weld/braze)
 
