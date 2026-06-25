@@ -92,6 +92,8 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 
 Net: thread to set length → **cross-pin** → high-strength retainer. Adjustable + won't back out + the **pin carries the load**, not the thinned threads.
 
+> **Want it permanent instead of adjustable?** No glue truly equals steel on a small reversing axle, so the route is **slip-fit + cross-pin + Loctite 648** — the **648 is functionally permanent** (heat + force to remove) and the **pin** makes it mechanically permanent and carries the torque. Set the length first (you give up easy adjustment), then drill and pin. **Skip epoxy / JB Weld** (brittle under reversing torsion). Welding is the only metallurgically-permanent option, but only if you **re-heat-treat** after, or the joint goes soft/brittle.
+
 ---
 
 ## Center Driveshaft Comparison
