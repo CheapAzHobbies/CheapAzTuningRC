@@ -95,8 +95,10 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 | Component | Part | Qty |
 |-----------|------|-----|
 | Motor | Castle Creations 1515 2200KV | 1 |
-| ESC | TBD | 1 |
+| ESC | Hobbywing EZRun MAX8 GS2 (HWI38010607 combo w/ 4278SD 2250KV motor) | 1 |
 | Battery | 2× 3S LiHV 4200mAh in series → 6S | 2 |
+
+**ESC notes:** Going the **Hobbywing EZRun MAX8 GS2** (3–8S). **When ordering any Hobbywing MAX-series ESC, get the G2S (GS2), not the plain G2** — the G2S doesn't cut out at ramps / in extreme conditions. Comes as the HWI38010607 combo with a 4278SD 2250KV motor (alt to the Castle 1515). Price tracked in [`Deals/escs.md`](../../Deals/escs.md).
 
 **Battery notes:** Runs LiHV (4.35V/cell, 25.2V nominal / 26.1V hot off charger at 6S). Replace as matched pairs from the same order so series voltage stays balanced. Set LVC at **3.4V/cell** — Premo #2 was killed by over-discharge + no balancing. Charger must support LiHV mode.
 
