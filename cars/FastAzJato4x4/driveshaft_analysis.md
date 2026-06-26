@@ -76,7 +76,7 @@ The E-Revo 1.0 CVDs are too long for the Jato, so they get **cut in half and rej
 1. **Tune length** on an adjustable threaded axle. **Shorter = front.**
 2. **Lock it permanently:** knurl the shaft, bond into a long tight sleeve with **Loctite 680**. **No pin** (can't drill the SS sleeve), **no weld** (it kept cracking at the bead).
 
-> ⚠️ **Status:** front length dialed (**90.5 mm**, table below). **Rear not built yet.** Wear part, so a fresh set is easy to remake.
+> ⚠️ **Status:** front length dialed (**90.5 mm end-to-end / ~85.9 mm pin-to-hole**, table below). **Rear not built yet.** Wear part, so a fresh set is easy to remake.
 
 ### Measured lengths (prototype)
 
@@ -147,9 +147,9 @@ The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardw
 
 ### Build recipe — 5.5 mm shaft (older AliExpress set)
 
-> Target: **90.5 mm** final front, **even 45.25 mm halves**. Stronger shaft, but binds on the cup at full droop.
+> Target: **90.5 mm end-to-end (~85.9 mm pin-to-hole)** final front, **even 45.25 mm halves**. Stronger shaft, but binds on the cup at full droop.
 
-1. **Measure stock + mark cut.** Uncut 5.5 mm CVD = **136.60 mm**. Remove **46.1 mm** (cut ~23.05 mm off each inner end so the halves come out even at 45.25 mm). Cut a hair long, sneak up on it.
+1. **Measure stock + mark cut.** Uncut 5.5 mm CVD = **136.60 mm end-to-end (132 mm pin-to-hole)**. Remove **46.1 mm** (cut ~23.05 mm off each inner end so the halves come out even at 45.25 mm). Cut a hair long, sneak up on it. *(Cut math uses end-to-end; pin-to-hole is for cross-shopping.)*
 2. **Key the ends.** Thread each cut end with a **1/4-20 die**, or knurl/crosshatch ~10 mm of the shaft. Threads double as the glue key.
 3. **Joiner / sleeve.** **1/4-20 hex coupler** (threaded route), or a steel sleeve reamed to **~5.6 mm ID** (~0.14 mm slip fit) over a knurled shaft.
 4. **Set length + bond.** Dry-fit to 90.5 mm, then **Loctite 680** (tight fit) or **660** (loose ~0.5 mm sleeve). Scuff, degrease, prime 7649. No pin, no weld.
@@ -157,9 +157,9 @@ The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardw
 
 ### Build recipe — 4.5 mm shaft (newer AliExpress set)
 
-> Same **90.5 mm / 45.25 mm even-halves** target. Weaker shaft (~55% of 5.5 mm torsion) but **clears the cup better at full droop** — the reason to run it front.
+> Same **90.5 mm end-to-end (~85.9 mm pin-to-hole) / 45.25 mm even-halves** target. Weaker shaft (~55% of 5.5 mm torsion) but **clears the cup better at full droop** — the reason to run it front.
 
-1. **Measure stock + mark cut.** **Mic the 4.5 mm uncut axle first — it may NOT be 136.60 mm** like the 5.5 mm set. Remove `(its stock length − 90.5 mm)`, split evenly so each half is 45.25 mm tip-to-cut.
+1. **Measure stock + mark cut.** **Mic the 4.5 mm uncut axle first — its end-to-end may NOT be 136.60 mm** like the 5.5 mm set (and note its own pin-to-hole). Remove `(its end-to-end − 90.5 mm)`, split evenly so each half is 45.25 mm tip-to-cut.
 2. **Key the ends.** Thread each cut end with an **M5×0.8 die** (alt #10-32), or knurl/crosshatch ~10 mm. Keep threads/knurl shallow — the thin shaft has less meat to give up.
 3. **Joiner / sleeve.** **M5 threaded hex coupler/standoff** (the coupler *is* the sleeve), or a smooth steel sleeve reamed to **~4.6 mm ID** (~0.1 mm slip fit) over a knurled shaft. If tapping your own coupler: **M5×0.8 tap, 4.2 mm drill**.
 4. **Set length + bond.** Screw/slide to 90.5 mm, then **flood with Loctite 680**. Scuff, degrease, prime 7649. **Long overlap matters more here** since the shaft is weaker. No pin, no weld.
@@ -255,4 +255,4 @@ Buying-blind rules:
 - **Watch the center-shaft length:** **TRA6855 = Slash 4x4 (215mm/8.5")**, **TRA6755 = Rustler/Stampede 4x4 (189mm/6.5")**. They look identical but the Rustler shaft is ~26mm too short for the Slash. Order TRA6855.
 - **Custom length / slop note:** Traxxas one-piece splined center shafts leave ~3–4mm of axial slop on purpose. That play is fine — even helpful — on a **flexy plastic chassis**, but on a **rigid carbon-fiber chassis with a top plate** you'd rather run zero play. The **Raptor R TRA10155 (~247mm)** is longer than the Slash shaft, so you can **cut it to an exact custom length** and take the slop out. Measure the installed gap before cutting.
 - **Confirmed part numbers:** E-Revo CVD = **TRA5451R** (set, no singles); E-Revo U-joint axle = **TRA5451X**; Slash stock U-joint axle = **TRA6852X/6851X**; Slash HD steel CV = **TRA6852R/6851R**; Slash EHD = **TRA6852A/6851A**; alum center driveshaft = **TRA6855** (Slash 4x4, 215mm — *not* TRA6755, which is the 189mm Rustler); plastic center driveshaft = **TRA6767**; Tekno center = **TKR6855**.
-- **Cut length:** front target — **final 90.5 mm, even halves 45.25 mm each** (tip → cut, joined at center in the sleeve). Remove **46.1 mm** total from the 136.60 stock (~23.05 mm per inner end). Measured flat, ignoring the manufacturing nub, caliper re-zeroed; cut a hair long and dry-fit in the sleeve. **Rear not built yet** — tune it next. See [Measured lengths](#measured-lengths-prototype). The knock-off CVD **stock cups are confirmed to fit the diffs**.
+- **Cut length:** front target — **final 90.5 mm end-to-end (~85.9 mm pin-to-hole), even halves 45.25 mm each** (tip → cut, joined at center in the sleeve). Remove **46.1 mm** total from the 136.60 mm end-to-end stock (132 mm pin-to-hole; ~23.05 mm per inner end). Measured flat, ignoring the manufacturing nub, caliper re-zeroed; cut a hair long and dry-fit in the sleeve. **Rear not built yet** — tune it next. See [Measured lengths](#measured-lengths-prototype). The knock-off CVD **stock cups are confirmed to fit the diffs**.
