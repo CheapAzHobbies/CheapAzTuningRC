@@ -103,6 +103,26 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 >
 > **Why 90.5 mm:** the front runs **FLM26800 extended arms (101.6 mm pin-to-pin, ≈102 mm) vs 92 mm stock**, ~10 mm/side wider track — the axle length is sized to that arm. Change arms → re-tune the axle. See [`arm_analysis.md`](arm_analysis.md).
 
+### Off-the-shelf CV option — Traxxas/Tekno part + length map (buy instead of build)
+
+Instead of cutting E-Revo CVDs, a stock steel CV that's the right length + uses the strong **Tekno M6 stub** is a "buy instead of build" path. The **half shaft is the length-determining part** — Traxxas part numbers confirm which CVDs share a length:
+
+| CVD (assembled) | Half shaft | Vehicle / position | Length |
+|---|---|---|---|
+| **6851R** | **6750** | Slash 4x4 **front** | 4x4 length |
+| **6852R** | **6750** | Slash 4x4 **rear** | **same as 6851R** (shares 6750) |
+| **1951R** | **6752** | 2WD Slash/Rustler/Stampede **rear** | **longer** ("long half shaft") |
+
+> **Key facts (verified via Traxxas half-shaft pages):** **6851R = 6852R in length** (both use half shaft 6750). **1951R is a different, longer length** (unique half shaft 6752). So the length order is **1951R (6752) > Slash 4x4 6851R/6852R (6750)**, and the SCTE M6 CVD (TKR2210) is longer still.
+
+**Tekno M6 equivalents** (stronger stub, bigger bearings 10×15×4 inner / 6×12×4 outer, captured CV pin):
+- **TKR6851X** (4x4 front) / **TKR6852X** (4x4 rear) — Slash-4x4 length (stock arms)
+- **TKR1951X** (2WD rear) — the **longer** 1951 length
+- **TKR2210 / 2210X** (SCTE / 2WD Rustler-Stampede) — **longest** in the M6 family
+- **TKR6853** — the 6 mm M6 **stub axles alone**
+
+**For the extended FLM arms (101.6 mm):** the stock-arm Slash 4x4 CVD (6851X) is **~10 mm short**, so the **longer 1951-length (TKR1951X) or SCTE-length (TKR2210)** M6 CVD is the candidate to reach ~90.5 mm — *measure before buying, Traxxas/Tekno don't publish CVD lengths.* Or build a longer CV by rebuilding around the **6752 half shaft** (rebuild kit 6757, output shafts 6758). E-Revo CVD's 8/9 mm balls likely **don't** mate the 6 mm M6 stub, so the M6 route means Slash-pattern CVDs, not the E-Revo ones.
+
 <p align="center">
   <img src="src/drivetrain_erevo_cvd_axle_uncut_137mm.jpg" width="420">&nbsp;<img src="src/drivetrain_erevo_cvd_axle_adjustable_front_91mm.jpg" width="420"><br>
   <em>Uncut E-Revo CVD: 136.60 mm · Front adjustable prototype: 90.94 mm (≈91 flat) — both re-measured with the caliper re-zeroed</em>
