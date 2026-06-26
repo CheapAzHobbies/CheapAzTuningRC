@@ -137,6 +137,29 @@ The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardw
 4. **Set length + bond.** Screw/slide to 90.5 mm, then **flood with Loctite 680**. Scuff, degrease, prime 7649. **Long overlap matters more here** since the shaft is weaker. No pin, no weld.
 5. **Check runout**, full cure before running.
 
+### Slip fit — smooth vs keyed, and what sleeve to buy
+
+A **slip fit** = shaft slides into the sleeve with a small clearance, the retaining compound fills the gap. Two flavors, **same sleeve** for both:
+
+- **Smooth slip fit** — shaft as-is into the sleeve + 680. Easiest (no tools), but relies **100% on adhesive shear**; a wheel axle's reversing shock torque can peel a smooth bonded joint loose over time.
+- **Keyed slip fit (recommended)** — **hand-crosshatch the shaft ends with a file** (a few diagonal strokes each way) before gluing. The cured 680 bites the grooves and resists rotation. No special tools, doesn't touch the SS sleeve, basically free torsional insurance.
+
+> **Why no pin:** the **stainless sleeves can't be drilled with the bits on hand** (SS work-hardens, eats HSS). Keyed slip fit gives the mechanical grip without drilling.
+
+**What sleeve to buy** (caliper the ID of any SS sleeve you already have first — if it's close, just match the glue to the gap and skip buying):
+
+| Shaft | Fit | Sleeve | ID | Gap | Glue |
+|---|---|---|---|---|---|
+| **5.5 mm** | **tight (best)** | **K&S 1/4" OD steel tube** (no ream) | ~5.64 mm | ~0.14 mm | **680** |
+| 5.5 mm | no-ream looser | 6 mm ID steel spacer or **6 mm-bore rigid shaft coupler** | 6.0 mm | ~0.5 mm | **660** |
+| **4.5 mm** | **tight (best)** | steel spacer/tube **reamed to ~4.6 mm** | ~4.6 mm | ~0.1 mm | **680** |
+| 4.5 mm | no-ream looser | 5 mm ID steel spacer or **5 mm-bore rigid shaft coupler** | 5.0 mm | ~0.5 mm | **660** |
+
+- **Stiffness:** a thick-wall steel spacer or rigid-coupler body beats thin K&S tube, but thin tube holds because glue + shaft carry the load over length.
+- **Keep the sleeve OD modest on the 4.5 mm front axle** so it clears the cup/arm at full droop.
+- **Stainless sleeve → 7649 primer required** either way (passive metal, or 680/660 won't cure).
+- Sources: K&S tube at Ace/Home Depot; steel spacers + rigid shaft couplers on Amazon/McMaster; reamers at Harbor Freight.
+
 ### Build options — joining the two CVD halves
 
 > **Status: KEYED SLEEVE + LOCTITE 680 (no pin) is the permanent method.** Live candidates first; struck-through = ruled out. **Welding was tried and kept breaking at the weld** (brittle HAZ on this medium-carbon, plated knock-off steel — see the ruled-out row), and **no pin** (the **stainless sleeves can't be drilled with the bits on hand** — SS work-hardens and eats normal HSS), so the build is **threaded/adjustable axle to tune the length, then a knurled/threaded shaft bonded into a long tight sleeve with Loctite 680**. The knurl/thread is the mechanical key that lets glue-only survive reversing torque.
