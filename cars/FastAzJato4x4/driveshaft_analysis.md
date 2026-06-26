@@ -60,11 +60,14 @@
 
 The knock-off E-Revo 1.0 CVDs run **~$20** and **perform identically to the genuine Traxxas CVDs** — no noticeable difference in real use. Same 6mm diff end, same chopped-to-fit method. For a wear item that gets cut down and rebuilt anyway, the knock-off is the sensible buy.
 
-> *Spec format: Type · Part · Diff end · Fits · Price*
+**They come in two shaft diameters** (same cups/boots/hardware, different mid-shaft) — caliper before buying a thread kit. Full thread-kit + sleeve detail in [Knock-off axle diameters](#knock-off-axle-diameters--not-all-the-same-shaft).
+
+> *Spec format: Type · Shaft · Diff end · Fits · Weight · Price*
 
 | Part | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Knock-off E-Revo 1.0 CVD set** (e.g. RCAWD) — *budget* | **Type:** CVD knock-off<br>**Part:** vary by seller (AliExpress / RCAWD / budget RC sellers)<br>**Diff end:** 6mm<br>**Fits:** E-Revo diffs and cups<br>**Price:** **~$20** | Pro: ~$20, works equally as well as genuine. Often ships with wheel hexes + hardware. Cheap enough to keep spares<br><br>Con: QC varies on paper; indistinguishable from OEM in practice | <img src="src/drivetrain_knockoff_cvd_rcawd.jpg" width="500"> |
+| ⭐ **5.5 mm knock-off set** (older) — *budget* | **Type:** CVD knock-off<br>**Shaft:** **5.5 mm**<br>**Diff end:** 6mm<br>**Fits:** E-Revo diffs and cups<br>**Weight:** 52.8 g<br>**Price:** **~$20** | Pro: **Stronger shaft** (~1.8× the 4.5 mm torsion). ~$20, works as well as genuine. Uses the **1/4-20** thread kit<br><br>Con: Heavier; **more prone to hitting the cup at full droop** | <img src="src/drivetrain_knockoff_cvd_axle_5-5mm_weight.jpg" width="500"> |
+| ⭐ **4.5 mm knock-off set** (newer) — *budget* | **Type:** CVD knock-off<br>**Shaft:** **4.5 mm**<br>**Diff end:** 6mm<br>**Fits:** E-Revo diffs and cups<br>**Weight:** 46.9 g<br>**Price:** **~$20** | Pro: **~6 g lighter** and **clears the cup better at full droop** (good for the front). Uses the **M5×0.8** thread kit<br><br>Con: **~55% of the 5.5 mm torsional strength** — the weaker shaft | <img src="src/drivetrain_knockoff_cvd_axle_4-5mm_weight.jpg" width="500"> |
 
 ---
 
