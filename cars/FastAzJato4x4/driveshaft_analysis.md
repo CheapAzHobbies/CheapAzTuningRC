@@ -117,6 +117,26 @@ The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardw
 >
 > A K&S 1/4" OD brass tube gives the right ~5.64 mm ID slip fit but its thin/soft wall is weak for an axle, so **steel one-piece is the call**. Caliper the shaft + dry test-slide before committing. **Local (Portland):** **Ace or Home Depot — K&S 1/4" OD steel tube** (one-piece, ~5.6 mm ID slip fit, stronger than the brass/alu on the same rack; metal-stock / spinner-rack aisle) is the easy in-stock pick (thin wall, but 680 on a knurled shaft holds it). **Harbor Freight** — 5.6 mm / 7-32" drill or reamer to size a sleeve. A *thick-wall* one-piece steel sleeve isn't stocked at those three — ream a steel tube/rod, or order online (McMaster "round unthreaded spacer" / Amazon "6 mm rigid shaft coupling").
 
+### Build recipe — 5.5 mm shaft (older AliExpress set)
+
+> Target: **90.5 mm** final front, **even 45.25 mm halves**. Stronger shaft, but binds on the cup at full droop.
+
+1. **Measure stock + mark cut.** Uncut 5.5 mm CVD = **136.60 mm**. Remove **46.1 mm** (cut ~23.05 mm off each inner end so the halves come out even at 45.25 mm). Cut a hair long, sneak up on it.
+2. **Key the ends.** Thread each cut end with a **1/4-20 die**, or knurl/crosshatch ~10 mm of the shaft. Threads double as the glue key.
+3. **Joiner / sleeve.** **1/4-20 hex coupler** (threaded route), or a steel sleeve reamed to **~5.6 mm ID** (~0.14 mm slip fit) over a knurled shaft.
+4. **Set length + bond.** Dry-fit to 90.5 mm, then **Loctite 680** (tight fit) or **660** (loose ~0.5 mm sleeve). Scuff, degrease, prime 7649. No pin, no weld.
+5. **Check runout**, let cure fully before running.
+
+### Build recipe — 4.5 mm shaft (newer AliExpress set)
+
+> Same **90.5 mm / 45.25 mm even-halves** target. Weaker shaft (~55% of 5.5 mm torsion) but **clears the cup better at full droop** — the reason to run it front.
+
+1. **Measure stock + mark cut.** **Mic the 4.5 mm uncut axle first — it may NOT be 136.60 mm** like the 5.5 mm set. Remove `(its stock length − 90.5 mm)`, split evenly so each half is 45.25 mm tip-to-cut.
+2. **Key the ends.** Thread each cut end with an **M5×0.8 die** (alt #10-32), or knurl/crosshatch ~10 mm. Keep threads/knurl shallow — the thin shaft has less meat to give up.
+3. **Joiner / sleeve.** **M5 threaded hex coupler/standoff** (the coupler *is* the sleeve), or a smooth steel sleeve reamed to **~4.6 mm ID** (~0.1 mm slip fit) over a knurled shaft. If tapping your own coupler: **M5×0.8 tap, 4.2 mm drill**.
+4. **Set length + bond.** Screw/slide to 90.5 mm, then **flood with Loctite 680**. Scuff, degrease, prime 7649. **Long overlap matters more here** since the shaft is weaker. No pin, no weld.
+5. **Check runout**, full cure before running.
+
 ### Build options — joining the two CVD halves
 
 > **Status: KEYED SLEEVE + LOCTITE 680 (no pin) is the permanent method.** Live candidates first; struck-through = ruled out. **Welding was tried and kept breaking at the weld** (brittle HAZ on this medium-carbon, plated knock-off steel — see the ruled-out row), and a **pin isn't wanted**, so the build is **threaded/adjustable axle to tune the length, then a knurled/threaded shaft bonded into a long tight sleeve with Loctite 680**. The knurl/thread is the mechanical key that lets glue-only survive reversing torque.
