@@ -124,7 +124,7 @@ Instead of cutting E-Revo CVDs, a stock steel CV that's the right length + uses 
 - **TKR2210 / 2210X** (SCTE / 2WD Rustler-Stampede) — **longest** in the M6 family
 - **TKR6853** — the 6 mm M6 **stub axles alone**
 
-**For the extended FLM arms (101.6 mm):** the Slash 4x4 CVD (6851X) runs ~10 mm short. The longer **1951-length (TKR1951X)** or **SCTE-length (TKR2210)** M6 CVD is the reach candidate — measure before buying (lengths aren't published). Or rebuild a longer CV around the **6752 half shaft**. Note: E-Revo's 8/9 mm balls likely won't mate the 6 mm M6 stub, so the M6 route means Slash-pattern CVDs.
+**For the extended FLM arms (101.6 mm):** the Slash 4x4 CVD (6851X) runs ~10 mm short. **Tekno's documented extended-arm combo is TKR1951X + TKR2210** — the 1951X M6 hubs/driveshafts + the **longer SCTE-length TKR2210 driveshafts**. Tekno built this for the 2WD Slash with ProTrac arms; the FLM arms are ProTrac-length, so it maps to this build (still **measure to confirm vs 90.5 mm** — lengths aren't published). TKR1951X fits Slash 2WD, Nitro Rustler, Stampede 2WD; the electric Rustler 2WD shares the 2WD Slash rear driveline. Or rebuild a longer CV around the **6752 half shaft**. Note: E-Revo's 8/9 mm balls likely won't mate the 6 mm M6 stub, so the M6 route means Slash-pattern CVDs.
 
 <p align="center">
   <img src="src/drivetrain_erevo_cvd_axle_uncut_137mm.jpg" width="420">&nbsp;<img src="src/drivetrain_erevo_cvd_axle_adjustable_front_91mm.jpg" width="420"><br>
