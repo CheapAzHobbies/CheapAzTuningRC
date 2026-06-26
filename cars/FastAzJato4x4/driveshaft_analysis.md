@@ -101,7 +101,7 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 
 > The ends are **asymmetric** (8 mm pin-side ball vs 9 mm stub-side), so a donor axle has to match *both* ball sizes, not just the length — narrows the field a lot.
 >
-> **Why 90.5 mm:** the front runs **FLM26800 extended arms at 102 mm (vs 92 mm stock)**, ~10 mm/side wider track — the axle length is sized to that arm. Change arms → re-tune the axle. See [`arm_analysis.md`](arm_analysis.md).
+> **Why 90.5 mm:** the front runs **FLM26800 extended arms (101.6 mm pin-to-pin, ≈102 mm) vs 92 mm stock**, ~10 mm/side wider track — the axle length is sized to that arm. Change arms → re-tune the axle. See [`arm_analysis.md`](arm_analysis.md).
 
 <p align="center">
   <img src="src/drivetrain_erevo_cvd_axle_uncut_137mm.jpg" width="420">&nbsp;<img src="src/drivetrain_erevo_cvd_axle_adjustable_front_91mm.jpg" width="420"><br>
