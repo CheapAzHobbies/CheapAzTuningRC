@@ -85,8 +85,8 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 
 | Axle | Length | Status | Notes |
 |---|---|---|---|
-| **Uncut E-Revo CVD** (bare, no stub) | **136.60 mm** | reference | Stock E-Revo 1.0 CVD before cutting — the starting stock to chop down. Re-measured with the caliper re-zeroed. (Earlier 131.70/132 mm was the *decalibrated* caliper, ~5 mm low — same error that gave the bad front reading.) |
-| **Front (adjustable prototype)** | **90.94 mm** (≈91 flat, without the manufacturing nub) | ✅ length dialed | Threaded turnbuckle-style center, adjusted to fit on the car. Re-measured with the caliper re-zeroed: **90.94 mm ignoring the manufacturing nub** (the small cast nub on the cup side) — round to **91 mm flat** for the target. **Final front = 90.5 mm**, **even halves: 45.25 mm each** (tip → cut), joined at center in the keyed sleeve (knurl + 680). Remove **46.1 mm** total (136.60 − 90.5) → **~23.05 mm off each inner end**. Cut a hair long and dry-fit in the sleeve before bonding. (Earlier 85.5 mm reading was bad — caliper was decalibrated.) **Shorter = front.** |
+| **Uncut E-Revo CVD** (full length) | **136.60 mm end-to-end** · **132 mm pin-to-hole** | reference | Stock E-Revo 1.0 CVD before cutting. Two dims: **end-to-end (tip to tip) = 136.60 mm**, **pin-hole to pin-hole = 132 mm**. The **~4.6 mm** difference is the cup material beyond the pin holes at each end. (The earlier lone "132" was this pin-to-hole figure, not purely a caliper error.) |
+| **Front (adjustable prototype)** | **90.5 mm end-to-end** · **~85.9 mm pin-to-hole** | ✅ length dialed | Threaded prototype adjusted to fit on the car. **Final front = 90.5 mm end-to-end** (ignoring the manufacturing nub); **pin-to-hole ≈ 85.9 mm** (90.5 − 4.6 offset — verify on the build). **Even halves: 45.25 mm each** (tip → cut), joined at center in the keyed sleeve (knurl + 638/680). Remove **46.1 mm** total (136.60 − 90.5) → **~23.05 mm off each inner end**. Cut a hair long, dry-fit before bonding. **Shorter = front.** |
 | **Rear** | TBD | ⏳ not built yet | Build + tune the rear adjustable prototype next, then keyed-glue. |
 
 <p align="center">
