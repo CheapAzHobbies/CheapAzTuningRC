@@ -146,19 +146,20 @@ A **slip fit** = shaft slides into the sleeve with a small clearance, the retain
 
 > **Why no pin:** the **stainless sleeves can't be drilled with the bits on hand** (SS work-hardens, eats HSS). Keyed slip fit gives the mechanical grip without drilling.
 
-**What sleeve to buy** (caliper the ID of any SS sleeve you already have first — if it's close, just match the glue to the gap and skip buying):
+**What sleeve to buy — off the shelf, no reaming.** The trick: **Loctite 660 fills up to ~0.5 mm clearance**, so a slightly-loose stock sleeve still holds. Tight fits use 680, loose off-shelf fits use 660. (Caliper any SS sleeve you already have first — if it's close, match the glue to the gap and skip buying.)
 
-| Shaft | Fit | Sleeve | ID | Gap | Glue |
+| Shaft | Sleeve (buy as-is) | ID | Gap | Glue | Where |
 |---|---|---|---|---|---|
-| **5.5 mm** | **tight (best)** | **K&S 1/4" OD steel tube** (no ream) | ~5.64 mm | ~0.14 mm | **680** |
-| 5.5 mm | no-ream looser | 6 mm ID steel spacer or **6 mm-bore rigid shaft coupler** | 6.0 mm | ~0.5 mm | **660** |
-| **4.5 mm** | **tight (best)** | steel spacer/tube **reamed to ~4.6 mm** | ~4.6 mm | ~0.1 mm | **680** |
-| 4.5 mm | no-ream looser | 5 mm ID steel spacer or **5 mm-bore rigid shaft coupler** | 5.0 mm | ~0.5 mm | **660** |
+| **5.5 mm** | **K&S 1/4" OD steel tube** (easy win) | ~5.64 mm | ~0.14 mm | **680** | Ace / Home Depot / Amazon |
+| **4.5 mm** | **3/16" ID steel spacer/standoff** | ~4.76 mm | ~0.26 mm | **660** (or 648) | McMaster / Amazon |
+| 4.5 mm (alt) | **steel rigid shaft coupling, 5 mm bore** | 5.0 mm | ~0.5 mm | **660** | Amazon |
 
-- **Stiffness:** a thick-wall steel spacer or rigid-coupler body beats thin K&S tube, but thin tube holds because glue + shaft carry the load over length.
-- **Keep the sleeve OD modest on the 4.5 mm front axle** so it clears the cup/arm at full droop.
-- **Stainless sleeve → 7649 primer required** either way (passive metal, or 680/660 won't cure).
-- Sources: K&S tube at Ace/Home Depot; steel spacers + rigid shaft couplers on Amazon/McMaster; reamers at Harbor Freight.
+Buying-blind rules:
+- **Steel, not aluminum** — aluminum couplings are common for motors but too soft for an axle.
+- **Keep the OD slim** — a chunky rigid coupling can foul the arm/cup at full droop, especially on the 4.5 mm front axle. A tube or slim standoff beats a fat coupling.
+- **Match glue to the measured gap:** tight ≤0.15 mm → **680**; loose up to 0.5 mm → **660**.
+- **Stainless sleeve → 7649 primer required** (passive metal, or the anaerobic won't cure).
+- A hand **file-crosshatch** on the shaft turns any of these into a keyed slip fit (no drilling, no reaming).
 
 ### Build options — joining the two CVD halves
 
