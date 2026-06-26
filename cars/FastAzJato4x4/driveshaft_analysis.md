@@ -1,7 +1,7 @@
 # Driveshaft Selection — FastAzJato4x4
 
 > **Chosen:**
-> - **Axle (wheel) driveshafts: E-Revo 1.0 CVDs, chopped to fit.** Real or the ~$20 knock-off — both work equally well. Cut each in half and **rejoin to length with a center sleeve** — several join methods compared below. **Final method: keyed sleeve + Loctite 680** — knurl/crosshatch the shaft (or use the cut threads) so the glue has a mechanical key, then bond into a long, tight steel sleeve. **No pin, no weld** (welding was tried and kept breaking at the weld — brittle HAZ on this plated medium-carbon steel; pin not wanted). Build an **adjustable threaded axle first to tune the length**, then build the permanent **keyed-glue** axle to that length. **Shorter axle = front.** 6mm (≈1/4") matches the E-Revo diffs and cups. See [build options](#build-options--joining-the-two-cvd-halves).
+> - **Axle (wheel) driveshafts: E-Revo 1.0 CVDs (genuine or ~$20 knock-off), chopped to fit.** Cut each in half and rejoin to length with a **keyed sleeve + Loctite 680 — no pin, no weld.** Tune the length on a threaded prototype first. **Shorter = front.** 6mm matches the E-Revo diffs/cups. See [build options](#build-options--joining-the-two-cvd-halves).
 > - **Center driveshaft: stock Slash 4x4 aluminum one-piece (TRA6855, 215mm).** Plastic deforms on 4S and the Tekno Big Bone isn't worth the money — stock metal is the pick. **Don't grab TRA6755 — that's the 189mm Rustler shaft and it's too short.**
 
 <p align="center">
@@ -70,14 +70,13 @@ The knock-off E-Revo 1.0 CVDs run **~$20** and **perform identically to the genu
 
 ## Shortening + Joining E-Revo CVDs (custom axles, WIP)
 
-The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in half and rejoined to length** with a center sleeve. Several ways to make that joint — see **[Build options](#build-options--joining-the-two-cvd-halves)** below. **Final method: keyed sleeve + Loctite 680, no pin** (welding was tried and broke at the weld; pin not wanted). The E-Revo axles seat in the **Jato 4x4 EHD hubs**, with **4 Teflon (Traxxas) washers at the wheel end** and the **E-Revo hubs** (the same hubs run on the Revo and the Slash).
+The E-Revo 1.0 CVDs are too long for the Jato, so they get **cut in half and rejoined to length** with a center sleeve. They seat in the **Jato 4x4 EHD hubs** (4 Teflon washers at the wheel end).
 
-> **Two-step build (settled):**
-> 1. **Tune length on an adjustable threaded axle.** Build one threaded/telescoping axle that adjusts, fit it to the car, and dial in the exact length on each end. **Shorter axle = front** (front track is narrower).
-> 2. **Build the permanent axles to that length — keyed sleeve + Loctite 680, no pin.** Knurl/crosshatch the shaft (or use the cut threads) so the glue keys mechanically, then bond into a long, tight steel sleeve with **Loctite 680**. Welding was the first plan but it **kept breaking at the weld** (brittle HAZ on this plated medium-carbon knock-off steel), and a pin isn't wanted — so the keyed-glue joint is the permanent build. It's a wear part anyway, so a **fresh set is easy to remake** if one fails. (See [build options](#build-options--joining-the-two-cvd-halves).)
->
-> ⚠️ **WIP** — **front** length dialed: **final 90.5 mm, even halves 45.25 mm each** (flat, ignoring the manufacturing nub; remove 46.1 mm / ~23.05 mm per end from the 136.60 stock; caliper re-zeroed). **Keyed-glue** the final front pair to that — knurl + Loctite 680, no pin (welding broke at the weld — see build options). **Rear axle not built yet** — tune it next, then keyed-glue both.
->
+**The plan, two steps:**
+1. **Tune length** on an adjustable threaded axle. **Shorter = front.**
+2. **Lock it permanently:** knurl the shaft, bond into a long tight sleeve with **Loctite 680**. **No pin** (can't drill the SS sleeve), **no weld** (it kept cracking at the bead).
+
+> ⚠️ **Status:** front length dialed (**90.5 mm**, table below). **Rear not built yet.** Wear part, so a fresh set is easy to remake.
 
 ### Measured lengths (prototype)
 
@@ -121,7 +120,7 @@ Instead of cutting E-Revo CVDs, a stock steel CV that's the right length + uses 
 - **TKR2210 / 2210X** (SCTE / 2WD Rustler-Stampede) — **longest** in the M6 family
 - **TKR6853** — the 6 mm M6 **stub axles alone**
 
-**For the extended FLM arms (101.6 mm):** the stock-arm Slash 4x4 CVD (6851X) is **~10 mm short**, so the **longer 1951-length (TKR1951X) or SCTE-length (TKR2210)** M6 CVD is the candidate to reach ~90.5 mm — *measure before buying, Traxxas/Tekno don't publish CVD lengths.* Or build a longer CV by rebuilding around the **6752 half shaft** (rebuild kit 6757, output shafts 6758). E-Revo CVD's 8/9 mm balls likely **don't** mate the 6 mm M6 stub, so the M6 route means Slash-pattern CVDs, not the E-Revo ones.
+**For the extended FLM arms (101.6 mm):** the Slash 4x4 CVD (6851X) runs ~10 mm short. The longer **1951-length (TKR1951X)** or **SCTE-length (TKR2210)** M6 CVD is the reach candidate — measure before buying (lengths aren't published). Or rebuild a longer CV around the **6752 half shaft**. Note: E-Revo's 8/9 mm balls likely won't mate the 6 mm M6 stub, so the M6 route means Slash-pattern CVDs.
 
 <p align="center">
   <img src="src/drivetrain_erevo_cvd_axle_uncut_137mm.jpg" width="420">&nbsp;<img src="src/drivetrain_erevo_cvd_axle_adjustable_front_91mm.jpg" width="420"><br>
@@ -144,14 +143,7 @@ The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardw
   <em>5.5 mm older AliExpress axle: 52.8 g (disassembled, parts on pan) · 4.5 mm newer AliExpress axle: 46.9 g (assembled)</em>
 </p>
 
-> **Sleeve sizing:** the CVD shaft is **5.5 mm** OD. For the slip-fit coupler use a **~6 mm ID** sleeve (~0.5 mm gap) — **not 1/4" / 6.35 mm ID** (~0.85 mm gap, too loose). Tighter is better: **ream to ~5.6–5.7 mm ID** if you can (~0.1–0.2 mm gap). Match the retainer to the gap: **tight gap → Loctite 680** (strongest) or 648/638; **6 mm-as-is 0.5 mm gap → Loctite 660** (high gap-fill). Sleeve wall ≈8 mm+ OD so it stays stiff. **Knurl/crosshatch the shaft ends (the glue's mechanical key) since there's no pin.**
->
-> **One-piece sleeve (preferred — no telescoping):** use a single **thick-wall steel sleeve**:
-> - ⭐ **Bored/reamed to ~5.6 mm ID** → ideal ~0.14 mm slip fit → **Loctite 680** on a knurled shaft. (Ream a ~5 mm-ID steel tube/spacer up to size.)
-> - **Off-the-shelf 6 mm ID steel spacer/tube** (no reaming) → ~0.5 mm gap → **Loctite 660** (gap-fill) on a knurled shaft.
-> - **Rigid steel shaft coupler** (one body, set-screw clamp, file a flat on each shaft) → mechanical, no glue.
->
-> A K&S 1/4" OD brass tube gives the right ~5.64 mm ID slip fit but its thin/soft wall is weak for an axle, so **steel one-piece is the call**. Caliper the shaft + dry test-slide before committing. **Local (Portland):** **Ace or Home Depot — K&S 1/4" OD steel tube** (one-piece, ~5.6 mm ID slip fit, stronger than the brass/alu on the same rack; metal-stock / spinner-rack aisle) is the easy in-stock pick (thin wall, but 680 on a knurled shaft holds it). **Harbor Freight** — 5.6 mm / 7-32" drill or reamer to size a sleeve. A *thick-wall* one-piece steel sleeve isn't stocked at those three — ream a steel tube/rod, or order online (McMaster "round unthreaded spacer" / Amazon "6 mm rigid shaft coupling").
+> **Sleeve sizing (5.5 mm shaft):** tight fit **~5.6 mm ID** (~0.1 mm gap) → **Loctite 680**; loose **~6 mm ID** (~0.5 mm gap) → **Loctite 660** (gap-fill). Keep the wall thick enough to stay stiff, the OD slim for droop clearance. One piece, no telescoping. Knurl the shaft (the glue's key). Exact buys in the table below.
 
 ### Build recipe — 5.5 mm shaft (older AliExpress set)
 
@@ -201,9 +193,7 @@ Buying-blind rules:
 
 ### Build options — joining the two CVD halves
 
-> **Status: KEYED SLEEVE + LOCTITE 680 (no pin) is the permanent method.** Live candidates first; struck-through = ruled out. **Welding was tried and kept breaking at the weld** (brittle HAZ on this medium-carbon, plated knock-off steel — see the ruled-out row), and **no pin** (the **stainless sleeves can't be drilled with the bits on hand** — SS work-hardens and eats normal HSS), so the build is **threaded/adjustable axle to tune the length, then a knurled/threaded shaft bonded into a long tight sleeve with Loctite 680**. The knurl/thread is the mechanical key that lets glue-only survive reversing torque.
->
-> ⚠️ **Stainless sleeve + anaerobic glue = prime it.** Stainless is an **"inactive" (passive) metal**, so Loctite 680/660 cures **slow and weak** on it without help. **7649 primer is required** (not optional): wipe both the keyed shaft and the SS bore, let it flash off, assemble within a few minutes. No primer = the 680 may never fully harden inside.
+> **Chosen: keyed sleeve + Loctite 680, no pin, no weld.** The knurl/thread is the mechanical key that lets glue survive reversing torque. **Stainless sleeve must be primed (7649)** or the 680 won't cure. Struck-through rows = ruled out.
 
 | Option | How | Status |
 |---|---|---|
@@ -220,20 +210,12 @@ Buying-blind rules:
 | 🚫 ~~Press fit~~ | Hammer the shaft into a tight bore | Hard to size by hand, no glue gap, fights length-setting |
 | 🚫 ~~Weld/braze hardened steel~~ | Weld a hard axle without re-heat-treat | Anneals → soft/brittle joint (moot here — these file soft) |
 
-**Shared build notes (any option):**
+**Notes:**
 
-- **File-test before welding:** file bites = soft = weldable (these knock-offs, and apparently genuine Traxxas too). File **skates** = hardened, don't weld. **Tough/springy** = medium-carbon → **preheat + slow-cool** to avoid cracking.
-- **Soft but fat = likely strong enough:** the 5.5 mm shaft is bigger than typical ~4 mm aftermarket CVDs, and torsion scales with **diameter³** (≈2.6× the section), so the thickness offsets the missing hardness; soft also **bends instead of snapping**. Softness mainly costs **wear at the CV/spline contact points**, not the joined shaft.
-- **Retainer by gap (bonded options):** tight slip fit → **Loctite 680** (strongest) or **648/638**; loose ~0.5 mm → **660**. **Scuff + degrease + prime** plated steel (Loctite 7649). With no pin, the **knurl/thread key carries the torque** and the compound locks it — so make the key aggressive and the overlap long.
-- **Warp + runout:** jig dead-straight, weld/work in **stages**, then roll on glass or V-blocks + dial indicator and **straighten** (soft steel tweaks easily). Keep the coupler short.
-- **Aluminum-angle jig/backing (welding):** **you can't weld steel to aluminum** (no fusion) — but aluminum angle is a great **alignment jig + weld backing**. Lay the axle in the angle's inside corner so it sits dead-straight, clamp, and weld the **steel-to-steel** joint; the weld **won't stick to the aluminum** (like a copper backing) and the angle holds it straight + sinks heat (so you may need a touch more heat for steel penetration). Check runout after.
-- **Thread-to-tune → keyed-glue-to-finalize:** dial the length on the threads, then build the permanent **keyed sleeve + Loctite 680** axle to that measured length. (Originally planned to weld, but welds kept breaking at the bead — see ruled-out row; pin not wanted.)
-- **Why the weld broke (full penetration, still snapped):** brittle **heat-affected zone** — this knock-off steel is medium-carbon, so fast air-cooling quench-hardens the metal next to the bead into brittle martensite that cracks on the first shock/reversing hit. Compounded by **plating** on the shaft (poisons the weld) and the **stress riser** at the weld plane. A keyed-glue joint avoids all of it (no heat, no HAZ).
-- **Permanent vs adjustable:** keyed sleeve + 680 is **permanent** (set length first); only the **threaded** option keeps length-adjustability. (Weld was the other permanent route but it failed on this steel.)
-- **Want a stronger glue than Loctite threadlocker? Use a *retaining compound*, not threadlocker.** Threadlocker (271/263) is made for threads and is weak holding a smooth shaft. For a **shaft-in-sleeve** joint the right family is an **anaerobic retaining compound**: **Loctite 680** (highest strength, ~5000 psi shear, slip fit), **648** (high strength, high temp, tight ~0.15 mm gap), or **660** (fills a loose ~0.5 mm gap, can rebuild worn metal). These bond over the **whole cylindrical overlap**, so strength scales with sleeve length — **a long sleeve + 680 is the "OP" glue setup**. To get the most from it: **tight fit, long overlap, scuff both surfaces, degrease, prime with 7649.** Honest caveat: even 680 can shear loose under the axle's reversing-shock torque if the shaft is **smooth** — so since we're going **no-pin**, give it a **mechanical key**: knurl/crosshatch the shaft ends, or use the cut threads. The cured 680 shears in the grooves/flanks to resist rotation, which is what makes glue-only viable here. Smooth-shaft glue-only = risky; keyed glue-only = the build.
-- **Red Loctite alone — will it hold without a mechanical lock?** **Only on the prototype, not for running.** A driveshaft is the worst case for threadlocker: **reversing torque** (every throttle on/off, fwd/rev) cyclically fatigues the cured bond and walks the thread loose, **shock loads** crack it, and the **undersized partial thread** (1/4-20 cut on 5.5 mm / M5 on 4.5 mm) gives it little to grab. 263 is the strongest oil-tolerant red and still isn't enough on its own here. **Threadlocker holds the tuning prototype together; the final axle needs a retaining compound (680) on a keyed (knurled/threaded) shaft** so the glue has something to bite — that's what carries power without a pin.
-- **JB Weld on threads?** Works as a gap-filler, but it's **brittle** (cracks under reversing load), **permanent**, and **doesn't heat-release** — so it's out for a serviceable build. Use **red Loctite 271** instead.
-- **Serviceable build (only if you want one — not the current plan):** **set screws beat a cross-pin** — they back out for service (a driven pin you'd have to drill). File a **flat** where each set screw lands (bites a flat, won't spin), use **2 per side**, **blue Loctite on the screw threads**. Main threads: **red Loctite 271** (torch ~250°C to release) — or **blue 242** to service with hand tools, no torch. Keep the flame on the **metal coupler, off the CV boots/plastic** (or pull boots first), and **reapply fresh Loctite** on reassembly.
+- **Why not weld:** even with full penetration it cracked at the bead — brittle heat-affected zone on this plated, medium-carbon steel. Glue skips the heat entirely.
+- **Use a retaining compound, not threadlocker.** Threadlocker (263/271) is weak on a smooth shaft. **Loctite 680** (or 648 for heat, 660 for loose gaps) bonds the whole sleeve overlap, so a long sleeve = strong joint. Budget swap: Permatex Sleeve Retainer.
+- **Stainless = prime with 7649** (passive metal, won't cure otherwise). Knurl the shaft so the glue keys mechanically; keep the overlap long.
+- **Soft-but-fat is fine:** the 5.5 mm shaft is fatter than typical ~4 mm CVDs (torsion scales with diameter³) and soft steel bends instead of snapping.
 
 ---
 
@@ -267,7 +249,7 @@ Buying-blind rules:
 
 - **Why CVDs over U-joints:** the E-Revo 1.0 U-joint shafts work, but the U-joint **hits the suspension arm at full travel and catches the steering link** sometimes. The CVDs deliver power smoothly through the whole travel range without that clearance problem — that's why they're the pick.
 - **Real vs knock-off CVD:** both work equally well. The ~$20 knock-off is the value choice since the shaft gets cut down and rebuilt anyway.
-- **Join method (custom axles) — settled:** **tune the length on an adjustable threaded axle, then build the permanent set with a keyed (knurled/threaded) shaft bonded into a long, tight sleeve with Loctite 680 — no pin, no weld.** **Welding was tried and kept breaking at the weld** (brittle HAZ on this plated medium-carbon steel) and a pin isn't wanted, so the keyed-glue sleeve is the method. **Shorter axle = front.** It's a wear part, so a fresh set is easy to remake.
+- **Join method (custom axles):** tune length on a threaded prototype, then keyed sleeve + Loctite 680 (no pin, no weld). Details in [Shortening + Joining](#shortening--joining-e-revo-cvds-custom-axles-wip).
 - **Diff: use the E-Revo 1.0 stock diffs.** Proven — E-Revo output drives + the knock-off CVD stock cups fit the stock Slash diffs and work great, and the E-Revo diff has the internal cross-**bar** that makes it stronger. **Before trying an XO1 diff, verify its outdrive/cup interface matches the E-Revo 6mm setup** — don't introduce that unknown unless it's confirmed-fit and meaningfully stronger.
 - **Center driveshaft pick logic:** **stock Slash 4x4 metal (TRA6855, 215mm) is the choice on this 4S build.** Plastic ($4) is fine for a stock basher but deforms under 4S. **Skip the Tekno Big Bone** — costs much more for no performance gain, still bends, chews up its outdrives, and runs noisily.
 - **Watch the center-shaft length:** **TRA6855 = Slash 4x4 (215mm/8.5")**, **TRA6755 = Rustler/Stampede 4x4 (189mm/6.5")**. They look identical but the Rustler shaft is ~26mm too short for the Slash. Order TRA6855.
