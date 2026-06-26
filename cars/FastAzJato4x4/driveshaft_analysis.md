@@ -124,7 +124,7 @@ Instead of cutting E-Revo CVDs, a stock steel CV that's the right length + uses 
 
 <p align="center">
   <img src="src/drivetrain_erevo_cvd_axle_uncut_137mm.jpg" width="420">&nbsp;<img src="src/drivetrain_erevo_cvd_axle_adjustable_front_91mm.jpg" width="420"><br>
-  <em>Uncut E-Revo CVD: 136.60 mm · Front adjustable prototype: 90.94 mm (≈91 flat) — both re-measured with the caliper re-zeroed</em>
+  <em>Uncut E-Revo CVD: 136.60 mm end-to-end / 132 mm pin-to-hole · Front prototype: 90.5 mm end-to-end / ~85.9 mm pin-to-hole — caliper re-zeroed</em>
 </p>
 
 ### Knock-off axle diameters — not all the same shaft
