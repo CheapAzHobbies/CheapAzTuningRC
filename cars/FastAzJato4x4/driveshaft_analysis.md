@@ -139,7 +139,9 @@ The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardw
 
 ### Build options — joining the two CVD halves
 
-> **Status: KEYED SLEEVE + LOCTITE 680 (no pin) is the permanent method.** Live candidates first; struck-through = ruled out. **Welding was tried and kept breaking at the weld** (brittle HAZ on this medium-carbon, plated knock-off steel — see the ruled-out row), and a **pin isn't wanted**, so the build is **threaded/adjustable axle to tune the length, then a knurled/threaded shaft bonded into a long tight sleeve with Loctite 680**. The knurl/thread is the mechanical key that lets glue-only survive reversing torque.
+> **Status: KEYED SLEEVE + LOCTITE 680 (no pin) is the permanent method.** Live candidates first; struck-through = ruled out. **Welding was tried and kept breaking at the weld** (brittle HAZ on this medium-carbon, plated knock-off steel — see the ruled-out row), and **no pin** (the **stainless sleeves can't be drilled with the bits on hand** — SS work-hardens and eats normal HSS), so the build is **threaded/adjustable axle to tune the length, then a knurled/threaded shaft bonded into a long tight sleeve with Loctite 680**. The knurl/thread is the mechanical key that lets glue-only survive reversing torque.
+>
+> ⚠️ **Stainless sleeve + anaerobic glue = prime it.** Stainless is an **"inactive" (passive) metal**, so Loctite 680/660 cures **slow and weak** on it without help. **7649 primer is required** (not optional): wipe both the keyed shaft and the SS bore, let it flash off, assemble within a few minutes. No primer = the 680 may never fully harden inside.
 
 | Option | How | Status |
 |---|---|---|
