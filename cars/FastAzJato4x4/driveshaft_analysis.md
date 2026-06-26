@@ -89,6 +89,18 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 | **Front (adjustable prototype)** | **90.5 mm end-to-end** · **~85.9 mm pin-to-hole** | ✅ length dialed | Threaded prototype adjusted to fit on the car. **Final front = 90.5 mm end-to-end** (ignoring the manufacturing nub); **pin-to-hole ≈ 85.9 mm** (90.5 − 4.6 offset — verify on the build). **Even halves: 45.25 mm each** (tip → cut), joined at center in the keyed sleeve (knurl + 638/680). Remove **46.1 mm** total (136.60 − 90.5) → **~23.05 mm off each inner end**. Cut a hair long, dry-fit before bonding. **Shorter = front.** |
 | **Rear** | TBD | ⏳ not built yet | Build + tune the rear adjustable prototype next, then keyed-glue. |
 
+**Front axle fitment spec (for cross-shopping a donor):**
+
+| Dimension | Value |
+|---|---|
+| End-to-end | **90.5 mm** |
+| Pin-to-hole | **~85.9 mm** |
+| Diff end | **6 mm** |
+| Pin-side ball | **8 mm** |
+| Stub-side ball (joins the stub) | **9 mm** |
+
+> The ends are **asymmetric** (8 mm pin-side ball vs 9 mm stub-side), so a donor axle has to match *both* ball sizes, not just the length — narrows the field a lot.
+
 <p align="center">
   <img src="src/drivetrain_erevo_cvd_axle_uncut_137mm.jpg" width="420">&nbsp;<img src="src/drivetrain_erevo_cvd_axle_adjustable_front_91mm.jpg" width="420"><br>
   <em>Uncut E-Revo CVD: 136.60 mm · Front adjustable prototype: 90.94 mm (≈91 flat) — both re-measured with the caliper re-zeroed</em>
