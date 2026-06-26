@@ -81,6 +81,8 @@ The E-Revo 1.0 CVDs are longer than the Jato 4x4 needs, so they get **cut in hal
 
 ### Measured lengths (prototype)
 
+> **All lengths are end-to-end (overall) — tip of one cup/stub to the other, NOT hole-to-hole / pivot-center spacing.** Use this when cross-shopping a donor axle: match the overall installed length, not a listing's pivot-to-pivot number.
+
 | Axle | Length | Status | Notes |
 |---|---|---|---|
 | **Uncut E-Revo CVD** (bare, no stub) | **136.60 mm** | reference | Stock E-Revo 1.0 CVD before cutting — the starting stock to chop down. Re-measured with the caliper re-zeroed. (Earlier 131.70/132 mm was the *decalibrated* caliper, ~5 mm low — same error that gave the bad front reading.) |
