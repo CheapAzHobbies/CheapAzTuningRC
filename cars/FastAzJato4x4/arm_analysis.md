@@ -68,6 +68,7 @@ Plastic guards that mount around the arm / drivetrain area. Keep dirt, grass, an
 - **Measured hole-to-hole length** (inner hinge pin to outer pivot, caliper):
   - **TRA2555 / 2555X** (Slash 2WD rear) = **84mm**
   - **TRA3655 / 3655X** (all 4x4 + Rustler/Stampede 2WD rear) = **92mm** (+8mm)
+  - **RPM80702** = **92mm** (stock-length, matches 3655)
   - **FLM26800** (extended) = **101.6mm** (+9.6mm over 3655)
   - Note: published part specs (3655 = 100mm, 2555 = 92mm) are *overall* length, not these hole-to-hole figures. The 3655 is the longest stock arm in this pattern; FLM is the only longer option.
 - **Flex stiffness hierarchy** (stiffest to most flexible): FLM26800 aluminum → **TRA3655X OEM (stiffest plastic, 2nd overall)** → TRA3655 original (discontinued) → TRA3655-BLK HD → RPM (vetoed — warps from storage).
