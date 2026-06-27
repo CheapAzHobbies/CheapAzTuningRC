@@ -12,6 +12,7 @@
 
 - [Overview](#overview)
 - [Track & Setup Philosophy](#track--setup-philosophy)
+- [Suspension](#suspension)
 - [Known Weak Points — what breaks](#known-weak-points--what-breaks)
 - [Maintenance Parts to Keep On Hand](#maintenance-parts-to-keep-on-hand)
 - [Planned Light Upgrades](#planned-light-upgrades)
@@ -42,6 +43,19 @@
 Same as the rest of the fleet: set up for **Meldrum Bar Park** (dirt track), with occasional **beach** running. Kept **mostly stock** — only spend where it stops breakage (cheap hardened driveline parts) or matters for dirt.
 
 **Cost note:** Rlaarlo upgrade/spare parts are surprisingly **pricier than a comparable Traxxas Slash's** — another reason to keep this one mostly stock and only buy the cheap durability swaps.
+
+---
+
+## Suspension
+
+### Shock Oil
+
+| Position | Weight |
+|----------|--------|
+| Front | **30wt** |
+| Rear | **30wt** |
+
+> Stock fill. Rlaarlo doesn't document it, but it's 30wt front and rear (confirmed by inspection). Use as the dirt-tuning starting point.
 
 ---
 
