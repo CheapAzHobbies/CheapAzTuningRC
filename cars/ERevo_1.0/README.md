@@ -80,9 +80,27 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 | Center | Traxxas TRA5614 | 500k wt |
 | Rear | Losi XXL LST | 10k wt |
 
-### Spur Gear
+### Gearing (spur + pinion)
 
-- Traxxas TRA3958 — 58T
+**Pitch:** mod 0.8 (32P). Motor shaft 5 mm.
+
+- **OEM (E-Revo Brushless):** 18T pinion (**TRA5644**, hardened, 5 mm bore) / 65T spur (**TRA3960**) = **3.61:1**.
+- **Currently on:** **TRA3958 58T** spur. With the 18T pinion that's **3.22:1 — ~12% taller than stock**, which is why it runs hot.
+
+**Spur options** (all 0.8 mod, ratio shown with the 18T pinion):
+
+| Spur | Teeth | Ratio (18T) | Note |
+|---|---|---|---|
+| TRA3956 | 54 | 3.00 | tallest — hottest, avoid |
+| TRA3957 | 56 | 3.11 | |
+| TRA3958 | 58 | 3.22 | current — runs hot |
+| TRA3959 | 62 | 3.44 | |
+| TRA3960 | 65 | 3.61 | OEM baseline |
+| **TRA3961** | **68** | **3.78** | coolest — leaning toward this for loose dirt |
+
+**Plan:** keep the 18T TRA5644 pinion and go back up in spur. Run at least the OEM **65T (TRA3960)**; leaning **68T (TRA3961, 3.78:1)** to run cooler and add low-end punch on the loose track. Dial by temp: target **<180°F/82°C** motor after a hard 5-6 min pack.
+
+<p align="center"><img src="src/reference_traxxas_spur_gear_options_diagram.png" width="300"><br><em>Traxxas spur options for the E-Revo gearbox (3956–3961, 0.8 mod)</em></p>
 
 ### Drive Cups
 
