@@ -10,7 +10,7 @@ Money tracking: what friends owe me for parts/cars I sell them, and what I order
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $90.02** | $67.02 + Traxxas 7477 cover $3 + 7422 chassis $20 | 2026-06-25 |
+| **Mike** | **≈ $108.82** | $90.02 + metal center diff $18.80 | 2026-06-26 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags at the bottom of Mike's account.
 
@@ -109,7 +109,9 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | | **Checkpoint (6/13): -$67.02** | −$46 + #75 + #76 + #77 + #78 |
 | 79 | -$3.00 | Traxxas 7477 LCG spur gear cover |
 | 80 | -$20.00 | Traxxas 7422 chassis 1/10 Rally VXL |
-| | **➡️ Current: -$90.02 → Mike owes ≈ $90** | −$67.02 + #79 + #80 |
+| | **Checkpoint (6/25): -$90.02** | −$67.02 + #79 + #80 |
+| 81 | -$18.80 | Metal center diff |
+| | **➡️ Current: -$108.82 → Mike owes ≈ $109** | −$90.02 + #81 |
 
 ### Flags to resolve
 
