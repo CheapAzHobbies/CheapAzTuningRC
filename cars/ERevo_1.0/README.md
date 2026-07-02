@@ -100,6 +100,8 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 
 **Plan:** keep the 18T TRA5644 pinion and go back up in spur. Run at least the OEM **65T (TRA3960)**; leaning **68T (TRA3961, 3.78:1)** to run cooler and add low-end punch on the loose track. Dial by temp: target **<180°F/82°C** motor after a hard 5-6 min pack.
 
+**What people run racing (heavy 6S on dirt):** gear by **motor temp, not top speed**. OEM 18/65 (3.61:1) is only ~35 mph on 6S, which is already more than a tight loose-dirt track uses. So the dirt crowd runs **at or slightly below OEM ratio** (bigger spur / smaller pinion) for corner punch and thermal margin, targets **160-180°F** after a run, and adds a **motor fan** so heat (not gearing) stops being the limit. Note bigger tires raise the effective gearing (more heat), so factor tire OD in. This build's 68T lean fits that pattern.
+
 <p align="center"><img src="src/reference_traxxas_spur_gear_options_diagram.png" width="300"><br><em>Traxxas spur options for the E-Revo gearbox (3956–3961, 0.8 mod)</em></p>
 
 ### Drive Cups
