@@ -110,7 +110,7 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 79 | -$3.00 | Traxxas 7477 LCG spur gear cover |
 | 80 | -$20.00 | Traxxas 7422 chassis 1/10 Rally VXL |
 | | **Checkpoint (6/25): -$90.02** | −$67.02 + #79 + #80 |
-| 81 | -$18.80 | Metal center diff |
+| 81 | -$18.80 | Metal center diff (Traxxas 6780-style — Slash / Hoss / Rustler 4x4) |
 | | **➡️ Current: -$108.82 → Mike owes ≈ $109** | −$90.02 + #81 |
 
 ### Flags to resolve
@@ -139,3 +139,4 @@ My own purchases (parts, cars, supplies).
 | Date | Item | Source | Cost | For (car) | Status | Notes |
 |------|------|--------|------|-----------|--------|-------|
 | 2026-06-01 | Axle driveshafts | | $21.10 | FastAzJato4x4 | Purchased | E-Revo CVDs |
+| 2026-05-16 | Metal center diff (Traxxas 6780-style, Slash/Hoss/Rustler 4x4) | TangEmpire (order 8211762212584866) | $18.80 | resold to Mike | Sold | At cost to Mike — see Mike's account #81 |
