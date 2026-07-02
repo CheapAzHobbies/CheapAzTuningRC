@@ -140,3 +140,5 @@ My own purchases (parts, cars, supplies).
 |------|------|--------|------|-----------|--------|-------|
 | 2026-06-01 | Axle driveshafts | | $21.10 | FastAzJato4x4 | Purchased | E-Revo CVDs |
 | 2026-05-16 | Metal center diff (Traxxas 6780-style, Slash/Hoss/Rustler 4x4) | TangEmpire (order 8211762212584866) | $18.80 | resold to Mike | Sold | At cost to Mike — see Mike's account #81 |
+| 2025-09-23 | E-Revo CVD 5451R (chopped for custom axles) | Pretty GEM (order 8204620880264866) | $18.75 | Mike's Slash custom axles | Purchased | Cut + rejoined to length — see [driveshaft_analysis](cars/FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) |
+| — | M6 × 30 mm 304-SS hex standoff (5 pc) — axle joiner | CLOXY Hardware | $4.36 | Mike's Slash custom axles | Purchased | The hex coupling that joins the two chopped CVD ends |
