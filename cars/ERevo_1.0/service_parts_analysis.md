@@ -80,4 +80,9 @@ The **Hobbywing 4278SD G2R** motor (see [`esc_analysis.md`](esc_analysis.md#moto
 - ~**$19.99** MAP ($24 MSRP), Hobbywingdirect. Keep a set on the shelf; motor bearings are a wear item on a dusty track.
 - **Generic equivalent:** any **5×16×5** and **5×13×4** ball bearing fits (buy cheaper in bulk off AliExpress like the hub bearings); the OEM kit is German and high-speed rated if you want the nicer ones.
 
+**When to replace (on condition, not calendar).** Pull the pinion and spin/wiggle the shaft: smooth + silent + no play = good; **gritty, notchy, or any wobble = replace.** Watch for a new whine, more heat, or less punch during runs too.
+- The **front (drive-end) bearing wears first** — it takes the pinion side-load, and a **loose pinion accelerates it** (another reason to keep the pinion locked: flat + blue Loctite).
+- **Dust is the #1 killer** (loose Meldrum dirt), **heat** cooks the grease, and **beach salt/sand is the worst** — always clean + inspect after beach or wet runs.
+- Practical cadence: quick spin-check **~every 10-15 packs** (or monthly), and after every beach/wet run. Keep a spare set on the shelf.
+
 <p align="center"><img src="src/reference_hobbywing_4278_motor_bearings_4310014_4310004.png" width="360"><br><em>Hobbywing 4278 / Xerun 1/8 motor bearing kit: front 5×16×5 (4310014) · rear 5×13×4 (4310004)</em></p>
