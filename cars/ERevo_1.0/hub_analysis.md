@@ -7,6 +7,8 @@
   <em>Front: Enron metal carriers (metal holds the pillow balls in) · Rear: RPM 80562 True Track carriers (4 mm pin lower mount)</em>
 </p>
 
+<p align="center"><img src="src/steering_rpm_80582_avoid.jpg" width="440"><br><em>🚫 <strong>Do NOT buy the RPM 80582 plastic front steering blocks.</strong> Even new, the pillow balls pull out every other crash; the aluminum setscrew backs out, the Delrin cap is too thick for the dust plug to seat, and RPM's warranty is worthless in practice. Retired on this build — full teardown in the <a href="#carrier-comparison">comparison table</a>.</em></p>
+
 ---
 
 ## Table of Contents
