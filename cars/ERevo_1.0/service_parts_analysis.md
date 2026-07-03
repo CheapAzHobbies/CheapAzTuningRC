@@ -15,6 +15,7 @@
 - [Driveshafts](#driveshafts) — CVDs, not the stock plastic shafts
 - [Pushrod Ends & Balls](#pushrod-ends--balls) — see rod_analysis
 - [Bearings](#bearings) — oversized set; the 5334R 6×13 exception
+- [Motor Bearings](#motor-bearings) — 4278SD replacement bearings (Hobbywing kit)
 
 ---
 
@@ -63,3 +64,20 @@ Wear items (rod ends, ball studs) are covered in **[`rod_analysis.md`](rod_analy
 The hubs run the **oversized** set: **6×15×5 outer / 12×21×5 inner** (same front and rear). Buy in bulk off AliExpress; they rarely wear. Full detail + measured weights in **[`hub_analysis.md` → Bearing Size Comparison](hub_analysis.md#bearing-size-comparison)**.
 
 > ⚠️ **Carrier bearing sizes differ — three tiers.** Stock **TRA5334** = smallest (6×12×4 / 12×18×4, black boot retainer); Traxxas **5334R** (metal-reinforced seat) = medium (**6×13**, ships with 6×12 adapters + 4 boot retainers, blue retainer); **Enron metal / RPM** = largest (**6×15×5 / 12×21×5**). Don't mix bearings between carrier types. Full carrier table in [`hub_analysis.md`](hub_analysis.md).
+
+---
+
+## Motor Bearings
+
+The **Hobbywing 4278SD G2R** motor (see [`esc_analysis.md`](esc_analysis.md#motor-comparison)) spins on two ball bearings, both **5 mm bore**. Replacement kit: **Hobbywing Ball Bearing set — Xerun 1/8 (G2/G3) / Ezrun 3656** (fits the 4278SD). Includes both.
+
+| Position | Size (ID×OD×W) | Hobbywing P/N |
+|---|---|---|
+| **Front** (drive end) | **5×16×5 mm** | 4310014 (G2/G3) |
+| **Rear** | **5×13×4 mm** | 4310004 (G2) |
+
+- Made in Germany, rated for very-high-speed motors, long life.
+- ~**$19.99** MAP ($24 MSRP), Hobbywingdirect. Keep a set on the shelf; motor bearings are a wear item on a dusty track.
+- **Generic equivalent:** any **5×16×5** and **5×13×4** ball bearing fits (buy cheaper in bulk off AliExpress like the hub bearings); the OEM kit is German and high-speed rated if you want the nicer ones.
+
+<p align="center"><img src="src/reference_hobbywing_4278_motor_bearings_4310014_4310004.png" width="360"><br><em>Hobbywing 4278 / Xerun 1/8 motor bearing kit: front 5×16×5 (4310014) · rear 5×13×4 (4310004)</em></p>
