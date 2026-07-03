@@ -105,7 +105,15 @@ RPM's claims for the bigger bearings vs stock:
 
 ## Carrier Service Parts
 
-> **RPM 80010 Pillow Ball Set Screws & Bushing Caps** — a **service/consumable item**, not pillow balls. Keep a pack on the shelf for the next carrier rebuild. The setscrew + Delrin cap are what **capture the pillow ball inside the carrier**; when they wear you replace just these instead of buying whole new pillow balls (roughly half the cost). The Delrin caps also have **~2× the contact area** on the ball, which helps the **pop-out** problem.
+> **RPM 80010 Pillow Ball Set Screws & Bushing Caps** — a **service/consumable item**, not pillow balls. The setscrew + Delrin cap are what **capture the pillow ball inside the carrier**; the idea is you replace just these instead of whole new pillow balls (roughly half the cost).
+
+> **Field reality (why the front went metal).** RPM's ball retention is **needlessly complicated** — an **aluminum setscrew** plus a **Delrin cap** to trap the ball — and it doesn't hold up:
+> - The **aluminum setscrew slides right out after a few jumps.**
+> - The **Delrin cap is too thick**, so the **rubber dust plug won't fit over it** (grit gets in).
+> - The **stock plastic screw actually holds better and services cheaper**, but RPM **voids the warranty if you use it** to retighten the ball.
+> - And the **RPM lifetime warranty is a joke** in practice, so that threat is empty anyway.
+>
+> Net: this retention system is a big part of why the **front moved to Enron metal**. The 80010 is only still relevant to the **rear True Track upper ball**.
 
 | Part | Spec | Notes | Photo / Link |
 |---|---|---|---|
@@ -121,7 +129,7 @@ RPM's claims for the bigger bearings vs stock:
 - Pull the wheel, then the **stub axle and bearings come out the wheel (outboard) side**.
 - The **CVD / driveshaft pops out of the diff cup at the center** — that's the disconnect point, so the carrier never has to come off the arms.
 - **Pillow balls can stay put.** They're held with **super glue** (threadlock doesn't bite well on a plastic-to-metal thread). You don't need to disturb them for routine service, but you **can break them loose if you want, just reapply glue** when you reinstall.
-- When the **setscrew or bushing cap** finally wears, replace those with **RPM 80010** (above), not the whole pillow ball.
+- When the **setscrew or bushing cap** wears, replace just those, not the whole pillow ball. Note from the field: the RPM **aluminum setscrew slides out** and its **Delrin cap is too thick for the dust plug** — the **stock plastic screw actually holds better and is cheaper** (RPM voids the warranty for using it, but that warranty is worthless anyway). See [Carrier Service Parts](#carrier-service-parts).
 
 ---
 
