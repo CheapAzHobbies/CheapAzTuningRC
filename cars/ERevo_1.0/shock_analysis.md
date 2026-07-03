@@ -90,6 +90,8 @@ So 4 × 1.0 gives about the same damping increase as 3 × 1.2 but without the ex
 
 **Plan.** Print blanks, drill holes to size, turn OD to ~15.85 mm, tune with diameter (keep 4 holes) for smooth consistent damping. Drop to 3 holes only for more hold-up over chop.
 
+**Achieved OD: 15.85 mm** in the 16 mm bore = **0.15 mm total clearance** (0.075 mm/side), mid-spec, ideal. Verify roundness (measure OD at 2-3 angles) and a light-drag slide with no scrape.
+
 ---
 
 ## Why Heavier Oil
