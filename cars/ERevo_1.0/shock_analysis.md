@@ -50,6 +50,7 @@
 
 - **Baseline:** the **4-hole 1.2 mm** piston is commonly recommended around **80wt front and rear**.
 - **My setup:** **90wt front / 100wt rear.** The extra rear weight helps **prevent bucking and keeps the back of the car planted** over rough terrain. This sits at the **upper end of regular shock-oil weights** — if you'd rather stay in the standard oil range, run a piston with **fewer or smaller holes**.
+- **Front is dialed — leave it.** The 90wt front is perfect as-is, so it stays the **known-good baseline**. All experimental tuning (heavier oil, custom + shim-valve pistons) is **rear-only** — change one end at a time against the untouched front.
 - **Brand barely matters** — shock oils vary 2–3wt off each other anyway. I like **TLR** oils since they go up to 100wt (probably higher — didn't check).
 
 ### Bigger bore → lighter oil (why some go smaller-piston)
@@ -88,7 +89,16 @@ So 4 × 1.0 gives about the same damping increase as 3 × 1.2 but without the ex
   - Too loose (over ~0.25 mm total): oil bypasses around the piston, damping goes soft and inconsistent, especially at low speed.
   - For a printed piston, print slightly oversize and sand or turn the OD down to size, since printed diameters run rough and off-nominal. Aim near 15.85 mm and verify it slides with light drag, no scrape.
 
-**Plan.** Print blanks, drill holes to size, turn OD to ~15.85 mm, tune with diameter (keep 4 holes) for smooth consistent damping. Drop to 3 holes only for more hold-up over chop.
+**Plan.** Print blanks, drill holes to size, turn OD to ~15.85 mm, tune with diameter (keep 4 holes) for smooth consistent damping. Drop to 3 holes only for more hold-up over chop. **Rear only** — the front 90wt setup is dialed and stays untouched as the baseline.
+
+### Shim-check valve (asymmetric damping) — rear experiment
+
+Idea: a flap over the rear piston that covers **2 of the 6 holes on rebound**, giving **soft/fast compression + firmer rebound** (the "faster downstroke, harder upstroke" goal).
+
+- **Orientation:** flap on the **rebound-facing side** — pressed shut on extension (covers the 2 holes → firmer rebound), sucked open on compression (all 6 → soft).
+- **Keep 4 of 6 always open** (outside the flap footprint) so it's a **mild bias**, not a hard one-way. Full soft-comp/firm-rebound packs the rear down on chop (Meldrum), so keep it mild.
+- **Build as a shim, not a floppy flap:** thin spring-steel (feeler-gauge stock) or stiff PET film, **center-anchored** in the stack (piston → shim → washer → locknut), shaped as a petal spanning only the 2 target holes, small lift (~0.3-0.5 mm).
+- **Make-or-break:** the PETG seat face must be **sanded flat/smooth** (layer lines leak past the shim), and the fast compression side needs a good **bladder + clean bleed** or it cavitates. Match all rear shocks identically.
 
 **Achieved OD: 15.85 mm** in the 16 mm bore = **0.15 mm total clearance** (0.075 mm/side), mid-spec, ideal. Verify roundness (measure OD at 2-3 angles) and a light-drag slide with no scrape.
 
