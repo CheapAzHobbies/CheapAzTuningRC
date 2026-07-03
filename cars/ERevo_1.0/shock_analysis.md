@@ -98,6 +98,21 @@ So 4 × 1.0 gives about the same damping increase as 3 × 1.2 but without the ex
 
 I run at the top of the oil range on purpose: **heavier oil is significantly more temperature-stable**. It holds its damping rate across weather swings and resists **shock fade** — as the oil heats up during a run, a shock becomes less effective, and lighter oils lose their rate faster. The small consistency tax of running thick oil is worth it for damping that feels the same lap 1 and lap 10.
 
+### Heavy-oil wt ↔ cSt (buying above 100wt)
+
+Most brands' "weight" scale stops at 100wt, so to buy heavier you shop by **cSt**. Values below are TLR-anchored and approximate (weight is not standardized; TLR runs ~2.5wt heavier than Associated, so treat ±50 cSt as noise).
+
+| Weight | cSt (approx) | Notes |
+|---|---|---|
+| 90wt | ~1150 | current front |
+| 100wt | 1325 | current rear (TLR published) |
+| 110wt | ~1450-1500 | PT Racing 1500 cSt ≈ here |
+| 120wt | ~1650 | shop ~1600-1700 cSt |
+
+- Buy by the **cSt** number, not "110/120wt" (those labels barely exist).
+- Silicone **diff oil** is the same fluid and comes in more high-cSt grades than shock oil, so it's a valid source for the heavy end.
+- Source seen: [PT Racing 1500 cSt shock oil (4 oz)](https://fiercercsolutions.com/PT-Racing-RC-Shock-Oil-4-OZ-Bottle-1500-CST).
+
 ---
 
 ## Springs
