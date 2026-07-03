@@ -11,6 +11,7 @@ Money tracking: what friends owe me for parts/cars I sell them, and what I order
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
 | **Mike** | **≈ $108.82** | $90.02 + metal center diff $18.80 | 2026-06-26 |
+| **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags at the bottom of Mike's account.
 
@@ -119,6 +120,20 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 2. **Settle-up checkpoints** — the line items between your `Total:` / `now at:` notes don't sum to those numbers, so I treated each note as a reconciled reset (you squared up to that figure). Confirm that's right, and that **−$46** is the live balance.
 3. **Missing amounts** — #37 "Fan 10x35" and #50 "Micro" have no dollar figure. What were they?
 4. **Possible duplicates** — entries #28/#54 (4250/C4250 800KV) and #46 (C4250 800KV) repeat; confirm they're separate purchases, not the same one logged twice.
+
+---
+
+## Henry — running account
+
+Chronological, top = oldest. Same sign convention as Mike (negative = Henry owes me; positive = Henry paying me back).
+
+| # | Amount | Item / Note |
+|---|--------|-------------|
+| 1 | -$234.99 | Castle (ESC) |
+| 2 | +$200.00 | Payment — payback for ESC |
+| | **Current: -$34.99 → Henry owes ≈ $35** | −$234.99 + $200 |
+
+> **Flag:** Mike's account line 18 (`-$5.00 GTR XXL shock shaft (Henry)`) is tagged Henry but booked to Mike. Confirm whether that $5 should move to Henry's account.
 
 ---
 
