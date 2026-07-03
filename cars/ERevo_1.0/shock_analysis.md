@@ -11,6 +11,7 @@
 - [Key Requirements](#key-requirements)
 - [Shock Comparison](#shock-comparison) — plastic Apache C1 vs metal D8 vs stock
 - [Setup Spec — Piston & Oil](#setup-spec--piston--oil) — baseline, my numbers, and the why
+- [Custom Pistons (3D-printed)](#custom-pistons-3d-printed) — hole size vs count, oil equivalence, print-then-drill
 - [Why Heavier Oil](#why-heavier-oil) — temperature stability vs shock fade
 - [Springs](#springs) — Acxess springs, equivalence chart, and the 50–55 mm length issue
 - [Linkage — Shimming & Rod Ends](#linkage--shimming--rod-ends)
@@ -58,6 +59,36 @@
 **Why a bigger bore needs lighter oil:** for the *same* suspension movement (same shaft speed and travel), a **bigger piston sweeps more oil volume** on each stroke. That larger volume still has to squeeze through the **same piston holes** (same count and size), so it's forced through **faster and meets more resistance — i.e. more damping**. To bring the damping back down to where a smaller shock sat, you run **thinner (lighter) oil** in the bigger shock.
 
 So it sounds backwards — *bigger shock, lighter oil* — but it's just compensating for the extra oil the bigger piston shoves through the same holes. The E-Revo originally shipped with a **2-hole piston**, and some people deliberately drop to a smaller piston (fewer / smaller holes) to stay on standard oil weights. For example, where a smaller shock wants ~**55wt**, a bigger-bore shock can run **40–45wt** with similar characteristics.
+
+---
+
+## Custom Pistons (3D-printed)
+
+Planning to 3D print custom pistons. Two ways to change damping, and they do different jobs.
+
+- **Hole size = magnitude knob.** Area scales with diameter squared, so small size changes move damping in fine, predictable steps. Keeping several holes keeps flow smooth and the curve roughly linear (same character, just more or less of it). Use this to add or remove damping.
+- **Hole count = character knob.** Dropping a hole adds low-speed "pack" (hold-up over successive hits), not just overall firmness. It is a bigger, coarser change. Use it when you want more hold-up on chop, not just more damping.
+
+Same total restriction, reached two ways (from the current 4 × 1.2):
+
+| Piston | Total hole area | Feel vs current |
+|---|---|---|
+| 4 × 1.2 (current) | 4.52 mm² | baseline |
+| 3 × 1.2 | 3.39 mm² (−25%) | firmer, more pack |
+| 4 × 1.0 | 3.14 mm² (−31%) | firmer, stays linear |
+
+So 4 × 1.0 gives about the same damping increase as 3 × 1.2 but without the extra pack.
+
+**Oil equivalence (rough).** Dropping 4 to 3 holes (same 1.2 mm) is about 33% more restriction. Flow here is viscosity-dominated (thick oil, small holes, low Reynolds number), so to hold the current feel go about 25 to 30% lighter oil: front 90wt to ~65wt, rear 100wt to ~70wt. Starting point only, retune by feel and temp.
+
+**Print rule.** Printed holes, especially small ones, come out undersize, rough, and inconsistent (worst on FDM), and rough bores change flow so the four shocks will not match. Print the blank with holes slightly undersize, then drill or ream to final size with numbered or metric bits. That is what makes size-tuning repeatable, and it lets you tune in fine increments instead of the big 25 to 33% jumps that changing hole count forces.
+
+**Piston-to-bore clearance (16 mm bore).** The piston seals against the bore by close fit, not a tight seal, so it needs a small gap for a thin oil film. Target roughly **0.1 to 0.2 mm total** on diameter (0.05 to 0.1 mm per side), so a **~15.8 to 15.9 mm** piston OD in the 16 mm bore.
+  - Too tight (under ~0.1 mm total): piston drags, binds, or scrapes the bore, adds stiction, wears the body.
+  - Too loose (over ~0.25 mm total): oil bypasses around the piston, damping goes soft and inconsistent, especially at low speed.
+  - For a printed piston, print slightly oversize and sand or turn the OD down to size, since printed diameters run rough and off-nominal. Aim near 15.85 mm and verify it slides with light drag, no scrape.
+
+**Plan.** Print blanks, drill holes to size, turn OD to ~15.85 mm, tune with diameter (keep 4 holes) for smooth consistent damping. Drop to 3 holes only for more hold-up over chop.
 
 ---
 
