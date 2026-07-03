@@ -168,7 +168,8 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 | — | Castle Creations 1515 2200KV Motor | Electronics | — | — | — |
 | 5358 | Enron aluminum rockers, Progressive 2 (silver 4P) | Suspension | $14.31 | AliExpress (NEW ENRON) | [rocker_analysis.md](rocker_analysis.md) |
 | RPM 80562 | True Track rear A-arm conversion kit (black) | Suspension | $32.95 | PowerHobby | <img src="src/suspension_rpm_truetrack_rear_arm_80562.jpg" width="150"> |
-| RPM 80582 | Axle carriers / steering blocks (black) | Steering | $23.75 | PowerHobby | <img src="src/steering_rpm_axle_carriers_steering_blocks_80582.jpg" width="150"> |
+| ~~RPM 80582~~ | Axle carriers / steering blocks (black) — **retired, pillow balls pull out** | Steering | $23.75 | PowerHobby | <img src="src/steering_rpm_axle_carriers_steering_blocks_80582.jpg" width="150"> |
+| Enron metal | Front axle carriers / steering blocks (metal) — reuses oversized bearings | Steering | TBD | AliExpress (bought 7/3) | <img src="src/steering_enron_alloy_carriers_5334.jpg" width="150"> |
 | 5153R | Traxxas inner drive cups (2) — ×2 packs | Drivetrain | $16.00 | PowerHobby | <img src="src/drivetrain_traxxas_inner_drive_cups_5153r.jpg" width="150"> |
 | RPM 80802 | Front bumper mount (black) | Bumpers | $5.39 | PowerHobby | <img src="src/bumper_rpm_front_bumper_mount_80802.jpg" width="150"> |
 | 8614 | Traxxas clipless body posts (front & rear) | Body | $5.00 | PowerHobby | <img src="src/body_traxxas_clipless_body_posts_8614.jpg" width="150"> |
