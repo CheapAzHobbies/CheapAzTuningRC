@@ -10,7 +10,7 @@ Money tracking: what friends owe me for parts/cars I sell them, and what I order
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $108.82** | $90.02 + metal center diff $18.80 | 2026-06-26 |
+| **Mike** | **≈ $120.82** | $108.82 + 2× metal fan $12.00 | 2026-07-04 |
 | **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags at the bottom of Mike's account.
@@ -112,7 +112,9 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 80 | -$20.00 | Traxxas 7422 chassis 1/10 Rally VXL |
 | | **Checkpoint (6/25): -$90.02** | −$67.02 + #79 + #80 |
 | 81 | -$18.80 | Metal center diff (Traxxas 6780-style — Slash / Hoss / Rustler 4x4) |
-| | **➡️ Current: -$108.82 → Mike owes ≈ $109** | −$90.02 + #81 |
+| | **Checkpoint: -$108.82** | −$90.02 + #81 |
+| 82 | -$12.00 | 2× metal fan ($6 ea) |
+| | **➡️ Current: -$120.82 → Mike owes ≈ $121** | −$108.82 + #82 |
 
 ### Flags to resolve
 
