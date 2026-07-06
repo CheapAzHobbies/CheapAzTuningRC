@@ -1,6 +1,6 @@
 # Tire & Wheel Selection — E-Revo 1.0
 
-> **Leaning: Yufung 1/8 truggy in Soft (blue), ~$50/set.** Yufung mimics the JConcepts compounds, so **blue = soft** and **green = super soft**. The green super-soft grips best on loose dust but **wears out in a few weekends** under the heavy Revo, so the **blue (soft) is the pick** for longer life; green stays as a grip special for the driest, lowest-grip days. Both are complete pre-glued truggy wheels with foam, 17 mm hex, and undercut the **JetKo truggy treads (Block In / Lesnar, $27.99/pair tires-only, $41.99/pair mounted)** — the premium alternative if I want a proven race tire with more lateral bite.
+> **Confirmed: Yufung 1/8 truggy in Soft (blue), ~$50/set.** Yufung mimics the JConcepts compounds, so **blue = soft** and **green = super soft**. The green super-soft grips best on loose dust but **wears out in a few weekends** under the heavy Revo, so the **blue (soft) is the pick** for longer life; green stays as a grip special for the driest, lowest-grip days. Both are complete pre-glued truggy wheels with foam, 17 mm hex, and undercut the **JetKo truggy treads (Block In / Lesnar, $27.99/pair tires-only, $41.99/pair mounted)** — the premium alternative if I want a proven race tire with more lateral bite.
 
 <p align="center">
   <img src="src/tire_yufung_truggy_blue_supersoft.png" width="500">&nbsp;<img src="src/tire_yufung_truggy_green_f802.png" width="500"><br>
@@ -110,7 +110,7 @@ PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the R
 
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Yufung 1/8 Truggy — Soft (blue)** — *leaning, daily* | **Type:** 1/8 truggy<br>**Tread:** "JConcepts similar" pin<br>**Compound:** Soft (blue; Yufung also calls it "Super Soft")<br>**Dia:** 140 mm<br>**Width:** 60 mm<br>**Rim:** 105 mm<br>**Hex:** 17 mm<br>**Weight:** N/A<br>**Foam:** closed-cell<br>**Pre-glued:** Yes<br>**Price:** ~$50–54 / set of 4 (was up to $93) | Pro: Still bites on loose dust but **lasts much longer** than super soft; **pre-glued with closed-cell foam** (meets my insert must), cheaper than JetKo<br><br>Con: Slightly less bite on dry loose dust than green; **60 mm wide vs my 70 mm favorite** (could mean less lateral grip) | <img src="src/tire_yufung_truggy_blue_supersoft.png" width="500"> |
+| ⭐ **Yufung 1/8 Truggy — Soft (blue)** — *confirmed daily* | **Type:** 1/8 truggy<br>**Tread:** "JConcepts similar" pin<br>**Compound:** Soft (blue; Yufung also calls it "Super Soft")<br>**Dia:** 140 mm<br>**Width:** 60 mm<br>**Rim:** 105 mm<br>**Hex:** 17 mm<br>**Weight:** **786.5 g / set of 4** (measured)<br>**Foam:** closed-cell<br>**Pre-glued:** Yes<br>**Price:** ~$50–54 / set of 4 (was up to $93) | Pro: Still bites on loose dust but **lasts much longer** than super soft; **pre-glued with closed-cell foam** (meets my insert must), cheaper than JetKo<br><br>Con: Slightly less bite on dry loose dust than green; **60 mm wide vs my 70 mm favorite** (could mean less lateral grip) | <img src="src/tire_yufung_truggy_blue_supersoft.png" width="500"><br><img src="src/tire_yufung_blue_weight_IMG_2121.jpg" width="500"><br><em>Weight: 786.5 g total for 4 wheels</em> |
 | 🥈 **Yufung F802 1/8 Truggy — Super Soft (green)** — *grip special* | **Type:** 1/8 truggy (F802)<br>**Tread:** "JConcepts similar" pin<br>**Compound:** Super soft (green)<br>**Dia:** 140 mm<br>**Width:** 60 mm<br>**Rim:** 105 mm<br>**Hex:** 17 mm<br>**Weight:** N/A<br>**Foam:** closed-cell<br>**Pre-glued:** Yes<br>**Price:** $52.06 / set of 4 (was $96.40) | Pro: **Softest = most grip** for the driest, lowest-grip days; pre-glued with closed-cell foam<br><br>Con: **Wears fastest** (a few weekends under the heavy Revo), so not the daily; **60 mm wide vs my 70 mm favorite** | <img src="src/tire_yufung_truggy_green_f802.png" width="500"> |
 
 ---
@@ -147,7 +147,7 @@ PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the R
 |---|---|---|---|
 | May 11, 2026 | Generic 26404 truggy set (Fiona Hobby) | **$32.44** | ✅ **purchased**, order 8210691772464866 (list $49.30). Baseline; only works moist, wore fast |
 | Oct 24, 2025 | RedSpider 140 mm truggy set (RED SPIDER Store) | **$19.64** | ✅ **purchased**, order 8206119326314866 (list $23.69). Current favorite; great forward grip, wants more lateral |
-| — | Yufung truggy Soft (blue) | ~$50–54 | Leaning pick, not yet purchased |
+| — | Yufung truggy Soft (blue) | ~$50–54 | ✅ **Confirmed daily** — works great on Meldrum Bar. Weight measured: 786.5 g / set of 4 |
 | — | Yufung F802 truggy Super Soft (green) | $52.06 | Grip-special runner-up, not yet purchased |
 
 ---
