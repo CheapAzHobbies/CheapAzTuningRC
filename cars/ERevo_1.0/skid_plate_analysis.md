@@ -25,7 +25,7 @@ I was running a **metal front skid plate** (generic, unknown brand). It bent on 
 - **Plastic is cheaper** — the Traxxas 5337 set is ~$10 for both front and rear, vs $15–25 for a single metal piece.
 - **Wear item philosophy** — skid plates are meant to get chewed up. Replace them when they're worn, not when they bend.
 
-<p align="center"><img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="400"><br><em>Old bent metal front skid plate — replaced with Traxxas 5337 plastic set</em></p>
+<p align="center"><img src="src/bumper_new_enron_5337_skid_plate_metal_set.png" width="400"><br><em>NEW ENRON Aluminum Front & Rear Skid Plate #5337 (silver) — purchased $18.64 on May 10, 2026</em></p>
 
 ---
 
