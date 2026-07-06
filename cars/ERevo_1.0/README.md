@@ -49,8 +49,10 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 
 | Position | Weight |
 |----------|--------|
-| Front | 90wt |
-| Rear | 100wt |
+| Front | 2000cst (~160wt) |
+| Rear | 2000cst (~160wt) |
+
+> **Update:** Switched from 90wt front / 100wt rear to **2000cst (≈160wt)** front and rear. The lighter standard oils weren't enough once the shocks wore in — the truck was bucking on landings. 2000cst fixed it completely. May go up to **3000cst** next time if the hobby store stocks it; waiting to test.
 
 > Full shock writeup — body choice, piston/oil tuning, the bigger-bore/lighter-oil logic, Acxess springs, the 3D-printed shock-to-chassis mounts, and the M3 shim + RPM rod-end linkage strategy — in [`shock_analysis.md`](shock_analysis.md).
 
@@ -153,7 +155,10 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 - **Compound:** Meldrum Bar is **loose, dusty, low-grip** dirt, but super soft only lasts a few weekends under the heavy Revo, so leaning the **Yufung 1/8 truggy Soft (blue), ~$50/set** for tire life. Keep the **green (super soft), $52.06/set** as a grip special for the driest days. Both are pre-glued wheels with foam and undercut the **JetKo truggy treads (Block In / Lesnar, $27.99/pair tires-only)** — the premium alternative. JetKo truggy comes only in Block In or Lesnar (Ultra/Super/Medium Soft); the J-Zero/Desirer treads are buggy-only.
 - **Yufung mimics JConcepts compounds:** blue = soft, green = super soft. Buggy tires skipped (the Revo runs the wider truggy size).
 - **Hex / size:** 17 mm hex, **140 mm dia** (the size originally run, so a direct fit). Tires come pre-glued; check the bead before a race.
+- **Weight (Yufung blue, 4 wheels):** **786.5 g total** — measured on a kitchen scale. Good baseline for unsprung mass calculations.
 - Full compound key, track picks, JetKo treads, and Yufung options in [`tire_analysis.md`](tire_analysis.md).
+
+<p align="center"><img src="src/tire_yufung_blue_weight_IMG_2121.jpg" width="400"><br><em>Yufung 1/8 truggy blue (soft) — 4 wheels, 786.5 g total</em></p>
 
 ---
 
@@ -161,6 +166,10 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 
 - **Front:** **Traxxas 5335 nylon front bumper + mount** ($10 set) on the **RPM 80802 mount** ($5.39, in hand). The nylon bar is light, flexes instead of bending, looks good, and helps the truck cartwheel; the tougher RPM mount underneath means a tweaked mount is a ~$5 swap, not a whole $10 set. Replaced the junk stock blue metal bumper that bent on the first hit.
 - **Rear:** **none** by design. A rear bumper protects nothing here and there's already a metal bulkhead in back.
+- **Skid plates (front + rear):** **Traxxas 5337 Skid Plate Set, Revo** — plastic, includes both front and rear skid plates. Replaces the bent metal front skid plate I was running (see photo below). Plastic is a cheap wear item — no need for metal here. The set is inexpensive and easy to replace when it gets chewed up. Full writeup in [`skid_plate_analysis.md`](skid_plate_analysis.md).
+
+<p align="center"><img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="400"><br><em>Old bent metal front skid plate — replaced with Traxxas 5337 plastic set</em></p>
+
 - Full writeup in [`bumper_analysis.md`](bumper_analysis.md).
 
 ---
@@ -179,6 +188,8 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 | RPM 80802 | Front bumper mount (black) | Bumpers | $5.39 | PowerHobby | <img src="src/bumper_rpm_front_bumper_mount_80802.jpg" width="150"> |
 | 8614 | Traxxas clipless body posts (front & rear) | Body | $5.00 | PowerHobby | <img src="src/body_traxxas_clipless_body_posts_8614.jpg" width="150"> |
 | 3932 | Traxxas flat-head screws 3×6 mm (6) — servo mount | Electronics | $2.50 | PowerHobby | <img src="src/hardware_traxxas_flathead_screws_3932.jpg" width="150"> |
+| 5337 | Traxxas Skid Plate Set, Revo (front + rear) | Bumpers | ~$10 | LHS / AMain | <img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="150"> |
+| 5337 | Traxxas Skid Plate Set, Revo (front + rear) | Bumpers | ~$10 | LHS / AMain | <img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="150"> |
 
 > **PowerHobby order** (7 items, subtotal **$85.59**, code **WELCOME10** −$10.00 → **$75.59**).
 
