@@ -189,7 +189,6 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 | 8614 | Traxxas clipless body posts (front & rear) | Body | $5.00 | PowerHobby | <img src="src/body_traxxas_clipless_body_posts_8614.jpg" width="150"> |
 | 3932 | Traxxas flat-head screws 3×6 mm (6) — servo mount | Electronics | $2.50 | PowerHobby | <img src="src/hardware_traxxas_flathead_screws_3932.jpg" width="150"> |
 | 5337 | Traxxas Skid Plate Set, Revo (front + rear) | Bumpers | ~$10 | LHS / AMain | <img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="150"> |
-| 5337 | Traxxas Skid Plate Set, Revo (front + rear) | Bumpers | ~$10 | LHS / AMain | <img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="150"> |
 
 > **PowerHobby order** (7 items, subtotal **$85.59**, code **WELCOME10** −$10.00 → **$75.59**).
 
