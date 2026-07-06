@@ -168,6 +168,8 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 - **Rear:** **none** by design. A rear bumper protects nothing here and there's already a metal bulkhead in back.
 - **Skid plates (front + rear):** **NEW ENRON Aluminum Front & Rear Skid Plate #5337** (silver) — purchased **$18.64** on **May 10, 2026** from **NEW ENRON Official Store** (AliExpress, order 8211350284004866). Replaces the bent generic metal front skid plate I was running (see photo below). Aluminum is a compromise — stronger than the generic metal, but still metal. If it bends, I'll switch to the Traxxas 5337 plastic set (~$10). Full writeup in [`skid_plate_analysis.md`](skid_plate_analysis.md).
 
+<p align="center"><img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="400"><br><em>Old bent metal front skid plate — replaced with NEW ENRON aluminum set</em></p>
+
 <p align="center"><img src="src/bumper_new_enron_5337_skid_plate_metal_set.png" width="400"><br><em>NEW ENRON Aluminum Front & Rear Skid Plate #5337 (silver) — purchased $18.64 on May 10, 2026</em></p>
 
 - Full writeup in [`bumper_analysis.md`](bumper_analysis.md).
