@@ -73,13 +73,13 @@ I was running a **metal front skid plate** (generic, unknown brand). It bent on 
 
 ## Alternatives considered
 
-| Option | Pros | Cons | Verdict |
-|--------|------|------|---------|
-| **Metal skid plate (generic)** | Looks tough, feels protective | **Bends permanently**, heavier, more expensive, front-only | ❌ **Rejected** — bent on first hit |
-| **RPM skid plate** | RPM makes tough nylon parts | Not available for Revo (RPM doesn't make a Revo skid plate) | ❌ **Not available** |
-| **No skid plate** | Saves weight, zero cost | Chassis takes the abuse directly — wears out faster | ❌ **Not recommended** — the chassis is expensive to replace |
-| **NEW ENRON Aluminum #5337** | Stronger than generic metal, includes both front + rear, $18.64 | Still metal — can bend, heavier than plastic | 🥈 **Fallback** — purchased May 10, 2026, but going back to plastic |
-| **Traxxas 5337 (plastic)** | Cheap, flexible, includes both front + rear, easy to replace | None for this use case | ✅ **Chosen** |
+| Option | Spec | Pros / Cons | Photo / Link |
+|---|---|---|---|
+| ❌ ~~**Metal skid plate (generic)**~~ | **Type:** generic metal skid plate<br>**Material:** metal<br>**Position:** front only<br>**Fits:** Revo / E-Revo<br>**Includes:** front only<br>**Weight:** heavy<br>**Price:** N/A (came with the car) | Pro: Looks tough, feels protective<br><br>Con: **Bends permanently**, heavier, more expensive, front-only | <img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="500"><br><em>Old bent metal front skid plate</em> |
+| ❌ ~~**RPM skid plate**~~ | **Type:** RPM nylon skid plate<br>**Material:** nylon<br>**Position:** N/A<br>**Fits:** Revo / E-Revo<br>**Includes:** N/A<br>**Weight:** N/A<br>**Price:** N/A | Pro: RPM makes tough nylon parts<br><br>Con: **Not available for Revo** (RPM doesn't make a Revo skid plate) | — |
+| ❌ ~~**No skid plate**~~ | **Type:** none<br>**Material:** N/A<br>**Position:** N/A<br>**Fits:** N/A<br>**Includes:** N/A<br>**Weight:** 0 g<br>**Price:** $0 | Pro: Saves weight, zero cost<br><br>Con: Chassis takes the abuse directly — wears out faster | — |
+| 🥈 **NEW ENRON Aluminum #5337** — *fallback* | **Type:** aluminum skid plate set<br>**Material:** aluminum<br>**Position:** front + rear<br>**Fits:** Revo / E-Revo<br>**Includes:** front + rear<br>**Weight:** heavier than plastic<br>**Price:** $18.64 (purchased May 10, 2026) | Pro: Stronger than generic metal, includes both front + rear, $18.64<br><br>Con: Still metal — can bend, heavier than plastic | <img src="src/bumper_new_enron_5337_skid_plate_metal_set.png" width="500"><br><em>NEW ENRON Aluminum Front & Rear Skid Plate #5337 (silver)</em> |
+| ⭐ **Traxxas 5337 (plastic)** — *chosen* | **Type:** plastic skid plate set<br>**Material:** nylon / plastic<br>**Position:** front + rear<br>**Fits:** Revo 1.0, 2.0, 3.3<br>**Includes:** front + rear<br>**Weight:** light<br>**Price:** ~$10 / set | Pro: Cheap, flexible, includes both front + rear, easy to replace<br><br>Con: None for this use case | — |
 
 ---
 
