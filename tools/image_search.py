@@ -145,8 +145,19 @@ def search_and_download(
         url = r.get("image")
         if not url:
             continue
+
+        # Skip URLs that appear to be screenshots (often low‑quality or irrelevant)
+        if "screenshot" in url.lower():
+            print(f"  skip (contains 'screenshot'): {url}")
+            continue
+
         ext = safe_ext(url)
         dest = out_dir / f"{name_base}_{saved + 1:02d}.{ext}"
+        # Avoid overwriting an existing file (e.g., a manually saved screenshot)
+        if dest.exists():
+            print(f"  skip (already exists): {dest}")
+            continue
+
         print(f"trying {url}")
         if download(url, dest):
             saved += 1
