@@ -10,7 +10,7 @@ Money tracking: what friends owe me for parts/cars I sell them, and what I order
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $120.82** | $108.82 + 2× metal fan $12.00 | 2026-07-04 |
+| **Mike** | **≈ $214.82** | $108.82 + 2× metal fan $12.00 + $94.00 RMA motor | 2026-07-11 |
 | **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags at the bottom of Mike's account.
@@ -114,7 +114,8 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 81 | -$18.80 | Metal center diff (Traxxas 6780-style — Slash / Hoss / Rustler 4x4) |
 | | **Checkpoint: -$108.82** | −$90.02 + #81 |
 | 82 | -$12.00 | 2× metal fan ($6 ea) |
-| | **➡️ Current: -$120.82 → Mike owes ≈ $121** | −$108.82 + #82 |
+| 83 | -$94.00 | Non-warranty RMA 3200kv motor 1412 from Castle Creations |
+| | **➡️ Current: -$214.82 → Mike owes ≈ $215** | −$120.82 + #83 |
 
 ### Flags to resolve
 
