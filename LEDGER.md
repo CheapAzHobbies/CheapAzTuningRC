@@ -1,3 +1,17 @@
+# GitHub Instructions for AI Agents
+
+You are working inside a Git repository. Always understand the Git workflow before making changes. The repository remote is connected to GitHub, and your job is to properly manage commits, pushes, pulls, branches, and synchronization.
+
+Before editing any files, always check the current repository state using:
+
+```bash
+git status
+git branch -vv
+git remote -v
+```
+
+---
+
 # Ledger — CheapAzHobbies
 
 Money tracking: what friends owe me for parts/cars I sell them, and what I order. Kept separate from the per-car build docs so the numbers live in one place.
