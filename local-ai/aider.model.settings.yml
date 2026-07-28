@@ -1,0 +1,11 @@
+# Context window for the local Ollama coder model.
+# CLAUDE.md (~6k tokens) plus a large analysis doc plus chat needs headroom.
+# Lower num_ctx to 16384 if the 32B model runs out of memory; raise if you have room.
+- name: ollama_chat/qwen2.5-coder:32b
+  extra_params:
+    num_ctx: 32768
+
+# Same context for the 14B fallback, if you switch models.
+- name: ollama_chat/qwen2.5-coder:14b
+  extra_params:
+    num_ctx: 32768
