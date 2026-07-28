@@ -69,7 +69,7 @@ The hubs run the **oversized** set: **6×15×5 outer / 12×21×5 inner** (same f
 
 ## Motor Bearings
 
-The **Hobbywing 4278SD G2R** motor (see [`esc_analysis.md`](esc_analysis.md#motor-comparison)) spins on two ball bearings, both **5 mm bore**. Replacement kit: **Hobbywing Ball Bearing set — Xerun/Ezrun 36xx / 42xx** (includes both). **Verified fit for the 4278:** the 4278 is a 42xx can, and the whole 42xx family (4268 / 4274 / 4278) shares the same bearing pockets + 5 mm shaft, so they use the same bearings regardless of the G2 / G2R / G3 generation tag. **Buy by size** (5×16×5 / 5×13×4) to be bulletproof.
+The **Hobbywing 4278SD G2R** motor (see [`esc_motor_analysis.md`](esc_motor_analysis.md#motor-comparison)) spins on two ball bearings, both **5 mm bore**. Replacement kit: **Hobbywing Ball Bearing set — Xerun/Ezrun 36xx / 42xx** (includes both). **Verified fit for the 4278:** the 4278 is a 42xx can, and the whole 42xx family (4268 / 4274 / 4278) shares the same bearing pockets + 5 mm shaft, so they use the same bearings regardless of the G2 / G2R / G3 generation tag. **Buy by size** (5×16×5 / 5×13×4) to be bulletproof.
 
 | Position | Size (ID×OD×W) | Hobbywing P/N |
 |---|---|---|
