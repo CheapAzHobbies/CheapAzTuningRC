@@ -97,22 +97,6 @@ The inner bearing's ID has to match the axle — which is why the two axle syste
 
 ---
 
-## Tekno stubs (front + rear)
-
-The Raptor R hubs run Tekno M6 stubs at both ends (on the 10×18×5 inner bearing). **Front = the TKR1654-17 17mm M6 hub adapter.** **Rear = one of two Tekno stub axles (5580 or 5070), pending test fit.** Bearings confirmed correct; the open question is the 17mm hex seat.
-
-| Position | Tekno stub | For | Price | Status |
-|---|---|---|---|---|
-| **Front** | **TKR1654-17** — 17mm M6 hub adapter (17mm hex adapters + stub pins + cross pins + 17mm nuts) | Front 17mm M6 setup | ~$23.15 ea ($46.30 / set of 2) | The front stub/adapter; minor 17mm hex filing to seat |
-| **Rear** | **Tekno 5580** — stub for adapter TKR5570-17 / SCT410 | Rear 17mm hex setup | $16.90 | In hand. **Likely long enough** for the Raptor R rear |
-| **Rear** | **Tekno 5070** — hardened steel, EB48 (buggy) | Rear stub alt | $17.91 | In hand. **May also fit** the Raptor R rear |
-
-<p align="center"><img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="250">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="250">&nbsp;<img src="src/drivetrain_tekno_5070_stub_axle.jpg" width="250"><br><em>Front: TKR1654-17 17mm M6 adapter · Rear: Tekno 5580 (TKR5570-17 / SCT410) · Tekno 5070 (EB48)</em></p>
-
-Rear stubs purchase: eBay seller mr-retro, order 24-14914-16595, $34.81 total, ordered Jul 20 2026, delivered Jul 23 2026.
-
----
-
 ## Notes
 
 - **Why metal front, any rear:** the front eats the impacts and even the strongest EHD plastic cracks too often, so it must be alloy. The rear barely sees load, so material doesn't matter back there.
@@ -127,4 +111,4 @@ Rear stubs purchase: eBay seller mr-retro, order 24-14914-16595, $34.81 total, o
 - **Stock EHD reference (Jenny's RC, gray):** TRA9037 steering block, TRA9032 C-hub, TRA9050 rear carrier, TRA3642X screws, TRA5117 + TRA5120A bearings. Direct fit Jato / Slash / Rustler / Stampede 4x4 BL-2s.
 - **TODO:** confirm which front EHD part breaks first (the one to swap to alloy first).
 - **TODO:** test the **10×15×5** inner bearing for the Tekno M6 conversion (bought, not yet tried).
-- **TODO:** confirm the Raptor R rear stub axle. Bearings confirmed correct; testing whether the **Tekno 5580** (or 5070) seats the 17mm hex in the Raptor R rear. Measure and pick one (see [Tekno stubs](#tekno-stubs-front--rear)).
+- **TODO:** confirm the Raptor R rear stub axle. Bearings confirmed correct; testing whether the **Tekno 5580** (or 5070) seats the 17mm hex in the Raptor R rear. Measure and pick one (see [Tekno stubs in `driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear)).
