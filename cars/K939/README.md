@@ -93,6 +93,7 @@ None — removed for Meldrum Bar Park conditions.
 | Component | Part |
 |-----------|------|
 | Bell Crank Set | Aluminum servo bell crank (AliExpress, ~$10) |
+| Caster Blocks (C-hub) | **Integy C26402PURPLE** billet aluminum, purple — replaces stock Traxxas 6832. Fits the XO-1 hubs and the OG Tekno front hub. Bought for the **rare purple** to match this car's distinct color |
 | Pinion Side | TBD |
 
 ---
@@ -122,6 +123,7 @@ None — removed for Meldrum Bar Park conditions.
 | — | Castle Creations 1412 3200kv Sensored Motor 5mm Shaft (x2) | Electronics | $168.06 ($84.03 ea) | Castle Creations | ![](src/electronics_castle_esc_motor_combo_copperhead10_1412_3200kv.jpg) |
 | — | Castle Creations Copperhead 10 1/10 ESC (x2) | Electronics | $217.42 ($108.71 ea) | Castle Creations | ![](src/electronics_castle_esc_copperhead10.jpg) |
 | — | Aluminum Servo Bell Crank Set | Steering | $10.00 | AliExpress | — |
+| C26402PURPLE | Integy Billet Machined Caster Blocks (C-hub) for Slash/Rustler 4x4, purple anodized — replaces Traxxas 6832; fits XO-1 hubs + OG Tekno front hub. Rare purple to match the car | Steering | $13.62 (MSRP $26.99) | eBay — jontobitt1118 (order 26-14908-06840, Jul 23 2026) | ![](src/suspension_integy_caster_block_c26402purple.jpg) |
 | SPTST6808B | STRC 1/8 E-Buggy Conversion Kit — wing mount only | Aero | $0.00 (free) | — | ![](src/aero_strc_wing_mount_sptst6808b.jpg) |
 | Generic | White Rear Wing | Aero | $3.70 | AliExpress | ![](src/aero_wing_rear_white.png) |
 | Generic | Tokyo Speed 110mm 1/8 RC Off-Road Buggy Wheels 17mm Hex (4pcs) | Aero | $20.13 | AliExpress | ![](src/aero_tokyo_speed_wheels_110mm_1-8_buggy.png) |
