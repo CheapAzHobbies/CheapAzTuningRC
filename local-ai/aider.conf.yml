@@ -13,6 +13,10 @@ edit-format: whole
 # Commit after each change (the part that makes it hands-off).
 auto-commits: true
 
+# Auto-approve aider's prompts (add file, create file, run suggested command, commit).
+# Stops the "it won't just say yes" problem. CLI flag is --yes-always.
+yes-always: true
+
 # Load the repo conventions read-only so rows come out correctly formatted.
 read:
   - CLAUDE.md
