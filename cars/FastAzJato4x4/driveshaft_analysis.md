@@ -9,8 +9,8 @@
 > **Alternative still documented:** E-Revo 1.0 CVDs chopped to fit (keyed sleeve + Loctite 680) in the [comparison](#axle-wheel-driveshaft-comparison).
 
 <p align="center">
-  <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="250">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="250">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="250">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855.jpg" width="250"><br>
-  <em>Leaning axle build: knock-off Slash 4x4 HD steel CV (axle body) · Tekno 5580 rear stub · TRA6752 long output shaft · stock center shaft TRA6855 (215mm)</em>
+  <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="200">&nbsp;<img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="200">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="200">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="200">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855.jpg" width="200"><br>
+  <em>Leaning axle build: knock-off Slash 4x4 HD steel CV (axle body) · TKR1654-17 front 17mm M6 stub · Tekno 5580 rear stub · TRA6752 long output shaft · stock center shaft TRA6855 (215mm)</em>
 </p>
 
 ---
@@ -20,6 +20,7 @@
 - [Key Requirements](#key-requirements)
 - [Axle (Wheel) Driveshaft Comparison](#axle-wheel-driveshaft-comparison)
 - [2WD long CVDs + 6752 output shafts](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build)
+- [Tekno stubs (front + rear)](#tekno-stubs-front--rear)
 - [Knock-Off E-Revo CVDs](#knock-off-e-revo-cvds)
 - [Shortening + Joining E-Revo CVDs](#shortening--joining-e-revo-cvds-custom-axles-wip)
 - [Center Driveshaft Comparison](#center-driveshaft-comparison)
@@ -80,6 +81,22 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 <p align="center"><img src="src/drivetrain_jato_axle_comparison_10mm_longer.jpg" width="440"><br><em>Knock-off CVD + rear CVD parts, with the two 10mm-longer bare axles (top right) next to the originals.</em></p>
 
 <p align="center"><img src="src/drivetrain_jato_axle_hub_testfit.jpg" width="440"><br><em>Test-fit mockup: knock-off CVDs (10mm ends) on GPM XO-1 alloy front hub and Tekno plastic rear hub, M6 17mm stubs. The Raptor R (EHD) front hub works too, but needs a 10×18×5 inner: the EHD outer pocket is bigger (18mm OD) than the XO-1's, and the inner drops from the stock 12mm ID to 10mm to fit the Tekno stub.</em></p>
+
+---
+
+## Tekno stubs (front + rear)
+
+The Raptor R hubs run Tekno M6 stubs at both ends (on the 10×18×5 inner bearing, see [`hub_carrier_analysis.md`](hub_carrier_analysis.md#axle--hub-compatibility)). **Front = the TKR1654-17 17mm M6 hub adapter.** **Rear = one of two Tekno stub axles (5580 or 5070), pending test fit.** Bearings confirmed correct; the open question is the 17mm hex seat.
+
+| Position | Tekno stub | For | Price | Status |
+|---|---|---|---|---|
+| **Front** | **TKR1654-17** — 17mm M6 hub adapter (17mm hex adapters + stub pins + cross pins + 17mm nuts) | Front 17mm M6 setup | ~$23.15 ea ($46.30 / set of 2) | The front stub/adapter; minor 17mm hex filing to seat |
+| **Rear** | **Tekno 5580** — stub for adapter TKR5570-17 / SCT410 | Rear 17mm hex setup | $16.90 | In hand. **Likely long enough** for the Raptor R rear |
+| **Rear** | **Tekno 5070** — hardened steel, EB48 (buggy) | Rear stub alt | $17.91 | In hand. **May also fit** the Raptor R rear |
+
+<p align="center"><img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="250">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="250">&nbsp;<img src="src/drivetrain_tekno_5070_stub_axle.jpg" width="250"><br><em>Front: TKR1654-17 17mm M6 adapter · Rear: Tekno 5580 (TKR5570-17 / SCT410) · Tekno 5070 (EB48)</em></p>
+
+Rear stubs purchase: eBay seller mr-retro, order 24-14914-16595, $34.81 total, ordered Jul 20 2026, delivered Jul 23 2026.
 
 ---
 
