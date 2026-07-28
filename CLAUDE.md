@@ -1,6 +1,8 @@
 # CLAUDE.md
 
-Guidance for Claude when working in this repo. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the human-facing structure docs (folder layout, README template, parts table format, image naming).
+Single source of guidance for working in this repo (folder layout, README template, parts table format, image naming, analysis-doc format, git workflow). Read this one file; there is no separate CONTRIBUTING doc.
+
+**Git workflow.** This is a real git repo with a GitHub remote. Before editing, know the state: `git status`, `git branch -vv`, `git remote -v`. Push directly to `main` (see [Branch policy](#branch-policy)).
 
 ---
 
@@ -12,13 +14,48 @@ Guidance for Claude when working in this repo. See [`CONTRIBUTING.md`](CONTRIBUT
 - `inbox/` — **dropzone for unsorted files** (images, order receipts, screenshots, PDFs, 3D models). User drops files here when they can't route them manually; Claude inspects, routes to the right place, and deletes from `inbox/` after.
 - Root `README.md` — index table of all cars.
 
+## Adding a new car
+
+1. Create `cars/<CarName>/` at the repo root.
+2. Inside it: `README.md` (main build doc, template below), `src/` (photos), `3d-models/` (STLs).
+3. Add the car to the root `README.md` **Cars** table.
+
+### Per-car README template
+
+Each car `README.md` follows this section order:
+
+| Section | What goes here |
+|---|---|
+| **Car Overview** | Base car name, brief description, overview photo |
+| **Track & Setup Philosophy** | Where you race, why setup choices were made |
+| **Suspension** | Shocks, springs, oil weight, swaybars |
+| **Drivetrain** | Driveshafts, hubs, diff, pinion, spur |
+| **Electronics** | ESC, motor, battery |
+| **Steering** | Bell crank, servo, linkages |
+| **Aero & Body** | Wing, body, wheels |
+| **Bumpers** | Front and rear bumpers/skid plates |
+| **Parts List** | Single unified table (format below) |
+| **3D Models** | List of STL files in `3d-models/` |
+| **TODO / Notes** | Outstanding items |
+
+### Parts List table format
+
+One table, these columns: `| Part # | Description | Category | Cost | Source | Photo |`
+
+- **Part #** — manufacturer part number, or `Generic` if none.
+- **Description** — full name including key specs.
+- **Category** — one of: `Base Car`, `Suspension`, `Drivetrain`, `Electronics`, `Steering`, `Aero`, `Body`, `Bumpers`.
+- **Cost** — full retail price regardless of how obtained. Note gifted/free in parens, e.g. `$83.75 (gifted)`.
+- **Source** — where bought (`Amazon`, `eBay — seller`, `Tammies`, `AliExpress`).
+- **Photo** — `![](src/filename.jpg)` or `—` if none yet.
+
 ## Inbox workflow
 
 When the user says **"check inbox"** (or drops files and describes them), do this for every file in `inbox/` (except `README.md`):
 
 1. **Identify it.** Read the file (Read tool for images / PDFs / md; Bash `file` if unsure). What part / car / deal / category does it relate to?
 2. **Pick the destination** using the same routing rules below:
-   - Part photo of an existing build → `cars/<CarName>/src/` with `[section]_[brand]_[part]_[part-#].[ext]` naming (see `CONTRIBUTING.md`).
+   - Part photo of an existing build → `cars/<CarName>/src/` with `[section]_[brand]_[part]_[part-#].[ext]` naming (see [Image handling](#image-handling)).
    - Order receipt / cart screenshot for a **generic part** (battery / servo / ESC / etc.) → add a row to the matching `Deals/<category>.md`.
    - Order receipt / cart screenshot for a **car-specific part** → add a row to that car's `<part>_analysis.md` Price History section.
    - 3D model file (`.stl`, `.step`) → `cars/<CarName>/3d-models/`.
@@ -87,9 +124,12 @@ The user's friend Mike has related builds (FastAzJato4x4 is co-developed with hi
 
 The user often uploads images inline that need to be saved into a car's `src/` folder.
 
-- Image naming convention is in `CONTRIBUTING.md` — `[section]_[part-description]_[part-number].[ext]`, all lowercase with underscores.
+- **Naming convention:** `[section]_[brand]_[part-description]_[part-number].[ext]`, all lowercase, underscores (no spaces), brand right after section, part number at the end when available.
+  - **Sections:** `base`, `suspension`, `drivetrain`, `electronics`, `steering`, `aero`, `body`, `bumpers`, `overview`.
+  - **Brand:** the manufacturer (`traxxas`, `hpi`, `hb`, `tekno`, `castle`, `strc`, `wltoys`, `gmaxx`, `cobra`). Omit if generic / AliExpress / no real brand.
+  - Examples: `suspension_hpi_shocks_apache_c1_107365.jpg` · `drivetrain_traxxas_center_diff_tra6814.jpg` · `electronics_castle_esc_copperhead10.jpg` · `body_pink_white.jpg` (generic, brand omitted).
 - If the md file already references an image path (e.g. `src/suspension_shock_tower_stock_front.jpg`), **rename incoming images to match that exact path** rather than inventing a new name.
-- If no path is referenced yet, follow the CONTRIBUTING.md naming scheme and update the md file to point at the new filename in the same commit.
+- If no path is referenced yet, follow the naming scheme above and update the md file to point at the new filename in the same commit.
 
 ## Analysis docs (motor, ESC, shock tower, etc.)
 
