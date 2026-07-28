@@ -87,9 +87,9 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 **Pitch:** mod 0.8 (32P). Motor shaft 5 mm.
 
 - **OEM (E-Revo Brushless):** 18T pinion (**TRA5644**, hardened, 5 mm bore) / 65T spur (**TRA3960**) = **3.61:1**.
-- **Currently on:** **TRA3958 58T** spur. With the 18T pinion that's **3.22:1 — ~12% taller than stock**, which is why it runs hot.
+- **Currently on:** **20T pinion** (0.8 mod, 5 mm bore) + **TRA3958 58T** spur = **2.90:1** — taller still than the old 18T setup, so it runs hotter. Watch motor temp.
 
-**Spur options** (all 0.8 mod, ratio shown with the 18T pinion):
+**Spur options** (all 0.8 mod). Ratios below are for the **18T** pinion. **Now on a 20T pinion**, so real ratios are ~10% taller (multiply by 18/20 = 0.9): e.g. 68T with 20T = **3.40**, 65T with 20T = **3.25**. To get back near OEM 3.61 on the 20T you'd need ~72T+.
 
 | Spur | Teeth | Ratio (18T) | Note |
 |---|---|---|---|
