@@ -1,0 +1,18 @@
+# aider config for the local Ollama agent (X399 / RX 9060 XT)
+# Launch from the repo root:
+#   aider --config local-ai/aider.conf.yml --model-settings-file local-ai/aider.model.settings.yml
+# Requires: export OLLAMA_API_BASE=http://127.0.0.1:11434
+
+# 32B coder: the tier that handles aider edits cleanly. 128 GB RAM covers the offload.
+# Drop to ollama_chat/qwen2.5-coder:14b if you hit VRAM limits.
+model: ollama_chat/qwen2.5-coder:32b
+
+# Whole-file rewrites: far more reliable for local models than SEARCH/REPLACE diffs.
+edit-format: whole
+
+# Commit after each change (the part that makes it hands-off).
+auto-commits: true
+
+# Load the repo conventions read-only so rows come out correctly formatted.
+read:
+  - CLAUDE.md
