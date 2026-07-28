@@ -95,6 +95,24 @@ The config points aider at Ollama, loads `CLAUDE.md` as conventions, uses whole-
 
 ---
 
+## What aider is (and is not)
+
+Aider is a **file editor with auto-git**, not a command-running agent. Its loop: the model outputs edit blocks, aider applies them to files and commits. Know this so you do not fight the tool:
+
+- The model **cannot run arbitrary commands** (`git push`, `curl`, bash). If it says "I can't execute commands," that is correct for aider, not a bug or a lying model.
+- The model only **edits files**; aider handles the git commit.
+- `yes-always: true` (in `aider.conf.yml`) auto-approves aider's own prompts, including any shell command the model *suggests*. It does not turn aider into a general autonomous agent.
+
+**For this repo that is fine.** The job is "read a pic, write a formatted row into an `.md`, commit it," which is pure file editing plus git, exactly aider's strength. The model never needs to run a command.
+
+**If you want a local model that runs commands autonomously** (like Claude Code does), use a real agent framework instead of aider. All work with local Ollama models:
+
+- **Goose** (Block) — local agent with real tool use
+- **OpenHands** (formerly OpenDevin) — full agent, runs commands in a sandbox
+- **Cline** — VS Code agent, tool-calling with local models
+
+---
+
 ## The photo workflow
 
 Plain aider expects one model, so vision plus editing is a two-step flow:
@@ -118,6 +136,8 @@ A tighter one-command pipeline can come later; start with the two-step to confir
 | "Context silently discarded" / model forgets | Raise `OLLAMA_CONTEXT_LENGTH` and `num_ctx` in `aider.model.settings.yml` |
 | Out of memory loading 32B | Lower `num_ctx` to 16384, or drop to `qwen2.5-coder:14b` (fits fully in 16 GB) |
 | aider makes malformed edits | Keep `edit-format: whole`; do not switch to `diff` on a local model |
+| aider keeps asking for confirmation | Set `yes-always: true` (already in `aider.conf.yml`) |
+| Model says "I can't run commands" | Expected. Aider edits files, it does not run commands. See "What aider is (and is not)" above |
 | Model ignores repo formatting | Confirm `CLAUDE.md` is in the `read:` list and you launched from the repo root |
 
 ---
