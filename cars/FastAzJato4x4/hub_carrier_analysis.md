@@ -99,7 +99,7 @@ The inner bearing's ID has to match the axle — which is why the two axle syste
 
 ## Rear stub axles (Raptor R rear, in testing)
 
-Two Tekno hardened-steel stub axles bought to run in the **Raptor R rear carrier** with a different inner bearing (the axle-flexibility path away from the E-Revo-locked MonsterKingz rear). **Bearings confirmed correct.** The open question is the **17mm hex seat** on the axle. Test and measure later.
+Two Tekno hardened-steel stub axles bought to run in the **Raptor R rear carrier** with a different inner bearing (the axle-flexibility path away from the E-Revo-locked MonsterKingz rear). Pairs with the **Tekno M6 17mm stubs up front** in the Raptor R front. **Bearings confirmed correct.** The open question is the **17mm hex seat** on the axle. Test and measure later.
 
 | Stub axle | For | Price | Status |
 |---|---|---|---|
@@ -118,7 +118,8 @@ Purchase: eBay seller mr-retro, order 24-14914-16595, $34.81 total, ordered Jul 
 - **Crash hierarchy still holds.** The [FLM extended arms](arm_analysis.md) are the intended fuse; they bend first. Alloy fronts just stop the C-hub / steering block from breaking before the arm does.
 - **Plastic ideal vs alloy reality.** The Tekno TKR6837 nylon block ($8.79) is *ideally* what you'd run (strong for plastic, cheap, sacrificial), but the front still breaks a few, so alloy is the durable answer. Keep a couple Tekno blocks as cheap spares.
 - **Front pick follows the axle system.** E-Revo CVD axles (EHD) take the **MonsterKingz EHD alloy** front. Tekno M6 axles (XO-1) take the **GPM aluminum XO-1** front. Each path has its own bearings, don't mix (see [Axle ↔ hub compatibility](#axle--hub-compatibility)).
-- **Tekno M6 front with 17mm stubs fits, with minor filing.** The 17mm-stub Tekno M6 front runs a **10×18×5 mm inner bearing**. To seat it, one of: file **0.2 to 0.5 mm** off the 17mm hexes, dremel the inner lip, or force it in and let it wear in. Filing the 17mm hexes is the cleanest of the three. This opens the M6 front path without needing an unobtainium bearing.
+- **Chosen axle plan: Raptor R hubs front + rear, running Tekno M6 stubs.** Front Raptor R runs the **Tekno M6 17mm stubs**; rear Raptor R runs the **Tekno 5580 or 5070 stub**. Keeps the genuine slim Raptor R hubs and swaps in the strong Tekno stubs. Pending test fit.
+- **Raptor R front + Tekno M6 17mm stubs fits, with minor filing.** The 17mm stub runs a **10×18×5 mm inner bearing**. To seat it, one of: file **0.2 to 0.5 mm** off the 17mm hexes, dremel the inner lip, or force it in and let it wear in. Filing the 17mm hexes is the cleanest. This opens the M6 stub path without an unobtainium bearing.
 - **Buying:** full front + rear, the **Raptor R Ultimate alloy set** (~$65.97, genuine Traxxas, slim) is the lean over the in-hand **MonsterKingz** ($46.80, too fat/heavy). Fronts only, get the **Lighthouse front** (~$25, owned). The Traxxas OEM blue set is genuine but pre-EHD, wrong generation here.
 - **Raptor R = genuine slim EHD alloy.** The Ford Raptor R Ultimate uses the original extreme-heavy-duty aluminum hubs: front C-hub 9063, steering block 9064, rear carrier 9065, on the same 5117A / 5120A EHD bearings. It's the factory version of what MonsterKingz clones fat, so it fits the E-Revo CVD axles with no changes and weighs less.
 - **All EHD rears can be shaved (alloy or plastic).** They're over-built with everything captured (bearings + axle supported both sides), so a few minutes with a Dremel drops real weight on any of them.
