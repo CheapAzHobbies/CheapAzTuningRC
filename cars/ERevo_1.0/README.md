@@ -84,32 +84,7 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 
 ### Gearing (spur + pinion)
 
-**Pitch:** mod 0.8 (32P). Motor shaft 5 mm.
-
-- **OEM (E-Revo Brushless):** 18T pinion (**TRA5644**, hardened, 5 mm bore) / 65T spur (**TRA3960**) = **3.61:1**.
-- **Currently on:** **20T pinion** (0.8 mod, 5 mm bore) + **TRA3958 58T** spur = **2.90:1** — taller still than the old 18T setup, so it runs hotter. Watch motor temp.
-
-**Spur options** (all 0.8 mod). Ratios below are for the **18T** pinion. **Now on a 20T pinion**, so real ratios are ~10% taller (multiply by 18/20 = 0.9): e.g. 68T with 20T = **3.40**, 65T with 20T = **3.25**. To get back near OEM 3.61 on the 20T you'd need ~72T+.
-
-| Spur | Teeth | Ratio (18T) | Note |
-|---|---|---|---|
-| TRA3956 | 54 | 3.00 | tallest — hottest, avoid |
-| TRA3957 | 56 | 3.11 | |
-| TRA3958 | 58 | 3.22 | current — runs hot |
-| TRA3959 | 62 | 3.44 | |
-| TRA3960 | 65 | 3.61 | OEM baseline |
-| **TRA3961** | **68** | **3.78** | coolest — leaning toward this for loose dirt |
-
-**Plan:** keep the 18T TRA5644 pinion and go back up in spur. Run at least the OEM **65T (TRA3960)**; leaning **68T (TRA3961, 3.78:1)** to run cooler and add low-end punch on the loose track. Dial by temp: target **<180°F/82°C** motor after a hard 5-6 min pack.
-
-**Pinion retention (was stripping spurs).** The plastic spurs were stripping because the **pinion kept working loose** on the motor shaft — as it walks, the mesh opens/closes, tooth engagement drops, and it shears the spur. Fix is retention, **not a metal spur**:
-- **Flat on the motor shaft — #1 fix.** If the 4278/1515 shaft is round where the set screw lands, grind a small **flat** there. A set screw on a flat can't walk; on a round shaft it always eventually does.
-- **Blue Loctite (242/243)** on the set screw, not red. Seat the screw square on the flat, fully engage the hex, and replace it if the tip is mushroomed. Tighten both screws if the pinion has two.
-- **Reset mesh** after (paper-strip method). Locking the pinion also keeps mesh consistent, so it runs cooler and quieter.
-
-**What people run racing (heavy 6S on dirt):** gear by **motor temp, not top speed**. OEM 18/65 (3.61:1) is only ~35 mph on 6S, which is already more than a tight loose-dirt track uses. So the dirt crowd runs **at or slightly below OEM ratio** (bigger spur / smaller pinion) for corner punch and thermal margin, targets **160-180°F** after a run, and adds a **motor fan** so heat (not gearing) stops being the limit. Note bigger tires raise the effective gearing (more heat), so factor tire OD in. This build's 68T lean fits that pattern.
-
-<p align="center"><img src="src/reference_traxxas_spur_gear_options_diagram.png" width="300"><br><em>Traxxas spur options for the E-Revo gearbox (3956–3961, 0.8 mod)</em></p>
+Moved to the motor doc. See [`esc_motor_analysis.md` → Gearing](esc_motor_analysis.md#gearing-spur--pinion) for the full spur/pinion options, current ratio (20T pinion + 58T spur), pinion-retention fix, and racing notes.
 
 ### Drive Cups
 
@@ -126,7 +101,7 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 | Motor (combo, alt to 1515) | Hobbywing EZRUN-4278SD-2250KV-BLACK-G2R — **462 g**, 60,000 RPM max. P/N 30402141 | 1 |
 | Battery | 2× 3S LiHV 4200mAh in series → 6S | 2 |
 
-**ESC notes:** Going the **Hobbywing EZRun MAX8 GS2** (3–8S). **When ordering any Hobbywing MAX-series ESC, get the G2S (GS2), not the plain G2** — the G2S doesn't cut out at ramps / in extreme conditions. Comes as the HWI38010607 combo with a 4278SD 2250KV motor (alt to the Castle 1515). Full specs + Castle comparison in [`esc_analysis.md`](esc_analysis.md); price in [`Deals/escs.md`](../../Deals/escs.md).
+**ESC notes:** Going the **Hobbywing EZRun MAX8 GS2** (3–8S). **When ordering any Hobbywing MAX-series ESC, get the G2S (GS2), not the plain G2** — the G2S doesn't cut out at ramps / in extreme conditions. Comes as the HWI38010607 combo with a 4278SD 2250KV motor (alt to the Castle 1515). Full specs + Castle comparison in [`esc_motor_analysis.md`](esc_motor_analysis.md); price in [`Deals/escs.md`](../../Deals/escs.md).
 
 **Battery notes:** Runs LiHV (4.35V/cell, 25.2V nominal / 26.1V hot off charger at 6S). Replace as matched pairs from the same order so series voltage stays balanced. Set LVC at **3.4V/cell** — Premo #2 was killed by over-discharge + no balancing. Charger must support LiHV mode.
 
