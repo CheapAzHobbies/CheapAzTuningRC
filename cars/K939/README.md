@@ -94,6 +94,8 @@ None — removed for Meldrum Bar Park conditions.
 |-----------|------|
 | Bell Crank Set | Aluminum servo bell crank (AliExpress, ~$10) |
 | Caster Blocks (C-hub) | **Integy C26402PURPLE** billet aluminum, purple — replaces stock Traxxas 6832. Fits the XO-1 hubs and the OG Tekno front hub. Bought for the **rare purple** to match this car's distinct color |
+| Front steering block | Currently OG **Tekno M6 plastic**. **Upgrade plan: when the Tekno front blocks explode, swap to the GPM XO-1 alloy hub** (the one freed up from the Jato 4x4 plan) paired with the Integy C26402PURPLE C-hub |
+| Rear hub carrier | **Tekno 1.5° plastic** rear carriers. Keep plastic for now; if it blows up, find an alternative later or just stay on the stock Tekno 1.5° plastic rears |
 | Pinion Side | TBD |
 
 ---
