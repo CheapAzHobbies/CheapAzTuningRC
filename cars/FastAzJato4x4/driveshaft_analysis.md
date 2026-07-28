@@ -75,7 +75,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 **Why longer:** the extra ~10mm suits the wider E-Revo-based stance. **Used front and rear** with the Tekno stubs.
 
-> **Leaning axle plan (pending test fit):** **front = Tekno M6 with 17mm stubs** (Raptor R front hub needs a **10×18×5 inner**: the EHD pocket is **18mm OD** — bigger than the XO-1's — and the inner drops from the stock **12mm ID to 10mm** for the Tekno stub), **rear = Tekno 5580 (SCT410) or 5070 (EB48 buggy) stub**. To be confirmed with a test fit.
+> **Leaning axle plan (pending test fit):** **front = Tekno M6 with 17mm stubs** (Raptor R front hub needs a **10×18×5 inner**: the EHD pocket is **18mm OD** — bigger than the XO-1's — and the inner drops from the stock **12mm ID to 10mm** for the Tekno stub. **5mm thick, not 4mm** — a 10×18×4 isn't a standard/cheap bearing, 10×18×5 is off-the-shelf), **rear = Tekno 5580 (SCT410) or 5070 (EB48 buggy) stub**. To be confirmed with a test fit.
 
 <p align="center"><img src="src/drivetrain_jato_axle_comparison_10mm_longer.jpg" width="440"><br><em>Knock-off CVD + rear CVD parts, with the two 10mm-longer bare axles (top right) next to the originals.</em></p>
 
