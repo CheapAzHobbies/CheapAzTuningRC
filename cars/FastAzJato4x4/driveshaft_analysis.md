@@ -1,15 +1,17 @@
 # Driveshaft Selection — FastAzJato4x4
 
-> **Chosen:**
-> - **Axle (wheel) driveshafts: E-Revo 1.0 CVDs (genuine or ~$20 knock-off), chopped to fit.** Cut each in half and rejoin to length with a **keyed sleeve + Loctite 680 — no pin, no weld.** Tune the length on a threaded prototype first. **Shorter = front.** 6mm matches the E-Revo diffs/cups. See [build options](#build-options--joining-the-two-cvd-halves).
-> - **Center driveshaft: stock Slash 4x4 aluminum one-piece (TRA6855, 215mm).** Plastic deforms on 4S and the Tekno Big Bone isn't worth the money — stock metal is the pick. **Don't grab TRA6755 — that's the 189mm Rustler shaft and it's too short.**
+> **Leaning (pending test fit): Tekno M6 stub axle build.**
+> - **Front: Tekno M6 with 17mm stubs** (XO-1 front hubs, 10×18×5 inner + light filing of the 17mm hexes).
+> - **Rear: Tekno 5580 or 5070 stub.**
+> - **Axle bodies:** cheap AliExpress CVDs (6852/6851 clones) plus genuine **TRA6752 long output shafts** (~$6–8 ea), swapped in for the extra length. **Sell the OG stubs** to offset cost. See [2WD long CVDs](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
+> - **Center driveshaft: stock Slash 4x4 aluminum one-piece (TRA6855, 215mm).** Stock metal wins; plastic deforms on 4S. **Don't grab TRA6755 — that's the 189mm Rustler shaft, too short.**
+>
+> **Alternative still documented:** E-Revo 1.0 CVDs chopped to fit (keyed sleeve + Loctite 680) in the [comparison](#axle-wheel-driveshaft-comparison).
 
 <p align="center">
-  <img src="src/drivetrain_traxxas_e_revo_cvd_5451r.jpg" width="330">&nbsp;<img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="330">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855.jpg" width="330"><br>
-  <em>Chosen axle: E-Revo 1.0 CVDs, chopped to fit · Runner-up axle: knock-off Slash 4x4 HD steel CV · Chosen center shaft: stock Slash 4x4 TRA6855 (215mm)</em>
+  <img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="330">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="330">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855.jpg" width="330"><br>
+  <em>Leaning axle build: Tekno 5580 rear stub · TRA6752 long output shaft (into cheap AliExpress CVDs) · stock center shaft TRA6855 (215mm)</em>
 </p>
-
-> **Runner-up note:** if the E-Revo CVD route falls through, the **knock-off Slash 4x4 HD steel CV ($20–30)** is the next best. Same smooth steel-CV feel for a fraction of the genuine TRA6851R price. **It's a 5mm diff end, so switch the diff to 5mm outdrives and cups** (the E-Revo route is 6mm) — easy swap, just an extra step.
 
 ---
 
@@ -70,6 +72,8 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 <p align="center"><img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="330">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6750_short.jpg" width="330"><br><em>TRA6752 (long, the 1951R length) · TRA6750 (short). Same everywhere else; the output shaft sets the length.</em></p>
 
 **Why longer:** the extra ~10mm suits the wider E-Revo-based stance. **Used front and rear** with the Tekno stubs.
+
+> **Leaning axle plan (pending test fit):** **front = Tekno M6 with 17mm stubs** (XO-1 front hubs, 10×18×5 inner + light filing of the 17mm hexes), **rear = Tekno 5580 or 5070 stub**. This is the direction, to be confirmed with a test fit.
 
 ---
 
