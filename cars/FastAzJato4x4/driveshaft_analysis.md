@@ -17,6 +17,7 @@
 
 - [Key Requirements](#key-requirements)
 - [Axle (Wheel) Driveshaft Comparison](#axle-wheel-driveshaft-comparison)
+- [2WD long CVDs + 6752 output shafts](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build)
 - [Knock-Off E-Revo CVDs](#knock-off-e-revo-cvds)
 - [Shortening + Joining E-Revo CVDs](#shortening--joining-e-revo-cvds-custom-axles-wip)
 - [Center Driveshaft Comparison](#center-driveshaft-comparison)
@@ -54,6 +55,21 @@
 | ❌ ~~**Traxxas Slash 4x4 HD steel CV (2nd gen)**~~ | **Type:** nickel-plated steel CV w/ boots, U-joint pins held captive<br>**Part:** TRA6851R (front) / TRA6852R (rear)<br>**Diff end:** 5mm<br>**Fits:** Slash 4x4 pattern (5mm cups)<br>**Price:** **$69.95** (set of 2) | Pro: Steel CV, boots, captive pins — strong "2nd gen" upgrade, smooth like the E-Revo CVDs<br><br>Con: **Too expensive — $69.95 buys only two axles. The ~$20–30 knock-off above gets you four** for the same steel-CV design. No contest on value | <img src="src/drivetrain_traxxas_slash_hd_cv_6851r.jpg" width="500"> |
 | ❌ ~~**Traxxas Slash 4x4 EHD axles**~~ | **Type:** Extreme Heavy Duty telescoping, oversized U-joints<br>**Part:** TRA6852A (rear) / TRA6851A (front)<br>**Diff end:** 6mm stub axles<br>**Fits:** Slash 4x4 pattern<br>**Price:** N/A | Pro: Telescoping, oversized U-joints, 6mm stubs<br><br>Con: **Nowhere near as strong as the true EHD TRA9051/9052** despite the same "EHD" name — no reason to pick these over the real EHD set | <img src="src/drivetrain_traxxas_slash_ehd_6852a.jpg" width="500"> |
 | 🚫 ~~**Traxxas Slash 4x4 stock axle (1st gen, U-joint)**~~ | **Type:** stock Slash 4x4 U-joint half shaft<br>**Part:** TRA6852X (rear) / TRA6851X (front)<br>**Diff end:** 6mm<br>**Fits:** Slash 4x4 pattern (fits the build)<br>**Price:** N/A | Pro: Cheap, widely available. Fits the build<br><br>Con: **Worst option — snaps like candy.** Only minor rubbing on the arms, not a full clearance hit, but the snapping issue makes this a last resort | <img src="src/drivetrain_traxxas_slash_stock_axle_6852x.jpg" width="500"> |
+
+---
+
+## 2WD long CVDs + 6752 output shafts (cheap long-axle build)
+
+A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **1951R "Steel Rear CV Driveshafts (2)"** (2WD cars) are about **10mm longer** than the Slash 4x4 6852R (rear) and 6851R (front). The **only difference is the output shaft**; everything else (cups, boots, hardware) is the same.
+
+- **Output shafts:** **TRA6752 = long** (the 1951R length), **TRA6750 = short**. Swap in 6752 to make a standard CVD the longer length.
+- **Stubs are compatible with the Tekno stuff** (the [Tekno 5580 / 5070 stubs](hub_carrier_analysis.md#rear-stub-axles-raptor-r-rear-in-testing)).
+
+**The build:** buy cheap **AliExpress CVD-style driveshafts** (the 6852/6851 front + rear clone combo), order **four TRA6752 long output shafts at $6–8 each**, and swap them in. Replace the stubs with the **Tekno stubs** front and rear. Result is a long, strong axle set for far less than genuine **1951R** sets. **Sell the OG stubs** that came with the axles for good money to offset the cost.
+
+<p align="center"><img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="330">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6750_short.jpg" width="330"><br><em>TRA6752 (long, the 1951R length) · TRA6750 (short). Same everywhere else; the output shaft sets the length.</em></p>
+
+**Why longer:** the extra ~10mm suits the wider E-Revo-based stance. **Used front and rear** with the Tekno stubs.
 
 ---
 
