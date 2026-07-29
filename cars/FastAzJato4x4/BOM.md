@@ -20,8 +20,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
-| **Traxxas E-Revo 1.0 front differential** | **In Hand** | — | $0 (sunk) | [`differential_analysis.md`](differential_analysis.md) |
-| **Traxxas E-Revo 1.0 rear differential** | **In Hand** | — | $0 (sunk) | [`differential_analysis.md`](differential_analysis.md) |
+| **Traxxas Jato 4x4 stock front diff** | To buy | Jenny's RC | ~$12.97 | [`differential_analysis.md`](differential_analysis.md) |
+| **Traxxas Jato 4x4 stock rear diff** | To buy | Jenny's RC | ~$12.97 | [`differential_analysis.md`](differential_analysis.md) |
+| **Traxxas E-Revo 1.0 front differential** — *now spares, wrong outdrive* | **In Hand** | — | $0 (sunk) | [`differential_analysis.md`](differential_analysis.md) |
+| **Traxxas E-Revo 1.0 rear differential** — *now spares, wrong outdrive* | **In Hand** | — | $0 (sunk) | [`differential_analysis.md`](differential_analysis.md) |
 | **Stock Traxxas center diff** + **20k wt oil** | To buy from spares / LHS | LHS / Traxxas | ~$15 + $5 oil | [`differential_analysis.md`](differential_analysis.md#center-diff-oil) |
 | **Center driveshaft** — stock Slash 4x4 aluminum **TRA6855** (215mm; *not* the 189mm Rustler TRA6755) | To buy | LHS / AMain | ~$10 | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | **Front + Rear axle driveshafts** — Hoss/Rustler/Slash/Stampede 4X4 family (FengS Store), set of 4, order #8211906604054866 | **Purchased** 2026-06-01 | AliExpress — FengS Store | **$21.10** (paid; listed $27.76) | [`driveshaft_analysis.md`](driveshaft_analysis.md#price-history) |
@@ -79,10 +81,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs, servo, drive cups, CF chassis, axle driveshafts, TRA3775 bell-crank bushings, **Raptor R Ultimate alloy hubs** | **$242** |
-| **To buy — locked spec** — motor, shock towers, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$240** |
+| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs (now spares), servo, drive cups, CF chassis, axle driveshafts, TRA3775 bell-crank bushings, **Raptor R Ultimate alloy hubs** | **$242** |
+| **To buy — locked spec** — motor, **stock Jato 4x4 front + rear diffs**, shock towers, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$266** |
 | **Still open (no cost yet)** — tie rods, body, pinion, bearing kit | TBD |
-| **Total estimated (locked items)** | **~$482** |
+| **Total estimated (locked items)** | **~$508** |
 
 ---
 

@@ -1,6 +1,6 @@
 # FastAzJato4x4
 
-> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 extended arms (front) + ProTrac PRO6082-01 (rear), E-Revo 1.0 CVDs chopped to fit, stock Jato hex hubs, Tekin Pro4 HD 2500KV + Fire Phoenix XeRun 120A on 4S, plastic Apache C1 / Wltoys A929 big-bore shocks (metal Hot Bodies B8/D8 as the runner-up).
+> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 extended arms (front) + ProTrac PRO6082-01 (rear), Slash 4x4-pattern CVDs on Tekno M6 stubs (stock Jato 4x4 diffs, 5mm), stock Jato hex hubs, Tekin Pro4 HD 2500KV + Fire Phoenix XeRun 120A on 4S, plastic Apache C1 / Wltoys A929 big-bore shocks (metal Hot Bodies B8/D8 as the runner-up).
 >
 > **Build Status: WIP — actively sourcing parts. Car does not exist yet.**
 
@@ -55,8 +55,8 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Diffs (front + rear) | Traxxas E-Revo 1.0 (6mm) | In hand — [`differential_analysis.md`](differential_analysis.md) |
-| Axle CVDs | E-Revo 1.0 CVDs (or knock-off), chopped to fit | [`driveshaft_analysis.md`](driveshaft_analysis.md) |
+| Diffs (front + rear) | Traxxas Jato 4x4 stock (5mm) — back to stock | To buy — E-Revo 1.0 (6mm) now spares — [`differential_analysis.md`](differential_analysis.md) |
+| Axle CVDs | Knock-off Slash 4x4 HD steel CV (5mm) + Tekno M6 stubs | In hand — [`driveshaft_analysis.md`](driveshaft_analysis.md) |
 | Center diff | Stock TRA6814 OEM plastic + 20k wt oil | [`differential_analysis.md`](differential_analysis.md#center-diff) |
 | Center driveshaft | Stock Slash 4x4 alum TRA6855 (215mm) | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | Spur gear | TRA3956R 54T plastic | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
@@ -117,8 +117,9 @@ TBD
 | — | FLM Extended Arms (USA made) | Suspension | — | — | — | — |
 | #9033 / TRA9039 | Stock front (#9033) + Slash 4x4 Extreme HD rear (TRA9039) shock towers — CF towers vetoed | Suspension | ~$12 | LHS / AMain | Chosen | — |
 | 107365 / A929-14 | HPI Apache C1 / Wltoys A929 plastic 97mm big-bore shocks (front + rear) | Suspension | ~$16–30/pr | Amazon / AliExpress | Chosen | — |
-| — | Traxxas E-Revo CVDs (chopped to fit) | Drivetrain | — | — | — | — |
-| — | Traxxas E-Revo Differentials (x2) | Drivetrain | — | — | In Hand | — |
+| — | Knock-off Slash 4x4 HD Steel CV driveshafts (5mm) + Tekno M6 stubs, order #8211906604054866 | Drivetrain | $21.10 | AliExpress — FengS Store | In Hand | — |
+| — | Traxxas Jato 4x4 stock front + rear diffs (5mm) | Drivetrain | ~$25.94 (2×$12.97) | Jenny's RC | To buy | — |
+| — | Traxxas E-Revo 1.0 Differentials (x2, 6mm — now spares, wrong outdrive) | Drivetrain | — | — | In Hand | — |
 | TRA5153 | Traxxas Drive Cup (2) — E-Revo 1.0 standard (x2 pairs / 4 total) | Drivetrain | $8.00/pair | [AMain Hobbies](https://www.amainhobbies.com) | In Hand | — |
 | — | Traxxas Jato 4x4 Stock Hex Hubs | Drivetrain | — | — | — | — |
 | 9063/9064/9065 | Traxxas Raptor R Ultimate alloy hubs — EHD front C-hubs + steering blocks + rear stub axle carriers, full set | Steering | $68.73 | eBay (toysion) | Purchased 2026-07-29 | ![](src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg) |
