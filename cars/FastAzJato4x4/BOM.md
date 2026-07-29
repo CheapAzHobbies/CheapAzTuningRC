@@ -29,7 +29,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | **Front + Rear axle driveshafts** — Hoss/Rustler/Slash/Stampede 4X4 family (FengS Store), set of 4, order #8211906604054866 | **Purchased** 2026-06-01 | AliExpress — FengS Store | **$21.10** (paid; listed $27.76) | [`driveshaft_analysis.md`](driveshaft_analysis.md#price-history) |
 | **Front gearbox housing** — Traxxas **TRA6881** (clones vetoed — no cheaper than OEM) | To buy | LHS / AMain | $4.00 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Rear gearbox housing** — Traxxas **TRA6880** | To buy | LHS / AMain | $4.00 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
-| **TRA5153 Traxxas Drive Cup** (E-Revo standard, x2 pairs = 4 total) | **In Hand** | AMain | $16.00 (sunk, gifted) | (drivetrain compatibility — referenced in [`differential_analysis.md`](differential_analysis.md)) |
+| **TRA5153 Traxxas Drive Cup** (E-Revo standard, x2 pairs = 4 total) — *now spares, mates the E-Revo 6mm diff only* | **In Hand** | AMain | $16.00 (sunk, gifted) | (drivetrain compatibility — referenced in [`differential_analysis.md`](differential_analysis.md)) |
 
 ---
 
@@ -93,7 +93,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 - **ESC sensor adapter:** not needed. The Tekin Pro4 HD uses a dual-plug JST-ZH sensor harness that mates directly with the Fire Phoenix's JST-ZH sensor input. No adapter cable.
 - **Cooling fan / heatsink:** not in the BOM. The chosen Pro4 HD 2500KV has the thermal mass to run bare on 4S — see [the cooling weight analysis](motor_analysis.md#real-world-weight-1412-3200kv--cooling-vs-1415-2400kv-bare).
 - **Shock tower brace (TRA9061):** [vetoed](shock_tower_analysis.md#related-tower-bracing-optional), not in the BOM.
-- **6mm vs 5mm drivetrain:** the in-hand E-Revo diffs dictate 6mm outdrives, which in turn mate the in-hand E-Revo CVDs and axles. Stock Jato/Slash 5mm diffs are physically incompatible — see [differential_analysis.md](differential_analysis.md).
+- **6mm vs 5mm drivetrain:** back to **5mm** — the stock Jato 4x4 diffs mate the Slash 4x4-pattern CVDs (knock-off, in hand) on Tekno M6 stubs. The in-hand E-Revo diffs/CVDs/drive cups (6mm) are now spares/fallback — see [differential_analysis.md](differential_analysis.md).
 - **Aluminum gearbox housings:** vetoed — CF chassis already has a metal skid plate protecting the diffs from below, making the aluminum-housing upgrade redundant. See [gearbox_housing_analysis.md](gearbox_housing_analysis.md#why-aluminum-isnt-worth-it-on-this-build).
 - **Aluminum bumpers / shock towers:** vetoed per the sacrificial-failure logic. Aluminum on this build is reserved for the bell crank only (where stiffness under steering load matters and crash exposure is low).
 - **Cross-decision resolved (Meelobee technique):** OEM Jato **TRA9046** wing mount on a **Slash 4x4 Extreme HD rear tower (TRA9039)** with a small aluminum top plate. Shocks centered and protected from rear-end impact, no STRC kit needed. See [`aero_analysis.md`](aero_analysis.md#shock-tower-compatibility-cascade).

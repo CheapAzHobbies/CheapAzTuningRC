@@ -192,7 +192,7 @@ A separate direction from the 4S basher build: a **light 2S** car — the nimble
 **Why 2S here:**
 - **Lighter** (~200–300 g+) → nimbler, softer landings, less mass to throw around.
 - **Traction-limited track** → can't use 4S top speed anyway, so 2S is "enough."
-- **Kinder to the driveline** → less torque shock on the chopped E-Revo CVDs / gears (the build's weak point).
+- **Kinder to the driveline** → less torque shock on the CVDs / gears (the build's weak point).
 - **Fun/underdog** → a clean light 2S that carries corner speed can beat heavier 4S cars on a technical layout.
 
 **Make it work:** commit to light (the whole point); **gear for the power band** so the high-KV motor doesn't lug/heat. No class restrictions, so tune timing/boost freely for max 2S drive.
