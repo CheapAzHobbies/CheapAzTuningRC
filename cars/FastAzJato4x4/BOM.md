@@ -44,6 +44,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | **1.4mm × 6 hole shock pistons** (Apache C1 / D8 compatible) — 4 sets | To buy | LHS | ~$10 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Silicone shock oil 45wt** (front) | To buy | LHS | ~$6 / bottle | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Silicone shock oil 50-60wt** (rear, exact weight TBD) | To buy | LHS | ~$6 / bottle | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| **Traxxas Raptor R Ultimate alloy hubs** (9063/9064/9065, front + rear full EHD set), order 03-14973-67577 | **Purchased** 2026-07-29 | eBay — toysion | **$68.73** (paid) | [`hub_carrier_analysis.md`](hub_carrier_analysis.md#price-history) |
 
 ---
 
@@ -78,10 +79,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs, servo, drive cups, CF chassis, axle driveshafts, **TRA3775 bell-crank bushings** | **$173** |
+| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs, servo, drive cups, CF chassis, axle driveshafts, TRA3775 bell-crank bushings, **Raptor R Ultimate alloy hubs** | **$242** |
 | **To buy — locked spec** — motor, shock towers, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$240** |
 | **Still open (no cost yet)** — tie rods, body, pinion, bearing kit | TBD |
-| **Total estimated (locked items)** | **~$413** |
+| **Total estimated (locked items)** | **~$482** |
 
 ---
 
@@ -97,4 +98,4 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 - **Spur:** decided — **TRA3956R 54T** plastic ([`differential_analysis.md`](differential_analysis.md#spur-gear)). **Pinion:** TBD, [reference table](motor_analysis.md#pinion-reference-32p-tbd).
 - **Metal vs plastic shock bodies:** running Apache C1 plastic out of the gate; upgrade to Hot Bodies D8 metal only if body cracks become a recurring problem. See [shock_analysis.md plastic-vs-metal](shock_analysis.md#plastic-vs-metal-body-trade-off).
 
-For everything else (FLM arms, hubs, body, etc.) that's still being researched, see the [main README parts list](README.md#parts-list).
+For everything else (FLM arms, body, etc.) that's still being researched, see the [main README parts list](README.md#parts-list).
