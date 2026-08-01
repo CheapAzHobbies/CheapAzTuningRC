@@ -91,11 +91,13 @@ The Raptor R hubs run Tekno M6 stubs at both ends (on the 10×18×5 inner bearin
 
 | Position | Tekno stub | For | Price | Status |
 |---|---|---|---|---|
-| **Front** | **TKR1654-17** — 17mm M6 hub adapter (17mm hex adapters + stub pins + cross pins + 17mm nuts) | Front 17mm M6 setup | ~$23.15 ea ($46.30 / set of 2) | The front stub/adapter; minor 17mm hex filing to seat |
+| **Front** | **TKR1654-17** — 17mm M6 hub adapter (17mm hex adapters + stub pins + cross pins + 17mm nuts) | Front 17mm M6 setup | **$23.15/pair** — only 1 pair needed | ✅ In hand. Minor 17mm hex filing to seat |
 | **Rear** | **Tekno 5580** — stub for adapter TKR5570-17 / SCT410 | Rear 17mm hex setup | $16.90 | In hand. **Likely long enough** for the Raptor R rear |
 | **Rear** | **Tekno 5070** — hardened steel, EB48 (buggy) | Rear stub alt | $17.91 | In hand. **May also fit** the Raptor R rear |
 
 <p align="center"><img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="250">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="250">&nbsp;<img src="src/drivetrain_tekno_5070_stub_axle.jpg" width="250"><br><em>Front: TKR1654-17 17mm M6 adapter · Rear: Tekno 5580 (TKR5570-17 / SCT410) · Tekno 5070 (EB48)</em></p>
+
+Front stub purchase: eBay seller mr-retro, order 06-14626-84975, $69.45 total for **3 pairs** ($23.15/pair), ordered May 10 2026, delivered May 13 2026. Only 1 pair is needed for the build; the other 2 pairs are spares.
 
 Rear stubs purchase: eBay seller mr-retro, order 24-14914-16595, $34.81 total, ordered Jul 20 2026, delivered Jul 23 2026.
 
