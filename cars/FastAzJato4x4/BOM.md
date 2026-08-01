@@ -33,7 +33,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | **Spur gear** — Traxxas TRA3956R 54T plastic | To buy | LHS / Traxxas | $3.00 | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
 | **Tekno front stub — TKR1654-17** 17mm M6 hub adapter (1 pair needed; bought 3 pairs, order 06-14626-84975) | **In Hand** | eBay — mr-retro | **$23.15** (paid, 1 of 3 pairs; other 2 spare) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **Tekno rear stubs — 5580 + 5070** (both in hand, pending test fit to pick one), order 24-14914-16595 | **In Hand** | eBay — mr-retro | **$34.81** (paid) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| **TRA6752 long output shafts** ×4 — swapped into the knock-off CVDs for the extra length | To buy | LHS / AMain | ~$28.00 (4 × ~$7) | [`driveshaft_analysis.md`](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
+| **TRA6752 long output shafts** ×4 — swapped into the knock-off CVDs for the extra length | **In Hand** | — | **$32.00** (paid, 4 × $8) | [`driveshaft_analysis.md`](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
 
 ---
 
@@ -86,10 +86,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — ESC, servo, both E-Revo diffs (now spares), drive cups (now spares), axle driveshafts, Tekno rear stubs, **Tekno front stub**, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), CF chassis, wing | **$350** |
-| **To buy — locked spec** — motor, stock Jato 4x4 front + rear diffs, spur gear, **TRA6752 output shafts**, ProTrac PRO6082-01 rear arms, shock towers, Apache C1 shocks + springs + pistons + oils, center diff + driveshaft, gearbox housings, bumpers, wing mount | **~$290** |
+| **Already in hand / purchased (sunk cost)** — ESC, servo, both E-Revo diffs (now spares), drive cups (now spares), axle driveshafts, Tekno rear stubs, Tekno front stub, **TRA6752 output shafts**, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), CF chassis, wing | **$382** |
+| **To buy — locked spec** — motor, stock Jato 4x4 front + rear diffs, spur gear, ProTrac PRO6082-01 rear arms, shock towers, Apache C1 shocks + springs + pistons + oils, center diff + driveshaft, gearbox housings, bumpers, wing mount | **~$262** |
 | **Still open (no cost yet)** — tie rods, body, pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
-| **Total estimated (locked items)** | **~$640** |
+| **Total estimated (locked items)** | **~$644** |
 
 ---
 

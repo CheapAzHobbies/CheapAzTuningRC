@@ -3,7 +3,7 @@
 > **Chosen: Tekno M6 stub axle build — confirmed by the diff decision (back to stock 5mm diffs).**
 > - **Front: Tekno M6 with 17mm stubs** (XO-1 front hubs, 10×18×5 inner + light filing of the 17mm hexes).
 > - **Rear: Tekno 5580 or 5070 stub.**
-> - **Axle bodies:** cheap AliExpress CVDs (6852/6851 clones, 5mm diff end) plus genuine **TRA6752 long output shafts** (~$6–8 ea), swapped in for the extra length. **Sell the OG stubs** to offset cost. See [2WD long CVDs](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
+> - **Axle bodies:** cheap AliExpress CVDs (6852/6851 clones, 5mm diff end) plus genuine **TRA6752 long output shafts** ($8 ea, 4 bought — in hand), swapped in for the extra length. **Sell the OG stubs** to offset cost. See [2WD long CVDs](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 > - **Center driveshaft: stock Slash 4x4 aluminum one-piece (TRA6855, 215mm).** Stock metal wins; plastic deforms on 4S. **Don't grab TRA6755 — that's the 189mm Rustler shaft, too short.**
 >
 > **Now a fallback (spares):** E-Revo 1.0 CVDs chopped to fit (keyed sleeve + Loctite 680) in the [comparison](#axle-wheel-driveshaft-comparison) — only relevant again if the diff plan moves back to the E-Revo 1.0 (6mm).
@@ -69,7 +69,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 - **Output shafts:** **TRA6752 = long** (the 1951R length), **TRA6750 = short**. Swap in 6752 to make a standard CVD the longer length.
 - **Stubs are compatible with the Tekno stuff** (the [Tekno 5580 / 5070 stubs](hub_carrier_analysis.md#rear-stub-axles-raptor-r-rear-in-testing)).
 
-**The build:** buy cheap **AliExpress CVD-style driveshafts** (the 6852/6851 front + rear clone combo), order **four TRA6752 long output shafts at $6–8 each**, and swap them in. Replace the stubs with the **Tekno stubs** front and rear. Result is a long, strong axle set for far less than genuine **1951R** sets. **Sell the OG stubs** that came with the axles for good money to offset the cost.
+**The build:** buy cheap **AliExpress CVD-style driveshafts** (the 6852/6851 front + rear clone combo), and swap in **four TRA6752 long output shafts at $8 each** (✅ bought, in hand). Replace the stubs with the **Tekno stubs** front and rear. Result is a long, strong axle set for far less than genuine **1951R** sets. **Sell the OG stubs** that came with the axles for good money to offset the cost.
 
 <p align="center"><img src="src/drivetrain_traxxas_2wd_rear_cvd_1951r.jpg" width="360"><br><em>Traxxas 1951R — 2WD rear steel CVDs (~10mm longer than the 6852R/6851R). This is the length we're after.</em></p>
 
