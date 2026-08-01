@@ -1,6 +1,6 @@
 # FastAzJato4x4
 
-> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 extended arms (front) + ProTrac PRO6082-01 (rear), Slash 4x4-pattern CVDs on Tekno M6 stubs (stock Jato 4x4 diffs, 5mm), stock Jato hex hubs, Tekin Pro4 HD 2500KV + Fire Phoenix XeRun 120A on 4S, plastic Apache C1 / Wltoys A929 big-bore shocks (metal Hot Bodies B8/D8 as the runner-up).
+> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 extended arms (front) + ProTrac PRO6082-01 (rear), Slash 4x4-pattern CVDs on Tekno M6 stubs (stock Jato 4x4 diffs, 5mm), stock Jato hex hubs, Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo on 4S (Fire Phoenix XeRun 120A also in hand as spare), plastic Apache C1 / Wltoys A929 big-bore shocks (metal Hot Bodies B8/D8 as the runner-up).
 >
 > **Build Status: WIP — actively sourcing parts. Car does not exist yet.**
 
@@ -125,9 +125,9 @@ TBD
 | 9063/9064/9065 | Traxxas Raptor R Ultimate alloy hubs — EHD front C-hubs + steering blocks + rear stub axle carriers, full set | Steering | $68.73 | eBay (toysion) | Purchased 2026-07-29 | ![](src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg) |
 | — | 7075 Aluminum Front Steering + C Hub & Rear Axle Carriers — Jato 4x4 (MonsterKingz, demoted to fallback/spare) | Steering | $46.80 | eBay (MonsterKingz) | In Hand | ![](src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg) |
 | — | PTK 9752TG-D Metal High Speed Servo — 1/8 1/10, 2S LiPo ready | Steering | $25.00 | Temu | In Hand | — |
-| — | Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — Waterproof, 4S | Electronics | $30.00 | Temu | In Hand | — |
+| 38020343 | Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo (ESC + motor) | Electronics | $127.00 | Hobbywing direct | Purchased 2026-06-25 | — |
+| — | Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — Waterproof, 4S (now spare/fallback) | Electronics | $30.00 | Temu | In Hand | — |
 | — | FlySky FGr4S V2 Receiver — AFHDS3, PWM/PPM/IBUS, IPX4, Bidirectional | Electronics | $28.49 | AliExpress | Considering | — |
-| #TT2521 | Tekin Pro4 HD 2500KV brushless motor | Electronics | $69.99 | Tekin direct | To buy | — |
 
 ---
 

@@ -10,8 +10,8 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
-| **Fire Phoenix XeRun 120A Enhanced (Speed Dragon)** ESC | **In Hand** | Temu / AliExpress | $30.00 (sunk) | [`esc_analysis.md`](esc_analysis.md) |
-| **Tekin Pro4 HD 2500KV** brushless motor (#TT2521) | **To buy** | [Tekin direct](https://store.teamtekin.com/pro4-hd-2500kv-brushless-motor/) | $69.99 | [`motor_analysis.md`](motor_analysis.md) |
+| **HobbyWing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo** (ESC + motor) | **Purchased** 2026-06-25 | Hobbywing direct | **$127.00** (paid; list $149.99, coupon) | [`esc_analysis.md`](esc_analysis.md) / [`motor_analysis.md`](motor_analysis.md) |
+| **Fire Phoenix XeRun 120A Enhanced (Speed Dragon)** ESC — *now spare/fallback* | **In Hand** | Temu / AliExpress | $30.00 (sunk) | [`esc_analysis.md`](esc_analysis.md) |
 | **PTK 9752TG-D Metal High Speed Servo** | **In Hand** | Temu | $25.00 (sunk) | (existing build pick) |
 
 ---
@@ -86,17 +86,17 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — ESC, servo, both E-Revo diffs (now spares), drive cups (now spares), axle driveshafts, Tekno rear stubs, Tekno front stub, **TRA6752 output shafts**, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), CF chassis, wing | **$382** |
-| **To buy — locked spec** — motor, stock Jato 4x4 front + rear diffs, spur gear, ProTrac PRO6082-01 rear arms, shock towers, Apache C1 shocks + springs + pistons + oils, center diff + driveshaft, gearbox housings, bumpers, wing mount | **~$262** |
+| **Already in hand / purchased (sunk cost)** — **MAX10 G2 + 3665SD G3 combo (ESC+motor)**, Fire Phoenix ESC (now spare), servo, both E-Revo diffs (now spares), drive cups (now spares), axle driveshafts, Tekno rear stubs, Tekno front stub, TRA6752 output shafts, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), CF chassis, wing | **$509** |
+| **To buy — locked spec** — stock Jato 4x4 front + rear diffs, spur gear, ProTrac PRO6082-01 rear arms, shock towers, Apache C1 shocks + springs + pistons + oils, center diff + driveshaft, gearbox housings, bumpers, wing mount | **~$192** |
 | **Still open (no cost yet)** — tie rods, body, pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
-| **Total estimated (locked items)** | **~$644** |
+| **Total estimated (locked items)** | **~$701** |
 
 ---
 
 ## Notes
 
-- **ESC sensor adapter:** not needed. The Tekin Pro4 HD uses a dual-plug JST-ZH sensor harness that mates directly with the Fire Phoenix's JST-ZH sensor input. No adapter cable.
-- **Cooling fan / heatsink:** not in the BOM. The chosen Pro4 HD 2500KV has the thermal mass to run bare on 4S — see [the cooling weight analysis](motor_analysis.md#real-world-weight-1412-3200kv--cooling-vs-1415-2400kv-bare).
+- **ESC/motor combo:** switched to the **HobbyWing MAX10 G2 140A + EZRun 3665SD G3 2400KV combo** (bought Jun 25 2026, $127) — a matched pair, so the proprietary G3 sensor plug is a non-issue and no adapter cable is needed. Supersedes the Fire Phoenix + Tekin Pro4 HD plan; both drop to spares/fallback. See [`esc_analysis.md`](esc_analysis.md) / [`motor_analysis.md`](motor_analysis.md).
+- **Cooling fan / heatsink:** not in the BOM. The combo motor is IP67 and 4S-native; the old Tekin-based cooling analysis no longer applies — see [motor_analysis.md](motor_analysis.md#related-motor-cooling-optional) if this needs revisiting for the heavier 304.5g combo motor.
 - **Shock tower brace (TRA9061):** [vetoed](shock_tower_analysis.md#related-tower-bracing-optional), not in the BOM.
 - **6mm vs 5mm drivetrain:** back to **5mm** — the stock Jato 4x4 diffs mate the Slash 4x4-pattern CVDs (knock-off, in hand) on Tekno M6 stubs. The in-hand E-Revo diffs/CVDs/drive cups (6mm) are now spares/fallback — see [differential_analysis.md](differential_analysis.md).
 - **Aluminum gearbox housings:** vetoed — CF chassis already has a metal skid plate protecting the diffs from below, making the aluminum-housing upgrade redundant. See [gearbox_housing_analysis.md](gearbox_housing_analysis.md#why-aluminum-isnt-worth-it-on-this-build).
