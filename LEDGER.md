@@ -24,7 +24,7 @@ Money tracking: what friends owe me for parts/cars I sell them, and what I order
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $214.82** | $108.82 + 2× metal fan $12.00 + $94.00 RMA motor | 2026-07-11 |
+| **Mike** | **≈ $233.57+** | $214.82 + $18.75 E-Revo CVD axle set (+ FLM26800 arms, cost TBD) | 2026-08-01 |
 | **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags at the bottom of Mike's account.
@@ -129,13 +129,16 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | | **Checkpoint: -$108.82** | −$90.02 + #81 |
 | 82 | -$12.00 | 2× metal fan ($6 ea) |
 | 83 | -$94.00 | Non-warranty RMA 3200kv motor 1412 from Castle Creations |
-| | **➡️ Current: -$214.82 → Mike owes ≈ $215** | −$120.82 + #83 |
+| | **Checkpoint: -$214.82** | −$120.82 + #83 |
+| 84 | -$18.75 | Knock-off E-Revo CVD 5451R axle set — cut/shortened for Mike's custom Slash axles (Pretty GEM, order 8204620880264866); see [Orders](#orders--what-i-buy) |
+| 85 | -$??? | FLM26800 Extended Arms pair — Slash/Jato 4x4 fitment; ⚠️ **amount missing**, list price ~$30 (see [`FastAzJato4x4/arm_analysis.md`](cars/FastAzJato4x4/arm_analysis.md)), confirm actual cost paid |
+| | **➡️ Current: -$233.57 (+ FLM arms once #85 confirmed) → Mike owes ≈ $234+** | −$214.82 + #84 |
 
 ### Flags to resolve
 
 1. ~~**Sign convention**~~ — ✅ confirmed: negative = Mike owes me, positive (+) = Mike paying me back.
 2. **Settle-up checkpoints** — the line items between your `Total:` / `now at:` notes don't sum to those numbers, so I treated each note as a reconciled reset (you squared up to that figure). Confirm that's right, and that **−$46** is the live balance.
-3. **Missing amounts** — #37 "Fan 10x35" and #50 "Micro" have no dollar figure. What were they?
+3. **Missing amounts** — #37 "Fan 10x35", #50 "Micro", and #85 "FLM26800 Extended Arms pair" have no dollar figure. What were they?
 4. **Possible duplicates** — entries #28/#54 (4250/C4250 800KV) and #46 (C4250 800KV) repeat; confirm they're separate purchases, not the same one logged twice.
 
 ---
@@ -172,5 +175,6 @@ My own purchases (parts, cars, supplies).
 |------|------|--------|------|-----------|--------|-------|
 | 2026-06-01 | Axle driveshafts | | $21.10 | FastAzJato4x4 | Purchased | E-Revo CVDs |
 | 2026-05-16 | Metal center diff (Traxxas 6780-style, Slash/Hoss/Rustler 4x4) | TangEmpire (order 8211762212584866) | $18.80 | resold to Mike | Sold | At cost to Mike — see Mike's account #81 |
-| 2025-09-23 | E-Revo CVD 5451R (chopped for custom axles) | Pretty GEM (order 8204620880264866) | $18.75 | Mike's Slash custom axles | Purchased | Cut + rejoined to length — see [driveshaft_analysis](cars/FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) |
+| 2025-09-23 | E-Revo CVD 5451R (chopped for custom axles) | Pretty GEM (order 8204620880264866) | $18.75 | Mike's Slash custom axles | Purchased | Cut + rejoined to length — see [driveshaft_analysis](cars/FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) — booked to Mike's account #84 |
 | — | M6 × 30 mm 304-SS hex standoff (5 pc) — axle joiner | CLOXY Hardware | $4.36 | Mike's Slash custom axles | Purchased | The hex coupling that joins the two chopped CVD ends |
+| — | FLM26800 Extended Arms pair (Slash/Jato 4x4 fitment) | FLM | $??? (list ~$30) | Mike's Jato 4x4 | Purchased | Booked to Mike's account #85 — cost not yet confirmed |
