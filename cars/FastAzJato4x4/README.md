@@ -44,7 +44,7 @@ TBD
 |-----------|------|-------|
 | Shocks | HPI Apache C1 / Wltoys A929 plastic 97mm big bore (front + rear) | Metal HB B8/D8 = runner-up — [`shock_analysis.md`](shock_analysis.md) |
 | Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 50-60wt R | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
-| Arms | FLM26800 extended (front) + ProTrac PRO6082-01 (rear) | [`arm_analysis.md`](arm_analysis.md) |
+| Arms | FLM26800 extended (front) + ProTrac PRO6082-01 (rear) | Front purchased $25.73 (bulk order) — [`arm_analysis.md`](arm_analysis.md) |
 | Shock towers | Jato stock #9033 front + Slash 4x4 Extreme HD TRA9039 rear (Meelobee) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | Arm guards | TRA6732 front + TRA6733 rear | [`arm_analysis.md`](arm_analysis.md#shock-guards) |
 | Swaybars | None | Track works better without them — [`swaybar_analysis.md`](swaybar_analysis.md) |
@@ -114,7 +114,7 @@ TBD
 |--------|-------------|----------|------|--------|--------|-------|
 | — | Traxxas Jato 4x4 | Base Car | — | — | — | — |
 | — | RC Carbon Fiber Chassis Kit fit for Traxxas Slash VXL 4x4 TRA6808 | Chassis | $100.26 | [Temu](https://www.temu.com) / [AliExpress](https://a.aliexpress.com/_mPWcAS3) | Considering | — |
-| — | FLM Extended Arms (USA made) | Suspension | — | — | — | — |
+| FLM26800 | FLM Extended Arms (front, USA made) — 1 of a 4-pair bulk order ($102.90 total) | Suspension | $25.73 | FLM | Purchased | ![](src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg) |
 | #9033 / TRA9039 | Stock front (#9033) + Slash 4x4 Extreme HD rear (TRA9039) shock towers — CF towers vetoed | Suspension | ~$12 | LHS / AMain | Chosen | — |
 | 107365 / A929-14 | HPI Apache C1 / Wltoys A929 plastic 97mm big-bore shocks (front + rear) | Suspension | ~$16–30/pr | Amazon / AliExpress | Chosen | — |
 | — | Knock-off Slash 4x4 HD Steel CV driveshafts (5mm) + Tekno M6 stubs, order #8211906604054866 | Drivetrain | $21.10 | AliExpress — FengS Store | In Hand | — |

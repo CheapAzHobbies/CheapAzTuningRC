@@ -37,7 +37,8 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
-| **Suspension arms** — FLM26800 extended (front) + ProTrac PRO6082-01 (rear) | To buy | FLM / eBay | $30 + $13.75 | [`arm_analysis.md`](arm_analysis.md) |
+| **FLM26800 extended arms (front)** — 1 of a 4-pair bulk order ($102.90 total) | **Purchased** | FLM | **$25.73** (paid; $40 list) | [`arm_analysis.md`](arm_analysis.md#price-history) |
+| **ProTrac PRO6082-01 (rear)** — discontinued, FLM26800 runs both ends until sourced | To buy | eBay | $13.75 | [`arm_analysis.md`](arm_analysis.md) |
 | **Traxxas #9033 — stock composite front shock tower** | To buy (or pull from spares) | LHS / Traxxas / AMain | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | **Traxxas Slash 4x4 Extreme HD rear shock tower (TRA9039)** — via Meelobee technique | To buy | LHS / AMain | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) (aero cascade resolved) |
 | **HPI Apache C1 97mm big-bore shocks (#107365)** — front + rear set | To buy (4× shocks, 2 pairs) | Amazon / Hobby-Sports | $39.98 (2 pairs × $19.99) | [`shock_analysis.md`](shock_analysis.md) |
@@ -81,10 +82,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs (now spares), servo, drive cups, CF chassis, axle driveshafts, TRA3775 bell-crank bushings, **Raptor R Ultimate alloy hubs** | **$242** |
-| **To buy — locked spec** — motor, **stock Jato 4x4 front + rear diffs**, shock towers, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$266** |
+| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs (now spares), servo, drive cups, CF chassis, axle driveshafts, TRA3775 bell-crank bushings, Raptor R Ultimate alloy hubs, **FLM26800 front arms** | **$268** |
+| **To buy — locked spec** — motor, stock Jato 4x4 front + rear diffs, **ProTrac PRO6082-01 rear arms**, shock towers, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$280** |
 | **Still open (no cost yet)** — tie rods, body, pinion, bearing kit | TBD |
-| **Total estimated (locked items)** | **~$508** |
+| **Total estimated (locked items)** | **~$548** |
 
 ---
 

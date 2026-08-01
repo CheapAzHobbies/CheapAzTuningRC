@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.fastlanemachine.net/proddetail.php?prod=FLM26800"><img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="600"></a><br>
-  <em>FLM Extended Rear Arms FLM26800 — $30, Made in USA</em>
+  <em>FLM Extended Rear Arms FLM26800 — $25.73/pair paid (bulk order), Made in USA</em>
 </p>
 
 ---
@@ -14,6 +14,7 @@
 - [Key Requirements](#key-requirements)
 - [Arm Comparison](#arm-comparison) — 6 variants
 - [Shock Guards](#shock-guards) — keeps debris out of drivetrain, crash protection
+- [Price History](#price-history)
 - [Notes](#notes)
 
 ---
@@ -38,7 +39,7 @@
 
 | Arm | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **FLM26800** Extended wheelbase — *front* | **Type:** Extended wheelbase — **3655-pattern arm stretched +~10mm**, run as the **front** here. *Not* a stock Rustler arm: the Rustler 4x4 rear arm IS the stock TRA3655 (≈92mm), same as Slash 4x4. The FLM is 10mm past that.<br>**Material:** **6061 aluminum CNC**<br>**Position:** Front (on this build)<br>**Fits:** Slash 4x4 / Stampede 4x4 / Rustler 4x4 / Rally / XO-1 / Jato 4x4 (shared TRA3655 arm pattern)<br>**Wheelbase:** **101.6mm hole-to-hole vs 92mm stock TRA3655 (both measured) → +9.6mm/arm**<br>**Pivot/Hardware:** Adjustable width, extra shock positions<br>**Stiffness:** N/A<br>**Toe:** N/A<br>**Origin:** Made in USA<br>**Weight:** N/A<br>**Price:** **$30** ($40 list) | Pro: **Extends wheelbase ~10mm per side** — increases droop by a large margin, massive handling improvement. Makes the Jato feel like a proper race car vs expensive buggies at a fraction of the weight. **Cost math: bend it back 3 times and you've already saved money over buying shorter stock arms that snap more often.** Bends instead of snaps — still in the race. Bending isn't common, reshapes to near-stock easily<br><br>Con: Metal arm trade-off knowingly accepted for the wheelbase gains. Strips bulkhead and snaps front tie rods and camber links on hard hits (front needs 4mm rod upgrade, rear is fine with stock M3 Jato 3.3 rods) | <a href="https://www.fastlanemachine.net/proddetail.php?prod=FLM26800"><img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="500"></a> |
+| ⭐ **FLM26800** Extended wheelbase — *front* | **Type:** Extended wheelbase — **3655-pattern arm stretched +~10mm**, run as the **front** here. *Not* a stock Rustler arm: the Rustler 4x4 rear arm IS the stock TRA3655 (≈92mm), same as Slash 4x4. The FLM is 10mm past that.<br>**Material:** **6061 aluminum CNC**<br>**Position:** Front (on this build)<br>**Fits:** Slash 4x4 / Stampede 4x4 / Rustler 4x4 / Rally / XO-1 / Jato 4x4 (shared TRA3655 arm pattern)<br>**Wheelbase:** **101.6mm hole-to-hole vs 92mm stock TRA3655 (both measured) → +9.6mm/arm**<br>**Pivot/Hardware:** Adjustable width, extra shock positions<br>**Stiffness:** N/A<br>**Toe:** N/A<br>**Origin:** Made in USA<br>**Weight:** N/A<br>**Price:** **$25.73/pair paid** (bulk order, $40 list) | Pro: **Extends wheelbase ~10mm per side** — increases droop by a large margin, massive handling improvement. Makes the Jato feel like a proper race car vs expensive buggies at a fraction of the weight. **Cost math: bend it back 3 times and you've already saved money over buying shorter stock arms that snap more often.** Bends instead of snaps — still in the race. Bending isn't common, reshapes to near-stock easily<br><br>Con: Metal arm trade-off knowingly accepted for the wheelbase gains. Strips bulkhead and snaps front tie rods and camber links on hard hits (front needs 4mm rod upgrade, rear is fine with stock M3 Jato 3.3 rods) | <a href="https://www.fastlanemachine.net/proddetail.php?prod=FLM26800"><img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="500"></a> |
 | ⭐ **PRO6082-01** ProTrac extended wheelbase — *rear (discontinued; source when available)* | **Type:** Extended wheelbase<br>**Material:** Nylon<br>**Position:** Front + rear set<br>**Fits:** Slash 4x4 / Jato 4x4 pattern<br>**Wheelbase:** **+~10mm/arm**<br>**Pivot/Hardware:** N/A<br>**Stiffness:** N/A<br>**Toe:** N/A<br>**Origin:** N/A<br>**Weight:** N/A<br>**Price:** $13.75 | Pro: **Ideal rear arm** — same wheelbase extension as FLM, rear sees less stress so plastic is fine. No bulkhead stripping. Front + rear in one set<br><br>Con: Snaps on hard hits rather than bending back. **Discontinued** — hard to find | <img src="src/suspension_proline_protrac_arms_pro6082-01.jpg" width="500"> |
 | 🔵 **TRA3655X** Standard wheelbase OEM | **Type:** Standard wheelbase<br>**Material:** Hardened plastic<br>**Position:** Front or rear<br>**Fits:** Slash 4x4 / Jato 4x4 pattern<br>**Wheelbase:** Standard<br>**Pivot/Hardware:** N/A<br>**Stiffness:** N/A<br>**Toe:** N/A<br>**Origin:** N/A<br>**Weight:** N/A<br>**Price:** $10 | Pro: **2nd stiffest overall — the stiffest plastic arm** (only the FLM aluminum beats it). **Will never go out of stock** — knock-offs from Remohobby, Hanqui 727 feel and last the same as OEM. Effectively unlimited supply. Works front and rear<br><br>Con: Brittle nylon snaps on hard hits. No wheelbase extension | <img src="src/suspension_traxxas_slash4x4_oem_arms_tra3655x.jpg" width="500"> |
 | 🔵 **TRA3655-BLK** Standard wheelbase HD | **Type:** Standard wheelbase<br>**Material:** HD composite<br>**Position:** Front or rear<br>**Fits:** Slash 4x4 / Jato 4x4 pattern<br>**Wheelbase:** Standard<br>**Pivot/Hardware:** N/A<br>**Stiffness:** N/A<br>**Toe:** N/A<br>**Origin:** N/A<br>**Weight:** N/A<br>**Price:** $12 | Pro: In-stock successor to TRA3655R. Available in multiple colors<br><br>Con: **Middle ground flex** — flexier than TRA3655X, stiffer than RPM. No wheelbase extension | <img src="src/suspension_traxxas_hd_arms_tra3655-blk.jpg" width="500"> |
@@ -58,6 +59,14 @@ Plastic guards that mount around the arm / drivetrain area. Keep dirt, grass, an
 |---|---|---|---|
 | ⭐ **TRA6732** Front Arm Guards | **Part:** TRA6732<br>**Material:** Composite, lightweight<br>**Position:** Front<br>**Fits:** Slash 4x4 (listed for Stampede 4x4); also RPM arms<br>**Weight:** N/A<br>**Price:** **$9.95** | Pro: **No front bumper on this build — front shocks and arms are exposed. These are essential.** Protects shocks and arms from frontal impacts, including accidental contact with other cars on track. Shields against debris kicked up by the car in front. Keeps grass out of driveshafts. Includes all hardware<br><br>Con: Adds a tiny amount of weight — negligible in practice since it's plastic | <a href="https://www.amazon.com/dp/B00FIIWV9I"><img src="src/suspension_traxxas_arm_guards_tra6732.jpg" width="500"></a> |
 | ⭐ **TRA6733** Rear Arm Guards | **Part:** TRA6733<br>**Material:** Composite<br>**Position:** Rear<br>**Fits:** Slash 4x4 / Jato 4x4 pattern<br>**Weight:** N/A<br>**Price:** **$7.00** | Pro: Same composite construction as front. Shields rear driveline from dirt and rocks being thrown up into it. In stock at HobbyTown<br><br>Con: Adds a tiny amount of weight — negligible in practice since it's plastic | <img src="src/suspension_traxxas_arm_guards_rear_tra6733.jpg" width="500"> |
+
+---
+
+## Price History
+
+| Date | Price | Discount Path | Notes |
+|---|---|---|---|
+| — | **$25.73/pair** ✅ **purchased** | Bulk order — 4 pairs for $102.90 total ($25.725/pair vs $40 list) | FLM direct. 1 of the 4 pairs went to [Mike's Jato 4x4](../Jato4x4_Mike/README.md) (tracked in [`/LEDGER.md`](../../LEDGER.md#mike--running-account), not here); remainder is this build's front (+ spares). |
 
 ---
 
