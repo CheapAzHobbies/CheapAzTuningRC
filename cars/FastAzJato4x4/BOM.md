@@ -30,6 +30,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | **Front gearbox housing** — Traxxas **TRA6881** (clones vetoed — no cheaper than OEM) | To buy | LHS / AMain | $4.00 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Rear gearbox housing** — Traxxas **TRA6880** | To buy | LHS / AMain | $4.00 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **TRA5153 Traxxas Drive Cup** (E-Revo standard, x2 pairs = 4 total) — *now spares, mates the E-Revo 6mm diff only* | **In Hand** | AMain | $16.00 (sunk, gifted) | (drivetrain compatibility — referenced in [`differential_analysis.md`](differential_analysis.md)) |
+| **Spur gear** — Traxxas TRA3956R 54T plastic | To buy | LHS / Traxxas | $3.00 | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
+| **Tekno front stub — TKR1654-17** 17mm M6 hub adapter (set of 2) | To buy | Tekno / AMain | $46.30 | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| **Tekno rear stubs — 5580 + 5070** (both in hand, pending test fit to pick one), order 24-14914-16595 | **In Hand** | eBay — mr-retro | **$34.81** (paid) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| **TRA6752 long output shafts** ×4 — swapped into the knock-off CVDs for the extra length | To buy | LHS / AMain | ~$28.00 (4 × ~$7) | [`driveshaft_analysis.md`](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
 
 ---
 
@@ -55,8 +59,8 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
-| **Generic AliExpress aluminum servo bell crank set** (same family as K939 build) | To buy | AliExpress | ~$10.00 | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
-| **Traxxas TRA3775 Oilite brass bushings (5×8×2.5mm)** — bell-crank pivot upgrade, swap into the aluminum kit in place of ball bearings | **In Hand** (purchased 2025-08-24) | eBay — gottshall5896 | **$7.69** (sunk) | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#price-history) |
+| **GPM aluminum bell crank (6845X)** — comes with brass/oil-sintered bushings, no swap needed | **In Hand** | GPM | **$19.98** (paid) | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
+| **Traxxas TRA3775 Oilite brass bushings (5×8×2.5mm)** — *now spare, the GPM crank already ships with bushings* | **In Hand** (purchased 2025-08-24) | eBay — gottshall5896 | **$7.69** (sunk) | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#price-history) |
 
 ---
 
@@ -82,10 +86,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — ESC, both E-Revo diffs (now spares), servo, drive cups, CF chassis, axle driveshafts, TRA3775 bell-crank bushings, Raptor R Ultimate alloy hubs, **FLM26800 front arms** | **$268** |
-| **To buy — locked spec** — motor, stock Jato 4x4 front + rear diffs, **ProTrac PRO6082-01 rear arms**, shock towers, Apache C1 shocks + springs + pistons + oils, bell crank, center diff + driveshaft, gearbox housings, bumpers, wing + mount | **~$280** |
-| **Still open (no cost yet)** — tie rods, body, pinion, bearing kit | TBD |
-| **Total estimated (locked items)** | **~$548** |
+| **Already in hand / purchased (sunk cost)** — ESC, servo, both E-Revo diffs (now spares), drive cups (now spares), axle driveshafts, **Tekno rear stubs**, FLM26800 front arms, Raptor R Ultimate alloy hubs, **GPM bell crank**, TRA3775 bushings (now spare), CF chassis, wing | **$327** |
+| **To buy — locked spec** — motor, stock Jato 4x4 front + rear diffs, **spur gear**, **Tekno front stub**, **TRA6752 output shafts**, ProTrac PRO6082-01 rear arms, shock towers, Apache C1 shocks + springs + pistons + oils, center diff + driveshaft, gearbox housings, bumpers, wing mount | **~$336** |
+| **Still open (no cost yet)** — tie rods, body, pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
+| **Total estimated (locked items)** | **~$664** |
 
 ---
 
@@ -101,4 +105,4 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 - **Spur:** decided — **TRA3956R 54T** plastic ([`differential_analysis.md`](differential_analysis.md#spur-gear)). **Pinion:** TBD, [reference table](motor_analysis.md#pinion-reference-32p-tbd).
 - **Metal vs plastic shock bodies:** running Apache C1 plastic out of the gate; upgrade to Hot Bodies D8 metal only if body cracks become a recurring problem. See [shock_analysis.md plastic-vs-metal](shock_analysis.md#plastic-vs-metal-body-trade-off).
 
-For everything else (FLM arms, body, etc.) that's still being researched, see the [main README parts list](README.md#parts-list).
+For everything else (body, wheels/tires, pinion, bearing kit, etc.) that's still being researched, see the [main README parts list](README.md#parts-list).
