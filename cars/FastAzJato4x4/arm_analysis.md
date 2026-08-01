@@ -66,7 +66,7 @@ Plastic guards that mount around the arm / drivetrain area. Keep dirt, grass, an
 
 | Date | Price | Discount Path | Notes |
 |---|---|---|---|
-| — | **$25.73/pair** ✅ **purchased** | Bulk order — 4 pairs for $102.90 total ($25.725/pair vs $40 list) | FLM direct. 1 of the 4 pairs went to [Mike's Jato 4x4](../Jato4x4_Mike/README.md) (tracked in [`/LEDGER.md`](../../LEDGER.md#mike--running-account), not here); remainder is this build's front (+ spares). |
+| 2026-07-02 | **$25.73/pair** ✅ **purchased** | **FLM July 1st sale — 25% off** ($30→$22.50/pair before shipping). Bulk order — 4 pairs, $120 subtotal − $30 discount + $12.90 shipping = $102.90 total | Order #4658, direct from FLM. 1 of the 4 pairs went to [Mike's Jato 4x4](../Jato4x4_Mike/README.md) (tracked in [`/LEDGER.md`](../../LEDGER.md#mike--running-account), not here); remainder is this build's front (+ spares). **Annual sale — see [`Deals/flm_july_sale_2026.md`](../../Deals/flm_july_sale_2026.md), check again next July.** |
 
 ---
 

@@ -1,3 +1,16 @@
+# Ledger — CheapAzHobbies
+
+## Outstanding Balances
+
+| Person | Owes Me | Basis | Last Updated |
+|--------|---------|-------|--------------|
+| **Mike** | **≈ $259.30** | $214.82 + $18.75 E-Revo CVD axle set + $25.73 FLM26800 arms (1 of 4 pairs, $102.90 bulk order) | 2026-08-01 |
+| **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
+
+⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
+
+---
+
 # GitHub Instructions for AI Agents
 
 You are working inside a Git repository. Always understand the Git workflow before making changes. The repository remote is connected to GitHub, and your job is to properly manage commits, pushes, pulls, branches, and synchronization.
@@ -12,22 +25,9 @@ git remote -v
 
 ---
 
-# Ledger — CheapAzHobbies
-
 Money tracking: what friends owe me for parts/cars I sell them, and what I order. Kept separate from the per-car build docs so the numbers live in one place.
 
 > **Sign convention (Mike's account) — confirmed:** **negative = Mike owes me more** (he bought/took a part, or I fronted cash); **positive = Mike paying me back** (a payment, or goods like the E-Revo he gave me). Running notes like *"now at: X"* are **settle-up checkpoints** — the balance was reconciled to that number on that line.
-
----
-
-## Outstanding Balances
-
-| Person | Owes Me | Basis | Last Updated |
-|--------|---------|-------|--------------|
-| **Mike** | **≈ $259.30** | $214.82 + $18.75 E-Revo CVD axle set + $25.73 FLM26800 arms (1 of 4 pairs, $102.90 bulk order) | 2026-08-01 |
-| **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
-
-⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags at the bottom of Mike's account.
 
 ---
 
@@ -131,7 +131,7 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 83 | -$94.00 | Non-warranty RMA 3200kv motor 1412 from Castle Creations |
 | | **Checkpoint: -$214.82** | −$120.82 + #83 |
 | 84 | -$18.75 | Knock-off E-Revo CVD 5451R axle set — cut/shortened for Mike's custom Slash axles (Pretty GEM, order 8204620880264866); see [Orders](#orders--what-i-buy) |
-| 85 | -$25.73 | FLM26800 Extended Arms pair — Slash/Jato 4x4 fitment; his share of a **4-pair bulk order, $102.90 total ($25.725/pair)** |
+| 85 | -$25.73 | FLM26800 Extended Arms pair — Slash/Jato 4x4 fitment; his share of a **4-pair bulk order, $102.90 total ($25.725/pair)**, order #4658, 2026-07-02, FLM July 1st sale (25% off) |
 | | **➡️ Current: -$259.30 → Mike owes ≈ $259.30** | −$214.82 + #84 + #85 |
 
 ### Flags to resolve
@@ -177,4 +177,4 @@ My own purchases (parts, cars, supplies).
 | 2026-05-16 | Metal center diff (Traxxas 6780-style, Slash/Hoss/Rustler 4x4) | TangEmpire (order 8211762212584866) | $18.80 | resold to Mike | Sold | At cost to Mike — see Mike's account #81 |
 | 2025-09-23 | E-Revo CVD 5451R (chopped for custom axles) | Pretty GEM (order 8204620880264866) | $18.75 | Mike's Slash custom axles | Purchased | Cut + rejoined to length — see [driveshaft_analysis](cars/FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) — booked to Mike's account #84 |
 | — | M6 × 30 mm 304-SS hex standoff (5 pc) — axle joiner | CLOXY Hardware | $4.36 | Mike's Slash custom axles | Purchased | The hex coupling that joins the two chopped CVD ends |
-| — | FLM26800 Extended Arms — bulk order, 4 pairs (Slash/Jato 4x4 fitment) | FLM | $102.90 ($25.725/pair) | 1 pair → Mike's Jato 4x4 (booked #85); remainder → FastAzJato4x4 / spares | Purchased | Mike's pair booked to his account #85 at $25.73 |
+| 2026-07-02 | FLM26800 Extended Arms — bulk order, 4 pairs (Slash/Jato 4x4 fitment), order #4658 | FLM | $102.90 ($25.725/pair) | 1 pair → Mike's Jato 4x4 (booked #85); remainder → FastAzJato4x4 / spares | Purchased | **FLM July 1st sale, 25% off** — see [`Deals/flm_july_sale_2026.md`](Deals/flm_july_sale_2026.md), check again next July. Mike's pair booked to his account #85 at $25.73 |

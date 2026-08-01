@@ -15,6 +15,7 @@ Single home for all price tracking, coupon codes, and sale events that aren't ti
 | [`servos.md`](servos.md) | Servo deals (PTK, Savox, etc.) — generic parts used across builds |
 | [`escs.md`](escs.md) | ESC deals (Fire Phoenix, Castle, Hobbywing, etc.) |
 | [`castle_creations_memorial_day_2026.md`](castle_creations_memorial_day_2026.md) | Per-sale-event snapshot (Castle Memorial Day 2026) |
+| [`flm_july_sale_2026.md`](flm_july_sale_2026.md) | Per-sale-event snapshot (Fast Lane Machine July 1st sale, 25% off, 2026) |
 
 ---
 
