@@ -130,9 +130,11 @@ Cross-reference for the FastAzJato4x4 pinion decision (currently TBD): the 12T 3
 | 2026-05-19 | LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S (black) | 1 | $15.29 | AliExpress — LIGHT HOUSE 188527 Store |
 | 2026-05-19 | LIGHT HOUSE Aluminum Front Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S (black) | 1 | $14.42 | AliExpress — LIGHT HOUSE 188527 Store |
 | TBD | FLM26800 Extended Arms — **Slash/Jato 4x4 fitment** (pair) | 1 pair | $30 (gifted — Mike owes me, cost forgiven) | [FLM](https://www.fastlanemachine.net/proddetail.php?prod=FLM26800) |
+| TBD | Knock-off E-Revo 1.0 CVD axles — used for the [cut-and-shorten custom axle build](../FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) | 1 set (4) | ~$20 (gifted — Mike owes me, cost forgiven) | AliExpress |
 
 > Both LIGHT HOUSE items shipped on the same order **#8210896333264866** — subtotal $29.71, paid **$24.67** ($5.04 off). Free returns within 90 days.
 > The FLM26800 pair is the same arm/part [chosen for FastAzJato4x4](../FastAzJato4x4/arm_analysis.md) — Mike technically owes for these, but the cost is forgiven, not being collected.
+> The knock-off E-Revo CVD set is the same axle stock used to [cut and shorten custom axles](../FastAzJato4x4/driveshaft_analysis.md#knock-off-e-revo-cvds) for this Jato's [own axle build](#custom-axles-shared-with-fastazjato4x4) — also gifted, cost forgiven.
 
 ---
 
