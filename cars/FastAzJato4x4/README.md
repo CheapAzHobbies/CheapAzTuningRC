@@ -58,7 +58,7 @@ TBD
 | Diffs (front + rear) | Traxxas Jato 4x4 stock (5mm) — back to stock | To buy — E-Revo 1.0 (6mm) now spares — [`differential_analysis.md`](differential_analysis.md) |
 | Axle CVDs | Knock-off Slash 4x4 HD steel CV (5mm) + Tekno M6 stubs | In hand — [`driveshaft_analysis.md`](driveshaft_analysis.md) |
 | Center diff | Stock TRA6814 OEM plastic + 20k wt oil | [`differential_analysis.md`](differential_analysis.md#center-diff) |
-| Center driveshaft | Stock Slash 4x4 alum TRA6855 (215mm) | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
+| Center driveshaft | Jato 4x4 BL-2S take-off shaft (7455), $2.49 — bought instead of TRA6855 | Purchased — [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | Spur gear | TRA3956R 54T plastic | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
 | Pinion | **12T 32P** on a 3200KV (matches Mike's Jato) → **16T 32P** if running a **2400KV** for the same top speed (12 × 3200/2400 = 16) | Lower-KV motor geared taller to the same top end |
 | Diff / gearbox housings | Traxxas plastic — TRA6881 front / TRA6880 rear ($4 ea) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
@@ -84,7 +84,7 @@ TBD
 |-----------|------|-------|
 | Bell crank | GPM aluminum bell crank (6845X), $19.98 | In hand — [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
 | Knuckles + carriers | Traxxas Raptor R Ultimate alloy hubs (EHD, front + rear) | ✅ purchased 2026-07-29 — $68.73, eBay (toysion) — [`hub_carrier_analysis.md`](hub_carrier_analysis.md) |
-| Servo | PTK 9752TG-D Metal High Speed — 1/8 1/10 | In hand — $25.00 |
+| Servo | PTK 9752TG-D Metal High Speed — 1/8 1/10 | In hand — $19.65 (1 of 8 bulk-bought) |
 | Tie rods | TBD — front needs 4mm rod upgrade | see [`arm_analysis.md`](arm_analysis.md) |
 
 ---
@@ -124,7 +124,7 @@ TBD
 | — | Traxxas Jato 4x4 Stock Hex Hubs | Drivetrain | — | — | — | — |
 | 9063/9064/9065 | Traxxas Raptor R Ultimate alloy hubs — EHD front C-hubs + steering blocks + rear stub axle carriers, full set | Steering | $68.73 | eBay (toysion) | Purchased 2026-07-29 | ![](src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg) |
 | — | 7075 Aluminum Front Steering + C Hub & Rear Axle Carriers — Jato 4x4 (MonsterKingz, demoted to fallback/spare) | Steering | $46.80 | eBay (MonsterKingz) | In Hand | ![](src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg) |
-| — | PTK 9752TG-D Metal High Speed Servo — 1/8 1/10, 2S LiPo ready | Steering | $25.00 | Temu | In Hand | — |
+| — | PTK 9752TG-D Metal High Speed Servo — 1/8 1/10, 2S LiPo ready (1 of 8 bulk-bought) | Steering | $19.65 | AliExpress — PTK Servo Store | In Hand | — |
 | 38020343 | Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo (ESC + motor) | Electronics | $127.00 | Hobbywing direct | Purchased 2026-06-25 | — |
 | — | Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — Waterproof, 4S (now spare/fallback) | Electronics | $30.00 | Temu | In Hand | — |
 | — | FlySky FGr4S V2 Receiver — AFHDS3, PWM/PPM/IBUS, IPX4, Bidirectional | Electronics | $28.49 | AliExpress | Considering | — |

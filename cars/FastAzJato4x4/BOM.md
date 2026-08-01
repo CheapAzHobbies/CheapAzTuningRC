@@ -12,7 +12,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 |---|---|---|---|---|
 | **HobbyWing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo** (ESC + motor) | **Purchased** 2026-06-25 | Hobbywing direct | **$127.00** (paid; list $149.99, coupon) | [`esc_analysis.md`](esc_analysis.md) / [`motor_analysis.md`](motor_analysis.md) |
 | **Fire Phoenix XeRun 120A Enhanced (Speed Dragon)** ESC — *now spare/fallback* | **In Hand** | Temu / AliExpress | $30.00 (sunk) | [`esc_analysis.md`](esc_analysis.md) |
-| **PTK 9752TG-D Metal High Speed Servo** | **In Hand** | Temu | $25.00 (sunk) | (existing build pick) |
+| **PTK 9752TG-D Metal High Speed Servo** — 1 of 8 from a bulk order ($157.17 total, order 8211217778334866) | **In Hand** | AliExpress — PTK Servo Store | **$19.65** (paid, bulk rate) | [`servo_analysis.md`](servo_analysis.md) |
 
 ---
 
@@ -25,7 +25,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | **Traxxas E-Revo 1.0 front differential** — *now spares, wrong outdrive* | **In Hand** | — | $0 (sunk) | [`differential_analysis.md`](differential_analysis.md) |
 | **Traxxas E-Revo 1.0 rear differential** — *now spares, wrong outdrive* | **In Hand** | — | $0 (sunk) | [`differential_analysis.md`](differential_analysis.md) |
 | **Stock Traxxas center diff** + **20k wt oil** | To buy from spares / LHS | LHS / Traxxas | ~$15 + $5 oil | [`differential_analysis.md`](differential_analysis.md#center-diff-oil) |
-| **Center driveshaft** — stock Slash 4x4 aluminum **TRA6855** (215mm; *not* the 189mm Rustler TRA6755) | To buy | LHS / AMain | ~$10 | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
+| **Center driveshaft** — Jato 4x4 BL-2S take-off shaft (7455) + pinion gear + bearings, bought instead of TRA6855 | **Purchased** | Jenny's RC | **$2.49** (paid) | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | **Front + Rear axle driveshafts** — Hoss/Rustler/Slash/Stampede 4X4 family (FengS Store), set of 4, order #8211906604054866 | **Purchased** 2026-06-01 | AliExpress — FengS Store | **$21.10** (paid; listed $27.76) | [`driveshaft_analysis.md`](driveshaft_analysis.md#price-history) |
 | **Front gearbox housing** — Traxxas **TRA6881** (clones vetoed — no cheaper than OEM) | To buy | LHS / AMain | $4.00 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Rear gearbox housing** — Traxxas **TRA6880** | To buy | LHS / AMain | $4.00 | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
@@ -86,10 +86,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — **MAX10 G2 + 3665SD G3 combo (ESC+motor)**, Fire Phoenix ESC (now spare), servo, both E-Revo diffs (now spares), drive cups (now spares), axle driveshafts, Tekno rear stubs, Tekno front stub, TRA6752 output shafts, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), CF chassis, wing | **$509** |
-| **To buy — locked spec** — stock Jato 4x4 front + rear diffs, spur gear, ProTrac PRO6082-01 rear arms, shock towers, Apache C1 shocks + springs + pistons + oils, center diff + driveshaft, gearbox housings, bumpers, wing mount | **~$192** |
+| **Already in hand / purchased (sunk cost)** — MAX10 G2 + 3665SD G3 combo (ESC+motor), Fire Phoenix ESC (now spare), servo, both E-Revo diffs (now spares), drive cups (now spares), **center driveshaft (7455)**, axle driveshafts, Tekno rear stubs, Tekno front stub, TRA6752 output shafts, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), CF chassis, wing | **$507** |
+| **To buy — locked spec** — stock Jato 4x4 front + rear diffs, spur gear, ProTrac PRO6082-01 rear arms, shock towers, Apache C1 shocks + springs + pistons + oils, center diff, gearbox housings, bumpers, wing mount | **~$182** |
 | **Still open (no cost yet)** — tie rods, body, pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
-| **Total estimated (locked items)** | **~$701** |
+| **Total estimated (locked items)** | **~$689** |
 
 ---
 
