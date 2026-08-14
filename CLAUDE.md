@@ -262,7 +262,7 @@ When you start a **new part category**, define its field order once (add a short
 - **Gearbox housings:** Material · Part · Weight · Price
 - **Steering bell cranks:** Material · Pivots · Fits · Price
 - **Sway bars:** Part · Bars · Rates · Mounting · Includes · Price
-- **Chassis:** Material · CG · Fits · Includes · Price
+- **Chassis:** Material · CG · Fits · Includes · Weight · Price
 - **Differentials:** Outdrive · Housing · Internals · Part · Fits · Price
 - **Spur gears:** Teeth · Pitch · Material · Fits · Price
 - **Driveshafts (axle):** Type · Part · Diff end · Fits · Price
