@@ -109,6 +109,8 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 The Raptor R hubs run Tekno M6 stubs at both ends (on the 10×18×5 inner bearing, see [`hub_carrier_analysis.md`](hub_carrier_analysis.md#axle--hub-compatibility)). **Front = the TKR1654-17 17mm M6 hub adapter.** **Rear = Tekno TKR5580 — ✅ confirmed a perfect fit** in the rear EHD / Raptor R hubs (the 5070 is much larger, see the row below). Bearings confirmed correct.
 
+> **17 mm hex seat — filing required.** The 17 mm hex hubs have to be shaved to seat on the M6 stubs. A friend's build used the **Traxxas TRA6469 17 mm hex hubs** and **filed until the chamfer was gone** — that's the amount of material to take off.
+
 | Position | Tekno stub | For | Price | Status |
 |---|---|---|---|---|
 | **Front** | **TKR1654-17** — 17mm M6 hub adapter (17mm hex adapters + stub pins + cross pins + 17mm nuts) | Front 17mm M6 setup | **$23.15/pair** — only 1 pair needed | ✅ In hand. Minor 17mm hex filing to seat |
