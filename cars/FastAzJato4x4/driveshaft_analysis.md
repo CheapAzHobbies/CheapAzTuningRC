@@ -2,7 +2,7 @@
 
 > **Chosen: Tekno M6 stub axle build — confirmed by the diff decision (back to stock 5mm diffs).**
 > - **Front: Tekno M6 with 17mm stubs** (XO-1 front hubs, 10×18×5 inner + light filing of the 17mm hexes).
-> - **Rear: Tekno 5580 or 5070 stub.**
+> - **Rear: Tekno TKR5580 stub — ✅ confirmed a perfect fit in the rear EHD / Raptor R hubs.** (Need to order more TKR5580 for the FastAzJato.)
 > - **Axle bodies:** cheap AliExpress CVDs (6852/6851 clones, 5mm diff end) plus genuine **TRA6752 long output shafts** ($8 ea, 4 bought — in hand), swapped in for the extra length. **Sell the OG stubs** to offset cost. See [2WD long CVDs](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 > - **Center driveshaft: Jato 4x4 BL-2S take-off shaft (7455), $2.49 — bought instead of the TRA6855.** Native Jato fitment, bundle includes a pinion + bearings; **confirmed black plastic/composite**, so watch for 4S deformation. TRA6855 (Slash 4x4 aluminum, 215mm) is the upgrade path if it doesn't hold up.
 >
@@ -97,7 +97,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 **Why longer:** the extra ~10mm suits the wider E-Revo-based stance. **Used front and rear** with the Tekno stubs.
 
-> **Leaning axle plan (pending test fit):** **front = Tekno M6 with 17mm stubs** (Raptor R front hub needs a **10×18×5 inner**: the EHD pocket is **18mm OD** — bigger than the XO-1's — and the inner drops from the stock **12mm ID to 10mm** for the Tekno stub. **5mm thick, not 4mm** — a 10×18×4 isn't a standard/cheap bearing, 10×18×5 is off-the-shelf), **rear = Tekno 5580 (SCT410) or 5070 (EB48 buggy) stub**. To be confirmed with a test fit.
+> **Leaning axle plan (pending test fit):** **front = Tekno M6 with 17mm stubs** (Raptor R front hub needs a **10×18×5 inner**: the EHD pocket is **18mm OD** — bigger than the XO-1's — and the inner drops from the stock **12mm ID to 10mm** for the Tekno stub. **5mm thick, not 4mm** — a 10×18×4 isn't a standard/cheap bearing, 10×18×5 is off-the-shelf), **rear = Tekno TKR5580 (SCT410) stub — ✅ confirmed a perfect fit** in the rear EHD / Raptor R hubs (5070 was the alt, no longer needed).
 
 <p align="center"><img src="src/drivetrain_jato_axle_comparison_10mm_longer.jpg" width="440"><br><em>Knock-off CVD + rear CVD parts, with the two 10mm-longer bare axles (top right) next to the originals.</em></p>
 
@@ -107,13 +107,13 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 ## Tekno stubs (front + rear)
 
-The Raptor R hubs run Tekno M6 stubs at both ends (on the 10×18×5 inner bearing, see [`hub_carrier_analysis.md`](hub_carrier_analysis.md#axle--hub-compatibility)). **Front = the TKR1654-17 17mm M6 hub adapter.** **Rear = one of two Tekno stub axles (5580 or 5070), pending test fit.** Bearings confirmed correct; the open question is the 17mm hex seat.
+The Raptor R hubs run Tekno M6 stubs at both ends (on the 10×18×5 inner bearing, see [`hub_carrier_analysis.md`](hub_carrier_analysis.md#axle--hub-compatibility)). **Front = the TKR1654-17 17mm M6 hub adapter.** **Rear = Tekno TKR5580 — ✅ confirmed a perfect fit** in the rear EHD / Raptor R hubs (the 5070 is much larger, see the row below). Bearings confirmed correct.
 
 | Position | Tekno stub | For | Price | Status |
 |---|---|---|---|---|
 | **Front** | **TKR1654-17** — 17mm M6 hub adapter (17mm hex adapters + stub pins + cross pins + 17mm nuts) | Front 17mm M6 setup | **$23.15/pair** — only 1 pair needed | ✅ In hand. Minor 17mm hex filing to seat |
-| **Rear** | **Tekno 5580** — stub for adapter TKR5570-17 / SCT410 | Rear 17mm hex setup | $16.90 | In hand. **Likely long enough** for the Raptor R rear |
-| **Rear** | **Tekno 5070** — hardened steel, EB48 (buggy) | Rear stub alt | $17.91 | In hand. **May also fit** the Raptor R rear |
+| **Rear** | **Tekno TKR5580** — stub for adapter TKR5570-17 / SCT410 | Rear 17mm hex setup | $16.90 | ✅ **Confirmed — fits perfectly** in the rear EHD / Raptor R hubs (6 mm M6 end, 10 mm bearing seat → 10×18×5). 🚧 **Order more TKR5580 for the FastAzJato** |
+| **Rear** | **Tekno 5070** — hardened steel, EB48 (buggy) | Rear stub alt | $17.91 | **Much larger** — **8 mm stub end** (vs 6 mm on the 5580) + **~12 mm bearing seat** (vs 10 mm), so it'd need a **12 mm ID inner** (possibly the stock bearing), not the 10×18×5. Not the pick — 5580 is confirmed |
 
 <p align="center"><img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="250">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="250">&nbsp;<img src="src/drivetrain_tekno_5070_stub_axle.jpg" width="250"><br><em>Front: TKR1654-17 17mm M6 adapter · Rear: Tekno 5580 (TKR5570-17 / SCT410) · Tekno 5070 (EB48)</em></p>
 
