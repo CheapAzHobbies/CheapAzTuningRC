@@ -71,6 +71,26 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 **The build:** buy cheap **AliExpress CVD-style driveshafts** (the 6852/6851 front + rear clone combo), and swap in **four TRA6752 long output shafts at $8 each** (✅ bought, in hand). Replace the stubs with the **Tekno stubs** front and rear. Result is a long, strong axle set for far less than genuine **1951R** sets. **Sell the OG stubs** that came with the axles for good money to offset the cost.
 
+### Build cost (set of 4 axles)
+
+| Part | Qty | Cost |
+|---|---|---|
+| Knock-off Slash 4×4 HD steel CV bodies | set of 4 | $21.10 |
+| Traxxas 6752 long output shaft | 4 × $8 | $32.00 |
+| Tekno TKR1654-17 — front 17 mm M6 adapter | 1 pair | $23.15 |
+| Tekno 5580 — rear stub | 1 pair | $16.90 |
+| **Gross parts total** | | **≈ $93.15** |
+
+**Offset — sell the leftover OG bits** swapped out during the build (estimates):
+
+| Sold | Est. resale |
+|---|---|
+| OG stubs (4, replaced by the Tekno stubs) | ~$12–20 |
+| Shorter OG output shafts (4, replaced by the 6752 long shafts) | ~$8–16 |
+| **Est. offset** | **~$20–36** |
+
+**Estimated net ≈ $57–73 per set of 4** (gross − resale). Not counted: the **10×18×5 front bearing pair** (~$3–5, a hub part). For reference a genuine set is **$69.95 for only two** TRA6851R — this makes a full set of **4**, longer *and* stronger with the M6 stubs.
+
 <p align="center"><img src="src/drivetrain_traxxas_2wd_rear_cvd_1951r.jpg" width="360"><br><em>Traxxas 1951R — 2WD rear steel CVDs (~10mm longer than the 6852R/6851R). This is the length we're after.</em></p>
 
 <p align="center"><img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="330">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6750_short.jpg" width="330"><br><em>TRA6752 (long, the 1951R length) · TRA6750 (short). Same everywhere else; the output shaft sets the length.</em></p>
