@@ -4,7 +4,7 @@
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $259.30** | $214.82 + $18.75 E-Revo CVD axle set + $25.73 FLM26800 arms (1 of 4 pairs, $102.90 bulk order) | 2026-08-01 |
+| **Mike** | **≈ $271.28** | $259.30 + $11.98 (2× M4×60 Ti turnbuckle); **+ pending** 4× Traxxas 6752 driveshaft (cost TBD) | 2026-08-14 |
 | **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
@@ -132,7 +132,9 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | | **Checkpoint: -$214.82** | −$120.82 + #83 |
 | 84 | -$18.75 | Knock-off E-Revo CVD 5451R axle set — cut/shortened for Mike's custom Slash axles (Pretty GEM, order 8204620880264866); see [Orders](#orders--what-i-buy) |
 | 85 | -$25.73 | FLM26800 Extended Arms pair — Slash/Jato 4x4 fitment; his share of a **4-pair bulk order, $102.90 total ($25.725/pair)**, order #4658, 2026-07-02, FLM July 1st sale (25% off) |
-| | **➡️ Current: -$259.30 → Mike owes ≈ $259.30** | −$214.82 + #84 + #85 |
+| 86 | -$11.98 | 2× M4×60 titanium turnbuckle (ACER Racing, $5.99 ea; order #581093, 2026-07-19) |
+| 87 | -$??? | 4× Traxxas 6752 long male side driveshaft — ⚠️ **cost pending** |
+| | **➡️ Current: -$271.28 → Mike owes ≈ $271.28** | −$259.30 + #86 (6752 #87 cost pending) |
 
 ### Flags to resolve
 
@@ -178,3 +180,4 @@ My own purchases (parts, cars, supplies).
 | 2025-09-23 | E-Revo CVD 5451R (chopped for custom axles) | Pretty GEM (order 8204620880264866) | $18.75 | Mike's Slash custom axles | Purchased | Cut + rejoined to length — see [driveshaft_analysis](cars/FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) — booked to Mike's account #84 |
 | — | M6 × 30 mm 304-SS hex standoff (5 pc) — axle joiner | CLOXY Hardware | $4.36 | Mike's Slash custom axles | Purchased | The hex coupling that joins the two chopped CVD ends |
 | 2026-07-02 | FLM26800 Extended Arms — bulk order, 4 pairs (Slash/Jato 4x4 fitment), order #4658 | FLM | $102.90 ($25.725/pair) | 1 pair → Mike's Jato 4x4 (booked #85); remainder → FastAzJato4x4 / spares | Purchased | **FLM July 1st sale, 25% off** — see [`Deals/flm_july_sale_2026.md`](Deals/flm_july_sale_2026.md), check again next July. Mike's pair booked to his account #85 at $25.73 |
+| 2026-07-19 | ACER titanium turnbuckles — 4× M5×64 ($7.99 ea) + 2× M4×60 ($5.99 ea) | ACER Racing (order #581093) | $41.75 (GR40 −$2.19, free ship) | 4× M5×64 → my build (car TBD); 2× M4×60 → resold to Mike | Purchased | 2× M4×60 booked to Mike's account #86 |
