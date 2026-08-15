@@ -46,6 +46,9 @@
 
 > *Spec format: Type · Part · Diff end · Fits · Price*
 
+> ⚠️ **The chosen axle is a COMBO, not a single row.** This table ranks the **axle body** (⭐ knock-off Slash 4x4 CV), but the final build is an assembly of parts — **don't read the ⭐ as "just run the cheap AliExpress axle."** The real winner (= the [hero image](#steering-blocks-c-hubs--hub-carriers--fastazjato4x4)) is:
+> **knock-off CV body** ($21.10) **+ TRA6752 long output shafts** (for length, $8 ea) **+ Tekno M6 stubs** (front **TKR1654-17**, rear **TKR5580**). Full assembly in [2WD long CVDs + 6752](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) and [Tekno stubs](#tekno-stubs-front--rear). Center shaft is separate (Jato 4x4 BL-2S 7455).
+
 | Driveshaft | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **Knock-off Slash 4x4 HD Steel CV** — ✅ *purchased* | **Type:** CV knock-off of TRA6851R<br>**Part:** N/A (generic)<br>**Diff end:** **5mm**<br>**Fits:** Slash 4x4 pattern (5mm cups)<br>**Price:** **$21.10 paid** (purchased 2026-06-01, see [Price History](#price-history)) | Pro: **Chosen and already in hand — matches the stock Jato 4x4 diff (5mm) we went back to.** Full set of 4 for $21.10 — vs $69.95 for just two genuine TRA6851R axles. Same steel-CV design and smooth feel. **The Tekno M6 stub end fits these**, so they run with the strong M6 stubs (no cut-and-glue)<br><br>Con: **May be too short for the extended FLM arms (101.6 mm)** — stock-arm length, verify at test-fit. QC varies on paper | <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="500"> |
