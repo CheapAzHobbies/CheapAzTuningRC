@@ -4,7 +4,7 @@
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $279.28** | $259.30 + $11.98 (2× M4×60 Ti turnbuckle) + $8.00 (4× Traxxas 6752 driveshaft) | 2026-08-15 |
+| **Mike** | **≈ $303.28** | $259.30 + $11.98 (2× M4×60 Ti turnbuckle) + $32.00 (4× Traxxas 6752 @ $8 ea) | 2026-08-15 |
 | **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
@@ -133,8 +133,8 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 84 | -$18.75 | Knock-off E-Revo CVD 5451R axle set — cut/shortened for Mike's custom Slash axles (Pretty GEM, order 8204620880264866); see [Orders](#orders--what-i-buy) |
 | 85 | -$25.73 | FLM26800 Extended Arms pair — Slash/Jato 4x4 fitment; his share of a **4-pair bulk order, $102.90 total ($25.725/pair)**, order #4658, 2026-07-02, FLM July 1st sale (25% off) |
 | 86 | -$11.98 | 2× M4×60 titanium turnbuckle (ACER Racing, $5.99 ea; order #581093, 2026-07-19) |
-| 87 | -$8.00 | 4× Traxxas 6752 long male side driveshaft |
-| | **➡️ Current: -$279.28 → Mike owes ≈ $279.28** | −$259.30 + #86 + #87 |
+| 87 | -$32.00 | 4× Traxxas 6752 long output shaft ($8 ea) |
+| | **➡️ Current: -$303.28 → Mike owes ≈ $303.28** | −$259.30 + #86 + #87 |
 
 ### Flags to resolve
 
