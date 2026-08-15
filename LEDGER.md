@@ -4,8 +4,8 @@
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $303.28** | $259.30 + $11.98 (2× M4×60 Ti turnbuckle) + $32.00 (4× Traxxas 6752 @ $8 ea) | 2026-08-15 |
-| **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
+| **Mike** | **≈ $173.28** | $303.28 − $130 cash payment (2026-08-15) | 2026-08-15 |
+| **Henry** | **−$5.01 (I owe him)** | $34.99 owed − $40 payment = **$5.01 overpaid** | 2026-08-15 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
 
@@ -135,6 +135,8 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 86 | -$11.98 | 2× M4×60 titanium turnbuckle (ACER Racing, $5.99 ea; order #581093, 2026-07-19) |
 | 87 | -$32.00 | 4× Traxxas 6752 long output shaft ($8 ea) |
 | | **➡️ Current: -$303.28 → Mike owes ≈ $303.28** | −$259.30 + #86 + #87 |
+| 88 | +$130.00 | Payment — cash. Part of **$170 cash handed over**; the other **$40 was Henry's repayment** (booked to Henry's account) |
+| | **➡️ Current: -$173.28 → Mike owes ≈ $173.28** | −$303.28 + #88 |
 
 ### Flags to resolve
 
@@ -154,6 +156,8 @@ Chronological, top = oldest. Same sign convention as Mike (negative = Henry owes
 | 1 | -$234.99 | Castle (ESC) |
 | 2 | +$200.00 | Payment — payback for ESC |
 | | **Current: -$34.99 → Henry owes ≈ $35** | −$234.99 + $200 |
+| 3 | +$40.00 | Payment — cash, handed over via Mike (2026-08-15) |
+| | **Current: +$5.01 → I owe Henry ≈ $5 (overpaid $40 vs a $34.99 balance)** | −$34.99 + $40 |
 
 > **Flag:** Mike's account line 18 (`-$5.00 GTR XXL shock shaft (Henry)`) is tagged Henry but booked to Mike. Confirm whether that $5 should move to Henry's account.
 
@@ -166,6 +170,8 @@ Log payments here as they come in, then update Mike's account + Outstanding Bala
 | Date | From | Amount | Method | Against (item / "balance") |
 |------|------|--------|--------|----------------------------|
 | 2026-06-13 | Mike | $50.00 | Zelle | balance |
+| 2026-08-15 | Mike | $130.00 | Cash | balance (part of $170 handed over; $40 of it was Henry's) |
+| 2026-08-15 | Henry | $40.00 | Cash (via Mike) | balance — clears his ~$35, ~$5 overpaid |
 
 ---
 
