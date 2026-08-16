@@ -45,6 +45,7 @@ TBD
 | Shocks | HPI Apache C1 / Wltoys A929 plastic 97mm big bore (front + rear) | Metal HB B8/D8 = runner-up — [`shock_analysis.md`](shock_analysis.md) |
 | Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 50-60wt R | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | Arms | FLM26800 extended (front) + ProTrac PRO6082-01 (rear) | Front purchased $25.73 (bulk order) — [`arm_analysis.md`](arm_analysis.md) |
+| Shock standoffs | HB Racing HBS67410 (or force-fit Traxxas hollow balls on the plastic HPI shocks) | ✅ purchased $3.99/pr — [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
 | Shock towers | Jato stock #9033 front + Slash 4x4 Extreme HD TRA9039 rear (Meelobee) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | Arm guards | TRA6732 front + TRA6733 rear | [`arm_analysis.md`](arm_analysis.md#shock-guards) |
 | Swaybars | None | Track works better without them — [`swaybar_analysis.md`](swaybar_analysis.md) |

@@ -22,6 +22,7 @@
 - [Key Requirements](#key-requirements)
 - [Shock Comparison](#shock-comparison) — body / brand options
 - [Replacement Parts (shock bodies)](#replacement-parts-shock-bodies) — spare HB 67435 bodies
+- [Shock Standoffs / Mounting](#shock-standoffs--mounting) — HB HBS67410, or force-fit hollow balls on the plastic shocks
 - [Setup Spec (Springs / Pistons / Oil)](#setup-spec-springs--pistons--oil)
 - [Plastic vs Metal Body Trade-off](#plastic-vs-metal-body-trade-off)
 - [Notes](#notes)
@@ -66,6 +67,16 @@ Spares to keep on hand for when an Apache C1 shock body gets destroyed in a cras
 | **Hot Bodies 67437** — Big Bore Shock Bottom Cap | O-ring sealed threaded **bottom caps, 2-pack** (Vorza / D8S big bore), **pink anodized** | Apache C1 / HB D8 big-bore shocks | <img src="src/suspension_hb_shock_bottom_cap_67437.jpg" width="250"> |
 
 > **Bonus:** because the 67435 bodies are aluminum, replacing a cracked plastic Apache C1 body with these effectively does the [metal-body upgrade](#plastic-vs-metal-body-trade-off) one shock at a time — no need to buy whole D8s.
+
+### Shock Standoffs / Mounting
+
+The standoff is the pivot post the shock eyelet rides on where the shock bolts to the tower and arm.
+
+| Part | Spec | Fits | Photo |
+|---|---|---|---|
+| ⭐ **HB Racing Shock Standoff (2)** — **HBS67410**, ✅ **purchased 2026-08-16** ($3.99/pair, bought 2 packs) | Molded shock standoffs, 2 per pack | Hot Bodies D8 / B8 + Apache C1 big-bore shocks | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="250"><br>🚧 save as `src/suspension_hb_shock_standoff_hbs67410.jpg` |
+
+> **Plastic (HPI Apache C1) alternative — free:** on the plastic HPI shocks you can skip the HB standoff and **force a Traxxas hollow ball straight into the shock eyelet** — the same [hollow balls used in the tie rod ends](tie_rod_analysis.md#pivot-balls). It press-fits and holds; tested, it works. So HBS67410 is the tidy option for the metal D8 / B8 path, while the plastic path can reuse the hollow balls already on hand.
 
 ---
 

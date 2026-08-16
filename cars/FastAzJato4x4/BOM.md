@@ -46,6 +46,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | **Traxxas #9033 — stock composite front shock tower** | To buy (or pull from spares) | LHS / Traxxas / AMain | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | **Traxxas Slash 4x4 Extreme HD rear shock tower (TRA9039)** — via Meelobee technique | To buy | LHS / AMain | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) (aero cascade resolved) |
 | **HPI Apache C1 97mm big-bore shocks (#107365)** — front + rear set | To buy (4× shocks, 2 pairs) | Amazon / Hobby-Sports | $39.98 (2 pairs × $19.99) | [`shock_analysis.md`](shock_analysis.md) |
+| **HB Racing Shock Standoff (HBS67410)** — pivot standoffs (2 packs); plastic HPI shocks can force-fit Traxxas hollow balls instead | **Purchased** 2026-08-16 | AMain | **$3.99/pair** | [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
 | **Hot Bodies HB67454 white 59gf 76mm springs** — front | To buy | eBay / power_hobby | ~$11.75 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Hot Bodies HB67453 grey 52gf 76mm springs** — rear | To buy | eBay / power_hobby | $11.75 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **1.4mm × 6 hole shock pistons** (Apache C1 / D8 compatible) — 4 sets | To buy | LHS | ~$10 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
@@ -88,10 +89,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — MAX10 G2 + 3665SD G3 combo (ESC+motor), Fire Phoenix ESC (now spare), servo, both E-Revo diffs (now spares), drive cups (now spares), **center driveshaft (7455)**, axle driveshafts, Tekno rear stubs, Tekno front stub, TRA6752 output shafts, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), **ACER titanium M4x60 turnbuckles (all 6 links + spares)**, CF chassis, wing | **$567** |
+| **Already in hand / purchased (sunk cost)** — MAX10 G2 + 3665SD G3 combo (ESC+motor), Fire Phoenix ESC (now spare), servo, both E-Revo diffs (now spares), drive cups (now spares), **center driveshaft (7455)**, axle driveshafts, Tekno rear stubs, Tekno front stub, TRA6752 output shafts, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), **ACER titanium M4x60 turnbuckles (all 6 links + spares)**, **HB HBS67410 shock standoffs (2 packs)**, CF chassis, wing | **$575** |
 | **To buy — locked spec** — stock Jato 4x4 front + rear diffs, spur gear, ProTrac PRO6082-01 rear arms, shock towers, Apache C1 shocks + springs + pistons + oils, center diff, gearbox housings, bumpers, wing mount | **~$182** |
 | **Still open (no cost yet)** — body, pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
-| **Total estimated (locked items)** | **~$749** |
+| **Total estimated (locked items)** | **~$757** |
 
 ---
 
