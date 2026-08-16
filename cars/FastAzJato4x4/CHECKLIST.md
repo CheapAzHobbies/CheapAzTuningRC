@@ -21,7 +21,6 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Swaybars** — **decided: none** (track works better without them) — `swaybar_analysis.md`
 - [x] **Bearings** — reference list of sizes + locations, not a tuning call — `bearings_reference.md`
 - [x] **Steering knuckles / C-hubs + rear axle carriers** — Traxxas Raptor R Ultimate alloy purchased — `hub_carrier_analysis.md`
-- [x] **Wheel hex hubs** — TRA6469 17mm splined aluminum, shaved to fit both Tekno stubs — `driveshaft_analysis.md#tekno-stubs-front--rear`
 
 ---
 
@@ -39,6 +38,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 
 ### Wheels & tires
 - [ ] **Wheels + tires** — biggest single gap. **Plan: Traxxas Jato 4x4 VXL rims (17 mm hex, 3.0") + RedSpider tires**, same setup as [Mike's Jato](../Jato4x4_Mike/README.md#wheels--tires).
+- [ ] **Wheel hex hubs** — leaning Tekno OEM 17mm hex (from TKR1654-17 kit, pin-through); TRA6469 alt in hand (5.9g) but not yet chosen — `driveshaft_analysis.md#tekno-stubs-front--rear`
 
 ### Drivetrain
 - [ ] **Pinion gear / final drive ratio** — gearing for the chosen motor/KV (spur already covered in the diff doc)
