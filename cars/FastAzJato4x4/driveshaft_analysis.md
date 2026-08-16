@@ -1,10 +1,11 @@
 # Driveshaft Selection — FastAzJato4x4
 
 > **Chosen: Tekno M6 stub axle build — confirmed by the diff decision (back to stock 5mm diffs).**
-> - **Front: Tekno M6 with 17mm stubs** (XO-1 front hubs, 10×18×5 inner + light filing of the 17mm hexes).
-> - **Rear: Tekno TKR5580 stub — ✅ confirmed a perfect fit in the rear EHD / Raptor R hubs.** (Need to order more TKR5580 for the FastAzJato.)
-> - **Axle bodies:** cheap AliExpress CVDs (6852/6851 clones, 5mm diff end) plus genuine **TRA6752 long output shafts** ($8 ea, 4 bought — in hand), swapped in for the extra length. **Sell the OG stubs** to offset cost. See [2WD long CVDs](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
-> - **Center driveshaft: Jato 4x4 BL-2S take-off shaft (7455), $2.49 — bought instead of the TRA6855.** Native Jato fitment, bundle includes a pinion + bearings; **confirmed black plastic/composite**, so watch for 4S deformation. TRA6855 (Slash 4x4 aluminum, 215mm) is the upgrade path if it doesn't hold up.
+> - **Front: Tekno M6 with 17mm stubs** — on the **Traxxas Raptor R Ultimate alloy hubs** (EHD, part 9063/9064/9065), which take the larger **10×18×5 inner bearing** + light filing of the **Tekno 17mm hexes**. *(Note: the GPM XO-1 front hub only takes a 10×15×4 — the Raptor R EHD hub is what allows the bigger 10×18×5.)*
+> - **Alternative front: Tekno SCT410 stub + the TKR5570-17 17mm hex** — that hex has a star profile that seats **stock Traxxas wheels** (their star pattern won't fit a standard 17mm hex without cutting the rim out or swapping the hex). **Not the pick — this build runs the Tekno M6 hexes instead.**
+> - **Rear: Tekno TKR5580 stub — ✅ confirmed a perfect fit in the rear EHD / Raptor R hubs.** (The full TKR5570-17 stub kit — which ships with the Traxxas-rim-compatible 17mm hex — also works; using the M6 hexes here too.) **Need to order more TKR5580 for the FastAzJato.**
+> - **Axle bodies:** the full 4-set of cheap **AliExpress CVDs** (6852/6851 clones, 5mm diff end) plus genuine **TRA6752 long output shafts** ($8 ea, 4 bought — in hand), swapped in for the extra length. **Sell the OG stubs** to offset cost. See [2WD long CVDs](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
+> - **Center driveshaft: Jato 4x4 BL-2S take-off shaft (7455), $2.49 — bought instead of the TRA6855.** Native Jato fitment, bundle includes a pinion + bearings.
 >
 > **Now a fallback (spares):** E-Revo 1.0 CVDs chopped to fit (keyed sleeve + Loctite 680) in the [comparison](#axle-wheel-driveshaft-comparison) — only relevant again if the diff plan moves back to the E-Revo 1.0 (6mm).
 
