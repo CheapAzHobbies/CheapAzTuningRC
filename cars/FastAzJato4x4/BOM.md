@@ -61,6 +61,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 |---|---|---|---|---|
 | **GPM aluminum bell crank (6845X)** — comes with brass/oil-sintered bushings, no swap needed | **In Hand** | GPM | **$19.98** (paid) | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
 | **Traxxas TRA3775 Oilite brass bushings (5×8×2.5mm)** — *now spare, the GPM crank already ships with bushings* | **In Hand** (purchased 2025-08-24) | eBay — gottshall5896 | **$7.69** (sunk) | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#price-history) |
+| **ACER Racing Titanium M4x60 turnbuckles** (10-pack) — covers all 6 links (front tie rods + front/rear camber links) + 4 spares | **Purchased** 2026-08-16 | ACER Racing | **$59.90** (paid; $5.99 ea) | [`tie_rod_analysis.md`](tie_rod_analysis.md#price-history) |
 
 ---
 
@@ -86,10 +87,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)** — MAX10 G2 + 3665SD G3 combo (ESC+motor), Fire Phoenix ESC (now spare), servo, both E-Revo diffs (now spares), drive cups (now spares), **center driveshaft (7455)**, axle driveshafts, Tekno rear stubs, Tekno front stub, TRA6752 output shafts, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), CF chassis, wing | **$507** |
+| **Already in hand / purchased (sunk cost)** — MAX10 G2 + 3665SD G3 combo (ESC+motor), Fire Phoenix ESC (now spare), servo, both E-Revo diffs (now spares), drive cups (now spares), **center driveshaft (7455)**, axle driveshafts, Tekno rear stubs, Tekno front stub, TRA6752 output shafts, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), **ACER titanium M4x60 turnbuckles (all 6 links + spares)**, CF chassis, wing | **$567** |
 | **To buy — locked spec** — stock Jato 4x4 front + rear diffs, spur gear, ProTrac PRO6082-01 rear arms, shock towers, Apache C1 shocks + springs + pistons + oils, center diff, gearbox housings, bumpers, wing mount | **~$182** |
-| **Still open (no cost yet)** — tie rods, body, pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
-| **Total estimated (locked items)** | **~$689** |
+| **Still open (no cost yet)** — body, pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
+| **Total estimated (locked items)** | **~$749** |
 
 ---
 

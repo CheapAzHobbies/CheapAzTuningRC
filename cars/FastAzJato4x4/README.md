@@ -85,7 +85,7 @@ TBD
 | Bell crank | GPM aluminum bell crank (6845X), $19.98 | In hand — [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
 | Knuckles + carriers | Traxxas Raptor R Ultimate alloy hubs (EHD, front + rear) | ✅ purchased 2026-07-29 — $68.73, eBay (toysion) — [`hub_carrier_analysis.md`](hub_carrier_analysis.md) |
 | Servo | PTK 9752TG-D Metal High Speed — 1/8 1/10 | In hand — $19.65 (1 of 8 bulk-bought) |
-| Tie rods + camber links | Front: 4mm steel turnbuckles (TBD) · Rear: stock M3 Jato 3.3 steel (in hand) | [`tie_rod_analysis.md`](tie_rod_analysis.md) |
+| Tie rods + camber links | ACER Racing Titanium M4x60 turnbuckles (10-pack) — all 6 links, ~61mm | ✅ purchased $59.90 — [`tie_rod_analysis.md`](tie_rod_analysis.md) |
 
 ---
 
@@ -125,6 +125,7 @@ TBD
 | 9063/9064/9065 | Traxxas Raptor R Ultimate alloy hubs — EHD front C-hubs + steering blocks + rear stub axle carriers, full set | Steering | $68.73 | eBay (toysion) | Purchased 2026-07-29 | ![](src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg) |
 | — | 7075 Aluminum Front Steering + C Hub & Rear Axle Carriers — Jato 4x4 (MonsterKingz, demoted to fallback/spare) | Steering | $46.80 | eBay (MonsterKingz) | In Hand | ![](src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg) |
 | — | PTK 9752TG-D Metal High Speed Servo — 1/8 1/10, 2S LiPo ready (1 of 8 bulk-bought) | Steering | $19.65 | AliExpress — PTK Servo Store | In Hand | — |
+| — | ACER Racing Titanium M4x60 Turnbuckles (10-pack) — all 6 tie rods + camber links, ~61mm, + 4 spares | Steering | $59.90 | ACER Racing | Purchased 2026-08-16 | ![](src/steering_acer_titanium_turnbuckle_m4x60.jpg) |
 | 38020343 | Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo (ESC + motor) | Electronics | $127.00 | Hobbywing direct | Purchased 2026-06-25 | — |
 | — | Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — Waterproof, 4S (now spare/fallback) | Electronics | $30.00 | Temu | In Hand | — |
 | — | FlySky FGr4S V2 Receiver — AFHDS3, PWM/PPM/IBUS, IPX4, Bidirectional | Electronics | $28.49 | AliExpress | Considering | — |
