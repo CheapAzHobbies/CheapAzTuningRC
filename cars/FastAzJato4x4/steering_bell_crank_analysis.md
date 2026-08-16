@@ -8,6 +8,7 @@
 
 - [Key Requirements](#key-requirements)
 - [Bell Crank Comparison](#bell-crank-comparison)
+- [Servo Horn + Servo-to-Bellcrank Link](#servo-horn--servo-to-bellcrank-link)
 - [Price History](#price-history)
 - [Notes](#notes)
 
@@ -39,6 +40,14 @@
 
 ---
 
+## Servo Horn + Servo-to-Bellcrank Link
+
+> **Chosen: GPM RUS416026ST-S — in hand, running this.** Spring-steel tie rod (turnbuckle-style, adjustable) + 25T aluminum servo horn, 6pc set (silver), **8.0g measured**. This is the link between the servo horn and the bell crank, not the front steering tie rods (still TBD, see below).
+
+<p align="center"><img src="src/steering_gpm_servo_horn_link_rus416026st-s_weight.jpg" width="500"><br><em>GPM RUS416026ST-S — spring steel tie rod + 25T aluminum servo horn, 8.0g</em></p>
+
+---
+
 ## Price History
 
 ### Traxxas TRA3775 Oilite bushings (5×8×2.5mm)
@@ -56,4 +65,5 @@
 - **The servo matters more than the crank.** A good metal-gear servo does more for steering than any bell crank upgrade. Alloy crank + decent servo is the sweet spot.
 - **Use bushings, not ball bearings, at the pivots.** The crank only swings a little back and forth, it doesn't spin. Ball bearings under that tiny motion dig pits into themselves, go notchy, and start chewing up the steering post. Brass "oilite" bushings just slide and self-oil, so they last and protect the post. **GPM and Integy come with the bushings already.** On the AliExpress or Enron, swap the bearings for **Traxxas TRA3775** bushings (5×8×2.5mm).
 - **Skip the servo saver.** The stock one is weak, and the alloy crank fuses it solid over time anyway. The JX / PTK servos take crash hits fine, so run without it (see [`servo_analysis.md`](servo_analysis.md#notes)).
-- **Linkages / tie rods:** stock plastic is fine; alloy just adds weight. Not covered here.
+- **Servo-to-bellcrank link:** covered above — GPM RUS416026ST-S (spring steel tie rod + 25T aluminum servo horn), chosen and in hand.
+- **Front steering tie rods:** stock plastic is fine; alloy just adds weight. Still TBD — see [`arm_analysis.md`](arm_analysis.md) (front needs a 4mm rod upgrade). Not covered here.
