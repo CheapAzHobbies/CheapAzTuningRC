@@ -85,7 +85,7 @@ TBD
 | Bell crank | GPM aluminum bell crank (6845X), $19.98 | In hand — [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
 | Knuckles + carriers | Traxxas Raptor R Ultimate alloy hubs (EHD, front + rear) | ✅ purchased 2026-07-29 — $68.73, eBay (toysion) — [`hub_carrier_analysis.md`](hub_carrier_analysis.md) |
 | Servo | PTK 9752TG-D Metal High Speed — 1/8 1/10 | In hand — $19.65 (1 of 8 bulk-bought) |
-| Tie rods | TBD — front needs 4mm rod upgrade | see [`arm_analysis.md`](arm_analysis.md) |
+| Tie rods + camber links | Front: 4mm steel turnbuckles (TBD) · Rear: stock M3 Jato 3.3 steel (in hand) | [`tie_rod_analysis.md`](tie_rod_analysis.md) |
 
 ---
 

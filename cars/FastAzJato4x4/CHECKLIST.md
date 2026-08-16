@@ -21,6 +21,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Swaybars** — **decided: none** (track works better without them) — `swaybar_analysis.md`
 - [x] **Bearings** — reference list of sizes + locations, not a tuning call — `bearings_reference.md`
 - [x] **Steering knuckles / C-hubs + rear axle carriers** — Traxxas Raptor R Ultimate alloy purchased — `hub_carrier_analysis.md`
+- [x] **Tie rods + camber links** — front 4mm steel turnbuckles (TBD, ~stock+10mm), rear stock M3 Jato 3.3 steel (in hand) — `tie_rod_analysis.md`
 
 ---
 
@@ -34,7 +35,6 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 
 ### Steering & front end
 - [ ] **Servos** — PTK 9752TG-D is In Hand; write it up + alternatives, BEC/voltage needs, speed vs torque
-- [ ] **Tie rods / turnbuckles** — pull in the **4mm front-rod upgrade** note from `arm_analysis.md`; front snaps stock rods on hard hits *(the fun one)*
 
 ### Wheels & tires
 - [ ] **Wheels + tires** — biggest single gap. **Plan: Traxxas Jato 4x4 VXL rims (17 mm hex, 3.0") + RedSpider tires**, same setup as [Mike's Jato](../Jato4x4_Mike/README.md#wheels--tires).
