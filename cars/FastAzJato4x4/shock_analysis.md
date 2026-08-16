@@ -74,7 +74,7 @@ The standoff is the pivot post the shock eyelet rides on where the shock bolts t
 
 | Part | Spec | Fits | Photo |
 |---|---|---|---|
-| ⭐ **HB Racing Shock Standoff (2)** — **HBS67410**, ✅ **purchased 2026-08-16** ($3.99/pair, bought 2 packs) | Molded shock standoffs, 2 per pack | Hot Bodies D8 / B8 + Apache C1 big-bore shocks | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="250"><br>🚧 save as `src/suspension_hb_shock_standoff_hbs67410.jpg` |
+| ⭐ **HB Racing Shock Standoff (2)** — **HBS67410**, ✅ **purchased 2026-08-16** ($3.99/pair, bought 2 packs) | Molded shock standoffs, 2 per pack | Hot Bodies D8 / B8 + Apache C1 big-bore shocks | <img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="250"> |
 
 > **Plastic (HPI Apache C1) alternative — free:** on the plastic HPI shocks you can skip the HB standoff and **force a Traxxas hollow ball straight into the shock eyelet** — the same [hollow balls used in the tie rod ends](tie_rod_analysis.md#pivot-balls). It press-fits and holds; tested, it works. So HBS67410 is the tidy option for the metal D8 / B8 path, while the plastic path can reuse the hollow balls already on hand.
 
