@@ -1,26 +1,41 @@
 # Tie Rod & Camber Link Selection — FastAzJato4x4
 
-> **Chosen and purchased: ACER Racing Titanium M4x60 turnbuckles, 10-pack, $59.90.** All six links on the car (2 front tie rods, 2 front camber, 2 rear camber) measure about 61mm and thread M4, so one part covers the whole car. Titanium is the upgrade over the stock steel rods: lighter, strong, and it will not rust. M4x60 (60mm) is the standard off-the-shelf turnbuckle length, and the turnbuckle threads out to cover the measured 61mm. The 10-pack gives the six links plus four spares.
+> **The link that survives is an assembly of three parts: an ACER titanium M4x60 turnbuckle rod, RPM long rod ends, and Traxxas hollow pivot balls.** All six links on the car (2 front tie rods, 2 front camber, 2 rear camber) are M4 and measure about 61mm (96mm center-to-center), so one build covers the whole car. The stock Traxxas links break easily at both the metal rod and the plastic rod ends, so both get upgraded: titanium for the rod, RPM's tougher long ends for the ends. The hollow balls carry over from the stock parts.
 
-<p align="center"><img src="src/steering_acer_titanium_turnbuckle_m4x60.jpg" width="600"><br><em>ACER Racing Titanium M4x60 turnbuckle — one length (60mm standard) for all six links, M4 thread</em></p>
+<p align="center"><img src="src/steering_acer_titanium_turnbuckle_m4x60.jpg" width="600"><br><em>ACER Racing Titanium M4x60 turnbuckle — the rod for all six links (M4 thread, 60mm standard length, threads out to the measured 61mm)</em></p>
 
 ---
 
 ## Table of Contents
 
+- [The three-part link assembly](#the-three-part-link-assembly) — rod + rod ends + hollow balls
 - [Which links this covers](#which-links-this-covers) — the 6 links, all M4, all ~61mm
-- [Key Requirements](#key-requirements) — M4, ~61mm, strong and light
-- [Rod comparison](#rod-comparison) — titanium bought, stock steel superseded
+- [Key Requirements](#key-requirements)
+- [Turnbuckle rods (the metal)](#turnbuckle-rods-the-metal) — titanium bought, stock steel/alloy break
+- [Rod ends (the plastic)](#rod-ends-the-plastic) — RPM long, stock 5525 breaks
+- [Pivot balls](#pivot-balls) — Traxxas hollow balls, carried over
 - [Servo-to-bellcrank link](#servo-to-bellcrank-link) — already chosen, cross-ref only
-- [Length reference](#length-reference) — 61mm measured, 60mm standard buy
-- [Price History](#price-history) — ACER titanium 10-pack, purchased
+- [Length reference](#length-reference) — 61mm rod = 96mm center-to-center
+- [Price History](#price-history)
 - [Notes](#notes)
+
+---
+
+## The three-part link assembly
+
+Each of the six links is built from three parts. The stock version breaks at the first two, so both get upgraded:
+
+| Part | Stock (breaks) | Running now | Why |
+|---|---|---|---|
+| **Turnbuckle rod** (metal center) | Traxxas 3645 steel / 2336A aluminum, 61mm | **ACER titanium M4x60** | Titanium is lighter and stronger, will not rust |
+| **Rod ends** (plastic, thread on each end) | Traxxas TRA5525 | **RPM long rod ends** (80511/80512/80515) | RPM is thicker at the ball, tougher, and the long shank helps the stretched wheelbase |
+| **Pivot balls** (hollow ball inside each end) | Traxxas hollow balls | **Traxxas hollow balls** (carried over) | The balls do not break, so they carry over from the stock links / 5525 |
 
 ---
 
 ## Which links this covers
 
-Six adjustable turnbuckle links, all M4 thread, all measuring about 61mm. Now all running the ACER titanium M4x60. "Tie rod" gets used loosely, so to be clear about what each one does:
+Six links, all M4, all about 61mm. "Tie rod" gets used loosely, so to be clear about what each does:
 
 | Link | Count | What it does | Sets | Length | Thread |
 |---|---|---|---|---|---|
@@ -29,7 +44,7 @@ Six adjustable turnbuckle links, all M4 thread, all measuring about 61mm. Now al
 | **Rear camber link (upper link)** | 2 | Rear tower to top of rear carrier | Rear camber, a little rear toe | ~61mm | M4 |
 | **Servo to bellcrank link (drag link)** | 1 | Servo horn to bellcrank | Steering centering | GPM RUS416026ST-S, in hand ([`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#servo-horn--servo-to-bellcrank-link)) | — |
 
-The Jato 4x4 has no separate front lower link. The lower arm is the FLM/ProTrac arm itself, covered in [`arm_analysis.md`](arm_analysis.md).
+**Only 6 rods are needed.** The Jato 4x4 has no separate front lower link (the lower arm is the FLM/ProTrac arm itself, see [`arm_analysis.md`](arm_analysis.md)).
 
 ---
 
@@ -37,49 +52,72 @@ The Jato 4x4 has no separate front lower link. The lower arm is the FLM/ProTrac 
 
 | Requirement | Type | Why |
 |---|---|---|
-| **M4 thread, ~61mm length, all six links** | Must | Measured on the car: every link, front and rear, tie rod and camber, is M4 and comes out to about 61mm. One part covers all six. M4x60 is the standard length that adjusts to reach 61mm |
-| **Turnbuckle, threaded both ends** | Must | Toe and camber have to be tunable, and the 60mm standard has to thread out to the 61mm the car wants |
-| **Strong and light** | Must | The front links take the hardest hits behind the aluminum FLM arm. Titanium gives the strength without the steel weight |
-| **Rod ends match the alloy hubs and FLM studs** | Must | Front runs the Raptor R Ultimate EHD alloy hubs ([`hub_carrier_analysis.md`](hub_carrier_analysis.md)). The M4 rod ends have to seat in those and in the FLM arm studs |
-| **Will not rust** | May | Titanium does not corrode, unlike the stock steel rods. Nice for a dirt car that gets washed |
-| **Bends before it snaps** | May | Same failure philosophy as the arms. A bent rod straightens and keeps running |
+| **M4 thread, ~61mm, all six links** | Must | Measured on the car: every link is M4 and about 61mm (96mm center-to-center). Traxxas confirms 61mm on the stock 3645 and 2336A toe links. One rod length covers all six |
+| **Rod that will not snap or bend soft** | Must | The stock steel 3645 and aluminum 2336A both break easily behind the FLM aluminum arm. Titanium takes the hit |
+| **Rod ends tougher than stock** | Must | The stock TRA5525 rod ends break easily too. RPM long rod ends are thicker around the ball and hold up |
+| **Rod ends match the alloy hubs and FLM studs** | Must | Front runs the Raptor R Ultimate EHD alloy hubs ([`hub_carrier_analysis.md`](hub_carrier_analysis.md)). The rod ends + hollow balls have to seat in those and in the FLM arm studs |
+| **Long rod ends help the stretched wheelbase** | May | The FLM front arms add ~9.6mm/side. RPM long rod ends give extra reach so the turnbuckle is not maxed out to hit the wider track |
+| **Will not rust** | May | Titanium does not corrode. Nice for a washed dirt car |
 
 ---
 
-## Rod comparison
+## Turnbuckle rods (the metal)
 
-Titanium M4x60 is bought and running. Stock steel is what it replaces.
+Titanium is bought and running. The two stock rods are what it replaces, and both break.
 
 > *Spec format: Type · Material · MPN · Fits · Adjustable · Length · Price*
 
 | Rod | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **ACER Racing Titanium M4x60 turnbuckle** — *✅ purchased, all six links* | **Type:** Threaded turnbuckle<br>**Material:** **Titanium**<br>**MPN:** ACER Racing "M4x60 Titanium Turnbuckle" (10-pack)<br>**Fits:** M4 links, Jato 4x4 pattern<br>**Adjustable:** Yes, both ends<br>**Length:** **60mm** standard, threads out to the ~61mm the car measures<br>**Price:** **$59.90 / 10** ($5.99 each) | Pro: **Covers all six links with one part.** Titanium: lighter than steel, strong for the front impact loads, does not rust. 60mm is the standard length and adjusts to the measured 61mm. 10-pack means six links plus four spares<br><br>Con: Pricier than stock steel, but it is the whole car plus spares in one buy. Confirm the M4 rod ends seat in the Raptor R alloy carriers at test-fit | <img src="src/steering_acer_titanium_turnbuckle_m4x60.jpg" width="500"> |
-| 🥈 **Stock M4 steel turnbuckle** — *superseded, keep as backup* | **Type:** Threaded turnbuckle<br>**Material:** Steel (Jato OEM)<br>**MPN:** Jato 4x4 stock<br>**Fits:** Jato 4x4, M4<br>**Adjustable:** Yes<br>**Length:** ~61mm (measured)<br>**Price:** Owned | Pro: Came with the car, correct M4 size and length, free. Fine as a backup if a titanium rod is ever unavailable<br><br>Con: Heavier than titanium and can rust. Superseded by the titanium set | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/steering_traxxas_jato_m4_stock_turnbuckle.jpg` |
+| ⭐ **ACER Racing Titanium M4x60 turnbuckle** — *✅ purchased, all six links* | **Type:** Threaded turnbuckle<br>**Material:** **Titanium**<br>**MPN:** ACER Racing "M4x60 Titanium Turnbuckle"<br>**Fits:** M4 links, Jato 4x4 pattern<br>**Adjustable:** Yes, both ends<br>**Length:** **60mm** standard, threads out to the ~61mm measured<br>**Price:** **$5.99 each** (bought a 10-pack, $59.90) | Pro: **Titanium: lighter than steel, strong for the front impact loads, does not rust.** 60mm is a standard length that adjusts to the 61mm the car wants. **Only 6 needed;** the 10-pack leaves 4 spares<br><br>Con: Dearer per rod than stock steel, but it stops the breakage. Confirm the rod ends + hollow balls seat in the Raptor R alloy carriers | <img src="src/steering_acer_titanium_turnbuckle_m4x60.jpg" width="500"> |
+| ❌ ~~**Traxxas 3645 steel toe link**~~ — *stock, breaks easily* | **Type:** Threaded turnbuckle<br>**Material:** Steel<br>**MPN:** Traxxas 3645<br>**Fits:** Rustler/Stampede VXL, Jato pattern<br>**Adjustable:** Yes<br>**Length:** **61mm (96mm center-to-center)**<br>**Price:** $8.50 / pair | Pro: Cheap, OEM, correct 61mm length, comes assembled with rod ends and hollow balls<br><br>Con: **Breaks easily** behind the aluminum arm. This is the baseline being replaced. Good only as a source of hollow balls | <img src="src/steering_traxxas_toe_link_steel_3645.jpg" width="500"> |
+| ❌ ~~**Traxxas 2336A blue aluminum toe link**~~ — *stock alloy, breaks easily* | **Type:** Threaded turnbuckle<br>**Material:** Aluminum (blue anodized)<br>**MPN:** Traxxas 2336A<br>**Fits:** Rustler/Stampede/Jato pattern<br>**Adjustable:** Yes<br>**Length:** **61mm**<br>**Price:** $12.00 / pair | Pro: Anodized looks, correct 61mm length, comes with rod ends and hollow balls<br><br>Con: **Bends and breaks easily** for the weight. Aluminum is no answer to the impacts here, which is the whole reason for titanium | <img src="src/steering_traxxas_toe_link_aluminum_2336a.jpg" width="500"> |
+
+---
+
+## Rod ends (the plastic)
+
+RPM long rod ends are what run on the car. Stock TRA5525 breaks and is kept only for its hollow balls.
+
+> *Spec format: Type · Material · MPN · Fits · Balls included · Qty · Price*
+
+| Rod end | Spec | Pros / Cons | Photo / Link |
+|---|---|---|---|
+| 🟢 **RPM Long Rod Ends** — *running these; white / black / blue* | **Type:** Long rod end (extra shank reach)<br>**Material:** RPM tough nylon blend<br>**MPN:** **80511 white · 80512 black · 80515 blue** (dyeable)<br>**Fits:** Traxxas 1/10 (Slash 2wd/4x4, Rustler VXL, Stampede 4x4, Jato, Revo, E-Maxx, etc.); replaces stock **#5525**<br>**Balls included:** **No** (need Traxxas hollow balls)<br>**Qty:** 12 per pack<br>**Price:** ~$6.95-9.95 / 12 | Pro: **Much tougher than stock at the ball, and the long shank adds reach** for the FLM stretched wheelbase. Dyeable, three colors on hand (white 80511, black 80512, blue 80515). 12-pack completes the car<br><br>Con: **Sold without pivot balls** — reuse the Traxxas hollow balls. Confirm the internal thread matches the M4 titanium rod at build | <img src="src/steering_rpm_long_rod_ends_white_80511.jpg" width="220">&nbsp;<img src="src/steering_rpm_long_rod_ends_black_80512.jpg" width="220">&nbsp;<img src="src/steering_rpm_long_rod_ends_blue_80515.jpg" width="220"><br><em>80511 white · 80512 black · 80515 blue</em> |
+| ❌ ~~**Traxxas TRA5525 rod ends w/ hollow balls**~~ — *stock, breaks easily* | **Type:** Standard rod end<br>**Material:** Stock nylon<br>**MPN:** Traxxas 5525<br>**Fits:** Traxxas 1/10 pattern<br>**Balls included:** **Yes** (hollow pivot balls factory-installed)<br>**Qty:** 12 per pack<br>**Price:** $9.00 / 12 | Pro: **Comes with the hollow balls** — the reason to keep it. Cheap, OEM<br><br>Con: **Breaks easily** at the ball. Thinner than the RPM long ends. Buy/keep it for the balls, run the RPM ends | <img src="src/steering_traxxas_rod_ends_hollow_balls_5525.jpg" width="500"> |
+
+---
+
+## Pivot balls
+
+- **Traxxas hollow balls** are the ball that sits inside each rod end. They do not break, so they carry over.
+- The RPM long rod ends ship **without** balls, so the balls come from the stock parts: the **TRA5525** rod ends (12 with balls, $9.00) or the stock **2336A / 3645** links, which come assembled with hollow balls.
+- Net: keep one set of Traxxas hollow balls on hand, run them in the RPM long ends on the titanium rods.
 
 ---
 
 ## Servo-to-bellcrank link
 
-Already chosen and in hand: **GPM RUS416026ST-S,** spring-steel turnbuckle plus 25T alloy servo horn, 8.0g measured. Full write-up lives in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#servo-horn--servo-to-bellcrank-link). It is listed here only so the linkage picture is complete. It is not one of the six M4x60 links, so do not confuse it for one.
+Already chosen and in hand: **GPM RUS416026ST-S,** spring-steel turnbuckle plus 25T alloy servo horn, 8.0g measured. Full write-up lives in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#servo-horn--servo-to-bellcrank-link). Listed here only so the linkage picture is complete. It is not one of the six 61mm links.
 
-<p align="center"><img src="src/steering_gpm_servo_horn_link_rus416026st-s_weight.jpg" width="500"><br><em>GPM RUS416026ST-S, the servo-to-bellcrank link, already in hand. A separate part from the six titanium links.</em></p>
+<p align="center"><img src="src/steering_gpm_servo_horn_link_rus416026st-s_weight.jpg" width="500"><br><em>GPM RUS416026ST-S, the servo-to-bellcrank link, already in hand. A separate part from the six links.</em></p>
 
 ---
 
 ## Length reference
 
-**All six links are M4 and measure about 61mm. M4x60 titanium is what covers them.**
+**All six links are M4 and measure about 61mm.** Traxxas confirms the number on their stock toe links:
 
-| Link | Position | Thread | Measured | Bought |
+| Link | Position | Thread | Rod length | Center-to-center |
 |---|---|---|---|---|
-| Steering tie rod (x2) | Front | M4 | ~61mm | M4x60 titanium |
-| Camber link (x2) | Front | M4 | ~61mm | M4x60 titanium |
-| Camber link (x2) | Rear | M4 | ~61mm | M4x60 titanium |
+| Steering tie rod (x2) | Front | M4 | ~61mm | 96mm |
+| Camber link (x2) | Front | M4 | ~61mm | 96mm |
+| Camber link (x2) | Rear | M4 | ~61mm | 96mm |
 
-- **Why 60mm for a 61mm measurement:** 60mm (M4x60) is a standard, stocked turnbuckle length. The rod threads out about a millimeter to reach the 61mm the car wants, so the standard 60mm part is the right buy. No custom length needed.
-- **The 61mm was measured on the built car,** with the FLM front arms and Raptor R alloy hubs in place, so the wider [FLM front track](arm_analysis.md#notes) (+9.6mm/side) is already baked into that figure.
-- **Fine-tune on the car.** 60mm is the buy and the baseline. Thread each turnbuckle to target toe (front) and camber (front + rear) at setup.
+- **61mm rod = 96mm center-to-center,** straight off the Traxxas 3645 / 2336A spec, and it matches the measurement on the car.
+- **The titanium is M4x60 (60mm),** a standard shelf length that threads out the extra millimeter to hit 61mm.
+- **RPM long rod ends add reach** so the turnbuckle is not threaded to its limit to cover the wider FLM front track (+9.6mm/side, see [`arm_analysis.md`](arm_analysis.md#notes)).
+- **Fine-tune on the car** for target toe (front) and camber (front + rear).
 
 ---
 
@@ -87,14 +125,17 @@ Already chosen and in hand: **GPM RUS416026ST-S,** spring-steel turnbuckle plus 
 
 | Date | Price | Discount Path | Notes |
 |------|-------|---------------|-------|
-| 2026-08-16 | **$59.90 / 10** ✅ **purchased** | Listed price, free USPS First Class | ACER Racing Titanium Turnbuckles, **M4x60**, qty 10 ($5.99 each). Covers all six links (2 front tie rods, 2 front camber, 2 rear camber) plus four spares. Stock steel M4 rods drop to backup |
+| 2026-08-16 | **$5.99 each** ✅ **purchased** | 10-pack $59.90, free USPS First Class | ACER Racing Titanium **M4x60** turnbuckle. **Only 6 needed** (2 front tie rods, 2 front camber, 2 rear camber); the 10-pack leaves 4 spares. Rod ends = RPM long (80511/80512/80515), hollow balls carried over from stock / TRA5525 |
 
 ---
 
 ## Notes
 
-- **One part for the whole car.** All six links are M4 and about 61mm, so the ACER titanium M4x60 covers every one. The 10-pack is six links plus four spares.
-- **Titanium over the stock steel.** Lighter, strong enough for the front impact loads behind the aluminum arm, and it does not rust. The stock steel M4 rods stay as backups.
-- **60mm is a standard length that reaches 61mm.** Turnbuckles adjust, so the standard 60mm part threads out the extra millimeter. That is why the buy is M4x60, not a custom 61mm.
-- **Do not count the servo link twice.** GPM RUS416026ST-S (servo to bellcrank) is already chosen and in hand, and it lives in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#servo-horn--servo-to-bellcrank-link). It is a different part from the six titanium links.
-- **Rod-end fit is the one thing to verify at test-fit.** The M4 rod ends have to seat in the Raptor R alloy carrier holes and the FLM arm studs. Check when installing.
+- **The link is three parts, and the stock version breaks at two of them.** Titanium fixes the rod, RPM long ends fix the rod ends, the hollow balls carry over. See [the assembly table](#the-three-part-link-assembly).
+- **Only 6 rods are needed** (the six links). Bought a 10-pack, so 4 are spares. Per-rod cost is $5.99.
+- **61mm = 96mm center-to-center,** confirmed by the Traxxas 3645/2336A stock links and the on-car measurement. The titanium M4x60 (60mm) threads out to reach it.
+- **Stock links are the baseline that breaks:** steel 3645 and aluminum 2336A both go easily behind the FLM arm. Keep a set only for their hollow balls.
+- **RPM long rod ends need Traxxas hollow balls** (RPM ships without them). Harvest from TRA5525 or the stock links.
+- **RPM long shank helps the wheelbase stretch** from the FLM front arms, so the turnbuckle is not at its adjustment limit.
+- **Do not count the servo link twice.** GPM RUS416026ST-S (servo to bellcrank) is a separate part, covered in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#servo-horn--servo-to-bellcrank-link).
+- **Verify at build:** rod-end internal thread onto the M4 titanium rod, and the hollow balls seating in the Raptor R alloy carriers + FLM studs.

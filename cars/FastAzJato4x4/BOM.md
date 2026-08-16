@@ -61,7 +61,8 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 |---|---|---|---|---|
 | **GPM aluminum bell crank (6845X)** — comes with brass/oil-sintered bushings, no swap needed | **In Hand** | GPM | **$19.98** (paid) | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
 | **Traxxas TRA3775 Oilite brass bushings (5×8×2.5mm)** — *now spare, the GPM crank already ships with bushings* | **In Hand** (purchased 2025-08-24) | eBay — gottshall5896 | **$7.69** (sunk) | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#price-history) |
-| **ACER Racing Titanium M4x60 turnbuckles** (10-pack) — covers all 6 links (front tie rods + front/rear camber links) + 4 spares | **Purchased** 2026-08-16 | ACER Racing | **$59.90** (paid; $5.99 ea) | [`tie_rod_analysis.md`](tie_rod_analysis.md#price-history) |
+| **ACER Racing Titanium M4x60 turnbuckle rods** — 6 needed (2 front tie rods + 2 front camber + 2 rear camber); bought a 10-pack, 4 spare | **Purchased** 2026-08-16 | ACER Racing | **$5.99 ea** ($59.90 / 10 paid) | [`tie_rod_analysis.md`](tie_rod_analysis.md#price-history) |
+| **RPM Long Rod Ends** (80511 white / 80512 black / 80515 blue, replace stock #5525) + **Traxxas hollow balls** (from TRA5525) | **In Hand** | RPM / Traxxas | ~$7-9 / 12 (ends) + $9 / 12 (5525 balls) | [`tie_rod_analysis.md`](tie_rod_analysis.md#rod-ends-the-plastic) |
 
 ---
 
