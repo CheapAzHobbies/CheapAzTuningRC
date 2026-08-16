@@ -62,7 +62,7 @@ TBD
 | Spur gear | TRA3956R 54T plastic | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
 | Pinion | **12T 32P** on a 3200KV (matches Mike's Jato) → **16T 32P** if running a **2400KV** for the same top speed (12 × 3200/2400 = 16) | Lower-KV motor geared taller to the same top end |
 | Diff / gearbox housings | Traxxas plastic — TRA6881 front / TRA6880 rear ($4 ea) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
-| Hubs | Leaning Tekno OEM 17mm hex (from TKR1654-17 kit); TRA6469 alt in hand, 5.9g | Not yet finalized — [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| Wheel hexes | Leaning Tekno OEM 17mm hex (pin-through, from TKR1654-17 kit); TRA6469 alt in hand, 5.9g; TKR5570-17 star hex for stock Traxxas rims | Not yet finalized — [`wheel_hex_analysis.md`](wheel_hex_analysis.md) |
 | Bearings | Full sealed kit (Slash 4x4 sizes) | [`bearings_reference.md`](bearings_reference.md) |
 
 ---

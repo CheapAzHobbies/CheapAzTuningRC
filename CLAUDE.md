@@ -267,6 +267,7 @@ When you start a **new part category**, define its field order once (add a short
 - **Spur gears:** Teeth · Pitch · Material · Fits · Price
 - **Driveshafts (axle):** Type · Part · Diff end · Fits · Price
 - **Driveshafts (center):** Type · Material · Part · Length · Price
+- **Wheel hexes:** Type · Part · Material · Stub fit · Wheel pattern · Retention · Weight · Price
 - **Wings:** Part · Material · Size · Fits · Weight · Price
 - **Motor cooling (heatsink/fan):** Heatsink · Fans · Suits · Footprint · Fan max RPM · Cable · Weight · Price
 - *(add new categories here as they are created)*
