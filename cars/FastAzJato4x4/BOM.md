@@ -22,14 +22,14 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 |---|---|---|---|---|---|
 | **AliExpress knock-off Slash 4x4 steel diffs (5mm, come with I-bar)** — front + rear, RS RC Store | 2 (front + rear) | 🚧 confirm in hand (screenshot on PC) | AliExpress, RS RC Store | **$15.26 / 2** (2-pack coupon) | [`differential_analysis.md`](differential_analysis.md#front--rear-diff-comparison) |
 | **Traxxas E-Revo 1.0 front + rear diffs**, *not used, now spares (running the AliExpress diffs instead)* | 2 | **In Hand** | — | $0 (sunk) | [`differential_analysis.md`](differential_analysis.md) |
-| **AliExpress metal center diff** (alum body + **integrated steel 54T spur**, so no separate spur needed) + **20k wt diff oil** | 1 | To buy | AliExpress | **~$20** + $5 oil | [`differential_analysis.md`](differential_analysis.md#center-diff) |
+| **AliExpress metal center diff** (alum body + **integrated steel 54T spur**, comes pre-filled with the correct oil, so no separate spur or oil needed) | 1 | To buy | AliExpress | **~$20** | [`differential_analysis.md`](differential_analysis.md#center-diff) |
 | **Center driveshaft**, Jato 4x4 BL-2S take-off (7455) + pinion + bearings | 1 | **Purchased** | Jenny's RC | **$2.49** (paid) | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | **Knock-off Slash 4x4 HD steel CV axle bodies** (order #8211906604054866) | set of 4 | **Purchased** 2026-06-01 | AliExpress, FengS Store | **$21.10** (paid; listed $27.76) | [`driveshaft_analysis.md`](driveshaft_analysis.md#price-history) |
 | **TRA6752 long output shafts** — **only 2 needed (front); rear reuses 2 of the knock-off set's stock-length shafts**, so 2 of the 4 bought are spare | 4 bought (2 used, 2 spare) | **In Hand** | — | **$32.00** (4 × $8) | [`driveshaft_analysis.md`](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
 | **Front gearbox housing**, Traxxas **TRA6881** | 1 | **Purchased** | **Tammies Hobby** | **$4.00** (paid) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Rear gearbox housing**, Traxxas **TRA6880** | 1 | **Purchased** | **Tammies Hobby** | **$4.00** (paid) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **TRA5153 Traxxas Drive Cup** (E-Revo standard), *now spare, mates the 6mm E-Revo diff only* | 4 (2 pairs) | **In Hand** | AMain | $16.00 (sunk, gifted) | (drivetrain compatibility, [`differential_analysis.md`](differential_analysis.md)) |
-| **Spur gear**, Traxxas **TRA3956R 54T** plastic — *now a spare; running the AliExpress center diff's integrated steel spur* | 1 | **In Hand** | LHS / Traxxas | **$3.00** (sunk) | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
+| **Spur gear**, Traxxas **TRA3956R 54T** plastic — *not used; doesn't fit the metal center diff (it's a plastic-center-diff part), the AliExpress diff has its own steel spur* | 1 | **In Hand** | LHS / Traxxas | **$3.00** (sunk) | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
 | **Tekno front stub, TKR1654-17** 17mm M6 hub adapter (bought 3 pairs, order 06-14626-84975) | 1 pair | **In Hand** | eBay, mr-retro | **$23.15/pair** (2 pairs spare) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **Tekno rear stub, TKR5580** (SCT410) — confirmed fit, 5070 dropped; 🚧 order more, order 24-14914-16595 | 1 pair | **In Hand** | eBay, mr-retro | **$34.81** (paid, both stubs) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
 
@@ -90,9 +90,9 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | Bucket | Sub-total |
 |---|---|
 | **Already in hand / purchased (sunk cost)**, MAX10 G2 + 3665SD G3 combo, Fire Phoenix ESC (spare), servo, E-Revo diffs (spares), drive cups (spare), center driveshaft (7455), knock-off CV axle set, **TRA6752 long shafts (4)**, **front + rear gearbox housings (Tammies)**, **spur gear**, Tekno front + rear stubs, **FLM26800 arms (2 pairs, front + rear)**, **front #9033 + rear TRA9039 shock towers (Tammies)**, Hot Bodies D8 shock set (used, springs + pistons included), HBS67410 standoffs, **shock oil (Tammies)**, Raptor R alloy hubs, GPM bell crank, TRA3775 bushings (spare), ACER titanium turnbuckles, RPM rod ends + hollow balls, CF chassis, **DIY scrap-aluminum chassis bars ($0)**, **bumper set (Tammies)**, wing + TRA9046 mount + TRA9517 combo, Jato 3.3 red body | **~$757** |
-| **To buy, locked spec**, AliExpress knock-off front + rear diffs (~$15/2, confirm if in hand), AliExpress metal center diff + 20k oil (~$25) | **~$40** |
+| **To buy, locked spec**, AliExpress knock-off front + rear diffs (~$15/2, confirm if in hand), AliExpress metal center diff (~$20, comes pre-filled) | **~$35** |
 | **Still open (no cost yet)**, primary body (JConcepts P2 leaning; Jato 3.3 already in hand), pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
-| **Total estimated (locked items)** | **~$797** |
+| **Total estimated (locked items)** | **~$792** |
 
 ---
 
