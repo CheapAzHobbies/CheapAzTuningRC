@@ -1,7 +1,7 @@
 # Driveshaft Selection — FastAzJato4x4
 
 > **Chosen: Tekno M6 stub axle build, matched to the stock 5mm diffs.**
-> - **Stubs: Tekno M6 17mm (front TKR1654-17) + Tekno TKR5580 rear, ✅ confirmed a perfect fit** in the rear hubs. **Need to order more TKR5580 for the FastAzJato.**
+> - **Stubs: Tekno M6 17mm front (TKR1654-17) + Tekno TKR5570-17 SCT410 kit rear** (= the 5580 stub + 17mm hexes + nuts + pins), **✅ confirmed a perfect fit** in the rear hubs. 🚧 order the TKR5570-17 kit for the FastAzJato.
 > - **Axle bodies:** the full 4-set of cheap **AliExpress CVDs** (6852/6851 clones, 5mm diff end), with genuine **TRA6752 long output shafts at the front only (2×)** for the extra length; the **rear reuses the set's stock-length TRA6750 shafts**. (4× 6752 bought, so 2 are spare.) **Sell the OG stubs** to offset cost. See [2WD long CVDs](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 > - **Center driveshaft: Jato 4x4 BL-2S take-off shaft (7455), $2.49, bought instead of the TRA6855.** Native Jato fitment, bundle includes a pinion + bearings.
 >
