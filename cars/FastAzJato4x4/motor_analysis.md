@@ -500,17 +500,17 @@ Conventional wisdom is mixed:
 
 ## Pinion Reference (32P, TBD)
 
-Pinion not yet chosen, depends on which motor lands. Spur is the **50T 32-pitch TRA6842R** (same as the K939 setup). Reference table for common 32P pinion sizes:
+Pinion not yet chosen, depends on which motor lands. Spur is the decided **54T 32-pitch TRA3956R** (see [`differential_analysis.md`](differential_analysis.md#spur-gear)). Reference table for common 32P pinion sizes:
 
-| Pinion (32P) | FDR with 50T spur | Speed character | Typical motor pairing |
+| Pinion (32P) | FDR with 54T spur | Speed character | Typical motor pairing |
 |---|---|---|---|
-| 13T | 3.85 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused |
-| 15T | 3.33 | Tame, low motor temp | Castle 1412 3200KV starting point, keeps it cooler |
-| 17T | 2.94 | Balanced street / track | 2400KV stock-ish gearing |
-| 19T | 2.63 | Faster, more top end | **Likely starting point for Castle 1415 2400KV** |
-| 21T | 2.38 | High-speed bias | 2400KV with strong battery |
-| 23T | 2.17 | Top-end aggressive | 2200KV on light vehicle |
-| 25T | 2.00 | Speed-run territory | 2200KV-class only, monitor temps |
+| 13T | 4.15 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused |
+| 15T | 3.60 | Tame, low motor temp | Castle 1412 3200KV starting point, keeps it cooler |
+| 17T | 3.18 | Balanced street / track | 2400KV stock-ish gearing |
+| 19T | 2.84 | Faster, more top end | **Likely starting point for Castle 1415 2400KV** |
+| 21T | 2.57 | High-speed bias | 2400KV with strong battery |
+| 23T | 2.35 | Top-end aggressive | 2200KV on light vehicle |
+| 25T | 2.16 | Speed-run territory | 2200KV-class only, monitor temps |
 
 > FDR (Final Drive Ratio) shown is the spur-to-pinion only; multiply by the internal transmission ratio (~2.78:1 for Slash/Jato 4x4) for the true wheel ratio. Lower FDR = faster top speed but more heat / less torque. Higher FDR = more punch but lower top speed.
 
