@@ -1,6 +1,6 @@
 # Bearings Reference — FastAzJato4x4
 
-Not a tuning decision — just the full list of bearings the build needs. Sizes/quantities match the **Traxxas Jato 4x4 BL-2s (90154-4) complete bearing kit** — it's a 1/8-class platform, so bigger bearings than a Slash 4x4. Run sealed (rubber-shielded) bearings throughout for offroad.
+Not a tuning decision, just the full list of bearings the build needs. Sizes/quantities match the **Traxxas Jato 4x4 BL-2s (90154-4) complete bearing kit**, it's a 1/8-class platform, so bigger bearings than a Slash 4x4. Run sealed (rubber-shielded) bearings throughout for offroad.
 
 | Size (mm) | Qty | Typical location |
 |---|---|---|
@@ -15,6 +15,6 @@ Not a tuning decision — just the full list of bearings the build needs. Sizes/
 
 ---
 
-**Verify on this build:** the quantities above are the Jato 4x4 BL-2s kit baseline, and the "typical location" column is best-effort — Avid doesn't publish the exact per-position split. Diffs are back to **stock Jato 4x4 (5mm)**, and the front/rear hubs are **Traxxas Raptor R Ultimate EHD alloy** (same 6×12×4 / 12×18×4 EHD bearing sizes as this kit) — both mostly follow the baseline. **Exception:** the front hub's Tekno M6 stub conversion needs a special **10×18×5** inner bearing not in this kit, see [`hub_carrier_analysis.md`](hub_carrier_analysis.md#bearings--hardware). Pop everything apart and confirm sizes against the actual hardware before ordering.
+**Verify on this build:** the quantities above are the Jato 4x4 BL-2s kit baseline, and the "typical location" column is best-effort, Avid doesn't publish the exact per-position split. Diffs are back to **stock Jato 4x4 (5mm)**, and the front/rear hubs are **Traxxas Raptor R Ultimate EHD alloy** (same 6×12×4 / 12×18×4 EHD bearing sizes as this kit), both mostly follow the baseline. **Exception:** the front hub's Tekno M6 stub conversion needs a special **10×18×5** inner bearing not in this kit, see [`hub_carrier_analysis.md`](hub_carrier_analysis.md#bearings--hardware). Pop everything apart and confirm sizes against the actual hardware before ordering.
 
 Sources: [Avid Jato 4x4 BL-2s kit (90154-4)](https://www.avidrc.com/flexkit/?kit=4380&kitname=Jato+4x4+BL-2S+%2890154-4%29) · [Avid Jato 4x4 BL-2s](https://www.rcteam.com/en/products/avid-complete-bearing-kit-traxxas-jato-4x4-bl-2s-av-trx-jto-4x4-bl2s)

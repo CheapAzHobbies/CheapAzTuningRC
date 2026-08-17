@@ -1,10 +1,10 @@
 # Motor Selection — FastAzJato4x4
 
-> **Build context:** the Jato 4x4 isn't really a 1/10 — it's basically a **1/8 buggy** in chassis size and intended duty. Manufacturer "1/10 SCT" recommendations under-spec for this car.
+> **Build context:** the Jato 4x4 isn't really a 1/10, it's basically a **1/8 buggy** in chassis size and intended duty. Manufacturer "1/10 SCT" recommendations under-spec for this car.
 >
-> **Chosen: HobbyWing EZRun 3665SD G3 2400KV (#30402604)** — came in the **$127 MAX10 G2 combo** (bought Jun 25 2026), which supersedes the Tekin Pro4 HD plan below. 4S-native, IP67, modular/rebuildable, matched G3 sensor plug with the MAX10 G2 ESC (no adapter needed). Heavier than the Tekin picks (304.5g vs 221g) but zero additional spend since it came with the ESC — see [`esc_analysis.md`](esc_analysis.md).
+> **Chosen: HobbyWing EZRun 3665SD G3 2400KV (#30402604)**, came in the **$127 MAX10 G2 combo** (bought Jun 25 2026), which supersedes the Tekin Pro4 HD plan below. 4S-native, IP67, modular/rebuildable, matched G3 sensor plug with the MAX10 G2 ESC (no adapter needed). Heavier than the Tekin picks (304.5g vs 221g) but zero additional spend since it came with the ESC, see [`esc_analysis.md`](esc_analysis.md).
 >
-> ⚠️ **The comparison below (Tekin Pro4 HD vs. alternatives) is the pre-combo research and is kept for reference** — it no longer reflects the current pick. The EZRun 3665SD G3 row is in the [main comparison table](#motor-comparison) marked ⭐.
+> ⚠️ **The comparison below (Tekin Pro4 HD vs. alternatives) is the pre-combo research and is kept for reference**, it no longer reflects the current pick. The EZRun 3665SD G3 row is in the [main comparison table](#motor-comparison) marked ⭐.
 
 <p align="center"><img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" width="500"></p>
 
@@ -24,9 +24,9 @@
 | Rebuildable | Yes | Yes | Yes | Yes |
 | Bearings | 5×14×5 / 5×11×5 | 5×14×5 / 5×11×5 | 5×16×5 / 5×11×5 | (NMB, size not published) |
 | Price | **$69.99** | $59.99 | $180-200 | $134.95 |
-| Pick reason | **Chosen — best balance for 1/8-buggy 4S dirt** | Honorable — cheapest, lightest, send-it pick | Honorable — true 1/8 motor, beefy shaft | Honorable — premium build, understated ratings |
+| Pick reason | **Chosen, best balance for 1/8-buggy 4S dirt** | Honorable, cheapest, lightest, send-it pick | Honorable, true 1/8 motor, beefy shaft | Honorable, premium build, understated ratings |
 
-**The in-hand Castle 1412 3200KV** still works but runs hot on 4S and needs a fan. Once you add the Surpass twin-fan + heatsink rig (~63 g with metal fans), the 1412 + cooling weighs ~328 g — heavier than every 4S-native candidate above, with all that mass sitting **up high on the motor** where it hurts handling. Reducing the cooling rig = reducing complexity = **cool**. Badum tss. 🥁
+**The in-hand Castle 1412 3200KV** still works but runs hot on 4S and needs a fan. Once you add the Surpass twin-fan + heatsink rig (~63 g with metal fans), the 1412 + cooling weighs ~328 g, heavier than every 4S-native candidate above, with all that mass sitting **up high on the motor** where it hurts handling. Reducing the cooling rig = reducing complexity = **cool**. Badum tss. 🥁
 
 ---
 
@@ -51,21 +51,21 @@
 
 | Requirement | Type | Why |
 |---|---|---|
-| **4S LiPo support** | Must | Build runs 4S — motor has to handle 16.8V without burning windings |
-| **36mm can, ≤70mm overall length** | Must | Physical fit in the FastAzJato4x4 motor mount. 42mm cans technically fit but make the car **fat, heavy, and sluggish** — same goes for anything over ~70mm long. **Exception**: a 40-42mm motor would be considered if it's actually *lighter* than the 36mm options (currently no 40mm+ candidate is — they're all heavier) |
+| **4S LiPo support** | Must | Build runs 4S, motor has to handle 16.8V without burning windings |
+| **36mm can, ≤70mm overall length** | Must | Physical fit in the FastAzJato4x4 motor mount. 42mm cans technically fit but make the car **fat, heavy, and sluggish**, same goes for anything over ~70mm long. **Exception**: a 40-42mm motor would be considered if it's actually *lighter* than the 36mm options (currently no 40mm+ candidate is, they're all heavier) |
 | **2100–3200KV** | Must | Target range for 4S on a 1/10-class chassis. Below 2100 = sluggish; above 3200 = too hot on 4S even with a fan |
 | **Sensored** | Must | Smooth starts, no cogging, low-speed control on the chosen Fire Phoenix ESC |
 | **Standard sensor connector (JST-ZH or Castle native)** | Must | Fire Phoenix uses JST-ZH; proprietary Hobbywing G3 plugs require a $-and-cable adapter |
 | **Rebuildable / serviceable** | Must | Bearings and brushes wear; motor has to come apart for maintenance, not get thrown away |
 | **Documented bearing sizes** | Must | So replacement bearings can be sourced from any bearing supplier without guessing |
 | **Solder tabs (not pre-wired)** | Must | Wires must terminate at solder tabs inside the can. Motors with wires running directly out of the body can't be re-wired without surgery if a wire pulls out |
-| **Runs cool on 4S without a fan** | May | Strong preference. A fan and its mount add weight up high on the motor — purely a CG / weight argument, not reliability (I run metal fans that basically never break unless smacked). 2400KV-class with modern (G3 / 4-pole) laminations runs cool on 4S; 3200KV-class generally needs cooling |
+| **Runs cool on 4S without a fan** | May | Strong preference. A fan and its mount add weight up high on the motor, purely a CG / weight argument, not reliability (I run metal fans that basically never break unless smacked). 2400KV-class with modern (G3 / 4-pole) laminations runs cool on 4S; 3200KV-class generally needs cooling |
 | **Splash / dust resistance** | May | Nice for offroad / wet conditions but build is mostly track |
 | **Lightweight** | May | Lower mass helps acceleration and handling, especially in a 1/10-class chassis |
 | **Cheap / in hand** | May | $0 if already owned beats $80+ for a new motor |
-| **5mm output shaft** | May | Preferred over 1/8" (3.17mm) — thicker shaft handles higher torque without flex, and most 1/10 brushless 32P pinions come in 5mm bore. The in-hand 1412 3200KV is 1/8" so this favors the 5mm-shaft variants if changing motors anyway |
+| **5mm output shaft** | May | Preferred over 1/8" (3.17mm), thicker shaft handles higher torque without flex, and most 1/10 brushless 32P pinions come in 5mm bore. The in-hand 1412 3200KV is 1/8" so this favors the 5mm-shaft variants if changing motors anyway |
 
-> **Castle naming convention:** the four-digit Castle model number is stator dimensions in tenths of an inch. **First two digits = stator diameter, last two digits = magnet length.** So a `1412` is a 1.4" diameter × 1.2" magnet stator (35.6mm × 30.5mm internal); a `1415` is 1.4" × 1.5" (35.6mm × 38.1mm); a `1515` is 1.5" × 1.5". The overall **can** is larger than the stator — Castle 14-series motors all use a 36mm OD can; 15-series and 17-series are bigger.
+> **Castle naming convention:** the four-digit Castle model number is stator dimensions in tenths of an inch. **First two digits = stator diameter, last two digits = magnet length.** So a `1412` is a 1.4" diameter × 1.2" magnet stator (35.6mm × 30.5mm internal); a `1415` is 1.4" × 1.5" (35.6mm × 38.1mm); a `1515` is 1.5" × 1.5". The overall **can** is larger than the stator, Castle 14-series motors all use a 36mm OD can; 15-series and 17-series are bigger.
 
 ---
 
@@ -75,41 +75,41 @@
 
 | Motor | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| 🟢 **Castle Creations 1412 3200KV** (#060-0085-00, 1/8" shaft) | **Type:** Sensored brushless (1.4" × 1.2" stator)<br>**KV:** 3200<br>**Cells:** 2-4S (Castle says up to 3S ideal, 4S with conservative gearing)<br>**Can:** 36mm × 62.5mm<br>**Shaft:** 1/8" (3.17mm)<br>**Sensored:** Yes (Castle SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 265g (with wires)<br>**Price:** $0 in hand (retail $119.95) | Pro: Free, proven on 4S with Fire Phoenix, no regearing, lightest 4S option, 75,000 max RPM, M3 mount @ 25.4mm spacing<br><br>Con: Castle explicitly rates it 3S-ideal; 4S "needs conservative gearing and a close eye on temps" — runs hot on 4S in practice, fan basically required | <img src="src/electronics_castle_1412_3200kv.jpg" width="500"> |
-| 🔵 **Castle Creations 1412 3200KV — 5mm shaft** (#060-0096-00) | **Type:** Sensored brushless (1.4" × 1.2" stator)<br>**KV:** 3200<br>**Cells:** 2-4S<br>**Can:** 36mm × 62.5mm (same as 1412 3200KV above)<br>**Shaft:** 21mm × 5mm (longer + thicker than the 1/8" variant's 15mm × 3.17mm)<br>**Sensored:** Yes (Castle SmartSense)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 265g<br>**Price:** $129.95 (list $159) | Pro: All the 1412 3200KV traits + thicker 5mm shaft for high-torque pinion compatibility; longer shaft gives more pinion clearance<br><br>Con: Same heat problem as the 1/8" variant; $10 premium over the 1/8" version | <img src="src/electronics_castle_1412_3200kv_5mm.jpg" width="500"> |
-| 🔵 **Castle Creations 1412 2100KV** (#060-0094-00, 1/8" shaft) | **Type:** Sensored brushless (1.4" × 1.2" stator)<br>**KV:** 2100<br>**Cells:** 2-4S (4S NATIVE) — Castle: "cool running torque animal" on 4S<br>**Can:** 36mm × 62.5mm (same as 3200KV)<br>**Shaft:** 1/8" (3.17mm)<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 265.4g<br>**Price:** $119.95 (list $146.80) | Pro: **4S native with no caveats** (vs the 3200KV's "with conservative gearing"). Castle officially rates it for 2WD/4WD SC trucks / MT / rock racers up to 6.5 lb on 4S. Same can, weight, mount, and shaft as the in-hand 1412 3200KV — arguably the better-engineered 4S motor in the 1412 family<br><br>Con: 1/8" shaft (5mm preferred); slightly lower top speed than the 2400KV at the same gearing | <img src="src/electronics_castle_1412_2100kv.jpg" width="500"> |
-| 🔵 **Castle Creations 1412 2100KV — 5mm shaft** (#060-0095-00) | **Type:** Sensored brushless (1.4" × 1.2" stator)<br>**KV:** 2100<br>**Cells:** 2-4S (4S native)<br>**Can:** 36mm × 62.5mm (same as 1412 2100KV)<br>**Shaft:** 21mm × 5mm<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 265.4g<br>**Price:** $124.95 (list $152.90) | Pro: 2100KV 4S-native + the preferred 5mm shaft + longer shaft for pinion clearance; Castle calls this a cool-running torque animal on 4S; fan is optional not required<br><br>Con: Slightly lower top speed than the 2400KV at the same gearing | <img src="src/electronics_castle_1412_2100kv_5mm.jpg" width="500"> |
-| 🔵 **Castle Creations 1415 2400KV** (#060-0060-00, 1/8" shaft) | **Type:** Sensored brushless (1.4" × 1.5" stator)<br>**KV:** 2400<br>**Cells:** 3-4S (4S native, no caveats)<br>**Can:** 36mm × 69.5mm (just under the 70mm Must)<br>**Shaft:** 1/8" (3.17mm)<br>**Sensored:** Yes — SmartSense / sensored / sensorless; ROAR-standard sensor port<br>**Poles/Slots:** 4-pole 12-slot<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** Yes (front bell/bearing or rotor/shaft replaceable)<br>**Weight:** 318g (with wires)<br>**Price:** $129.95 (list $159) | Pro: 4S native (no conservative gearing required), 2400KV runs cool without a fan, **improved 4-pole 12-slot design with less heat**, **rebuildable** (front bell/bearing or rotor/shaft replaceable), QuietSense sensor noise shielding, 75,000 RPM max, fan optional<br><br>Con: Heaviest 4S Castle option at 318g, no IP rating, requires regearing for top speed | <img src="src/electronics_castle_1415_2400kv.jpg" width="500"> |
-| 🔵 **Castle Creations 1415 2400KV — 5mm shaft** (#060-0067-00) | **Type:** Sensored brushless (1.4" × 1.5" stator)<br>**KV:** 2400<br>**Cells:** 3-4S (4S native)<br>**Can:** 36mm × 69.5mm<br>**Shaft:** 5mm output shaft<br>**Sensored:** Yes — SmartSense; ROAR-standard sensor port<br>**Poles/Slots:** 4-pole 12-slot<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** Yes<br>**Weight:** 318g<br>**Price:** $134.95 (list $165.15) | Pro: All the 1415 2400KV traits + thicker 5mm shaft for high-torque pinion compatibility<br><br>Con: $5 premium over the 1/8" 1415 | <img src="src/electronics_castle_1415_2400kv.jpg" width="500"><br><em>shared photo — same motor as 1415 2400KV, different shaft</em> |
-| 🔵 **Tekin Pro4 2400KV** (#TT2507) | **Type:** Sensored brushless (CNC 6061 T6 aluminum heatsink can)<br>**KV:** 2400<br>**Cells:** 1-4S LiPo / LiHV (4.2-17.4V) — full 4S native, even handles HV<br>**Can:** 35.85mm × 52.9mm (well under both size Musts)<br>**Shaft:** 5mm × 15.3mm<br>**Sensored:** Yes (dual-plug sensor harness, sensored + sensorless)<br>**Poles/Slots:** 4-pole 12-slot (same lamination class as Castle 1415)<br>**Rotor:** 18.5mm<br>**Max RPM:** 65,000<br>**Max temp:** 180°F (82°C)<br>**Bearings:** Front 5×14×5mm / rear 5×11×5mm (ABEC5)<br>**Rebuildable:** Yes<br>**Weight:** 179g ⭐ lightest motor in the comparison<br>**Price:** $59.99 | Pro: **Lightest motor in the entire comparison at 179g** (86g lighter than Castle 1412, 139g lighter than 1415, 42g lighter than the Pro4 HD 2500KV). **Cheapest 4S 2400KV motor at $60** — half the Castle 1415 price. 4-pole 12-slot, 5mm shaft, rebuildable, documented bearings, universal dual-plug sensor, full 4S/HV rating with no "with care" caveats. Based on Tekin's proven T8 1/8 design but sized for 1/10 4WD. The matched pick for a light chassis on 4S<br><br>Con: 65k max RPM lower than Castle's 75k (smaller top-end ceiling); shorter can (52.9mm) means less iron mass than the Pro4 HD or Castle 1415 — slightly less thermal headroom under sustained heavy loads, but offset by being lighter | <img src="src/electronics_tekin_pro4_2400kv.jpg" width="500"> |
-| 🥈 **Tekin Pro4 HD 2500KV** (#TT2521) — *runner-up, superseded* | **Type:** Sensored brushless (CNC 6061 T6 aluminum heatsink can, "HD" 550 long can)<br>**KV:** 2500<br>**Cells:** 1-4S LiPo / LiHV (4.2-17.4V) — full 4S native with HV<br>**Can:** 35.85mm × 62.5mm (same diameter as Pro4, ~10mm longer)<br>**Shaft:** 5mm × 15.3mm<br>**Sensored:** Yes (dual-plug sensor harness, sensored + sensorless)<br>**Poles/Slots:** 4-pole 12-slot<br>**Rotor:** 18.5mm (same as Pro4)<br>**Max RPM:** 65,000<br>**Max temp:** 180°F (82°C)<br>**Bearings:** Front 5×14×5mm / rear 5×11×5mm (ABEC5)<br>**Rebuildable:** Yes<br>**Weight:** 221g<br>**Price:** $69.99 | Pro: HD long can = **42g more iron stator** for sustained thermal headroom and a higher saturation point. **Same peak torque as the regular Pro4** (Kt is determined by KV, and the HD's 2500KV vs Pro4's 2400KV is a ~4% wash either way) — what the extra iron actually buys is the ability to hold that peak torque longer without overheating. Same Tekin 4-pole 12-slot architecture, same shaft / bearings / sensor / 1-4S/LiHV rating, just longer can. 5mm shaft, rebuildable, documented bearings, US-designed. Half the price and ~100g lighter than the Castle 1415<br><br>Con: **Superseded by the in-hand EZRun 3665SD G3 2400KV** — no reason to spend $69.99 on this once the MAX10 G2 combo was bought. Would still be the pick on weight (221g vs 304.5g) if buying fresh | <img src="src/electronics_tekin_pro4_hd_2500kv.jpg" width="500"> |
-| 🔵 **Tekin Redline T8 Gen3 4030 2650KV** (#TEKTT2340) | **Type:** Sensored brushless (true 1/8 racing motor)<br>**KV:** 2650<br>**Cells:** 4S (designed for 1/8 4WD Buggy on 4S)<br>**Can:** 40mm × 69mm (42mm with fins) — over 36mm Must but **passes the size exception by being lighter than 36mm options**<br>**Shaft:** 5mm × 19mm<br>**Sensored:** Yes (Tekin standard)<br>**Poles/Slots:** N/A<br>**Rotor:** 18.5mm<br>**Max RPM:** 65,000<br>**Max temp:** 180°F (82°C)<br>**Bearings:** Front 5×16×5mm / rear 5×11×5mm<br>**Rebuildable:** Yes<br>**Weight:** 311g (7g lighter than Castle 1415)<br>**Price:** ~$180-200 | Pro: **The 42-size that's actually lighter than the Castle 1415 (311g vs 318g)** — qualifies under my size-Must exception. True 1/8 racing motor, 5mm × 19mm beefy shaft, 4S native, rebuildable, bigger rotor = more leverage per amp, designed by Tekin's racing program<br><br>Con: 40mm OD = larger footprint than 36mm motors; 65k max RPM (1515-class ceiling, lower than 1412/1415's 75k); $40-50 more expensive than the Castle 1415 | <img src="src/electronics_tekin_redline_t8_gen3_4030_2650kv.jpg" width="500"> |
-| 🚫 ~~Tekin Pro4 HD 3000KV~~ (#TT2520) | **Type:** Sensored brushless (same physical motor as Pro4 HD 2500KV)<br>**KV:** 3000<br>**Cells:** 1-3S LiPo / LiHV (4.2-13.05V) — **3S max**<br>**Can:** 35.85mm × 62.5mm<br>**Shaft:** 5mm × 15.3mm<br>**Sensored:** Yes<br>**Poles/Slots:** 4-pole 12-slot<br>**Rotor:** 18.5mm<br>**Max RPM:** 65,000<br>**Max temp:** 180°F<br>**Bearings:** Front 5×14×5 / rear 5×11×5 (ABEC5)<br>**Rebuildable:** Yes<br>**Weight:** 221g<br>**Price:** $89.99 | Pro: Higher-KV sibling of the Pro4 HD 2500KV — same proven build, more pipey character on 3S<br><br>Con: **1-3S max — fails the 4S Must.** Same pattern as the regular Pro4: the 2400/2500KV variants are 4S rated, the 3000/3300KV variants are 3S only | <img src="src/electronics_tekin_pro4_hd_3000kv.jpg" width="500"> |
-| 🚫 ~~Tekin Pro4 3300KV~~ (#TT2502) | **Type:** Sensored brushless (same physical motor as Pro4 2400KV)<br>**KV:** 3300<br>**Cells:** 1-3S LiPo / LiHV (4.2-13.05V) — **3S max**<br>**Can:** 35.85mm × 52.9mm<br>**Shaft:** 5mm × 15.3mm<br>**Sensored:** Yes<br>**Poles/Slots:** 4-pole 12-slot<br>**Rotor:** 18.5mm<br>**Max RPM:** 65,000<br>**Max temp:** 180°F<br>**Bearings:** Front 5×14×5 / rear 5×11×5<br>**Rebuildable:** Yes<br>**Weight:** 179g<br>**Price:** $59.99 | Pro: Cheap ($60), light (179g), same Pro4 build quality, would be a great motor on 3S<br><br>Con: **1-3S max — fails the 4S Must.** Tekin is explicit about the 3S cap (vs Castle 1412 3200KV which is "4S with care" — different manufacturer philosophy on conservative ratings) | <img src="src/electronics_tekin_pro4_2400kv.jpg" width="500"><br><em>shared photo with Pro4 2400KV — same physical motor</em> |
-| ⭐ **HobbyWing EZRun 3665SD G3 2400KV** (#30402604) — *chosen, in hand, came with the MAX10 G2 combo* | **Type:** Sensored brushless (IP67, modular detachable; R = 0.00816Ω, no-load 5.2A)<br>**KV:** 2400 — *only this variant is 4S; the 3200/4000KV are 2-3S*<br>**Cells:** 2-4S<br>**Can:** 37mm × 65.8mm<br>**Shaft:** 5mm × 16.5mm<br>**Sensored:** Yes (G3 plug — matched in the combo)<br>**Poles/Slots:** 4-pole<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A (motor temp protection)<br>**Bearings:** Front 5×16×5 / rear 5×11×5<br>**Rebuildable:** Yes (modular)<br>**Weight:** 304.5g<br>**Price:** ✅ **in hand** — came with the **$127 [MAX10 G2 combo](esc_analysis.md)** (bought Jun 25 2026) | Pro: **Chosen — zero additional spend, came matched with the MAX10 G2 ESC.** 4S-native + IP67; the G3 plug is **matched, no adapter**; modular/rebuildable, bearings documented (front 5×16×5 / rear 5×11×5), 4-pole<br><br>Con: **Heavy — 304.5g** (~40g over the Castle 1412 265g, ~125g over the 179g Tekin Pro4 2400KV, ~84g over the Tekin Pro4 HD 221g); the G3 plug is only adapter-free with the matching MAX10 G2 ESC — the in-hand Fire Phoenix now needs the HWA30810007 adapter if ever run standalone | <img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" width="500"> |
-| 🚫 ~~HobbyWing EZRun 3652SD G3 3300KV~~ (#30402603) | **Type:** Sensored brushless (IP67, modular detachable; R = 0.00696Ω, no-load 3.9A)<br>**KV:** 3300<br>**Cells:** 2-3S max<br>**Can:** 37mm × 53mm<br>**Shaft:** 3.17mm × 15mm<br>**Sensored:** Yes (G3 plug)<br>**Poles/Slots:** 4-pole<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** Front 5×13×4 / rear 5×11×5<br>**Rebuildable:** Yes (modular)<br>**Weight:** 227.1g<br>**Price:** ~$60 (MSRP $93) | Pro: Lightest of the HW G3 motors, IP67, modular detachable, **bearings documented** (front 5×13×4 / rear 5×11×5), 4-pole<br><br>Con: **2-3S max — fails the 4S Must;** thin 3.17mm shaft. Same can also sold in **4100KV (#30402605, 2-3S)** and **5400KV (#30402606, 2S)** — all sub-4S, ruled out too | <img src="src/electronics_hobbywing_ezrun_3652sd_g3.jpg" width="500"> |
-| 🚫 ~~HobbyWing EZRun 3665SD G3 3200KV~~ (#30402607) | **Type:** Sensored brushless (IP67, modular detachable; R = 0.00555Ω, no-load 7.1A)<br>**KV:** 3200<br>**Cells:** 2-3S max<br>**Can:** 37mm × 65.8mm<br>**Shaft:** 5mm × 16.5mm<br>**Sensored:** Yes (proprietary G3 plug)<br>**Poles/Slots:** 4-pole<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** Front 5×16×5 / rear 5×11×5<br>**Rebuildable:** Yes (modular)<br>**Weight:** 304.4g<br>**Price:** ~$70 (MSRP $120) | Pro: IP67, modular detachable, bearings documented, 4-pole, R = 0.00555Ω<br><br>Con: **2-3S max — fails the 4S Must** (heat at 4S; same can as the 2400KV, run that for 4S). Also has the proprietary plug problem | <img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" width="500"><br><em>shared photo with 2400KV — physically identical motor</em> |
-| 🚫 ~~HobbyWing EZRun 3665SD G3 4000KV~~ (#30402608) | **Type:** Sensored brushless (IP67, modular detachable; R = 0.00495Ω, no-load 8.2A)<br>**KV:** 4000<br>**Cells:** 2-3S max<br>**Can:** 37mm × 65.8mm<br>**Shaft:** 5mm × 16.5mm<br>**Sensored:** Yes (proprietary G3 plug)<br>**Poles/Slots:** 4-pole<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** Front 5×16×5 / rear 5×11×5<br>**Rebuildable:** Yes (modular)<br>**Weight:** 297.2g<br>**Price:** ~$70 (MSRP $120) | Pro: Highest top-end of the 3665 line, IP67, modular, 4-pole<br><br>Con: **2-3S max — fails the 4S Must;** highest no-load current (8.2A) = runs hottest of the three. Proprietary G3 plug | <img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" width="500"><br><em>shared photo — physically identical motor</em> |
-| 🚫 ~~HobbyWing XeRun 3660SD G3 3200KV~~ | **Type:** Sensored brushless (competition-grade XeRun line)<br>**KV:** 3200<br>**Cells:** 3S max<br>**Can:** ~36mm × 60mm<br>**Shaft:** N/A<br>**Sensored:** Yes (JST-ZH)<br>**Poles/Slots:** N/A<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 230g<br>**Price:** ~$100 (MSRP $140) | Pro: Lighter than EZRun 3665, competition-grade racing line<br><br>Con: **3S max — fails the 4S Must** | <img src="src/electronics_hobbywing_xerun_3660sd_g3.jpg" width="500"> |
-| 🚫 ~~Castle Creations 1515 V2 2200KV~~ (#060-0093-00) | **Type:** Sensored brushless (true 1/8 scale; Kevlar-wrapped rotor, 180°C magnets, 10 AWG silicone wire)<br>**KV:** 2200<br>**Cells:** 2-6S<br>**Can:** 40mm × 75.4mm (41.4mm with fins)<br>**Shaft:** N/A<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Kevlar-wrapped<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** Yes (explicit gold-plated solder tabs)<br>**Weight:** 426g with wires (380g without)<br>**Price:** $195.95 (list $239.75) | Pro: True 1/8 scale, runs 6S, rebuildable, **explicit gold-plated solder tabs**, Kevlar-wrapped rotor, 180°C-rated magnets, 10 AWG silicone wire<br><br>Con: **40mm × 75.4mm — fails BOTH the 36mm can Must and the ≤70mm length Must.** 426g is overkill for a 1/10 build; Castle explicitly targets 1/8 buggies / truggies and 1/10 monster trucks up to 15 lb | <img src="src/electronics_castle_1515_v2_2200kv.jpg" width="500"> |
-| 🚫 ~~Castle Creations 1406 2280KV~~ (#060-0069-00) | **Type:** Sensored brushless (smallest 14-series; Recon G6 Certified)<br>**KV:** 2280<br>**Cells:** 2-4S<br>**Can:** 36mm × 49.5mm (smallest 14-series)<br>**Shaft:** 15mm × 1/8"<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 100,000 (vs 75k for 1412/1415)<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 197g (lightest in the comparison)<br>**Price:** $104.95 (list $128.45) | Pro: Cheapest 14-series, lightest at 197g, 4S native, 36mm × 49.5mm fits the size Musts comfortably, very high 100k max RPM, Recon G6 certified<br><br>Con: **Castle officially rates max vehicle weight at only 5 lb for racing / aggressive driving** (8 lb for low-speed / crawling). The FastAzJato4x4 is ~6-7 lb minimum with battery — **over Castle's racing weight limit, will burn up under sustained 4S loads**. The 0.6" magnet length means much less copper and iron than the 1412/1415, so thermal mass is way lower. Castle targets 1406 at 1/10 rock crawlers, trail rigs, touring cars, lighter stadium trucks | <img src="src/electronics_castle_1406_2280kv.png" width="500"> |
+| 🟢 **Castle Creations 1412 3200KV** (#060-0085-00, 1/8" shaft) | **Type:** Sensored brushless (1.4" × 1.2" stator)<br>**KV:** 3200<br>**Cells:** 2-4S (Castle says up to 3S ideal, 4S with conservative gearing)<br>**Can:** 36mm × 62.5mm<br>**Shaft:** 1/8" (3.17mm)<br>**Sensored:** Yes (Castle SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 265g (with wires)<br>**Price:** $0 in hand (retail $119.95) | Pro: Free, proven on 4S with Fire Phoenix, no regearing, lightest 4S option, 75,000 max RPM, M3 mount @ 25.4mm spacing<br><br>Con: Castle explicitly rates it 3S-ideal; 4S "needs conservative gearing and a close eye on temps", runs hot on 4S in practice, fan basically required | <img src="src/electronics_castle_1412_3200kv.jpg" width="500"> |
+| 🔵 **Castle Creations 1412 3200KV, 5mm shaft** (#060-0096-00) | **Type:** Sensored brushless (1.4" × 1.2" stator)<br>**KV:** 3200<br>**Cells:** 2-4S<br>**Can:** 36mm × 62.5mm (same as 1412 3200KV above)<br>**Shaft:** 21mm × 5mm (longer + thicker than the 1/8" variant's 15mm × 3.17mm)<br>**Sensored:** Yes (Castle SmartSense)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 265g<br>**Price:** $129.95 (list $159) | Pro: All the 1412 3200KV traits + thicker 5mm shaft for high-torque pinion compatibility; longer shaft gives more pinion clearance<br><br>Con: Same heat problem as the 1/8" variant; $10 premium over the 1/8" version | <img src="src/electronics_castle_1412_3200kv_5mm.jpg" width="500"> |
+| 🔵 **Castle Creations 1412 2100KV** (#060-0094-00, 1/8" shaft) | **Type:** Sensored brushless (1.4" × 1.2" stator)<br>**KV:** 2100<br>**Cells:** 2-4S (4S NATIVE), Castle: "cool running torque animal" on 4S<br>**Can:** 36mm × 62.5mm (same as 3200KV)<br>**Shaft:** 1/8" (3.17mm)<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 265.4g<br>**Price:** $119.95 (list $146.80) | Pro: **4S native with no caveats** (vs the 3200KV's "with conservative gearing"). Castle officially rates it for 2WD/4WD SC trucks / MT / rock racers up to 6.5 lb on 4S. Same can, weight, mount, and shaft as the in-hand 1412 3200KV, arguably the better-engineered 4S motor in the 1412 family<br><br>Con: 1/8" shaft (5mm preferred); slightly lower top speed than the 2400KV at the same gearing | <img src="src/electronics_castle_1412_2100kv.jpg" width="500"> |
+| 🔵 **Castle Creations 1412 2100KV, 5mm shaft** (#060-0095-00) | **Type:** Sensored brushless (1.4" × 1.2" stator)<br>**KV:** 2100<br>**Cells:** 2-4S (4S native)<br>**Can:** 36mm × 62.5mm (same as 1412 2100KV)<br>**Shaft:** 21mm × 5mm<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 265.4g<br>**Price:** $124.95 (list $152.90) | Pro: 2100KV 4S-native + the preferred 5mm shaft + longer shaft for pinion clearance; Castle calls this a cool-running torque animal on 4S; fan is optional not required<br><br>Con: Slightly lower top speed than the 2400KV at the same gearing | <img src="src/electronics_castle_1412_2100kv_5mm.jpg" width="500"> |
+| 🔵 **Castle Creations 1415 2400KV** (#060-0060-00, 1/8" shaft) | **Type:** Sensored brushless (1.4" × 1.5" stator)<br>**KV:** 2400<br>**Cells:** 3-4S (4S native, no caveats)<br>**Can:** 36mm × 69.5mm (just under the 70mm Must)<br>**Shaft:** 1/8" (3.17mm)<br>**Sensored:** Yes, SmartSense / sensored / sensorless; ROAR-standard sensor port<br>**Poles/Slots:** 4-pole 12-slot<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** Yes (front bell/bearing or rotor/shaft replaceable)<br>**Weight:** 318g (with wires)<br>**Price:** $129.95 (list $159) | Pro: 4S native (no conservative gearing required), 2400KV runs cool without a fan, **improved 4-pole 12-slot design with less heat**, **rebuildable** (front bell/bearing or rotor/shaft replaceable), QuietSense sensor noise shielding, 75,000 RPM max, fan optional<br><br>Con: Heaviest 4S Castle option at 318g, no IP rating, requires regearing for top speed | <img src="src/electronics_castle_1415_2400kv.jpg" width="500"> |
+| 🔵 **Castle Creations 1415 2400KV, 5mm shaft** (#060-0067-00) | **Type:** Sensored brushless (1.4" × 1.5" stator)<br>**KV:** 2400<br>**Cells:** 3-4S (4S native)<br>**Can:** 36mm × 69.5mm<br>**Shaft:** 5mm output shaft<br>**Sensored:** Yes, SmartSense; ROAR-standard sensor port<br>**Poles/Slots:** 4-pole 12-slot<br>**Rotor:** Not published<br>**Max RPM:** 75,000<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** Yes<br>**Weight:** 318g<br>**Price:** $134.95 (list $165.15) | Pro: All the 1415 2400KV traits + thicker 5mm shaft for high-torque pinion compatibility<br><br>Con: $5 premium over the 1/8" 1415 | <img src="src/electronics_castle_1415_2400kv.jpg" width="500"><br><em>shared photo, same motor as 1415 2400KV, different shaft</em> |
+| 🔵 **Tekin Pro4 2400KV** (#TT2507) | **Type:** Sensored brushless (CNC 6061 T6 aluminum heatsink can)<br>**KV:** 2400<br>**Cells:** 1-4S LiPo / LiHV (4.2-17.4V), full 4S native, even handles HV<br>**Can:** 35.85mm × 52.9mm (well under both size Musts)<br>**Shaft:** 5mm × 15.3mm<br>**Sensored:** Yes (dual-plug sensor harness, sensored + sensorless)<br>**Poles/Slots:** 4-pole 12-slot (same lamination class as Castle 1415)<br>**Rotor:** 18.5mm<br>**Max RPM:** 65,000<br>**Max temp:** 180°F (82°C)<br>**Bearings:** Front 5×14×5mm / rear 5×11×5mm (ABEC5)<br>**Rebuildable:** Yes<br>**Weight:** 179g ⭐ lightest motor in the comparison<br>**Price:** $59.99 | Pro: **Lightest motor in the entire comparison at 179g** (86g lighter than Castle 1412, 139g lighter than 1415, 42g lighter than the Pro4 HD 2500KV). **Cheapest 4S 2400KV motor at $60**, half the Castle 1415 price. 4-pole 12-slot, 5mm shaft, rebuildable, documented bearings, universal dual-plug sensor, full 4S/HV rating with no "with care" caveats. Based on Tekin's proven T8 1/8 design but sized for 1/10 4WD. The matched pick for a light chassis on 4S<br><br>Con: 65k max RPM lower than Castle's 75k (smaller top-end ceiling); shorter can (52.9mm) means less iron mass than the Pro4 HD or Castle 1415, slightly less thermal headroom under sustained heavy loads, but offset by being lighter | <img src="src/electronics_tekin_pro4_2400kv.jpg" width="500"> |
+| 🥈 **Tekin Pro4 HD 2500KV** (#TT2521), *runner-up, superseded* | **Type:** Sensored brushless (CNC 6061 T6 aluminum heatsink can, "HD" 550 long can)<br>**KV:** 2500<br>**Cells:** 1-4S LiPo / LiHV (4.2-17.4V), full 4S native with HV<br>**Can:** 35.85mm × 62.5mm (same diameter as Pro4, ~10mm longer)<br>**Shaft:** 5mm × 15.3mm<br>**Sensored:** Yes (dual-plug sensor harness, sensored + sensorless)<br>**Poles/Slots:** 4-pole 12-slot<br>**Rotor:** 18.5mm (same as Pro4)<br>**Max RPM:** 65,000<br>**Max temp:** 180°F (82°C)<br>**Bearings:** Front 5×14×5mm / rear 5×11×5mm (ABEC5)<br>**Rebuildable:** Yes<br>**Weight:** 221g<br>**Price:** $69.99 | Pro: HD long can = **42g more iron stator** for sustained thermal headroom and a higher saturation point. **Same peak torque as the regular Pro4** (Kt is determined by KV, and the HD's 2500KV vs Pro4's 2400KV is a ~4% wash either way), what the extra iron actually buys is the ability to hold that peak torque longer without overheating. Same Tekin 4-pole 12-slot architecture, same shaft / bearings / sensor / 1-4S/LiHV rating, just longer can. 5mm shaft, rebuildable, documented bearings, US-designed. Half the price and ~100g lighter than the Castle 1415<br><br>Con: **Superseded by the in-hand EZRun 3665SD G3 2400KV**, no reason to spend $69.99 on this once the MAX10 G2 combo was bought. Would still be the pick on weight (221g vs 304.5g) if buying fresh | <img src="src/electronics_tekin_pro4_hd_2500kv.jpg" width="500"> |
+| 🔵 **Tekin Redline T8 Gen3 4030 2650KV** (#TEKTT2340) | **Type:** Sensored brushless (true 1/8 racing motor)<br>**KV:** 2650<br>**Cells:** 4S (designed for 1/8 4WD Buggy on 4S)<br>**Can:** 40mm × 69mm (42mm with fins), over 36mm Must but **passes the size exception by being lighter than 36mm options**<br>**Shaft:** 5mm × 19mm<br>**Sensored:** Yes (Tekin standard)<br>**Poles/Slots:** N/A<br>**Rotor:** 18.5mm<br>**Max RPM:** 65,000<br>**Max temp:** 180°F (82°C)<br>**Bearings:** Front 5×16×5mm / rear 5×11×5mm<br>**Rebuildable:** Yes<br>**Weight:** 311g (7g lighter than Castle 1415)<br>**Price:** ~$180-200 | Pro: **The 42-size that's actually lighter than the Castle 1415 (311g vs 318g)**, qualifies under my size-Must exception. True 1/8 racing motor, 5mm × 19mm beefy shaft, 4S native, rebuildable, bigger rotor = more leverage per amp, designed by Tekin's racing program<br><br>Con: 40mm OD = larger footprint than 36mm motors; 65k max RPM (1515-class ceiling, lower than 1412/1415's 75k); $40-50 more expensive than the Castle 1415 | <img src="src/electronics_tekin_redline_t8_gen3_4030_2650kv.jpg" width="500"> |
+| 🚫 ~~Tekin Pro4 HD 3000KV~~ (#TT2520) | **Type:** Sensored brushless (same physical motor as Pro4 HD 2500KV)<br>**KV:** 3000<br>**Cells:** 1-3S LiPo / LiHV (4.2-13.05V), **3S max**<br>**Can:** 35.85mm × 62.5mm<br>**Shaft:** 5mm × 15.3mm<br>**Sensored:** Yes<br>**Poles/Slots:** 4-pole 12-slot<br>**Rotor:** 18.5mm<br>**Max RPM:** 65,000<br>**Max temp:** 180°F<br>**Bearings:** Front 5×14×5 / rear 5×11×5 (ABEC5)<br>**Rebuildable:** Yes<br>**Weight:** 221g<br>**Price:** $89.99 | Pro: Higher-KV sibling of the Pro4 HD 2500KV, same proven build, more pipey character on 3S<br><br>Con: **1-3S max, fails the 4S Must.** Same pattern as the regular Pro4: the 2400/2500KV variants are 4S rated, the 3000/3300KV variants are 3S only | <img src="src/electronics_tekin_pro4_hd_3000kv.jpg" width="500"> |
+| 🚫 ~~Tekin Pro4 3300KV~~ (#TT2502) | **Type:** Sensored brushless (same physical motor as Pro4 2400KV)<br>**KV:** 3300<br>**Cells:** 1-3S LiPo / LiHV (4.2-13.05V), **3S max**<br>**Can:** 35.85mm × 52.9mm<br>**Shaft:** 5mm × 15.3mm<br>**Sensored:** Yes<br>**Poles/Slots:** 4-pole 12-slot<br>**Rotor:** 18.5mm<br>**Max RPM:** 65,000<br>**Max temp:** 180°F<br>**Bearings:** Front 5×14×5 / rear 5×11×5<br>**Rebuildable:** Yes<br>**Weight:** 179g<br>**Price:** $59.99 | Pro: Cheap ($60), light (179g), same Pro4 build quality, would be a great motor on 3S<br><br>Con: **1-3S max, fails the 4S Must.** Tekin is explicit about the 3S cap (vs Castle 1412 3200KV which is "4S with care", different manufacturer philosophy on conservative ratings) | <img src="src/electronics_tekin_pro4_2400kv.jpg" width="500"><br><em>shared photo with Pro4 2400KV, same physical motor</em> |
+| ⭐ **HobbyWing EZRun 3665SD G3 2400KV** (#30402604), *chosen, in hand, came with the MAX10 G2 combo* | **Type:** Sensored brushless (IP67, modular detachable; R = 0.00816Ω, no-load 5.2A)<br>**KV:** 2400, *only this variant is 4S; the 3200/4000KV are 2-3S*<br>**Cells:** 2-4S<br>**Can:** 37mm × 65.8mm<br>**Shaft:** 5mm × 16.5mm<br>**Sensored:** Yes (G3 plug, matched in the combo)<br>**Poles/Slots:** 4-pole<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A (motor temp protection)<br>**Bearings:** Front 5×16×5 / rear 5×11×5<br>**Rebuildable:** Yes (modular)<br>**Weight:** 304.5g<br>**Price:** ✅ **in hand**, came with the **$127 [MAX10 G2 combo](esc_analysis.md)** (bought Jun 25 2026) | Pro: **Chosen, zero additional spend, came matched with the MAX10 G2 ESC.** 4S-native + IP67; the G3 plug is **matched, no adapter**; modular/rebuildable, bearings documented (front 5×16×5 / rear 5×11×5), 4-pole<br><br>Con: **Heavy, 304.5g** (~40g over the Castle 1412 265g, ~125g over the 179g Tekin Pro4 2400KV, ~84g over the Tekin Pro4 HD 221g); the G3 plug is only adapter-free with the matching MAX10 G2 ESC, the in-hand Fire Phoenix now needs the HWA30810007 adapter if ever run standalone | <img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" width="500"> |
+| 🚫 ~~HobbyWing EZRun 3652SD G3 3300KV~~ (#30402603) | **Type:** Sensored brushless (IP67, modular detachable; R = 0.00696Ω, no-load 3.9A)<br>**KV:** 3300<br>**Cells:** 2-3S max<br>**Can:** 37mm × 53mm<br>**Shaft:** 3.17mm × 15mm<br>**Sensored:** Yes (G3 plug)<br>**Poles/Slots:** 4-pole<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** Front 5×13×4 / rear 5×11×5<br>**Rebuildable:** Yes (modular)<br>**Weight:** 227.1g<br>**Price:** ~$60 (MSRP $93) | Pro: Lightest of the HW G3 motors, IP67, modular detachable, **bearings documented** (front 5×13×4 / rear 5×11×5), 4-pole<br><br>Con: **2-3S max, fails the 4S Must;** thin 3.17mm shaft. Same can also sold in **4100KV (#30402605, 2-3S)** and **5400KV (#30402606, 2S)**, all sub-4S, ruled out too | <img src="src/electronics_hobbywing_ezrun_3652sd_g3.jpg" width="500"> |
+| 🚫 ~~HobbyWing EZRun 3665SD G3 3200KV~~ (#30402607) | **Type:** Sensored brushless (IP67, modular detachable; R = 0.00555Ω, no-load 7.1A)<br>**KV:** 3200<br>**Cells:** 2-3S max<br>**Can:** 37mm × 65.8mm<br>**Shaft:** 5mm × 16.5mm<br>**Sensored:** Yes (proprietary G3 plug)<br>**Poles/Slots:** 4-pole<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** Front 5×16×5 / rear 5×11×5<br>**Rebuildable:** Yes (modular)<br>**Weight:** 304.4g<br>**Price:** ~$70 (MSRP $120) | Pro: IP67, modular detachable, bearings documented, 4-pole, R = 0.00555Ω<br><br>Con: **2-3S max, fails the 4S Must** (heat at 4S; same can as the 2400KV, run that for 4S). Also has the proprietary plug problem | <img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" width="500"><br><em>shared photo with 2400KV, physically identical motor</em> |
+| 🚫 ~~HobbyWing EZRun 3665SD G3 4000KV~~ (#30402608) | **Type:** Sensored brushless (IP67, modular detachable; R = 0.00495Ω, no-load 8.2A)<br>**KV:** 4000<br>**Cells:** 2-3S max<br>**Can:** 37mm × 65.8mm<br>**Shaft:** 5mm × 16.5mm<br>**Sensored:** Yes (proprietary G3 plug)<br>**Poles/Slots:** 4-pole<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** Front 5×16×5 / rear 5×11×5<br>**Rebuildable:** Yes (modular)<br>**Weight:** 297.2g<br>**Price:** ~$70 (MSRP $120) | Pro: Highest top-end of the 3665 line, IP67, modular, 4-pole<br><br>Con: **2-3S max, fails the 4S Must;** highest no-load current (8.2A) = runs hottest of the three. Proprietary G3 plug | <img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" width="500"><br><em>shared photo, physically identical motor</em> |
+| 🚫 ~~HobbyWing XeRun 3660SD G3 3200KV~~ | **Type:** Sensored brushless (competition-grade XeRun line)<br>**KV:** 3200<br>**Cells:** 3S max<br>**Can:** ~36mm × 60mm<br>**Shaft:** N/A<br>**Sensored:** Yes (JST-ZH)<br>**Poles/Slots:** N/A<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 230g<br>**Price:** ~$100 (MSRP $140) | Pro: Lighter than EZRun 3665, competition-grade racing line<br><br>Con: **3S max, fails the 4S Must** | <img src="src/electronics_hobbywing_xerun_3660sd_g3.jpg" width="500"> |
+| 🚫 ~~Castle Creations 1515 V2 2200KV~~ (#060-0093-00) | **Type:** Sensored brushless (true 1/8 scale; Kevlar-wrapped rotor, 180°C magnets, 10 AWG silicone wire)<br>**KV:** 2200<br>**Cells:** 2-6S<br>**Can:** 40mm × 75.4mm (41.4mm with fins)<br>**Shaft:** N/A<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Kevlar-wrapped<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** Yes (explicit gold-plated solder tabs)<br>**Weight:** 426g with wires (380g without)<br>**Price:** $195.95 (list $239.75) | Pro: True 1/8 scale, runs 6S, rebuildable, **explicit gold-plated solder tabs**, Kevlar-wrapped rotor, 180°C-rated magnets, 10 AWG silicone wire<br><br>Con: **40mm × 75.4mm, fails BOTH the 36mm can Must and the ≤70mm length Must.** 426g is overkill for a 1/10 build; Castle explicitly targets 1/8 buggies / truggies and 1/10 monster trucks up to 15 lb | <img src="src/electronics_castle_1515_v2_2200kv.jpg" width="500"> |
+| 🚫 ~~Castle Creations 1406 2280KV~~ (#060-0069-00) | **Type:** Sensored brushless (smallest 14-series; Recon G6 Certified)<br>**KV:** 2280<br>**Cells:** 2-4S<br>**Can:** 36mm × 49.5mm (smallest 14-series)<br>**Shaft:** 15mm × 1/8"<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 100,000 (vs 75k for 1412/1415)<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 197g (lightest in the comparison)<br>**Price:** $104.95 (list $128.45) | Pro: Cheapest 14-series, lightest at 197g, 4S native, 36mm × 49.5mm fits the size Musts comfortably, very high 100k max RPM, Recon G6 certified<br><br>Con: **Castle officially rates max vehicle weight at only 5 lb for racing / aggressive driving** (8 lb for low-speed / crawling). The FastAzJato4x4 is ~6-7 lb minimum with battery, **over Castle's racing weight limit, will burn up under sustained 4S loads**. The 0.6" magnet length means much less copper and iron than the 1412/1415, so thermal mass is way lower. Castle targets 1406 at 1/10 rock crawlers, trail rigs, touring cars, lighter stadium trucks | <img src="src/electronics_castle_1406_2280kv.png" width="500"> |
 
-> **Why the 3200KV / 4000KV cap at 3S (verified — heat).** Higher KV spins faster per volt, so on 4S a 3200/4000KV hits very high RPM and draws **more current** — the no-load current alone climbs 2400KV **5.2A** → 3200KV **7.1A** → 4000KV **8.2A**. Heat loss is **I²R**, so more current = more heat. Heat then **raises copper resistance** (~0.4%/°C), making *more* heat (a runaway loop), and can **demagnetize the rotor magnets** — which paradoxically *raises* KV so it chases even higher RPM, while torque and efficiency drop. Net effects: the motor "falls off" when hot, **bearings and the ESC get stressed** (heat expansion + higher current). So HW rates the high-KV winds to 3S and only the **2400KV to 4S**. You *can* run a 3200KV on 4S, but heat is exactly the failure mode — it's not a hard wall, it's a thermal one.
+> **Why the 3200KV / 4000KV cap at 3S (verified, heat).** Higher KV spins faster per volt, so on 4S a 3200/4000KV hits very high RPM and draws **more current**, the no-load current alone climbs 2400KV **5.2A** → 3200KV **7.1A** → 4000KV **8.2A**. Heat loss is **I²R**, so more current = more heat. Heat then **raises copper resistance** (~0.4%/°C), making *more* heat (a runaway loop), and can **demagnetize the rotor magnets**, which paradoxically *raises* KV so it chases even higher RPM, while torque and efficiency drop. Net effects: the motor "falls off" when hot, **bearings and the ESC get stressed** (heat expansion + higher current). So HW rates the high-KV winds to 3S and only the **2400KV to 4S**. You *can* run a 3200KV on 4S, but heat is exactly the failure mode, it's not a hard wall, it's a thermal one.
 >
-> **"More mass than the Castle" doesn't unlock 4S for the 3200KV.** The 3665 G3 2400KV and 3200KV are the **same can, same ~304 g** — only the winding differs. The extra mass over the Castle 1412 (265 g) is already on the **2400KV**, which is the one rated for 4S. So if you want 4S on the same motor mass, just run the 2400KV; forcing the 3200KV onto 4S only buys ~33% more top-end RPM (traction-limited on loose dirt) at the cost of the heat loop above.
+> **"More mass than the Castle" doesn't unlock 4S for the 3200KV.** The 3665 G3 2400KV and 3200KV are the **same can, same ~304 g**, only the winding differs. The extra mass over the Castle 1412 (265 g) is already on the **2400KV**, which is the one rated for 4S. So if you want 4S on the same motor mass, just run the 2400KV; forcing the 3200KV onto 4S only buys ~33% more top-end RPM (traction-limited on loose dirt) at the cost of the heat loop above.
 
 ---
 
 ## Related: Motor Cooling (Optional)
 
-Not a motor itself — a fan/heatsink add-on that bolts to the motor's outside if you need active cooling. Tracked here because it directly affects the motor decision (a 1412 3200KV needs one; a 1415 2400KV or 1412 2100KV doesn't).
+Not a motor itself, a fan/heatsink add-on that bolts to the motor's outside if you need active cooling. Tracked here because it directly affects the motor decision (a 1412 3200KV needs one; a 1415 2400KV or 1412 2100KV doesn't).
 
 > *Spec format (cooling sub-category): Heatsink · Fans · Suits · Footprint · Fan max RPM · Cable · Weight · Price*
 
 | Cooling Rig | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ❌ ~~Surpass Hobby 36mm Dual-Fan Aluminum Heatsink (stock, plastic fans)~~ | **Heatsink:** T6 aluminum frame, graphite fan cover<br>**Fans:** 2× 30mm plastic @ 9g each = 18g<br>**Suits:** 36mm-can 540 / 550 motors (marked "540-L")<br>**Footprint:** 60.2 × 47 × 34.3mm<br>**Fan max RPM:** 28,000 @ 8.4V<br>**Cable:** 263mm extension included<br>**Weight:** 55 g total (18g plastic fans + 37g heatsink/mount/cable)<br>**Price:** ~$7.28 (AliExpress) | Pro: Cheap (~$7), complete kit, lightest as-shipped<br><br>Con: **Plastic fans die fast — in practice you rip them out and swap in metal anyway (see row below).** Also adds 55g up high on the motor; leading 1415 2400KV / 1412 2100KV picks don't need cooling at all | <img src="src/electronics_surpass_hobby_fan_heatsink_36mm_dual.png" width="500"> |
-| ❌ ~~Surpass Hobby Heatsink + separate metal fans (realistic build)~~ | **Heatsink:** Surpass 36mm dual (T6 aluminum), stock plastic fans removed<br>**Fans:** 2× 30mm metal @ 13.17g each = 26.34g (sold separately)<br>**Suits:** 36mm-can 540 / 550 motors<br>**Footprint:** 60.2 × 47 × 34.3mm<br>**Fan max RPM:** N/A<br>**Cable:** 263mm extension included<br>**Weight:** ~63 g total (26.3g metal fans + 37g heatsink/mount/cable)<br>**Price:** ~$7.28 heatsink + ~$10 metal fans = ~$17 all in | Pro: Metal fans basically never fail unless smacked — the actual setup anyone serious would run<br><br>Con: 8g heavier than the stock plastic-fan setup; still bracing a problem the chosen motor shouldn't have | <img src="src/electronics_metal_fan_30mm.jpg" width="500"><br><em>aftermarket metal fans (bought separately) — drop into the Surpass heatsink above</em> |
+| ❌ ~~Surpass Hobby 36mm Dual-Fan Aluminum Heatsink (stock, plastic fans)~~ | **Heatsink:** T6 aluminum frame, graphite fan cover<br>**Fans:** 2× 30mm plastic @ 9g each = 18g<br>**Suits:** 36mm-can 540 / 550 motors (marked "540-L")<br>**Footprint:** 60.2 × 47 × 34.3mm<br>**Fan max RPM:** 28,000 @ 8.4V<br>**Cable:** 263mm extension included<br>**Weight:** 55 g total (18g plastic fans + 37g heatsink/mount/cable)<br>**Price:** ~$7.28 (AliExpress) | Pro: Cheap (~$7), complete kit, lightest as-shipped<br><br>Con: **Plastic fans die fast, in practice you rip them out and swap in metal anyway (see row below).** Also adds 55g up high on the motor; leading 1415 2400KV / 1412 2100KV picks don't need cooling at all | <img src="src/electronics_surpass_hobby_fan_heatsink_36mm_dual.png" width="500"> |
+| ❌ ~~Surpass Hobby Heatsink + separate metal fans (realistic build)~~ | **Heatsink:** Surpass 36mm dual (T6 aluminum), stock plastic fans removed<br>**Fans:** 2× 30mm metal @ 13.17g each = 26.34g (sold separately)<br>**Suits:** 36mm-can 540 / 550 motors<br>**Footprint:** 60.2 × 47 × 34.3mm<br>**Fan max RPM:** N/A<br>**Cable:** 263mm extension included<br>**Weight:** ~63 g total (26.3g metal fans + 37g heatsink/mount/cable)<br>**Price:** ~$7.28 heatsink + ~$10 metal fans = ~$17 all in | Pro: Metal fans basically never fail unless smacked, the actual setup anyone serious would run<br><br>Con: 8g heavier than the stock plastic-fan setup; still bracing a problem the chosen motor shouldn't have | <img src="src/electronics_metal_fan_30mm.jpg" width="500"><br><em>aftermarket metal fans (bought separately), drop into the Surpass heatsink above</em> |
 
 ### Math: where the ~63 g comes from
 
@@ -123,7 +123,7 @@ The Surpass listing ships with plastic fans and lists assembly weight at **55 g*
 
 The 37 g of T6 aluminum frame + graphite cover + cable is baked in regardless of fan choice.
 
-> Must order the **36mm dual-fan** variant — the 28/29mm versions are for smaller 380/390 motors (won't fit a 36mm can), and the single-fan 36mm version (46g) doesn't cool as well. Sizes from the same Surpass listing: 28/29 single 29g, 28/29 dual 34g, 36 single 46g, **36 dual 55g** (all with stock plastic fans).
+> Must order the **36mm dual-fan** variant, the 28/29mm versions are for smaller 380/390 motors (won't fit a 36mm can), and the single-fan 36mm version (46g) doesn't cool as well. Sizes from the same Surpass listing: 28/29 single 29g, 28/29 dual 34g, 36 single 46g, **36 dual 55g** (all with stock plastic fans).
 
 ---
 
@@ -145,7 +145,7 @@ The Castle 1412 3200KV's "free, already in hand, lightest 4S option" advantage l
 | **Tekin Pro4 HD 2500KV bare** ⭐ chosen | Tekin Pro4 HD 2500KV motor | 221 g |
 | | No fan needed (HD long can has the thermal mass) | 0 g |
 | | **Total** | **221 g** |
-| **Tekin Pro4 2400KV + Surpass cooling (metal fans)** | Tekin Pro4 2400KV motor (shorter can — likely wants a fan for sustained 4S in 1/8-buggy-class duty) | 179 g |
+| **Tekin Pro4 2400KV + Surpass cooling (metal fans)** | Tekin Pro4 2400KV motor (shorter can, likely wants a fan for sustained 4S in 1/8-buggy-class duty) | 179 g |
 | | Surpass 36mm dual heatsink + 2× metal fans | ~63 g |
 | | **Total** | **~242 g** |
 | **Tekin Pro4 2400KV bare** (gambling on no fan) | Tekin Pro4 2400KV motor | 179 g |
@@ -156,19 +156,19 @@ The Castle 1412 3200KV's "free, already in hand, lightest 4S option" advantage l
 | | **Total** | **311 g** |
 
 **Ranked by total weight (chosen ESC = Fire Phoenix at 120A):**
-1. **Tekin Pro4 2400KV bare — 179 g** (if no fan needed — gamble on light bashing only)
-2. **Tekin Pro4 HD 2500KV bare — 221 g** ← **chosen pick** (HD can has thermal margin without needing a fan)
-3. Tekin Pro4 2400KV + cooling — 242 g (the realistic Pro4 setup if hard 4S use stresses it)
-4. Castle 1412 2100KV bare — 265 g
-5. Tekin T8 Gen3 4030 2650KV — 311 g
-6. Castle 1415 2400KV bare — 318 g
-7. Castle 1412 3200KV + cooling — 328 g (the in-hand option, heaviest)
+1. **Tekin Pro4 2400KV bare, 179 g** (if no fan needed, gamble on light bashing only)
+2. **Tekin Pro4 HD 2500KV bare, 221 g** ← **chosen pick** (HD can has thermal margin without needing a fan)
+3. Tekin Pro4 2400KV + cooling, 242 g (the realistic Pro4 setup if hard 4S use stresses it)
+4. Castle 1412 2100KV bare, 265 g
+5. Tekin T8 Gen3 4030 2650KV, 311 g
+6. Castle 1415 2400KV bare, 318 g
+7. Castle 1412 3200KV + cooling, 328 g (the in-hand option, heaviest)
 
-**Take:** the Pro4 HD 2500KV at 221 g bare beats every 4S-native option that needs no fan by 44+ g. Even if you gamble on the Pro4 2400KV without cooling at 179 g, the HD is only 42 g heavier and removes the thermal worry. The in-hand 1412 with cooling is 107 g heavier than the chosen Pro4 HD — all of it sitting **up high on the motor** where added mass hurts handling most.
+**Take:** the Pro4 HD 2500KV at 221 g bare beats every 4S-native option that needs no fan by 44+ g. Even if you gamble on the Pro4 2400KV without cooling at 179 g, the HD is only 42 g heavier and removes the thermal worry. The in-hand 1412 with cooling is 107 g heavier than the chosen Pro4 HD, all of it sitting **up high on the motor** where added mass hurts handling most.
 
-> Surpass Hobby 36mm dual-fan heatsink — confirmed specs from listing: aluminum heatsink frame + graphite fan cover + two plastic-blade fans, 28000 RPM @ 8.4V, 55g for the complete 36mm dual-fan assembly (lighter 28/29mm versions are 29-34g, single-fan 36mm is 46g — we'd need the 36mm dual to cool the 36mm-can 1412).
+> Surpass Hobby 36mm dual-fan heatsink, confirmed specs from listing: aluminum heatsink frame + graphite fan cover + two plastic-blade fans, 28000 RPM @ 8.4V, 55g for the complete 36mm dual-fan assembly (lighter 28/29mm versions are 29-34g, single-fan 36mm is 46g, we'd need the 36mm dual to cool the 36mm-can 1412).
 
-**Take:** the in-hand 1412's weight advantage disappears once cooling is honest in the math. The 1415 buys you cooler running, no fan dependence, native 4S, modern 4-pole 12-slot design, and the same effective weight for ~$130. The 1412 2100KV variants do even better — 4S native AND lower bare weight than the 1415.
+**Take:** the in-hand 1412's weight advantage disappears once cooling is honest in the math. The 1415 buys you cooler running, no fan dependence, native 4S, modern 4-pole 12-slot design, and the same effective weight for ~$130. The 1412 2100KV variants do even better, 4S native AND lower bare weight than the 1415.
 
 ---
 
@@ -182,11 +182,11 @@ A brushless motor turns electrical energy into torque. Three things matter:
 
 1. **KV** is a number that says how fast the motor spins per volt of battery, *with no load on it*. A 2400KV motor on a 4S (14.8V) battery will theoretically spin at 2400 × 14.8 = **35,520 RPM** with nothing attached. A 3200KV motor spins at 47,360 RPM. Higher KV = more RPM.
 2. **Torque** is twisting force. The lower the KV, the more torque per amp of current. That's a physics rule called the *torque constant*: `Kt = 60 / (2π × KV)`. So a 2400KV motor makes 33% more torque per amp than a 3200KV motor.
-3. **Gearing** trades RPM for torque. If you use a smaller pinion gear, the motor spins more times per wheel rotation — that multiplies torque at the wheel but slows the wheel down. Bigger pinion = faster wheel, less torque.
+3. **Gearing** trades RPM for torque. If you use a smaller pinion gear, the motor spins more times per wheel rotation, that multiplies torque at the wheel but slows the wheel down. Bigger pinion = faster wheel, less torque.
 
 To make two motors hit the same top speed, the higher-KV motor needs a smaller pinion (less torque multiplication) and the lower-KV motor needs a bigger pinion (more torque multiplication). **At equal top speed, the wheel torque ends up theoretically equal**.
 
-So what's the difference in real life? **Current draw and heat.** A lower-KV motor needs less current to make the same wheel torque. Less current = less waste heat (heat in the windings is `Power_lost = I² × R` — square the current, multiply by resistance). The ESC's current limit also caps how hard each motor can pull.
+So what's the difference in real life? **Current draw and heat.** A lower-KV motor needs less current to make the same wheel torque. Less current = less waste heat (heat in the windings is `Power_lost = I² × R`, square the current, multiply by resistance). The ESC's current limit also caps how hard each motor can pull.
 
 ### Physics in the sim
 
@@ -218,7 +218,7 @@ Motor parameters (KV, internal resistance, pinion):
 | Castle 1415 2400KV | 2400 | 0.0080 | 20T |
 | Castle 1412 2100KV | 2100 | 0.0085 | 22T |
 
-Resistance values are educated estimates — Castle doesn't publish R for surface motors. Used Hobbywing's published G3 numbers as a sanity check.
+Resistance values are educated estimates, Castle doesn't publish R for surface motors. Used Hobbywing's published G3 numbers as a sanity check.
 
 ### Results
 
@@ -233,9 +233,9 @@ Castle 1412 2100KV (22T pinion)        6.32   51.6   0.41s    0.62s    0.83s    
 
 ### What the sim says
 
-- **Top speed is basically equal** — all three motors hit ~52-54 mph because we deliberately geared them that way. The 2100KV is slightly slower because at 22T it's geared just a hair shorter.
-- **0-x mph times are within 20 ms of each other** — when the ESC current limit is the bottleneck (which it is for all three during acceleration), they all accelerate at the same rate. The wheel torque produced is the same because `T_wheel = T_motor × gear_ratio` and the math works out identical when all are at the same current limit.
-- **Heat is where they actually differ** — but **opposite of what intuition says**:
+- **Top speed is basically equal**, all three motors hit ~52-54 mph because we deliberately geared them that way. The 2100KV is slightly slower because at 22T it's geared just a hair shorter.
+- **0-x mph times are within 20 ms of each other**, when the ESC current limit is the bottleneck (which it is for all three during acceleration), they all accelerate at the same rate. The wheel torque produced is the same because `T_wheel = T_motor × gear_ratio` and the math works out identical when all are at the same current limit.
+- **Heat is where they actually differ**, but **opposite of what intuition says**:
   - 3200KV at 120 A: 120² × 0.0055 Ω = **79 W of heat**
   - 2400KV at 120 A: 120² × 0.0080 Ω = **115 W of heat**
   - 2100KV at 120 A: 120² × 0.0085 Ω = **122 W of heat**
@@ -246,13 +246,13 @@ Castle 1412 2100KV (22T pinion)        6.32   51.6   0.41s    0.62s    0.83s    
 This sim is a clean acceleration model. It misses several real-world effects:
 
 1. **Launch is traction-limited, not power-limited.** The sim predicts ~3 Nm of wheel torque, which works out to ~2.5 g of peak acceleration on a 6.5 lb car. That's way past what RC tires can put down (~1 g on grippy surface, less offroad). So the first ~0.5 s of any launch in this class is bounded by tire grip, not motor power. All three motors will feel basically identical off the line; the difference only shows up as you build past ~20-25 mph and traction stops being the limit.
-2. **Subjective "punch" still goes to the 3200KV.** Even though stopwatched 0-30 / 0-40 times are within rounding error, the 3200KV with a small pinion magnifies low-RPM torque mechanically and its peak power happens at higher RPM — that's what makes it *feel* pipey on the throttle. The lower-KV motors with bigger pinions hit the same speeds at almost the same time but the power delivery is smoother and less peaky.
+2. **Subjective "punch" still goes to the 3200KV.** Even though stopwatched 0-30 / 0-40 times are within rounding error, the 3200KV with a small pinion magnifies low-RPM torque mechanically and its peak power happens at higher RPM, that's what makes it *feel* pipey on the throttle. The lower-KV motors with bigger pinions hit the same speeds at almost the same time but the power delivery is smoother and less peaky.
 3. **Iron losses (eddy currents) scale with RPM.** Higher-KV motors spin faster, so they have more iron loss at any given speed. The sim only tracks copper loss (I²R). In practice, eddy currents add a major heat term for high-KV motors that's not in the chart.
-4. **Sustained cruise current is higher for high-KV motors.** Once you're at cruise speed (not accelerating), the higher-KV motor needs more current to overcome drag because its torque-per-amp is lower. The sim's heat numbers are only valid for the brief acceleration spike — sustained heat over 5 minutes of running tells a very different story (3200KV runs hotter than 2400KV in real-world testing).
-5. **The 120A current cap is specific to the Fire Phoenix ESC.** Castle ESCs (Mamba X, Cobra, Copperhead) effectively don't enforce a hard current limit — they let the motor pull what it needs until thermal cutoff or something else gives. With a Castle ESC the 3200KV would pull *higher* peak current and accelerate harder than the sim shows; the lower-KV motors would also pull more but less, because their Kt is higher and they don't need as many amps for the same torque.
+4. **Sustained cruise current is higher for high-KV motors.** Once you're at cruise speed (not accelerating), the higher-KV motor needs more current to overcome drag because its torque-per-amp is lower. The sim's heat numbers are only valid for the brief acceleration spike, sustained heat over 5 minutes of running tells a very different story (3200KV runs hotter than 2400KV in real-world testing).
+5. **The 120A current cap is specific to the Fire Phoenix ESC.** Castle ESCs (Mamba X, Cobra, Copperhead) effectively don't enforce a hard current limit, they let the motor pull what it needs until thermal cutoff or something else gives. With a Castle ESC the 3200KV would pull *higher* peak current and accelerate harder than the sim shows; the lower-KV motors would also pull more but less, because their Kt is higher and they don't need as many amps for the same torque.
 6. **Castle understates their ratings.** Castle motors are widely known to handle more current and heat than the spec sheet suggests. The 1412 / 1415 rated at 75,000 max RPM and 6.5 lb max racing weight will, in practice, take more abuse than that without dying. Treat Castle specs as conservative floors, not ceilings.
 
-So the sim's answer "the lower-KV motors dissipate more heat in the windings during acceleration" is true in the narrow acceleration window with a current-limited ESC, but in steady-state driving the higher-KV motors generate more heat overall — which is why the community consensus is 2400KV for 4S in this class. And with an uncapped Castle ESC, the acceleration delta would widen *and* the heat delta would widen along with it.
+So the sim's answer "the lower-KV motors dissipate more heat in the windings during acceleration" is true in the narrow acceleration window with a current-limited ESC, but in steady-state driving the higher-KV motors generate more heat overall, which is why the community consensus is 2400KV for 4S in this class. And with an uncapped Castle ESC, the acceleration delta would widen *and* the heat delta would widen along with it.
 
 **The clean way to settle this empirically is the [GitHub issue #2 test plan](https://github.com/CheapAzHobbies/CheapAzTuningRC/issues/2)**: time both motors over the same distance with the same battery and surface, log motor temps after a fixed run.
 
@@ -275,13 +275,13 @@ A common assumption in RC is that bigger stator = better. **Not always true on 4
 
 ### The physics
 
-The rotor (the spinning inner part of the motor, with the magnets glued to it) is held together by a Kevlar or fiber wrap. At high RPM, **centrifugal force tries to fling the magnets outward**. Force scales with `m × r × ω²` — mass times radius times angular velocity squared. So:
+The rotor (the spinning inner part of the motor, with the magnets glued to it) is held together by a Kevlar or fiber wrap. At high RPM, **centrifugal force tries to fling the magnets outward**. Force scales with `m × r × ω²`, mass times radius times angular velocity squared. So:
 
 - **Bigger rotor diameter** → magnets are farther from center → more force per RPM
 - **Longer rotor** → more magnet mass → more total force
 - **Higher RPM** → force grows with the *square* of RPM
 
-When the wrap can't hold, the magnets break free and the rotor self-destructs (commonly called "rotor explosion" — sometimes loosely said as "stator explosion" since the whole thing rips apart).
+When the wrap can't hold, the magnets break free and the rotor self-destructs (commonly called "rotor explosion", sometimes loosely said as "stator explosion" since the whole thing rips apart).
 
 Manufacturers spec a **max RPM** to keep you safely under the wrap's limit. Castle and Hobbywing both publish these numbers, and they reveal the trade-off clearly:
 
@@ -292,27 +292,27 @@ Manufacturers spec a **max RPM** to keep you safely under the wrap's limit. Cast
 | Hobbywing EZRun 3652/3665 SD G3 | 36mm × 52-65mm (medium) | 75,000 (similar class) |
 | Castle 1515 V2 | 1.5" × 1.5" (large) | **60,000** |
 
-**Smaller rotor = higher safe RPM. Bigger rotor = more leverage (torque per amp).** That's the trade-off: torque comes from `T = F × r`, so a bigger rotor radius gives the magnetic force a longer lever arm to push the shaft — more torque per amp drawn. But the same bigger radius is what gets you to the rotor-wrap limit sooner at high RPM. Same trade-off you see in engines: a small high-revving 4 banger can spin to 8500+ RPM safely (low rotating mass, short stroke), while a big V8 has more leverage on the crank but the bottom end can't take infinite RPM.
+**Smaller rotor = higher safe RPM. Bigger rotor = more leverage (torque per amp).** That's the trade-off: torque comes from `T = F × r`, so a bigger rotor radius gives the magnetic force a longer lever arm to push the shaft, more torque per amp drawn. But the same bigger radius is what gets you to the rotor-wrap limit sooner at high RPM. Same trade-off you see in engines: a small high-revving 4 banger can spin to 8500+ RPM safely (low rotating mass, short stroke), while a big V8 has more leverage on the crank but the bottom end can't take infinite RPM.
 
 ### Why this matters for 4S on a 1/10 chassis
 
-- A "smaller, older design" 36mm Castle motor isn't necessarily worse — it can **safely spin higher** before the rotor lets go.
-- A bigger Hobbywing motor with more stator iron and a bigger rotor is built for **torque under load** (the V8) — bigger rotor radius = more leverage per amp — but its RPM ceiling is the same or lower than the smaller Castle equivalent.
+- A "smaller, older design" 36mm Castle motor isn't necessarily worse, it can **safely spin higher** before the rotor lets go.
+- A bigger Hobbywing motor with more stator iron and a bigger rotor is built for **torque under load** (the V8), bigger rotor radius = more leverage per amp, but its RPM ceiling is the same or lower than the smaller Castle equivalent.
 - On a light 1/10 chassis on 4S, you usually want RPM, not raw torque. The bigger motor's torque advantage is wasted (chassis is too light to need it) and its mass penalty is unwelcome (more grams up high, see [the weight comparison above](#real-world-weight-1412-3200kv--cooling-vs-1415-2400kv-bare)).
 
 ### And the chassis matches the motor
 
-The 4-banger analogy extends to the car. **High-revving small engines work best in lightweight cars** — the S2000, MX-5, NSX. Put a screaming high-revving four-pot in a heavy SUV and it stays out of its powerband and dies. Put a big V8 with all that crank leverage in an MX-5 and you can't put the power down.
+The 4-banger analogy extends to the car. **High-revving small engines work best in lightweight cars**, the S2000, MX-5, NSX. Put a screaming high-revving four-pot in a heavy SUV and it stays out of its powerband and dies. Put a big V8 with all that crank leverage in an MX-5 and you can't put the power down.
 
-The Jato 4x4 platform happens to be **lighter than typical 1/8 CF race chassis** (Tekno, Mugen, etc., which are designed for the heft of true 1/8-scale buggies). So the FastAzJato4x4 isn't carrying around the mass that justifies a bigger V8-style motor. A small high-revving motor in a light chassis is the matched pairing — exactly the same logic as why a sport coupe outruns a muscle car on a twisty track.
+The Jato 4x4 platform happens to be **lighter than typical 1/8 CF race chassis** (Tekno, Mugen, etc., which are designed for the heft of true 1/8-scale buggies). So the FastAzJato4x4 isn't carrying around the mass that justifies a bigger V8-style motor. A small high-revving motor in a light chassis is the matched pairing, exactly the same logic as why a sport coupe outruns a muscle car on a twisty track.
 
 ### Speed-run community validation
 
-There's a reason **Castle motors are used in speed runs more often than any Hobbywing motor**. Speed runs are about pure top-end RPM — long straight, no climbing, no need for sustained torque. The winning recipe is the highest safe RPM × the highest stable voltage. That's exactly Castle's territory: smaller rotor → higher max RPM → more top speed when the chassis is geared for it. Hobbywing's bigger rotors are built for the opposite use case (heavy 1/8 trucks needing torque under load) and run into their wrap limit before they can spin to a speed-run RPM. The speed-run community converged on Castle the same way the math points — and for the same reason.
+There's a reason **Castle motors are used in speed runs more often than any Hobbywing motor**. Speed runs are about pure top-end RPM, long straight, no climbing, no need for sustained torque. The winning recipe is the highest safe RPM × the highest stable voltage. That's exactly Castle's territory: smaller rotor → higher max RPM → more top speed when the chassis is geared for it. Hobbywing's bigger rotors are built for the opposite use case (heavy 1/8 trucks needing torque under load) and run into their wrap limit before they can spin to a speed-run RPM. The speed-run community converged on Castle the same way the math points, and for the same reason.
 
 ### Takeaway
 
-The marketing-driven "bigger is better" assumption falls apart once you look at the max RPM data and remember the chassis is the constraint, not the motor. **Smaller-but-faster-revving wins on a chassis that doesn't need 1/8-scale torque** — exactly what speed runners (and a light 1/10 4S racing build) actually want.
+The marketing-driven "bigger is better" assumption falls apart once you look at the max RPM data and remember the chassis is the constraint, not the motor. **Smaller-but-faster-revving wins on a chassis that doesn't need 1/8-scale torque**, exactly what speed runners (and a light 1/10 4S racing build) actually want.
 
 ---
 
@@ -328,7 +328,7 @@ The torque constant of a brushless motor is:
 Kt = 60 / (2π × KV)    [N·m/A]
 ```
 
-KV is the only variable. **Stator size doesn't appear in this equation.** A 2400KV motor — whether it's a 179g Tekin Pro4, a 221g Tekin Pro4 HD, or a 318g Castle 1415 — makes the same torque per amp.
+KV is the only variable. **Stator size doesn't appear in this equation.** A 2400KV motor, whether it's a 179g Tekin Pro4, a 221g Tekin Pro4 HD, or a 318g Castle 1415, makes the same torque per amp.
 
 | Motor | Stator size | KV | Kt (N·m/A) | Peak T at 120A |
 |---|---|---|---|---|
@@ -340,22 +340,22 @@ KV is the only variable. **Stator size doesn't appear in this equation.** A 2400
 | Castle 1515 V2 2200KV | 1.5" × 1.5" | 2200 | 0.00434 | 0.521 N·m |
 | Castle 1406 2280KV | 1.4" × 0.6" | 2280 | 0.00419 | 0.502 N·m |
 
-**Notice:** the Castle 1415 2400KV (318g) and the Tekin Pro4 2400KV (179g) make **identical peak torque** despite a 139g size difference. The 1415 is not a "more torque" motor — it's a "more sustained torque" motor.
+**Notice:** the Castle 1415 2400KV (318g) and the Tekin Pro4 2400KV (179g) make **identical peak torque** despite a 139g size difference. The 1415 is not a "more torque" motor, it's a "more sustained torque" motor.
 
 ### So what does a bigger stator actually buy you?
 
 Four things, none of them peak torque:
 
-1. **More copper** — a longer can means each winding turn is physically longer, so total wire mass goes up. Same wire gauge, more of it.
-2. **Lower internal resistance (R)** — more copper cross-section = lower R. This is a hidden bonus: at the same current, `P_loss = I² × R` is smaller. The bigger motor **generates less heat per amp in the first place**.
-3. **More thermal mass** — more iron + more copper = more material to absorb that heat before reaching the magnet-demag temperature (~180°F). Plus longer can = more surface area for shedding heat to the air.
-4. **Saturation headroom** — at very high currents (typically >150A for these motors), iron saturates and torque output flattens out — you pump more amps but don't get proportionally more torque. The bigger stator pushes that saturation point higher. With a 120A ESC limit you're probably below saturation on all of these motors, so this rarely matters in this build.
+1. **More copper**, a longer can means each winding turn is physically longer, so total wire mass goes up. Same wire gauge, more of it.
+2. **Lower internal resistance (R)**, more copper cross-section = lower R. This is a hidden bonus: at the same current, `P_loss = I² × R` is smaller. The bigger motor **generates less heat per amp in the first place**.
+3. **More thermal mass**, more iron + more copper = more material to absorb that heat before reaching the magnet-demag temperature (~180°F). Plus longer can = more surface area for shedding heat to the air.
+4. **Saturation headroom**, at very high currents (typically >150A for these motors), iron saturates and torque output flattens out, you pump more amps but don't get proportionally more torque. The bigger stator pushes that saturation point higher. With a 120A ESC limit you're probably below saturation on all of these motors, so this rarely matters in this build.
 
 **So "the bigger motor runs cooler" is two compounding effects, not just one:**
 - It produces less heat per amp (lower R)
 - It dissipates the heat it does make better (more thermal mass + more surface area)
 
-Same peak torque per amp either way — but the bigger motor reaches thermal cutoff much later under sustained load.
+Same peak torque per amp either way, but the bigger motor reaches thermal cutoff much later under sustained load.
 
 ### The accurate one-liner
 
@@ -363,46 +363,46 @@ Same peak torque per amp either way — but the bigger motor reaches thermal cut
 
 ### Why people think "bigger = more torque"
 
-Because the comparison is almost never apples-to-apples. People usually compare a **low-KV big motor** (e.g. Castle 1515 V2 2200KV at 0.00434 Kt) against a **high-KV small motor** (e.g. Castle 1412 3200KV at 0.00298 Kt). The 1515 wins on torque per amp — but that's a **KV** difference, not a **size** difference. Wind a 1412 at 2200KV (Castle does — the 1412 2100KV is basically this) and it has the same Kt as the 1515. The 1515 just keeps making that torque for longer without overheating.
+Because the comparison is almost never apples-to-apples. People usually compare a **low-KV big motor** (e.g. Castle 1515 V2 2200KV at 0.00434 Kt) against a **high-KV small motor** (e.g. Castle 1412 3200KV at 0.00298 Kt). The 1515 wins on torque per amp, but that's a **KV** difference, not a **size** difference. Wind a 1412 at 2200KV (Castle does, the 1412 2100KV is basically this) and it has the same Kt as the 1515. The 1515 just keeps making that torque for longer without overheating.
 
 ### Engine analogy
 
-Same logic as the V8-vs-4-banger framing above: a small high-revving engine and a big lazy engine making the same peak horsepower at the crank will accelerate a light car at the same rate. The big engine just doesn't have to work as hard to do it — runs cooler, lasts longer, sustains the output. **The size buys longevity and sustained capability, not peak number.**
+Same logic as the V8-vs-4-banger framing above: a small high-revving engine and a big lazy engine making the same peak horsepower at the crank will accelerate a light car at the same rate. The big engine just doesn't have to work as hard to do it, runs cooler, lasts longer, sustains the output. **The size buys longevity and sustained capability, not peak number.**
 
 ### What this means for the Jato 4x4 motor pick
 
-The "Pro4 HD 2500KV has more torque than the regular Pro4 2400KV" intuition is wrong. They have **identical peak torque** at any given current draw. The HD's 42g of extra iron buys thermal headroom — important if the track loads the motor hard for sustained pulls, irrelevant for mixed-throttle bashing. This is why the chosen Pro4 HD at $70 isn't a huge step up from the regular Pro4 at $60 *unless* you're going to flog it on hot tracks.
+The "Pro4 HD 2500KV has more torque than the regular Pro4 2400KV" intuition is wrong. They have **identical peak torque** at any given current draw. The HD's 42g of extra iron buys thermal headroom, important if the track loads the motor hard for sustained pulls, irrelevant for mixed-throttle bashing. This is why the chosen Pro4 HD at $70 isn't a huge step up from the regular Pro4 at $60 *unless* you're going to flog it on hot tracks.
 
 ---
 
 ## KV Reference
 
-KV is a no-load speed rating — same top speed at same KV on same voltage. The differences between options at the same KV are torque, heat, and efficiency (stator size, lamination quality, how the motor is wound for the voltage).
+KV is a no-load speed rating, same top speed at same KV on same voltage. The differences between options at the same KV are torque, heat, and efficiency (stator size, lamination quality, how the motor is wound for the voltage).
 
-The original target was 3200KV — same as the Slash 4x4. In practice the Castle 1412 3200KV gets hot enough on 4S to require a cooling fan: 3200KV × 14.8V = ~47,000 RPM no-load, which pushes the motor hard especially in grass and offroad where the drivetrain loads up at high RPM.
+The original target was 3200KV, same as the Slash 4x4. In practice the Castle 1412 3200KV gets hot enough on 4S to require a cooling fan: 3200KV × 14.8V = ~47,000 RPM no-load, which pushes the motor hard especially in grass and offroad where the drivetrain loads up at high RPM.
 
 ### Community Consensus (4S)
 
 | KV | Character | Notes |
 |----|-----------|-------|
-| **1900-2200KV** | Smooth, all-day cool | Common race setup on true 1/8 buggies; light on the Jato 4x4 — usable but leaves performance on the table |
+| **1900-2200KV** | Smooth, all-day cool | Common race setup on true 1/8 buggies; light on the Jato 4x4, usable but leaves performance on the table |
 | **2400KV** | Cool, balanced | Slash 4x4 / e-Jato sweet spot. No fan needed with conservative gearing. Strong torque |
 | **3000KV** | Borderline | Works but needs cooldown breaks and conservative gearing |
 | **3200KV** | **Super pipey**, runs hot | Sudden / peaky power delivery, lots of top end. Generally needs a fan on 4S. What's currently in the in-hand Castle 1412 |
 
-The FastAzJato4x4 is lighter than a true 1/8 buggy, so **2400KV is at or just above the community-preferred range** for this weight class. A 1412 3200KV running hot on 4S isn't a setup problem — it's a physics problem. Dropping to 2400KV with G3 / 4-pole 12-slot laminations eliminates the eddy-current losses driving the heat, and a fan becomes unnecessary.
+The FastAzJato4x4 is lighter than a true 1/8 buggy, so **2400KV is at or just above the community-preferred range** for this weight class. A 1412 3200KV running hot on 4S isn't a setup problem, it's a physics problem. Dropping to 2400KV with G3 / 4-pole 12-slot laminations eliminates the eddy-current losses driving the heat, and a fan becomes unnecessary.
 
 ### Open question: 2400KV vs 3200KV geared to the same top speed — which accelerates faster?
 
 If both motors are geared (different pinion) to hit the same top speed:
-- The 3200KV motor uses a smaller pinion (higher gear reduction) — gear ratio multiplies torque at the wheels
-- The 2400KV motor uses a bigger pinion (lower gear reduction) — less mechanical advantage but the motor itself is more efficient and generates more torque per amp
+- The 3200KV motor uses a smaller pinion (higher gear reduction), gear ratio multiplies torque at the wheels
+- The 2400KV motor uses a bigger pinion (lower gear reduction), less mechanical advantage but the motor itself is more efficient and generates more torque per amp
 
 Conventional wisdom is mixed:
 - "Pipey" higher-KV motors with strong gearing-down often punch harder off the corner but run hotter and draw more amps
 - Lower-KV motors with less gearing-down tend to be smoother and more efficient, often comparable or slightly slower in 0-x accel but with way better thermal headroom
 
-**TODO**: Verify with actual run data — would need timed acceleration runs with 1412 3200KV (e.g. 15T pinion) vs 1415 2400KV (e.g. 19-21T pinion) on the same battery / track to settle it for this build.
+**TODO**: Verify with actual run data, would need timed acceleration runs with 1412 3200KV (e.g. 15T pinion) vs 1415 2400KV (e.g. 19-21T pinion) on the same battery / track to settle it for this build.
 
 ---
 
@@ -422,43 +422,43 @@ Conventional wisdom is mixed:
 
 - Already owned, proven on 4S with the Fire Phoenix ESC on the Slash 4x4
 - Castle part **#060-0085-00**; retail **$119.95** (list $146.80)
-- Stator: 1.4" × 1.2" (per Castle naming); **can: 36mm OD × 62.5mm length** — fits the 36mm / ≤70mm Must
+- Stator: 1.4" × 1.2" (per Castle naming); **can: 36mm OD × 62.5mm length**, fits the 36mm / ≤70mm Must
 - Weight: **265.4g** (9.4oz) with wires
 - Shaft: 15mm long × 1/8" (3.17mm) diameter
 - Mounting: M3 bolts @ 25.4mm spacing
 - Connectors: 4mm male Castle Bullet Connectors attached to **replaceable 13-gauge wires**; sensor wire 210mm included
 - Max RPM: 75,000
-- **Castle's official application rating**: 1/10 SC trucks / monster trucks / rock racers up to 6.5 lb on **up to 3S LiPo**. Castle says it "can be run on a 4s LiPo with very conservative gearing and keep a close eye on temperatures" — i.e. 4S is out-of-spec but possible if you're careful with gearing and watch temps. Runs hot in practice and basically requires a fan. **Real cost of the fan: weight (fan + mount) sitting up high on the motor** — I run metal fans that don't fail in practice, so reliability isn't the issue; the issue is grams in the wrong place
-- Older lamination tech — the heat isn't gearing, it's eddy-current losses in the stator
-- Sensor board has silicone conformal coating (water-resistant sensor PCB), but sensor connector itself is not water resistant — Castle recommends dielectric grease on connectors after wet running
-- Castle's recommended ESCs for this motor: **Mamba X**, Copperhead 10, Sidewinder 4, Cobra 10 — all confirmed in the ESC analysis
-- $0 — already in hand
+- **Castle's official application rating**: 1/10 SC trucks / monster trucks / rock racers up to 6.5 lb on **up to 3S LiPo**. Castle says it "can be run on a 4s LiPo with very conservative gearing and keep a close eye on temperatures", i.e. 4S is out-of-spec but possible if you're careful with gearing and watch temps. Runs hot in practice and basically requires a fan. **Real cost of the fan: weight (fan + mount) sitting up high on the motor**, I run metal fans that don't fail in practice, so reliability isn't the issue; the issue is grams in the wrong place
+- Older lamination tech, the heat isn't gearing, it's eddy-current losses in the stator
+- Sensor board has silicone conformal coating (water-resistant sensor PCB), but sensor connector itself is not water resistant, Castle recommends dielectric grease on connectors after wet running
+- Castle's recommended ESCs for this motor: **Mamba X**, Copperhead 10, Sidewinder 4, Cobra 10, all confirmed in the ESC analysis
+- $0, already in hand
 
 ### Castle Creations 1415 2400KV — Candidate (leading)
 
 - Castle part **#060-0060-00**; retail **$129.95** (list $159.00)
-- Stator: 1.4" × 1.5" (per Castle naming); **can: 36mm OD × 69.5mm length** — just under the 70mm Must
-- Weight: **318g** (11.2oz) with wires — heaviest 4S Castle option
+- Stator: 1.4" × 1.5" (per Castle naming); **can: 36mm OD × 69.5mm length**, just under the 70mm Must
+- Weight: **318g** (11.2oz) with wires, heaviest 4S Castle option
 - Shaft: 15.5mm long × 1/8" (3.17mm) diameter
-- Mounting: M3 bolts @ 25mm spacing (note: 25mm vs 1412's 25.4mm — same drill pattern in practice but check before mounting)
+- Mounting: M3 bolts @ 25mm spacing (note: 25mm vs 1412's 25.4mm, same drill pattern in practice but check before mounting)
 - Connectors: 4mm male Castle Bullet Connectors
 - Max RPM: 75,000
 - **Castle's official rating**: 3S-4S LiPo, 1/10 SC trucks up to 6.5 lb. 4S is native (no "with care" caveat like the 1412)
-- **Improved 4-pole 12-slot design** — better efficiency, runs cooler than the 1412
-- **REBUILDABLE design** — front bell/bearing assembly and rotor/shaft assembly are field-replaceable (meets the serviceability requirement)
+- **Improved 4-pole 12-slot design**, better efficiency, runs cooler than the 1412
+- **REBUILDABLE design**, front bell/bearing assembly and rotor/shaft assembly are field-replaceable (meets the serviceability requirement)
 - QuietSense™ tech shields sensors from coil noise; Flux Shield™ + secondary sense magnets for precise startups
 - ROAR-standard sensor port with labeled connections
-- No mechanical timing adjustments needed — sensor alignment handles it automatically
+- No mechanical timing adjustments needed, sensor alignment handles it automatically
 - Optional cooling fan (Castle says "coming soon" but motor designed to not need one)
-- Sensor board has silicone conformal coating (water-resistant PCB); sensor connector is not water resistant — dielectric grease recommended after wet running
+- Sensor board has silicone conformal coating (water-resistant PCB); sensor connector is not water resistant, dielectric grease recommended after wet running
 - Castle's recommended ESCs: **Mamba X**, Sidewinder 4, Cobra 10, Mamba Max Pro, Copperhead 10. Fire Phoenix is not on the official list but uses standard JST-ZH which connects to the included Castle sensor wire
-- $129.95 — additional cost over the in-hand 1412
+- $129.95, additional cost over the in-hand 1412
 
 ### HobbyWing EZRun 3665SD G3 2400KV — Vetoed (proprietary connector)
 
 - 36×65mm stator, 305g
-- 4S native with IP64 splash + dust rating — the only Hobbywing option that hits both
-- G3 thin laminations significantly reduce eddy-current losses at high RPM — would run cool on 4S
+- 4S native with IP64 splash + dust rating, the only Hobbywing option that hits both
+- G3 thin laminations significantly reduce eddy-current losses at high RPM, would run cool on 4S
 - **Vetoed**: proprietary waterproof sensor plug. Native fit only with the EZRun MAX10 G2 ESC, which itself was vetoed for the same proprietary-port reason. Needs adapter HWA30810007 to use with Fire Phoenix or any standard JST-ZH ESC
 - Adapter cost (~$10) and one more cable in the loom
 - ~$65
@@ -468,20 +468,20 @@ Conventional wisdom is mixed:
 - 36×52mm stator, lightest in the group at 227g
 - G3 laminations, JST-ZH sensor (would pair fine with Fire Phoenix)
 - IP5X dust resistance
-- **3S max cell rating — fails the 4S Must**. Hobbywing winds the 3300KV stator for lower voltage
+- **3S max cell rating, fails the 4S Must**. Hobbywing winds the 3300KV stator for lower voltage
 
 ### HobbyWing EZRun 3665SD G3 3200KV — Ruled Out (3S max + proprietary)
 
 - 36×65mm stator, 305g, IP64
-- **3S max cell rating — fails the 4S Must**. Same problem as the 3652 — Hobbywing only winds the 3200KV variant for 3S in the EZRun line
+- **3S max cell rating, fails the 4S Must**. Same problem as the 3652, Hobbywing only winds the 3200KV variant for 3S in the EZRun line
 - Also has the proprietary G3 sensor plug (would have been vetoed even if 4S rated)
 
 ### HobbyWing XeRun 3660SD G3 3200KV — Ruled Out (3S max)
 
-- 36×60mm stator, 230g — lighter than the EZRun 3665
+- 36×60mm stator, 230g, lighter than the EZRun 3665
 - JST-ZH sensor connector
 - Competition-grade XeRun line with G3 laminations
-- **3S max cell rating — fails the 4S Must**
+- **3S max cell rating, fails the 4S Must**
 
 ### Castle Creations 1515 V2 2200KV — Ruled Out (too big)
 
@@ -496,24 +496,24 @@ Conventional wisdom is mixed:
 - Cooling fan: #011-0139-00 (separate part)
 - Application (Castle): 1/8 buggies, truggies, on-road; 1/10 monster trucks up to 15 lb. Vehicle examples include ARRMA Kraton/Typhon/Nero/Infraction/Talion/Felony, Traxxas Sledge/Summit, HPI Savage, LOSI LMT
 - Not recommended for high-speed 1/8 (Infraction / Limitless / XO-1)
-- Recommended ESCs: Cobra 8, Monster X, Sidewinder 8 (no Mamba X — too small for this motor)
+- Recommended ESCs: Cobra 8, Monster X, Sidewinder 8 (no Mamba X, too small for this motor)
 - **Fails the 36mm can Must (40mm) and the ≤70mm length Must (75.4mm).** 426g is massive overkill for a 1/10 build anyway
 
 ---
 
 ## Pinion Reference (32P, TBD)
 
-Pinion not yet chosen — depends on which motor lands. Spur is the **50T 32-pitch TRA6842R** (same as the K939 setup). Reference table for common 32P pinion sizes:
+Pinion not yet chosen, depends on which motor lands. Spur is the **50T 32-pitch TRA6842R** (same as the K939 setup). Reference table for common 32P pinion sizes:
 
 | Pinion (32P) | FDR with 50T spur | Speed character | Typical motor pairing |
 |---|---|---|---|
 | 13T | 3.85 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused |
-| 15T | 3.33 | Tame, low motor temp | Castle 1412 3200KV starting point — keeps it cooler |
+| 15T | 3.33 | Tame, low motor temp | Castle 1412 3200KV starting point, keeps it cooler |
 | 17T | 2.94 | Balanced street / track | 2400KV stock-ish gearing |
 | 19T | 2.63 | Faster, more top end | **Likely starting point for Castle 1415 2400KV** |
 | 21T | 2.38 | High-speed bias | 2400KV with strong battery |
 | 23T | 2.17 | Top-end aggressive | 2200KV on light vehicle |
-| 25T | 2.00 | Speed-run territory | 2200KV-class only — monitor temps |
+| 25T | 2.00 | Speed-run territory | 2200KV-class only, monitor temps |
 
 > FDR (Final Drive Ratio) shown is the spur-to-pinion only; multiply by the internal transmission ratio (~2.78:1 for Slash/Jato 4x4) for the true wheel ratio. Lower FDR = faster top speed but more heat / less torque. Higher FDR = more punch but lower top speed.
 

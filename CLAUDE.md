@@ -142,11 +142,19 @@ relevant tangents come up during research (e.g. chassis weights came
 up while analyzing shock towers), drop them, don't append a "related
 research" section. Keep the doc tight on its subject.
 
-**Writing style.** Keep prose tight and scannable. **No em dashes** in
-body text or notes; use commas, periods, parentheses, or shorter
-sentences instead. **Avoid walls of text**; prefer tables and short
-bullets over long paragraphs. If a note runs past ~2 lines, break it
-up or move the detail into a table.
+**Writing style.** Keep prose tight and scannable. Write plainly in the
+owner's first person; don't sound like a robot. **Avoid walls of text**;
+prefer tables and short bullets over long paragraphs. If a note runs past
+~2 lines, break it up or move the detail into a table.
+
+**Em dashes (`—`): banned in prose, allowed only in four structural
+spots.** In prose (lead blockquote, Notes, Pro/Con cells, "Why" cells,
+captions, paragraphs) use commas, periods, parentheses, or shorter
+sentences instead. Em dashes are allowed **only** in: (1) the H1 title
+`# <Part> Selection — <CarName>`, (2) TOC entries `[Section](#anchor) —
+summary`, (3) table row-label qualifiers `**Name** — *qualifier*`, and
+(4) empty-cell placeholders `| — |`. Nothing else. (Range en dashes like
+`$20–30` are fine and separate from this rule.)
 
 **Simulations.** When a physics simulation helps answer a build
 question, save the script under `cars/<CarName>/sim/` with a

@@ -1,6 +1,6 @@
 # Sway Bar Selection — FastAzJato4x4
 
-> **Chosen: no sway bars.** This track works better without them — the loose, rough dirt surface rewards independent wheel compliance (mechanical grip + bump absorption) over the flatter cornering a bar buys you. Sway bars trade away suspension compliance for less body roll, and on this track that trade isn't worth it. Lighter and simpler with nothing extra to break. Easy to bolt on later if the track changes.
+> **Chosen: no sway bars.** This track works better without them, the loose, rough dirt surface rewards independent wheel compliance (mechanical grip + bump absorption) over the flatter cornering a bar buys you. Sway bars trade away suspension compliance for less body roll, and on this track that trade isn't worth it. Lighter and simpler with nothing extra to break. Easy to bolt on later if the track changes.
 
 ---
 
@@ -18,7 +18,7 @@
 | Requirement | Type | Why |
 |---|---|---|
 | **Actually helps on this track** | Must | Any add to the suspension has to earn its place on our loose / rough dirt surface |
-| **Doesn't kill bump compliance** | Must | A rough track rewards independent wheel travel — a stiff bar fights that |
+| **Doesn't kill bump compliance** | Must | A rough track rewards independent wheel travel, a stiff bar fights that |
 | **Easily reversible** | May | Want to bolt on / off without drama if track conditions change |
 
 ---
@@ -29,9 +29,9 @@
 
 | Setup | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **No sway bars** | **Part:** N/A<br><br>**Bars:** None installed<br><br>**Rates:** N/A<br><br>**Mounting:** N/A<br><br>**Includes:** N/A<br><br>**Price:** N/A | Pro: **Max independent wheel compliance — more mechanical grip and better bump absorption on loose / rough dirt.** Lighter, simpler, nothing extra to break. **This track works better without them**<br><br>Con: More body roll in hard corners on high-grip / smooth surfaces — not our track | — *(nothing installed)* |
-| 🟢 **Hot Racing Front & Rear Sway Bar** (situational) | **Part:** HRASLF311 (Slash 4x4 / LCG / Rally)<br><br>**Bars:** Front + rear, spring steel<br><br>**Rates:** 3 thicknesses — red 1.6mm (soft) · blue 1.8mm (med) · chrome 2.0mm (hard)<br><br>**Mounting:** Needs TRA3932 to mount the wire<br><br>**Includes:** 6 bars + 4 ball-end pushrods<br><br>**Price:** $19.88 | Pro: **Widest tuning range — three bar rates per end** lets you dial roll stiffness to the track. Adjustable spring-steel wire. Cheaper than the Traxxas kit. In hand<br><br>Con: Cuts bump compliance — not wanted on our loose / rough track. Needs the TRA3932 mount. Only worth it if the surface turns high-grip | <img src="src/suspension_hot_racing_swaybar_hraslf311.jpg" width="500"> |
-| 🟢 **Traxxas Sway Bar Kit** (situational) | **Part:** 6898<br><br>**Bars:** Front + rear in one kit<br><br>**Rates:** Multiple tuned thicknesses<br><br>**Mounting:** Installs without disassembly<br><br>**Includes:** Hardware + instructions<br><br>**Price:** $25 | Pro: Track-tested — reduces chassis roll and ups corner speed on high-grip / hardpack / pavement. Hardware + instructions included. Bolt-on/off in minutes. In hand<br><br>Con: Cuts bump compliance — not wanted on our loose / rough track. Pricier than the Hot Racing kit and fewer rate options | <img src="src/suspension_traxxas_swaybar_kit_6898.jpg" width="500"> |
+| ⭐ **No sway bars** | **Part:** N/A<br><br>**Bars:** None installed<br><br>**Rates:** N/A<br><br>**Mounting:** N/A<br><br>**Includes:** N/A<br><br>**Price:** N/A | Pro: **Max independent wheel compliance, more mechanical grip and better bump absorption on loose / rough dirt.** Lighter, simpler, nothing extra to break. **This track works better without them**<br><br>Con: More body roll in hard corners on high-grip / smooth surfaces, not our track | — *(nothing installed)* |
+| 🟢 **Hot Racing Front & Rear Sway Bar** (situational) | **Part:** HRASLF311 (Slash 4x4 / LCG / Rally)<br><br>**Bars:** Front + rear, spring steel<br><br>**Rates:** 3 thicknesses, red 1.6mm (soft) · blue 1.8mm (med) · chrome 2.0mm (hard)<br><br>**Mounting:** Needs TRA3932 to mount the wire<br><br>**Includes:** 6 bars + 4 ball-end pushrods<br><br>**Price:** $19.88 | Pro: **Widest tuning range, three bar rates per end** lets you dial roll stiffness to the track. Adjustable spring-steel wire. Cheaper than the Traxxas kit. In hand<br><br>Con: Cuts bump compliance, not wanted on our loose / rough track. Needs the TRA3932 mount. Only worth it if the surface turns high-grip | <img src="src/suspension_hot_racing_swaybar_hraslf311.jpg" width="500"> |
+| 🟢 **Traxxas Sway Bar Kit** (situational) | **Part:** 6898<br><br>**Bars:** Front + rear in one kit<br><br>**Rates:** Multiple tuned thicknesses<br><br>**Mounting:** Installs without disassembly<br><br>**Includes:** Hardware + instructions<br><br>**Price:** $25 | Pro: Track-tested, reduces chassis roll and ups corner speed on high-grip / hardpack / pavement. Hardware + instructions included. Bolt-on/off in minutes. In hand<br><br>Con: Cuts bump compliance, not wanted on our loose / rough track. Pricier than the Hot Racing kit and fewer rate options | <img src="src/suspension_traxxas_swaybar_kit_6898.jpg" width="500"> |
 
 ---
 
@@ -40,28 +40,28 @@
 In hand for when the track calls for them. Read this before bolting any bar on.
 
 ### How a sway bar works
-A sway bar (anti-roll bar) ties the left and right arms together with a torsion spring. When the chassis leans in a corner, one side compresses and the other droops — that twists the bar, and the bar fights back, **reducing body roll**. Crucially it only resists *opposite* (roll) movement; when both wheels move together (a straight bump) the bar does almost nothing. The trade: less roll and sharper response, but **less independent wheel compliance**, so less mechanical grip on rough/loose ground.
+A sway bar (anti-roll bar) ties the left and right arms together with a torsion spring. When the chassis leans in a corner, one side compresses and the other droops, that twists the bar, and the bar fights back, **reducing body roll**. Crucially it only resists *opposite* (roll) movement; when both wheels move together (a straight bump) the bar does almost nothing. The trade: less roll and sharper response, but **less independent wheel compliance**, so less mechanical grip on rough/loose ground.
 
 ### The golden rule — stiffer bar = less grip on that end
 - **Stiffer FRONT bar → less front grip → more understeer** (car pushes wide).
 - **Stiffer REAR bar → less rear grip → more oversteer** (car rotates / gets loose).
 - **Softer (or no) bar on an end → more grip on that end.**
 
-So the bar is a **balance lever per end**: add stiffness to the end you want to *loosen*, remove it from the end you want to *plant*. Sway bars act mostly **mid-corner** (steady-state lean) — entry and exit are more about shocks, diff, and throttle.
+So the bar is a **balance lever per end**: add stiffness to the end you want to *loosen*, remove it from the end you want to *plant*. Sway bars act mostly **mid-corner** (steady-state lean), entry and exit are more about shocks, diff, and throttle.
 
 ### When to run them
 | Surface | Bars? |
 |---|---|
-| High-grip hardpack / blue-groove / pavement / astro | **Yes** — less roll, more corner speed, sharper turn-in |
+| High-grip hardpack / blue-groove / pavement / astro | **Yes**, less roll, more corner speed, sharper turn-in |
 | Medium / drying clay | Maybe a soft bar one end to fine-tune balance |
-| Loose, rough, bumpy dirt (**our track**) | **No / soft** — independent compliance puts more rubber down and soaks bumps |
+| Loose, rough, bumpy dirt (**our track**) | **No / soft**, independent compliance puts more rubber down and soaks bumps |
 
 ### Tuning process
-1. **Baseline first.** Get springs, oil, and ride height right *before* adding bars — bars are a fine-tuning tool, not a fix for a bad base setup.
+1. **Baseline first.** Get springs, oil, and ride height right *before* adding bars, bars are a fine-tuning tool, not a fix for a bad base setup.
 2. **Start with none** (or the softest red 1.6mm both ends) and drive it.
-3. **Change one end, one step at a time**, then test. Never move both ends at once — you won't know which did what.
+3. **Change one end, one step at a time**, then test. Never move both ends at once, you won't know which did what.
 4. **Tune to neutral:** if it pushes mid-corner, soften front / stiffen rear; if it's loose, stiffen front / soften rear.
-5. **Re-check after big changes** (springs, tires, surface) — the right bar changes with grip level.
+5. **Re-check after big changes** (springs, tires, surface), the right bar changes with grip level.
 
 ### Symptom → fix
 | Car does this mid-corner | Try |
@@ -69,20 +69,20 @@ So the bar is a **balance lever per end**: add stiffness to the end you want to 
 | Understeers / pushes wide | Softer front bar (or remove) **or** stiffer rear bar |
 | Oversteers / loose, rotates too much | Stiffer front bar **or** softer rear bar (or remove) |
 | Rolls over / feels tippy on high grip | Stiffer bars both ends (start rear) |
-| Darty / nervous, won't settle on bumps | Softer bars or remove — let the suspension work |
+| Darty / nervous, won't settle on bumps | Softer bars or remove, let the suspension work |
 | Good balance but slow to change direction | Slightly stiffer both ends for quicker response |
 
 ### Setup gotchas
-- **No preload at rest.** With the car sitting level the bar should be *unloaded* — if it's pre-twisted, it skews handling and adds harshness. Adjust the links so both sides just kiss.
+- **No preload at rest.** With the car sitting level the bar should be *unloaded*, if it's pre-twisted, it skews handling and adds harshness. Adjust the links so both sides just kiss.
 - **Free to rotate, no bind.** The bar must pivot freely in its mounts; a binding bar acts way stiffer than its wire size suggests.
 - **Hot Racing wire rates:** red 1.6mm = soft, blue 1.8mm = medium, chrome 2.0mm = hard. Thicker = stiffer (stiffness scales steeply with diameter, so even 0.2mm is a real step).
-- **HRASLF311 needs the TRA3932** mount to hold the wire — don't forget it.
+- **HRASLF311 needs the TRA3932** mount to hold the wire, don't forget it.
 - **Don't double up.** A very stiff bar on very soft springs is fighting itself; match the bar to the spring rate rather than stacking both extremes.
 
 ---
 
 ## Notes
 
-- **Why none:** sway bars shine on high-grip, smooth, on-power tracks where flat cornering matters more than soaking up chatter. Our loose/rough dirt is the opposite — independent suspension compliance puts more rubber on the ground and keeps the car settled over bumps.
+- **Why none:** sway bars shine on high-grip, smooth, on-power tracks where flat cornering matters more than soaking up chatter. Our loose/rough dirt is the opposite, independent suspension compliance puts more rubber on the ground and keeps the car settled over bumps.
 - **Reversible:** if the track ever turns high-grip / blue-groove, a front bar is the first thing to try (calms entry roll); a rear bar is a balance lever after that. Bolt-on, no permanent change.
 - Spring / piston / oil tuning in [`shock_analysis.md`](shock_analysis.md) already covers the roll-vs-compliance balance for now without adding bars.
