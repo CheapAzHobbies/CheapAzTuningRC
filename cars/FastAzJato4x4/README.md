@@ -1,6 +1,6 @@
 # FastAzJato4x4
 
-> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 extended arms (front) + ProTrac PRO6082-01 (rear), Slash 4x4-pattern CVDs on Tekno M6 stubs (stock Jato 4x4 diffs, 5mm), stock Jato hex hubs, Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo on 4S (Fire Phoenix XeRun 120A also in hand as spare), plastic Apache C1 / Wltoys A929 big-bore shocks (metal Hot Bodies B8/D8 as the runner-up).
+> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 extended arms (front) + ProTrac PRO6082-01 (rear), Slash 4x4-pattern CVDs on Tekno M6 stubs (stock Jato 4x4 diffs, 5mm), stock Jato hex hubs, Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo on 4S (Fire Phoenix XeRun 120A also in hand as spare), Hot Bodies D8 metal big-bore shocks (used set in hand; plastic Apache C1 / Wltoys A929 as the backup).
 >
 > **Build Status: WIP — actively sourcing parts. Car does not exist yet.**
 
@@ -42,10 +42,10 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Shocks | HPI Apache C1 / Wltoys A929 plastic 97mm big bore (front + rear) | Metal HB B8/D8 = runner-up — [`shock_analysis.md`](shock_analysis.md) |
+| Shocks | Hot Bodies D8 metal 97mm big bore (front + rear) — used set in hand | Plastic HPI Apache C1 = backup — [`shock_analysis.md`](shock_analysis.md) |
 | Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 50-60wt R | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | Arms | FLM26800 extended (front) + ProTrac PRO6082-01 (rear) | Front purchased $25.73 (bulk order) — [`arm_analysis.md`](arm_analysis.md) |
-| Shock standoffs | HB Racing HBS67410 (or force-fit Traxxas hollow balls on the plastic HPI shocks) | ✅ purchased $3.99/pr — [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
+| Shock standoffs | HB Racing HBS67410 ×2 pairs (for the metal D8 shocks; plastic path can force-fit Traxxas hollow balls) | ✅ purchased $3.99/pr — [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
 | Shock towers | Jato stock #9033 front + Slash 4x4 Extreme HD TRA9039 rear (Meelobee) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | Arm guards | TRA6732 front + TRA6733 rear | [`arm_analysis.md`](arm_analysis.md#shock-guards) |
 | Swaybars | None | Track works better without them — [`swaybar_analysis.md`](swaybar_analysis.md) |
@@ -117,7 +117,8 @@ TBD
 | — | RC Carbon Fiber Chassis Kit fit for Traxxas Slash VXL 4x4 TRA6808 | Chassis | $100.26 | [Temu](https://www.temu.com) / [AliExpress](https://a.aliexpress.com/_mPWcAS3) | Considering | — |
 | FLM26800 | FLM Extended Arms (front, USA made) — 1 of a 4-pair bulk order ($102.90 total) | Suspension | $25.73 | FLM | Purchased | ![](src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg) |
 | #9033 / TRA9039 | Stock front (#9033) + Slash 4x4 Extreme HD rear (TRA9039) shock towers — CF towers vetoed | Suspension | ~$12 | LHS / AMain | Chosen | — |
-| 107365 / A929-14 | HPI Apache C1 / Wltoys A929 plastic 97mm big-bore shocks (front + rear) | Suspension | ~$16–30/pr | Amazon / AliExpress | Chosen | — |
+| HBS67296 | Hot Bodies D8 metal 97mm big-bore shocks — used set of 4 (chosen); plastic Apache C1 #107365 / Wltoys A929 = backup | Suspension | $65.99 | eBay — guavahobby | In Hand | ![](src/suspension_hb_d8_shocks_used_set.jpg) |
+| HBS67410 | HB Racing Shock Standoff — 2 pairs for the metal D8 shocks (plastic path force-fits Traxxas hollow balls) | Suspension | $3.99/pr | AMain | Purchased 2026-08-16 | ![](src/suspension_hb_shock_standoff_hbs67410.jpg) |
 | — | Knock-off Slash 4x4 HD Steel CV driveshafts (5mm) + Tekno M6 stubs, order #8211906604054866 | Drivetrain | $21.10 | AliExpress — FengS Store | In Hand | — |
 | — | Traxxas Jato 4x4 stock front + rear diffs (5mm) | Drivetrain | ~$25.94 (2×$12.97) | Jenny's RC | To buy | — |
 | — | Traxxas E-Revo 1.0 Differentials (x2, 6mm — now spares, wrong outdrive) | Drivetrain | — | — | In Hand | — |
