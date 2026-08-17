@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="200">&nbsp;<img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="200">&nbsp;<img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" width="200">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="200">&nbsp;<img src="src/drivetrain_traxxas_jato4x4_center_shaft_7455.webp" width="200"><br>
-  <em>Leaning axle build: knock-off Slash 4x4 HD steel CV (axle body) · TKR1654-17 front 17mm M6 stub · TKR5570-17 rear kit (5580 stub + hexes) · TRA6752 long output shaft · Jato 4x4 BL-2S center shaft (7455, chosen)</em>
+  <em>Chosen axle build: knock-off Slash 4x4 HD steel CV (axle body) · TKR1654-17 front 17mm M6 stub · TKR5570-17 rear kit (5580 stub + hexes) · TRA6752 long output shaft (front) · Jato 4x4 BL-2S center shaft (7455)</em>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 | Requirement | Type | Why |
 |---|---|---|
-| **5mm at the diff end** | Must | Must mate the chosen stock Jato 4x4 **5mm** diff outdrives (see [`differential_analysis.md`](differential_analysis.md)). Went back to stock diffs, so the axle plan is built around **Slash 4x4-pattern (5mm) CVDs**, not the E-Revo 6mm CVDs |
+| **5mm at the diff end** | Must | Must mate the chosen **5mm** diff outdrives (AliExpress knock-off Slash 4x4 diffs, see [`differential_analysis.md`](differential_analysis.md)). The axle plan is built around **Slash 4x4-pattern (5mm) CVDs**, not the E-Revo 6mm CVDs |
 | **Fits Jato 4x4 hub / wheel end** | Must | Outer end has to seat the wheel hex / stub axle without modification |
 | **Clears the arm + steering link at full travel** | Must | U-joint style shafts can foul the suspension arm at full droop and catch the steering link, must clear through the whole travel range |
 | **Survives 4S power** | Must | Has to transmit full torque without twisting or stripping |
@@ -102,7 +102,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 **Why longer:** the extra ~10mm at the **front** suits the wider stance. **Tekno stubs at both ends**; the rear runs stock-length TRA6750 shafts.
 
-> **Leaning axle plan (pending test fit):** **front = Tekno M6 17mm stubs**, **rear = Tekno TKR5580 (SCT410) stub, ✅ confirmed a perfect fit** (5070 was the alt, no longer needed). Hub + bearing sizing (10×18×5 front inner, etc.) is in [`hub_carrier_analysis.md`](hub_carrier_analysis.md).
+> **Axle plan (confirmed):** **front = Tekno TKR1654-17 17mm M6 stub**, **rear = Tekno TKR5570-17 SCT410 kit** (the 5580 stub + 17mm hexes), ✅ confirmed a perfect fit (the 5070 was ruled out, too large). Hub + bearing sizing (10×18×5 front inner, etc.) is in [`hub_carrier_analysis.md`](hub_carrier_analysis.md).
 
 <p align="center"><img src="src/drivetrain_jato_axle_comparison_10mm_longer.jpg" width="440"><br><em>Knock-off CVD + rear CVD parts, with the two 10mm-longer bare axles (top right) next to the originals.</em></p>
 
@@ -112,7 +112,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 ## Tekno stubs (front + rear)
 
-The build runs Tekno M6 stubs at both ends. **Front = the TKR1654-17 17mm M6 hub adapter.** **Rear = Tekno TKR5580, ✅ confirmed a perfect fit** in the rear hubs (the 5070 is much larger, see the row below). Hub + inner-bearing sizing (10×18×5, etc.) is in [`hub_carrier_analysis.md`](hub_carrier_analysis.md#axle--hub-compatibility); the **17mm wheel hexes that mount to these stubs** are in [`wheel_hex_analysis.md`](wheel_hex_analysis.md).
+The build runs Tekno M6 stubs at both ends. **Front = the TKR1654-17 17mm M6 hub adapter.** **Rear = the Tekno TKR5570-17 SCT410 kit** (the 5580 stub + 17mm hexes), ✅ confirmed a perfect fit in the rear hubs (the 5070 is much larger, ruled out, see the row below). Hub + inner-bearing sizing (10×18×5, etc.) is in [`hub_carrier_analysis.md`](hub_carrier_analysis.md#axle--hub-compatibility); the **17mm wheel hexes that mount to these stubs** are in [`wheel_hex_analysis.md`](wheel_hex_analysis.md).
 
 | Position | Tekno stub | For | Price | Status |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ The build runs Tekno M6 stubs at both ends. **Front = the TKR1654-17 17mm M6 hub
 | **Rear** | **Tekno TKR5570-17 SCT410 kit** = the 5580 stub + 17mm hexes + nuts + cross-pins in one (buy the kit, not the bare 5580) | Rear 17mm stub + hex in one | **$25.95** (PowerHobby, free ship direct) | ✅ **Confirmed fit** (6 mm M6 end, 10 mm bearing seat). Gives the rear stub **and** hexes together. 🚧 order the kit for the FastAzJato |
 | ~~**Rear**~~ | 🚫 ~~**Tekno 5070**, hardened steel, EB48 (buggy)~~ | **Does NOT fit, too large** | $17.91 | 🚫 **Ruled out.** **8 mm stub end** (vs 6 mm on the 5580) + **~12 mm bearing seat** (vs 10 mm), so it'd need a **12 mm ID inner**, not the 10×18×5. The 5580 (in the TKR5570-17 kit) is the confirmed fit |
 
-<p align="center"><img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="300">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="300">&nbsp;<img src="src/drivetrain_tekno_5070_stub_axle.jpg" width="300"><br><em>Front: TKR1654-17 17mm M6 adapter · Rear: Tekno 5580 (TKR5570-17 / SCT410) · Tekno 5070 (EB48) alt</em></p>
+<p align="center"><img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="300">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="300">&nbsp;<img src="src/drivetrain_tekno_5070_stub_axle.jpg" width="300"><br><em>Front: TKR1654-17 17mm M6 adapter · Rear: TKR5570-17 kit (5580 stub + hexes) · Tekno 5070 (EB48), 🚫 ruled out</em></p>
 
 Front stub purchase: eBay seller mr-retro, order 06-14626-84975, $69.45 total for **3 pairs** ($23.15/pair), ordered May 10 2026, delivered May 13 2026. Only 1 pair is needed for the build; the other 2 pairs are spares.
 
