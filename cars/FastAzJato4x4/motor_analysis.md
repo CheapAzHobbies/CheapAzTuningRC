@@ -26,7 +26,7 @@
 | Price | **$69.99** | $59.99 | $180-200 | $134.95 |
 | Pick reason | **Chosen, best balance for 1/8-buggy 4S dirt** | Honorable, cheapest, lightest, send-it pick | Honorable, true 1/8 motor, beefy shaft | Honorable, premium build, understated ratings |
 
-**The in-hand Castle 1412 3200KV** still works but runs hot on 4S and needs a fan. Once you add the Surpass twin-fan + heatsink rig (~63 g with metal fans), the 1412 + cooling weighs ~328 g, heavier than every 4S-native candidate above, with all that mass sitting **up high on the motor** where it hurts handling. Reducing the cooling rig = reducing complexity = **cool**. Badum tss. 🥁
+**The in-hand Castle 1412 3200KV** still works but runs hot on 4S and needs a fan. With the Surpass twin-fan heatsink (~63 g), the 1412 + cooling hits ~328 g, heavier than every 4S-native motor above, and that mass sits high on the can where it hurts handling most.
 
 ---
 
@@ -164,11 +164,7 @@ The Castle 1412 3200KV's "free, already in hand, lightest 4S option" advantage l
 6. Castle 1415 2400KV bare, 318 g
 7. Castle 1412 3200KV + cooling, 328 g (the in-hand option, heaviest)
 
-**Take:** the Pro4 HD 2500KV at 221 g bare beats every 4S-native option that needs no fan by 44+ g. Even if you gamble on the Pro4 2400KV without cooling at 179 g, the HD is only 42 g heavier and removes the thermal worry. The in-hand 1412 with cooling is 107 g heavier than the chosen Pro4 HD, all of it sitting **up high on the motor** where added mass hurts handling most.
-
-> Surpass Hobby 36mm dual-fan heatsink, confirmed specs from listing: aluminum heatsink frame + graphite fan cover + two plastic-blade fans, 28000 RPM @ 8.4V, 55g for the complete 36mm dual-fan assembly (lighter 28/29mm versions are 29-34g, single-fan 36mm is 46g, we'd need the 36mm dual to cool the 36mm-can 1412).
-
-**Take:** the in-hand 1412's weight advantage disappears once cooling is honest in the math. The 1415 buys you cooler running, no fan dependence, native 4S, modern 4-pole 12-slot design, and the same effective weight for ~$130. The 1412 2100KV variants do even better, 4S native AND lower bare weight than the 1415.
+**Take:** once cooling is counted honestly, the in-hand 1412's weight edge disappears. It hits 328 g with the fan rig, the heaviest here, and that mass sits high on the can where it hurts handling most. Every fan-free 4S-native motor beats it: Pro4 HD 221 g, Pro4 2400KV 179 g, 1412 2100KV 265 g. The Pro4 HD was the buy-fresh pick before the MAX10 G2 combo landed. (Surpass cooling specs are in the [cooling section](#related-motor-cooling-optional).)
 
 ---
 
@@ -428,8 +424,9 @@ Conventional wisdom is mixed:
 - Mounting: M3 bolts @ 25.4mm spacing
 - Connectors: 4mm male Castle Bullet Connectors attached to **replaceable 13-gauge wires**; sensor wire 210mm included
 - Max RPM: 75,000
-- **Castle's official application rating**: 1/10 SC trucks / monster trucks / rock racers up to 6.5 lb on **up to 3S LiPo**. Castle says it "can be run on a 4s LiPo with very conservative gearing and keep a close eye on temperatures", i.e. 4S is out-of-spec but possible if you're careful with gearing and watch temps. Runs hot in practice and basically requires a fan. **Real cost of the fan: weight (fan + mount) sitting up high on the motor**, I run metal fans that don't fail in practice, so reliability isn't the issue; the issue is grams in the wrong place
-- Older lamination tech, the heat isn't gearing, it's eddy-current losses in the stator
+- **Castle's rating:** 1/10 SC / MT / rock racers up to 6.5 lb on **up to 3S**. Castle allows 4S only "with very conservative gearing" and a close eye on temps, so 4S is out-of-spec but doable. Runs hot on 4S and wants a fan.
+- **The fan's real cost is weight up high on the motor, not reliability** (metal fans don't fail). Grams in the wrong place.
+- Older laminations, so the heat is eddy-current loss in the stator, not gearing
 - Sensor board has silicone conformal coating (water-resistant sensor PCB), but sensor connector itself is not water resistant, Castle recommends dielectric grease on connectors after wet running
 - Castle's recommended ESCs for this motor: **Mamba X**, Copperhead 10, Sidewinder 4, Cobra 10, all confirmed in the ESC analysis
 - $0, already in hand
