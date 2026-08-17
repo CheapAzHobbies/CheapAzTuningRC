@@ -10,8 +10,8 @@
 > **Now a fallback (spares):** E-Revo 1.0 CVDs chopped to fit (keyed sleeve + Loctite 680) in the [comparison](#axle-wheel-driveshaft-comparison), only relevant again if the diff plan moves back to the E-Revo 1.0 (6mm).
 
 <p align="center">
-  <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="200">&nbsp;<img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="200">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="200">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="200">&nbsp;<img src="src/drivetrain_traxxas_jato4x4_center_shaft_7455.webp" width="200"><br>
-  <em>Leaning axle build: knock-off Slash 4x4 HD steel CV (axle body) · TKR1654-17 front 17mm M6 stub · Tekno 5580 rear stub · TRA6752 long output shaft · Jato 4x4 BL-2S center shaft (7455, chosen)</em>
+  <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="200">&nbsp;<img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="200">&nbsp;<img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" width="200">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="200">&nbsp;<img src="src/drivetrain_traxxas_jato4x4_center_shaft_7455.webp" width="200"><br>
+  <em>Leaning axle build: knock-off Slash 4x4 HD steel CV (axle body) · TKR1654-17 front 17mm M6 stub · TKR5570-17 rear kit (5580 stub + hexes) · TRA6752 long output shaft · Jato 4x4 BL-2S center shaft (7455, chosen)</em>
 </p>
 
 ---
