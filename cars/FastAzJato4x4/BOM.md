@@ -32,7 +32,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | **TRA5153 Traxxas Drive Cup** (E-Revo standard, x2 pairs = 4 total), *now spares, mates the E-Revo 6mm diff only* | **In Hand** | AMain | $16.00 (sunk, gifted) | (drivetrain compatibility, referenced in [`differential_analysis.md`](differential_analysis.md)) |
 | **Spur gear**, Traxxas TRA3956R 54T plastic | To buy | LHS / Traxxas | $3.00 | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
 | **Tekno front stub, TKR1654-17** 17mm M6 hub adapter (1 pair needed; bought 3 pairs, order 06-14626-84975) | **In Hand** | eBay, mr-retro | **$23.15** (paid, 1 of 3 pairs; other 2 spare) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| **Tekno rear stubs, 5580 + 5070** (both in hand, pending test fit to pick one), order 24-14914-16595 | **In Hand** | eBay, mr-retro | **$34.81** (paid) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| **Tekno rear stub, TKR5580** (SCT410) — confirmed a perfect fit, 5070 dropped; 🚧 order more for this build, order 24-14914-16595 | **In Hand** | eBay, mr-retro | **$34.81** (paid, both stubs) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **TRA6752 long output shafts** ×4, swapped into the knock-off CVDs for the extra length | **In Hand** | — | **$32.00** (paid, 4 × $8) | [`driveshaft_analysis.md`](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
 
 ---
@@ -73,6 +73,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 |---|---|---|---|---|
 | **AliExpress CF chassis** (fits Traxxas Slash 4x4 VXL TRA6808 pattern), RCTOYFUN Store, order #8211906604074866 | **Purchased** 2026-06-01 | AliExpress, RCTOYFUN | **$73.17** (paid; listed $169.64) | [`chassis_analysis.md`](chassis_analysis.md#price-history) |
 | **Front + rear bumper set**, Traxxas TRA9044 Front and Rear Skid Plates (covers both, same part as K939 build) | To buy | LHS / AMain / Tammies | **$7.00** | [`bumper_analysis.md`](bumper_analysis.md#oem-set-front--rear-together) |
+| **Traxxas Jato 3.3 red body (5511A take-off)**, novelty stadium-truck look, being tried; JConcepts P2 (0684) is still the leaning primary | **In Hand** (delivered 2026-07-27) | Jenny's RC | **$34.47** (sunk) | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 
 ---
 
@@ -80,8 +81,9 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Part | Status | Source | Price | Decided by |
 |---|---|---|---|---|
-| **Generic AliExpress 1/8 buggy wing** | **In Hand** (or to buy if not already) | AliExpress | ~$3-8 | [`aero_analysis.md`](aero_analysis.md) |
-| **Wing mount**, OEM Jato 4x4 **TRA9046** via Meelobee technique (on Slash 4x4 Extreme HD rear tower) | Chosen | LHS / AMain | $7.00 | [`aero_analysis.md`](aero_analysis.md) |
+| **Generic AliExpress 1/8 buggy wing** (the running wing) | **In Hand** | AliExpress | ~$3-8 (sunk) | [`aero_analysis.md`](aero_analysis.md#wing-comparison) |
+| **Wing mount**, OEM Jato 4x4 **TRA9046** via Meelobee technique (Slash 4x4 Extreme HD rear tower) | **In Hand** (came in the TRA9517 combo) | Jenny's RC | in the **$13.79 combo** (delivered 2026-07-27) | [`aero_analysis.md`](aero_analysis.md#wing-mount-comparison) |
+| **Traxxas TRA9517 Jato / Sledge wing**, *spare, came with the mount combo* | **In Hand** | Jenny's RC | (in the $13.79 combo above) | [`aero_analysis.md`](aero_analysis.md#wing-comparison) |
 
 ---
 
@@ -89,10 +91,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)**, MAX10 G2 + 3665SD G3 combo (ESC+motor), Fire Phoenix ESC (now spare), servo, both E-Revo diffs (now spares), drive cups (now spares), **center driveshaft (7455)**, axle driveshafts, Tekno rear stubs, Tekno front stub, TRA6752 output shafts, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), **ACER titanium M4x60 turnbuckles (all 6 links + spares)**, **HB HBS67410 shock standoffs (2 packs)**, **Hot Bodies D8 metal shock set (used)**, CF chassis, wing | **$641** |
-| **To buy, locked spec**, stock Jato 4x4 front + rear diffs, spur gear, ProTrac PRO6082-01 rear arms, shock towers, springs + pistons + oils, center diff, gearbox housings, bumpers, wing mount | **~$142** |
-| **Still open (no cost yet)**, body, pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
-| **Total estimated (locked items)** | **~$783** |
+| **Already in hand / purchased (sunk cost)**, MAX10 G2 + 3665SD G3 combo (ESC+motor), Fire Phoenix ESC (now spare), servo, both E-Revo diffs (now spares), drive cups (now spares), **center driveshaft (7455)**, axle driveshafts, Tekno rear stubs, Tekno front stub, TRA6752 output shafts, FLM26800 front arms, Raptor R Ultimate alloy hubs, GPM bell crank, TRA3775 bushings (now spare), **ACER titanium M4x60 turnbuckles (all 6 links + spares)**, **HB HBS67410 shock standoffs (2 packs)**, **Hot Bodies D8 metal shock set (used)**, CF chassis, wing, **TRA9046 wing mount + TRA9517 wing (combo)**, **Jato 3.3 red body** | **~$689** |
+| **To buy, locked spec**, stock Jato 4x4 front + rear diffs, spur gear, ProTrac PRO6082-01 rear arms, shock towers, springs + pistons + oils, center diff, gearbox housings, bumpers | **~$135** |
+| **Still open (no cost yet)**, primary body (JConcepts P2 leaning, Jato 3.3 already in hand), pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
+| **Total estimated (locked items)** | **~$824** |
 
 ---
 
@@ -106,6 +108,6 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 - **Aluminum bumpers / shock towers:** vetoed per the sacrificial-failure logic. Aluminum on this build is reserved for the bell crank only (where stiffness under steering load matters and crash exposure is low).
 - **Cross-decision resolved (Meelobee technique):** OEM Jato **TRA9046** wing mount on a **Slash 4x4 Extreme HD rear tower (TRA9039)** with a small aluminum top plate. Shocks centered and protected from rear-end impact, no STRC kit needed. See [`aero_analysis.md`](aero_analysis.md#shock-tower-compatibility-cascade).
 - **Spur:** decided, **TRA3956R 54T** plastic ([`differential_analysis.md`](differential_analysis.md#spur-gear)). **Pinion:** TBD, [reference table](motor_analysis.md#pinion-reference-32p-tbd).
-- **Metal vs plastic shock bodies:** running Apache C1 plastic out of the gate; upgrade to Hot Bodies D8 metal only if body cracks become a recurring problem. See [shock_analysis.md plastic-vs-metal](shock_analysis.md#plastic-vs-metal-body-trade-off).
+- **Shock bodies:** running the metal **Hot Bodies D8** (used set of 4, in hand); the plastic Apache C1 is the identical-internals backup. Metal costs nothing extra here since the set was already scored used. See [shock_analysis.md plastic-vs-metal](shock_analysis.md#plastic-vs-metal-body-trade-off).
 
 For everything else (body, wheels/tires, pinion, bearing kit, etc.) that's still being researched, see the [main README parts list](README.md#parts-list).
