@@ -56,7 +56,7 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Diffs (front + rear) | Traxxas Jato 4x4 stock (5mm), back to stock | To buy, E-Revo 1.0 (6mm) now spares, [`differential_analysis.md`](differential_analysis.md) |
+| Diffs (front + rear) | Traxxas Jato 4x4 stock (5mm) | To buy; E-Revo 1.0 (6mm) now spares, [`differential_analysis.md`](differential_analysis.md) |
 | Axle CVDs | Knock-off Slash 4x4 HD steel CV (5mm) + Tekno M6 stubs | In hand, [`driveshaft_analysis.md`](driveshaft_analysis.md) |
 | Center diff | Stock TRA6814 OEM plastic + 20k wt oil | [`differential_analysis.md`](differential_analysis.md#center-diff) |
 | Center driveshaft | Jato 4x4 BL-2S take-off shaft (7455), $2.49, bought instead of TRA6855 | Purchased, [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
@@ -94,9 +94,9 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Wing | Generic AliExpress 1/8 buggy wing | [`aero_analysis.md`](aero_analysis.md) |
-| Wing mount | OEM Jato 4x4 TRA9046 via Meelobee technique (on Slash 4x4 Extreme HD rear tower) | [`aero_analysis.md`](aero_analysis.md) |
-| Body / shell | JConcepts P2 (0684) leaning; Traxxas OEM 9018 family fallback | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
+| Wing | Generic AliExpress 1/8 buggy wing (running); Traxxas TRA9517 spare from the mount combo | In hand, [`aero_analysis.md`](aero_analysis.md#wing-comparison) |
+| Wing mount | OEM Jato 4x4 TRA9046 via Meelobee technique (Slash 4x4 Extreme HD rear tower) | In hand, came in the $13.79 TRA9517 combo, [`aero_analysis.md`](aero_analysis.md#wing-mount-comparison) |
+| Body / shell | JConcepts P2 (0684) leaning primary; Traxxas Jato 3.3 red (5511A) bought $34.47 to try | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 
 ---
 
