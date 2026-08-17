@@ -31,7 +31,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | **TRA5153 Traxxas Drive Cup** (E-Revo standard), *now spare, mates the 6mm E-Revo diff only* | 4 (2 pairs) | **In Hand** | AMain | $16.00 (sunk, gifted) | (drivetrain compatibility, [`differential_analysis.md`](differential_analysis.md)) |
 | **Spur gear**, Traxxas **TRA3956R 54T** plastic — *not used; doesn't fit the metal center diff (it's a plastic-center-diff part), the AliExpress diff has its own steel spur* | 1 | **In Hand** | LHS / Traxxas | **$3.00** (sunk) | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
 | **Tekno front stub, TKR1654-17** 17mm M6 hub adapter (bought 3 pairs, order 06-14626-84975) | 1 pair | **In Hand** | eBay, mr-retro | **$23.15/pair** (2 pairs spare) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| **Tekno rear stub, TKR5580** (SCT410) — confirmed fit, 5070 dropped; 🚧 order more, order 24-14914-16595 | 1 pair | **In Hand** | eBay, mr-retro | **$34.81** (paid, both stubs) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| **Tekno rear: TKR5570-17 SCT410 kit** (= 5580 stub + 17mm hexes + nuts + pins) is the complete rear part; **TKR5580 stubs already in hand** (order 24-14914-16595, 5070 dropped) 🚧 the kit is what adds the rear hexes | 1 set | Stubs **In Hand**; kit TBD | eBay mr-retro (stubs) / PowerHobby (kit) | **$34.81** stubs (sunk) + **$25.95** kit | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
 
 ---
 
