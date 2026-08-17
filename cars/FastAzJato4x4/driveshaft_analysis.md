@@ -106,7 +106,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 <p align="center"><img src="src/drivetrain_jato_axle_comparison_10mm_longer.jpg" width="440"><br><em>Knock-off CVD + rear CVD parts, with the two 10mm-longer bare axles (top right) next to the originals.</em></p>
 
-<p align="center"><img src="src/drivetrain_jato_axle_hub_testfit.jpg" width="440"><br><em>Test-fit mockup: knock-off CVDs (10mm ends) with M6 17mm stubs (shown on an XO-1 front + plastic rear hub). The final build runs the Raptor R hubs, hub/bearing detail in <a href="hub_carrier_analysis.md">hub_carrier_analysis.md</a>.</em></p>
+<p align="center"><img src="src/drivetrain_jato_axle_hub_testfit.jpg" width="440"><br><em>Test-fit mockup: knock-off CVDs (10mm ends) with M6 17mm stubs (shown on an XO-1 front hub + the **Tekno** plastic rear hub from the Tekno kit, not a stock or older-stock plastic rear). The final build runs the Raptor R hubs, hub/bearing detail in <a href="hub_carrier_analysis.md">hub_carrier_analysis.md</a>.</em></p>
 
 ---
 
