@@ -71,6 +71,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | Part | Qty | Status | Source | Price | Decided by |
 |---|---|---|---|---|---|
 | **AliExpress CF chassis** (Slash 4x4 VXL TRA6808 pattern), order #8211906604074866 | 1 | **Purchased** 2026-06-01 | AliExpress, RCTOYFUN | **$73.17** (paid; listed $169.64) | [`chassis_analysis.md`](chassis_analysis.md#price-history) |
+| **Traxxas 6823 front + rear chassis bars** (added to the CF plate; holes drilled to 3.5mm + front filed to clear the arm) | 1 set | **In Hand** | — | TBD | [`chassis_analysis.md`](chassis_analysis.md#notes) |
 | **Front + rear bumper set**, Traxxas TRA9044 Front and Rear Skid Plates | 1 set | To buy | LHS / AMain / Tammies | **$7.00** | [`bumper_analysis.md`](bumper_analysis.md#oem-set-front--rear-together) |
 | **Traxxas Jato 3.3 red body (5511A take-off)**, being tried; JConcepts P2 (0684) still the leaning primary | 1 | **In Hand** (2026-07-27) | Jenny's RC | **$34.47** (sunk) | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 
