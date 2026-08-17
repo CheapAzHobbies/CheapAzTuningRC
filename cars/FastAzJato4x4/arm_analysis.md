@@ -1,6 +1,6 @@
 # Suspension Arm Selection — FastAzJato4x4
 
-> **Ideal: FLM26800 front + PRO6082-01 rear**, FLM aluminum up front for stiffness and maximum impact resistance, ProTrac plastic in the rear for the same ~10mm wheelbase extension without bulkhead stripping. Both extend wheelbase equally. ProTrac is discontinued so FLM26800 runs both ends until one is sourced. Metal arms normally transfer force to hinge pins and break other things, but these bend instead of snap, you pound them back into shape and you're still in the race. Extensively tested: lots of wrecks, sometimes bent, always reshaped and back on track. Makes the car feel super rigid, like a proper race car, at a fraction of buggy weight.
+> **Chosen: FLM26800 metal arms front + rear.** FLM aluminum at both ends for stiffness and maximum impact resistance. ProTrac PRO6082-01 was the ideal rear on weight grounds (plastic, same ~10mm extension, no bulkhead stripping), but it's discontinued and now dropped, so FLM runs both ends. Metal arms normally transfer force to hinge pins and break other things, but these bend instead of snap, you pound them back into shape and you're still in the race. Extensively tested: lots of wrecks, sometimes bent, always reshaped and back on track. Makes the car feel super rigid, like a proper race car, at a fraction of buggy weight.
 
 <p align="center">
   <a href="https://www.fastlanemachine.net/proddetail.php?prod=FLM26800"><img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="600"></a><br>

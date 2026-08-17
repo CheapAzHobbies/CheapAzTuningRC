@@ -74,7 +74,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 **The build:** buy cheap **AliExpress CVD-style driveshafts** (the 6852/6851 front + rear clone combo), and swap in **four TRA6752 long output shafts at $8 each** (✅ bought, in hand). Replace the stubs with the **Tekno stubs** front and rear. Result is a long, strong axle set for far less than genuine **1951R** sets. **Sell the OG stubs** that came with the axles for good money to offset the cost.
 
-> 🚧 **Possible long-shaft save (test needed):** the **rear may run stock-length output shafts**, if so, only the **front** needs the long TRA6752, so a set would need just **2× TRA6752** (front pair), not 4, with stock-length shafts in the rear. **Test-fit the rear first.** (4 are already in hand this round, so this only helps future sets.)
+> ✅ **Decided: only the front needs the long TRA6752.** The **rear runs stock-length output shafts**, so a set needs just **2× TRA6752** (front pair), not 4. 4 are in hand this round (2 used front, 2 spare). 🚧 The build sheet + cost table above still show 4, update them for 2-front on the next pass.
 
 ### Build cost (set of 4 axles)
 

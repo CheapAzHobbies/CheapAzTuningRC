@@ -1,6 +1,6 @@
 # FastAzJato4x4
 
-> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 extended arms (front) + ProTrac PRO6082-01 (rear), Slash 4x4-pattern CVDs on Tekno M6 stubs (stock Jato 4x4 diffs, 5mm), stock Jato hex hubs, Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo on 4S (Fire Phoenix XeRun 120A also in hand as spare), Hot Bodies D8 metal big-bore shocks (used set in hand; plastic Apache C1 / Wltoys A929 as the backup).
+> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 metal extended arms (front + rear), Slash 4x4-pattern CVDs on Tekno M6 stubs (stock Jato 4x4 diffs, 5mm), stock Jato hex hubs, Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo on 4S (Fire Phoenix XeRun 120A also in hand as spare), Hot Bodies D8 metal big-bore shocks (used set in hand; plastic Apache C1 / Wltoys A929 as the backup).
 >
 > **Build Status: WIP, actively sourcing parts. Car does not exist yet.**
 
@@ -43,8 +43,8 @@ TBD
 | Component | Part | Notes |
 |-----------|------|-------|
 | Shocks | Hot Bodies D8 metal 97mm big bore (front + rear), used set in hand | Plastic HPI Apache C1 = backup, [`shock_analysis.md`](shock_analysis.md) |
-| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 50-60wt R | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
-| Arms | FLM26800 extended (front) + ProTrac PRO6082-01 (rear) | Front purchased $25.73 (bulk order), [`arm_analysis.md`](arm_analysis.md) |
+| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 50-60wt R | Springs + pistons came with the used D8 set; oil from Tammies, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| Arms | FLM26800 metal extended, front + rear (ProTrac dropped) | 2 pairs purchased $25.73/pair (bulk order), [`arm_analysis.md`](arm_analysis.md) |
 | Shock standoffs | HB Racing HBS67410 ×2 pairs (for the metal D8 shocks; plastic path can force-fit Traxxas hollow balls) | ✅ purchased $3.99/pr, [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
 | Shock towers | Jato stock #9033 front + Slash 4x4 Extreme HD TRA9039 rear (Meelobee) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | Arm guards | TRA6732 front + TRA6733 rear | [`arm_analysis.md`](arm_analysis.md#shock-guards) |
