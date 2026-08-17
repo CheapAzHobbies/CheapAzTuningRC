@@ -69,7 +69,7 @@
 
 A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **1951R "Steel Rear CV Driveshafts (2)"** (2WD cars) are about **10mm longer** than the Slash 4x4 6852R (rear) and 6851R (front). The **only difference is the output shaft**; everything else (cups, boots, hardware) is the same.
 
-- **Output shafts:** **TRA6752 = long** (the 1951R length), **TRA6750 = short**. Swap in 6752 to make a standard CVD the longer length.
+- **Output shafts:** **TRA6752 = long** (the 1951R length), **TRA6750 = short**. Swap in 6752 to make a standard CVD the longer length. **The knock-off CV set already ships with 4 short (TRA6750-length) shafts**, so the **rear just reuses two of them**, only the **front** buys 2× long 6752, and the **other two short shafts (front) go unused** (spare or sell).
 - **Stubs are compatible with the Tekno stuff** (the [Tekno 5580 / 5070 stubs](hub_carrier_analysis.md#rear-stub-axles-raptor-r-rear-in-testing)).
 
 **The build:** buy cheap **AliExpress CVD-style driveshafts** (the 6852/6851 front + rear clone combo), and swap in **two TRA6752 long output shafts ($8 each) at the front only**, the **rear keeps its stock-length TRA6750 shafts**. Replace the stubs with the **Tekno stubs** front and rear. Result is a long, strong axle set for far less than genuine **1951R** sets. **Sell the OG stubs** (and the 2 leftover front short shafts) to offset the cost.
