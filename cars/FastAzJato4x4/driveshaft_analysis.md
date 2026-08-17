@@ -1,6 +1,6 @@
 # Driveshaft Selection — FastAzJato4x4
 
-> **Chosen: Tekno M6 stub axle build, confirmed by the diff decision (back to stock 5mm diffs).**
+> **Chosen: Tekno M6 stub axle build, matched to the stock 5mm diffs.**
 > - **Stubs: Tekno M6 17mm (front TKR1654-17) + Tekno TKR5580 rear, ✅ confirmed a perfect fit** in the rear hubs. **Need to order more TKR5580 for the FastAzJato.**
 > - **Axle bodies:** the full 4-set of cheap **AliExpress CVDs** (6852/6851 clones, 5mm diff end) plus genuine **TRA6752 long output shafts** ($8 ea, 4 bought, in hand), swapped in for the extra length. **Sell the OG stubs** to offset cost. See [2WD long CVDs](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 > - **Center driveshaft: Jato 4x4 BL-2S take-off shaft (7455), $2.49, bought instead of the TRA6855.** Native Jato fitment, bundle includes a pinion + bearings.
@@ -296,7 +296,7 @@ Buying-blind rules:
 
 ## Center Driveshaft Comparison
 
-**Take: bought the native Jato 4x4 take-off shaft instead, see the ⭐ row.** This is the diff-to-diff shaft, not the wheel axles. On 4S a plastic shaft can deform and the Tekno Big Bone costs more for no gain, so between the two Traxxas options the metal Slash 4x4 shaft was the original reasoning, but the cheap native Jato take-off part won out in practice.
+**Take: bought the native Jato 4x4 take-off shaft (7455, $2.49), see the ⭐ row.** This is the diff-to-diff shaft, not the wheel axles. The metal Slash 4x4 TRA6855 was the original pick (plastic deforms on 4S, the Tekno Big Bone costs more for no gain), but the cheap native Jato take-off part won out.
 
 > *Spec format: Type · Material · Part · Length · Price*
 
