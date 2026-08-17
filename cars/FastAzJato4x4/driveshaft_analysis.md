@@ -114,6 +114,8 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 The build runs Tekno M6 stubs at both ends. **Front = the TKR1654-17 17mm M6 hub adapter.** **Rear = the Tekno TKR5570-17 SCT410 kit** (the 5580 stub + 17mm hexes), ✅ confirmed a perfect fit in the rear hubs (the 5070 is much larger, ruled out, see the row below). Hub + inner-bearing sizing (10×18×5, etc.) is in [`hub_carrier_analysis.md`](hub_carrier_analysis.md#axle--hub-compatibility); the **17mm wheel hexes that mount to these stubs** are in [`wheel_hex_analysis.md`](wheel_hex_analysis.md).
 
+> ⚠️ **Don't mix up the part numbers.** **TKR55*80*** = the bare rear stub only. **TKR55*70*-17** = the full SCT410 kit (2 stubs + 2 17mm hexes + nuts + cross-pins). Buy the **-70 kit** to get the stub *and* the hexes in one, not the bare **-80** stub.
+
 | Position | Tekno stub | For | Price | Status |
 |---|---|---|---|---|
 | **Front** | **TKR1654-17**, 17mm M6 hub adapter (17mm hex adapters + stub pins + cross pins + 17mm nuts) | Front 17mm M6 setup | **$23.15/pair**, only 1 pair needed | ✅ In hand. Minor 17mm hex filing to seat (see [`wheel_hex`](wheel_hex_analysis.md)) |
