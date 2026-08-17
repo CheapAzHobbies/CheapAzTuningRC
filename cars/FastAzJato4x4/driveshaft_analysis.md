@@ -49,7 +49,7 @@
 
 | Driveshaft | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Custom combo axle (the actual build)** — *chosen* | **Build sheet (assembly):**<br>• Knock-off Slash 4x4 CV body, **$21.10** / set of 4<br>• 4× **TRA6752** long output shaft, **$8 ea** (adds length; **rear may take stock-length → possibly only 2 needed, test**)<br>• Front stub: Tekno **TKR1654-17** 17 mm M6, **$23.15/pr**<br>• Rear stub: Tekno **TKR5580** — **$16.90/pr**<br>**Diff end:** 5 mm (stock Jato)<br>**Fits:** EHD / Raptor R hubs + extended FLM arms (101.6 mm)<br>**Price:** **~$93 gross · ~$57–73 net** (after selling the OG stubs + short shafts) | Pro: **The real winner, a long, strong M6 axle set for far less than genuine.** Reaches the extended FLM arm length, hardened Tekno M6 stubs, **no cut-and-glue**. Full assembly + cost in [2WD long CVDs + 6752](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) and [Tekno stubs](#tekno-stubs-front--rear)<br><br>Con: **An assembly of 4 part sources, not an off-the-shelf axle** (the hub/bearing/hex side is in [`hub_carrier`](hub_carrier_analysis.md) + [`wheel_hex`](wheel_hex_analysis.md)) | <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="120"> <img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="120"> <img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="120"> <img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="120"><br><em>CV body · TRA6752 long shaft · TKR1654-17 front stub · TKR5580 rear stub</em> |
+| ⭐ **Custom combo axle (the actual build)** — *chosen* | **Build sheet (assembly):**<br>• Knock-off Slash 4x4 CV body, **$21.10** / set of 4<br>• **2× TRA6752** long output shaft (**front only**), **$8 ea**; the **rear keeps its stock-length TRA6750** shafts<br>• Front stub: Tekno **TKR1654-17** 17 mm M6, **$23.15/pr**<br>• Rear stub: Tekno **TKR5580**, **$16.90/pr**<br>**Diff end:** 5 mm (stock Jato)<br>**Fits:** EHD / Raptor R hubs + extended FLM arms (101.6 mm)<br>**Price:** **~$77 gross · ~$49–61 net** (after selling the OG stubs + 2 front short shafts) | Pro: **The real winner, a long, strong M6 axle set for far less than genuine.** Reaches the extended FLM arm length, hardened Tekno M6 stubs, **no cut-and-glue**. Full assembly + cost in [2WD long CVDs + 6752](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) and [Tekno stubs](#tekno-stubs-front--rear)<br><br>Con: **An assembly of 4 part sources, not an off-the-shelf axle** (the hub/bearing/hex side is in [`hub_carrier`](hub_carrier_analysis.md) + [`wheel_hex`](wheel_hex_analysis.md)) | <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="120"> <img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="120"> <img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="120"> <img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="120"><br><em>CV body · TRA6752 long shaft · TKR1654-17 front stub · TKR5580 rear stub</em> |
 | 🟢 **Knock-off Slash 4x4 HD Steel CV** — *the combo's axle body, ✅ purchased* | **Type:** CV knock-off of TRA6851R<br>**Part:** N/A (generic)<br>**Diff end:** **5mm**<br>**Fits:** Slash 4x4 pattern (5mm cups)<br>**Price:** **$21.10 paid** (purchased 2026-06-01, see [Price History](#price-history)) | Pro: **The body of the combo above, already in hand, matches the stock Jato 4x4 diff (5mm).** Full set of 4 for $21.10, vs $69.95 for just two genuine TRA6851R axles. Same steel-CV design and smooth feel. **The Tekno M6 stub end fits these**, so they run with the strong M6 stubs (no cut-and-glue)<br><br>Con: **Stock-arm length on its own, too short for the extended FLM arms (101.6 mm)**, which is why the combo adds the 6752 long shafts. QC varies on paper | <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="500"> |
 | 🟢 **Traxxas E-Revo 1.0 CVDs (chopped to fit)** — *in hand, now spares* | **Type:** CVD (constant-velocity)<br>**Part:** TRA5451R (set, sold as a set, no singles)<br>**Diff end:** **6mm**<br>**Fits:** E-Revo diffs and cups<br>**Price:** **$69.95** (Traxxas MSRP) | Pro: Smoothest power delivery through full travel, no U-joint clearance problems. The basis of the old driveline plan, cut to length and rejoined with a 6mm threaded collet / metal tube (see method below)<br><br>Con: **Needs the E-Revo 1.0 diff output drives (6mm outdrives/cups) to fit**, so it's spares/fallback unless the diff plan moves back to the E-Revo 1.0 (6mm). Genuine set is $69.95 vs the ~$20–28 knock-off | <img src="src/drivetrain_traxxas_e_revo_cvd_5451r.jpg" width="500"> |
 | 🔵 **Knock-off E-Revo 1.0 CVDs (chopped to fit)** — *budget, 6mm only* | **Type:** CVD knock-off of TRA5451R<br>**Part:** N/A (varies by seller)<br>**Diff end:** 6mm<br>**Fits:** E-Revo diffs and cups<br>**Price:** **~$20–28 for a set of 4** | Pro: Set of 4 for $20–28. Indistinguishable from genuine TRA5451R in practice. Same collet / cut-to-length method. See [Knock-Off E-Revo CVDs](#knock-off-e-revo-cvds)<br><br>Con: **6mm, no longer matches the stock (5mm) diff pick.** Only relevant again if the diff plan moves back to E-Revo | <a href="https://www.aliexpress.us/item/3256810555124966.html"><img src="src/drivetrain_knockoff_cvd_rcawd.jpg" width="500"></a> |
@@ -72,35 +72,35 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 - **Output shafts:** **TRA6752 = long** (the 1951R length), **TRA6750 = short**. Swap in 6752 to make a standard CVD the longer length.
 - **Stubs are compatible with the Tekno stuff** (the [Tekno 5580 / 5070 stubs](hub_carrier_analysis.md#rear-stub-axles-raptor-r-rear-in-testing)).
 
-**The build:** buy cheap **AliExpress CVD-style driveshafts** (the 6852/6851 front + rear clone combo), and swap in **four TRA6752 long output shafts at $8 each** (✅ bought, in hand). Replace the stubs with the **Tekno stubs** front and rear. Result is a long, strong axle set for far less than genuine **1951R** sets. **Sell the OG stubs** that came with the axles for good money to offset the cost.
+**The build:** buy cheap **AliExpress CVD-style driveshafts** (the 6852/6851 front + rear clone combo), and swap in **two TRA6752 long output shafts ($8 each) at the front only**, the **rear keeps its stock-length TRA6750 shafts**. Replace the stubs with the **Tekno stubs** front and rear. Result is a long, strong axle set for far less than genuine **1951R** sets. **Sell the OG stubs** (and the 2 leftover front short shafts) to offset the cost.
 
-> ✅ **Decided: only the front needs the long TRA6752.** The **rear runs stock-length output shafts**, so a set needs just **2× TRA6752** (front pair), not 4. 4 are in hand this round (2 used front, 2 spare). 🚧 The build sheet + cost table above still show 4, update them for 2-front on the next pass.
+> ✅ **Only the front needs the long TRA6752** (2×); the **rear runs stock-length TRA6750** shafts. The sheet + costs below are the 2-front spec. 4× 6752 are in hand this round, so 2 are spare.
 
 ### Build cost (set of 4 axles)
 
 | Part | Qty | Cost |
 |---|---|---|
-| Knock-off Slash 4×4 HD steel CV bodies | set of 4 | $21.10 |
-| Traxxas 6752 long output shaft | 4 × $8 | $32.00 |
+| Knock-off Slash 4×4 HD steel CV bodies (incl. stock-length rear shafts) | set of 4 | $21.10 |
+| Traxxas 6752 long output shaft (**front only**) | 2 × $8 | $16.00 |
 | Tekno TKR1654-17, front 17 mm M6 adapter | 1 pair | $23.15 |
 | Tekno 5580, rear stub | 1 pair | $16.90 |
-| **Gross parts total** | | **≈ $93.15** |
+| **Gross parts total** | | **≈ $77.15** |
 
 **Offset, sell the leftover OG bits** swapped out during the build (estimates):
 
 | Sold | Est. resale |
 |---|---|
 | OG stubs (4, replaced by the Tekno stubs) | ~$12–20 |
-| Shorter OG output shafts (4, replaced by the 6752 long shafts) | ~$8–16 |
-| **Est. offset** | **~$20–36** |
+| Shorter OG output shafts (**2 front**, replaced by the 6752; rear 2 stay on the car) | ~$4–8 |
+| **Est. offset** | **~$16–28** |
 
-**Estimated net ≈ $57–73 per set of 4** (gross − resale). Not counted: the **10×18×5 front bearing pair** (~$3–5, a hub part). For reference a genuine set is **$69.95 for only two** TRA6851R, this makes a full set of **4**, longer *and* stronger with the M6 stubs.
+**Estimated net ≈ $49–61 per set of 4** (gross − resale). Not counted: the **10×18×5 front bearing pair** (~$3–5, a hub part). For reference a genuine set is **$69.95 for only two** TRA6851R, this makes a full set of **4**, longer front *and* stronger with the M6 stubs.
 
 <p align="center"><img src="src/drivetrain_traxxas_2wd_rear_cvd_1951r.jpg" width="360"><br><em>Traxxas 1951R, 2WD rear steel CVDs (~10mm longer than the 6852R/6851R). This is the length we're after.</em></p>
 
 <p align="center"><img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="330">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6750_short.jpg" width="330"><br><em>TRA6752 (long, the 1951R length) · TRA6750 (short). Same everywhere else; the output shaft sets the length.</em></p>
 
-**Why longer:** the extra ~10mm suits the wider E-Revo-based stance. **Used front and rear** with the Tekno stubs.
+**Why longer:** the extra ~10mm at the **front** suits the wider stance. **Tekno stubs at both ends**; the rear runs stock-length TRA6750 shafts.
 
 > **Leaning axle plan (pending test fit):** **front = Tekno M6 17mm stubs**, **rear = Tekno TKR5580 (SCT410) stub, ✅ confirmed a perfect fit** (5070 was the alt, no longer needed). Hub + bearing sizing (10×18×5 front inner, etc.) is in [`hub_carrier_analysis.md`](hub_carrier_analysis.md).
 
