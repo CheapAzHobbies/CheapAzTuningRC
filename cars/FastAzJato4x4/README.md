@@ -81,8 +81,8 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 |-----------|------|-------|
 | ESC | **Hobbywing EZRun MAX10 G2 140A**, ✅ bought Jun 25 2026 ($127 combo); Fire Phoenix XeRun 120A also in hand | [`esc_analysis.md`](esc_analysis.md) |
 | Motor | **Hobbywing EZRun 3665 G3 2400KV** (4-pole, came with the combo), supersedes the Tekin Pro4 HD plan | [`motor_analysis.md`](motor_analysis.md) |
-| Battery | 4S LiPo | — |
-| Receiver | FlySky FGr4S V2 | Considering |
+| Battery | 4S LiPo **5000-5400mAh** (~5200 sweet spot; 6000 too heavy, 4200 too short), running **Zeee 5200 100C EC5** | From the shared fleet, [`battery_analysis.md`](battery_analysis.md) |
+| Radio / receiver | **FlySky Noble NB4** TX + **FGr4S V2** RX | In hand, [`radio_analysis.md`](radio_analysis.md) |
 
 ---
 

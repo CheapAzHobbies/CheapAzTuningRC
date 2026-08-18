@@ -26,6 +26,8 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Servos**, PTK 9752TG-D metal high-speed, in hand (8-pack bulk), `servo_analysis.md`
 - [x] **Wheel hexes**, front Tekno TKR1654-17 + rear TKR5570-17 SCT410 kit (star 17mm hexes), `wheel_hex_analysis.md`
 - [x] **Wheels / tires** — **RED SPIDER wheels + tires mounted** (17mm hex, same tire on colored rims), `wheel_analysis.md`
+- [x] **Battery** — 4S 5000-5400mAh (~5200 sweet spot; 6000 too heavy, 4200 too short), from the shared fleet, `battery_analysis.md`
+- [x] **Radio / receiver** — FlySky Noble NB4 + FGr4S V2 RX, in hand, `radio_analysis.md`
 
 ---
 
@@ -37,12 +39,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 
 ## 📝 To do — no doc yet
 
-### Drivetrain
-- [x] **Pinion / FDR** — **running 16T** (FDR 3.38); 17/18T on hand to retune, all came with the metal center diff ($0). [Pinion reference](motor_analysis.md#pinion-reference-32p)
-
-### Electronics
-- [ ] **Battery**, pack selection for this car (capacity / C-rating / size-fit in the CF chassis); the shared `batteries/` is just a tracker
-- [ ] **Radio / receiver**, FlySky FGr4S V2 is "Considering" in the BOM
+- **All part analyses are written.** What's left is build / purchase (see loose ends) and track tuning, not new docs.
 
 ---
 

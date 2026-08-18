@@ -258,6 +258,7 @@ When you start a **new part category**, define its field order once (add a short
   - *Price convention: always quote per **set of 4** (one full car's worth), for wheels, tires, and foam inserts alike, written `$X / set of 4`. State it once near the top of the doc and on each row.*
   - *Section layout for a `wheel_analysis.md`: split the options into **Full Wheels** (mounted tire + rim sets), **Tires** (bare tires), **Rims** (bare wheels), and **Foam Inserts**, each its own `##` section. Name the doc `wheel_analysis.md` (covers rims + tires), not `tire_analysis.md`.*
 - **Radio controllers (transmitters):** Type · Channels · Protocol · Receivers · Gyro · Telemetry · Model memory · Display · Battery · Price
+- **Batteries:** Cells · Capacity · C-rating · Weight · Connector · Size · Price
 - **Arms (A-arms):** Type · Material · Position · Fits · Wheelbase · Pivot/Hardware · Stiffness · Toe · Origin · Weight · Price
 - **Bumpers:** Type · Material · Position · Fits · Includes · Weight · Price
 - **Shocks:** Type · Bore · Length · Body material · Piston · Mounting · Part · Spring · Oil · Price
