@@ -12,22 +12,24 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 
 | # | Pack | Capacity | Acquired | Cycles | Notes |
 |---|------|----------|----------|--------|-------|
-| 1 | Zeee 2S 8000 #1 | 8000 mAh | 3/19/24 | 29 | Sticker |
-| 2 | Zeee 2S 8000 #2 | 8000 mAh | 3/19/24 | 26 | |
-| 3 | Zeee 4S | 8000 mAh | 3/18/24 | 20 | |
-| 4 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 73 | LiHV |
-| 5 | Gortpot #1 | 4000 mAh | 4/20/23 | 34 | |
-| 6 | Gortpot #2 | 4000 mAh | 4/20/23 | 29 | |
-| 7 | Zeee 2S #1 | 5200 mAh | 11/18/22 | 467 | |
-| 8 | Zeee 2S #2 | 5200 mAh | 11/18/22 | 443 | |
-| 9 | TATTU 1S 3.7V #1 | 380 mAh | 7/3/20 | 32 | |
-| 10 | TATTU 1S 3.7V #2 | 380 mAh | 7/3/20 | 32 | |
-| 11 | TATTU 1S 3.7V #3 | 380 mAh | 7/3/20 | 10 | |
-| 12 | TATTU 1S 3.7V #4 | 380 mAh | 7/3/20 | 12 | |
-| 13 | TATTU 1S 3.7V #5 | 380 mAh | 7/3/20 | 66 | |
-| 14 | TATTU 1S 3.7V #6 | 380 mAh | 7/3/20 | 1 | |
-| 15 | Reaction | 4000 mAh | 8/5/19 | 432 | |
-| 16 | Peak Power | — | 4/22/18 | 76 | Mike's pack |
+| 1 | SMC HCL-RS 2S HV (6400) | 2S HV 6400 mAh | 4/25 | — | LiHV, 120C hardcase (64120-2S1P), 5mm inboard |
+| 2 | SMC HCL-RS 2S (5600) | 2S 5600 mAh | 4/25 | — | 150C hardcase (56150-2S1P), 5mm inboard |
+| 3 | Zeee 2S 8000 #1 | 8000 mAh | 3/19/24 | 29 | Sticker |
+| 4 | Zeee 2S 8000 #2 | 8000 mAh | 3/19/24 | 26 | |
+| 5 | Zeee 4S | 8000 mAh | 3/18/24 | 20 | |
+| 6 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 83 | LiHV |
+| 7 | Gortpot #1 | 4000 mAh | 4/20/23 | 34 | |
+| 8 | Gortpot #2 | 4000 mAh | 4/20/23 | 29 | |
+| 9 | Zeee 2S #1 | 5200 mAh | 11/18/22 | 467 | |
+| 10 | Zeee 2S #2 | 5200 mAh | 11/18/22 | 443 | |
+| 11 | TATTU 1S 3.7V #1 | 380 mAh | 7/3/20 | 32 | |
+| 12 | TATTU 1S 3.7V #2 | 380 mAh | 7/3/20 | 32 | |
+| 13 | TATTU 1S 3.7V #3 | 380 mAh | 7/3/20 | 10 | |
+| 14 | TATTU 1S 3.7V #4 | 380 mAh | 7/3/20 | 12 | |
+| 15 | TATTU 1S 3.7V #5 | 380 mAh | 7/3/20 | 66 | |
+| 16 | TATTU 1S 3.7V #6 | 380 mAh | 7/3/20 | 1 | |
+| 17 | Reaction | 4000 mAh | 8/5/19 | 432 | |
+| 18 | Peak Power | — | 4/22/18 | 76 | Mike's pack |
 
 ---
 
@@ -43,10 +45,16 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 
 | # | Pack | Capacity | Acquired | Retired | Cycles | Notes |
 |---|------|----------|----------|---------|--------|-------|
-| 1 | Zeee Premo #2 | 3S HV 4200 mAh | 6/21/23 | 6/1/26 | 93 | LiHV. Wrapped. Died from over-discharge + no balancing — user error |
-| 2 | Zeee (Deans connector) | 8000 mAh | 6/2020 | 3/13/24 | 698 | |
-| 3 | K939 OEM | 3800 mAh | 12/22/19 | 2/7/20 | 32 | |
-| 4 | Noname #4 | 400 mAh | 1/26/16 | 3/19/18 | 192 | |
-| 5 | Noname #2 | 400 mAh | 1/26/16 | 9/24/17 | 137 | |
-| 6 | Noname #3 | 400 mAh | 1/26/16 | 9/24/17 | 120 | |
-| 7 | Noname #1 | 400 mAh | 1/26/16 | 7/1/16 | 80 | |
+| 1 | SMC HCL-HP 4S #1 | 4S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-4S1P). Failed within 6 months, none past ~20 cycles despite babying per SMC rules |
+| 2 | SMC HCL-HP 4S #2 | 4S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-4S1P). Failed within 6 months |
+| 3 | SMC HCL-HP 4S #3 | 4S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-4S1P). Failed within 6 months (one died before first charge) |
+| 4 | SMC HCL-HP 3S #1 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
+| 5 | SMC HCL-HP 3S #2 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
+| 6 | SMC HCL-HP 3S #3 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
+| 7 | Zeee Premo #2 | 3S HV 4200 mAh | 6/21/23 | 6/1/26 | 93 | LiHV. Wrapped. Died from over-discharge + no balancing — user error |
+| 8 | Zeee (Deans connector) | 8000 mAh | 6/2020 | 3/13/24 | 698 | |
+| 9 | K939 OEM | 3800 mAh | 12/22/19 | 2/7/20 | 32 | |
+| 10 | Noname #4 | 400 mAh | 1/26/16 | 3/19/18 | 192 | |
+| 11 | Noname #2 | 400 mAh | 1/26/16 | 9/24/17 | 137 | |
+| 12 | Noname #3 | 400 mAh | 1/26/16 | 9/24/17 | 120 | |
+| 13 | Noname #1 | 400 mAh | 1/26/16 | 7/1/16 | 80 | |
