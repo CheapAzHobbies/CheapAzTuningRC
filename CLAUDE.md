@@ -259,7 +259,7 @@ When you start a **new part category**, define its field order once (add a short
   - *Section layout for a `wheel_analysis.md`: split the options into **Full Wheels** (mounted tire + rim sets), **Tires** (bare tires), **Rims** (bare wheels), and **Foam Inserts**, each its own `##` section. Name the doc `wheel_analysis.md` (covers rims + tires), not `tire_analysis.md`.*
 - **Radio controllers (transmitters):** Type · Channels · Protocol · Receivers · Gyro · Telemetry · Model memory · Display · Battery · Price
 - **Batteries:** Cells · Capacity · C-rating · Weight · Connector · Size · Price
-- **Chargers:** Chemistries · Cells · Power (DC/AC/PD) · Channels · Max current · Interfaces · Price
+- **Chargers:** Chemistries · Cells · Power (DC/AC/PD) · Input voltage · Channels · Max current · Interfaces · Price
 - **Arms (A-arms):** Type · Material · Position · Fits · Wheelbase · Pivot/Hardware · Stiffness · Toe · Origin · Weight · Price
 - **Bumpers:** Type · Material · Position · Fits · Includes · Weight · Price
 - **Shocks:** Type · Bore · Length · Body material · Piston · Mounting · Part · Spring · Oil · Price
