@@ -42,7 +42,7 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Shocks | Hot Bodies D8 metal 97mm big bore (front + rear), used set in hand | Plastic HPI Apache C1 = backup, [`shock_analysis.md`](shock_analysis.md) |
+| Shocks | Hot Bodies D8 metal 97mm big bore (front + rear), used set in hand | Plastic HPI Apache C1 / Wltoys A929 = same shock, backup. Stock Jato 4x4 GTR XX-Long (gray composite, cheap at Jenny's) is a fine fallback if no big-bore set turns up, [`shock_analysis.md`](shock_analysis.md) |
 | Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 50-60wt R | Springs + pistons came with the used D8 set; oil from Tammies, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | Arms | FLM26800 metal extended, front + rear (ProTrac dropped) | 2 pairs purchased $25.73/pair (bulk order), [`arm_analysis.md`](arm_analysis.md) |
 | Shock standoffs | HB Racing HBS67410 ×2 pairs (for the metal D8 shocks; plastic path can force-fit Traxxas hollow balls) | ✅ purchased $3.99/pr, [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
