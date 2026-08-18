@@ -21,18 +21,43 @@
 
 ---
 
-## Comparison
+> *Everything below is counted and priced as a **set of 4** (one full car's worth), wheels, tires, and foams alike.*
+
+## Full Wheels (mounted tire + rim sets)
+
+Complete sets, tire already on the rim. **RED SPIDER is the running set.**
 
 > *Spec format: Part · Type · Tread · Compound · Dia · Width · Rim · Hex · Weight · Foam · Pre-glued · Price*
 
-| Wheel / Tire | Spec | Pros / Cons | Photo / Link |
+| Wheel set | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **RED SPIDER R235 / R305** (mounted) — *same tire, colored rims* | **Part:** **R235 / R305** (R305 = white version)<br>**Type:** 1/8 off-road buggy<br>**Tread:** mini-pin / block<br>**Compound:** soft rubber (unmarked)<br>**Dia:** **118mm** (OD)<br>**Width:** N/A<br>**Rim:** RED SPIDER colored dish rims (17mm hex)<br>**Hex:** 17mm<br>**Weight:** N/A<br>**Foam:** included<br>**Pre-glued:** mounted set<br>**Price:** **$18.61 / set** (RED SPIDER Store) | Pro: **Takes a few laps to wear in, then hooks really well.** **Wears slowly and keeps gripping for a long time**, the standout trait, and the **most durable of the sets I have**. Fits 1/8 buggies (Kyosho MP10 / Traxxas Jato / HSP / VRX). Cheap, colored rims are a free cosmetic pick<br><br>Con: **Not at full grip when fresh**, give them a few laps. Weight + paid price still to log | <img src="src/aero_redspider_wheels.jpg" width="200">&nbsp;<img src="src/aero_redspider_wheels_r305_white.jpg" width="130"><br><em>R235 · R305 (white)</em> |
 | 🥈 **Tokyo Speed T wheels** — *alternate full set of 4, in hand* | **Part:** 🚧 TBD (Tokyo Speed SKU / order ID)<br>**Type:** 1/8-buggy-style off-road race<br>**Tread:** block / mini-pin<br>**Compound:** soft (race)<br>**Dia:** N/A<br>**Width:** N/A<br>**Rim:** dish, 17mm hex (matched set of 4, interchanges with the RedSpider wheels)<br>**Hex:** 17mm<br>**Weight:** N/A<br>**Foam:** included<br>**Pre-glued:** mounted set<br>**Price:** **$20 / set of 4** | Pro: **Complete matched set of 4**, drops onto the same 17mm hexes as the rest; **better than stock**; colors available (white / yellow / green / black); cheap<br><br>Con: **Mid all-round**, no standout trait. **Less durable than the RedSpider and can rip sometimes.** Soft race tire, mind the RPM (see notes) | <img src="src/aero_tokyo_speed_wheels.jpg" width="250"> |
 | 🔵 **Unbranded budget set** — *my first set, superseded* | **Part:** N/A (unbranded)<br>**Type:** 1/8-buggy-style off-road<br>**Tread:** block<br>**Compound:** soft<br>**Dia:** N/A<br>**Width:** N/A<br>**Rim:** yellow dish, 17mm hex (set of 4)<br>**Hex:** 17mm<br>**Weight:** N/A<br>**Foam:** included<br>**Pre-glued:** mounted set<br>**Price:** **$13.17 / set of 4** (cheapest) | Pro: **Good grip for the price**, the first set I ran, cheapest of the lot<br><br>Con: **Weak rims** and the **tire wore down fast**, both the RedSpider and Tokyo Speed outlast it. Fine as an entry set, superseded now | <img src="src/aero_unbranded_wheels_cheap.jpg" width="200"> |
 | 🔵 **RED SPIDER R306** — *RedSpider variant, wrong surface for this track* | **Part:** **R306** (RED SPIDER)<br>**Type:** 1/8 off-road buggy<br>**Tread:** aggressive knob / lug<br>**Compound:** soft<br>**Dia:** **118mm** (OD)<br>**Width:** N/A<br>**Rim:** dish, 17mm hex (set of 4)<br>**Hex:** 17mm<br>**Weight:** N/A<br>**Foam:** included<br>**Pre-glued:** mounted set<br>**Price:** N/A | Pro: Same RedSpider brand + size (118mm, 17mm hex); **better on grass and some concrete** with the bigger knobs<br><br>Con: **Not ideal for the blown-out dirt at Meldrum Bar**, the aggressive lugs suit grass/concrete more than dry loose dirt. Stick with the **R235 / R305** mini-pin here | <img src="src/aero_redspider_wheels_r306.jpg" width="250"> |
+
+---
+
+## Tires (tire only, mount on your own rims)
+
+Bare tires, no rim. Mount on 17mm-hex rims with a [foam insert](#foam-inserts).
+
+> *Spec format: Part · Type · Tread · Compound · Dia · Width · Rim · Hex · Weight · Foam · Pre-glued · Price*
+
+| Tire | Spec | Pros / Cons | Photo / Link |
+|---|---|---|---|
 | 🔵 **Generic 1/8 buggy tires, "Mitsubishi-logo" tread** — *tires only, in hand* | **Part:** N/A (generic AliExpress)<br>**Type:** 1/8 off-road buggy (**tires only, no rims**)<br>**Tread:** small block, "Mitsubishi-logo" style<br>**Compound:** soft<br>**Dia:** N/A<br>**Width:** N/A<br>**Rim:** none (mount on 17mm rims)<br>**Hex:** N/A (tire only)<br>**Weight:** N/A<br>**Foam:** **included, nice closed-cell race foam** (blue)<br>**Pre-glued:** No (tires only)<br>**Price:** **$13 / set of 4** | Pro: **Comes with good closed-cell race foam** (holds shape better than the RedSpider's packing sponge). Cheap set of 4<br><br>Con: **Tires only, no rims**, mount them yourself. Unproven on my track vs the RedSpider | <img src="src/aero_generic_tires_1-8_with_foam.jpg" width="250"> |
 | 🔵 **Generic 1/8 buggy tires, triangle tread (26013)** — *tires only, in hand* | **Part:** **26013** (Fiona Hobby)<br>**Type:** 1/8 off-road buggy (**tires only, no rims**)<br>**Tread:** triangle, hole in the middle<br>**Compound:** medium / soft<br>**Dia:** N/A<br>**Width:** N/A<br>**Rim:** none (mount on 17mm rims)<br>**Hex:** N/A (tire only)<br>**Weight:** ~310 g / set<br>**Foam:** **none** (bought the Tire-Only variant; "With Sponge" / "With Racing" variants exist)<br>**Pre-glued:** No<br>**Price:** **$13.04** (list $13.73) | Pro: Cheap set of 4, grip is OK, fits standard 1/8 wheels<br><br>Con: **Very fragile and prone to ripping**, weaker than the RedSpider. No foam in this variant (pick the With-Sponge/Racing option if you want it) | <img src="src/aero_generic_tires_triangle_26013.jpg" width="250"> |
+
+---
+
+## Rims (bare wheels)
+
+Nothing bought as a bare rim yet, every set above comes as a mounted tire + rim. This section is for standalone 17mm-hex dish rims if I buy any (e.g. spare rims to remount a good tire, or a specific color). All rims here run **standard width** to keep the car [ROAR legal](#key-requirements).
+
+| Rim | Spec | Pros / Cons | Photo / Link |
+|---|---|---|---|
+| — none logged yet | — | — | — |
 
 ---
 
