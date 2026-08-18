@@ -54,7 +54,7 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 | 4 | SMC HCL-HP 3S #1 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
 | 5 | SMC HCL-HP 3S #2 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
 | 6 | SMC HCL-HP 3S #3 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
-| 7 | Zeee Premo #2 | 3S HV 4200 mAh | 6/21/23 | 6/1/26 | 93 | LiHV. Wrapped. Died from over-discharge + no balancing — user error. Zeee sent a free replacement (now Active #5); still have 4 working Premos |
+| 7 | Zeee Premo #2 | 3S HV 4200 mAh | 6/21/23 | 6/1/26 | 93 | LiHV. Wrapped. Died from sitting unused in storage too long (self-discharged / degraded over time), not user error. Zeee sent a free replacement (now Active #5); still have 4 working Premos |
 | 8 | Zeee (Deans connector) | 8000 mAh | 6/2020 | 3/13/24 | 698 | |
 | 9 | K939 OEM | 3800 mAh | 12/22/19 | 2/7/20 | 32 | |
 | 10 | Noname #4 | 400 mAh | 1/26/16 | 3/19/18 | 192 | |
