@@ -49,7 +49,7 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 |---|------|----------|----------|---------|--------|-------|
 | 1 | SMC HCL-HP 4S #1 | 4S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-4S1P). Failed within 6 months, none past ~20 cycles despite babying per SMC rules |
 | 2 | SMC HCL-HP 4S #2 | 4S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-4S1P). Failed within 6 months |
-| 3 | SMC HCL-HP 4S #3 | 4S 5200 mAh | 4/25 | ~4/25 | 0 | 150C hardcase (52150-4S1P). DOA, died before first charge — a unit defect, separate from the cycle-life failures |
+| 3 | SMC HCL-HP 4S #3 | 4S 5200 mAh | 4/25 | ~4/25 | 0 | 150C hardcase (52150-4S1P). DOA, died before first charge — a unit defect, separate from the cycle-life failures. SMC replaced it free under warranty |
 | 4 | SMC HCL-HP 3S #1 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
 | 5 | SMC HCL-HP 3S #2 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
 | 6 | SMC HCL-HP 3S #3 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
