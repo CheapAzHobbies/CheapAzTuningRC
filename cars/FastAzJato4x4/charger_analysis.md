@@ -13,7 +13,7 @@
 | ⭐ **HOTA T6** | **DC 300W / PD 90W**, **dual channel**, 1-6S, LiHV<br>XT60 + USB-C in, 2.4" IPS | **Most capable, dual channel** so it charges two packs at once. Needs a DC/PD source (the H24/P24 below). Have two of these |
 | 🟢 **SKYRC B6ACneo** | DC 200W / **AC 60W** / 10A, 1-6S, LiPo/LiFe/LiIon/**LiHV**/NiMH/NiCd/Pb | **Grab-and-go, AC built in** (no separate PSU). The convenient one for quick charges |
 | 🟢 **SKYRC B6neo+** | DC 240W / PD 126W, 1-6S, LiHV | Higher-power B6neo; needs a DC/PD source |
-| 🟢 **SkyRC B6neo** (Global Ltd) | DC 200W / PD 80W, 1-6S, LiHV | The original B6neo; DC/PD source needed |
+| 🟢 **SkyRC B6neo** (Global Ltd, SK-100198) | DC 200W / PD 80W, 1-6S, LiHV<br>70×50×32mm, 150g, CE | The original B6neo; tiny/portable, DC/PD source needed. <img src="src/electronics_skyrc_b6neo_charger.jpg" width="150"> |
 | 🔵 **ToolkitRC M7** | DC 200W / 10A, 1-6S, LiHV<br>+ voltage/servo checker, ESC tester, RX test, LCD IPS | Solid charger **plus a pile of bench-test tools**. DC source needed |
 
 ---
