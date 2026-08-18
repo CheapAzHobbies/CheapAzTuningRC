@@ -104,7 +104,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Wing | The Jato 3.3 body's own integrated wing, no separate buggy wing | AliExpress wing + TRA9517 now spares, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 | Wing mount | None, the Jato 3.3 shell mounts its own wing | TRA9046 Meelobee mount kept for the buggy-body fallback only, [`aero_analysis.md`](aero_analysis.md#wing-mount-comparison) |
 | Body / shell | **Traxxas Jato 3.3 red (5511A), chosen** ($34.47); JConcepts P2 (0684) buggy-body fallback | Cut clearance holes for the tall towers, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
-| Wheels / tires | **RED SPIDER wheels + tires, mounted** (17mm hex, same tire on colored rims) | Wear in over a few laps, then hook well and wear slowly (long grip life), [`tire_analysis.md`](tire_analysis.md) |
+| Wheels / tires | **RED SPIDER wheels + tires, mounted** (17mm hex, same tire on colored rims); standard-width rims to stay **ROAR legal** | Wear in over a few laps, then hook well and wear slowly; soft non-belted race tires, mind the RPM, [`tire_analysis.md`](tire_analysis.md) |
 
 ---
 
