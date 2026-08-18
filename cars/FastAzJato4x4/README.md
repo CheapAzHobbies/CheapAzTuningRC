@@ -34,7 +34,7 @@ _No build photo yet, the car doesn't physically exist; this is a parts-selection
 
 ## Track & Setup Philosophy
 
-I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Gladstone, OR), a really blown-out dirt track: deep ruts, choppy braking bumps, dry loose dirt over a hard base. That surface drives the whole setup. It rewards compliance and forgiveness over outright top speed, so the car is built to soak up the rough and stay planted.
+I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Gladstone, OR), a really blown-out dirt track: deep ruts, choppy braking bumps, dry loose dirt over a hard base. It's **casual / fun racing now** (transponder-timed racing was discontinued), so **no personal transponder is needed**. That surface drives the whole setup. It rewards compliance and forgiveness over outright top speed, so the car is built to soak up the rough and stay planted.
 
 - **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 45wt front / 60wt rear, the firmer rear controls squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
 - **Long wheelbase for stability.** FLM26800 extended arms stretch the wheelbase about 10mm per side, which calms the car over rough ground and adds droop.
