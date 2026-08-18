@@ -26,7 +26,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | **TRA6752 long output shafts** — front only; rear reuses the knock-off set's stock-length shafts | 2 used (of 4 bought, 2 spare) | ✅ **In Hand** | — | **$16.00** (2 × $8 on the build; other 2 of the 4-pack are spares) | [`driveshaft_analysis.md`](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
 | **Front gearbox housing**, Traxxas **TRA6881** | 1 | ✅ **Purchased** | **Tammies Hobby** | **$4.00** (paid) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Rear gearbox housing**, Traxxas **TRA6880** | 1 | ✅ **Purchased** | **Tammies Hobby** | **$4.00** (paid) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
-| **Tekno front stub, TKR1654-17** 17mm M6 hub adapter | 1 pair used (of 3 bought, 2 spare) | ✅ **In Hand** | eBay, mr-retro | **$23.15/pair** | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| **Tekno front stub, TKR1654-17** 17mm M6 hub adapter | 1 pair used (of 3 bought, 2 spare) | ✅ **In Hand** | eBay, mr-retro | **$23.15** (1 pair on the build; 2 spare pairs) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **Tekno rear: TKR5570-17 SCT410 kit** (= 5580 stub + 17mm hexes + nuts + pins) 🚧 buy the kit for the rear hexes; 5580 stubs already in hand | 1 set | ✅ stubs · ❌ kit TBD | PowerHobby (kit) / eBay mr-retro (stubs) | **$25.95** kit (+ $34.81 stubs sunk) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
 
 ---
@@ -53,7 +53,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | Part | Qty | Status | Source | Price | Decided by |
 |---|---|---|---|---|---|
 | **GPM aluminum bell crank (6845X)**, ships with brass/oilite bushings | 1 | ✅ **In Hand** | GPM | **$19.98** (paid) | [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
-| **ACER Racing Titanium M4x60 turnbuckle rods** — all 6 links | 6 used (of a 10-pack, 4 spare) | ✅ **Purchased** 2026-08-16 | ACER Racing | **$5.99 ea** ($59.90 / 10 paid) | [`tie_rod_analysis.md`](tie_rod_analysis.md#price-history) |
+| **ACER Racing Titanium M4x60 turnbuckle rods** — all 6 links | 6 used (of a 10-pack, 4 spare) | ✅ **Purchased** 2026-08-16 | ACER Racing | **$35.94** (6 used × $5.99; bought a 10-pack, 4 spare) | [`tie_rod_analysis.md`](tie_rod_analysis.md#price-history) |
 | **RPM Long Rod Ends** (running the cheaper **white 80511**) + **Traxxas hollow balls** (from TRA5525) | 12-pack + balls | ✅ **In Hand** | RPM / Traxxas | ~$7-9 / 12 + $9 / 12 | [`tie_rod_analysis.md`](tie_rod_analysis.md#rod-ends-the-plastic) |
 
 ---
@@ -82,10 +82,12 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 
 | Bucket | Sub-total |
 |---|---|
-| **On the build, in hand / purchased** (money already spent, "sunk") — MAX10 G2 + 3665SD combo, servo, AliExpress steel diffs (front + rear), AliExpress metal center diff, center driveshaft (7455), knock-off CV axle set, TRA6752 (2 used = $16), front + rear gearbox housings, Tekno front stub + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods, RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body, wing + TRA9046 mount | **~$739** |
+| **On the build, in hand / purchased** (money already spent, "sunk") — MAX10 G2 + 3665SD combo, servo, AliExpress steel diffs (front + rear), AliExpress metal center diff, center driveshaft (7455), knock-off CV axle set, TRA6752 (2 used = $16), front + rear gearbox housings, Tekno front stub (1 pair) + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods (6 used = $36), RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body, wing + TRA9046 mount | **~$733** |
 | **On the build, to buy** — TKR5570-17 rear kit (~$26 for the rear hexes) | **~$26** |
 | **Still open (no cost yet)** — primary body (JConcepts P2 leaning; Jato 3.3 already in hand), pinion, bearing kit (the 10×18×5 hub bearings ×4 for the Tekno-stub axles are already fitted and working) | TBD |
-| **Build total (locked items)** | **~$765** |
+| **Build total (locked items)** | **~$759** |
+
+> **How this totals:** the build counts only the **portion of each part actually on the car**, not the whole pack, 2 of the 4 TRA6752 ($16), 6 of the 10 ACER rods ($36), 1 of the 3 Tekno front-stub pairs ($23). The leftover units are sunk but sit in [Spares](#spares--not-used-owned-not-on-this-build), out of this total. **Exception:** pack-only items you can't split, like the **RPM rod ends** (12-pack), count the full pack since that's the real minimum spend.
 
 ---
 
@@ -102,7 +104,7 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 | **Traxxas TRA3775 Oilite brass bushings** | 12-pack | The GPM bell crank already ships with brass bushings | $7.69 |
 | **Traxxas #9033 front + TRA9039 rear shock towers** | 2 | Fallback if the MonsterKingz CF towers prove too fragile | ~$12.00 |
 | **Traxxas TRA9517 Jato / Sledge wing** | 1 | Spare wing; came in the TRA9046 mount combo (running the AliExpress wing) | (in the $13.79 combo) |
-| **Extra Tekno front stubs, 2 pairs** · **extra TRA6752 shafts, 2** · **extra ACER titanium rods, 4** | — | Bulk-buy / set leftovers, spares | **$16** (2 spare TRA6752); stubs + rods in the paid prices above |
+| **Extra Tekno front stubs, 2 pairs** · **extra TRA6752 shafts, 2** · **extra ACER titanium rods, 4** | — | Bulk-buy / set leftovers, spares | **~$86** (2 stub pairs $46.30 + 2 TRA6752 $16 + 4 ACER rods $23.96) |
 
 ---
 
