@@ -84,7 +84,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 |---|---|
 | **On the build, in hand / purchased (sunk)** — MAX10 G2 + 3665SD combo, servo, center driveshaft (7455), knock-off CV axle set, TRA6752 (2 of 4 used), front + rear gearbox housings, Tekno front stub + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods, RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body, wing + TRA9046 mount | **~$720** |
 | **On the build, to buy** — AliExpress knock-off front + rear diffs (~$15/2, confirm if in hand), AliExpress metal center diff (~$20, pre-oiled), TKR5570-17 rear kit (~$26 for the hexes) | **~$61** |
-| **Still open (no cost yet)** — primary body (JConcepts P2 leaning; Jato 3.3 already in hand), pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
+| **Still open (no cost yet)** — primary body (JConcepts P2 leaning; Jato 3.3 already in hand), pinion, bearing kit (the 10×18×5 hub bearings ×4 for the Tekno-stub axles are already fitted and working) | TBD |
 | **Build total (locked items)** | **~$781** |
 
 ---
