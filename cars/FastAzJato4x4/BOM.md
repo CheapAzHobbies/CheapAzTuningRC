@@ -104,7 +104,7 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 | **Traxxas TRA3775 Oilite brass bushings** | 12-pack | The GPM bell crank already ships with brass bushings | $7.69 |
 | **Traxxas #9033 front + TRA9039 rear shock towers** | 2 | Fallback if the MonsterKingz CF towers prove too fragile | ~$12.00 |
 | **Buggy-wing setup: AliExpress wing + Traxxas TRA9517 wing + TRA9046 mount** | 1 each | Dropped, the Jato 3.3 body's integrated wing replaces the whole separate wing + mount | ~$5 (AliExpress wing) + $13.79 combo (TRA9517 + TRA9046) |
-| **Alternate wheel/tire sets: Tokyo Speed + unbranded** | 2 sets of 4 | Backups; RED SPIDER is the running set (more durable). See [`wheel_analysis.md`](wheel_analysis.md) | $20 (Tokyo Speed) + $13.17 (unbranded) |
+| **Alternate wheel/tire sets: Tokyo Speed + unbranded + generic "Mitsubishi-tread" tires** | 3 sets of 4 | Backups; RED SPIDER is the running set. The generic set is tires-only (nice race foam). See [`wheel_analysis.md`](wheel_analysis.md) | $20 (Tokyo Speed) + $13.17 (unbranded) + $13 (Mitsubishi-tread tires) |
 | **Extra Tekno front stubs, 2 pairs** · **extra TRA6752 shafts, 2** · **extra ACER titanium rods, 4** | — | Bulk-buy / set leftovers, spares | **~$86** (2 stub pairs $46.30 + 2 TRA6752 $16 + 4 ACER rods $23.96) |
 
 ---
