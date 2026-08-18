@@ -61,9 +61,9 @@ TBD
 | Center diff | Stock TRA6814 OEM plastic + 20k wt oil | [`differential_analysis.md`](differential_analysis.md#center-diff) |
 | Center driveshaft | Jato 4x4 BL-2S take-off shaft (7455), $2.49, bought instead of TRA6855 | Purchased, [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | Spur gear | TRA3956R 54T plastic | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
-| Pinion | **12T 32P** on a 3200KV (matches Mike's Jato) → **16T 32P** if running a **2400KV** for the same top speed (12 × 3200/2400 = 16) | Lower-KV motor geared taller to the same top end |
+| Pinion | **Running 16T 32P** on the 3665SD 2400KV (came with the metal center diff; 17/18T on hand to retune); equals a 12T-on-3200KV top speed | [`motor_analysis.md`](motor_analysis.md#pinion-reference-32p) |
 | Diff / gearbox housings | Traxxas plastic, TRA6881 front / TRA6880 rear ($4 ea) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
-| Wheel hexes | Leaning Tekno OEM 17mm hex (pin-through, from TKR1654-17 kit); TRA6469 alt in hand, 5.9g; TKR5570-17 star hex for stock Traxxas rims | Not yet finalized, [`wheel_hex_analysis.md`](wheel_hex_analysis.md) |
+| Wheel hexes | Front Tekno TKR1654-17 17mm hex; rear TKR5570-17 SCT410 kit (star 17mm hex, fits stock + Traxxas rims); TRA6469 alt in hand, 5.9g | Chosen, [`wheel_hex_analysis.md`](wheel_hex_analysis.md) |
 | Bearings | Full sealed kit (Slash 4x4 sizes) | [`bearings_reference.md`](bearings_reference.md) |
 
 ---

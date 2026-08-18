@@ -68,4 +68,4 @@
 - **Use bushings, not ball bearings, at the pivots.** The crank only swings a little back and forth, it doesn't spin. Ball bearings under that tiny motion dig pits into themselves, go notchy, and start chewing up the steering post. Brass "oilite" bushings just slide and self-oil, so they last and protect the post. **GPM and Integy come with the bushings already.** On the AliExpress or Enron, swap the bearings for **Traxxas TRA3775** bushings (5×8×2.5mm).
 - **Skip the servo saver.** The stock one is weak, and the alloy crank fuses it solid over time anyway. The JX / PTK servos take crash hits fine, so run without it (see [`servo_analysis.md`](servo_analysis.md#notes)).
 - **Servo-to-bellcrank link:** covered above, GPM RUS416026ST-S (spring steel tie rod + 25T aluminum servo horn), chosen and in hand.
-- **Front steering tie rods:** stock plastic is fine; alloy just adds weight. Still TBD, see [`arm_analysis.md`](arm_analysis.md) (front needs a 4mm rod upgrade). Not covered here.
+- **Front steering tie rods:** decided, now the **ACER titanium M4×60 turnbuckles** (all 6 links), see [`tie_rod_analysis.md`](tie_rod_analysis.md). Not covered here.
