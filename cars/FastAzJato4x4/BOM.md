@@ -13,7 +13,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | **HobbyWing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo** (ESC + motor) | 1 | ✅ **Purchased** 2026-06-25 | Hobbywing direct | **$127.00** (paid; list $149.99, coupon) | [`esc_analysis.md`](esc_analysis.md) / [`motor_analysis.md`](motor_analysis.md) |
 | **PTK 9752TG-D Metal High Speed Servo** (1 of an 8 bulk order) | 1 | ✅ **In Hand** | AliExpress, PTK Servo Store | **$19.65** (paid, bulk rate) | [`servo_analysis.md`](servo_analysis.md) |
 | **Zeee 4S 5200mAh 100C (EC5)**, soft case — 4S 5000-5400mAh target, from the shared fleet | 1 | ✅ **In Hand** | Amazon / shared fleet | tracked in [`batteries/`](../../batteries/README.md) | [`battery_analysis.md`](battery_analysis.md) |
-| **FlySky Noble NB4 radio + FGr4S V2 receiver** | 1 | ✅ **In Hand** | FlySky | owned | [`radio_analysis.md`](radio_analysis.md) |
+| **FlySky Noble NB4 radio** (ships with FGR4 + FGR4S RX; running the small **FGR4S V2**) | 1 | ✅ **In Hand** | AliExpress, Hi-Goeswell | **$140.91** (paid; list $175.09) | [`radio_analysis.md`](radio_analysis.md) |
 
 ---
 
