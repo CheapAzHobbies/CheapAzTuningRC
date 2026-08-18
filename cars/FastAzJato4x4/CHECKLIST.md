@@ -28,6 +28,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Wheels / tires** — **RED SPIDER wheels + tires mounted** (17mm hex, same tire on colored rims), `wheel_analysis.md`
 - [x] **Battery** — 4S 5000-5400mAh (~5200 sweet spot; 6000 too heavy, 4200 too short), from the shared fleet, `battery_analysis.md`
 - [x] **Radio / receiver** — FlySky Noble NB4 + FGr4S V2 RX, in hand, `radio_analysis.md`
+- [x] **Connectors** — EC5 stock; EC5/XT60/XT90 good, Deans/Tamiya avoided, `connector_reference.md`
 
 ---
 
