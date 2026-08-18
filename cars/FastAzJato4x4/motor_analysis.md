@@ -506,8 +506,8 @@ Pinion is largely handled: the **AliExpress metal center diff came with 16T, 17T
 |---|---|---|---|
 | 13T | 4.15 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused |
 | 15T | 3.60 | Tame, low motor temp | Castle 1412 3200KV starting point, keeps it cooler |
-| **16T** | **3.38** | **Punchy, coolest of the three** | **In hand (came with the center diff)** |
-| **17T** | **3.18** | **Balanced middle** | **In hand, sensible start for the 3665SD 2400KV** |
+| **16T** ⭐ | **3.38** | **Punchy, coolest of the three** | **⭐ Running now** (came with the center diff) |
+| **17T** | **3.18** | **Balanced middle** | **In hand, step up here for more top end** |
 | **18T** | **3.00** | **More top end** | **In hand (came with the center diff)** |
 | 19T | 2.84 | Faster, more top end | 2400KV with a strong battery |
 | 21T | 2.57 | High-speed bias | 2400KV, speed bias |

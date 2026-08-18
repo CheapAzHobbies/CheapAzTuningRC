@@ -120,6 +120,6 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 - **Cooling fan / heatsink:** not needed. The combo motor is IP67 and 4S-native. See [motor_analysis.md](motor_analysis.md#related-motor-cooling-optional).
 - **Aluminum gearbox housings / bumpers / shock-tower brace (TRA9061):** vetoed. See the respective analysis docs.
 - **Meelobee technique:** OEM Jato **TRA9046** wing mount on the **MonsterKingz rear CF tower** via a small aluminum top plate (TRA9039 fallback). See [`aero_analysis.md`](aero_analysis.md#shock-tower-compatibility-cascade).
-- **Pinion:** **16T / 17T / 18T (5mm bore) came with the AliExpress metal center diff** ($0 extra), pick one to set the FDR. [Reference table](motor_analysis.md#pinion-reference-32p).
+- **Pinion:** **running 16T** (FDR 3.38); 17T / 18T also came with the AliExpress metal center diff ($0), on hand to retune for more top end. [Reference table](motor_analysis.md#pinion-reference-32p).
 
 For everything else (primary body, wheels/tires, pinion, bearing kit) still being researched, see the [main README parts list](README.md#parts-list).
