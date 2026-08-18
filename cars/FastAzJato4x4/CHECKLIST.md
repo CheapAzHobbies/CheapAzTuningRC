@@ -17,8 +17,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Driveshafts** (+ center driveshaft), `driveshaft_analysis.md`
 - [x] **Gearbox / diff housing**, `gearbox_housing_analysis.md`
 - [x] **Bumpers**, `bumper_analysis.md`
-- [x] **Aero** (wing + wing mount), `aero_analysis.md`
-- [x] **Body / shell**, in [`aero_analysis.md`](aero_analysis.md#body-comparison): JConcepts P2 (0684) leaning, Jato 3.3 red in hand, Traxxas OEM fallback
+- [x] **Aero / body** — **Jato 3.3 shell (5511A red) chosen**, its integrated wing replaces the buggy wing; the AliExpress wing + TRA9046 mount dropped to spares. JConcepts P2 buggy-body fallback. `aero_analysis.md`
 - [x] **Swaybars** — **decided: none** (track works better without them), `swaybar_analysis.md`
 - [x] **Bearings** — OG stock-kit list + as-built modded (four **10×18×5** hub bearings for the Tekno-stub axles, confirmed; brass/alu sleeve alt noted), `bearings_reference.md`
 - [x] **Steering knuckles / C-hubs + rear axle carriers**, Traxxas Raptor R Ultimate alloy purchased, `hub_carrier_analysis.md`

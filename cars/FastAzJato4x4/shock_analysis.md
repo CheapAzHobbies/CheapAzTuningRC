@@ -2,10 +2,10 @@
 
 > **Chosen: Hot Bodies D8 metal big bore front + rear (HBS67296)**, the metal-bodied 97mm **16mm big-bore** shock. A **used set of 4 is already in hand** (buy-new ~$57.99, discontinued). The **HBS67296 (metal D8), Apache C1 (#107365), and Wltoys A929 (A929-14) are the same shock internally, a three-way tie at the top.** Plastic is what I'd generally run (cheaper, lighter, and plenty tough); I'm on the metal set only because I already own it and don't want to buy more shocks, and the metal body also shrugs off impacts that crack plastic. The plastic C1 / A929 stay as identical-internal backups. **Springs: white 59gf front, grey 52gf rear**, this car is **lighter than the K939**, so it wants the softer rear. The metal shocks mount on **HB HBS67410 standoffs, two pairs needed** (4 standoffs, 1 per shock; both purchased packs go on the car, none spare). See [shock standoffs](#shock-standoffs--mounting).
 >
-> **Current spec target** (subject to TBD on oil weight):
+> **Current spec** (running):
 > - **Springs:** **white 59gf (HB 67454, 76mm) front + gray 52gf (HB 67453, 76mm) rear**, same as K939 spec
 > - **Pistons:** 1.4mm × 6 holes, front + rear
-> - **Oil:** 45wt front, **50-60wt rear (TBD)**, final pick depends on track conditions
+> - **Oil:** 45wt front, **60wt rear** (running; the blown-out track wants the firmer rear)
 > - **Shock length:** 97 mm **shaft length** (Apache C1 / D8 front spec, this is shaft length, *not* eye-to-eye, which is [still TBD](#hot-bodies-big-bore-shock-spring-chart-full-lineup)); D8 rears optionally 112 mm if going the full mixed-length D8 setup
 >
 > **Traxxas Big Bore XX-Long (2662) is vetoed:** it was "big bore" years ago, but its **10mm bore** isn't by today's standards (vs the C1/D8's 16mm), a waste of money even at $26.95.
@@ -90,13 +90,13 @@ This is the target tuning, based on the K939 build, but the FastAzJato4x4 is **l
 | Position | Spring | Piston | Oil |
 |---|---|---|---|
 | **Front** | **White 59gf** (Hot Bodies #67454, 76mm, stock Apache C1 / D8) | **1.4mm × 6 holes** | **45wt** |
-| **Rear** | **Grey 52gf** (Hot Bodies #67453, 76mm, soft for bump compliance) | **1.4mm × 6 holes** | **50-60wt (TBD)**, start at 50, bump to 60 if too plush |
+| **Rear** | **Grey 52gf** (Hot Bodies #67453, 76mm, soft for bump compliance) | **1.4mm × 6 holes** | **60wt** (running; firmer rear for the blown-out track) |
 
 **Why this setup:**
 - **White 59gf front + grey 52gf rear** = stock Apache C1 / D8 spec, K939-tested. The softer rear gives more bump compliance and rear grip, and this car is **lighter than the K939**, so the lighter rear end wants the softer spring, not a stiffer one
 - **Spring sourcing:** the HPI Apache C1 and Hot Bodies D8 both ship stock with **white** springs. On real **D8 buggy take-offs** you'll typically find a **grey + white combo**, which is exactly this front (white) / rear (grey) pairing, so used take-off springs are a cheap, easy source
 - 1.4mm × 6 holes = mid-range damping, good general-purpose piston. Tighter holes (1.2-1.3mm) increase damping for smoother tracks; bigger holes (1.5-1.6mm) loosen damping for whoops
-- 45wt front / 50-60wt rear = rear heavier to control squat under power and rebound from jumps. 60wt is the upper end if 50wt feels too floaty on landings
+- 45wt front / 60wt rear = rear heavier to control squat under power and rebound from jumps. Landed on 60wt for the blown-out track (50wt felt too floaty on the rough)
 
 ### Hot Bodies Big Bore Shock Spring chart (full lineup)
 

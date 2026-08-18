@@ -43,7 +43,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | **Grey 52gf springs (HB67453, 76mm)**, rear | 1 pair | ✅ **In Hand** (came with the used D8 set) | — | **$0** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **1.4mm × 6 hole shock pistons** | 4 sets | ✅ **In Hand** (came with the shocks) | — | **$0** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Silicone shock oil 45wt** (front) | 1 | ✅ **Purchased** | **Tammies** | ~$6 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
-| **Silicone shock oil 50-60wt** (rear, exact wt TBD) | 1 | ✅ **Purchased** | **Tammies** | ~$6 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| **Silicone shock oil 60wt** (rear) | 1 | ✅ **Purchased** | **Tammies** | ~$6 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Traxxas Raptor R Ultimate alloy hubs** (9063/9064/9065, full EHD set) | 1 set (front+rear) | ✅ **Purchased** 2026-07-29 | eBay, toysion | **$68.73** (paid) | [`hub_carrier_analysis.md`](hub_carrier_analysis.md#price-history) |
 
 ---
@@ -65,7 +65,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | **AliExpress CF chassis** (Slash 4x4 VXL TRA6808 pattern) | 1 | ✅ **Purchased** 2026-06-01 | AliExpress, RCTOYFUN | **$73.17** (paid; listed $169.64) | [`chassis_analysis.md`](chassis_analysis.md#price-history) |
 | **Front + rear chassis bars — DIY, cut from scrap aluminum** (front filed to clear the arm) | 1 set | ✅ **In Hand** (made) | self | **$0** (scrap) | [`chassis_analysis.md`](chassis_analysis.md#notes) |
 | **Front + rear bumper set**, Traxxas TRA9044 Front and Rear Skid Plates | 1 set | ✅ **In Hand** | Tammies Hobby | **$7.00** | [`bumper_analysis.md`](bumper_analysis.md#oem-set-front--rear-together) |
-| **Traxxas Jato 3.3 red body (5511A take-off)** — being tried; JConcepts P2 (0684) still the leaning primary | 1 | ✅ **In Hand** (2026-07-27) | Jenny's RC | **$34.47** | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
+| **Traxxas Jato 3.3 red body (5511A take-off)** — **chosen** (its integrated wing replaces the buggy wing); JConcepts P2 (0684) buggy-body fallback | 1 | ✅ **In Hand** (2026-07-27) | Jenny's RC | **$34.47** | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 
 ---
 
@@ -73,8 +73,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 
 | Part | Qty | Status | Source | Price | Decided by |
 |---|---|---|---|---|---|
-| **Generic AliExpress 1/8 buggy wing** (the running wing) | 1 | ✅ **In Hand** | AliExpress | ~$3-8 | [`aero_analysis.md`](aero_analysis.md#wing-comparison) |
-| **Wing mount**, OEM Jato 4x4 **TRA9046** via Meelobee technique (came in the TRA9517 combo) | 1 | ✅ **In Hand** (2026-07-27) | Jenny's RC | in the **$13.79 combo** | [`aero_analysis.md`](aero_analysis.md#wing-mount-comparison) |
+| **Rear wing** — the **Jato 3.3 body's own integrated wing** (no separate buggy wing or mount) | — | ✅ on the body | — | **$0** | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 
 ---
 
@@ -82,10 +81,10 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 
 | Bucket | Sub-total |
 |---|---|
-| **On the build, in hand / purchased** (money already spent, "sunk") — MAX10 G2 + 3665SD combo, servo, AliExpress steel diffs (front + rear), AliExpress metal center diff, center driveshaft (7455), knock-off CV axle set, TRA6752 (2 used = $16), front + rear gearbox housings, Tekno front stub (1 pair) + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods (6 used = $36), RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body, wing + TRA9046 mount | **~$733** |
+| **On the build, in hand / purchased** (money already spent, "sunk") — MAX10 G2 + 3665SD combo, servo, AliExpress steel diffs (front + rear), AliExpress metal center diff, center driveshaft (7455), knock-off CV axle set, TRA6752 (2 used = $16), front + rear gearbox housings, Tekno front stub (1 pair) + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods (6 used = $36), RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body (integrated wing, no separate wing/mount) | **~$728** |
 | **On the build, to buy** — TKR5570-17 rear kit (~$26 for the rear hexes) | **~$26** |
-| **Still open (no cost yet)** — primary body (JConcepts P2 leaning; Jato 3.3 already in hand), bearing kit (the 10×18×5 hub bearings ×4 for the Tekno-stub axles are already fitted and working; pinions 16/17/18T came with the center diff) | TBD |
-| **Build total (locked items)** | **~$759** |
+| **Still open (no cost yet)** — bearing kit (the 10×18×5 hub bearings ×4 for the Tekno-stub axles are already fitted and working; pinions 16/17/18T came with the center diff) | TBD |
+| **Build total (locked items)** | **~$754** |
 
 > **How this totals:** the build counts only the **portion of each part actually on the car**, not the whole pack, 2 of the 4 TRA6752 ($16), 6 of the 10 ACER rods ($36), 1 of the 3 Tekno front-stub pairs ($23). The leftover units are sunk but sit in [Spares](#spares--not-used-owned-not-on-this-build), out of this total. **Exception:** pack-only items you can't split, like the **RPM rod ends** (12-pack), count the full pack since that's the real minimum spend.
 
@@ -103,7 +102,7 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 | **Traxxas TRA3956R 54T plastic spur** | 1 | The AliExpress metal center diff has its own integrated steel spur; this plastic spur only fits a plastic center diff | $3.00 |
 | **Traxxas TRA3775 Oilite brass bushings** | 12-pack | The GPM bell crank already ships with brass bushings | $7.69 |
 | **Traxxas #9033 front + TRA9039 rear shock towers** | 2 | Fallback if the MonsterKingz CF towers prove too fragile | ~$12.00 |
-| **Traxxas TRA9517 Jato / Sledge wing** | 1 | Spare wing; came in the TRA9046 mount combo (running the AliExpress wing) | (in the $13.79 combo) |
+| **Buggy-wing setup: AliExpress wing + Traxxas TRA9517 wing + TRA9046 mount** | 1 each | Dropped, the Jato 3.3 body's integrated wing replaces the whole separate wing + mount | ~$5 (AliExpress wing) + $13.79 combo (TRA9517 + TRA9046) |
 | **Extra Tekno front stubs, 2 pairs** · **extra TRA6752 shafts, 2** · **extra ACER titanium rods, 4** | — | Bulk-buy / set leftovers, spares | **~$86** (2 stub pairs $46.30 + 2 TRA6752 $16 + 4 ACER rods $23.96) |
 
 ---

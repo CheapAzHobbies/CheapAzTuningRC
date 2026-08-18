@@ -123,7 +123,7 @@ A slipper clutch replaces the center diff entirely. Vetoed here because it doesn
 | Diff | Weight | Tuning |
 |---|---|---|
 | **Front** | **~7k wt** (start) | **Lighter (5k)** = more turn-in on the slickest days; **heavier (10k+)** = calmer if it torque-steers / plows |
-| **Rear** | TBD | Set after front + center are dialed |
+| **Rear** | **5k wt** (running) | Lighter than the 7k front for more rear rotation on the blown-out track; go heavier if it steps out too easily |
 
 > Same target as Mike's Jato (the two share this setup), dial it on track, then lock the value in on both cars. *(This is the Jato E-buggy figure; the [E-Revo](../ERevo_1.0/README.md) runs a heavier **30k** front because it's a different, heavier platform.)*
 

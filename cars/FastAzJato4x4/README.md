@@ -34,7 +34,14 @@ _No build photo yet, the car doesn't physically exist; this is a parts-selection
 
 ## Track & Setup Philosophy
 
-TBD
+I run this at my local dirt park, a really blown-out track: deep ruts, choppy braking bumps, dry loose dirt over a hard base. That surface drives the whole setup. It rewards compliance and forgiveness over outright top speed, so the car is built to soak up the rough and stay planted.
+
+- **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 45wt front / 60wt rear, the firmer rear controls squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
+- **Long wheelbase for stability.** FLM26800 extended arms stretch the wheelbase about 10mm per side, which calms the car over rough ground and adds droop.
+- **Diffs tuned for a loose surface.** ~7k front for steering on the loose stuff, 5k rear for rotation, 20k center to hold drive stability.
+- **Geared for punch, not top speed.** 16T pinion (FDR 3.38) on the 3665SD 2400KV keeps it punchy and cooler on a technical, rough track where you rarely hold full throttle.
+- **Built to survive crashes.** Metal arms that bend instead of snap, Raptor R alloy hubs on Tekno stubs, and minimal skid-plate bumpers so a bad landing lets me throttle out instead of digging in and cartwheeling.
+- **Body:** the OG Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. Its own integrated wing means no separate buggy wing or mount.
 
 ---
 
@@ -43,7 +50,7 @@ TBD
 | Component | Part | Notes |
 |-----------|------|-------|
 | Shocks | Hot Bodies D8 metal 97mm big bore (front + rear), used set in hand | Plastic HPI Apache C1 / Wltoys A929 = same shock, backup. Stock Jato 4x4 GTR XX-Long (gray composite, cheap at Jenny's) is a fine fallback if no big-bore set turns up, [`shock_analysis.md`](shock_analysis.md) |
-| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 50-60wt R | Springs + pistons came with the used D8 set; oil from Tammies, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 60wt R | Springs + pistons came with the used D8 set; oil from Tammies, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | Arms | FLM26800 metal extended, front + rear (ProTrac dropped) | 2 pairs purchased $25.73/pair (bulk order), [`arm_analysis.md`](arm_analysis.md) |
 | Shock standoffs | HB Racing HBS67410 ×2 pairs (for the metal D8 shocks; plastic path can force-fit Traxxas hollow balls) | ✅ purchased $3.99/pr, [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
 | Shock towers | MonsterKingz (G-Maxx) carbon fiber set (front + rear), for the larger shocks + 67410 standoffs; stock #9033 / TRA9039 = fallback | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
@@ -94,9 +101,9 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Wing | Generic AliExpress 1/8 buggy wing (running); Traxxas TRA9517 spare from the mount combo | In hand, [`aero_analysis.md`](aero_analysis.md#wing-comparison) |
-| Wing mount | OEM Jato 4x4 TRA9046 via Meelobee technique (Slash 4x4 Extreme HD rear tower) | In hand, came in the $13.79 TRA9517 combo, [`aero_analysis.md`](aero_analysis.md#wing-mount-comparison) |
-| Body / shell | JConcepts P2 (0684) leaning primary; Traxxas Jato 3.3 red (5511A) bought $34.47 to try | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
+| Wing | The Jato 3.3 body's own integrated wing, no separate buggy wing | AliExpress wing + TRA9517 now spares, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
+| Wing mount | None, the Jato 3.3 shell mounts its own wing | TRA9046 Meelobee mount kept for the buggy-body fallback only, [`aero_analysis.md`](aero_analysis.md#wing-mount-comparison) |
+| Body / shell | **Traxxas Jato 3.3 red (5511A), chosen** ($34.47); JConcepts P2 (0684) buggy-body fallback | Cut clearance holes for the tall towers, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 
 ---
 
