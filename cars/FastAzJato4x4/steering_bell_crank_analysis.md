@@ -2,6 +2,8 @@
 
 > **Chosen: GPM aluminum bell crank (6845X), $19.98, in hand.** GPM and Integy alloy cranks come with **brass / oil-sintered bushings** at the moving pivots, so they last basically forever: the cheap bushing wears, never the aluminum, and you just drop in a fresh bushing. The bell crank is a "doesn't-have-to-be-premium" part anyway, the bigger steering wins come from the servo, not the crank.
 
+<p align="center"><img src="src/steering_gpm_aluminum_bell_crank_6845x.jpg" width="500"><br><em>GPM aluminum bell crank (6845X), $19.98, in hand, ships with brass bushings</em></p>
+
 ---
 
 ## Table of Contents
