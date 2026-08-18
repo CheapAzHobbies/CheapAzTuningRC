@@ -105,7 +105,7 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 | **Traxxas TRA3775 Oilite brass bushings** | 12-pack | The GPM bell crank already ships with brass bushings | $7.69 |
 | **Traxxas #9033 front + TRA9039 rear shock towers** | 2 | Fallback if the MonsterKingz CF towers prove too fragile | ~$12.00 |
 | **Buggy-wing setup: AliExpress wing + Traxxas TRA9517 wing + TRA9046 mount** | 1 each | Dropped, the Jato 3.3 body's integrated wing replaces the whole separate wing + mount | ~$5 (AliExpress wing) + $13.79 combo (TRA9517 + TRA9046) |
-| **Alternate wheel/tire sets** (RED SPIDER is the running set) | 8 options | Backups / other surfaces; full catalog in [`wheel_analysis.md`](wheel_analysis.md) | Tokyo Speed $20 · unbranded $13.17 · Mitsubishi-tread $13 · triangle 26013 $13.04 · RED SPIDER R306 $20 · Traxxas Response Pro 9074 $40.97 · Sledgehammer 9073 $36.97 · PowerHobby Armor PHT2410DW $34.95/pair |
+| **Alternate wheel/tire sets** (RED SPIDER is the running set) | 9 options | Backups / other surfaces; full catalog in [`wheel_analysis.md`](wheel_analysis.md) | Tokyo Speed $20 · unbranded $13.17 · Mitsubishi-tread $13 · triangle 26013 $13.04 · RED SPIDER R306 $20 · Traxxas Response Pro 9074 $40.97 · Sledgehammer 9073 $36.97 · PowerHobby Armor PHT2410DW $34.95/pair · AKA Impact AKA14007XRW $31.99/pair |
 | **Extra Tekno front stubs, 2 pairs** · **extra TRA6752 shafts, 2** · **extra ACER titanium rods, 4** | — | Bulk-buy / set leftovers, spares | **~$86** (2 stub pairs $46.30 + 2 TRA6752 $16 + 4 ACER rods $23.96) |
 
 ---
