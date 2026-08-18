@@ -10,10 +10,10 @@
 
 | Charger | Spec | Notes |
 |---|---|---|
-| ⭐ **HOTA T6** | **DC 300W / PD 90W**, **dual channel**, 1-6S, LiHV<br>XT60 + USB-C in, 2.4" IPS | **Most capable, dual channel** so it charges two packs at once. Needs a DC/PD source. Have two of these. <img src="src/electronics_hota_t6_charger.jpg" width="150"> |
+| ⭐ **HOTA T6** | **DC 300W / PD 90W**, **dual channel**, 1-6S, LiHV<br>XT60 + USB-C in, 2.4" IPS | **The current best**, dual channel (two packs at once), and somehow **cheaper than the SKYRC neos while being stronger**, with all the features. Needs a DC/PD source. Have two of these. <img src="src/electronics_hota_t6_charger.jpg" width="150"> |
 | 🟢 **SKYRC B6ACneo** | DC 200W / **AC 60W** / 10A, 1-6S, LiPo/LiFe/LiIon/**LiHV**/NiMH/NiCd/Pb | **Grab-and-go, AC built in** (no separate PSU). The convenient one for quick charges |
-| 🟢 **SKYRC B6neo+** | DC 240W / PD 126W, 1-6S, LiHV | Higher-power B6neo; needs a DC/PD source. <img src="src/electronics_skyrc_b6neoplus_charger.jpg" width="150"> |
-| 🟢 **SkyRC B6neo** (Global Ltd, SK-100198) | DC 200W / PD 80W, 1-6S, LiHV<br>70×50×32mm, 150g, CE | The original B6neo; tiny/portable, DC/PD source needed. <img src="src/electronics_skyrc_b6neo_charger.jpg" width="150"> |
+| 🟢 **SKYRC B6neo+** | DC 240W / PD 126W, 1-6S, LiHV | Same as the B6neo but **240W vs 200W**, otherwise identical. **Easy to use and relatively cheap** (though the T6 is cheaper and stronger). Was the best charger when it launched in **2023**; the HOTA T6 now beats it on features. Needs a DC/PD source. <img src="src/electronics_skyrc_b6neoplus_charger.jpg" width="150"> |
+| 🟢 **SkyRC B6neo** (Global Ltd, SK-100198) | DC 200W / PD 80W, 1-6S, LiHV<br>70×50×32mm, 150g, CE | The original B6neo, same as the B6neo+ bar the **200W** rating. Tiny/portable, easy to use, cheap. DC/PD source needed. <img src="src/electronics_skyrc_b6neo_charger.jpg" width="150"> |
 | 🔵 **ToolkitRC M7** | DC 200W / 10A, 1-6S, LiHV<br>+ voltage/servo checker, ESC tester, RX test, LCD IPS | One of the **original** chargers. **Will charge anything, even a very low cell, as long as it can detect the cell** (great for reviving packs), but that's a double-edged sword since charging over-discharged cells can be **unsafe**. Power from an external PSU or **straight off a 12V car battery via alligator clips**; USB input is **Type-A (both ends)**. Plus a pile of bench-test tools. <img src="src/electronics_toolkitrc_m7_charger.jpg" width="150"> |
 
 ---
@@ -33,4 +33,6 @@
 - **All of these do LiHV**, so the **Gens Ace 15.2V HV pack** charges fine, just select the LiHV/HV mode, not standard LiPo (LiHV tops at 4.35V/cell vs 4.2V).
 - **Charge rate:** 1C is the safe default, ~5.2A for a 5200, ~6.3A for a 6300. Higher rates (the SMC packs allow up to 5C) put fewer mAh in and shorten cycle life, so stick near 1C for longevity. The 10A chargers (B6ACneo / M7) cover 1C on any of these packs.
 - **DC vs AC:** most of these are **DC-only** and need a **12-24V supply or USB-C PD source**. The **B6ACneo** is the only one with AC built in.
+- **Low-cell safety differs by charger.** The **ToolkitRC M7 will charge a very-low cell** as long as it detects it (handy for reviving a pack, but risky). The **SKYRC neos refuse** a pack with a cell that's too low (safer). Know which behavior you want before trying to revive an over-discharged pack.
+- **Pecking order:** the **HOTA T6** is the current best (all features, dual channel, cheaper and stronger than the neos). The **SKYRC B6neo / B6neo+** are the easy, cheap, safe pick (B6neo was the 2023 benchmark). The **M7** is the old-reliable with bench tools and the will-charge-anything behavior. Any of them charges this build's packs fine.
 - **Match the charge lead** to the pack connector per [`connector_reference.md`](connector_reference.md); the parallel board covers most plug types.
