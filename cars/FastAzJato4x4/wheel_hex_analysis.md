@@ -4,10 +4,10 @@
 >
 > - **Front: Tekno OEM 17mm hex** (pin-through, from the **TKR1654-17** kit). The cross-pin passes *through* the hex, so the hold is more secure and it's **more forgiving if you shave it thin** to fit the M6 stub. It's **non-star**, so it takes standard 17mm rims but not Traxxas star rims.
 > - **Rear: the TKR5570-17 SCT410 kit** brings its own stub + 17mm hexes; its **star-drive hex takes both standard 17mm and Traxxas star rims**. Like the front, the rear hex still needs **light filing** to seat on the M6 stub.
-> - **In hand alt: Traxxas TRA6469** (17mm splined aluminum, 5.9g), works, but it's a solid screw-pin hex, so filing it thin is riskier.
+> - **Traxxas TRA6469** (17mm splined aluminum, 5.9g) is on **Mike's car**, not this build. It works as a 17mm hex, but it's a solid screw-pin type, so filing it thin to fit the M6 stub is riskier.
 > - **Star vs non-star:** the rear **TKR5570-17 star hex fits both standard 17mm and Traxxas star rims**; the front non-star hex is standard-17mm-only. This build runs standard 17mm wheels (RedSpider etc.), so both ends are fine.
 
-<p align="center"><img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="250">&nbsp;<img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" width="250">&nbsp;<img src="src/drivetrain_traxxas_wheel_hub_17mm_tra6469_weight.jpg" width="250"><br><em>Chosen: front = Tekno OEM 17mm hex (TKR1654-17 kit) · rear = TKR5570-17 SCT410 kit (stub + star hexes) · in-hand alt: Traxxas TRA6469 (17mm splined, 5.9g)</em></p>
+<p align="center"><img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="300">&nbsp;<img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" width="300"><br><em>Chosen: front = Tekno OEM 17mm hex (TKR1654-17 kit) · rear = TKR5570-17 SCT410 kit (stub + star hexes)</em></p>
 
 ---
 
