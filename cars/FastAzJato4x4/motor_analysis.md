@@ -42,7 +42,7 @@
 - [KV Reference](#kv-reference) — community consensus by KV, open question on gearing tradeoff
 - [Sensor Connector Compatibility](#sensor-connector-compatibility) — motor ↔ ESC plug matrix
 - [Detailed Notes](#detailed-notes) — per-motor bullet specs
-- [Pinion Reference (32P, TBD)](#pinion-reference-32p-tbd) — gear ratio cheat sheet
+- [Pinion Reference (32P)](#pinion-reference-32p) — gear ratio cheat sheet, 16/17/18T in hand
 - [Sources](#sources)
 
 ---
@@ -498,17 +498,19 @@ Conventional wisdom is mixed:
 
 ---
 
-## Pinion Reference (32P, TBD)
+## Pinion Reference (32P)
 
-Pinion not yet chosen, depends on which motor lands. Spur is the decided **54T 32-pitch TRA3956R** (see [`differential_analysis.md`](differential_analysis.md#spur-gear)). Reference table for common 32P pinion sizes:
+Pinion is largely handled: the **AliExpress metal center diff came with 16T, 17T, and 18T pinions (5mm bore)**, all matched to its **integrated steel 54T spur** (the decided spur, see [`differential_analysis.md`](differential_analysis.md#center-diff)). So the only call left is which of the three to run for the MAX10 G2 + 3665SD 2400KV. Reference table below, the three in-hand sizes bolded (FDR is teeth-based, so the ratios hold regardless of 32P vs mod1, just match pitch if you buy more pinions):
 
 | Pinion (32P) | FDR with 54T spur | Speed character | Typical motor pairing |
 |---|---|---|---|
 | 13T | 4.15 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused |
 | 15T | 3.60 | Tame, low motor temp | Castle 1412 3200KV starting point, keeps it cooler |
-| 17T | 3.18 | Balanced street / track | 2400KV stock-ish gearing |
-| 19T | 2.84 | Faster, more top end | **Likely starting point for Castle 1415 2400KV** |
-| 21T | 2.57 | High-speed bias | 2400KV with strong battery |
+| **16T** | **3.38** | **Punchy, coolest of the three** | **In hand (came with the center diff)** |
+| **17T** | **3.18** | **Balanced middle** | **In hand, sensible start for the 3665SD 2400KV** |
+| **18T** | **3.00** | **More top end** | **In hand (came with the center diff)** |
+| 19T | 2.84 | Faster, more top end | 2400KV with a strong battery |
+| 21T | 2.57 | High-speed bias | 2400KV, speed bias |
 | 23T | 2.35 | Top-end aggressive | 2200KV on light vehicle |
 | 25T | 2.16 | Speed-run territory | 2200KV-class only, monitor temps |
 

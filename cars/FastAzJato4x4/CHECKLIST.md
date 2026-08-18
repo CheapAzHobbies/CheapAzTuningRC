@@ -41,7 +41,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [ ] **Wheels + tires**, biggest single gap. **Plan: Traxxas Jato 4x4 VXL rims (17 mm hex, 3.0") + RedSpider tires**, same setup as [Mike's Jato](../Jato4x4_Mike/README.md#wheels--tires).
 
 ### Drivetrain
-- [ ] **Pinion gear / final drive ratio**, gearing for the chosen motor/KV (spur already covered in the diff doc)
+- [ ] **Pinion gear / final drive ratio**, **16/17/18T (5mm bore) came with the metal center diff** ($0), just pick one for the 3665SD 2400KV (spur already covered in the diff doc). [Pinion reference](motor_analysis.md#pinion-reference-32p)
 
 ### Electronics
 - [ ] **Battery**, pack selection for this car (capacity / C-rating / size-fit in the CF chassis); the shared `batteries/` is just a tracker

@@ -84,7 +84,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 |---|---|
 | **On the build, in hand / purchased** (money already spent, "sunk") — MAX10 G2 + 3665SD combo, servo, AliExpress steel diffs (front + rear), AliExpress metal center diff, center driveshaft (7455), knock-off CV axle set, TRA6752 (2 used = $16), front + rear gearbox housings, Tekno front stub (1 pair) + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods (6 used = $36), RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body, wing + TRA9046 mount | **~$733** |
 | **On the build, to buy** — TKR5570-17 rear kit (~$26 for the rear hexes) | **~$26** |
-| **Still open (no cost yet)** — primary body (JConcepts P2 leaning; Jato 3.3 already in hand), pinion, bearing kit (the 10×18×5 hub bearings ×4 for the Tekno-stub axles are already fitted and working) | TBD |
+| **Still open (no cost yet)** — primary body (JConcepts P2 leaning; Jato 3.3 already in hand), bearing kit (the 10×18×5 hub bearings ×4 for the Tekno-stub axles are already fitted and working; pinions 16/17/18T came with the center diff) | TBD |
 | **Build total (locked items)** | **~$759** |
 
 > **How this totals:** the build counts only the **portion of each part actually on the car**, not the whole pack, 2 of the 4 TRA6752 ($16), 6 of the 10 ACER rods ($36), 1 of the 3 Tekno front-stub pairs ($23). The leftover units are sunk but sit in [Spares](#spares--not-used-owned-not-on-this-build), out of this total. **Exception:** pack-only items you can't split, like the **RPM rod ends** (12-pack), count the full pack since that's the real minimum spend.
@@ -120,6 +120,6 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 - **Cooling fan / heatsink:** not needed. The combo motor is IP67 and 4S-native. See [motor_analysis.md](motor_analysis.md#related-motor-cooling-optional).
 - **Aluminum gearbox housings / bumpers / shock-tower brace (TRA9061):** vetoed. See the respective analysis docs.
 - **Meelobee technique:** OEM Jato **TRA9046** wing mount on the **MonsterKingz rear CF tower** via a small aluminum top plate (TRA9039 fallback). See [`aero_analysis.md`](aero_analysis.md#shock-tower-compatibility-cascade).
-- **Pinion:** TBD, [reference table](motor_analysis.md#pinion-reference-32p-tbd).
+- **Pinion:** **16T / 17T / 18T (5mm bore) came with the AliExpress metal center diff** ($0 extra), pick one to set the FDR. [Reference table](motor_analysis.md#pinion-reference-32p).
 
 For everything else (primary body, wheels/tires, pinion, bearing kit) still being researched, see the [main README parts list](README.md#parts-list).
