@@ -2,7 +2,10 @@
 
 > **Chosen and mounted: RED SPIDER wheels + tires (17mm hex).** The set I put on is the same RedSpider tire on a couple of different-colored rims (cosmetic only, same tire). They **take a few laps to wear in**, then **hook really well**, and the big win is longevity: they **wear slowly and keep gripping for a long time**. Same wheel/tire direction as [Mike's Jato](../Jato4x4_Mike/README.md#wheels--tires), and the same brand as the truggy set worked up in detail on the [E-Revo tire analysis](../ERevo_1.0/tire_analysis.md). **Heads up on all of these: they're soft, non-belted race tires, so mind the RPM.** An aggressive trigger rips non-belted tires (even AKA / Pro-Line / JConcepts), not just the cheap ones. The RedSpider hold up best, but ease into the throttle regardless.
 
-<p align="center"><img src="src/aero_redspider_wheels.jpg" width="500"><br><em>RED SPIDER R235, 1/8 buggy, 17mm hex, 118mm OD (I run the colored-rim versions)</em></p>
+<p align="center">
+  <img src="src/aero_redspider_wheels.jpg" width="400">&nbsp;<img src="src/aero_redspider_wheels_r305_white.jpg" width="200"><br>
+  <em>RED SPIDER R235 · R305 (white), the same tire. 1/8 buggy, 17mm hex, 118mm OD. I run the white R305 because it looks cool.</em>
+</p>
 
 ---
 
