@@ -25,7 +25,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Steering bell crank**, GPM aluminum 6845X, in hand, `steering_bell_crank_analysis.md`
 - [x] **Servos**, PTK 9752TG-D metal high-speed, in hand (8-pack bulk), `servo_analysis.md`
 - [x] **Wheel hexes**, front Tekno TKR1654-17 + rear TKR5570-17 SCT410 kit (star 17mm hexes), `wheel_hex_analysis.md`
-- [x] **Wheels / tires** — **RED SPIDER wheels + tires mounted** (17mm hex, same tire on colored rims), `tire_analysis.md`
+- [x] **Wheels / tires** — **RED SPIDER wheels + tires mounted** (17mm hex, same tire on colored rims), `wheel_analysis.md`
 
 ---
 

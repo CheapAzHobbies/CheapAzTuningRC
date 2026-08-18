@@ -254,7 +254,7 @@ Rules:
 
 When you start a **new part category**, define its field order once (add a short `> *Spec format: A · B · C ...*` note above the first table in that doc) and then reuse that exact order for every row and every future doc on that category. **Register the order in the list below** so it's reused, not reinvented:
 
-- **Tires / wheels:** Type · Tread · Compound · Dia · Width · Rim · Hex · Weight · Foam · Pre-glued · Price
+- **Wheels / tires:** Part · Type · Tread · Compound · Dia · Width · Rim · Hex · Weight · Foam · Pre-glued · Price
 - **Radio controllers (transmitters):** Type · Channels · Protocol · Receivers · Gyro · Telemetry · Model memory · Display · Battery · Price
 - **Arms (A-arms):** Type · Material · Position · Fits · Wheelbase · Pivot/Hardware · Stiffness · Toe · Origin · Weight · Price
 - **Bumpers:** Type · Material · Position · Fits · Includes · Weight · Price
