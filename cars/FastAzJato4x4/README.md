@@ -46,7 +46,7 @@ TBD
 | Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 50-60wt R | Springs + pistons came with the used D8 set; oil from Tammies, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | Arms | FLM26800 metal extended, front + rear (ProTrac dropped) | 2 pairs purchased $25.73/pair (bulk order), [`arm_analysis.md`](arm_analysis.md) |
 | Shock standoffs | HB Racing HBS67410 ×2 pairs (for the metal D8 shocks; plastic path can force-fit Traxxas hollow balls) | ✅ purchased $3.99/pr, [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
-| Shock towers | Jato stock #9033 front + Slash 4x4 Extreme HD TRA9039 rear (Meelobee) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
+| Shock towers | MonsterKingz (G-Maxx) carbon fiber set (front + rear), for the larger shocks + 67410 standoffs; stock #9033 / TRA9039 = fallback | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | Arm guards | TRA6732 front + TRA6733 rear | [`arm_analysis.md`](arm_analysis.md#shock-guards) |
 | Swaybars | None | Track works better without them, [`swaybar_analysis.md`](swaybar_analysis.md) |
 
@@ -116,7 +116,7 @@ TBD
 | — | Traxxas Jato 4x4 | Base Car | — | — | — | — |
 | — | RC Carbon Fiber Chassis Kit fit for Traxxas Slash VXL 4x4 TRA6808 | Chassis | $100.26 | [Temu](https://www.temu.com) / [AliExpress](https://a.aliexpress.com/_mPWcAS3) | Considering | — |
 | FLM26800 | FLM Extended Arms (front, USA made), 1 of a 4-pair bulk order ($102.90 total) | Suspension | $25.73 | FLM | Purchased | ![](src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg) |
-| #9033 / TRA9039 | Stock front (#9033) + Slash 4x4 Extreme HD rear (TRA9039) shock towers, CF towers vetoed | Suspension | ~$12 | LHS / AMain | Chosen | — |
+| MonsterKingz CF | MonsterKingz (G-Maxx) carbon fiber shock tower set (front + rear), chosen for the larger shocks; stock #9033 / TRA9039 now the fallback | Suspension | ~$33.29 | eBay (MonsterKingz) | In Hand | ![](src/suspension_shock_tower_gmaxx_cf.jpg) |
 | HBS67296 | Hot Bodies D8 metal 97mm big-bore shocks, used set of 4 (chosen); plastic Apache C1 #107365 / Wltoys A929 = backup | Suspension | $65.99 | eBay, guavahobby | In Hand | ![](src/suspension_hb_d8_shocks_used_set.jpg) |
 | HBS67410 | HB Racing Shock Standoff, 2 pairs for the metal D8 shocks (plastic path force-fits Traxxas hollow balls) | Suspension | $3.99/pr | AMain | Purchased 2026-08-16 | ![](src/suspension_hb_shock_standoff_hbs67410.jpg) |
 | — | Knock-off Slash 4x4 HD Steel CV driveshafts (5mm) + Tekno M6 stubs, order #8211906604054866 | Drivetrain | $21.10 | AliExpress, FengS Store | In Hand | — |

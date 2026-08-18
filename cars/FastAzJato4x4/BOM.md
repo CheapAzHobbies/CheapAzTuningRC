@@ -40,8 +40,9 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 | Part | Qty | Status | Source | Price | Decided by |
 |---|---|---|---|---|---|
 | **FLM26800 extended arms**, **front + rear** (ProTrac dropped; running FLM metal at both ends) | 2 pairs | **Purchased** | FLM | **$25.73/pair** ($40 list) | [`arm_analysis.md`](arm_analysis.md#price-history) |
-| **Traxxas #9033 stock composite front shock tower** | 1 | **In Hand** | Tammies Hobby | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
-| **Traxxas Slash 4x4 Extreme HD rear shock tower (TRA9039)**, via Meelobee technique | 1 | **Purchased** | **Tammies Hobby** | **~$6.00** (paid) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
+| **MonsterKingz (G-Maxx) carbon fiber shock tower set** (front + rear) — chosen for the larger shocks + 67410 standoffs | 1 set | **In Hand** (bought to test) | eBay, MonsterKingz | **~$33.29** | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
+| **Traxxas #9033 stock composite front shock tower** — *now fallback* | 1 | **In Hand** | Tammies Hobby | ~$6.00 | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
+| **Traxxas Slash 4x4 Extreme HD rear shock tower (TRA9039)** — *now fallback* | 1 | **Purchased** | **Tammies Hobby** | **~$6.00** (paid) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | **Hot Bodies D8 metal 97mm big-bore shocks (HBS67296)**, used set of 4, chosen; plastic Apache C1 #107365 backup | set of 4 | **In Hand** (used) | eBay, guavahobby | **$65.99** (sunk) + $8 ship | [`shock_analysis.md`](shock_analysis.md) |
 | **HB Racing Shock Standoff (HBS67410)** — 4 standoffs, 1 per shock (plastic path can force-fit Traxxas hollow balls) | 2 packs | **Purchased** 2026-08-16 | AMain | **$3.99/pair** | [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
 | **White 59gf springs (HB67454, 76mm)**, front | 1 pair | **In Hand** (came with the used D8 set) | — | **$0** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
@@ -89,10 +90,10 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 
 | Bucket | Sub-total |
 |---|---|
-| **Already in hand / purchased (sunk cost)**, MAX10 G2 + 3665SD G3 combo, Fire Phoenix ESC (spare), servo, E-Revo diffs (spares), drive cups (spare), center driveshaft (7455), knock-off CV axle set, **TRA6752 long shafts (4)**, **front + rear gearbox housings (Tammies)**, **spur gear**, Tekno front + rear stubs, **FLM26800 arms (2 pairs, front + rear)**, **front #9033 + rear TRA9039 shock towers (Tammies)**, Hot Bodies D8 shock set (used, springs + pistons included), HBS67410 standoffs, **shock oil (Tammies)**, Raptor R alloy hubs, GPM bell crank, TRA3775 bushings (spare), ACER titanium turnbuckles, RPM rod ends + hollow balls, CF chassis, **DIY scrap-aluminum chassis bars ($0)**, **bumper set (Tammies)**, wing + TRA9046 mount + TRA9517 combo, Jato 3.3 red body | **~$757** |
+| **Already in hand / purchased (sunk cost)**, MAX10 G2 + 3665SD G3 combo, Fire Phoenix ESC (spare), servo, E-Revo diffs (spares), drive cups (spare), center driveshaft (7455), knock-off CV axle set, **TRA6752 long shafts (4)**, **front + rear gearbox housings (Tammies)**, **spur gear**, Tekno front + rear stubs, **FLM26800 arms (2 pairs, front + rear)**, **MonsterKingz CF tower set (~$33)**, front #9033 + rear TRA9039 shock towers (Tammies, now fallback), Hot Bodies D8 shock set (used, springs + pistons included), HBS67410 standoffs, **shock oil (Tammies)**, Raptor R alloy hubs, GPM bell crank, TRA3775 bushings (spare), ACER titanium turnbuckles, RPM rod ends + hollow balls, CF chassis, **DIY scrap-aluminum chassis bars ($0)**, **bumper set (Tammies)**, wing + TRA9046 mount + TRA9517 combo, Jato 3.3 red body | **~$790** |
 | **To buy, locked spec**, AliExpress knock-off front + rear diffs (~$15/2, confirm if in hand), AliExpress metal center diff (~$20, comes pre-filled) | **~$35** |
 | **Still open (no cost yet)**, primary body (JConcepts P2 leaning; Jato 3.3 already in hand), pinion, bearing kit, 10×18×5 hub conversion bearing | TBD |
-| **Total estimated (locked items)** | **~$792** |
+| **Total estimated (locked items)** | **~$825** |
 
 ---
 
@@ -107,7 +108,7 @@ Items decided by the analysis docs in this folder. Only parts with a clear pick 
 - **6mm vs 5mm drivetrain:** **5mm**, the stock Jato 4x4 diffs mate the Slash 4x4-pattern CVDs (knock-off, in hand) on Tekno M6 stubs. The E-Revo diffs/CVDs/drive cups (6mm) are spares. See [differential_analysis.md](differential_analysis.md).
 - **Aluminum gearbox housings:** vetoed, the CF chassis already has a metal skid plate protecting the diffs from below. See [gearbox_housing_analysis.md](gearbox_housing_analysis.md#why-aluminum-isnt-worth-it-on-this-build).
 - **Aluminum bumpers / shock towers:** vetoed per the sacrificial-failure logic. Aluminum here is the bell crank only.
-- **Meelobee technique:** OEM Jato **TRA9046** wing mount on a **Slash 4x4 Extreme HD rear tower (TRA9039)** with a small aluminum top plate. Shocks centered and protected, no STRC kit. See [`aero_analysis.md`](aero_analysis.md#shock-tower-compatibility-cascade).
+- **Meelobee technique:** OEM Jato **TRA9046** wing mount on the rear tower via a small aluminum top plate. Now on the **MonsterKingz rear CF tower** (one of the two towers that fit the mount); the TRA9039 rear is the fallback. See [`aero_analysis.md`](aero_analysis.md#shock-tower-compatibility-cascade).
 - **Spur:** **TRA3956R 54T** plastic, in hand ([`differential_analysis.md`](differential_analysis.md#spur-gear)). **Pinion:** TBD, [reference table](motor_analysis.md#pinion-reference-32p-tbd).
 - **Shock bodies:** running the metal **Hot Bodies D8** (used set of 4, in hand); the plastic Apache C1 is the identical-internals backup. See [shock_analysis.md](shock_analysis.md#plastic-vs-metal-body-trade-off).
 
