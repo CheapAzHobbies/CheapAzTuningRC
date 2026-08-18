@@ -33,6 +33,19 @@
 
 ---
 
+## Foam Inserts
+
+The insert matters as much as the tire. **Closed-cell blue foams, sold on their own (4-pack, ~$9.42), are the best insert I run**, worth buying separate rather than relying on whatever sponge a cheap tire ships with.
+
+<p align="center"><img src="src/aero_closed_cell_foams_blue.jpg" width="400"><br><em>Standalone closed-cell foam inserts (4pcs, ~$9.42, HPI-compatible 1/8)</em></p>
+
+- **Reusable many times**, they don't pack out like the soft packing sponges (e.g. the RedSpider's).
+- **Keeps the car planted** and cuts **rim slap** (tire collapsing onto the rim over bumps), so better overall control.
+- **Adds a bit of weight**, which actually **helps air control** / stability when the car's off a jump.
+- Generic 4Pcs 1/8 foam inserts (HPI-compatible), ~**$9.42 / 4**.
+
+---
+
 ## Notes
 
 - **Wear-in is real, don't judge them fresh.** A few laps in they come up to full grip. Mike logged roughly **7 packs to fully wear in** his RedSpider set on the [Jato](../Jato4x4_Mike/README.md#wheels--tires); same behavior here.
