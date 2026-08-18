@@ -74,7 +74,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | Part | Qty | Status | Source | Price | Decided by |
 |---|---|---|---|---|---|
 | **Rear wing** — the **Jato 3.3 body's own integrated wing** (no separate buggy wing or mount) | — | ✅ on the body | — | **$0** | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
-| **RED SPIDER wheels + tires** (17mm hex, mounted; same tire on colored rims) | 1 set of 4 | ✅ **In Hand** (mounted) | RED SPIDER Store | TBD (log price) | [`wheel_analysis.md`](wheel_analysis.md) |
+| **RED SPIDER R235 / R305 wheels + tires** (1/8 buggy, 17mm hex, 118mm OD; R305 = white, same tire on colored rims) | 1 set of 4 | ✅ **In Hand** (mounted) | RED SPIDER Store | TBD (log price) | [`wheel_analysis.md`](wheel_analysis.md) |
 
 ---
 
