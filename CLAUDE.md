@@ -255,6 +255,8 @@ Rules:
 When you start a **new part category**, define its field order once (add a short `> *Spec format: A · B · C ...*` note above the first table in that doc) and then reuse that exact order for every row and every future doc on that category. **Register the order in the list below** so it's reused, not reinvented:
 
 - **Wheels / tires:** Part · Type · Tread · Compound · Dia · Width · Rim · Hex · Weight · Foam · Pre-glued · Price
+  - *Price convention: always quote per **set of 4** (one full car's worth), for wheels, tires, and foam inserts alike, written `$X / set of 4`. State it once near the top of the doc and on each row.*
+  - *Section layout for a `wheel_analysis.md`: split the options into **Full Wheels** (mounted tire + rim sets), **Tires** (bare tires), **Rims** (bare wheels), and **Foam Inserts**, each its own `##` section. Name the doc `wheel_analysis.md` (covers rims + tires), not `tire_analysis.md`.*
 - **Radio controllers (transmitters):** Type · Channels · Protocol · Receivers · Gyro · Telemetry · Model memory · Display · Battery · Price
 - **Arms (A-arms):** Type · Material · Position · Fits · Wheelbase · Pivot/Hardware · Stiffness · Toe · Origin · Weight · Price
 - **Bumpers:** Type · Material · Position · Fits · Includes · Weight · Price
