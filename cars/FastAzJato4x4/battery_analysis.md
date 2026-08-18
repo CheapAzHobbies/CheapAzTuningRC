@@ -31,6 +31,24 @@
 
 ---
 
+## The C-rating math (a fun sanity check)
+
+Max continuous current a C-rating *claims* = **C × capacity (Ah)**. Run the numbers and the claim collapses, the pack's own lead wire would melt long before it hit that current.
+
+| Pack | C-rate | Claimed continuous (C × Ah) | Lead wire | Wire's realistic RC ceiling |
+|---|---|---|---|---|
+| Zeee 5200 50C hardcase | 50C | 50 × 5.2 = **260A** | ~10-12 AWG | ~60-150A |
+| Zeee 6000 60C | 60C | 60 × 6.0 = **360A** | ~12 AWG | ~40-100A |
+| Zeee 5200 **100C** soft | 100C | 100 × 5.2 = **520A** | ~12 AWG | ~40-100A |
+| Gens Ace 6300 **140C** | 140C | 140 × 6.3 = **882A** | 5.0mm bullet leads | ~150A |
+| SMC HCL-HP 5200 **150C** | 150C | 150 × 5.2 = **780A** | **10 AWG** (per SMC) | ~60-150A |
+
+**The punchline:** a "100C" 5200 claims **520A continuous**, but its ~12AWG lead taps out around **40-100A** in RC use. The HCL-HP's 150C implies **780A through a 10AWG wire** that realistically carries maybe **60-150A**. That's **5-10× over** what the wire can pass, the lead would glow and melt at a fraction of the rated C, never mind the cells, tabs, or connectors. For context, a car's starter cable (huge, short) moves a few hundred amps; these little silicone leads are not doing 500-880A.
+
+So the headline C number is physically impossible to sustain, it's a **marketing power scale**, useful only within one brand (see the note below). The honest exception is **SMC's Power Factor** (390 on the HCL-HP), a real metric instead of a fantasy amp figure, even though their own "150C" label implies that impossible 780A.
+
+---
+
 ## Notes
 
 - **Brand-agnostic.** Any reputable 4S pack in the 5000-5400mAh window works, this is a capacity/weight call, not a brand call. Which specific packs are owned lives in the shared [battery tracker](../../batteries/README.md).
