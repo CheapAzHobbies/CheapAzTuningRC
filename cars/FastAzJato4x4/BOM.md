@@ -19,11 +19,11 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 
 | Part | Qty | Status | Source | Price | Decided by |
 |---|---|---|---|---|---|
-| **AliExpress knock-off Slash 4x4 steel diffs (5mm, come with I-bar)** — front + rear, RS RC Store | 2 (front + rear) | ❓ have? (screenshot on PC) | AliExpress, RS RC Store | **$15.26 / 2** (2-pack coupon) | [`differential_analysis.md`](differential_analysis.md#front--rear-diff-comparison) |
-| **AliExpress metal center diff** (alum body + **integrated steel 54T spur**, comes pre-filled with the correct oil, so no separate spur or oil needed) | 1 | ❌ To buy | AliExpress | **~$20** | [`differential_analysis.md`](differential_analysis.md#center-diff) |
+| **AliExpress knock-off Slash 4x4 steel diffs (5mm, come with I-bar)** — front + rear, RS RC Store | 2 (front + rear) | ✅ **Purchased** | AliExpress, RS RC Store | **$15.26 / 2** (paid, 2-pack coupon) | [`differential_analysis.md`](differential_analysis.md#front--rear-diff-comparison) |
+| **AliExpress metal center diff** (alum body + **integrated steel 54T spur**, comes pre-filled with the correct oil, so no separate spur or oil needed) | 1 | ✅ **Purchased** | AliExpress | **~$20** (paid) | [`differential_analysis.md`](differential_analysis.md#center-diff) |
 | **Center driveshaft**, Jato 4x4 BL-2S take-off (7455) + pinion + bearings | 1 | ✅ **Purchased** | Jenny's RC | **$2.49** (paid) | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | **Knock-off Slash 4x4 HD steel CV axle bodies** (order #8211906604054866) | set of 4 | ✅ **Purchased** 2026-06-01 | AliExpress, FengS Store | **$21.10** (paid; listed $27.76) | [`driveshaft_analysis.md`](driveshaft_analysis.md#price-history) |
-| **TRA6752 long output shafts** — front only; rear reuses the knock-off set's stock-length shafts | 2 used (of 4 bought, 2 spare) | ✅ **In Hand** | — | **$32.00** (4 × $8) | [`driveshaft_analysis.md`](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
+| **TRA6752 long output shafts** — front only; rear reuses the knock-off set's stock-length shafts | 2 used (of 4 bought, 2 spare) | ✅ **In Hand** | — | **$16.00** (2 × $8 on the build; other 2 of the 4-pack are spares) | [`driveshaft_analysis.md`](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
 | **Front gearbox housing**, Traxxas **TRA6881** | 1 | ✅ **Purchased** | **Tammies Hobby** | **$4.00** (paid) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Rear gearbox housing**, Traxxas **TRA6880** | 1 | ✅ **Purchased** | **Tammies Hobby** | **$4.00** (paid) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Tekno front stub, TKR1654-17** 17mm M6 hub adapter | 1 pair used (of 3 bought, 2 spare) | ✅ **In Hand** | eBay, mr-retro | **$23.15/pair** | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
@@ -82,16 +82,16 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 
 | Bucket | Sub-total |
 |---|---|
-| **On the build, in hand / purchased (sunk)** — MAX10 G2 + 3665SD combo, servo, center driveshaft (7455), knock-off CV axle set, TRA6752 (2 of 4 used), front + rear gearbox housings, Tekno front stub + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods, RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body, wing + TRA9046 mount | **~$720** |
-| **On the build, to buy** — AliExpress knock-off front + rear diffs (~$15/2, confirm if in hand), AliExpress metal center diff (~$20, pre-oiled), TKR5570-17 rear kit (~$26 for the hexes) | **~$61** |
+| **On the build, in hand / purchased** (money already spent, "sunk") — MAX10 G2 + 3665SD combo, servo, AliExpress steel diffs (front + rear), AliExpress metal center diff, center driveshaft (7455), knock-off CV axle set, TRA6752 (2 used = $16), front + rear gearbox housings, Tekno front stub + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods, RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body, wing + TRA9046 mount | **~$739** |
+| **On the build, to buy** — TKR5570-17 rear kit (~$26 for the rear hexes) | **~$26** |
 | **Still open (no cost yet)** — primary body (JConcepts P2 leaning; Jato 3.3 already in hand), pinion, bearing kit (the 10×18×5 hub bearings ×4 for the Tekno-stub axles are already fitted and working) | TBD |
-| **Build total (locked items)** | **~$781** |
+| **Build total (locked items)** | **~$765** |
 
 ---
 
 ## Spares & Not Used (owned, not on this build)
 
-Parts already owned that are **not** going on this build (fallbacks, wrong-fit leftovers, superseded picks). Costs here are sunk and **not** in the build total above.
+Parts already owned that are **not** going on this build (fallbacks, wrong-fit leftovers, superseded picks). These are **sunk too** (already paid), but because they're not on the car their cost is **not** in the build total above.
 
 | Part | Qty | Why not used | Price (sunk) |
 |---|---|---|---|
@@ -102,7 +102,7 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 | **Traxxas TRA3775 Oilite brass bushings** | 12-pack | The GPM bell crank already ships with brass bushings | $7.69 |
 | **Traxxas #9033 front + TRA9039 rear shock towers** | 2 | Fallback if the MonsterKingz CF towers prove too fragile | ~$12.00 |
 | **Traxxas TRA9517 Jato / Sledge wing** | 1 | Spare wing; came in the TRA9046 mount combo (running the AliExpress wing) | (in the $13.79 combo) |
-| **Extra Tekno front stubs, 2 pairs** · **extra TRA6752 shafts, 2** · **extra ACER titanium rods, 4** | — | Bulk-buy / set leftovers, spares | (in the paid prices above) |
+| **Extra Tekno front stubs, 2 pairs** · **extra TRA6752 shafts, 2** · **extra ACER titanium rods, 4** | — | Bulk-buy / set leftovers, spares | **$16** (2 spare TRA6752); stubs + rods in the paid prices above |
 
 ---
 
