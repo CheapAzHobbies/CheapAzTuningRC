@@ -22,6 +22,8 @@
 ---
 
 > *Everything below is counted and priced as a **set of 4** (one full car's worth), wheels, tires, and foams alike.*
+>
+> *Every wheel / tire / rim here I've **personally run and tested**, so the grip, wear, and rip notes are from real track time, not spec sheets.*
 
 ## Full Wheels (mounted tire + rim sets)
 
@@ -55,11 +57,11 @@ Bare tires, no rim. Mount on 17mm-hex rims with a [foam insert](#foam-inserts).
 
 ## Rims (bare wheels)
 
-Nothing bought as a bare rim yet, every set above comes as a mounted tire + rim. This section is for standalone 17mm-hex dish rims if I buy any (e.g. spare rims to remount a good tire, or a specific color). All rims here run **standard width** to keep the car [ROAR legal](#key-requirements).
+Bare 17mm-hex rims, for remounting a good tire or a color change.
 
 | Rim | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| — none logged yet | — | — | — |
+| 🔵 **Traxxas 3.0" White Dished Wheels (9070-WHT)** — *bare rim, splined/star hex* | **Part:** 9070-WHT<br>**Type:** 3.0" dished wheel (bare rim)<br>**Size:** 3.0"<br>**Hex:** **17mm splined (star)**<br>**Fits:** front or rear; needs 17mm hubs + nuts; bare version of the Response Pro white wheel<br>**Sold as:** pair (2)<br>**Price:** **$8.00 / pair** | Pro: Cheap OEM 3.0" dished rim, splined hex locks on solid. Handy for remounting a tire in white<br><br>Con: **Splined / star hex only**, the front non-star hex (TKR1654-17) won't drive it without cutting the teeth. Same wide Traxxas wheel, so the [wide-track / ROAR note](#key-requirements) applies | <img src="src/aero_traxxas_3in_dished_wheel_9070wht.jpg" width="250"> |
 
 ---
 
