@@ -44,11 +44,19 @@ I run the **single-channel** portables; the **duals** are a friend's; the **quad
 | 🔵 **100W×4 AC/DC quad (AmpGO CQ3 / BGUAD CQ3, rebadged)** — *poor value, reliability iffy* | **Chemistries:** LiHV/LiPo/LiFe/LiIon, NiMH/NiCd, Pb<br>**Cells:** 1-6S Li<br>**Power:** AC 110/220V + DC; **100W×4** (400W)<br>**Input:** AC 110/220V / DC<br>**Channels:** **4 (quad)**<br>**Max current:** 10A/channel<br>**Discharge:** yes (recondition/cycle)<br>**Balance:** N/A<br>**Interfaces:** banana out; dual cooling fans; LCD; data storage; 1750g<br>**Price:** ~$280 (AmpGO) / ~$300 (BGUAD) | Pro: More power than the 50W quads (100W / 10A per channel), LiHV, quad, AC/DC. Popular for hybrid-battery reconditioning<br><br>Con: **Rebadged budget quad with reliability complaints**, reviews report **channels failing after first use** and DOA units. Poor value at ~$280. Same story: singles or a proven dual over this | <img src="src/electronics_ampgo_cq3_charger.jpg" width="250"> |
 
 ---
+
 ## Charging accessories on hand
+
+The chargers only do so much on their own, these are the on-hand extras that make the fleet easy to run. The **parallel board** is the standout, cheap and it earns its keep every session.
+
+| Accessory | Spec | Pros / Cons | Photo / Link |
+|---|---|---|---|
+| ⭐ **Parallel charging board** (6S) | **Plugs:** XT90 / XT60 / EC5 / EC3 / XT30 / T, multi-connector<br>**Cells:** up to 6S<br>**Ports:** several packs in parallel<br>**Price:** **~$8** | Pro: **A great cheap accessory to have.** Charge several packs off one channel, and the **multi-plug ports handle the whole mixed-connector fleet** (EC5 / XT60 / XT90 / etc). Pair it with a higher-current single (T6 / T8) to fill several packs at once<br><br>Con: Packs must be at **similar voltage** before paralleling (a big imbalance dumps current between them), so check them first | <img src="src/electronics_parallel_charge_board.jpg" width="250"> |
+
+Smaller extras on hand:
 
 | Item | Use |
 |---|---|
-| **Parallel charging board** (XT90 / XT60 / EC5 / EC3 / XT30 / T, 6S) | Charge several packs in parallel off one channel, a **great cheap accessory to have** (~$8). Multi-plug in, so it handles the whole mixed-connector fleet. Pair it with a higher-current single (T6 / T8) to fill several packs at once |
 | **USB-C PD trigger boards** (PD/QC decoy, 9/12/15/20V) | Pull fixed PD voltage from USB-C bricks to feed a DC charger |
 | **Balance-lead adapters** (6S→3S, 4S→2×2S JST-XH) | Split/adapt balance plugs for the various packs |
 | **4.0→5.0mm stepped bullet adapters** | Charge-lead bullet conversions |
