@@ -36,7 +36,7 @@ _No build photo yet, the car doesn't physically exist; this is a parts-selection
 
 I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Gladstone, OR), a really blown-out dirt track: deep ruts, choppy braking bumps, dry loose dirt over a hard base. It's **casual / fun racing now** (transponder-timed racing was discontinued), so **no personal transponder is needed**. That surface drives the whole setup. It rewards compliance and forgiveness over outright top speed, so the car is built to soak up the rough and stay planted.
 
-- **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 45wt front / 60wt rear, the firmer rear controls squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
+- **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 40wt front / 50wt rear (retested from an earlier 45wt/60wt), the rear still the firmer of the two to control squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
 - **Long wheelbase for stability.** FLM26800 extended arms stretch the wheelbase about 10mm per side, which calms the car over rough ground and adds droop.
 - **Diffs tuned for a loose surface.** ~7k front for steering on the loose stuff, 5k rear for rotation, 20k center to hold drive stability.
 - **Geared for punch, not top speed.** 16T pinion (FDR 3.38) on the 3665SD 2400KV keeps it punchy and cooler on a technical, rough track where you rarely hold full throttle.
@@ -50,7 +50,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Component | Part | Notes |
 |-----------|------|-------|
 | Shocks | Hot Bodies D8 metal 97mm big bore (front + rear), used set in hand | Plastic HPI Apache C1 / Wltoys A929 = same shock, backup. Stock Jato 4x4 GTR XX-Long (gray composite, cheap at Jenny's) is a fine fallback if no big-bore set turns up, [`shock_analysis.md`](shock_analysis.md) |
-| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 45wt F / 60wt R | Springs + pistons came with the used D8 set; oil from Tammies, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · 40wt F / 50wt R (✅ retested) | Springs + pistons came with the used D8 set; oil from Tammies, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | Arms | FLM26800 metal extended, front + rear (ProTrac dropped) | 2 pairs purchased $25.73/pair (bulk order), [`arm_analysis.md`](arm_analysis.md) |
 | Shock standoffs | HB Racing HBS67410 ×2 pairs (for the metal D8 shocks; plastic path can force-fit Traxxas hollow balls) | ✅ purchased $3.99/pr, [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
 | Shock towers | MonsterKingz (G-Maxx) carbon fiber set (front + rear), for the larger shocks + 67410 standoffs; stock #9033 / TRA9039 = fallback | [`shock_tower_analysis.md`](shock_tower_analysis.md) |

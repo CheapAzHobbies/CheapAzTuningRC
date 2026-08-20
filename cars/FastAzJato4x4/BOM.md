@@ -44,8 +44,8 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | **White 59gf springs (HB67454, 76mm)**, front | 1 pair | ✅ **In Hand** (came with the used D8 set) | — | **$0** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Grey 52gf springs (HB67453, 76mm)**, rear | 1 pair | ✅ **In Hand** (came with the used D8 set) | — | **$0** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **1.4mm × 6 hole shock pistons** | 4 sets | ✅ **In Hand** (came with the shocks) | — | **$0** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
-| **Silicone shock oil 45wt** (front) | 1 | ✅ **Purchased** | **Tammies** | ~$6 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
-| **Silicone shock oil 60wt** (rear) | 1 | ✅ **Purchased** | **Tammies** | ~$6 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| **Silicone shock oil 40wt** (front) — ✅ retested, runs better than 45wt | 1 | ✅ **In Hand** | **Tammies** | ~$6 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| **Silicone shock oil 50wt** (rear) — ✅ retested, runs better than 60wt | 1 | ✅ **In Hand** | **Tammies** | ~$6 | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Traxxas Raptor R Ultimate alloy hubs** (9063/9064/9065, full EHD set) | 1 set (front+rear) | ✅ **Purchased** 2026-07-29 | eBay, toysion | **$68.73** (paid) | [`hub_carrier_analysis.md`](hub_carrier_analysis.md#price-history) |
 
 ---
@@ -109,6 +109,7 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 | **Buggy-wing setup: AliExpress wing + Traxxas TRA9517 wing + TRA9046 mount** | 1 each | Dropped, the Jato 3.3 body's integrated wing replaces the whole separate wing + mount | ~$5 (AliExpress wing) + $13.79 combo (TRA9517 + TRA9046) |
 | **Alternate wheel/tire sets** (RED SPIDER is the running set) | 9 options | Backups / other surfaces; full catalog in [`wheel_analysis.md`](wheel_analysis.md) | Tokyo Speed $20 · unbranded $13.17 · Mitsubishi-tread $13 · triangle 26013 $13.04 · RED SPIDER R306 $20 · Traxxas Response Pro 9074 $40.97 · Sledgehammer 9073 $36.97 · PowerHobby Armor PHT2410DW $34.95/pair · AKA Impact AKA14007XRW $31.99/pair |
 | **Extra Tekno front stubs, 2 pairs** · **extra TRA6752 shafts, 2** · **extra ACER titanium rods, 4** | — | Bulk-buy / set leftovers, spares | **~$86** (2 stub pairs $46.30 + 2 TRA6752 $16 + 4 ACER rods $23.96) |
+| **Silicone shock oil 45wt (front) + 60wt (rear)** | 2 bottles | Superseded — retested to 40wt front / 50wt rear, which run better | ~$12 (~$6 ea) |
 
 ---
 
