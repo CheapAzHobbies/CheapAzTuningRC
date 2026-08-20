@@ -97,6 +97,7 @@ This is the target tuning, based on the K939 build, but the FastAzJato4x4 is **l
 - **Spring sourcing:** the HPI Apache C1 and Hot Bodies D8 both ship stock with **white** springs. On real **D8 buggy take-offs** you'll typically find a **grey + white combo**, which is exactly this front (white) / rear (grey) pairing, so used take-off springs are a cheap, easy source
 - 1.4mm × 6 holes = mid-range damping, good general-purpose piston. Tighter holes (1.2-1.3mm) increase damping for smoother tracks; bigger holes (1.5-1.6mm) loosen damping for whoops
 - **Retested: 40wt front / 50wt rear runs better** than the earlier 45wt front / 60wt rear call. That earlier note reasoned 60wt rear because 50wt "felt too floaty" — a later retest reversed that; 50wt rear is now the confirmed pick, paired with a lighter 40wt front (down from 45wt). Rear still the heavier of the two, controlling squat under power and rebound from jumps
+- **50wt rear is the sweet spot, not just a data point.** Go heavier and the car starts to bounce (rear too stiff, kicks back instead of absorbing). Go lighter and it **donkey-kicks** (rear end kicks up under braking/bumps, too soft to control the motion). 50wt is bracketed by both failure modes on either side
 
 ### Hot Bodies Big Bore Shock Spring chart (full lineup)
 
