@@ -32,8 +32,10 @@
 
 | Position | Weight |
 |----------|--------|
-| Front | 45wt |
-| Rear | 60wt |
+| Front | 40wt |
+| Rear | 50wt |
+
+> Same oil as the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil) after its retest (was 45wt / 60wt on both). Rear heavier than front because the motor sits at the back and the car is tail-heavy for a 1/8.
 
 ### Pistons
 
