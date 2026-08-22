@@ -11,6 +11,7 @@
 - [Steering](#steering)
 - [Drivetrain](#drivetrain)
 - [Wheels & Tires](#wheels--tires)
+- [Aero & Body](#aero--body)
 - [Electronics](#electronics)
 - [Tuning Notes](#tuning-notes)
 - [Parts Purchased](#parts-purchased)
@@ -100,6 +101,14 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 > **Wear-in:** these RedSpider tires take **~7 battery packs of running to fully wear in** before they reach maximum grip / performance — don't judge them when fresh.
 >
 > The **[FastAzJato4x4](../FastAzJato4x4/README.md) runs the same RedSpider tires but on standard-width rims** (not the wide Traxxas-rim trick) to **stay ROAR legal**.
+
+---
+
+## Aero & Body
+
+| Component | Part | Notes |
+|-----------|------|-------|
+| Body / shell | Traxxas Jato 4x4 body, green (exact SKU TBD) | $36.00, paid for by me — tracked in [`/LEDGER.md`](../../LEDGER.md), not here |
 
 ---
 
