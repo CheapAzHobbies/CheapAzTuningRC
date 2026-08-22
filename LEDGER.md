@@ -4,7 +4,7 @@
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $133.28** | $303.28 − $170 cash payment (2026-08-15) | 2026-08-15 |
+| **Mike** | **≈ $33.28** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) | 2026-08-22 |
 | **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
@@ -136,7 +136,8 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 87 | -$32.00 | 4× Traxxas 6752 long output shaft ($8 ea) |
 | | **➡️ Current: -$303.28 → Mike owes ≈ $303.28** | −$259.30 + #86 + #87 |
 | 88 | +$170.00 | Payment — $170 cash |
-| | **➡️ Current: -$133.28 → Mike owes ≈ $133.28** | −$303.28 + #88 |
+| 89 | +$100.00 | Payment — $100 cash (2026-08-22) |
+| | **➡️ Current: -$33.28 → Mike owes ≈ $33.28** | −$133.28 + #89 |
 
 ### Flags to resolve
 
@@ -169,6 +170,7 @@ Log payments here as they come in, then update Mike's account + Outstanding Bala
 |------|------|--------|--------|----------------------------|
 | 2026-06-13 | Mike | $50.00 | Zelle | balance |
 | 2026-08-15 | Mike | $170.00 | Cash | balance |
+| 2026-08-22 | Mike | $100.00 | Cash | balance |
 
 ---
 
