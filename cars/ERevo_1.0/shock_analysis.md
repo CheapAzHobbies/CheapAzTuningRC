@@ -110,22 +110,54 @@ Idea: a flap over the rear piston that covers **2 of the 6 holes on rebound**, g
 
 I run at the top of the oil range on purpose: **heavier oil is significantly more temperature-stable**. It holds its damping rate across weather swings and resists **shock fade** — as the oil heats up during a run, a shock becomes less effective, and lighter oils lose their rate faster. The small consistency tax of running thick oil is worth it for damping that feels the same lap 1 and lap 10.
 
-### Heavy-oil wt ↔ cSt (buying above 100wt)
+### Shock-oil supertable — wt ↔ cSt across brands (up to 5000 cSt)
 
-Most brands' "weight" scale stops at 100wt, so to buy heavier you shop by **cSt**. Values below are TLR-anchored and approximate (weight is not standardized; TLR runs ~2.5wt heavier than Associated, so treat ±50 cSt as noise).
+**"wt" is not a standardized unit; cSt is.** Associated, TLR/Losi and XTR sell by weight; Tamiya (`#`), Kyosho (`#`), Mugen, Yokomo, Hudy, AKA and Racers Edge print cSt straight on the bottle, so their number **is** the cSt. Rule of thumb for the wt brands: **cSt ÷ 10 ≈ wt**. Values below are the manufacturers' own published numbers.
 
-| Weight | cSt (approx) | Notes |
-|---|---|---|
-| 90wt | ~1150 | old front |
-| 100wt | 1325 | old rear (TLR published) |
-| 110wt | ~1450-1500 | PT Racing 1500 cSt ≈ here |
-| 120wt | ~1650 | shop ~1600-1700 cSt |
-| ~160wt | **2000** | **current front + rear** — Associated silicone diff fluid |
-| N/A | 3000 | next step to test, if the shop stocks it |
+| wt | Associated FT (cSt) | TLR / Losi (cSt) | Gap | Direct-cSt brands (Tamiya # / Kyosho # / Mugen / Yokomo / Racers Edge) |
+|---|---|---|---|---|
+| 25 | — | 250 | — | 250 |
+| 27.5 | 313 | — | — | ~300 |
+| 30 | 350 | 338 | −12 | 338-350 |
+| 32.5 | 388 | — | — | ~400 |
+| 35 | 425 | 420 | −5 | ~420 |
+| **37.5** | **463** | **468** | +5 | ~465 · **Jato front candidate** |
+| 40 | 500 | 516 | +16 | 500 · **Jato front (running)** |
+| 42.5 | 538 | — | — | ~540 |
+| 45 | 575 | 610 | **+35** | ~600 |
+| 47.5 | 613 | — | — | ~600 |
+| **50** | **640** | **710** | **+70** | ~650-700 · **Jato rear (running)** |
+| 55 | 725 | 760 | +35 | ~750 |
+| 60 | 800 | 810 | +10 | 800 |
+| 70 | 900 | 910 | +10 | 900 |
+| 80 | 1000 | 1014 | +14 | 1000 |
+| 90 | — | 1130 | — | ~1150 · E-Revo old front (90wt) |
+| 100 | — | 1325 | — | ~1300 · E-Revo old rear (100wt) — **top of the wt scale** |
 
-- Buy by the **cSt** number, not "110/120wt" (those labels barely exist).
-- Silicone **diff oil** is the same fluid and comes in more high-cSt grades than shock oil, so it's a valid source for the heavy end — **that's what this truck runs now**, 2000 cSt diff fluid in the shocks.
-- Source seen: [PT Racing 1500 cSt shock oil (4 oz)](https://fiercercsolutions.com/PT-Racing-RC-Shock-Oil-4-OZ-Bottle-1500-CST).
+**Where the brands actually diverge:** mostly they're within ~15 cSt of each other, but **45-55wt is the exception** — TLR's 50wt (710) is nearly Associated's 55wt (725). Buying a "50wt" from the wrong brand there is a real one-step change. Everywhere else the labels are close enough to swap.
+
+#### Above 100wt — diff-fluid grades (1000 → 5000 cSt)
+
+Past ~1325 cSt the wt label stops existing and **every brand prints cSt**, so no conversion is needed at all. Silicone diff fluid is the same fluid as shock oil, just sold in the grades shock oil doesn't reach — that's what this truck runs.
+
+| cSt | ≈ wt (extrapolated, no one labels these) | Where to buy | Use |
+|---|---|---|---|
+| 1000 | 80wt | Associated 5427 · TLR74016 | — |
+| 1130 | 90wt | TLR74017 | — |
+| 1325 | 100wt | TLR (top of scale) | — |
+| 1500 | ~115wt | [PT Racing 1500 cSt (4oz)](https://fiercercsolutions.com/PT-Racing-RC-Shock-Oil-4-OZ-Bottle-1500-CST) | — |
+| **2000** | ~150-160wt | Racers Edge RCE3300 (70ml, $7.99) · Tamiya #2000 (54656, $6.49) · Associated 5451 | **running, front + rear** |
+| 2500 | ~185wt | blend: ⅓ of a 4000 + ⅔ of a 2000 | fallback if 3000 is too stiff |
+| 2830 | ~210wt | blend: 50/50 of 2000 + 4000 | — |
+| **3000** | ~225wt | Tamiya #3000 (54657, $6.49) · Racers Edge RCE3305 · Associated 5452 | **next step to test** |
+| 4000 | ~300wt | Racers Edge RCE3310 ($7.99) · Kyosho SIL4000B ($10.99) | blending stock |
+| 5000 | ~375wt | Racers Edge RCE3315 · Associated 5453 ($8.99) · Kyosho SIL5000B | too stiff for shocks; = Jato **rear diff** |
+
+- **Buy by cSt, never by the "110/120wt" labels** — they barely exist above 100wt, and the extrapolated column above is a feel reference only.
+- **Silicone blends on a log scale**, so mixing two bottles lands between them: 50/50 of 2000 + 4000 ≈ **2830 cSt**, and ⅓/⅔ ≈ **2500 cSt**. Buying a 2000 and a 4000 covers the whole 2000-4000 range without a third bottle.
+- **Bottle size matters for four 16mm big bores.** Racers Edge is 70ml, Associated/TLR 2oz (~59ml), Tamiya and Kyosho ~40cc — so a single Tamiya bottle is tight for a full fill.
+
+Sources: [Associated FT shock fluid listings](https://www.associatedelectrics.com/teamassociated/parts/details/5436) · [Losi/TLR shock oil listings](https://www.losi.com/product/silicone-shock-oil-40wt-516cst-2oz/TLR74010.html) · [So Dialed brand comparison](https://www.sodialed.com/rc-setup-tips/rc-shock-oil-viscosity-comparison-chart)
 
 ---
 
