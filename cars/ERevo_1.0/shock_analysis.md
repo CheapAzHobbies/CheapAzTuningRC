@@ -1,6 +1,6 @@
 # Shock Selection — E-Revo 1.0
 
-> **Chosen: HPI Apache C1 97mm plastic big bore (16mm bore)** — on this build the shocks sit **inboard** (rocker-actuated, behind the [3D-printed mounts](#mounting-3d-printed)), so they're **not exposed to crash abuse**. That removes the only reason to run a metal body, and the plastic's big advantage — **lighter weight** — wins with no downside. Same 16mm big-bore shock as the metal **Hot Bodies D8** (now the runner-up). Running **4-hole 1.2 mm pistons** with **90wt front / 100wt rear** oil, and **Acxess springs** (the included big-bore springs are wrong for this heavy truck — see [Springs](#springs)). RPM plastic push-rod rod ends soak up the linkage abuse.
+> **Chosen: HPI Apache C1 97mm plastic big bore (16mm bore)** — on this build the shocks sit **inboard** (rocker-actuated, behind the [3D-printed mounts](#mounting-3d-printed)), so they're **not exposed to crash abuse**. That removes the only reason to run a metal body, and the plastic's big advantage — **lighter weight** — wins with no downside. Same 16mm big-bore shock as the metal **Hot Bodies D8** (now the runner-up). Running **4-hole 1.2 mm pistons** with **2000 cSt (~160wt) silicone diff fluid front and rear** (up from 90wt / 100wt, which went soft once the shocks wore in), and **Acxess springs** (the included big-bore springs are wrong for this heavy truck — see [Springs](#springs)). RPM plastic push-rod rod ends soak up the linkage abuse.
 
 <p align="center"><img src="src/suspension_hpi_shocks_apache_c1_107365.jpg" width="600"><br><em>HPI Apache C1 97mm plastic big bore (#107365) — 16mm bore, lighter than the metal D8</em></p>
 
@@ -40,8 +40,8 @@
 
 | Shock | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **HPI Apache C1 97mm** (plastic big bore, #107365) | **Type:** big bore (#107365)<br>**Bore:** 16 mm<br>**Length:** 97 mm shaft<br>**Body material:** plastic, threaded<br>**Piston:** 4 × 1.2 mm<br>**Mounting:** inboard / rocker-actuated<br>**Part:** #107365<br>**Spring:** Acxess (not included)<br>**Oil:** 90wt F / 100wt R<br>**Price:** A929 twin ~$16/pr | Pro: **Lighter than the metal D8**, and the inboard shocks are protected so there's no crash exposure to worry about. Same plush 16mm big-bore internals, rebuildable, cheap (A929 twin ~$16/pr)<br><br>Con: **Doesn't come with the right springs** for a heavy truck — the included buggy springs are too soft, swap to [Acxess](#springs). Also the **OEM rebuild / seal kit runs ~$20–25 — about half the price of the shocks themselves**, so reseals aren't cheap | <img src="src/suspension_hpi_shocks_apache_c1_107365.jpg" width="250"> <img src="src/suspension_wltoys_a929_shocks_a929-14.jpg" width="250"><br><em>Apache C1 (#107365) · Wltoys A929 twin</em> |
-| 🥈 **Hot Bodies D8 97mm** (metal big bore, HBS67296) | **Type:** big bore (HBS67296)<br>**Bore:** 16 mm<br>**Length:** 97 mm<br>**Body material:** metal, threaded<br>**Piston:** 4 × 1.2 mm (same 16mm internals as the C1)<br>**Mounting:** inboard / rocker-actuated<br>**Part:** HBS67296<br>**Spring:** Acxess (not included)<br>**Oil:** 90wt F / 100wt R<br>**Price:** N/A (discontinued) | Pro: Metal body **never dents** and the shock end shims a touch more precisely with M3×1; identical big-bore internals<br><br>Con: **Heavier** than the plastic C1 — and the shocks are protected here, so that toughness buys nothing. **Worse on the Revo specifically:** the inboard shocks mount **high up on the car**, so the metal body's extra weight sits up top and **raises the CG** — worse handling. The unique suspension puts that mass exactly where you don't want it. Discontinued. **Also no correct springs included** (same Acxess swap) | <img src="src/suspension_hb_d8_shocks_hbs67296.jpg" width="500"> |
+| ⭐ **HPI Apache C1 97mm** (plastic big bore, #107365) | **Type:** big bore (#107365)<br>**Bore:** 16 mm<br>**Length:** 97 mm shaft<br>**Body material:** plastic, threaded<br>**Piston:** 4 × 1.2 mm<br>**Mounting:** inboard / rocker-actuated<br>**Part:** #107365<br>**Spring:** Acxess (not included)<br>**Oil:** 2000 cSt F/R (~160wt)<br>**Price:** A929 twin ~$16/pr | Pro: **Lighter than the metal D8**, and the inboard shocks are protected so there's no crash exposure to worry about. Same plush 16mm big-bore internals, rebuildable, cheap (A929 twin ~$16/pr)<br><br>Con: **Doesn't come with the right springs** for a heavy truck — the included buggy springs are too soft, swap to [Acxess](#springs). Also the **OEM rebuild / seal kit runs ~$20–25 — about half the price of the shocks themselves**, so reseals aren't cheap | <img src="src/suspension_hpi_shocks_apache_c1_107365.jpg" width="250"> <img src="src/suspension_wltoys_a929_shocks_a929-14.jpg" width="250"><br><em>Apache C1 (#107365) · Wltoys A929 twin</em> |
+| 🥈 **Hot Bodies D8 97mm** (metal big bore, HBS67296) | **Type:** big bore (HBS67296)<br>**Bore:** 16 mm<br>**Length:** 97 mm<br>**Body material:** metal, threaded<br>**Piston:** 4 × 1.2 mm (same 16mm internals as the C1)<br>**Mounting:** inboard / rocker-actuated<br>**Part:** HBS67296<br>**Spring:** Acxess (not included)<br>**Oil:** 2000 cSt F/R (~160wt)<br>**Price:** N/A (discontinued) | Pro: Metal body **never dents** and the shock end shims a touch more precisely with M3×1; identical big-bore internals<br><br>Con: **Heavier** than the plastic C1 — and the shocks are protected here, so that toughness buys nothing. **Worse on the Revo specifically:** the inboard shocks mount **high up on the car**, so the metal body's extra weight sits up top and **raises the CG** — worse handling. The unique suspension puts that mass exactly where you don't want it. Discontinued. **Also no correct springs included** (same Acxess swap) | <img src="src/suspension_hb_d8_shocks_hbs67296.jpg" width="500"> |
 | 🚫 ~~**Stock Traxxas GTR** (E-Revo OEM)~~ | **Type:** OEM GTR — parts TRA5460X · TRA5437 · TRA5438 · TRA5463 (shocks + springs)<br>**Bore:** N/A<br>**Length:** N/A<br>**Body material:** threaded GTR body<br>**Piston:** 2-hole (OEM; smaller effective flow than the 4×1.2 big-bore setup)<br>**Mounting:** inboard / rocker-actuated<br>**Part:** TRA5460X · TRA5437 · TRA5438 · TRA5463<br>**Spring:** red springs<br>**Oil:** N/A<br>**Price:** N/A | Pro: Came on the car<br><br>Con: **Superseded by the D8** — the 2-hole OEM piston is the baseline I tuned away from; D8 gives a more tunable big-bore package | <img src="src/suspension_traxxas_gtr_shocks_stock.jpg" width="500"><br><em>Stock Revo GTR shocks + springs (TRA5460X)</em> |
 
 ---
@@ -49,8 +49,10 @@
 ## Setup Spec — Piston & Oil
 
 - **Baseline:** the **4-hole 1.2 mm** piston is commonly recommended around **80wt front and rear**.
-- **My setup:** **90wt front / 100wt rear.** The extra rear weight helps **prevent bucking and keeps the back of the car planted** over rough terrain. This sits at the **upper end of regular shock-oil weights** — if you'd rather stay in the standard oil range, run a piston with **fewer or smaller holes**.
-- **Front is dialed — leave it.** The 90wt front is perfect as-is, so it stays the **known-good baseline**. All experimental tuning (heavier oil, custom + shim-valve pistons) is **rear-only** — change one end at a time against the untouched front.
+- **My setup: 2000 cSt (~160wt) front and rear**, and it works even better than what came before. This is **silicone diff fluid, not shock oil** — shock oil tops out around 100wt, so the heavy end only exists in diff grades. Bottle is **Team Associated 2000 cSt** (🚧 confirm off the bottle). If you'd rather stay in the standard shock-oil range, run a piston with **fewer or smaller holes** instead.
+- **History: 90wt front / 100wt rear was the old call.** Fine while the shocks were fresh, but once they wore in the truck started **bucking on landings**. 2000 cSt fixed that completely. **Still want heavier** — 3000 cSt is the next test, whenever the hobby store stocks it.
+- **Open symptom: it still digs into the ground off jumps.** Coming off a jump the truck packs down far enough on landing that the chassis catches the dirt, so 2000 cSt is close but a touch light for the landings — that's the case for going up. **3000 cSt** is the planned step; if that overshoots and it starts kicking back instead of absorbing, split the difference around **2500 cSt**. Change **one end at a time** so the other stays as the reference.
+- **Both ends run the same oil now.** The old plan held the front at 90wt as an untouched baseline and did all experimenting on the rear; going to 2000 cSt front and rear replaced that. If I step up to 3000 cSt, do **one end at a time** so there's still a reference to compare against.
 - **Brand barely matters** — shock oils vary 2–3wt off each other anyway. I like **TLR** oils since they go up to 100wt (probably higher — didn't check).
 
 ### Bigger bore → lighter oil (why some go smaller-piston)
@@ -80,7 +82,7 @@ Same total restriction, reached two ways (from the current 4 × 1.2):
 
 So 4 × 1.0 gives about the same damping increase as 3 × 1.2 but without the extra pack.
 
-**Oil equivalence (rough).** Dropping 4 to 3 holes (same 1.2 mm) is about 33% more restriction. Flow here is viscosity-dominated (thick oil, small holes, low Reynolds number), so to hold the current feel go about 25 to 30% lighter oil: front 90wt to ~65wt, rear 100wt to ~70wt. Starting point only, retune by feel and temp.
+**Oil equivalence (rough).** Dropping 4 to 3 holes (same 1.2 mm) is about 33% more restriction. Flow here is viscosity-dominated (thick oil, small holes, low Reynolds number), so to hold the current feel go about 25 to 30% lighter oil: front 90wt to ~65wt, rear 100wt to ~70wt. Starting point only, retune by feel and temp. **Those numbers are off the old 90/100 setup** — against the current 2000 cSt the same 25-30% cut lands around **1400-1500 cSt**.
 
 **Print rule.** Printed holes, especially small ones, come out undersize, rough, and inconsistent (worst on FDM), and rough bores change flow so the four shocks will not match. Print the blank with holes slightly undersize, then drill or ream to final size with numbered or metric bits. That is what makes size-tuning repeatable, and it lets you tune in fine increments instead of the big 25 to 33% jumps that changing hole count forces.
 
@@ -89,7 +91,7 @@ So 4 × 1.0 gives about the same damping increase as 3 × 1.2 but without the ex
   - Too loose (over ~0.25 mm total): oil bypasses around the piston, damping goes soft and inconsistent, especially at low speed.
   - For a printed piston, print slightly oversize and sand or turn the OD down to size, since printed diameters run rough and off-nominal. Aim near 15.85 mm and verify it slides with light drag, no scrape.
 
-**Plan.** Print blanks, drill holes to size, turn OD to ~15.85 mm, tune with diameter (keep 4 holes) for smooth consistent damping. Drop to 3 holes only for more hold-up over chop. **Rear only** — the front 90wt setup is dialed and stays untouched as the baseline.
+**Plan.** Print blanks, drill holes to size, turn OD to ~15.85 mm, tune with diameter (keep 4 holes) for smooth consistent damping. Drop to 3 holes only for more hold-up over chop. **Rear only** — the front stays untouched as the baseline (90wt back then, 2000 cSt now).
 
 ### Shim-check valve (asymmetric damping) — rear experiment
 
@@ -114,13 +116,15 @@ Most brands' "weight" scale stops at 100wt, so to buy heavier you shop by **cSt*
 
 | Weight | cSt (approx) | Notes |
 |---|---|---|
-| 90wt | ~1150 | current front |
-| 100wt | 1325 | current rear (TLR published) |
+| 90wt | ~1150 | old front |
+| 100wt | 1325 | old rear (TLR published) |
 | 110wt | ~1450-1500 | PT Racing 1500 cSt ≈ here |
 | 120wt | ~1650 | shop ~1600-1700 cSt |
+| ~160wt | **2000** | **current front + rear** — Associated silicone diff fluid |
+| N/A | 3000 | next step to test, if the shop stocks it |
 
 - Buy by the **cSt** number, not "110/120wt" (those labels barely exist).
-- Silicone **diff oil** is the same fluid and comes in more high-cSt grades than shock oil, so it's a valid source for the heavy end.
+- Silicone **diff oil** is the same fluid and comes in more high-cSt grades than shock oil, so it's a valid source for the heavy end — **that's what this truck runs now**, 2000 cSt diff fluid in the shocks.
 - Source seen: [PT Racing 1500 cSt shock oil (4 oz)](https://fiercercsolutions.com/PT-Racing-RC-Shock-Oil-4-OZ-Bottle-1500-CST).
 
 ---
@@ -184,7 +188,7 @@ Steps to set the HPI / Hot Bodies shocks up front and rear with these mounts:
    - **Bump-stop length:** the stock GTR bump-stops are **ever so slightly too short** in these big bores. May make custom ones a bit **thicker** to limit down-travel/topping out; exact length **TBD**.
 4. **Cap setup** — press-fit the ball joint from the **original GTR cap / eyelet** into the new shock cap; make sure it sits **flush**.
 
-**Oil cross-reference:** 50wt in the stock Revo Gen 1 shocks feels similar to **80–90wt in these HB/HPI big bores** — the bigger bore needs heavier oil for the same feel (see [Bigger bore → lighter oil](#bigger-bore--lighter-oil-why-some-go-smaller-piston)). 80wt is the baseline; I run [90wt front / 100wt rear](#setup-spec--piston--oil).
+**Oil cross-reference:** 50wt in the stock Revo Gen 1 shocks feels similar to **80–90wt in these HB/HPI big bores** — the bigger bore needs heavier oil for the same feel (see [Bigger bore → lighter oil](#bigger-bore--lighter-oil-why-some-go-smaller-piston)). 80wt is the baseline; I run [2000 cSt front and rear](#setup-spec--piston--oil).
 
 ---
 
