@@ -16,6 +16,25 @@
 
 ---
 
+## Battery tray fit check
+
+**Stock Jato 4x4 plastic chassis tray: ~160.23 × 50 × ~35mm** (L × W × H), and **~40mm of height can be squished in** if it has to. 🚧 The 160.23mm length is off my own measurement — confirm against Traxxas before betting a purchase on it.
+
+> **This is the stock-chassis number.** The FastAz runs the [AliExpress CF LCG chassis](chassis_analysis.md), which brings its own **aluminum battery holder + strap**, so its usable tray still needs measuring separately. Until then, treat the stock tray as the conservative reference — it's also the tray on [Mike's Jato](../Jato4x4_Mike/README.md).
+
+| Pack | L × W × H | Length (160.23) | Width (50) | Height (35 / 40 max) | Verdict |
+|---|---|---|---|---|---|
+| **CNHL Ultra-Thin 6000 LiHV** | 138 × 47 × 37 | ✅ 22mm spare | ✅ 3mm spare | ⚠️ 37, needs the squish | **Only pack clearing L and W with real margin** |
+| **CNHL Racing 5200 90C** | 160 × 45 × 37 | ⚠️ **0.23mm spare** | ✅ 5mm spare | ⚠️ 37, needs the squish | Effectively zero length clearance — hangs entirely on verifying 160.23 |
+| **CNHL Lightning 5500 LiHV** | 149 × 51 × 31 | ✅ 11mm spare | ❌ **1mm over** | ✅ 4mm under nominal | Only one that fits the 35mm nominal height, but it's over on width |
+| Zeee 5200 100C (running) | 🚧 TBD | — | — | — | Measure the pack that's already in the car |
+
+**What this settles:** the **Ultra-Thin 6000 is the only one that fits without an argument** — and it's also lighter (479g) than the pack currently in the car (518g) while carrying 800mAh more. The pack the [weight rule](#notes) was written to exclude turns out to be the one that fits best.
+
+The other two each need a concession: the **5200 is 0.23mm short of touching** on length, which is measurement noise, not clearance; the **5500 is 1mm over on width**, and while it's a soft case that may compress into an alum holder, that's a squeeze against a hard mount, not a fit.
+
+---
+
 ## Capacity comparison (why 5000-5400)
 
 > *Spec format: Cells · Capacity · C-rating · Weight · Connector · Size · Price*
