@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="240">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf_annotated.jpg" width="240">&nbsp;<img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="240">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_shoulder_screw.jpg" width="90"><br>
-  <em>stock #9033 front · G-Maxx carbon, rear only · HB / HPI 67410 standoffs, not the kit cylinders · the wheelie bar shoulder screw</em>
+  <em>stock #9033 front · G-Maxx carbon, rear only · HB / HPI 67410 standoffs, not the kit's aluminium ones · the wheelie bar shoulder screw</em>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 **Rear, G-Maxx carbon fibre**
 
-- Takes the D8 big bores on the HPI Vorza Flux / HB 67410 standoffs ([`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting)). The cylinders in the kit get binned.
+- Takes the D8 big bores on the HPI Vorza Flux / HB 67410 standoffs ([`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting)). The kit's own aluminium standoffs get binned.
 - **Shocks mount ahead of the tower, Slash style.** The Jato hangs them off the back as standard, so this is a big move forward. The shock sits protected behind the tower and the mass comes off the very back of the car.
 - A few grams under either stock plastic rear tower once the metal wing brace is off, which this car can do because the [Jato 3.3 shell](aero_analysis.md) has an integrated wing and no separate mount.
 
@@ -193,9 +193,9 @@ Either one, which lowers the front of the car and shortens the lever arm that ma
 - **Rear only.** CF takes the **larger D8 big-bore shocks** on the **HPI Vorza Flux / HB 67410 standoffs**, and at the rear the crash risk below matters far less than it does up front.
 - **Not used up front, and the shock covers are why as much as the crash risk.** CF leaves the shock caps exposed, so it needs **3D-printed covers** added back (in hand, bought to test). Stock #9033 already protects them. Adding standoffs, longer screws and printed covers to a $33 set, to end up where a $6 part starts, isn't a trade worth making.
 - 3K carbon fiber, presumed 4mm (same as stock); sold by MonsterKingz on eBay. **In hand (bought to test).**
-- **Bin the standoffs it ships with.** The kit includes 1 inch aluminium cylinders held by tiny 3mm screws, and a screw that long and that thin **will bend**. The **HPI Vorza Flux / HB 67410** standoffs replace them and are what's actually running. Worth counting against the $33.29: the set arrives needing its own hardware thrown away.
+- **Bin the aluminium standoffs it ships with.** They're 1 inch long and held by tiny 3mm screws, and a screw that long and that thin **will bend**. The **HPI Vorza Flux / HB 67410** standoffs replace them and are what's actually running. Worth counting against the $33.29: the set arrives needing its own hardware thrown away.
 
-<p align="center"><img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="500"><br><em>HB / HPI Vorza Flux 67410 standoffs, used instead of the aluminium cylinders in the G-Maxx kit</em></p>
+<p align="center"><img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="500"><br><em>HB / HPI Vorza Flux 67410 standoffs, used instead of the G-Maxx kit's own aluminium standoffs</em></p>
 
 - **In my experience, CF towers basically explode the front end of the Jato 4x4 on a direct tower crash.**
 - Why it's worse on a Jato than a Slash 4x4: the Jato's front tower is **taller**. A taller tower = longer lever arm, so a hit on the tower delivers far more force into the front bulkhead and diff than the same hit on a Slash's shorter front tower. Composite flexes through that load; brittle CF transmits all of it.
