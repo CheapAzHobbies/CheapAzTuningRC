@@ -18,6 +18,7 @@
 | **LVC set to 3.4V/cell** | Must | Premo #2 was lost to over discharge. It got there by self discharging in storage, not by being run flat |
 | **Fits the Revo battery trays** | Must | Whatever goes in has to physically fit and strap down. Verify L × W × H per pack |
 | **Shorty form factor** | May | What the car has always run and what drops in without thinking about it. A longer pack is fine if the tray genuinely takes it |
+| **XT60 or EC5 connector** | May | What the fleet is standardised on, so packs swap between cars without hunting for adapters. The ESC is XT90, so something gets adapted either way |
 | **Survives a raced, jumped 6S truck** | May | Durability has decided more battery calls here than peak output has |
 
 ---
@@ -52,5 +53,5 @@
 - **Pair weights against the 600g cap:** HOOVO **429g** (72% of budget), Zeee Premo **462g** (77%), SMC **554g** (92%). All three pass, so weight ranks them rather than eliminating any, but the SMC spends nearly the whole allowance and leaves no room to go up in capacity later.
 - **Buy in pairs, always.** Anything bought here costs 2× the per-pack price ($63.90 plus connectors for the SMC) because the car runs a series pair. Replace pairs together, from the same order.
 - **LVC stays at 3.4V/cell whatever goes in, and don't let packs sit.** Premo #2 was lost to over discharge, but it got there by sitting unused and self discharging, not by being run flat on track. Storage voltage checks matter as much as the LVC setting.
-- **Connectors:** the MAX8 G2S is XT90 and the Premos are XT60, so this car already runs adapters. SMC builds to any connector, so ordering XT90 (+$1.50) would be the first pack to match the ESC directly. Its free SC5 option is EC5/IC5 compatible, which suits the Jato fleet rather than this car.
+- **Connectors:** both the Zeee and the HOOVO are **XT60**, which is the preference and matches the rest of the fleet. The MAX8 G2S is **XT90**, so this car already runs adapters and will keep doing so with either of them. SMC is the odd one out in a useful way: it builds to any connector, so it could be ordered in XT90 and be the only pack that plugs straight into the ESC, or in its free SC5 (EC5/IC5 compatible) to swap with the Jato's EC5 packs.
 - **Still to log:** a measured capacity check on a Premo. SMC's spec honesty is the real argument for switching, so what's worth knowing is how far off Zeee's 4200 claim actually is on a pack with 93 cycles on it.
