@@ -4,7 +4,7 @@
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $69.28** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) | 2026-08-22 |
+| **Mike** | **≈ $63.28** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) − $20 payment (2026-08-27) + $14 2× filament rolls (2026-08-27) | 2026-08-27 |
 | **Henry** | **-$5.01 (I owe him)** | $234.99 Castle − $200 ESC payback − $40 payment (2026-08-27) | 2026-08-27 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
@@ -139,7 +139,10 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 89 | +$100.00 | Payment — $100 cash (2026-08-22) |
 | | **Checkpoint: -$33.28** | −$133.28 + #89 |
 | 90 | -$36.00 | Traxxas Jato 4x4 body, green (2026-08-22) |
-| | **➡️ Current: -$69.28 → Mike owes ≈ $69.28** | −$33.28 + #90 |
+| | **Checkpoint: -$69.28 → Mike owes ≈ $69.28** | −$33.28 + #90 |
+| 91 | +$20.00 | Payment (2026-08-27) |
+| 92 | -$14.00 | 2× filament rolls, $7 ea (2026-08-27) |
+| | **➡️ Current: -$63.28 → Mike owes ≈ $63.28** | −$69.28 + #91 + #92 |
 
 ### Flags to resolve
 
@@ -176,6 +179,7 @@ Log payments here as they come in, then update Mike's account + Outstanding Bala
 | 2026-08-15 | Mike | $170.00 | Cash | balance |
 | 2026-08-22 | Mike | $100.00 | Cash | balance |
 | 2026-08-27 | Henry | $40.00 | — | balance |
+| 2026-08-27 | Mike | $20.00 | — | balance |
 
 ---
 
