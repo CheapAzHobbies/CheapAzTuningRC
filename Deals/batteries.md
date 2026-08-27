@@ -20,12 +20,21 @@ At-a-glance: cheapest **per-pack** ever seen for each model I run / care about.
 | CNHL Racing Series 5200mAh 4S 90C (EC5) | LiPo | **$52.51** | 2026-08-26 | ChinaHobbyLine |
 | CNHL Lightning LiHV 5500mAh 4S 120C (EC5) | LiHV | **$54.46** | 2026-08-26 | ChinaHobbyLine |
 | CNHL Ultra-Thin Racing LiHV 6000mAh 4S 120C (EC5) | LiHV | **$71.00** | 2026-08-26 | ChinaHobbyLine |
+| HOOVO 3S 4200mAh 120C 11.4V shorty | LiPo | **$31.50/pack** ($62.99/2-pack) | 2026-08-27 | Amazon (sold by Hoovo) |
 
 ---
 
 ## Deal History — by Battery Model
 
 All recorded deals grouped by model, newest first within each group.
+
+### HOOVO 3S 4200mAh 120C 11.4V shorty (Amazon)
+
+Bought for the [E-Revo 1.0](../cars/ERevo_1.0/battery_analysis.md#pack-comparison) as the runner-up replacement pack. Gifted by Mike, booked to his account as a credit.
+
+| Date | Qty | Total | $/pack | Coupon | Source |
+|------|-----|-------|--------|--------|--------|
+| 2026-08-27 | 2 | **$62.99** | **$31.50** | — | Amazon (sold by Hoovo) — gift from Mike |
 
 ### CNHL 4S packs (ChinaHobbyLine)
 
