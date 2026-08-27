@@ -1,24 +1,11 @@
 # Shock Tower Selection — FastAzJato4x4
 
-> **Chosen: stock Traxxas composite #9033 front, G-Maxx carbon fibre rear.** Not the full CF set. This car is tail heavy, so the front keeps the tougher, simpler plastic tower and the rear sheds what it can. Stock plastic at both ends is the same layout for about $12.
+> **Chosen: stock Traxxas composite #9033 front, G-Maxx carbon fibre rear.** Not the full CF set. This car is tail heavy, so the front keeps the tougher, simpler plastic tower and the rear sheds what it can. The carbon rear is there because it **takes the Jato wing mount and keeps the shock positioning**, which the $6 Slash rear towers don't. On a Jato 3.3 shell that doesn't matter, and either Slash tower is fine for about $12 all in.
 
 <p align="center">
   <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="240">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf_annotated.jpg" width="240">&nbsp;<img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="240">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_axles_pair.jpg" width="120"><br>
   <em>stock #9033 front · G-Maxx carbon, rear only · HB / HPI 67410 standoffs, not the kit's aluminium ones · the two axles from TRA4976, which are the screws</em>
 </p>
-
----
-
-## Table of Contents
-
-- [Key Requirements](#key-requirements) — Must / May criteria for the tower pick
-- [Shock Tower Comparison](#shock-tower-comparison) — every tower option with specs and status
-- [Going lower: shorter front tower](#going-lower-the-shorter-slash-4x4-front-tower) — TRA6839 / 9038, and the shock work it needs
-- [Front Shock Mounting](#front-shock-mounting-wheelie-bar-shoulder-screws) — the wheelie bar screw, and which bar to buy
-- [Material Properties (Reference)](#material-properties-reference) — density, failure mode, aluminum nuance
-- [Detailed Notes](#detailed-notes) — bullet specs per option
-- [Related: Tower Bracing (Optional)](#related-tower-bracing-optional) — Traxxas TRA9061 brace analysis
-- [Sources](#sources)
 
 ---
 
@@ -33,18 +20,42 @@
 - The few grams plastic costs over carbon are welcome at the nose on a tail heavy car.
 - Shock uppers mount on wheelie bar shoulder screws. See [Front Shock Mounting](#front-shock-mounting-wheelie-bar-shoulder-screws).
 
+<p align="center"><img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="400"><br><em>Traxxas #9033, the chosen front, $6</em></p>
+
 **Rear, G-Maxx carbon fibre**
 
 - Takes the D8 big bores on the HPI Vorza Flux / HB 67410 standoffs ([`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting)). The kit's own aluminium standoffs get binned.
 - **Shocks mount ahead of the tower, Slash style.** The Jato hangs them off the back as standard, so this is a big move forward. The shock sits protected behind the tower and the mass comes off the very back of the car.
-- A few grams under either stock plastic rear tower once the metal wing brace is off, which this car can do because the [Jato 3.3 shell](aero_analysis.md) has an integrated wing and no separate mount.
+- **It takes the Jato 4x4 wing mount.** That's the real reason it's here rather than a $6 Slash tower, which won't. It keeps the option of going back to a separate wing without changing towers again, and it holds the shock positioning while doing it.
+- A few grams under either stock plastic rear tower once the metal wing brace is off, which this car can do because the [Jato 3.3 shell](aero_analysis.md) has an integrated wing and no separate mount. The weight is a bonus, not the reason.
+
+<p align="center"><img src="src/suspension_shock_tower_gmaxx_cf_annotated.jpg" width="400"><br><em>The G-Maxx set, rear tower circled, front tower unused</em></p>
 
 **The $12 version**
 
 - A Slash 4x4 rear tower, **TRA9039** or **TRA6838**, is **$6** and gives the same shock layout.
 - **It will not take the Jato 4x4 wing mount.** Neither version does, and their top body mount spacing differs from each other as well. Fitting a wing to one means fabricating a small aluminium plate.
-- **That doesn't bite on this car.** The [Jato 3.3 shell](aero_analysis.md) has an integrated wing and runs no separate wing or mount, so there's nothing needing to bolt up top. On a build still using the Jato wing mount, it's a real cost.
+- **That doesn't bite if you're on a Jato 3.3 shell.** It has an integrated wing and runs no separate wing or mount, so nothing needs to bolt up top and **either Slash tower is fine**. The carbon is only worth its price if you want the Jato wing mount available.
 - Carbon only sells as a **$33.29 set** whose front tower goes unused, and it arrives needing printed covers and different standoffs. Stock at both ends is about **$12** and a few grams heavier.
+
+<p align="center">
+  <img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra9039.jpg" width="400">&nbsp;<img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra6838.jpg" width="400"><br>
+  <em>TRA9039 Extreme HD · TRA6838 first gen, both $6, same shock holes</em>
+</p>
+
+---
+
+## Table of Contents
+
+- [Why this combination](#why-this-combination) — front, rear, and the $12 version
+- [Key Requirements](#key-requirements) — Must / May criteria for the tower pick
+- [Shock Tower Comparison](#shock-tower-comparison) — every tower option with specs and status
+- [Going lower: shorter front tower](#going-lower-the-shorter-slash-4x4-front-tower) — TRA6839 / 9038, and the shock work it needs
+- [Front Shock Mounting](#front-shock-mounting-wheelie-bar-shoulder-screws) — the wheelie bar screw, and which bar to buy
+- [Material Properties (Reference)](#material-properties-reference) — density, failure mode, aluminum nuance
+- [Detailed Notes](#detailed-notes) — bullet specs per option
+- [Related: Tower Bracing (Optional)](#related-tower-bracing-optional) — Traxxas TRA9061 brace analysis
+- [Sources](#sources)
 
 ---
 
