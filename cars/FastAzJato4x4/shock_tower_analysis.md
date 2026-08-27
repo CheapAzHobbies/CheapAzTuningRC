@@ -1,19 +1,8 @@
 # Shock Tower Selection — FastAzJato4x4
 
-> **Chosen: OEM Traxxas composite front #9033 + a carbon fibre rear.** Not the full CF set. Stock plastic both ends is a valid $12 build of the same layout — see below.
+> **Chosen: stock Traxxas composite #9033 front, G-Maxx carbon fibre rear.** Not the full CF set. This car is tail heavy, so the front keeps the tougher, simpler plastic tower and the rear sheds what it can. Stock plastic at both ends is the same layout for about $12.
 
-**Front, stock plastic.** Going CF up front meant long standoffs and long screws to reach the big-bore shocks, which is more parts, more length to bend, and it looks bad. Plastic is simpler and it sidesteps the failure this doc already worried about — a brittle CF front tower grenading the front end, worse on the Jato than a Slash because the Jato's front tower is taller and has more leverage. **Shock uppers mount on Traxxas wheelie bar shoulder screws**, which land the shock eye dead centre in the tower hole with no spacer stack. **Sourcing them is the catch:** Traxxas **doesn't sell the screw on its own**, so a wheelie bar kit is the only way to get a pair. The bars below all use the same shoulder screw, so buy on price and availability — the bar itself is irrelevant, it's the hardware you're after. **Only two are needed**, one per front shock, and the wheel axle screws are the usual pair to pull. But **every shoulder screw in the kit is the same one**, including the ones holding the frame together, so a single bar yields several and one kit covers the car plus spares.
-
-**Rear, G-Maxx carbon fiber** with the **HPI Vorza Flux (67410) standoffs** already in hand ([`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting)). **Shocks mount ahead of the tower, in the Slash position, not hung off the back.** That's a big move forward, not a nudge — the Jato hangs its rear shocks behind the tower as standard, so this takes that mass off the very back of the car. That tucks the shock behind the tower where it's protected instead of leading with it, and pulls the mass forward toward the middle of the car. **It also comes out a few grams under either stock plastic rear tower** (Jato or Slash) once the metal rear wing brace is unscrewed — though a few grams is all it is, see the cheap way below — which this car can do, because the [Jato 3.3 shell](aero_analysis.md) carries its own integrated wing and runs no separate wing or mount, so there's nothing left for the brace to hold.
-
-**The cheap way to the same layout: a Slash 4x4 rear tower, $6.** Either version works — the Extreme HD **TRA9039** or the first-gen **TRA6838** — **their shock mounting holes are dimensionally the same**, so pick on price and stock. (**Their top body mount spacing does differ**, so check that against whatever mounts up top.) That gets the shocks mounted ahead of the tower exactly as below for a few grams more than carbon. **The carbon only sells as a $33.29 set**, and this build doesn't use its front tower, so buying it means paying for a front tower that goes in a drawer. **Stock plastic both ends is about $12 all in** (~$6 front #9033 + $6 rear) against $33.29, and the difference is a few grams.
-
-**Both ends are solving the same problem.** The car sits tail heavy because the motor lives behind the rear axle. So the front takes the heavier, simpler, tougher plastic tower, and the rear sheds everything it can — carbon instead of plastic, the wing brace off, and the shocks moved forward of the tower. Weight comes off the back and stays on the nose, which is the direction this chassis needs.
-
-<p align="center">
-  <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="500">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf_annotated.jpg" width="500"><br>
-  <em>Stock composite #9033, the chosen front · G-Maxx carbon set, rear tower circled, the front tower goes unused</em>
-</p>
+<p align="center"><img src="src/suspension_shock_tower_hero_build.jpg" width="600"><br><em>The build: stock composite front, carbon rear with the kit front tower unused, on HPI 67410 standoffs instead of the cylinders the kit ships</em></p>
 
 ---
 
@@ -27,6 +16,30 @@
 - [Detailed Notes](#detailed-notes) — bullet specs per option
 - [Related: Tower Bracing (Optional)](#related-tower-bracing-optional) — Traxxas TRA9061 brace analysis
 - [Sources](#sources)
+
+---
+
+## Why this combination
+
+**Front, stock plastic (#9033, $6)**
+
+- Carbon needs long standoffs and long screws to reach the big bores. More parts, more length to bend, and it looks bad.
+- Carbon leaves the shock caps exposed and wants 3D printed covers. The stock tower protects them as it comes.
+- A brittle front tower grenades the front end on a direct hit, worse on a Jato than a Slash because the Jato tower is taller and has more leverage.
+- Lines up on the FLM arms using the spacers those arms already ship with. No shimming.
+- The few grams plastic costs over carbon are welcome at the nose on a tail heavy car.
+- Shock uppers mount on wheelie bar shoulder screws. See [Front Shock Mounting](#front-shock-mounting-wheelie-bar-shoulder-screws).
+
+**Rear, G-Maxx carbon fibre**
+
+- Takes the D8 big bores on the HPI Vorza Flux / HB 67410 standoffs ([`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting)). The cylinders in the kit get binned.
+- **Shocks mount ahead of the tower, Slash style.** The Jato hangs them off the back as standard, so this is a big move forward. The shock sits protected behind the tower and the mass comes off the very back of the car.
+- A few grams under either stock plastic rear tower once the metal wing brace is off, which this car can do because the [Jato 3.3 shell](aero_analysis.md) has an integrated wing and no separate mount.
+
+**The $12 version**
+
+- A Slash 4x4 rear tower, **TRA9039** or **TRA6838**, is **$6** and gives the same layout. Their shock holes match; only the top body mount spacing differs.
+- Carbon only sells as a **$33.29 set** whose front tower goes unused, and it arrives needing printed covers and different standoffs. Stock at both ends is about **$12** and a few grams heavier.
 
 ---
 
