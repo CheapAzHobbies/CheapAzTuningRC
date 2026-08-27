@@ -34,6 +34,7 @@
 **The $12 version**
 
 - A Slash 4x4 rear tower, **TRA9039** or **TRA6838**, is **$6** and gives the same shock layout.
+- **Budget two more shoulder screws for it.** The rear shocks mount the same way as the front, so the $12 of towers is really about **$20** once a second [TRA4976 set](#which-bar-to-buy) is added for the rear pair.
 - **It will not take the Jato 4x4 wing mount.** Neither version does, and their top body mount spacing differs from each other as well. Fitting a wing to one means fabricating a small aluminium plate.
 - **That doesn't bite if you're on a Jato 3.3 shell.** It has an integrated wing and runs no separate wing or mount, so nothing needs to bolt up top and **either Slash tower is fine**. The carbon is only worth its price if you want the Jato wing mount available.
 - Carbon only sells as a **$33.29 set** whose front tower goes unused, and it arrives needing printed covers and different standoffs. Stock at both ends is about **$12** and a few grams heavier.
@@ -109,13 +110,13 @@ The front shock uppers mount on **Traxxas wheelie bar shoulder screws**, which s
 
 ### Which bar to buy
 
-**Two shoulder screws is all this needs**, one per front shock. Traxxas doesn't sell the screw on its own, but **you don't need a whole wheelie bar for it either**: the wheels and axles set, **TRA4976 at $4**, contains exactly two axles, and the axle is the screw. **One set does the job with nothing left over.**
+**Two shoulder screws for the front**, one per shock. **Four if the rear runs Slash towers too**, since those want the same screw at each rear shock. Traxxas doesn't sell the screw on its own, but **you don't need a whole wheelie bar for it either**: the wheels and axles set, **TRA4976 at $4**, contains exactly two axles, and the axle is the screw. **One set does the front with nothing left over, two sets ($8) does the whole car.**
 
 **Every shoulder screw in a bar is the same one**, frame screws included, so a full kit yields several. The ones on this car came off **a free wheelie bar**, so nothing was bought for them.
 
-**Two are needed for the front.** If the rear also runs OEM plastic towers (EHD **TRA9039** or the standard Slash type) it wants more.
+**Two for the front, four for the whole car** if the rear runs OEM plastic towers (EHD **TRA9039** or the standard Slash type).
 
-**Buy TRA4976 unless you want the bar.** $4 covers both screws, which is cheaper outright and per screw than any complete bar. A full bar only makes sense if you want more than two, and there the Revo's 6 for $20 works out best at $2 to $3.33 each.
+**Buy TRA4976 unless you want the bar.** $4 covers the front, $8 covers all four if the rear is on Slash towers. Still cheaper per screw than any complete bar, and cheaper outright than the Revo bar's six for $20. A full bar only makes sense if you want more than two, and there the Revo's 6 for $20 works out best at $2 to $3.33 each.
 
 | Wheelie bar | Part | Fits | Screws | Price | $/screw |
 |:---|:---:|:---|:---:|:---:|:---:|
