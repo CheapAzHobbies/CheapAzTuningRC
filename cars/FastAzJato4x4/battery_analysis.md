@@ -8,11 +8,13 @@
 
 ## Key Requirements
 
+> **These are set to match [Mike's Jato 4x4](../Jato4x4_Mike/README.md), so packs stay shared between the two cars.** Same 4S, same connector, same size envelope. Buying to one spec means either truck can run any pack in the pile, which is worth more than optimising this car alone. 🚧 Mike's battery specs aren't written down yet, so this is the working assumption until they are.
+
 | Requirement | Type | Why |
 |---|---|---|
 | **4S (14.8V)** | Must | The MAX10 G2 + 3665SD 2400KV combo is geared/tuned for 4S |
 | **Light** | Must | **This is the real constraint.** Every pack in the table gets ranked on grams, because on this chassis weight is what hurts handling. Nothing else here is a hard limit |
-| **Under 40mm tall, 35mm or less preferred** | May | Two reasons. Lower is better for CG, and **staying under 40mm keeps packs swappable with [Mike's Jato](../Jato4x4_Mike/README.md)**. 37mm can be forced in if a pack is worth it |
+| **Under 40mm tall, 35mm or less preferred** | May | Lower is better for CG, and 40mm is the ceiling that keeps packs swappable with Mike's Jato. 37mm can be forced in if a pack is worth it |
 | **Hard case preferred** | May | **The sand at Meldrum chafes soft packs.** Grit gets into the tray and works at the shrink wrap, so a hard case earns its slightly higher weight. Not a rule, the pack running now is soft case, but it counts against a soft one when two are close |
 | **4000-5500mAh** | May | Run time preference, not a rule. **Capacity is a poor proxy for weight**, a 6000 can undercut a 5000 depending on chemistry and construction, so the gram figure decides rather than the mAh |
 | **Under 163mm long, 50mm wide or less** | Must | Length is the easy one, nothing here comes close to 163mm. **Width is 50mm for a hard case and about 51mm for a soft one**, since a soft pack squeezes in and a hard one won't |
