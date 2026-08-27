@@ -36,7 +36,7 @@ Bought as a set of three for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_a
 | 2026-08-26 | Racing Series 5200mAh 90C | 1 | **$52.51** | $53.99 | WELCOME | ChinaHobbyLine |
 | 2026-08-26 | Lightning LiHV 5500mAh 120C | 1 | **$54.46** | $55.99 | WELCOME | ChinaHobbyLine |
 | 2026-08-26 | Ultra-Thin Racing LiHV 6000mAh 120C | 1 | **$71.00** | $72.99 | WELCOME | ChinaHobbyLine |
-| | **Order total** | **3** | **$177.97** | $182.97 | −$5.00 | Free shipping (over $159) |
+| | **Order total** | **3** | **$177.97** | $182.97 | −$5.00 | Free shipping (over $159) — Order #20269753705 |
 
 - **`WELCOME`** — first-order discount, ~2.75% per line. Small, but it stacks on top of already-listed prices.
 - **Free shipping over $159**, so a three-pack order pays its own freight; a single pack would not.

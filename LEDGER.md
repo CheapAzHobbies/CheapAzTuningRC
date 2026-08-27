@@ -4,7 +4,7 @@
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $63.28** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) − $20 payment (2026-08-27) + $14 2× filament rolls (2026-08-27) | 2026-08-27 |
+| **Mike** | **≈ $241.25** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) − $20 payment (2026-08-27) + $14 2× filament rolls (2026-08-27) + $177.97 3× CNHL batteries, order #20269753705 (2026-08-27) | 2026-08-27 |
 | **Henry** | **-$5.01 (I owe him)** | $234.99 Castle − $200 ESC payback − $40 payment (2026-08-27) | 2026-08-27 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
@@ -142,7 +142,8 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | | **Checkpoint: -$69.28 → Mike owes ≈ $69.28** | −$33.28 + #90 |
 | 91 | +$20.00 | Payment (2026-08-27) |
 | 92 | -$14.00 | 2× filament rolls, $7 ea (2026-08-27) |
-| | **➡️ Current: -$63.28 → Mike owes ≈ $63.28** | −$69.28 + #91 + #92 |
+| 93 | -$177.97 | 3× CNHL LiPo/LiHV batteries (Racing Series 5200mAh, Ultra-Thin 6000mAh, Lightning 5500mAh) — order #20269753705, ChinaHobbyLine (2026-08-26); see [Deals/batteries.md](Deals/batteries.md) |
+| | **➡️ Current: -$241.25 → Mike owes ≈ $241.25** | −$63.28 + #93 |
 
 ### Flags to resolve
 
