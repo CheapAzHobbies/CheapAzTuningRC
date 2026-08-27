@@ -3,8 +3,8 @@
 > **Chosen: stock Traxxas composite #9033 front, G-Maxx carbon fibre rear.** Not the full CF set. This car is tail heavy, so the front keeps the tougher, simpler plastic tower and the rear sheds what it can. Stock plastic at both ends is the same layout for about $12.
 
 <p align="center">
-  <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="240">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf_annotated.jpg" width="240">&nbsp;<img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="240">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_shoulder_screw.jpg" width="90"><br>
-  <em>stock #9033 front · G-Maxx carbon, rear only · HB / HPI 67410 standoffs, not the kit's aluminium ones · the wheelie bar shoulder screw</em>
+  <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="240">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf_annotated.jpg" width="240">&nbsp;<img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="240">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_axles_pair.jpg" width="120"><br>
+  <em>stock #9033 front · G-Maxx carbon, rear only · HB / HPI 67410 standoffs, not the kit's aluminium ones · the two axles from TRA4976, which are the screws</em>
 </p>
 
 ---
@@ -70,14 +70,14 @@
 | Tower | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **MonsterKingz (G-Maxx) Carbon Fiber set** — *rear only chosen; in hand* | **Material:** 3K CFRP<br><br>**Thickness:** **4mm** (confirmed)<br><br>**Dimensions:** N/A<br><br>**Weight:** **Front 12.3g · rear 24.4g measured**, front is ~5g lighter than the 17.2g stock front, but **rear is heavier than stock** (stock rear TRA9039 presumed ~17g), nets out to **not much lighter overall**, matching the real-world verdict below<br><br>**Failure mode:** Catastrophic snap (no warning)<br><br>**Price:** [$33.29 / set](https://www.ebay.com/itm/236159423243), set only, no individual towers | Pro: **Chosen. Fits the larger D8 big-bore shocks better** with the HPI Vorza Flux shock standoffs (67410 = the HB HBS67410 in hand). Stiffer than composite per gram. **3D-printed shock covers** shield the shock caps the CF doesn't. Already in hand (bought to test earlier)<br><br>Con: ⚠️ **Accepted risk.** In my experience a brittle CF **front** tower can grenade the whole Jato front end in a direct tower hit, the Jato's tall front tower has more leverage than a Slash's, and CF **snaps catastrophically, no warning**. The 3D covers protect the shock caps, not the tower itself. Not much lighter than stock. **Set-only (break one, buy two), eBay-only.** The stock #9033 / TRA9039 stays as the fallback | <a href="https://www.ebay.com/itm/236159423243"><img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="500"></a><br><img src="src/suspension_shock_tower_gmaxx_cf_front_weight.jpg" width="250"> <img src="src/suspension_shock_tower_gmaxx_cf_rear_weight.jpg" width="250"><br><em>front, 12.3g · rear, 24.4g</em> |
-| ⭐ **Traxxas Jato 4x4 Front Tower #9033** — *chosen front; simpler than CF up front* | **Material:** Glass-filled nylon<br><br>**Thickness:** ~4mm<br><br>**Dimensions:** N/A<br><br>**Weight:** **17.2g measured (gray)**, real baseline, supersedes the old ~30-40g estimate<br><br>**Failure mode:** Flexes, cracks gradually (sacrificial)<br><br>**Price:** ~$6 | Pro: Correct height for Jato 4x4 geometry. Sacrificial, stocked at hobby stores, cheap to replace. **The mount shape protects the shock cap**, land upside down and the tower takes the hit instead of the shock cap scratching/digging into the ground. Light (17.2g) and simple, no extra parts needed, unlike the CF option which needs spacers and other extra bits to fit<br><br>Con: Less stiff than CF | <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="500"><br><img src="src/suspension_shock_tower_traxxas_stock_front_9033_weight.jpg" width="500"><br><em>17.2g on scale</em> |
-| 🔵 **Traxxas Slash 4x4 Front Tower TRA6839 / 9038-GRAY** — *(shorter front, lower CG, needs shock work)* | **Material:** Composite<br><br>**Thickness:** N/A<br><br>**Dimensions:** N/A<br><br>**Weight:** N/A<br><br>**Failure mode:** Flexes, cracks gradually (sacrificial)<br><br>**Price:** **$6.00** (either part) | Pro: **Shorter than the Jato 4x4 front tower**, so it drops the front of the car and shortens the lever arm on a tower hit, the thing that makes a Jato front tower dangerous in the first place. Same $6<br><br>Con: **The big-bore shocks don't just bolt to it** — being shorter, it needs either modified shock eyelets or shorter shocks. See below. Not a drop-in | <img src="src/suspension_shock_tower_traxxas_slash4x4_front_tra6839.jpg" width="400"> |
-| 🟢 **Traxxas Slash 4x4 Extreme HD Rear Tower TRA9039** — *(the budget rear, $6)* | **Material:** Glass-filled nylon (Extreme HD)<br><br>**Thickness:** ~4mm<br><br>**Dimensions:** N/A<br><br>**Weight:** Not yet measured, presumably close to the front #9033's **17.2g measured**, TBD<br><br>**Failure mode:** Flexes, cracks gradually (sacrificial)<br><br>**Price:** $6.00 (AMain) | Pro: Slash 4x4 tower geometry, shocks centered and forward, protected from rear impacts. Meelobee aluminum plate on top accepts TRA9046 Jato 4x4 OEM wing mount. $6.00, same price as Jato stock. Available in multiple colors<br><br>Con: **Won't take the Jato 4x4 wing mount**, so fitting a wing means **fabricating a small aluminium plate**. Its top body mount holes also differ from the TRA6838, though the shock holes match, so the two swap freely for shocks and not for anything up top. Traxxas lists it for the **TRA9080 HD Upgrade Kit**, so confirm the fit on a Jato chassis before ordering | <img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra9039.jpg" width="500"> |
-| 🟢 **Traxxas Slash 4x4 First Gen Rear Tower TRA6838** — *(budget rear; same shock holes as the 9039, different top body mounts)* | **Material:** Hardened plastic<br><br>**Thickness:** N/A<br><br>**Dimensions:** 87.5mm × 60.5mm<br><br>**Weight:** **19.1g measured**, a bit heavier than stock<br><br>**Failure mode:** Flexes, cracks gradually (sacrificial)<br><br>**Price:** $6.00 (RC Superstore) | Pro: First gen Slash 4x4 tower, same Slash 4x4 geometry, also $6.00. May be easier to source locally<br><br>Con: **The top body mount hole spacing differs from the TRA9039 Extreme HD** — that's the upper mounting holes, **not the shock holes**, which match. So the two are interchangeable for mounting shocks and not interchangeable for whatever bolts to the top; verify which pattern the Meelobee plate is designed for. Less robust than TRA9039. **Slightly heavier than stock (19.1g measured), and that extra weight sits up high** at the rear wing mount, right where added mass hurts most | <img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra6838.jpg" width="500"><br><img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra6838_weight.jpg" width="500"><br><em>19.1g on scale</em> |
-| 🚫 ~~Cobra Racing 7075-T6 Aluminum (set)~~ | **Material:** 7075-T6 aluminum<br><br>**Thickness:** ~4mm<br><br>**Dimensions:** N/A<br><br>**Weight:** ~55-75 g per tower (**~3-4× heavier than the 17.2g measured stock tower**)*<br><br>**Failure mode:** Bends or transfers force to mounts<br><br>**Price:** $49.95 / set, set only, no individual towers | Pro: Tower itself rarely breaks<br><br>Con: **Fails the weight Must, ~3-4× heavier than stock.** Transfers impact straight to the trans case (known Jato killer). Permanent geometry distortion when bent. Set-only purchase; direct from Cobra Racing, no walk-in | <a href="https://cobraracing.net/product/cr-traxxas-jato-bl-2s-vxl-4s-4x4-black-aluminum-shock-towers-complete-set/"><img src="src/suspension_shock_tower_cobra_alum.jpg" width="500"></a> |
-| 🚫 ~~Powerhobby Aluminum (set)~~ | **Material:** 7075-T6 aluminum<br><br>**Thickness:** ~4mm<br><br>**Dimensions:** N/A<br><br>**Weight:** ~55-75 g per tower (**~3-4× heavier than the 17.2g measured stock tower**)*<br><br>**Failure mode:** Transfers force to mounts<br><br>**Price:** $39.99 / set, set only, no individual towers | Pro: Cheaper aluminum option than Cobra<br><br>Con: **Fails the weight Must.** Same aluminum-passes-force-to-trans-case problem. Set-only purchase; Powerhobby online only | <img src="src/suspension_shock_tower_powerhobby_alum.jpg" width="500"> |
-| 🚫 ~~GPM 7075-T6 Aluminum, Jato 4x4 fit (TJ028 / TJ030)~~ | **Material:** 7075-T6 aluminum<br><br>**Thickness:** ~4mm<br><br>**Dimensions:** N/A<br><br>**Weight:** ~55-75 g per tower (**~3-4× heavier than the 17.2g measured stock tower**)*<br><br>**Failure mode:** Transfers force to mounts<br><br>**Price:** $27.90 front (TJ028) / $28.90 rear (TJ030) | Pro: Color options, correct Jato 4x4 geometry<br><br>Con: **Fails the weight Must.** Same aluminum failure-cascade issue; sold per-tower so a full set is ~$57 | <img src="src/suspension_shock_tower_gpm_alum_tj028_front.jpg" width="500"> <img src="src/suspension_shock_tower_gpm_alum_tj030_rear.jpg" width="500"><br><em>TJ028 front · TJ030 rear (Jato 4x4 fit)</em> |
-| 🚫 ~~GPM 7075-T6 Aluminum, Slash 4x4 (SLA028 / SLA030)~~ | **Material:** 7075-T6 aluminum<br><br>**Thickness:** ~4mm<br><br>**Dimensions:** N/A<br><br>**Weight:** ~55-75 g per tower (**~3-4× heavier than the 17.2g measured stock tower**)*<br><br>**Failure mode:** Transfers force to mounts<br><br>**Price:** ~$28 each | Pro: GPM's most common shock tower set, lots of color options<br><br>Con: **Slash 4x4 front tower bolts up to the Jato but is the wrong height**, the Jato's front tower is taller, so the SLA028 throws the suspension geometry off (incorrect shock angle and droop). Also fails the weight Must like all aluminum. Listed here so it's not mistakenly ordered for a Jato build | <img src="src/suspension_shock_tower_gpm_alum_sla028_front.jpg" width="500"> <img src="src/suspension_shock_tower_gpm_alum_sla030_rear.jpg" width="500"><br><em>SLA028 front · SLA030 rear, Slash 4x4 only</em> |
+| ⭐ **Traxxas Jato 4x4 Front Tower #9033** — *chosen front; simpler than CF up front* | **Material:** Glass-filled nylon<br><br>**Thickness:** N/A<br><br>**Dimensions:** N/A<br><br>**Weight:** **17.2g measured (gray)**, real baseline, supersedes the old ~30-40g estimate<br><br>**Failure mode:** Flexes, cracks gradually (sacrificial)<br><br>**Price:** ~$6 | Pro: Correct height for Jato 4x4 geometry. Sacrificial, stocked at hobby stores, cheap to replace. **The mount shape protects the shock cap**, land upside down and the tower takes the hit instead of the shock cap scratching/digging into the ground. Light (17.2g) and simple, no extra parts needed, unlike the CF option which needs spacers and other extra bits to fit<br><br>Con: Less stiff than CF | <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="500"><br><img src="src/suspension_shock_tower_traxxas_stock_front_9033_weight.jpg" width="500"><br><em>17.2g on scale</em> |
+| 🔵 **Traxxas Slash 4x4 Front Tower TRA6839 / 9038-GRAY** — *(shorter front, lower CG, needs shock work)* | **Material:** Composite<br><br>**Thickness:** N/A<br><br>**Dimensions:** N/A<br><br>**Weight:** N/A<br><br>**Failure mode:** Flexes, cracks gradually (sacrificial)<br><br>**Price:** **$6.00** (either part) | Pro: **Shorter than the Jato 4x4 front tower**, so it drops the front of the car and shortens the lever arm on a tower hit, the thing that makes a Jato front tower dangerous in the first place. Same $6<br><br>Con: **The big-bore shocks don't just bolt to it**, being shorter, it needs either modified shock eyelets or shorter shocks. See below. Not a drop-in | <img src="src/suspension_shock_tower_traxxas_slash4x4_front_tra6839.jpg" width="400"> |
+| 🟢 **Traxxas Slash 4x4 Extreme HD Rear Tower TRA9039** — *(the budget rear, $6)* | **Material:** Glass-filled nylon (Extreme HD)<br><br>**Thickness:** N/A<br><br>**Dimensions:** N/A<br><br>**Weight:** Not yet measured, presumably close to the front #9033's **17.2g measured**, TBD<br><br>**Failure mode:** Flexes, cracks gradually (sacrificial)<br><br>**Price:** $6.00 (AMain) | Pro: Slash 4x4 tower geometry, shocks centered and forward, protected from rear impacts. Meelobee aluminum plate on top accepts TRA9046 Jato 4x4 OEM wing mount. $6.00, same price as Jato stock. Available in multiple colors<br><br>Con: **Won't take the Jato 4x4 wing mount**, so fitting a wing means **fabricating a small aluminium plate**. Its top body mount holes also differ from the TRA6838, though the shock holes match, so the two swap freely for shocks and not for anything up top. Traxxas lists it for the **TRA9080 HD Upgrade Kit**, so confirm the fit on a Jato chassis before ordering | <img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra9039.jpg" width="500"> |
+| 🟢 **Traxxas Slash 4x4 First Gen Rear Tower TRA6838** — *(budget rear; same shock holes as the 9039, different top body mounts)* | **Material:** Hardened plastic<br><br>**Thickness:** N/A<br><br>**Dimensions:** 87.5mm × 60.5mm<br><br>**Weight:** **19.1g measured**, a bit heavier than stock<br><br>**Failure mode:** Flexes, cracks gradually (sacrificial)<br><br>**Price:** $6.00 (RC Superstore) | Pro: First gen Slash 4x4 tower, same Slash 4x4 geometry, also $6.00. May be easier to source locally<br><br>Con: **The top body mount hole spacing differs from the TRA9039 Extreme HD**. That's the upper mounting holes, **not the shock holes**, which match. So the two are interchangeable for mounting shocks and not interchangeable for whatever bolts to the top; verify which pattern the Meelobee plate is designed for. Less robust than TRA9039. **Slightly heavier than stock (19.1g measured), and that extra weight sits up high** at the rear wing mount, right where added mass hurts most | <img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra6838.jpg" width="500"><br><img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra6838_weight.jpg" width="500"><br><em>19.1g on scale</em> |
+| 🚫 ~~Cobra Racing 7075-T6 Aluminum (set)~~ | **Material:** 7075-T6 aluminum<br><br>**Thickness:** N/A<br><br>**Dimensions:** N/A<br><br>**Weight:** ~55-75 g per tower (**~3-4× heavier than the 17.2g measured stock tower**)*<br><br>**Failure mode:** Bends or transfers force to mounts<br><br>**Price:** $49.95 / set, set only, no individual towers | Pro: Tower itself rarely breaks<br><br>Con: **Fails the weight Must, ~3-4× heavier than stock.** Transfers impact straight to the trans case (known Jato killer). Permanent geometry distortion when bent. Set-only purchase; direct from Cobra Racing, no walk-in | <a href="https://cobraracing.net/product/cr-traxxas-jato-bl-2s-vxl-4s-4x4-black-aluminum-shock-towers-complete-set/"><img src="src/suspension_shock_tower_cobra_alum.jpg" width="500"></a> |
+| 🚫 ~~Powerhobby Aluminum (set)~~ | **Material:** 7075-T6 aluminum<br><br>**Thickness:** N/A<br><br>**Dimensions:** N/A<br><br>**Weight:** ~55-75 g per tower (**~3-4× heavier than the 17.2g measured stock tower**)*<br><br>**Failure mode:** Transfers force to mounts<br><br>**Price:** $39.99 / set, set only, no individual towers | Pro: Cheaper aluminum option than Cobra<br><br>Con: **Fails the weight Must.** Same aluminum-passes-force-to-trans-case problem. Set-only purchase; Powerhobby online only | <img src="src/suspension_shock_tower_powerhobby_alum.jpg" width="500"> |
+| 🚫 ~~GPM 7075-T6 Aluminum, Jato 4x4 fit (TJ028 / TJ030)~~ | **Material:** 7075-T6 aluminum<br><br>**Thickness:** N/A<br><br>**Dimensions:** N/A<br><br>**Weight:** ~55-75 g per tower (**~3-4× heavier than the 17.2g measured stock tower**)*<br><br>**Failure mode:** Transfers force to mounts<br><br>**Price:** $27.90 front (TJ028) / $28.90 rear (TJ030) | Pro: Color options, correct Jato 4x4 geometry<br><br>Con: **Fails the weight Must.** Same aluminum failure-cascade issue; sold per-tower so a full set is ~$57 | <img src="src/suspension_shock_tower_gpm_alum_tj028_front.jpg" width="500"> <img src="src/suspension_shock_tower_gpm_alum_tj030_rear.jpg" width="500"><br><em>TJ028 front · TJ030 rear (Jato 4x4 fit)</em> |
+| 🚫 ~~GPM 7075-T6 Aluminum, Slash 4x4 (SLA028 / SLA030)~~ | **Material:** 7075-T6 aluminum<br><br>**Thickness:** N/A<br><br>**Dimensions:** N/A<br><br>**Weight:** ~55-75 g per tower (**~3-4× heavier than the 17.2g measured stock tower**)*<br><br>**Failure mode:** Transfers force to mounts<br><br>**Price:** ~$28 each | Pro: GPM's most common shock tower set, lots of color options<br><br>Con: **Slash 4x4 front tower bolts up to the Jato but is the wrong height**, the Jato's front tower is taller, so the SLA028 throws the suspension geometry off (incorrect shock angle and droop). Also fails the weight Must like all aluminum. Listed here so it's not mistakenly ordered for a Jato build | <img src="src/suspension_shock_tower_gpm_alum_sla028_front.jpg" width="500"> <img src="src/suspension_shock_tower_gpm_alum_sla030_rear.jpg" width="500"><br><em>SLA028 front · SLA030 rear, Slash 4x4 only</em> |
 
 ---
 
@@ -89,11 +89,11 @@
 
 The front shock uppers mount on **Traxxas wheelie bar shoulder screws**, which sit the shock eye dead centre in the #9033 tower hole with no spacer stack.
 
-**It has to be the wheelie bar screw, not any shoulder screw.** The one that works has a **long smooth shoulder and a long thread**; a standard shoulder screw is stubby at both. That long unthreaded shank is the whole point — it is what the shock eye pivots on, and it is long enough to sit the eye centred in the tower hole while the thread still reaches deep enough to hold. Swap in a standard one and there is not enough smooth shank to bear on.
+**It has to be the wheelie bar screw, not any shoulder screw.** The one that works has a **long smooth shoulder and a long thread**; a standard shoulder screw is stubby at both. That long unthreaded shank is the whole point. It is what the shock eye pivots on, and it is long enough to sit the eye centred in the tower hole while the thread still reaches deep enough to hold. Swap in a standard one and there is not enough smooth shank to bear on.
 
 <p align="center">
-  <img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" width="360">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_shoulder_screw.jpg" width="120">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_wheels_axles_tra4976.jpg" width="240"><br>
-  <em>the pair, wheelie bar screw left and a standard one right · the wheelie bar screw on its own · TRA4976 wheels and axles, $4, the cheapest source of it</em>
+  <img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" width="400">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_wheels_axles_tra4976.jpg" width="400"><br>
+  <em>the wheelie bar screw beside a standard shoulder screw · TRA4976, four wheels and the two axles you actually want</em>
 </p>
 
 ### Which bar to buy
@@ -111,18 +111,17 @@ The front shock uppers mount on **Traxxas wheelie bar shoulder screws**, which s
 | ⭐ **Wheels + axles only** *(no bar needed)* | **TRA4976** | Revo wheelie bar | 2 | **$4.00** | **$2.00** |
 | **Revo / E-Revo** *(the free bar these came off)* | TRA5472 | Revo 2.5 / 3.3, E-Revo | **6** | $20.00 | $3.33 |
 | **Rustler 4x4** | **TRA6776** | Rustler 4x4 VXL / Brushed | ~2 | **$10.00** | $5.00 |
-| Sledge | TRA9576 | Sledge (9576X blue) | n/a | n/a | — |
 | Slash 2WD / Stampede / Rustler / Bandit | TRA3678 | 2WD models | n/a | n/a | — |
 | Drag Slash | 9460 | Bandit, 2WD Rustler, 2WD Slash LCG | n/a | n/a | — |
 
-*Rustler count is from memory and unconfirmed — its product photo shows two wheel axles plus three loose fasteners, so it may be more than two. The Revo's 6 is counted.*
+*Rustler count is from memory and unconfirmed, its product photo shows two wheel axles plus three loose fasteners, so it may be more than two. The Revo's 6 is counted.*
 
-Fitting a bar to a Slash 4x4 or Rustler 4x4 also wants the **6777** mount off the Stampede 4x4 — irrelevant here, since only the screws are being used. **The Rustler 4x4 bar (TRA6776) is half the price of the Revo one at $10 against $20** and carries the same screws, so that's the one to buy. Remaining prices are n/a until checked.
+Fitting a bar to a Slash 4x4 or Rustler 4x4 also wants the **6777** mount off the Stampede 4x4, irrelevant here, since only the screws are being used. **The Rustler 4x4 bar (TRA6776) is half the price of the Revo one at $10 against $20** and carries the same screws, so that's the one to buy. Remaining prices are n/a until checked.
 
 <p align="center">
   <img src="src/suspension_traxxas_wheelie_bar_tra5472.jpg" width="330">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_tra6776.jpg" width="330"><br>
   <em>left: TRA5472 Revo bar, $20, 6 screws (the one in hand) · right: TRA6776 Rustler 4x4 bar, $10</em>
-</p> **The few grams plastic costs over CF don't matter up front** — this platform is tail heavy by design, the Slash layout puts the motor behind the rear axle, so weight added at the nose is working with the car rather than against it. It also **lines up properly with the FLM arms using the spacers the arms already come with** — no shimming, no packing it out, the geometry just lands where it should.
+</p> **The few grams plastic costs over CF don't matter up front**. This platform is tail heavy by design, the Slash layout puts the motor behind the rear axle, so weight added at the nose is working with the car rather than against it. It also **lines up properly with the FLM arms using the spacers the arms already come with** — no shimming, no packing it out, the geometry just lands where it should.
 
 ---
 
@@ -142,10 +141,10 @@ The Slash 4x4 front tower is **shorter than the Jato 4x4 one**. Two parts, same 
 
 Either one, which lowers the front of the car and shortens the lever arm that makes a Jato front tower hit so expensive. It won't take the D8 / HPI Vorza big-bores as they are, so there are two ways to make it work and neither is free:
 
-- **Modify the shock eyelets.** Drill the bottom eyelet down to where the pivot ball sits, trim a little off the top of the eyelet, and run the shock shaft all the way down close to the eyelet. **This keeps full stroke** — that's the point of doing it this way — at the cost of doing the work and doing it to every shock.
+- **Modify the shock eyelets.** Drill the bottom eyelet down to where the pivot ball sits, trim a little off the top of the eyelet, and run the shock shaft all the way down close to the eyelet. **This keeps full stroke**. That's the point of doing it this way — at the cost of doing the work and doing it to every shock.
 - **Run shorter Slash 4x4 shocks instead.** Simple, but **it loses travel and smoothness**, and it means **different shock lengths front and rear** rather than one length across the car.
 
-**Not doing either.** It's a genuinely lower centre of gravity and it isn't worth the hassle — the stock #9033 bolts on, keeps every shock the same, and keeps full travel. Logged because the option is real and cheap if the priority ever changes.
+**Not doing either.** It's a genuinely lower centre of gravity and it isn't worth the hassle. The stock #9033 bolts on, keeps every shock the same, and keeps full travel. Logged because the option is real and cheap if the priority ever changes.
 
 ---
 
@@ -180,7 +179,7 @@ Either one, which lowers the front of the car and shortens the lever arm that ma
 
 ## Detailed Notes
 
-### Traxxas Stock Composite (#9033 / #9034) — Chosen front
+### Traxxas Stock Composite (#9033 / #9034), Chosen front
 
 - Glass-filled nylon, ~4mm thickness
 - Front: TRA9033; Rear: TRA9034; both ~$6 each direct from Traxxas
@@ -188,9 +187,9 @@ Either one, which lowers the front of the car and shortens the lever arm that ma
 - Density ~1.5 g/cm³, basically identical to CFRP, so a 4mm CF tower won't be meaningfully lighter
 - Engineered as a sacrificial fuse: tower cracks first, chassis and trans case survive
 - Cracks gradually rather than snapping, often still drivable with a hairline crack, gets you back to the pit
-- **Shock cap protection is built into the tower.** CF has to have it added back with 3D-printed covers; the OEM tower comes with it. That's the whole argument in one line — the printed covers, the long standoffs and the long screws are all complexity and weight bolted on to make carbon do what the $6 stock part already does.
+- **Shock cap protection is built into the tower.** CF has to have it added back with 3D-printed covers; the OEM tower comes with it. That's the whole argument in one line. The printed covers, the long standoffs and the long screws are all complexity and weight bolted on to make carbon do what the $6 stock part already does.
 
-### MonsterKingz (G-Maxx) Carbon Fiber Set — Chosen rear only
+### MonsterKingz (G-Maxx) Carbon Fiber Set, Chosen rear only
 
 - **Rear only.** CF takes the **larger D8 big-bore shocks** on the **HPI Vorza Flux / HB 67410 standoffs**, and at the rear the crash risk below matters far less than it does up front.
 - **Not used up front, and the shock covers are why as much as the crash risk.** CF leaves the shock caps exposed, so it needs **3D-printed covers** added back (in hand, bought to test). Stock #9033 already protects them. Adding standoffs, longer screws and printed covers to a $33 set, to end up where a $6 part starts, isn't a trade worth making.
@@ -206,7 +205,7 @@ Either one, which lowers the front of the car and shortens the lever arm that ma
 - **Measured: front tower 12.3g, rear 24.4g.** In practice **not much lighter than stock**, so weight isn't why these are the pick, the **larger-shock fit** (with the 67410 standoffs, need **2 pairs**) is. The failure mode is the accepted downside.
 - $33 set vs ~$12 for stock pair
 
-### Cobra Racing 7075-T6 Aluminum Set — Vetoed
+### Cobra Racing 7075-T6 Aluminum Set, Vetoed
 
 - High-grade 7075-T6 aluminum, CNC-machined
 - 80% heavier per unit volume than composite/CF
@@ -215,13 +214,13 @@ Either one, which lowers the front of the car and shortens the lever arm that ma
 - Looks great (anodized finishes) but trades a $6 tower for a much more expensive trans case
 - $49.95 set
 
-### Powerhobby Aluminum Set — Vetoed
+### Powerhobby Aluminum Set, Vetoed
 
 - Same 7075-T6 aluminum trade-off as Cobra: tower survives, mounts don't
 - Cheaper at $39.99, but cheaper doesn't help when the failure mode is wrong for a Jato
 - No upside over stock for this build
 
-### GPM 7075-T6 Aluminum (Jato 4x4 fit) — Vetoed
+### GPM 7075-T6 Aluminum (Jato 4x4 fit), Vetoed
 
 - Sold per tower (~$28 each, so ~$56 for front + rear)
 - Multiple anodized color options
@@ -229,7 +228,7 @@ Either one, which lowers the front of the car and shortens the lever arm that ma
 - Still passes the same aluminum failure cascade as Cobra / Powerhobby
 - No reason to pick this over stock for a basher / racer
 
-### GPM 7075-T6 Aluminum SLA028 / SLA030 (Slash 4x4) — Ruled Out (won't fit Jato)
+### GPM 7075-T6 Aluminum SLA028 / SLA030 (Slash 4x4), Ruled Out (won't fit Jato)
 
 - GPM's well-known Slash 4x4 shock tower set, SLA028 front, SLA030 rear
 - **Wrong geometry for the Jato 4x4.** The Slash 4x4 front tower geometry (mount points, height, arm pickup spacing) does not match the Jato 4x4, these will not bolt up correctly to a Jato chassis
