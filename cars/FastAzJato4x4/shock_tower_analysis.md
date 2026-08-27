@@ -14,7 +14,7 @@
 **Front, stock plastic (#9033, $6)**
 
 - Carbon needs long standoffs and long screws to reach the big bores. More parts, more length to bend, and it looks bad.
-- Carbon leaves the shock caps exposed and wants 3D printed covers. The stock tower protects them as it comes.
+- Carbon leaves the shock caps exposed and wants 3D printed covers. **The Jato #9033 protects them as it comes**, and that's a Jato tower feature, not a stock plastic one. The Slash front towers don't do it either.
 - A brittle front tower grenades the front end on a direct hit, worse on a Jato than a Slash because the Jato tower is taller and has more leverage.
 - Lines up on the FLM arms using the spacers those arms already ship with. No shimming.
 - The few grams plastic costs over carbon are welcome at the nose on a tail heavy car. The motor sits near the back, just **ahead** of the rear axle. (Behind the axle is the 2WD Slash, which hangs its transmission off the very back. The 4x4 is rear biased but not that rear biased.)
@@ -152,6 +152,7 @@ The Slash 4x4 front tower is **shorter than the Jato 4x4 one**. Two parts, same 
 
 Either one, which lowers the front of the car and shortens the lever arm that makes a Jato front tower hit so expensive. It won't take the D8 / HPI Vorza big-bores as they are, so there are two ways to make it work and neither is free:
 
+- **It also gives up the shock cap protection.** The Slash front towers don't have the integrated coverage the Jato #9033 does, so going shorter means losing that as well as doing the work below.
 - **Modify the shock eyelets.** Drill the bottom eyelet down to where the pivot ball sits, trim a little off the top of the eyelet, and run the shock shaft all the way down close to the eyelet. **This keeps full stroke**. That's the point of doing it this way, at the cost of doing the work and doing it to every shock.
 - **Run shorter Slash 4x4 shocks instead.** Simple, but **it loses travel and smoothness**, and it means **different shock lengths front and rear** rather than one length across the car.
 
@@ -198,7 +199,7 @@ Either one, which lowers the front of the car and shortens the lever arm that ma
 - Density ~1.5 g/cm³, basically identical to CFRP, so a 4mm CF tower won't be meaningfully lighter
 - Engineered as a sacrificial fuse: tower cracks first, chassis and trans case survive
 - Cracks gradually rather than snapping, often still drivable with a hairline crack, gets you back to the pit
-- **Shock cap protection is built into the tower.** CF has to have it added back with 3D-printed covers; the OEM tower comes with it. That's the whole argument in one line. The printed covers, the long standoffs and the long screws are all complexity and weight bolted on to make carbon do what the $6 stock part already does.
+- **Shock cap protection is built into this tower specifically.** The Jato #9033 has it, carbon doesn't and needs 3D-printed covers added back, and **the Slash 4x4 front towers don't have it either**. That's the whole argument in one line. The printed covers, the long standoffs and the long screws are all complexity and weight bolted on to make carbon do what the $6 stock part already does.
 
 ### MonsterKingz (G-Maxx) Carbon Fiber Set, Chosen rear only
 
