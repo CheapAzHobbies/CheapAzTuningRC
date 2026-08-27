@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="500">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf_annotated.jpg" width="500"><br>
-  <em>Stock composite #9033, the chosen front · G-Maxx carbon set, only the rear tower is used</em>
+  <em>Stock composite #9033, the chosen front · G-Maxx carbon set, rear tower circled, the front tower goes unused</em>
 </p>
 
 ---
