@@ -51,5 +51,5 @@ Same pack across eBay and AliExpress — Zeee sells it as "Premo" on AliExpress 
 
 | Date | Qty | Total | $/pack | Coupon | Source |
 |------|-----|-------|--------|--------|--------|
-| 2026-06-01 | 2 | $47.39 | $23.70 | FAVEDEAL20 stacked / other (TBD) | eBay — zeee_official_store |
+| 2026-06-01 | **4** | **$94.78** | $23.70 | **20% off** ($118.48 list, $23.70 off) | eBay — zeee_store_us |
 | 2025-09-21 | 2 | **$46.59** | **$23.30** | (TBD — listed $58.26, paid $46.59) | AliExpress — ZEEE Direct Store (Order 8204556163634866) |
