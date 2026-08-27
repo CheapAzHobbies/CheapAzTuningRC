@@ -13,7 +13,7 @@
 | **3S, run as a series pair to 6S** | Must | The MAX8 G2S (3-8S) runs 6S here as two 3S packs in series |
 | **LiHV (11.4V nominal, 4.35V/cell)** | Must | The car is set up around HV. At 6S that's 22.8V nominal and 26.1V hot off the charger (a standard 6S LiPo tops out at 25.2V). Charger must have LiHV mode |
 | **Bought as matched pairs, same order** | Must | Series pairs must stay voltage matched; mismatched packs drift and one gets over discharged |
-| **~4200mAh class** | Must | Sets the run time this car is geared and tuned around |
+| **450-600g of battery total** | Must | The real constraint is weight, not capacity. Both packs together should land in that window. Anything in the 4200mAh class does, so capacity follows from this rather than the other way around |
 | **LVC set to 3.4V/cell** | Must | Premo #2 was lost to over discharge. It got there by self discharging in storage, not by being run flat |
 | **Fits the Revo battery trays** | Must | Shorty form factor. Verify L × W × H per pack |
 | **Survives a raced, jumped 6S truck** | May | Durability has decided more battery calls here than peak output has |
@@ -47,6 +47,7 @@
 - **The HOOVO's HV labeling needs resolving before it goes in this car.** 11.4V nominal is HV (3.8V/cell), yet the same listing says never charge above 4.2V/cell, which is standard LiPo. One of those is wrong. This car is built around 4.35V/cell with LVC at 3.4V, so if the pack really tops out at 4.2V it gives up the voltage the setup is tuned for and lands near a 3600mAh equivalent, the same gap SMC prints openly. Ask HOOVO which figure is real before committing.
 - **The 4200 number is an HV number.** SMC prints both: 4200mAh at 4.35V/cell, 3600mAh charged conventionally to 4.20V. This car runs true LiHV so it would get the 4200, but the pack loses 14% the moment it's charged as a standard LiPo. Most brands print only the bigger number.
 - **Durability has decided every battery call in this fleet so far.** The Premos are at 93 cycles and still working. The SMC HCL-HP packs in the [Jato analysis](../FastAzJato4x4/battery_analysis.md#notes) were the best performing packs owned and none passed ~20 cycles, one arrived DOA. SMC's spec honesty is genuinely better than anyone else's and their packs have still been the least durable thing here. That's the tension to weigh, not the spec sheet.
+- **Pair weights against the 450-600g window:** HOOVO **429g**, Zeee Premo **462g**, SMC **554g**. All three land in or under it, so weight doesn't rule anything out here, it just ranks them.
 - **Buy in pairs, always.** Anything bought here costs 2× the per-pack price ($63.90 plus connectors for the SMC) because the car runs a series pair. Replace pairs together, from the same order.
 - **LVC stays at 3.4V/cell whatever goes in, and don't let packs sit.** Premo #2 was lost to over discharge, but it got there by sitting unused and self discharging, not by being run flat on track. Storage voltage checks matter as much as the LVC setting.
 - **Connectors:** the MAX8 G2S is XT90 and the Premos are XT60, so this car already runs adapters. SMC builds to any connector, so ordering XT90 (+$1.50) would be the first pack to match the ESC directly. Its free SC5 option is EC5/IC5 compatible, which suits the Jato fleet rather than this car.
