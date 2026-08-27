@@ -131,7 +131,7 @@ Fitting a bar to a Slash 4x4 or Rustler 4x4 also wants the **6777** mount off th
 
 ## Detailed Notes
 
-### Traxxas Stock Composite (#9033 / #9034) — Fallback
+### Traxxas Stock Composite (#9033 / #9034) — Chosen front
 
 - Glass-filled nylon, ~4mm thickness
 - Front: TRA9033; Rear: TRA9034; both ~$6 each direct from Traxxas
@@ -139,10 +139,12 @@ Fitting a bar to a Slash 4x4 or Rustler 4x4 also wants the **6777** mount off th
 - Density ~1.5 g/cm³, basically identical to CFRP, so a 4mm CF tower won't be meaningfully lighter
 - Engineered as a sacrificial fuse: tower cracks first, chassis and trans case survive
 - Cracks gradually rather than snapping, often still drivable with a hairline crack, gets you back to the pit
+- **Shock cap protection is built into the tower.** CF has to have it added back with 3D-printed covers; the OEM tower comes with it. That's the whole argument in one line — the printed covers, the long standoffs and the long screws are all complexity and weight bolted on to make carbon do what the $6 stock part already does.
 
-### MonsterKingz (G-Maxx) Carbon Fiber Set — Chosen (larger-shock fit; failure mode accepted)
+### MonsterKingz (G-Maxx) Carbon Fiber Set — Chosen rear only
 
-- **Now the pick:** CF accommodates the **larger D8 big-bore shocks** better with the **HPI Vorza Flux / HB 67410 standoffs**, and **3D-printed shock covers** add the shock-cap protection CF lacks. The failure-mode risk below is knowingly accepted; stock #9033 / TRA9039 is the fallback.
+- **Rear only.** CF takes the **larger D8 big-bore shocks** on the **HPI Vorza Flux / HB 67410 standoffs**, and at the rear the crash risk below matters far less than it does up front.
+- **Not used up front, and the shock covers are why as much as the crash risk.** CF leaves the shock caps exposed, so it needs **3D-printed covers** added back (in hand, bought to test). Stock #9033 already protects them. Adding standoffs, longer screws and printed covers to a $33 set, to end up where a $6 part starts, isn't a trade worth making.
 - 3K carbon fiber, presumed 4mm (same as stock); sold by MonsterKingz on eBay. **In hand (bought to test).**
 - **In my experience, CF towers basically explode the front end of the Jato 4x4 on a direct tower crash.**
 - Why it's worse on a Jato than a Slash 4x4: the Jato's front tower is **taller**. A taller tower = longer lever arm, so a hit on the tower delivers far more force into the front bulkhead and diff than the same hit on a Slash's shorter front tower. Composite flexes through that load; brittle CF transmits all of it.
