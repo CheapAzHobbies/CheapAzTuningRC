@@ -2,6 +2,8 @@
 
 > **Chosen: no sway bars.** This track works better without them, the loose, rough dirt surface rewards independent wheel compliance (mechanical grip + bump absorption) over the flatter cornering a bar buys you. Sway bars trade away suspension compliance for less body roll, and on this track that trade isn't worth it. Lighter and simpler with nothing extra to break. Easy to bolt on later if the track changes.
 
+<p align="center"><img src="src/suspension_swaybar_none_hero.png" width="600"><br><em>The winning setup, pictured</em></p>
+
 ---
 
 ## Table of Contents
@@ -53,8 +55,11 @@ So the bar is a **balance lever per end**: add stiffness to the end you want to 
 | Surface | Bars? |
 |---|---|
 | High-grip hardpack / blue-groove / pavement / astro | **Yes**, less roll, more corner speed, sharper turn-in |
+| **Smooth, well maintained dirt — groomed flat, few easy jumps** | **Yes.** Nothing for the suspension to soak up, so the compliance a bar costs you isn't buying anything. Roll control is free grip here |
 | Medium / drying clay | Maybe a soft bar one end to fine-tune balance |
 | Loose, rough, bumpy dirt (**our track**) | **No / soft**, independent compliance puts more rubber down and soaks bumps |
+
+**The surface decides it, not the car.** The reason this car runs bare is bumps, not sway bars being wrong. Take the bumps away and the objection goes with them: on a smooth, well prepped track the independent compliance you'd give up has nothing to do, while the body roll a bar removes is costing corner speed on every turn. A few easy jumps don't change that — the bar only matters on landings hard or uneven enough that you want each wheel working on its own. **So if this car ever runs a groomed track, bolt bars on for it and take them back off afterwards.** Start soft, front only, per the process below.
 
 ### Tuning process
 1. **Baseline first.** Get springs, oil, and ride height right *before* adding bars, bars are a fine-tuning tool, not a fix for a bad base setup.
