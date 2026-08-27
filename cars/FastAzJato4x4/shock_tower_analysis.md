@@ -2,7 +2,10 @@
 
 > **Chosen: stock Traxxas composite #9033 front, G-Maxx carbon fibre rear.** Not the full CF set. This car is tail heavy, so the front keeps the tougher, simpler plastic tower and the rear sheds what it can. Stock plastic at both ends is the same layout for about $12.
 
-<p align="center"><img src="src/suspension_shock_tower_hero_build.jpg" width="600"><br><em>The build: stock composite front, carbon rear with the kit front tower unused, on HPI 67410 standoffs instead of the cylinders the kit ships</em></p>
+<p align="center">
+  <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="240">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf_annotated.jpg" width="240">&nbsp;<img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="240">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_shoulder_screw.jpg" width="90"><br>
+  <em>stock #9033 front · G-Maxx carbon, rear only · HB / HPI 67410 standoffs, not the kit cylinders · the wheelie bar shoulder screw</em>
+</p>
 
 ---
 
@@ -86,19 +89,25 @@ The front shock uppers mount on **Traxxas wheelie bar shoulder screws**, which s
 
 **It has to be the wheelie bar screw, not any shoulder screw.** The one that works has a **long smooth shoulder and a long thread**; a standard shoulder screw is stubby at both. That long unthreaded shank is the whole point — it is what the shock eye pivots on, and it is long enough to sit the eye centred in the tower hole while the thread still reaches deep enough to hold. Swap in a standard one and there is not enough smooth shank to bear on.
 
-<p align="center"><img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" width="360"><br><em>left: the wheelie bar screw · right: a standard shoulder screw</em></p>
+<p align="center">
+  <img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" width="360">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_shoulder_screw.jpg" width="120">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_wheels_axles_tra4976.jpg" width="240"><br>
+  <em>the pair, wheelie bar screw left and a standard one right · the wheelie bar screw on its own · TRA4976 wheels and axles, $4, the cheapest source of it</em>
+</p>
 
 ### Which bar to buy
 
-Traxxas doesn't sell the screw on its own, so a wheelie bar kit is the only way to get them. **Every shoulder screw in a kit is the same one**, frame screws included, so one bar yields several.
+Traxxas doesn't sell the screw on its own, but **you don't need a whole wheelie bar for it**. The wheels and axles set, **TRA4976 at $4**, is the axles, which is the screw. That's the cheapest way in by a distance.
+
+**Every shoulder screw in a bar is the same one**, frame screws included, so a full kit yields several. The ones on this car came off **a free wheelie bar**, so nothing was bought for them.
 
 **Two are needed for the front.** If the rear also runs OEM plastic towers (EHD **TRA9039** or the standard Slash type) it wants more.
 
-**The Revo bar is the better buy on anything past the front.** It carries **6** screws for $20, which is **$3.33 each** against the Rustler's $5.00, and 6 covers front and rear with spares. The Rustler bar is only the cheaper option if two is genuinely all you need — $10 outright versus $20.
+**Buy TRA4976 unless you want the bar.** $4 for the two axles is cheaper outright and per screw than any complete bar. A full bar only makes sense if you want more than two, and there the Revo's 6 for $20 works out best at $2 to $3.33 each.
 
 | Wheelie bar | Part | Fits | Screws | Price | $/screw |
 |:---|:---:|:---|:---:|:---:|:---:|
-| ⭐ **Revo / E-Revo** *(in hand)* | **TRA5472** | Revo 2.5 / 3.3, E-Revo | **6** | $20.00 | **$3.33** |
+| ⭐ **Wheels + axles only** *(no bar needed)* | **TRA4976** | Revo wheelie bar | 2 | **$4.00** | **$2.00** |
+| **Revo / E-Revo** *(the free bar these came off)* | TRA5472 | Revo 2.5 / 3.3, E-Revo | **6** | $20.00 | $3.33 |
 | **Rustler 4x4** | **TRA6776** | Rustler 4x4 VXL / Brushed | ~2 | **$10.00** | $5.00 |
 | Sledge | TRA9576 | Sledge (9576X blue) | n/a | n/a | — |
 | Slash 2WD / Stampede / Rustler / Bandit | TRA3678 | 2WD models | n/a | n/a | — |
