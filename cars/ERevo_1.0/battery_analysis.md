@@ -15,7 +15,8 @@
 | **Bought as matched pairs, same order** | Must | Series pairs must stay voltage matched; mismatched packs drift and one gets over discharged |
 | **450-600g of battery total** | Must | The real constraint is weight, not capacity. Both packs together should land in that window. Anything in the 4200mAh class does, so capacity follows from this rather than the other way around |
 | **LVC set to 3.4V/cell** | Must | Premo #2 was lost to over discharge. It got there by self discharging in storage, not by being run flat |
-| **Fits the Revo battery trays** | Must | Shorty form factor. Verify L × W × H per pack |
+| **Fits the Revo battery trays** | Must | Whatever goes in has to physically fit and strap down. Verify L × W × H per pack |
+| **Shorty form factor** | May | What the car has always run and what drops in without thinking about it. A longer pack is fine if the tray genuinely takes it |
 | **Survives a raced, jumped 6S truck** | May | Durability has decided more battery calls here than peak output has |
 
 ---
@@ -43,7 +44,7 @@
 | SMC HV3 Flight | 277g | 0.173 | 173 | 140 × 44 × 23 | $33.45 |
 
 - **The SMC finishes last on its own headline metric**, against a product page claiming the highest watts per gram on the market. It's 63g heavier than the HOOVO for the same energy. The honest caveat: SMC's numbers are true spec and verified, while HOOVO's and Zeee's are marketing. Reviewers on both listings report packs falling short of the rating, and HOOVO's "up to 300Wh/kg" claim is already 34% above what its own weight and Wh work out to. So it's a verified 0.173 against two unverified higher numbers. A capacity check on a Premo (four in hand, 93 cycles) would settle how much that column is worth.
-- **The SMC is not a shorty, and that may end the discussion.** Zeee is 91mm long, the SMC is 140mm, **49mm longer** or a 54% increase, at the same width and 2mm thinner. This car carries two packs, so that's roughly 100mm of extra length to find. Measure both Revo trays before considering it further.
+- **The SMC is the only one that isn't a shorty.** Zeee is 91mm long, the SMC is 140mm, **49mm longer** or a 54% increase, at the same width and 2mm thinner. The car carries two packs, so that's roughly 100mm of extra length to find. Shorty is a preference rather than a rule, so this doesn't rule the SMC out, but it does mean **measuring both Revo trays is the first step** with that pack, where the other two just drop in.
 - **The HOOVO's HV labeling contradicts itself, but it isn't a dealbreaker.** 11.4V nominal is HV (3.8V/cell), yet the same listing says never charge above 4.2V/cell, which is standard LiPo. One of those is wrong. Since HV is a preference here and not a requirement, the pack still qualifies either way. What's at stake is capacity and top speed: charged to 4.2V it lands near a 3600mAh equivalent, the same gap SMC prints openly on its label. Worth asking HOOVO which figure is real, since it changes what you're actually paying $35/pack for.
 - **The 4200 number is an HV number.** SMC prints both: 4200mAh at 4.35V/cell, 3600mAh charged conventionally to 4.20V. This car runs true LiHV so it would get the 4200, but the pack loses 14% the moment it's charged as a standard LiPo. Most brands print only the bigger number.
 - **Durability has decided every battery call in this fleet so far.** The Premos are at 93 cycles and still working. The SMC HCL-HP packs in the [Jato analysis](../FastAzJato4x4/battery_analysis.md#notes) were the best performing packs owned and none passed ~20 cycles, one arrived DOA. SMC's spec honesty is genuinely better than anyone else's and their packs have still been the least durable thing here. That's the tension to weigh, not the spec sheet.
