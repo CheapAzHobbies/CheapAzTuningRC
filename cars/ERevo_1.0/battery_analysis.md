@@ -42,12 +42,36 @@
 
 ---
 
+## C ratings and internal resistance
+
+**No C rating here compares across brands, including SMC's.** C is a marketing number industry wide and every pack in this table has to print one. SMC is the honest one on capacity, printing both the 4.20V and 4.35V figures, but their 90C comes off their own Power Factor scaling and only ranks SMC packs against each other. So a 90C SMC is not "weaker" than a 130C OVONIC or a 120C Zeee — the numbers were never on the same scale. **Weight, measured capacity and internal resistance are the only figures in this table that mean the same thing from one brand to the next**, which is why watts per gram ranks these packs and C rating doesn't.
+
+**Internal resistance is the number C rating is pretending to be, and it's the one worth measuring.** IR is what actually limits how hard a pack can be pushed: it sets the voltage sag under load, and sag is what you feel. Unlike C it means the same thing from every brand, and unlike capacity it takes seconds to read on a charger rather than a full discharge cycle. **It's also the health metric** — IR climbs as a pack ages, so on the 93-cycle Premos it says more about remaining life than any spec sheet does. For this car there's a second reason: **a series pair should be IR matched**, because the higher-resistance pack sags first, works harder and ages faster, which is how a pair drifts apart. Only the HOOVO has a number here so far, under 4mΩ/cell from a reviewer, and that's one person's meter after two runs rather than a spec.
+
+**What IR converts to in real C.** Sag is just Ohm's law: a cell drops `I × R` volts under load, so the current a pack can actually hold is set by how much sag you'll accept. `max A = sag ÷ IR`, and `real C = max A ÷ 4.2Ah`. For a 4200mAh pack:
+
+| IR/cell | max A @ 0.3V sag | real C | max A @ 0.5V sag | real C |
+|:---:|:---:|:---:|:---:|:---:|
+| **2mΩ** | 150A | **36C** | 250A | **60C** |
+| **3mΩ** | 100A | **24C** | 167A | **40C** |
+| **4mΩ** | 75A | **18C** | 125A | **30C** |
+| **5mΩ** | 60A | **14C** | 100A | **24C** |
+| **6mΩ** | 50A | **12C** | 83A | **20C** |
+| **8mΩ** | 38A | **9C** | 62A | **15C** |
+| **10mΩ** | 30A | **7C** | 50A | **12C** |
+
+0.3V/cell is working hard, 0.5V/cell is hard use and getting hot. So the HOOVO's under-4mΩ makes it **roughly a 20-30C pack in reality, against 120C on the label**. Run the printed numbers backwards and they stop being physical: **120C on 4.2Ah is 504A, which at 4mΩ/cell is 2.02V of sag per cell** — the pack would collapse from 3.8V to 1.78V. 130C is worse. No 4200 shorty in this class delivers a tenth of what its label claims, which is the honest frame for every C figure in the table above.
+
+Caveats: charger-measured IR includes the leads and connector, so read the same pack the same way each time and compare trends rather than absolutes. IR falls when a pack is warm and climbs as it ages, so measure at a consistent temperature. And this is the **sag** limit only — heat is a separate ceiling, since a 3S pack at 4mΩ/cell pulling 125A is dumping `I²R` = 188W into itself.
+
+---
+
 ## Notes
 
 - **Watts per gram, all five (published numbers).** All are 11.4V / 4200mAh, about 47.9Wh, so weight decides it outright. Wh/kg is published; **True C is the only column here anyone measured**:
 
 | Pack | Weight | Wh/kg | IR/cell | Claimed C | **True C** | Size | $/pack |
-|---|---|---|---|---|---|---|---|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | **HOOVO** | **214.4g** | **223** | <4mΩ | 120C | **18-30C** | 93 × 43.8 × 25 | $35.00 |
 | PowerHobby | 227g | 211 | n/a | 120C | n/a | **90 × 42 × 23** | $54.99 |
 | Zeee Premo | 231g | 207 | n/a | 120C | n/a | 91 × 43.5 × 25 | $23.30 historic, **~$38 now** |
@@ -60,24 +84,7 @@
 - **The SMC is the only one that isn't a shorty.** Zeee is 91mm long, the SMC is 140mm, **49mm longer** or a 54% increase, at the same width and 2mm thinner. The car carries two packs, so that's roughly 100mm of extra length to find. Shorty is a preference rather than a rule, so this doesn't rule the SMC out, but it does mean **measuring both Revo trays is the first step** with that pack, where the other two just drop in.
 - **The OVONIC's 11.1V is a listing typo, the pack is HV.** Amazon's title and About bullet say 11.1V, but the pack label, OVONIC's own product graphic and **Amazon's own Features & Specs table** all say 11.4V, and the printed 47.88Wh only divides out at 11.4V (47.88 ÷ 4.2Ah). Treating it as LiHV.
 - **The HOOVO's HV labeling is still an open question.** It sells as 11.4V nominal, which is HV, yet the same listing says never charge above 4.2V/cell, which is standard LiPo. That's a charging instruction contradicting the chemistry, not a typo in a number, so it can't be resolved by arithmetic the way the OVONIC's could. HV is a preference here and not a requirement, so the pack still qualifies either way — what's at stake is capacity and top speed. Charged to 4.2V a 4200 pack lands near 3600mAh, the same 14% gap SMC prints openly on its label. **Worth asking HOOVO which figure is real**, since it changes what $35/pack actually buys.
-- **No C rating here compares across brands, including SMC's.** C is a marketing number industry wide and every pack in this table has to print one. SMC is the honest one on capacity, printing both the 4.20V and 4.35V figures, but their 90C comes off their own Power Factor scaling and only ranks SMC packs against each other. So a 90C SMC is not "weaker" than a 130C OVONIC or a 120C Zeee — the numbers were never on the same scale. **Weight, measured capacity and internal resistance are the only figures in this table that mean the same thing from one brand to the next**, which is why watts per gram ranks these packs and C rating doesn't.
-- **What IR converts to in real C.** Sag is just Ohm's law: a cell drops `I × R` volts under load, so the current a pack can actually hold is set by how much sag you'll accept. `max A = sag ÷ IR`, and `real C = max A ÷ 4.2Ah`. For a 4200mAh pack:
 
-| IR/cell | max A @ 0.3V sag | real C | max A @ 0.5V sag | real C |
-|---|---|---|---|---|
-| **2mΩ** | 150A | **36C** | 250A | **60C** |
-| **3mΩ** | 100A | **24C** | 167A | **40C** |
-| **4mΩ** | 75A | **18C** | 125A | **30C** |
-| **5mΩ** | 60A | **14C** | 100A | **24C** |
-| **6mΩ** | 50A | **12C** | 83A | **20C** |
-| **8mΩ** | 38A | **9C** | 62A | **15C** |
-| **10mΩ** | 30A | **7C** | 50A | **12C** |
-
-  0.3V/cell is working hard, 0.5V/cell is hard use and getting hot. So the HOOVO's under-4mΩ makes it **roughly a 20-30C pack in reality, against 120C on the label**. Run the printed numbers backwards and they stop being physical: **120C on 4.2Ah is 504A, which at 4mΩ/cell is 2.02V of sag per cell** — the pack would collapse from 3.8V to 1.78V. 130C is worse. No 4200 shorty in this class delivers a tenth of what its label claims, which is the honest frame for every C figure in the table above.
-
-  Caveats: charger-measured IR includes the leads and connector, so read the same pack the same way each time and compare trends rather than absolutes. IR falls when a pack is warm and climbs as it ages, so measure at a consistent temperature. And this is the **sag** limit only — heat is a separate ceiling, since a 3S pack at 4mΩ/cell pulling 125A is dumping `I²R` = 188W into itself.
-
-- **Internal resistance is the number C rating is pretending to be, and it's the one worth measuring.** IR is what actually limits how hard a pack can be pushed: it sets the voltage sag under load, and sag is what you feel. Unlike C it means the same thing from every brand, and unlike capacity it takes seconds to read on a charger rather than a full discharge cycle. **It's also the health metric** — IR climbs as a pack ages, so on the 93-cycle Premos it says more about remaining life than any spec sheet does. For this car there's a second reason: **a series pair should be IR matched**, because the higher-resistance pack sags first, works harder and ages faster, which is how a pair drifts apart. Only the HOOVO has a number here so far, under 4mΩ/cell from a reviewer, and that's one person's meter after two runs rather than a spec.
 - **The 4200 number is an HV number.** SMC prints both: 4200mAh at 4.35V/cell, 3600mAh charged conventionally to 4.20V. This car runs true LiHV so it would get the 4200, but the pack loses 14% the moment it's charged as a standard LiPo. Most brands print only the bigger number.
 - **The Premo looks like it's being wound down, checked 2026-08-26.** It is **gone from Zeee's own 3S collection listing** (36 packs there, none of them this one) and the **Amazon listing reads "currently unavailable, we don't know when or if this item will be back in stock"**. The direct product page is still live and in stock, and eBay and AliExpress listings still exist, so it is **not formally discontinued**, but a pack pulled from a brand's own browse pages usually isn't coming back.
 - **The price already reflects that.** Direct from Zeee it's **$91.19 for the 2-pack**, about $45.60/pack, or roughly **$38 after the automatic 16% at checkout**. That is **60%+ above the $23.30 this fleet paid** and **above the HOOVO's $35/pack**, so the Premo's cost advantage is gone at current prices. Cheap Premos now mean finding old eBay/AliExpress stock.
