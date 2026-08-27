@@ -96,13 +96,13 @@ The front shock uppers mount on **Traxxas wheelie bar shoulder screws**, which s
 
 ### Which bar to buy
 
-Traxxas doesn't sell the screw on its own, but **you don't need a whole wheelie bar for it**. The wheels and axles set, **TRA4976 at $4**, is the axles, which is the screw. That's the cheapest way in by a distance.
+**Two shoulder screws is all this needs**, one per front shock. Traxxas doesn't sell the screw on its own, but **you don't need a whole wheelie bar for it either**: the wheels and axles set, **TRA4976 at $4**, contains exactly two axles, and the axle is the screw. **One set does the job with nothing left over.**
 
 **Every shoulder screw in a bar is the same one**, frame screws included, so a full kit yields several. The ones on this car came off **a free wheelie bar**, so nothing was bought for them.
 
 **Two are needed for the front.** If the rear also runs OEM plastic towers (EHD **TRA9039** or the standard Slash type) it wants more.
 
-**Buy TRA4976 unless you want the bar.** $4 for the two axles is cheaper outright and per screw than any complete bar. A full bar only makes sense if you want more than two, and there the Revo's 6 for $20 works out best at $2 to $3.33 each.
+**Buy TRA4976 unless you want the bar.** $4 covers both screws, which is cheaper outright and per screw than any complete bar. A full bar only makes sense if you want more than two, and there the Revo's 6 for $20 works out best at $2 to $3.33 each.
 
 | Wheelie bar | Part | Fits | Screws | Price | $/screw |
 |:---|:---:|:---|:---:|:---:|:---:|
