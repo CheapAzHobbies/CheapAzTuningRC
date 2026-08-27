@@ -7,12 +7,12 @@
 > | Wheelie bar | Part | Fits | Price |
 > |:---|:---:|:---|:---:|
 > | **Revo / E-Revo** *(what's in hand)* | **TRA5472** | Revo 2.5 / 3.3, E-Revo | **$20.00** |
-> | Rustler 4x4 | TRA6776 | Rustler 4x4 VXL / Brushed | n/a |
+> | ⭐ **Rustler 4x4** *(cheapest way in)* | **TRA6776** | Rustler 4x4 VXL / Brushed | **$10.00** |
 > | Sledge | TRA9576 | Sledge (9576X blue) | n/a |
 > | Slash 2WD / Stampede / Rustler / Bandit | TRA3678 | 2WD models | n/a |
 > | Drag Slash | 9460 | Bandit, 2WD Rustler, 2WD Slash LCG | n/a |
 >
-> Fitting a bar to a Slash 4x4 or Rustler 4x4 also wants the **6777** mount off the Stampede 4x4 — irrelevant here, since only the screws are being used. **$20 for two screws stings**, so it's worth pricing the others before buying; prices are n/a until checked.
+> Fitting a bar to a Slash 4x4 or Rustler 4x4 also wants the **6777** mount off the Stampede 4x4 — irrelevant here, since only the screws are being used. **The Rustler 4x4 bar (TRA6776) is half the price of the Revo one at $10 against $20**, so that's the one to buy for spares — same screw, same job, no reason to pay Revo money for it. Remaining prices are n/a until checked.
 >
 > <p align="center"><img src="src/suspension_traxxas_wheelie_bar_tra5472.png" width="380"><br><em>TRA5472 — bought for two screws</em></p> **The few grams plastic costs over CF don't matter up front** — this platform is tail heavy by design, the Slash layout puts the motor behind the rear axle, so weight added at the nose is working with the car rather than against it. It also **lines up properly with the FLM arms using the spacers the arms already come with** — no shimming, no packing it out, the geometry just lands where it should.
 >
