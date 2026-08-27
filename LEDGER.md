@@ -5,7 +5,7 @@
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
 | **Mike** | **≈ $69.28** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) | 2026-08-22 |
-| **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
+| **Henry** | **-$5.01 (I owe him)** | $234.99 Castle − $200 ESC payback − $40 payment (2026-08-27) | 2026-08-27 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
 
@@ -158,7 +158,9 @@ Chronological, top = oldest. Same sign convention as Mike (negative = Henry owes
 |---|--------|-------------|
 | 1 | -$234.99 | Castle (ESC) |
 | 2 | +$200.00 | Payment — payback for ESC |
-| | **Current: -$34.99 → Henry owes ≈ $35** | −$234.99 + $200 |
+| | **Checkpoint: -$34.99 → Henry owed ≈ $35** | −$234.99 + $200 |
+| 3 | +$40.00 | Payment (2026-08-27) |
+| | **➡️ Current: +$5.01 → I owe Henry ≈ $5.01** | −$34.99 + $40 |
 
 > **Flag:** Mike's account line 18 (`-$5.00 GTR XXL shock shaft (Henry)`) is tagged Henry but booked to Mike. Confirm whether that $5 should move to Henry's account.
 
@@ -173,6 +175,7 @@ Log payments here as they come in, then update Mike's account + Outstanding Bala
 | 2026-06-13 | Mike | $50.00 | Zelle | balance |
 | 2026-08-15 | Mike | $170.00 | Cash | balance |
 | 2026-08-22 | Mike | $100.00 | Cash | balance |
+| 2026-08-27 | Henry | $40.00 | — | balance |
 
 ---
 
