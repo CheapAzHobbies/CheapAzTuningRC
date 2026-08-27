@@ -1,34 +1,18 @@
 # Shock Tower Selection — FastAzJato4x4
 
-> **Chosen (decision changed again): OEM Traxxas composite front #9033 + MonsterKingz (G-Maxx) carbon fiber rear.** Not the full CF set.
->
-> **Front, stock plastic.** Going CF up front meant long standoffs and long screws to reach the big-bore shocks, which is more parts, more length to bend, and it looks bad. Plastic is simpler and it sidesteps the failure this doc already worried about — a brittle CF front tower grenading the front end, worse on the Jato than a Slash because the Jato's front tower is taller and has more leverage. **Shock uppers mount on Traxxas wheelie bar shoulder screws**, which land the shock eye dead centre in the tower hole with no spacer stack. **Sourcing them is the catch:** Traxxas **doesn't sell the screw on its own**, so a wheelie bar kit is the only way to get a pair. The bars below all use the same shoulder screw, so buy on price and availability — the bar itself is irrelevant, it's the hardware you're after. **Only two are needed**, one per front shock, and the wheel axle screws are the usual pair to pull. But **every shoulder screw in the kit is the same one**, including the ones holding the frame together, so a single bar yields several and one kit covers the car plus spares.
->
-> | Wheelie bar | Part | Fits | Price |
-> |:---|:---:|:---|:---:|
-> | **Revo / E-Revo** *(what's in hand)* | **TRA5472** | Revo 2.5 / 3.3, E-Revo | **$20.00** |
-> | ⭐ **Rustler 4x4** *(cheapest way in)* | **TRA6776** | Rustler 4x4 VXL / Brushed | **$10.00** |
-> | Sledge | TRA9576 | Sledge (9576X blue) | n/a |
-> | Slash 2WD / Stampede / Rustler / Bandit | TRA3678 | 2WD models | n/a |
-> | Drag Slash | 9460 | Bandit, 2WD Rustler, 2WD Slash LCG | n/a |
->
-> Fitting a bar to a Slash 4x4 or Rustler 4x4 also wants the **6777** mount off the Stampede 4x4 — irrelevant here, since only the screws are being used. **The Rustler 4x4 bar (TRA6776) is half the price of the Revo one at $10 against $20** and carries the same screws, so that's the one to buy. Remaining prices are n/a until checked.
->
-> **It has to be the wheelie bar screw, not any shoulder screw.** The one that works has a **long smooth shoulder and a long thread**; a standard shoulder screw is stubby at both. That long unthreaded shank is the whole point — it is what the shock eye pivots on, and it is long enough to sit the eye centred in the tower hole while the thread still reaches deep enough to hold. Swap in a standard one and there is not enough smooth shank to bear on.
->
-> <p align="center"><img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" width="360"><br><em>left: the wheelie bar screw · right: a standard shoulder screw</em></p>
->
-> <p align="center"><img src="src/suspension_traxxas_wheelie_bar_tra5472.png" width="380"><br><em>TRA5472 — the bar in hand; TRA6776 is the cheaper source</em></p> **The few grams plastic costs over CF don't matter up front** — this platform is tail heavy by design, the Slash layout puts the motor behind the rear axle, so weight added at the nose is working with the car rather than against it. It also **lines up properly with the FLM arms using the spacers the arms already come with** — no shimming, no packing it out, the geometry just lands where it should.
->
-> **The cheap way to the same layout: a Slash 4x4 rear tower, $6.** Either version works — the Extreme HD **TRA9039** or the first-gen **TRA6838** — **their hole patterns are dimensionally the same**, so pick on price and stock. That gets the shocks mounted ahead of the tower exactly as below for a few grams more than carbon. **The carbon only sells as a $33.29 set**, and this build doesn't use its front tower, so buying it means paying for a front tower that goes in a drawer. **Stock plastic both ends is about $12 all in** (~$6 front #9033 + $6 rear) against $33.29, and the difference is a few grams.
->
-> **Rear, G-Maxx carbon fiber** with the **HPI Vorza Flux (67410) standoffs** already in hand ([`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting)). **Shocks mount ahead of the tower, in the Slash position, not hung off the back.** That's a big move forward, not a nudge — the Jato hangs its rear shocks behind the tower as standard, so this takes that mass off the very back of the car. That tucks the shock behind the tower where it's protected instead of leading with it, and pulls the mass forward toward the middle of the car. **It also comes out a few grams under either stock plastic rear tower** (Jato or Slash) once the metal rear wing brace is unscrewed — though a few grams is all it is, see the cheap way below — which this car can do, because the [Jato 3.3 shell](aero_analysis.md) carries its own integrated wing and runs no separate wing or mount, so there's nothing left for the brace to hold.
->
-> **Both ends are solving the same problem.** The car sits tail heavy because the motor lives behind the rear axle. So the front takes the heavier, simpler, tougher plastic tower, and the rear sheds everything it can — carbon instead of plastic, the wing brace off, and the shocks moved forward of the tower. Weight comes off the back and stays on the nose, which is the direction this chassis needs.
+> **Chosen: OEM Traxxas composite front #9033 + a carbon fibre rear.** Not the full CF set. Stock plastic both ends is a valid $12 build of the same layout — see below.
+
+**Front, stock plastic.** Going CF up front meant long standoffs and long screws to reach the big-bore shocks, which is more parts, more length to bend, and it looks bad. Plastic is simpler and it sidesteps the failure this doc already worried about — a brittle CF front tower grenading the front end, worse on the Jato than a Slash because the Jato's front tower is taller and has more leverage. **Shock uppers mount on Traxxas wheelie bar shoulder screws**, which land the shock eye dead centre in the tower hole with no spacer stack. **Sourcing them is the catch:** Traxxas **doesn't sell the screw on its own**, so a wheelie bar kit is the only way to get a pair. The bars below all use the same shoulder screw, so buy on price and availability — the bar itself is irrelevant, it's the hardware you're after. **Only two are needed**, one per front shock, and the wheel axle screws are the usual pair to pull. But **every shoulder screw in the kit is the same one**, including the ones holding the frame together, so a single bar yields several and one kit covers the car plus spares.
+
+**Rear, G-Maxx carbon fiber** with the **HPI Vorza Flux (67410) standoffs** already in hand ([`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting)). **Shocks mount ahead of the tower, in the Slash position, not hung off the back.** That's a big move forward, not a nudge — the Jato hangs its rear shocks behind the tower as standard, so this takes that mass off the very back of the car. That tucks the shock behind the tower where it's protected instead of leading with it, and pulls the mass forward toward the middle of the car. **It also comes out a few grams under either stock plastic rear tower** (Jato or Slash) once the metal rear wing brace is unscrewed — though a few grams is all it is, see the cheap way below — which this car can do, because the [Jato 3.3 shell](aero_analysis.md) carries its own integrated wing and runs no separate wing or mount, so there's nothing left for the brace to hold.
+
+**The cheap way to the same layout: a Slash 4x4 rear tower, $6.** Either version works — the Extreme HD **TRA9039** or the first-gen **TRA6838** — **their hole patterns are dimensionally the same**, so pick on price and stock. That gets the shocks mounted ahead of the tower exactly as below for a few grams more than carbon. **The carbon only sells as a $33.29 set**, and this build doesn't use its front tower, so buying it means paying for a front tower that goes in a drawer. **Stock plastic both ends is about $12 all in** (~$6 front #9033 + $6 rear) against $33.29, and the difference is a few grams.
+
+**Both ends are solving the same problem.** The car sits tail heavy because the motor lives behind the rear axle. So the front takes the heavier, simpler, tougher plastic tower, and the rear sheds everything it can — carbon instead of plastic, the wing brace off, and the shocks moved forward of the tower. Weight comes off the back and stays on the nose, which is the direction this chassis needs.
 
 <p align="center">
   <img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="450">&nbsp;<img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="220"><br>
-  <em>Chosen: MonsterKingz (G-Maxx) carbon fiber tower set (front + rear), run with the HPI Vorza Flux / HB 67410 shock standoffs (for the larger shocks) + 3D-printed shock covers</em>
+  <em>Rear: MonsterKingz (G-Maxx) carbon fibre tower on the HPI Vorza Flux / HB 67410 standoffs. Front runs the stock composite #9033 instead.</em>
 </p>
 
 ---
@@ -37,6 +21,7 @@
 
 - [Key Requirements](#key-requirements) — Must / May criteria for the tower pick
 - [Shock Tower Comparison](#shock-tower-comparison) — every tower option with specs and status
+- [Front Shock Mounting](#front-shock-mounting-wheelie-bar-shoulder-screws) — the wheelie bar screw, and which bar to buy
 - [Material Properties (Reference)](#material-properties-reference) — density, failure mode, aluminum nuance
 - [Detailed Notes](#detailed-notes) — bullet specs per option
 - [Related: Tower Bracing (Optional)](#related-tower-bracing-optional) — Traxxas TRA9061 brace analysis
@@ -77,6 +62,41 @@
 ---
 
 \* Aluminum per-tower weights are still estimated from material density × tower volume, none of the manufacturers (GPM, Cobra, Powerhobby) publish per-part weights. The stock #9033 front (17.2g) and the TRA6838 / G-Maxx CF towers are now measured, not estimated, see their Weight cells.
+
+---
+
+## Front Shock Mounting (wheelie bar shoulder screws)
+
+The front shock uppers mount on **Traxxas wheelie bar shoulder screws**, which sit the shock eye dead centre in the #9033 tower hole with no spacer stack.
+
+**It has to be the wheelie bar screw, not any shoulder screw.** The one that works has a **long smooth shoulder and a long thread**; a standard shoulder screw is stubby at both. That long unthreaded shank is the whole point — it is what the shock eye pivots on, and it is long enough to sit the eye centred in the tower hole while the thread still reaches deep enough to hold. Swap in a standard one and there is not enough smooth shank to bear on.
+
+<p align="center"><img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" width="360"><br><em>left: the wheelie bar screw · right: a standard shoulder screw</em></p>
+
+### Which bar to buy
+
+Traxxas doesn't sell the screw on its own, so a wheelie bar kit is the only way to get them. **Every shoulder screw in a kit is the same one**, frame screws included, so one bar yields several.
+
+**Two are needed for the front.** If the rear also runs OEM plastic towers (EHD **TRA9039** or the standard Slash type) it wants more.
+
+**The Revo bar is the better buy on anything past the front.** It carries **6** screws for $20, which is **$3.33 each** against the Rustler's $5.00, and 6 covers front and rear with spares. The Rustler bar is only the cheaper option if two is genuinely all you need — $10 outright versus $20.
+
+| Wheelie bar | Part | Fits | Screws | Price | $/screw |
+|:---|:---:|:---|:---:|:---:|:---:|
+| ⭐ **Revo / E-Revo** *(in hand)* | **TRA5472** | Revo 2.5 / 3.3, E-Revo | **6** | $20.00 | **$3.33** |
+| **Rustler 4x4** | **TRA6776** | Rustler 4x4 VXL / Brushed | ~2 | **$10.00** | $5.00 |
+| Sledge | TRA9576 | Sledge (9576X blue) | n/a | n/a | — |
+| Slash 2WD / Stampede / Rustler / Bandit | TRA3678 | 2WD models | n/a | n/a | — |
+| Drag Slash | 9460 | Bandit, 2WD Rustler, 2WD Slash LCG | n/a | n/a | — |
+
+*Rustler count is from memory and unconfirmed — its product photo shows two wheel axles plus three loose fasteners, so it may be more than two. The Revo's 6 is counted.*
+
+Fitting a bar to a Slash 4x4 or Rustler 4x4 also wants the **6777** mount off the Stampede 4x4 — irrelevant here, since only the screws are being used. **The Rustler 4x4 bar (TRA6776) is half the price of the Revo one at $10 against $20** and carries the same screws, so that's the one to buy. Remaining prices are n/a until checked.
+
+<p align="center">
+  <img src="src/suspension_traxxas_wheelie_bar_tra5472.jpg" width="330">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_tra6776.jpg" width="330"><br>
+  <em>left: TRA5472 Revo bar, $20, 6 screws (the one in hand) · right: TRA6776 Rustler 4x4 bar, $10</em>
+</p> **The few grams plastic costs over CF don't matter up front** — this platform is tail heavy by design, the Slash layout puts the motor behind the rear axle, so weight added at the nose is working with the car rather than against it. It also **lines up properly with the FLM arms using the spacers the arms already come with** — no shimming, no packing it out, the geometry just lands where it should.
 
 ---
 
