@@ -132,7 +132,7 @@ Fitting a bar to a Slash 4x4 or Rustler 4x4 also wants the **6777** mount off th
 <p align="center">
   <img src="src/suspension_traxxas_wheelie_bar_tra5472.jpg" width="330">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_tra6776.jpg" width="330"><br>
   <em>left: TRA5472 Revo bar, $20, 6 screws (the one in hand) · right: TRA6776 Rustler 4x4 bar, $10</em>
-</p> **The few grams plastic costs over CF don't matter up front**. This platform is tail heavy by design, the Slash layout puts the motor behind the rear axle, so weight added at the nose is working with the car rather than against it. It also **lines up properly with the FLM arms using the spacers the arms already come with**. No shimming, no packing it out, the geometry just lands where it should.
+</p> **The few grams plastic costs over CF don't matter up front**. This platform is tail heavy by design, the Slash layout puts the motor near the back of the car, just ahead of the rear axle, so weight added at the nose is working with the car rather than against it. It also **lines up properly with the FLM arms using the spacers the arms already come with**. No shimming, no packing it out, the geometry just lands where it should.
 
 ---
 
