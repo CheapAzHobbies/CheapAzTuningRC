@@ -53,6 +53,11 @@ One table, these columns: `| Part # | Description | Category | Cost | Source | P
 
 When the user says **"check inbox"** (or drops files and describes them), do this for every file in `inbox/` (except `README.md`):
 
+0. **Check what's already here — before creating anything.**
+   - `ls cars/` and use the existing folder name **exactly**. `ERevo_1.0` is the E-Revo; don't create `cars/E-Revo/` alongside it. A car is in this repo once, under one spelling.
+   - Search before you add: `find cars Deals -iname "*<brand>*<part>*"`. If the photo or part is already here, don't add a second copy — reference the one that exists.
+   - A new `cars/<CarName>/` folder is only right for a car that genuinely isn't in the repo yet, and it needs a row in the root `README.md` Cars table in the same commit.
+
 1. **Identify it.** Read the file (Read tool for images / PDFs / md; Bash `file` if unsure). What part / car / deal / category does it relate to?
 2. **Pick the destination** using the same routing rules below:
    - Part photo of an existing build → `cars/<CarName>/src/` with `[section]_[brand]_[part]_[part-#].[ext]` naming (see [Image handling](#image-handling)).
@@ -66,6 +71,8 @@ When the user says **"check inbox"** (or drops files and describes them), do thi
 4. **For pure info screenshots** (e.g. a receipt where the value has already been transcribed into a `.md` row): if there's a sensible permanent home (e.g. `Deals/src/` for deal-related screenshots), `mv` there; otherwise the source file may be deleted since the info is preserved in the markdown destination.
 5. **Never leave processed files lingering in `inbox/`** — every file either reaches its permanent home via `mv` or gets deleted when it has no permanent home.
 6. **If a file can't be routed with confidence**, leave it in `inbox/` and ask the user where it belongs.
+
+7. **Check your own work before finishing.** Every `<img src="...">` you wrote must point at a file that actually exists — `ls` the `src/` folder and compare. Writing a conventional-looking filename into the markdown without renaming the real file leaves a broken link. Then `git add` what you changed and show `git diff --cached`.
 
 The `inbox/README.md` itself is sticky — never delete that.
 
