@@ -171,6 +171,10 @@ Either one, which lowers the front of the car and shortens the lever arm that ma
 - **Rear only.** CF takes the **larger D8 big-bore shocks** on the **HPI Vorza Flux / HB 67410 standoffs**, and at the rear the crash risk below matters far less than it does up front.
 - **Not used up front, and the shock covers are why as much as the crash risk.** CF leaves the shock caps exposed, so it needs **3D-printed covers** added back (in hand, bought to test). Stock #9033 already protects them. Adding standoffs, longer screws and printed covers to a $33 set, to end up where a $6 part starts, isn't a trade worth making.
 - 3K carbon fiber, presumed 4mm (same as stock); sold by MonsterKingz on eBay. **In hand (bought to test).**
+- **Bin the standoffs it ships with.** The kit includes 1 inch aluminium cylinders held by tiny 3mm screws, and a screw that long and that thin **will bend**. The **HPI Vorza Flux / HB 67410** standoffs replace them and are what's actually running. Worth counting against the $33.29: the set arrives needing its own hardware thrown away.
+
+<p align="center"><img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="500"><br><em>HB / HPI Vorza Flux 67410 standoffs, used instead of the aluminium cylinders in the G-Maxx kit</em></p>
+
 - **In my experience, CF towers basically explode the front end of the Jato 4x4 on a direct tower crash.**
 - Why it's worse on a Jato than a Slash 4x4: the Jato's front tower is **taller**. A taller tower = longer lever arm, so a hit on the tower delivers far more force into the front bulkhead and diff than the same hit on a Slash's shorter front tower. Composite flexes through that load; brittle CF transmits all of it.
 - On a Slash 4x4, CF front towers are fine because the tower is shorter, the diff and front end usually survive when the tower lets go. On a Jato 4x4, you lose the whole front end.
