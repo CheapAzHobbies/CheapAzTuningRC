@@ -22,7 +22,9 @@
 
 **Stock Jato 4x4 plastic chassis tray: ~160.23 × 50 × ~35mm** (L × W × H), and **~40mm of height can be squished in** if it has to. 🚧 The 160.23mm length is off my own measurement, confirm against Traxxas before betting a purchase on it.
 
-> **This is the stock-chassis number.** The FastAz runs the [AliExpress CF LCG chassis](chassis_analysis.md), which brings its own **aluminum battery holder + strap**, so its usable tray still needs measuring separately. Until then, treat the stock tray as the conservative reference. It's also the tray on [Mike's Jato](../Jato4x4_Mike/README.md).
+**A stock Jato can be opened up to roughly 163 × 50 × 40mm** with the right battery mount and a 3D printed battery bar. Worth knowing if you're speccing a pack for a stock truck, and worth noting that the height is the part that needs the printed bar.
+
+> **None of this constrains this build.** The stock tray is the conservative reference here, not the limit. The FastAz runs the [AliExpress CF LCG chassis](chassis_analysis.md) with its own **aluminium battery holder and strap**, and a taller body over it, so length and height both open up. Its usable tray still needs measuring, but pack size isn't what decides this car's battery, weight is. Until then, treat the stock tray as the conservative reference. It's also the tray on [Mike's Jato](../Jato4x4_Mike/README.md).
 
 | Pack | L × W × H | Length (160.23) | Width (50) | Height (35 / 40 max) | Verdict |
 |---|---|---|---|---|---|
