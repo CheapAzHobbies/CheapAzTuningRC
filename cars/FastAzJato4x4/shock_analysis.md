@@ -5,7 +5,7 @@
 > **Current spec** (running):
 > - **Springs:** **white 59gf (HB 67454, 76mm) front + gray 52gf (HB 67453, 76mm) rear**, same as K939 spec
 > - **Pistons:** 1.4mm × 6 holes, front + rear
-> - **Oil:** ✅ **40wt front, 50wt rear** (running, retested — supersedes the earlier 45wt front / 60wt rear call)
+> - **Oil:** ✅ **40wt front, 50wt rear** (running, retested — supersedes the earlier 45wt front / 60wt rear call). **Heavier in the rear is backwards for this class and correct for this car** — the Slash layout hangs the motor behind the rear axle, so the rear carries more mass and needs more damping to control it. Most 1/10 4x4s of this size run the heavier oil up front; the Jato 4x4 wants it the other way round. Same tail-heavy bias that drives the [tower choices](shock_tower_analysis.md).
 > - **Shock length:** 97 mm **shaft length** (Apache C1 / D8 front spec, this is shaft length, *not* eye-to-eye, which is [still TBD](#hot-bodies-big-bore-shock-spring-chart-full-lineup)); D8 rears optionally 112 mm if going the full mixed-length D8 setup
 >
 > **Traxxas Big Bore XX-Long (2662) is vetoed:** it was "big bore" years ago, but its **10mm bore** isn't by today's standards (vs the C1/D8's 16mm), a waste of money even at $26.95.
