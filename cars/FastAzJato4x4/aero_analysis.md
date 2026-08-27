@@ -24,8 +24,8 @@
 
 | Requirement | Type | Why |
 |---|---|---|
-| **Fits chosen rear shock tower** | Must | Wing mount has to bolt up without forcing a shock-tower swap that breaks other decisions |
-| **Holds wing through normal flights / crashes** | Must | A wing that falls off mid-air is dead weight |
+| **Fits chosen rear shock tower** | May | The Jato 3.3 shell runs an integrated wing, so nothing has to bolt to the tower today. Kept as a preference because **the option to convert back to a Jato wing** is worth holding, and it's the reason the rear runs carbon rather than a $6 Slash tower that won't take the Jato wing mount ([`shock_tower_analysis.md`](shock_tower_analysis.md)) |
+| **Holds wing through normal flights / crashes** | May | Only applies if a separate wing goes back on. The current shell's wing is part of the body, so there's nothing to shake loose |
 | **Cheap / replaceable** | May | Wings break. Easy to source replacements matters more than premium build |
 | **Doesn't put shocks in the crash path** | May | Rear shock exposure accepted as a known risk on this build, may revisit mount choice later |
 
