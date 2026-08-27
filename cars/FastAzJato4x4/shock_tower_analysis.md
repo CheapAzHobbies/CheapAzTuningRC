@@ -17,7 +17,7 @@
 - Carbon leaves the shock caps exposed and wants 3D printed covers. The stock tower protects them as it comes.
 - A brittle front tower grenades the front end on a direct hit, worse on a Jato than a Slash because the Jato tower is taller and has more leverage.
 - Lines up on the FLM arms using the spacers those arms already ship with. No shimming.
-- The few grams plastic costs over carbon are welcome at the nose on a tail heavy car.
+- The few grams plastic costs over carbon are welcome at the nose on a tail heavy car. The motor sits near the back, just **ahead** of the rear axle. (Behind the axle is the 2WD Slash, which hangs its transmission off the very back. The 4x4 is rear biased but not that rear biased.)
 - Shock uppers mount on wheelie bar shoulder screws. See [Front Shock Mounting](#front-shock-mounting-wheelie-bar-shoulder-screws).
 
 <p align="center"><img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="400"><br><em>Traxxas #9033, the chosen front, $6</em></p>
