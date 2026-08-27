@@ -130,6 +130,8 @@ Already chosen and in hand: **GPM RUS416026ST-S,** spring-steel turnbuckle plus 
 ---
 
 ## Notes
+- **The rod ends are the fuse, and that's the design.** With titanium rods and alloy hubs at both ends, the softest part of the link is the RPM plastic rod end, so that's what lets go in a hard hit. That's the right failure: **12 per pack for about $7-10**, they thread off and back on trackside with no tools beyond a wrench, and they give way before the ~$6/each titanium rod, the alloy hub or the bulkhead does. Keep a pack in the pit box and treat a broken rod end as consumable rather than damage.
+
 
 - **The link is three parts, and the stock version breaks at two of them.** Titanium fixes the rod, RPM long ends fix the rod ends, the hollow balls carry over. See [the assembly table](#the-three-part-link-assembly).
 - **Only 6 rods are needed** (the six links). Bought a 10-pack, so 4 are spares. Per-rod cost is $5.99.
@@ -138,6 +140,6 @@ Already chosen and in hand: **GPM RUS416026ST-S,** spring-steel turnbuckle plus 
 - **61mm is the bare rod end-to-end, not hole-to-hole.** The assembled ball-to-ball length is ~96mm, set by the rod ends. The titanium is a 60mm bare rod (M4x60), ~1mm under the stock rod, taken up by the rod ends. See [Length reference](#length-reference).
 - **Stock links are the baseline that breaks:** steel 3645 and aluminum 2336A both go easily behind the FLM arm. Keep a set only for their hollow balls.
 - **RPM long rod ends need Traxxas hollow balls** (RPM ships without them). Harvest from TRA5525 or the stock links.
-- **RPM long shank helps the wheelbase stretch** from the FLM front arms, so the turnbuckle is not at its adjustment limit.
+- **RPM long shank helps the track width stretch** from the FLM front arms, so the turnbuckle is not at its adjustment limit.
 - **Do not count the servo link twice.** GPM RUS416026ST-S (servo to bellcrank) is a separate part, covered in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#servo-horn--servo-to-bellcrank-link).
 - **Verify at build:** rod-end internal thread onto the M4 titanium rod, and the hollow balls seating in the Raptor R alloy carriers + FLM studs.
