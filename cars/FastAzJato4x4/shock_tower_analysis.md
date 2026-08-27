@@ -111,8 +111,7 @@ The front shock uppers mount on **Traxxas wheelie bar shoulder screws**, which s
 | ⭐ **Wheels + axles only** *(no bar needed)* | **TRA4976** | Revo wheelie bar | 2 | **$4.00** | **$2.00** |
 | **Revo / E-Revo** *(the free bar these came off)* | TRA5472 | Revo 2.5 / 3.3, E-Revo | **6** | $20.00 | $3.33 |
 | **Rustler 4x4** | **TRA6776** | Rustler 4x4 VXL / Brushed | ~2 | **$10.00** | $5.00 |
-| Slash 2WD / Stampede / Rustler / Bandit | TRA3678 | 2WD models | n/a | n/a | — |
-| Drag Slash | 9460 | Bandit, 2WD Rustler, 2WD Slash LCG | n/a | n/a | — |
+| ~~Slash 2WD / Stampede / Rustler / Bandit~~ *(discontinued)* | TRA3678 | 2WD models | n/a | $15.00 | — |
 
 *Rustler count is from memory and unconfirmed, its product photo shows two wheel axles plus three loose fasteners, so it may be more than two. The Revo's 6 is counted.*
 
@@ -121,7 +120,7 @@ Fitting a bar to a Slash 4x4 or Rustler 4x4 also wants the **6777** mount off th
 <p align="center">
   <img src="src/suspension_traxxas_wheelie_bar_tra5472.jpg" width="330">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_tra6776.jpg" width="330"><br>
   <em>left: TRA5472 Revo bar, $20, 6 screws (the one in hand) · right: TRA6776 Rustler 4x4 bar, $10</em>
-</p> **The few grams plastic costs over CF don't matter up front**. This platform is tail heavy by design, the Slash layout puts the motor behind the rear axle, so weight added at the nose is working with the car rather than against it. It also **lines up properly with the FLM arms using the spacers the arms already come with** — no shimming, no packing it out, the geometry just lands where it should.
+</p> **The few grams plastic costs over CF don't matter up front**. This platform is tail heavy by design, the Slash layout puts the motor behind the rear axle, so weight added at the nose is working with the car rather than against it. It also **lines up properly with the FLM arms using the spacers the arms already come with**. No shimming, no packing it out, the geometry just lands where it should.
 
 ---
 
@@ -141,7 +140,7 @@ The Slash 4x4 front tower is **shorter than the Jato 4x4 one**. Two parts, same 
 
 Either one, which lowers the front of the car and shortens the lever arm that makes a Jato front tower hit so expensive. It won't take the D8 / HPI Vorza big-bores as they are, so there are two ways to make it work and neither is free:
 
-- **Modify the shock eyelets.** Drill the bottom eyelet down to where the pivot ball sits, trim a little off the top of the eyelet, and run the shock shaft all the way down close to the eyelet. **This keeps full stroke**. That's the point of doing it this way — at the cost of doing the work and doing it to every shock.
+- **Modify the shock eyelets.** Drill the bottom eyelet down to where the pivot ball sits, trim a little off the top of the eyelet, and run the shock shaft all the way down close to the eyelet. **This keeps full stroke**. That's the point of doing it this way, at the cost of doing the work and doing it to every shock.
 - **Run shorter Slash 4x4 shocks instead.** Simple, but **it loses travel and smoothness**, and it means **different shock lengths front and rear** rather than one length across the car.
 
 **Not doing either.** It's a genuinely lower centre of gravity and it isn't worth the hassle. The stock #9033 bolts on, keeps every shock the same, and keeps full travel. Logged because the option is real and cheap if the priority ever changes.
