@@ -2,7 +2,7 @@
 
 > **Chosen: Zeee Premo 3S HV 4200mAh shorty**, run as matched pairs in series for 6S. Four are in the fleet at 93 cycles each, two in the car and two spare. Two candidates are on the table to replace them: the **HOOVO 4200 shorty**, lightest of the three and a drop-in for the same tray, but its HV labeling contradicts itself; and the **SMC HV3 Flight 4290-3S1P**, the only pack with true-spec numbers, which is also the heaviest, the only one that isn't a shorty, and comes from the brand with the worst durability record here.
 
-<p align="center"><img src="src/electronics_zeee_premo_3s_4200_120c.jpg" width="600"><br><em>Zeee Premo 3S HV 4200mAh, 91 × 43.5 × 25mm, 231g, 120C, XT60</em></p>
+<p align="center"><img src="src/electronics_zeee_premo_3s_4200_120c.jpg" width="600"><br><em>Zeee Premo 3S HV 4200mAh, 91 × 43.5 × 25mm, 231g, 47.88Wh, 120C, XT60</em></p>
 
 ---
 
