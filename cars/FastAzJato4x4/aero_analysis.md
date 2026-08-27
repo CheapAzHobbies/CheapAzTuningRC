@@ -1,6 +1,6 @@
 # Aero (Wing, Mount + Body) Selection — FastAzJato4x4
 
-> **Chosen: OG Jato 3.3 body (5511A red), with no separate wing or wing mount.** Ditching the buggy wing **and** the TRA9046 Meelobee mount for the Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. The shell runs its **own small integrated wing** and a **smaller / lighter body mount**, so weight comes off up high. The catch: the tall Jato 4x4 front + rear shock towers foul this lower shell, so **clearance holes get cut** to let the towers + shock tops poke through (done cleanly it reads as intentional). The **JConcepts P2 (0684)** buggy body is the fallback if the truck shell doesn't pan out. The wing + wing-mount sections below are kept as reference for that fallback path.
+> **Chosen: OG Jato 3.3 body (5511A red), with no separate wing or wing mount.** Ditching the buggy wing **and** the TRA9046 Meelobee mount for the Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. The shell runs its **own small integrated wing** and a **smaller / lighter body mount**, so weight comes off up high. The catch: the tall Jato 4x4 front + rear shock towers foul this lower shell, so **clearance holes get cut** to let the towers + shock tops poke through (done cleanly it reads as intentional). The **JConcepts P2 (0684)** buggy body is the fallback if the truck shell doesn't pan out. The wing and wing-mount sections below cover the two ways a separate wing could come back: converting to a Jato wing, or going to the buggy body.
 
 <p align="center">
   <img src="src/body_traxxas_jato33_red_5511a.jpg" width="500"><br>
@@ -12,9 +12,9 @@
 ## Table of Contents
 
 - [Key Requirements](#key-requirements)
-- [Wing Comparison](#wing-comparison) — AliExpress vs Jato stock
-- [Wing Mount Comparison](#wing-mount-comparison) — OEM Jato vs STRC backflash conversion
-- [Shock Tower Compatibility Cascade](#shock-tower-compatibility-cascade) — why the wing mount choice affects shock protection
+- [Wing Comparison](#wing-comparison) — the Jato conversion path vs the buggy body path
+- [Wing Mount Comparison](#wing-mount-comparison) — the OEM Jato mount held in reserve, and what was vetoed
+- [Shock Tower Compatibility Cascade](#shock-tower-compatibility-cascade) — why the wing mount choice is what made the rear tower carbon
 - [Body Comparison](#body-comparison) — JConcepts P2 vs Traxxas OEM tiers
 - [Notes](#notes)
 
@@ -27,7 +27,7 @@
 | **Fits chosen rear shock tower** | May | The Jato 3.3 shell runs an integrated wing, so nothing has to bolt to the tower today. Kept as a preference because **the option to convert back to a Jato wing** is worth holding, and it's the reason the rear runs carbon rather than a $6 Slash tower that won't take the Jato wing mount ([`shock_tower_analysis.md`](shock_tower_analysis.md)) |
 | **Holds wing through normal flights / crashes** | May | Only applies if a separate wing goes back on. The current shell's wing is part of the body, so there's nothing to shake loose |
 | **Cheap / replaceable** | May | Wings break. Easy to source replacements matters more than premium build |
-| **Doesn't put shocks in the crash path** | May | Rear shock exposure accepted as a known risk on this build, may revisit mount choice later |
+| **Doesn't put shocks in the crash path** | May | Solved rather than accepted. The rear shocks mount ahead of the tower now, so the tower takes the hit first ([`shock_tower_analysis.md`](shock_tower_analysis.md)) |
 
 ---
 
@@ -115,6 +115,6 @@ The body shell. **Buggy-style aftermarket bodies are the direction**, the JConce
 
 - AliExpress wing mounting holes drilled with a reamer, use the grid pattern on the underside to locate the holes, then ream to size. Cleaner cut than a drill bit, less risk of cracking the nylon.
 - Wing can also be zip-tied to the mount, works, but ghetto. Ream the holes properly.
-- Reference: the K939 build uses the older Slash 4x4-style rear shock geometry, that platform has *not* had the rear-shock crash exposure problem the FastAzJato4x4 prototype hit with the Jato stock tower. Rear-shock exposure is accepted on this build as a known consumable risk.
+- Reference: the K939 build uses the older Slash 4x4-style rear shock geometry, that platform has *not* had the rear-shock crash exposure problem the FastAzJato4x4 prototype hit with the Jato stock tower. **That exposure has since been designed out.** The rear shocks now mount ahead of the tower in the Slash position rather than hung off the back, so the tower leads and the shock sits behind it ([`shock_tower_analysis.md`](shock_tower_analysis.md)).
 - **OG Jato 3.3 body (novelty look):** the genuine part is the **ProGraphix 5511R** (graphics pre-painted, main body clear, you spray any color you want) or the clear **5511**. The factory colors split two ways. **Sold as separate replacement bodies:** **red (5511A)**, **orange (5511T)**, plus **ProGraphix (5511R)** and **clear (5511)**. **RTR-only** (came on the complete **55077-3** truck, no standalone body part #): **blue** and **yellow**, which is why they only turn up as used take-offs. Note the RTR blue and yellow shells are **black-based with blue / yellow graphics**, so the "black" people remember is really the **accent scheme on those, not a solid-black body**; and the yellow here is a *Jato 3.3* (distinct from the green/black *Nitro Revo 3.3*). **Bought the red one** (5511A, delivered 2026-07-27) to try. So "colors" = spray any color on the 5511R, grab a red/orange separate body, or hunt a blue/yellow take-off off a parted-out truck.
-- **Why the OG Jato 3.3 shell is tempting:** it drops the big buggy wing and uses a smaller, lighter body mount → less weight up high and a cleaner OG stadium-truck silhouette. The catch is the Jato 4x4's **tall front + rear shock towers**, this lower shell sits over them, so you'd cut clearance holes to let the towers + shock tops poke through. Done deliberately (grommeted/flared holes) that can read as an intentional custom look rather than a hack.
+- **Why the OG Jato 3.3 shell won it:** it drops the big buggy wing and uses a smaller, lighter body mount → less weight up high and a cleaner OG stadium-truck silhouette. The catch is the Jato 4x4's **tall front + rear shock towers**, this lower shell sits over them, so you'd cut clearance holes to let the towers + shock tops poke through. Done deliberately (grommeted/flared holes) that can read as an intentional custom look rather than a hack.
