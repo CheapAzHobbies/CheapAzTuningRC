@@ -44,15 +44,17 @@
 
 ## Notes
 
-- **Watts per gram, all five (published numbers).** All are 11.4V / 4200mAh, about 47.9Wh, so weight decides it outright:
+- **Watts per gram, all five (published numbers).** All are 11.4V / 4200mAh, about 47.9Wh, so weight decides it outright. Wh/kg is published; **True C is the only column here anyone measured**:
 
-| Pack | Weight | Wh/g | Wh/kg | Size | $/pack |
-|---|---|---|---|---|---|
-| **HOOVO** | **214.4g** | **0.223** | 223 | 93 × 43.8 × 25 | $35.00 |
-| PowerHobby | 227g | 0.211 | 211 | **90 × 42 × 23** | $54.99 |
-| Zeee Premo | 231g | 0.207 | 207 | 91 × 43.5 × 25 | $23.30 historic, **~$38 now** |
-| OVONIC | 246g | 0.195 | 195 | 96 × 44.5 × 25.5 | **$29.49** |
-| SMC HV3 Flight | 277g | 0.173 | 173 | 140 × 44 × 23 | $33.45 |
+| Pack | Weight | Wh/kg | IR/cell | Claimed C | **True C** | Size | $/pack |
+|---|---|---|---|---|---|---|---|
+| **HOOVO** | **214.4g** | **223** | <4mΩ | 120C | **18-30C** | 93 × 43.8 × 25 | $35.00 |
+| PowerHobby | 227g | 211 | n/a | 120C | n/a | **90 × 42 × 23** | $54.99 |
+| Zeee Premo | 231g | 207 | n/a | 120C | n/a | 91 × 43.5 × 25 | $23.30 historic, **~$38 now** |
+| OVONIC | 246g | 195 | n/a | 130C | n/a | 96 × 44.5 × 25.5 | **$29.49** |
+| SMC HV3 Flight | 277g | 173 | n/a | 90C\* | n/a | 140 × 44 × 23 | $33.45 |
+
+  *True C is calculated from measured IR at 0.3V and 0.5V sag per cell — see the conversion above. n/a means the pack hasn't been measured, not that it's unrated. \*SMC's 90C is their own Power Factor scaling and isn't on the same scale as the others.*
 
 - **The SMC finishes last on its own headline metric**, against a product page claiming the highest watts per gram on the market. The honest caveat: SMC's capacity is true spec and verified, while HOOVO's and Zeee's are marketing. Its C number isn't a true rate either, it's SMC's own Power Factor scaling, so no C figure in that column compares across brands. HOOVO's reviews are mixed on it delivering a true 4200mAh, and its "up to 300Wh/kg" claim is already 34% above what its own weight and Wh work out to. The Zeee has at least been sanity checked here: ~3000mAh in from 3.8V storage, which is what a healthy 4200 should take. So it's a verified number against four unverified higher ones. A capacity check on a Premo (four in hand, 93 cycles) would settle how much that column is worth.
 - **The SMC is the only one that isn't a shorty.** Zeee is 91mm long, the SMC is 140mm, **49mm longer** or a 54% increase, at the same width and 2mm thinner. The car carries two packs, so that's roughly 100mm of extra length to find. Shorty is a preference rather than a rule, so this doesn't rule the SMC out, but it does mean **measuring both Revo trays is the first step** with that pack, where the other two just drop in.
