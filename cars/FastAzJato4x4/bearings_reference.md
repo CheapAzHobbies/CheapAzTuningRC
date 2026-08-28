@@ -53,14 +53,14 @@ The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10
 
 **Total: 22 bearings** (same count as OG, four hub 12×18×4 swapped to 10×15×4 in sleeves).
 
-> **\*** The OG kit lists five 12×18×4 without a published per-position split; this assumes four of them sit in the hub corners (now 10×18×5) and one stays in the transmission/center. Confirm against the actual hardware. If you take the **brass-bushing alternative** above, drop the 10×18×5 row and add four more **10×15×4** (sleeved) instead.
+> **\*** **The split follows from the count.** A bearing position doesn't disappear when you change what sits in it, so **all three builds total 22**. The mod swaps the **four hub corners**, so of the five stock 12×18×4 exactly **four were hub axle positions** and **one is the transmission/centre**. That's arithmetic rather than an assumption, though it does rest on the hub corners having been 12×18×4 in the first place, which is what the Raptor R EHD hubs take.
 
 
 ---
 
 ## Three builds side by side
 
-The hub bearing is the only thing that differs. Everything else is the stock BL-2S set.
+The hub bearing is the only thing that differs. Everything else is the stock BL-2S set, and since **a bearing position doesn't disappear when you change what sits in it**, **all three builds total 22**. Only the size in the hub corners changes.
 
 | Position | Stock BL-2S | This car (FastAz) | Mike's Jato |
 |:---|:---:|:---:|:---:|
