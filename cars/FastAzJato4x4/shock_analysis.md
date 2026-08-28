@@ -77,7 +77,7 @@ The standoff is the pivot post the shock eyelet rides on where the shock bolts t
 | Part | Spec | Fits | Photo |
 |---|---|---|---|
 | ⭐ **HB Racing Shock Standoff (2)**, **HBS67410** (= **HPI Vorza Flux 67410**), ✅ **purchased 2026-08-16** ($3.99/pair, AMain) | Molded shock standoffs, 2 per pack. **2 pairs = 4 standoffs (1 per shock)**, they mount the larger D8 shocks on the CF towers | Hot Bodies D8 + Apache C1 big-bore; CF towers | <img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="250"> |
-| 🔵 **HPI Shock Stand Off (2)**, **HPI160185**, *direct replacement, pricier* | Different part # from the HBS67410 but a **direct replacement** (interchangeable), 2 per pack | Same big-bore shocks / CF towers | <img src="src/suspension_hpi_shock_standoff_160185.jpg" width="250"><br>$8.49 |
+| 🔵 **HPI Shock Stand Off (2)**, **HPI160185** — *direct replacement, pricier* | Different part # from the HBS67410 but a **direct replacement** (interchangeable), 2 per pack | Same big-bore shocks / CF towers | <img src="src/suspension_hpi_shock_standoff_160185.jpg" width="250"><br>$8.49 |
 
 > **Plastic (HPI Apache C1) alternative, free:** on the plastic HPI shocks you can skip the HB standoff and **force a Traxxas hollow ball straight into the shock eyelet**, the same [hollow balls used in the tie rod ends](tie_rod_analysis.md#pivot-balls). It press-fits and holds; tested, it works. So HBS67410 is the tidy option for the metal D8 path, while the plastic path can reuse the hollow balls already on hand.
 
