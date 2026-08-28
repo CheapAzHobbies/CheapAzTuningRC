@@ -5,7 +5,7 @@
 > - **Axle bodies:** the full 4-set of cheap **AliExpress CVDs** (6852/6851 clones, 5mm diff end), with genuine **TRA6752 long output shafts at the front only (2×)** for the extra length; the **rear reuses the set's stock-length TRA6750 shafts**. (4× 6752 bought, so 2 are spare.) **Sell the OG stubs** to offset cost. See [2WD long CVDs](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 > - **Center driveshaft: Jato 4x4 BL-2S take-off shaft (7455), $2.49, bought instead of the TRA6855.** Native Jato fitment, bundle includes a pinion + bearings.
 >
-> **This doc is the driveline only** (shafts, stubs, output shafts, center shaft). The **hubs + bearings** (Raptor R hubs, 10×18×5 inner, etc.) live in [`hub_carrier_analysis.md`](hub_carrier_analysis.md); the **17mm wheel hexes** live in [`wheel_hex_analysis.md`](wheel_hex_analysis.md).
+> **This doc is the driveline only** (shafts, stubs, output shafts, center shaft). The **hubs + bearings** (Raptor R hubs, 10×15×4 inner in a sleeve, etc.) live in [`hub_carrier_analysis.md`](hub_carrier_analysis.md); the **17mm wheel hexes** live in [`wheel_hex_analysis.md`](wheel_hex_analysis.md).
 >
 > **Now a fallback (spares):** E-Revo 1.0 CVDs chopped to fit (keyed sleeve + Loctite 680) in the [comparison](#axle-wheel-driveshaft-comparison), only relevant again if the diff plan moves back to the E-Revo 1.0 (6mm).
 
@@ -94,7 +94,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 | Shorter OG output shafts (**2 front**, replaced by the 6752; rear 2 stay on the car) | ~$4–8 |
 | **Est. offset** | **~$16–28** |
 
-**Estimated net ≈ $49–61 per set of 4** (gross − resale). Not counted: the **10×18×5 hub bearings ×4** (front + rear, ~$6–10, a hub part; fitted and working). For reference a genuine set is **$69.95 for only two** TRA6851R, this makes a full set of **4**, longer front *and* stronger with the M6 stubs.
+**Estimated net ≈ $49–61 per set of 4** (gross − resale). Not counted: the **10×15×4 hub bearings ×4 and their sleeves** (front + rear, ~$6–10, a hub part; fitted and working). For reference a genuine set is **$69.95 for only two** TRA6851R, this makes a full set of **4**, longer front *and* stronger with the M6 stubs.
 
 <p align="center"><img src="src/drivetrain_traxxas_2wd_rear_cvd_1951r.jpg" width="360"><br><em>Traxxas 1951R, 2WD rear steel CVDs (~10mm longer than the 6852R/6851R). This is the length we're after.</em></p>
 
@@ -102,7 +102,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 **Why longer:** the extra ~10mm at the **front** suits the wider stance. **Tekno stubs at both ends**; the rear runs stock-length TRA6750 shafts.
 
-> **Axle plan (confirmed):** **front = Tekno TKR1654-17 17mm M6 stub**, **rear = Tekno TKR5570-17 SCT410 kit** (the 5580 stub + 17mm hexes), ✅ confirmed a perfect fit (the 5070 was ruled out, too large). Hub + bearing sizing (10×18×5 front inner, etc.) is in [`hub_carrier_analysis.md`](hub_carrier_analysis.md).
+> **Axle plan (confirmed):** **front = Tekno TKR1654-17 17mm M6 stub**, **rear = Tekno TKR5570-17 SCT410 kit** (the 5580 stub + 17mm hexes), ✅ confirmed a perfect fit (the 5070 was ruled out, too large). Hub + bearing sizing (10×15×4 front inner in a sleeve, etc.) is in [`hub_carrier_analysis.md`](hub_carrier_analysis.md).
 
 <p align="center"><img src="src/drivetrain_jato_axle_comparison_10mm_longer.jpg" width="440"><br><em>Knock-off CVD + rear CVD parts, with the two 10mm-longer bare axles (top right) next to the originals.</em></p>
 
@@ -112,7 +112,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 
 ## Tekno stubs (front + rear)
 
-The build runs Tekno M6 stubs at both ends. **Front = the TKR1654-17 17mm M6 hub adapter.** **Rear = the Tekno TKR5570-17 SCT410 kit** (the 5580 stub + 17mm hexes), ✅ confirmed a perfect fit in the rear hubs (the 5070 is much larger, ruled out, see the row below). Hub + inner-bearing sizing (10×18×5, etc.) is in [`hub_carrier_analysis.md`](hub_carrier_analysis.md#axle--hub-compatibility); the **17mm wheel hexes that mount to these stubs** are in [`wheel_hex_analysis.md`](wheel_hex_analysis.md).
+The build runs Tekno M6 stubs at both ends. **Front = the TKR1654-17 17mm M6 hub adapter.** **Rear = the Tekno TKR5570-17 SCT410 kit** (the 5580 stub + 17mm hexes), ✅ confirmed a perfect fit in the rear hubs (the 5070 is much larger, ruled out, see the row below). Hub + inner-bearing sizing (10×15×4 in a sleeve, etc.) is in [`hub_carrier_analysis.md`](hub_carrier_analysis.md#axle--hub-compatibility); the **17mm wheel hexes that mount to these stubs** are in [`wheel_hex_analysis.md`](wheel_hex_analysis.md).
 
 > ⚠️ **Don't mix up the part numbers.** **TKR55*80*** = the bare rear stub only. **TKR55*70*-17** = the full SCT410 kit (2 stubs + 2 17mm hexes + nuts + cross-pins). Buy the **-70 kit** to get the stub *and* the hexes in one, not the bare **-80** stub.
 

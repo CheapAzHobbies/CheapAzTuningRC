@@ -49,4 +49,4 @@
 - **Pin-through beats screw-pin when shaving thin.** The Tekno OEM hex's cross-pin runs *through* the hex, so even shaved thin it holds securely, the reason it's the front pick over the solid TRA6469, which relies on a screw pin and has less meat to give up.
 - **Star vs non-star hex.** Stock Traxxas wheels have a **star-shaped inner pattern**. The **star-drive TKR5570-17 (rear) takes both standard 17mm and Traxxas star rims**; the **non-star front TKR1654-17 takes standard 17mm rims only**. This build runs standard 17mm wheels (RedSpider etc.), so it's a non-issue either way.
 - **Both ends need light filing.** The front (TKR1654-17 hex) and the rear (TKR5570-17 kit hexes) are different parts, but each seats on the M6 stub with the same light shave.
-- **Hubs + bearings are separate.** Hub carriers and bearing sizing (10×18×5 inner for the Raptor R + M6 front, etc.) live in [`hub_carrier_analysis.md`](hub_carrier_analysis.md), not here.
+- **Hubs + bearings are separate.** Hub carriers and bearing sizing (10×15×4 inner in a sleeve for the Raptor R + M6 front, etc.) live in [`hub_carrier_analysis.md`](hub_carrier_analysis.md), not here.

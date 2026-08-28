@@ -19,7 +19,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Bumpers**, `bumper_analysis.md`
 - [x] **Aero / body** — **Jato 3.3 shell (5511A red) chosen**, its integrated wing replaces the buggy wing; the AliExpress wing + TRA9046 mount dropped to spares. JConcepts P2 buggy-body fallback. `aero_analysis.md`
 - [x] **Swaybars** — **decided: none** (track works better without them), `swaybar_analysis.md`
-- [x] **Bearings** — OG stock-kit list + as-built modded (four **10×18×5** hub bearings for the Tekno-stub axles, confirmed; brass/alu sleeve alt noted), `bearings_reference.md`
+- [x] **Bearings** — OG stock-kit list + as-built modded (four **10×15×4** hub bearings in an 18→15mm sleeve for the Tekno-stub axles, confirmed; bare 10×18×5 noted as the alternative), `bearings_reference.md`
 - [x] **Steering knuckles / C-hubs + rear axle carriers**, Traxxas Raptor R Ultimate alloy purchased, `hub_carrier_analysis.md`
 - [x] **Tie rods + camber links**, ACER titanium M4×60 turnbuckles (all 6 links, purchased) + RPM white long rod ends (running the cheap ones), `tie_rod_analysis.md`
 - [x] **Steering bell crank**, GPM aluminum 6845X, in hand, `steering_bell_crank_analysis.md`
@@ -49,6 +49,6 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 
 - [ ] Buy the **TKR5570-17 rear kit** for the rear 17mm hexes (5580 stubs already in hand)
 - [ ] Confirm the **AliExpress steel diffs** (front + rear) in hand vs still to-buy
-- [ ] Source the **10×18×5 hub bearings** (or the alu/SS sleeve + 10×15×4 alternative) — spec confirmed and fitted
+- [x] Hub bearings sorted: **10×15×4 in an 18→15mm sleeve**, fitted and running. Bare **10×18×5** is the alternative if the sleeve ever comes out
 - [ ] README: keep synced as the open picks (wheels/tires, pinion, battery, radio) finalize
 - [ ] Confirm the genuine Apache C1 body material vs the Amazon "aluminum" listing field

@@ -21,9 +21,11 @@ Not a tuning decision, just the full list of bearings the build needs. The basel
 
 ## What changed on this car
 
-**The one axle deviation, confirmed and working:** the custom axles (**Tekno stubs + the Traxxas knock-off CVDs**) run a **10×18×5** hub bearing at **all four corners (×4)** in place of the Raptor R EHD hubs' **12×18×4** axle bearing. Dropping the ID from 12mm to 10mm (and going **5mm** thick, a common off-the-shelf size, vs a non-standard 10×18×4) is what lets the Tekno M6 stub seat. **Fitted and running.** Full reasoning in [`hub_carrier_analysis.md`](hub_carrier_analysis.md#bearings--hardware).
+**The one axle deviation:** the custom axles (**Tekno stubs + the Traxxas knock-off CVDs**) need a smaller-ID bearing than the Raptor R EHD hubs' **12×18×4**. Two ways to get there, a bare **10×18×5** dropped in, or a **10×15×4 in a sleeve**. This car runs the sleeve. Dropping the ID from 12mm to 10mm (and going **5mm** thick, a common off-the-shelf size, vs a non-standard 10×18×4) is what lets the Tekno M6 stub seat. **Fitted and running.** Full reasoning in [`hub_carrier_analysis.md`](hub_carrier_analysis.md#bearings--hardware).
 
 **Alternative (no special bearing to buy):** turn a thin **brass bushing / sleeve (15mm ID → 18mm OD)** to fill the gap between the hub's 18mm pocket and a **10×15×4** bearing, press-fit it in with retaining compound (green Loctite), then run four **10×15×4** (a cheap, common size). Their **10mm ID already fits the Tekno stub**, so this path skips the 10×18×5 entirely. Trade-off: a bit of machining/press work per corner vs just dropping in the off-the-shelf 10×18×5.
+
+**Why sleeve at all rather than buy the bigger bearing:** **10×15×4 is far easier to source** than a 10×18×5, and this car already runs four of them in the diff outdrives, so it's one size to stock instead of two. The bare 10×18×5 route also means **shaving the hubs**, which is what [Mike's Jato](../Jato4x4_Mike/README.md) had to do.
 
 **Third option, printed instead of turned:** the same sleeve can just be **3D printed**, **18mm OD, 15mm ID, 4mm thick**, which drops a common **10×15×4** bearing into the hub's 18mm pocket with no machining and nothing to shave down. It also lands the track width exactly where it should be, **1mm per side**, rather than chasing it by trimming a 17mm adapter. Print it in something dimensionally stable, PETG rather than PLA, and retain it the same way with green Loctite. 🚧 Not printed or fitted yet, so treat the fit as unverified. Worth saving the STL into `3d-models/` once it's made.
 
@@ -33,19 +35,21 @@ Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**
 
 ## This car, as built (modded)
 
-The actual bearing list running on FastAzJato4x4: the four hub axle bearings are **10×18×5** for the Tekno-stub / knock-off-CVD axles; the rest is the stock kit.
+The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10×15×4 in a sleeve**, not a bare 10×18×5. The sleeve fills the hub's 18mm pocket down to 15mm, so a common cheap bearing does the job and **nothing has to be shaved**. The rest is the stock kit.
+
+> **[Mike's Jato](../Jato4x4_Mike/README.md) took the other route:** a **larger bearing straight into the inner wheel hub**, which works but **means shaving the hubs to make it fit**. Same problem, two answers. This car sleeves the pocket down, his opens the hub up.
 
 | Size (mm) | Qty | Where on this car |
 |---|---|---|
-| **10×18×5** ⚙️ | 4 | **Custom axle hubs (Tekno stub + knock-off CVD), the mod** |
+| **10×15×4** ⚙️ | 4 | **Custom axle hubs (Tekno stub + knock-off CVD), in an 18→15mm sleeve, the mod** |
 | **6×12×4** | 6 | Wheel hubs / axle carriers |
 | **12×18×4** | 1* | Transmission / center driveline (the non-hub one) |
-| **10×15×4** | 4 | Diff outdrives |
+| **10×15×4** | 4 | Diff outdrives (same size as the hubs above, 8 total on the car) |
 | **8×16×5** | 2 | Diff inputs |
 | **5×8×2.5** | 4 | Steering bellcrank |
 | **5×11×4** | 1 | Center / slipper |
 
-**Total: 22 bearings** (same count as OG, four hub 12×18×4 swapped to 10×18×5).
+**Total: 22 bearings** (same count as OG, four hub 12×18×4 swapped to 10×15×4 in sleeves).
 
 > **\*** The OG kit lists five 12×18×4 without a published per-position split; this assumes four of them sit in the hub corners (now 10×18×5) and one stays in the transmission/center. Confirm against the actual hardware. If you take the **brass-bushing alternative** above, drop the 10×18×5 row and add four more **10×15×4** (sleeved) instead.
 
