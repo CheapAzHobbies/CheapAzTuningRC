@@ -66,23 +66,23 @@ Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**
 
 ---
 
-## Three builds side by side
+## Bearings by position, all four routes
 
-The hub bearing is the only thing that differs. Everything else is the stock BL-2S set, and since **a bearing position doesn't disappear when you change what sits in it**, **all three builds total 22**. Only the size in the hub corners changes.
+The hub bearing is the only position that differs. Since **a bearing position doesn't disappear when you change what sits in it**, **every route totals 22**. Only the size in the hub corners changes, and on this car the bellcrank four are bushings rather than bearings.
 
-| Position | Stock BL-2S | This car (FastAz) | Mike's Jato |
-|:---|:---:|:---:|:---:|
-| **Hub / axle** | **12×18×4** ×4 | **10×15×4** ×4 in an **18 × 15 × 4mm sleeve** | **10×18×5** ×4 **direct** |
-| What it costs | nothing, it's stock | printing or turning a sleeve, **18mm OD × 15mm ID × 4mm** | **shaving down the 17mm hex adapters** |
-| Bearing availability | common | **common, and shared with the diff outdrives** | harder to find |
-| Distinct sizes to stock | 6 | **6** | **7** |
-| Wheel hubs / carriers | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 |
-| Diff outdrives | 10×15×4 ×4 | 10×15×4 ×4 | 10×15×4 ×4 |
-| Diff inputs | 8×16×5 ×2 | 8×16×5 ×2 | 8×16×5 ×2 |
-| Transmission / centre | 12×18×4 ×5 total | 12×18×4 ×1 | 12×18×4 ×1 |
-| Steering bellcrank | 5×8×2.5 ×4 (TRA5114) | **TRA3775 Oilite bushings ×4** | 5×8×2.5 ×4 (TRA5114) |
-| Centre / slipper | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 |
-| **Total positions** | **22** | **22** (18 bearings + 4 bushings) | **22** |
+| Position | Stock BL-2S | This car (FastAz) | Mike's Jato | Pocket deepened 🚫 |
+|:---|:---:|:---:|:---:|:---:|
+| **Hub / axle** | **12×18×4** ×4 | **10×15×4** ×4 in a sleeve | **10×18×5** ×4 | **10×18×5** ×4 |
+| Wheel hubs / carriers | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 |
+| Diff outdrives | 10×15×4 ×4 | 10×15×4 ×4 | 10×15×4 ×4 | 10×15×4 ×4 |
+| Diff inputs | 8×16×5 ×2 | 8×16×5 ×2 | 8×16×5 ×2 | 8×16×5 ×2 |
+| Transmission / centre | 12×18×4 ×5 total | 12×18×4 ×1 | 12×18×4 ×1 | 12×18×4 ×1 |
+| Steering bellcrank | 5×8×2.5 ×4 (TRA5114) | **TRA3775 bushings ×4** | 5×8×2.5 ×4 | 5×8×2.5 ×4 |
+| Centre / slipper | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 |
+| **Total positions** | **22** | **22** (18 brg + 4 bush) | **22** | **22** |
+| **Distinct sizes** | 6 | **6** | 7 | 7 |
+
+**The fourth column is bearing-identical to Mike's.** Deepening the pocket and shaving the adapters both end up running the same **10×18×5**, they just take the 1mm out of different parts. It's listed so the option is visible, not because it changes what you order. Nobody runs it, see [the method table above](#what-changed-on-this-car) for why.
 
 **Why the split happened.** Both cars run custom axles (Tekno stubs on knock-off CVDs) which need a **10mm ID** where the Raptor R EHD hubs came with **12×18×4**. Getting a 10mm ID into an 18mm pocket has two answers: fill the pocket down to a bearing you can buy, or open the hub up to take a bigger one.
 
