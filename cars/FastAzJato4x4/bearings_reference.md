@@ -88,7 +88,4 @@ The hub bearing is the only position that differs. Since **a bearing position do
 
 **Mike's opens the hub.** A bare 10×18×5 drops straight in, but the **17mm hex adapters have to be shaved down** to clear it. **That's the adapters, not the hub carriers**, which stay stock. No sleeve to make, but it's a permanent cut on the adapters and a bearing that's harder to source.
 
-🚧 Mike's list is inferred from the hub bearing being the only stated difference. Confirm the rest against his car before ordering off it.
-
-
 Sources: [Avid Jato 4x4 BL-2s kit (90154-4)](https://www.avidrc.com/flexkit/?kit=4380&kitname=Jato+4x4+BL-2S+%2890154-4%29) · [Avid Jato 4x4 BL-2s](https://www.rcteam.com/en/products/avid-complete-bearing-kit-traxxas-jato-4x4-bl-2s-av-trx-jto-4x4-bl2s)
