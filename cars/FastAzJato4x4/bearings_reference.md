@@ -15,7 +15,9 @@ Not a tuning decision, just the full list of bearings the build needs. The basel
 
 **Total: 22 bearings.**
 
-> The "typical location" column is best-effort, Avid doesn't publish the exact per-position split. Pop everything apart and confirm sizes against the actual hardware before ordering.
+> ✅ **Sizes and quantities verified 2026-08-27** against the [Avid complete kit for the Jato 4x4 BL-2S (90154-4)](https://avidrc.com/flexkit/?kit=4380), which lists 6×12×4 ×6, 12×18×4 ×5, 5×8×2.5 ×4, 10×15×4 ×4, 8×16×5 ×2, 5×11×4 ×1. All six match, 22 total.
+>
+> The "typical location" column is still best-effort, Avid doesn't publish the exact per-position split. Pop everything apart and confirm sizes against the actual hardware before ordering.
 
 ---
 
