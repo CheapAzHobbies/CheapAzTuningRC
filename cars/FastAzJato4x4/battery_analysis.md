@@ -13,10 +13,10 @@
 | Requirement | Type | Why |
 |---|---|---|
 | **4S (14.8V)** | Must | The MAX10 G2 + 3665SD 2400KV combo is geared/tuned for 4S |
-| **Light** | Must | **This is the real constraint.** Every pack in the table gets ranked on grams, because on this chassis weight is what hurts handling. Nothing else here is a hard limit |
+| **Light** | Must | **The real constraint.** The pack running now is **518g**, so that's the number to beat. The table spans **452g to 573g**, and the useful split is **LiHV around 452 to 480g** against **standard LiPo around 490 to 525g**. Under 500g is the target, over 550g rules a pack out |
+| **Smaller than 163 × 50 × 40mm** (L × W × H) | Must | The envelope that keeps packs swappable with Mike's Jato. Length is the easy one, nothing here comes close to 163mm. **Width is 50mm for a hard case and about 51mm for a soft one**, since a soft pack squeezes in and a hard one won't |
 | **Hard case preferred** | May | **The sand at Meldrum chafes soft packs.** Grit gets into the tray and works at the shrink wrap, so a hard case earns its slightly higher weight. Not a rule, the pack running now is soft case, but it counts against a soft one when two are close |
 | **4000-5500mAh** | May | Run time preference, not a rule. **Capacity is a poor proxy for weight**, a 6000 can undercut a 5000 depending on chemistry and construction, so the gram figure decides rather than the mAh |
-| **Smaller than 163 × 50 × 40mm** (L × W × H) | Must | The envelope that keeps packs swappable with Mike's Jato. Length is the easy one, nothing here comes close to 163mm. **Width is 50mm for a hard case and about 51mm for a soft one**, since a soft pack squeezes in and a hard one won't |
 | **35mm tall or less** | May | **On Mike's stock Jato, 35mm is where the standard battery bar still works**; taller than that, up to the 40mm ceiling, needs a 3D printed bar. Doesn't constrain this car, the CF chassis has its own holder, but a pack at 35mm drops straight into both. Lower is better for CG anyway |
 | **Enough C-rating for the 140A ESC** | May | Any modern reputable pack (~50C+) handles the current fine at this capacity, not a limiting factor |
 | **Connector matches the ESC** | May | Match the MAX10 G2 connector or adapt |
