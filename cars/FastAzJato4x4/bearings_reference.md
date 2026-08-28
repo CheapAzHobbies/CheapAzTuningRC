@@ -53,6 +53,35 @@ The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10
 
 > **\*** The OG kit lists five 12×18×4 without a published per-position split; this assumes four of them sit in the hub corners (now 10×18×5) and one stays in the transmission/center. Confirm against the actual hardware. If you take the **brass-bushing alternative** above, drop the 10×18×5 row and add four more **10×15×4** (sleeved) instead.
 
+
 ---
+
+## Three builds side by side
+
+The hub bearing is the only thing that differs. Everything else is the stock BL-2S set.
+
+| Position | Stock BL-2S | This car (FastAz) | Mike's Jato |
+|:---|:---:|:---:|:---:|
+| **Hub / axle** | **12×18×4** ×4 | **10×15×4** ×4 **in an 18→15mm sleeve** | **10×18×5** ×4 **direct** |
+| What it costs | nothing, it's stock | printing or turning a sleeve | **shaving the hubs to fit** |
+| Bearing availability | common | **common, and shared with the diff outdrives** | harder to find |
+| Distinct sizes to stock | 6 | **6** | **7** |
+| Wheel hubs / carriers | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 |
+| Diff outdrives | 10×15×4 ×4 | 10×15×4 ×4 | 10×15×4 ×4 |
+| Diff inputs | 8×16×5 ×2 | 8×16×5 ×2 | 8×16×5 ×2 |
+| Transmission / centre | 12×18×4 ×5 total | 12×18×4 ×1 | 12×18×4 ×1 |
+| Steering bellcrank | 5×8×2.5 ×4 | 5×8×2.5 ×4 | 5×8×2.5 ×4 |
+| Centre / slipper | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 |
+| **Total** | **22** | **22** | **22** |
+
+**Why the split happened.** Both cars run custom axles (Tekno stubs on knock-off CVDs) which need a **10mm ID** where the Raptor R EHD hubs came with **12×18×4**. Getting a 10mm ID into an 18mm pocket has two answers: fill the pocket down to a bearing you can buy, or open the hub up to take a bigger one.
+
+**This car sleeves it.** No machining, and the **10×15×4 is already in the parts box** for the diff outdrives, so it adds no new size to the parts box, and it's the easier bearing to find.
+
+**Mike's opens the hub.** A bare 10×18×5 drops straight in once the hubs are shaved, so no sleeve to make, but it's a permanent modification to the hubs and a bearing that's harder to source.
+
+🚧 Mike's list is inferred from the hub bearing being the only stated difference. Confirm the rest against his car before ordering off it.
+
+
 
 Sources: [Avid Jato 4x4 BL-2s kit (90154-4)](https://www.avidrc.com/flexkit/?kit=4380&kitname=Jato+4x4+BL-2S+%2890154-4%29) · [Avid Jato 4x4 BL-2s](https://www.rcteam.com/en/products/avid-complete-bearing-kit-traxxas-jato-4x4-bl-2s-av-trx-jto-4x4-bl2s)
