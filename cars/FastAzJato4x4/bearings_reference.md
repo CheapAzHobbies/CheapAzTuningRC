@@ -2,6 +2,28 @@
 
 Not a tuning decision, just the full list of bearings the build needs. The baseline matches the **Traxxas Jato 4x4 BL-2s (90154-4) complete bearing kit**, it's a 1/8-class platform, so bigger bearings than a Slash 4x4. Run sealed (rubber-shielded) bearings throughout for offroad. Two tables below: the **OG stock-kit baseline**, and the **as-built list for this car** with the axle mod applied.
 
+## This car, as built (modded)
+
+The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10×15×4 in a sleeve**, not a bare 10×18×5. The sleeve fills the hub's 18mm pocket down to 15mm, so a common cheap bearing does the job and **nothing has to be shaved**. The rest is the stock kit.
+
+> **[Mike's Jato](../Jato4x4_Mike/README.md) took the other route:** a **larger bearing straight into the inner wheel hub**, which works but **means shaving down the 17mm hex adapters to clear it**, not the hub carriers. Same problem, two answers. This car sleeves the pocket down, his opens the hub up.
+
+| Size (mm) | Qty | Where on this car |
+|---|---|---|
+| **10×15×4** ⚙️ | 4 | **Custom axle hubs (Tekno stub + knock-off CVD), in an 18→15mm sleeve, the mod** |
+| **6×12×4** | 6 | Wheel hubs / axle carriers |
+| **12×18×4** | 1* | Transmission / center driveline (the non-hub one) |
+| **10×15×4** | 4 | Diff outdrives (same size as the hubs above, 8 total on the car) |
+| **8×16×5** | 2 | Diff inputs |
+| ~~**5×8×2.5**~~ | 0 | **Not fitted.** The four **TRA5114** bellcrank bearings were swapped for **TRA3775** Oilite bushings |
+| **5×11×4** | 1 | Center / slipper |
+
+**Total: 18 ball bearings + 4 Oilite bushings** (22 positions, same as OG). Two swaps from stock: the four hub **12×18×4** became **10×15×4 in sleeves**, and the four bellcrank **TRA5114** bearings became **TRA3775** bushings. **The bearings lock up and chew the steering post**, because a bell crank only rocks through a tiny arc so the balls dig into the same spot instead of rolling onto fresh metal. The bushings just slide, and the post survives. Full reasoning in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#key-requirements) (see [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md)).
+
+> **\*** **The split follows from the count.** A bearing position doesn't disappear when you change what sits in it, so **all three builds total 22**. The mod swaps the **four hub corners**, so of the five stock 12×18×4 exactly **four were hub axle positions** and **one is the transmission/centre**. That's arithmetic rather than an assumption, though it does rest on the hub corners having been 12×18×4 in the first place, which is what the Raptor R EHD hubs take.
+
+---
+
 ## OG — Stock Jato 4x4 BL-2s kit (baseline)
 
 | Size (mm) | Qty | Typical location |
@@ -44,25 +66,6 @@ Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**
 
 ---
 
-## This car, as built (modded)
-
-The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10×15×4 in a sleeve**, not a bare 10×18×5. The sleeve fills the hub's 18mm pocket down to 15mm, so a common cheap bearing does the job and **nothing has to be shaved**. The rest is the stock kit.
-
-> **[Mike's Jato](../Jato4x4_Mike/README.md) took the other route:** a **larger bearing straight into the inner wheel hub**, which works but **means shaving down the 17mm hex adapters to clear it**, not the hub carriers. Same problem, two answers. This car sleeves the pocket down, his opens the hub up.
-
-| Size (mm) | Qty | Where on this car |
-|---|---|---|
-| **10×15×4** ⚙️ | 4 | **Custom axle hubs (Tekno stub + knock-off CVD), in an 18→15mm sleeve, the mod** |
-| **6×12×4** | 6 | Wheel hubs / axle carriers |
-| **12×18×4** | 1* | Transmission / center driveline (the non-hub one) |
-| **10×15×4** | 4 | Diff outdrives (same size as the hubs above, 8 total on the car) |
-| **8×16×5** | 2 | Diff inputs |
-| ~~**5×8×2.5**~~ | 0 | **Not fitted.** The four **TRA5114** bellcrank bearings were swapped for **TRA3775** Oilite bushings |
-| **5×11×4** | 1 | Center / slipper |
-
-**Total: 18 ball bearings + 4 Oilite bushings** (22 positions, same as OG). Two swaps from stock: the four hub **12×18×4** became **10×15×4 in sleeves**, and the four bellcrank **TRA5114** bearings became **TRA3775** bushings. **The bearings lock up and chew the steering post**, because a bell crank only rocks through a tiny arc so the balls dig into the same spot instead of rolling onto fresh metal. The bushings just slide, and the post survives. Full reasoning in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#key-requirements) (see [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md)).
-
-> **\*** **The split follows from the count.** A bearing position doesn't disappear when you change what sits in it, so **all three builds total 22**. The mod swaps the **four hub corners**, so of the five stock 12×18×4 exactly **four were hub axle positions** and **one is the transmission/centre**. That's arithmetic rather than an assumption, though it does rest on the hub corners having been 12×18×4 in the first place, which is what the Raptor R EHD hubs take.
 
 
 ---
