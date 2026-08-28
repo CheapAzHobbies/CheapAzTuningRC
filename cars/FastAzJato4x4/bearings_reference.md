@@ -67,7 +67,7 @@ The hub bearing is the only position that differs. Since **a bearing position do
 |:---|:---:|:---:|:---:|:---:|
 | **Hub / axle** | **12×18×4** ×4 | **10×15×4** ×4 in an **18 × 15 × 4mm sleeve** | **10×18×5** ×4 **direct** | **10×18×5** ×4 **direct** |
 | What it costs | nothing, it's stock | printing or turning a sleeve, **18mm OD × 15mm ID × 4mm** | **shaving down the 17mm hex adapters** | **1mm off the carrier's bearing pocket**, needs a lathe or mill |
-| Bearing availability | common | **common, and shared with the diff outdrives** | harder to find | harder to find |
+| Bearing availability | common | **already in the parts box**, shared with the diff outdrives | **standard size**, just not an RC one | **standard size**, just not an RC one |
 | Distinct sizes to stock | 6 | **6** | **7** | **7** |
 | **Reversible?** | n/a | ✅ **yes**, pull the sleeve and it's stock | ❌ no, the adapters are cut | ❌ no, the carrier is cut |
 | Wheel hubs / carriers | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 |
@@ -84,7 +84,7 @@ The hub bearing is the only position that differs. Since **a bearing position do
 
 **Why the split happened.** Both cars run custom axles (Tekno stubs on knock-off CVDs) which need a **10mm ID** where the Raptor R EHD hubs came with **12×18×4**. Getting a 10mm ID into an 18mm pocket has two answers: fill the pocket down to a bearing you can buy, or open the hub up to take a bigger one.
 
-**This car sleeves it.** No machining, and the **10×15×4 is already in the parts box** for the diff outdrives, so it adds no new size to the parts box, and it's the easier bearing to find.
+**This car sleeves it.** No machining, and the **10×15×4 is already in the parts box** for the diff outdrives, so it adds no new size to stock. The **10×18×5 is a standard bearing** and easy enough to buy, it just isn't a size RC cars use, so it comes from a bearing supplier rather than with the rest of a hobby order.
 
 **Mike's opens the hub.** A bare 10×18×5 drops straight in, but the **17mm hex adapters have to be shaved down** to clear it. **That's the adapters, not the hub carriers**, which stay stock. No sleeve to make, but it's a permanent cut on the adapters and a bearing that's harder to source.
 
