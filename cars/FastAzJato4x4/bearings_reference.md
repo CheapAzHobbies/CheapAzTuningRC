@@ -25,13 +25,16 @@ Not a tuning decision, just the full list of bearings the build needs. The basel
 
 ## What changed on this car
 
-**The one axle deviation:** the custom axles (**Tekno stubs + the Traxxas knock-off CVDs**) need a smaller-ID bearing than the Raptor R EHD hubs' **12×18×4**. Two ways to get there, a bare **10×18×5** dropped in, or a **10×15×4 in a sleeve**. This car runs the sleeve. Dropping the ID from 12mm to 10mm (and going **5mm** thick, a common off-the-shelf size, vs a non-standard 10×18×4) is what lets the Tekno M6 stub seat. **Fitted and running.** Full reasoning in [`hub_carrier_analysis.md`](hub_carrier_analysis.md#bearings--hardware).
+**The one axle deviation:** the custom axles (**Tekno stubs + the Traxxas knock-off CVDs**) need a smaller-ID bearing than the Raptor R EHD hubs' **12×18×4**. Two ways to get there.
 
-**Alternative (no special bearing to buy):** turn a thin **brass bushing / sleeve (15mm ID → 18mm OD)** to fill the gap between the hub's 18mm pocket and a **10×15×4** bearing, press-fit it in with retaining compound (green Loctite), then run four **10×15×4** (a cheap, common size). Their **10mm ID already fits the Tekno stub**, so this path skips the 10×18×5 entirely. Trade-off: a bit of machining/press work per corner vs just dropping in the off-the-shelf 10×18×5.
+**What this car runs: a sleeve plus a 10×15×4.** A thin sleeve, **18mm OD × 15mm ID × 4mm**, fills the hub's 18mm pocket down to 15mm so a common **10×15×4** drops in. Its 10mm ID already fits the Tekno stub. Press it in with retaining compound (green Loctite). **Two ways to make the sleeve:**
 
-**Why sleeve at all rather than buy the bigger bearing:** **10×15×4 is far easier to source** than a 10×18×5, and this car already runs four of them in the diff outdrives, so it's one size to stock instead of two. The bare 10×18×5 route also means **shaving down the 17mm hex adapters**, which is what [Mike's Jato](../Jato4x4_Mike/README.md) had to do. The hub carriers stay stock either way.
+- **Turn it in brass.** A few minutes per corner on a lathe if you have one.
+- **Print it.** Same dimensions, no machining at all. Use something dimensionally stable, PETG over PLA. 🚧 Not printed or fitted yet, so treat that fit as unverified. Save the STL into `3d-models/` once it exists.
 
-**Third option, printed instead of turned:** the same sleeve can just be **3D printed**, **18mm OD, 15mm ID, 4mm thick**, which drops a common **10×15×4** bearing into the hub's 18mm pocket with no machining and nothing to shave down. It also lands the track width exactly where it should be, **1mm per side**, rather than chasing it by trimming a 17mm adapter. Print it in something dimensionally stable, PETG rather than PLA, and retain it the same way with green Loctite. 🚧 Not printed or fitted yet, so treat the fit as unverified. Worth saving the STL into `3d-models/` once it's made.
+**The other way, which [Mike's Jato](../Jato4x4_Mike/README.md) took: a bare 10×18×5.** Drops straight into the 18mm pocket with no sleeve to make, but the **17mm hex adapters have to be shaved down** to clear it. That's the adapters, not the hub carriers.
+
+**Why this car sleeved it instead.** **10×15×4 is far easier to source** than a 10×18×5, and four of them already run in the diff outdrives, so it adds no new size to the parts box. It also needs no permanent cut on the adapters, and it lands the track width at **1mm per side** rather than chasing it by trimming a 17mm adapter down.
 
 Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**, and the front/rear hubs are **Traxxas Raptor R Ultimate EHD alloy** (same 6×12×4 / 12×18×4 EHD bearing sizes as the kit).
 
