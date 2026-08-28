@@ -27,13 +27,16 @@ Not a tuning decision, just the full list of bearings the build needs. The basel
 
 **The one axle deviation.** The custom axles (Tekno stubs on knock-off CVDs) need a **10mm ID** where the Raptor R EHD hubs came with **12×18×4**. Two ways to get a 10mm ID into an 18mm pocket:
 
-| | Sleeve it down ⭐ *this car* | Open it up *(Mike's)* |
-|:---|:---|:---|
-| **Bearing** | 10×15×4 | 10×18×5 |
-| **Needs** | a sleeve, 18mm OD × 15mm ID × 4mm | the 17mm hex adapters shaved down |
-| **Make it** | ✅ **printed in PETG, fitted and working**, or turn it in brass | nothing to make |
-| **Sourcing** | easy, already in the diff outdrives | harder, and a 7th size to stock |
-| **Permanent?** | no | yes, the adapters are cut |
+| | Sleeve it down ⭐ *this car* | Open it up *(Mike's)* | Deepen the pocket 🚫 *not advised* |
+|:---|:---|:---|:---|
+| **Bearing** | 10×15×4 | 10×18×5 | 10×18×5 |
+| **Needs** | a sleeve, 18mm OD × 15mm ID × 4mm | the 17mm hex adapters shaved down | **1mm off the depth of the carrier's bearing pocket** |
+| **Why** | fills an 18mm pocket down to 15mm | the 5mm-thick bearing sits proud of a 4mm pocket, so the adapter has to give | same 1mm, taken out of the carrier instead of the adapter |
+| **Make it** | ✅ **printed in PETG, fitted and working**, or turn it in brass | nothing to make | **lathe or very careful drilling** |
+| **Sourcing** | easy, already in the diff outdrives | harder, and a 7th size to stock | harder, and a 7th size to stock |
+| **Permanent?** | no | yes, the adapters are cut | **yes, and it's the alloy carrier being cut** |
+
+**Why not the third one.** It's the tidiest on paper, stock adapters and the bigger bearing, but **cutting 1mm out of an alloy carrier and keeping it square is hard** without proper tooling. Off-axis and the bearing sits cocked, which is worse than either other option. **Not recommended**, and it's the reason the adapters are the thing that gets shaved on Mike's car rather than the carriers.
 
 Press the sleeve in with green Loctite. ✅ **The printed version is fitted and working**, so no lathe needed. 🚧 Save the STL into `3d-models/`.
 
