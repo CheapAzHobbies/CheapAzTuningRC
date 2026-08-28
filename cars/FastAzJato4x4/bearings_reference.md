@@ -53,7 +53,7 @@ The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10
 
 - **Nothing, if you sleeve instead.** ⭐ **What this car does.** A sleeve, **18mm OD × 15mm ID × 4mm**, fills the pocket down to 15mm and a common **10×15×4** drops in. ✅ **Printed in PETG, fitted, working**, so no lathe needed. Turn it in brass if you'd rather. Press in with green Loctite. 🚧 Save the STL into `3d-models/`.
 - **The 17mm hex adapters.** What [Mike's Jato](../Jato4x4_Mike/README.md) does. Shave them down, run the bigger bearing, nothing to make.
-- **The carrier's bearing pocket.** 🚫 **Not advised.** Tidiest on paper, stock adapters and the bigger bearing, but **cutting 1mm out of an alloy carrier and keeping it square** wants a lathe or very careful drilling. Off-axis and the bearing sits cocked, worse than either other route. It's why the adapters are what gets shaved on Mike's car, not the carriers.
+- **The carrier's bearing pocket.** 🔵 **Technically the best answer, if you have the tools.** Stock adapters, the bigger bearing, nothing else modified, and the 1mm comes out of the part that can most afford it. **The catch is purely access to tooling:** cutting 1mm out of an alloy carrier and keeping it square wants a lathe or a mill. Off-axis and the bearing sits cocked, which is worse than either other route, so it's the right answer only if you can do it properly. Most people can't, which is why the adapters get shaved on Mike's car instead.
 
 Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**, and the front/rear hubs are **Traxxas Raptor R Ultimate EHD alloy** (same 6×12×4 / 12×18×4 EHD bearing sizes as the kit).
 
@@ -63,10 +63,10 @@ Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**
 
 The hub bearing is the only position that differs. Since **a bearing position doesn't disappear when you change what sits in it**, **every route totals 22**. Only the size in the hub corners changes, and on this car the bellcrank four are bushings rather than bearings.
 
-| Position | Stock BL-2S | This car (FastAz) | Mike's Jato | Pocket deepened 🚫 |
+| Position | Stock BL-2S | This car (FastAz) | Mike's Jato | Pocket deepened 🔵 |
 |:---|:---:|:---:|:---:|:---:|
 | **Hub / axle** | **12×18×4** ×4 | **10×15×4** ×4 in an **18 × 15 × 4mm sleeve** | **10×18×5** ×4 **direct** | **10×18×5** ×4 **direct** |
-| What it costs | nothing, it's stock | printing or turning a sleeve, **18mm OD × 15mm ID × 4mm** | **shaving down the 17mm hex adapters** | **1mm off the carrier's bearing pocket**, lathe work |
+| What it costs | nothing, it's stock | printing or turning a sleeve, **18mm OD × 15mm ID × 4mm** | **shaving down the 17mm hex adapters** | **1mm off the carrier's bearing pocket**, needs a lathe or mill |
 | Bearing availability | common | **common, and shared with the diff outdrives** | harder to find | harder to find |
 | Distinct sizes to stock | 6 | **6** | **7** | **7** |
 | **Reversible?** | n/a | ✅ **yes**, pull the sleeve and it's stock | ❌ no, the adapters are cut | ❌ no, the carrier is cut |
@@ -78,7 +78,7 @@ The hub bearing is the only position that differs. Since **a bearing position do
 | Centre / slipper | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 |
 | **Total** | **22** | **22** (18 bearings + 4 bushings) | **22** | **22** |
 
-**The fourth column is bearing-identical to Mike's.** Both run the same **10×18×5**, they just take the 1mm out of different parts. It's listed so the option stays visible, not because it changes what you order.
+**The fourth column is bearing-identical to Mike's.** Both run the same **10×18×5**, they just take the 1mm out of different parts. **It's the cleanest of the three routes on the car itself**, since nothing but the carrier is touched, and it's listed as a candidate rather than a recommendation only because **most people don't have a lathe or mill**. With the tooling, it's what you'd do.
 
 **The fourth column is bearing-identical to Mike's.** Deepening the pocket and shaving the adapters both end up running the same **10×18×5**, they just take the 1mm out of different parts. It's listed so the option is visible, not because it changes what you order. Nobody runs it, see [the method table above](#what-changed-on-this-car) for why.
 
