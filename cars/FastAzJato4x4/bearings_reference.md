@@ -6,18 +6,20 @@ Not a tuning decision, just the full list of bearings the build needs. The basel
 
 | Size (mm) | Qty | Typical location |
 |---|---|---|
-| **6×12×4** | 6 | Wheel hubs / axle carriers |
-| **12×18×4** | 5 | Diffs + transmission / center driveline |
-| **10×15×4** | 4 | Hubs / diff outdrives |
-| **8×16×5** | 2 | Diff inputs |
-| **5×8×2.5** | 4 | Steering bellcrank |
+| **6×12×4** | 6 | **5117 / 5117A**, steering blocks (front), axle carriers (rear) |
+| **12×18×4** | 5 | **5120 / 5120A**, the hub / axle carrier bearing, front and rear |
+| **10×15×4** | 4 | **5119 / 5119A**, differentials **and the transmission**, not the hubs |
+| **8×16×5** | 2 | **5118**, diff inputs, one front one rear |
+| **5×8×2.5** | 4 | **TRA5114** ball bearing, steering bellcrank. **Swapped out on this car** for **TRA3775** Oilite bushings, same 5×8×2.5 |
 | **5×11×4** | 1 | Center / slipper |
 
 **Total: 22 bearings.**
 
 > ✅ **Sizes and quantities verified 2026-08-27** against the [Avid complete kit for the Jato 4x4 BL-2S (90154-4)](https://avidrc.com/flexkit/?kit=4380), which lists 6×12×4 ×6, 12×18×4 ×5, 5×8×2.5 ×4, 10×15×4 ×4, 8×16×5 ×2, 5×11×4 ×1. All six match, 22 total.
 >
-> The "typical location" column is still best-effort, Avid doesn't publish the exact per-position split. Pop everything apart and confirm sizes against the actual hardware before ordering.
+> ✅ **Positions confirmed from the Traxxas exploded views** (Jato 4x4, 90386-4, rev 250801, front / rear / transmission sheets) by reading the part number printed beside each bearing. Free to view on [traxxas.com](https://traxxas.com/parts-finder), not reproduced here since the drawings are Traxxas copyright.
+>
+> **Two things that corrects:** the **12×18×4 is the hub bearing**, not a diff or transmission one, and the **10×15×4 runs in the transmission as well as the diffs**, not in the hubs. 🚧 Per-position quantities still want a physical count, since a drawing labels a part number once even where it appears at both corners.
 
 ---
 
@@ -48,10 +50,10 @@ The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10
 | **12×18×4** | 1* | Transmission / center driveline (the non-hub one) |
 | **10×15×4** | 4 | Diff outdrives (same size as the hubs above, 8 total on the car) |
 | **8×16×5** | 2 | Diff inputs |
-| **5×8×2.5** | 4 | Steering bellcrank |
+| ~~**5×8×2.5**~~ | 0 | **Not fitted.** The four **TRA5114** bellcrank bearings were swapped for **TRA3775** Oilite bushings |
 | **5×11×4** | 1 | Center / slipper |
 
-**Total: 22 bearings** (same count as OG, four hub 12×18×4 swapped to 10×15×4 in sleeves).
+**Total: 18 ball bearings + 4 Oilite bushings** (22 positions, same as OG). Two swaps from stock: the four hub **12×18×4** became **10×15×4 in sleeves**, and the four bellcrank **TRA5114** bearings became **TRA3775** bushings. **The bearings lock up and chew the steering post**, because a bell crank only rocks through a tiny arc so the balls dig into the same spot instead of rolling onto fresh metal. The bushings just slide, and the post survives (see [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md)).
 
 > **\*** **The split follows from the count.** A bearing position doesn't disappear when you change what sits in it, so **all three builds total 22**. The mod swaps the **four hub corners**, so of the five stock 12×18×4 exactly **four were hub axle positions** and **one is the transmission/centre**. That's arithmetic rather than an assumption, though it does rest on the hub corners having been 12×18×4 in the first place, which is what the Raptor R EHD hubs take.
 
@@ -72,9 +74,9 @@ The hub bearing is the only thing that differs. Everything else is the stock BL-
 | Diff outdrives | 10×15×4 ×4 | 10×15×4 ×4 | 10×15×4 ×4 |
 | Diff inputs | 8×16×5 ×2 | 8×16×5 ×2 | 8×16×5 ×2 |
 | Transmission / centre | 12×18×4 ×5 total | 12×18×4 ×1 | 12×18×4 ×1 |
-| Steering bellcrank | 5×8×2.5 ×4 | 5×8×2.5 ×4 | 5×8×2.5 ×4 |
+| Steering bellcrank | 5×8×2.5 ×4 (TRA5114) | **TRA3775 Oilite bushings ×4** | 5×8×2.5 ×4 (TRA5114) |
 | Centre / slipper | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 |
-| **Total** | **22** | **22** | **22** |
+| **Total positions** | **22** | **22** (18 bearings + 4 bushings) | **22** |
 
 **Why the split happened.** Both cars run custom axles (Tekno stubs on knock-off CVDs) which need a **10mm ID** where the Raptor R EHD hubs came with **12×18×4**. Getting a 10mm ID into an 18mm pocket has two answers: fill the pocket down to a bearing you can buy, or open the hub up to take a bigger one.
 
