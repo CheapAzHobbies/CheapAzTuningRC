@@ -14,10 +14,10 @@
 |---|---|---|
 | **4S (14.8V)** | Must | The MAX10 G2 + 3665SD 2400KV combo is geared/tuned for 4S |
 | **Light** | Must | **This is the real constraint.** Every pack in the table gets ranked on grams, because on this chassis weight is what hurts handling. Nothing else here is a hard limit |
-| **Under 40mm tall, 35mm or less preferred** | May | Lower is better for CG, and 40mm is the ceiling that keeps packs swappable with Mike's Jato. 37mm can be forced in if a pack is worth it |
 | **Hard case preferred** | May | **The sand at Meldrum chafes soft packs.** Grit gets into the tray and works at the shrink wrap, so a hard case earns its slightly higher weight. Not a rule, the pack running now is soft case, but it counts against a soft one when two are close |
 | **4000-5500mAh** | May | Run time preference, not a rule. **Capacity is a poor proxy for weight**, a 6000 can undercut a 5000 depending on chemistry and construction, so the gram figure decides rather than the mAh |
-| **Under 163mm long, 50mm wide or less** | Must | Length is the easy one, nothing here comes close to 163mm. **Width is 50mm for a hard case and about 51mm for a soft one**, since a soft pack squeezes in and a hard one won't |
+| **Smaller than 163 × 50 × 40mm** (L × W × H) | Must | The envelope that keeps packs swappable with Mike's Jato. Length is the easy one, nothing here comes close to 163mm. **Width is 50mm for a hard case and about 51mm for a soft one**, since a soft pack squeezes in and a hard one won't |
+| **35mm tall or less** | May | **On Mike's stock Jato, 35mm is where the standard battery bar still works**; taller than that, up to the 40mm ceiling, needs a 3D printed bar. Doesn't constrain this car, the CF chassis has its own holder, but a pack at 35mm drops straight into both. Lower is better for CG anyway |
 | **Enough C-rating for the 140A ESC** | May | Any modern reputable pack (~50C+) handles the current fine at this capacity, not a limiting factor |
 | **Connector matches the ESC** | May | Match the MAX10 G2 connector or adapt |
 
