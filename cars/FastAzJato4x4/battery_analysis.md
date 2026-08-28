@@ -31,16 +31,22 @@
 
 > **None of this constrains this build.** The stock tray is the conservative reference here, not the limit. The FastAz runs the [AliExpress CF LCG chassis](chassis_analysis.md) with its own **aluminium battery holder and strap**, and a taller body over it, so length and height both open up. Its usable tray still needs measuring, but pack size isn't what decides this car's battery, weight is. Until then, treat the stock tray as the conservative reference. It's also the tray on [Mike's Jato](../Jato4x4_Mike/README.md).
 
-| Pack | L × W × H | Length (160.23) | Width (50) | Height (35 / 40 max) | Verdict |
+| Pack | L × W × H | Length (<163) | Width (50, 51 soft) | Height (45 max, 35 ideal) | Verdict |
 |---|---|---|---|---|---|
-| **CNHL Ultra-Thin 6000 LiHV** | 138 × 47 × 37 | ✅ 22mm spare | ✅ 3mm spare | ⚠️ 37, needs the squish | **Only pack clearing L and W with real margin** |
-| **CNHL Racing 5200 90C** | 160 × 45 × 37 | ⚠️ **0.23mm spare** | ✅ 5mm spare | ⚠️ 37, needs the squish | Effectively zero length clearance, hangs entirely on verifying 160.23 |
-| **CNHL Lightning 5500 LiHV** | 149 × 51 × 31 | ✅ 11mm spare | ❌ **1mm over** | ✅ 4mm under nominal | Only one that fits the 35mm nominal height, but it's over on width |
-| Zeee 5200 100C (running) | 🚧 TBD | — |, | — | Measure the pack that's already in the car |
+| **CNHL Lightning 5500 LiHV** | 149 × 51 × 31 | ✅ 14mm spare | ⚠️ 51, soft so it squeezes | ✅ **31mm, clears 35 easily** | **Best fit here.** Only pack under 35mm, so it takes the standard bar on Mike's truck too |
+| **CNHL G+Plus 5000** | 147 × 51 × 34 | ✅ 16mm spare | ⚠️ 51, soft so it squeezes | ✅ 34mm, under 35 | Clears everything, standard bar works |
+| **CNHL Black Series 5000** | 147 × 51 × 35 | ✅ 16mm spare | ⚠️ 51, soft so it squeezes | ✅ 35mm, exactly at the ideal | Clears everything, standard bar works |
+| **CNHL Ultra-Thin 6000 LiHV** | 138 × 47 × 37 | ✅ 25mm spare | ✅ **3mm spare, only hardcase with real margin** | ✅ 37 < 45, over 35 so needs the printed bar to share | Fits this car outright, needs the printed bar for Mike's |
+| **CNHL Racing 5200 90C** | 160 × 45 × 37 | ⚠️ **3mm spare** | ✅ 5mm spare | ✅ 37 < 45, printed bar to share | Tightest on length of anything here |
+| ~~HCL-HP 5200~~ | 139 × 49 × 47 | ✅ 24mm spare | ✅ 1mm spare | ❌ **47, over the 45 limit** (was squished in) | Ruled out on weight anyway at 558g |
+| ~~PowerHobby 4200 HV~~ | 89 × 44 × 32.4 | ✅ 74mm spare | ✅ 6mm spare | ✅ 32.4mm | Fits easily. Ruled out on weight at 301g |
+| Zeee 5200 100C (running) | 🚧 TBD | — | — | — | Measure the pack that's already in the car |
 
-**What this settles:** the **Ultra-Thin 6000 is the only one that fits without an argument**, and it's also lighter (479g) than the pack currently in the car (518g) while carrying 800mAh more. The pack the [weight rule](#notes) was written to exclude turns out to be the one that fits best.
+**What this settles:** with the limits corrected, **width and length rule nothing out**. The three 51mm packs are all soft case and squeeze in, and nothing is near the 163mm length ceiling except the Racing 5200 at 160mm.
 
-The other two each need a concession: the **5200 is 0.23mm short of touching** on length, which is measurement noise, not clearance; the **5500 is 1mm over on width**, and while it's a soft case that may compress into an alum holder, that's a squeeze against a hard mount, not a fit.
+**Height is what separates them.** The **Lightning at 31mm, G+Plus at 34mm and Black Series at 35mm** clear the 35mm mark, so they take the standard battery bar on Mike's truck as well. The **Ultra-Thin and Racing at 37mm** fit this car fine but need the printed bar to share. Only the HCL-HP at 47mm actually breaks the 45mm limit, and it's out on weight regardless.
+
+**The Ultra-Thin 6000 is still the standout**, the only hardcase with real width margin, 479g against the 518g running now, and 800mAh more. The **Lightning 5500 is the better fit on paper** at 31mm and 472g, at the cost of being soft case on a sandy track.
 
 ---
 
