@@ -29,7 +29,7 @@ Not a tuning decision, just the full list of bearings the build needs. The basel
 
 **Alternative (no special bearing to buy):** turn a thin **brass bushing / sleeve (15mm ID → 18mm OD)** to fill the gap between the hub's 18mm pocket and a **10×15×4** bearing, press-fit it in with retaining compound (green Loctite), then run four **10×15×4** (a cheap, common size). Their **10mm ID already fits the Tekno stub**, so this path skips the 10×18×5 entirely. Trade-off: a bit of machining/press work per corner vs just dropping in the off-the-shelf 10×18×5.
 
-**Why sleeve at all rather than buy the bigger bearing:** **10×15×4 is far easier to source** than a 10×18×5, and this car already runs four of them in the diff outdrives, so it's one size to stock instead of two. The bare 10×18×5 route also means **shaving the hubs**, which is what [Mike's Jato](../Jato4x4_Mike/README.md) had to do.
+**Why sleeve at all rather than buy the bigger bearing:** **10×15×4 is far easier to source** than a 10×18×5, and this car already runs four of them in the diff outdrives, so it's one size to stock instead of two. The bare 10×18×5 route also means **shaving down the 17mm hex adapters**, which is what [Mike's Jato](../Jato4x4_Mike/README.md) had to do. The hub carriers stay stock either way.
 
 **Third option, printed instead of turned:** the same sleeve can just be **3D printed**, **18mm OD, 15mm ID, 4mm thick**, which drops a common **10×15×4** bearing into the hub's 18mm pocket with no machining and nothing to shave down. It also lands the track width exactly where it should be, **1mm per side**, rather than chasing it by trimming a 17mm adapter. Print it in something dimensionally stable, PETG rather than PLA, and retain it the same way with green Loctite. 🚧 Not printed or fitted yet, so treat the fit as unverified. Worth saving the STL into `3d-models/` once it's made.
 
@@ -41,7 +41,7 @@ Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**
 
 The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10×15×4 in a sleeve**, not a bare 10×18×5. The sleeve fills the hub's 18mm pocket down to 15mm, so a common cheap bearing does the job and **nothing has to be shaved**. The rest is the stock kit.
 
-> **[Mike's Jato](../Jato4x4_Mike/README.md) took the other route:** a **larger bearing straight into the inner wheel hub**, which works but **means shaving the hubs to make it fit**. Same problem, two answers. This car sleeves the pocket down, his opens the hub up.
+> **[Mike's Jato](../Jato4x4_Mike/README.md) took the other route:** a **larger bearing straight into the inner wheel hub**, which works but **means shaving down the 17mm hex adapters to clear it**, not the hub carriers. Same problem, two answers. This car sleeves the pocket down, his opens the hub up.
 
 | Size (mm) | Qty | Where on this car |
 |---|---|---|
@@ -66,8 +66,8 @@ The hub bearing is the only thing that differs. Everything else is the stock BL-
 
 | Position | Stock BL-2S | This car (FastAz) | Mike's Jato |
 |:---|:---:|:---:|:---:|
-| **Hub / axle** | **12×18×4** ×4 | **10×15×4** ×4 **in an 18→15mm sleeve** | **10×18×5** ×4 **direct** |
-| What it costs | nothing, it's stock | printing or turning a sleeve | **shaving the hubs to fit** |
+| **Hub / axle** | **12×18×4** ×4 | **10×15×4** ×4 in an **18 × 15 × 4mm sleeve** | **10×18×5** ×4 **direct** |
+| What it costs | nothing, it's stock | printing or turning a sleeve, **18mm OD × 15mm ID × 4mm** | **shaving down the 17mm hex adapters** |
 | Bearing availability | common | **common, and shared with the diff outdrives** | harder to find |
 | Distinct sizes to stock | 6 | **6** | **7** |
 | Wheel hubs / carriers | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 |
@@ -82,7 +82,7 @@ The hub bearing is the only thing that differs. Everything else is the stock BL-
 
 **This car sleeves it.** No machining, and the **10×15×4 is already in the parts box** for the diff outdrives, so it adds no new size to the parts box, and it's the easier bearing to find.
 
-**Mike's opens the hub.** A bare 10×18×5 drops straight in once the hubs are shaved, so no sleeve to make, but it's a permanent modification to the hubs and a bearing that's harder to source.
+**Mike's opens the hub.** A bare 10×18×5 drops straight in, but the **17mm hex adapters have to be shaved down** to clear it. **That's the adapters, not the hub carriers**, which stay stock. No sleeve to make, but it's a permanent cut on the adapters and a bearing that's harder to source.
 
 🚧 Mike's list is inferred from the hub bearing being the only stated difference. Confirm the rest against his car before ordering off it.
 

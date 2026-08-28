@@ -77,7 +77,7 @@
 
 ### Custom Axles (shared with FastAzJato4x4)
 
-> **Bearings:** this car runs a **bare 10×18×5 in the hub**, which needed the **hubs shaved** to fit. The FastAz solves the same problem with a sleeve instead. Three-way comparison against stock BL-2S is in [`FastAzJato4x4/bearings_reference.md`](../FastAzJato4x4/bearings_reference.md#three-builds-side-by-side).
+> **Bearings:** this car runs a **bare 10×18×5 in the hub**, which needed the **17mm hex adapters shaved down** to fit, not the hub carriers. The FastAz solves the same problem with a sleeve instead. Three-way comparison against stock BL-2S is in [`FastAzJato4x4/bearings_reference.md`](../FastAzJato4x4/bearings_reference.md#three-builds-side-by-side).
 
 Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is dialed on an **adjustable threaded prototype** first, then the **final axles are welded** to that length (simpler, tools on hand, a fresh set is cheap to remake). **Shorter axle = front.** Full build write-up and the rejected join methods are in [`FastAzJato4x4/driveshaft_analysis.md`](../FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip).
 
