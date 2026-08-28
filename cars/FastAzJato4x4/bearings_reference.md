@@ -47,20 +47,13 @@ The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10
 
 ## What changed on this car
 
-**The one axle deviation.** The custom axles (Tekno stubs on knock-off CVDs) need a **10mm ID** where the Raptor R EHD hubs came with **12×18×4**. Two ways to get a 10mm ID into an 18mm pocket:
+**The one axle deviation.** The custom axles (Tekno stubs on knock-off CVDs) need a **10mm ID** where the Raptor R EHD hubs came with **12×18×4**.
 
-| | Sleeve it down ⭐ *this car* | Open it up *(Mike's)* | Deepen the pocket 🚫 *not advised* |
-|:---|:---|:---|:---|
-| **Bearing** | 10×15×4 | 10×18×5 | 10×18×5 |
-| **Needs** | a sleeve, 18mm OD × 15mm ID × 4mm | the 17mm hex adapters shaved down | **1mm off the depth of the carrier's bearing pocket** |
-| **Why** | fills an 18mm pocket down to 15mm | the 5mm-thick bearing sits proud of a 4mm pocket, so the adapter has to give | same 1mm, taken out of the carrier instead of the adapter |
-| **Make it** | ✅ **printed in PETG, fitted and working**, or turn it in brass | nothing to make | **lathe or very careful drilling** |
-| **Sourcing** | easy, already in the diff outdrives | harder, and a 7th size to stock | harder, and a 7th size to stock |
-| **Permanent?** | no | yes, the adapters are cut | **yes, and it's the alloy carrier being cut** |
+**It comes down to 1mm.** The off-the-shelf answer is a **10×18×5**, but that's **5mm thick against a 4mm pocket**, so 1mm has to come out of something. Three places it can come from, compared in [the table below](#bearings-by-position-all-four-routes):
 
-**Why not the third one.** It's the tidiest on paper, stock adapters and the bigger bearing, but **cutting 1mm out of an alloy carrier and keeping it square is hard** without proper tooling. Off-axis and the bearing sits cocked, which is worse than either other option. **Not recommended**, and it's the reason the adapters are the thing that gets shaved on Mike's car rather than the carriers.
-
-Press the sleeve in with green Loctite. ✅ **The printed version is fitted and working**, so no lathe needed. 🚧 Save the STL into `3d-models/`.
+- **Nothing, if you sleeve instead.** ⭐ **What this car does.** A sleeve, **18mm OD × 15mm ID × 4mm**, fills the pocket down to 15mm and a common **10×15×4** drops in. ✅ **Printed in PETG, fitted, working**, so no lathe needed. Turn it in brass if you'd rather. Press in with green Loctite. 🚧 Save the STL into `3d-models/`.
+- **The 17mm hex adapters.** What [Mike's Jato](../Jato4x4_Mike/README.md) does. Shave them down, run the bigger bearing, nothing to make.
+- **The carrier's bearing pocket.** 🚫 **Not advised.** Tidiest on paper, stock adapters and the bigger bearing, but **cutting 1mm out of an alloy carrier and keeping it square** wants a lathe or very careful drilling. Off-axis and the bearing sits cocked, worse than either other route. It's why the adapters are what gets shaved on Mike's car, not the carriers.
 
 Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**, and the front/rear hubs are **Traxxas Raptor R Ultimate EHD alloy** (same 6×12×4 / 12×18×4 EHD bearing sizes as the kit).
 
@@ -72,15 +65,20 @@ The hub bearing is the only position that differs. Since **a bearing position do
 
 | Position | Stock BL-2S | This car (FastAz) | Mike's Jato | Pocket deepened 🚫 |
 |:---|:---:|:---:|:---:|:---:|
-| **Hub / axle** | **12×18×4** ×4 | **10×15×4** ×4 in a sleeve | **10×18×5** ×4 | **10×18×5** ×4 |
+| **Hub / axle** | **12×18×4** ×4 | **10×15×4** ×4 in an **18 × 15 × 4mm sleeve** | **10×18×5** ×4 **direct** | **10×18×5** ×4 **direct** |
+| What it costs | nothing, it's stock | printing or turning a sleeve, **18mm OD × 15mm ID × 4mm** | **shaving down the 17mm hex adapters** | **1mm off the carrier's bearing pocket**, lathe work |
+| Bearing availability | common | **common, and shared with the diff outdrives** | harder to find | harder to find |
+| Distinct sizes to stock | 6 | **6** | **7** | **7** |
+| **Reversible?** | n/a | ✅ **yes**, pull the sleeve and it's stock | ❌ no, the adapters are cut | ❌ no, the carrier is cut |
 | Wheel hubs / carriers | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 |
 | Diff outdrives | 10×15×4 ×4 | 10×15×4 ×4 | 10×15×4 ×4 | 10×15×4 ×4 |
 | Diff inputs | 8×16×5 ×2 | 8×16×5 ×2 | 8×16×5 ×2 | 8×16×5 ×2 |
 | Transmission / centre | 12×18×4 ×5 total | 12×18×4 ×1 | 12×18×4 ×1 | 12×18×4 ×1 |
-| Steering bellcrank | 5×8×2.5 ×4 (TRA5114) | **TRA3775 bushings ×4** | 5×8×2.5 ×4 | 5×8×2.5 ×4 |
+| Steering bellcrank | 5×8×2.5 ×4 (TRA5114) | **TRA3775 Oilite bushings ×4** | 5×8×2.5 ×4 (TRA5114) | 5×8×2.5 ×4 (TRA5114) |
 | Centre / slipper | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 |
-| **Total positions** | **22** | **22** (18 brg + 4 bush) | **22** | **22** |
-| **Distinct sizes** | 6 | **6** | 7 | 7 |
+| **Total** | **22** | **22** (18 bearings + 4 bushings) | **22** | **22** |
+
+**The fourth column is bearing-identical to Mike's.** Both run the same **10×18×5**, they just take the 1mm out of different parts. It's listed so the option stays visible, not because it changes what you order.
 
 **The fourth column is bearing-identical to Mike's.** Deepening the pocket and shaving the adapters both end up running the same **10×18×5**, they just take the 1mm out of different parts. It's listed so the option is visible, not because it changes what you order. Nobody runs it, see [the method table above](#what-changed-on-this-car) for why.
 
