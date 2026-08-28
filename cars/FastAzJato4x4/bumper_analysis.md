@@ -6,7 +6,10 @@
 >
 > **Tempting front alternative: Rustler 4x4 front bumper (Traxxas TRA5435)**, slightly larger, doesn't extend past the wheels (or close to it), so it's still recovery-friendly. The blocker is **it's ugly**. Possible solve: **design a custom front wing mount / cosmetic shroud that integrates the Rustler bumper** so it looks intentional rather than retrofitted.
 
-<p align="center"><img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="500"><br><em>Traxxas TRA9044 Front + Rear Skid Plates, $7 for the set</em></p>
+<p align="center">
+  <img src="src/bumpers_rpm_wide_front_81042.jpg" width="500">&nbsp;<img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="500"><br>
+  <em>Front: RPM 81042 wide bumper, $9.95 · Rear: the TRA9044 skid plate, $7 for the front and rear set</em>
+</p>
 
 ---
 
