@@ -25,7 +25,7 @@
 
 ## Battery tray fit check
 
-**Stock Jato 4x4 plastic chassis tray: ~160.23 × 50 × ~35mm** (L × W × H), and **~40mm of height can be squished in** if it has to. 🚧 The 160.23mm length is off my own measurement, confirm against Traxxas before betting a purchase on it.
+**Stock Jato 4x4 plastic chassis tray: ~160.23 × 50 × ~35mm** (L × W × H), and **~40mm of height can be squished in** if it has to. **That length is a caliper measurement of the actual tray**, and published pack dimensions often don't line up with it. Manufacturers aren't consistent about what they include, wire exit, plug, case lip or shrink wrap, so a pack listed at 147mm and a tray measured at 160mm aren't necessarily 13mm apart in practice. **Trust the caliper number for the tray and measure the pack the same way** rather than comparing a caliper reading to a spec sheet.
 
 **A stock Jato can be opened up to roughly 163 × 50 × 40mm** with the right battery mount and a 3D printed battery bar. Worth knowing if you're speccing a pack for a stock truck, and worth noting that the height is the part that needs the printed bar.
 
