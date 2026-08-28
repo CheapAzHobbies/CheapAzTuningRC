@@ -7,7 +7,7 @@
 > **Tempting front alternative: Rustler 4x4 front bumper (Traxxas TRA5435)**, slightly larger, doesn't extend past the wheels (or close to it), so it's still recovery-friendly. The blocker is **it's ugly**. Possible solve: **design a custom front wing mount / cosmetic shroud that integrates the Rustler bumper** so it looks intentional rather than retrofitted.
 
 <p align="center">
-  <img src="src/bumpers_rpm_wide_front_81042.jpg" width="500">&nbsp;<img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="500"><br>
+  <img src="src/bumpers_rpm_wide_front_81042_black.webp" width="500">&nbsp;<img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="500"><br>
   <em>Front: RPM 81042 wide bumper, $9.95 · Rear: the TRA9044 skid plate, $7 for the front and rear set</em>
 </p>
 
@@ -45,7 +45,7 @@
 
 | Part | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **RPM 81042, Jato 4×4 / Rustler 4×4 Wide Front Bumper** — *running, black* | **Type:** Wide front bumper<br>**Material:** RPM reinforced composite (flexible, returns to shape)<br>**Position:** Front<br>**Fits:** **Stampede 4×4, Rustler 4×4, Telluride, Jato 4×4**<br>**Includes:** mount points for stock upper bumper<br>**Weight:** N/A<br>**Price:** **$9.95** (SKU 81042, black; replaces Traxxas **6735 / 6736**) | Pro: **Native Jato 4×4 fit**, drops straight in, no geometry question. Absorbs impact and returns to original shape. **Good at protecting the front shocks**, plus the front diff and chassis. Cheap. Incorporates mount points for stock upper bumper. Replaces stock #6735 & #6736<br><br>Con: Wide profile, may conflict with recovery-focused landing logic (same concern as TRA6835). Eliminates stock upper bumper support on Rustler 4×4 | <img src="src/bumpers_rpm_wide_front_81042.jpg" width="500"> |
+| ⭐ **RPM 81042, Jato 4×4 / Rustler 4×4 Wide Front Bumper** — *running, black* | **Type:** Wide front bumper<br>**Material:** RPM reinforced composite (flexible, returns to shape)<br>**Position:** Front<br>**Fits:** **Stampede 4×4, Rustler 4×4, Telluride, Jato 4×4**<br>**Includes:** mount points for stock upper bumper<br>**Weight:** N/A<br>**Price:** **$9.95** (SKU 81042, black; replaces Traxxas **6735 / 6736**) | Pro: **Native Jato 4×4 fit**, drops straight in, no geometry question. Absorbs impact and returns to original shape. **Good at protecting the front shocks**, plus the front diff and chassis. Cheap. Incorporates mount points for stock upper bumper. Replaces stock #6735 & #6736<br><br>Con: Wide profile, may conflict with recovery-focused landing logic (same concern as TRA6835). Eliminates stock upper bumper support on Rustler 4×4 | <img src="src/bumpers_rpm_wide_front_81042_black.webp" width="500"> |
 | 🟢 **TRA9044, Traxxas Front + Rear Skid Plates** — *the rear half is what's running* | **Type:** Skid plates (pair)<br>**Material:** glass-filled nylon<br>**Position:** Front + rear<br>**Fits:** Jato 4x4 / Slash 4x4 family<br>**Includes:** N/A<br>**Weight:** N/A<br>**Price:** **$7.00** for the set | Pro: Sold as a single set with both pieces, same part the [K939 build](../K939/README.md) already uses. Minimal profile, light, cheap, holds the hinge pins. Default pick<br><br>Con: Minimal impact protection (intentional, per the recovery-focused logic above) | <a href="https://traxxas.com/products/parts/9044"><img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="500"></a> |
 
 ### Front bumper alternatives
