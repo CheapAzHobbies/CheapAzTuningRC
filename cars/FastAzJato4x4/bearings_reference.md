@@ -25,6 +25,8 @@ Not a tuning decision, just the full list of bearings the build needs. The basel
 
 **Alternative (no special bearing to buy):** turn a thin **brass bushing / sleeve (15mm ID → 18mm OD)** to fill the gap between the hub's 18mm pocket and a **10×15×4** bearing, press-fit it in with retaining compound (green Loctite), then run four **10×15×4** (a cheap, common size). Their **10mm ID already fits the Tekno stub**, so this path skips the 10×18×5 entirely. Trade-off: a bit of machining/press work per corner vs just dropping in the off-the-shelf 10×18×5.
 
+**Third option, printed instead of turned:** the same sleeve can just be **3D printed**, **18mm OD, 15mm ID, 4mm thick**, which drops a common **10×15×4** bearing into the hub's 18mm pocket with no machining and nothing to shave down. It also lands the track width exactly where it should be, **1mm per side**, rather than chasing it by trimming a 17mm adapter. Print it in something dimensionally stable, PETG rather than PLA, and retain it the same way with green Loctite. 🚧 Not printed or fitted yet, so treat the fit as unverified. Worth saving the STL into `3d-models/` once it's made.
+
 Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**, and the front/rear hubs are **Traxxas Raptor R Ultimate EHD alloy** (same 6×12×4 / 12×18×4 EHD bearing sizes as the kit).
 
 ---
