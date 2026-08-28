@@ -25,16 +25,17 @@ Not a tuning decision, just the full list of bearings the build needs. The basel
 
 ## What changed on this car
 
-**The one axle deviation:** the custom axles (**Tekno stubs + the Traxxas knock-off CVDs**) need a smaller-ID bearing than the Raptor R EHD hubs' **12×18×4**. Two ways to get there.
+**The one axle deviation.** The custom axles (Tekno stubs on knock-off CVDs) need a **10mm ID** where the Raptor R EHD hubs came with **12×18×4**. Two ways to get a 10mm ID into an 18mm pocket:
 
-**What this car runs: a sleeve plus a 10×15×4.** A thin sleeve, **18mm OD × 15mm ID × 4mm**, fills the hub's 18mm pocket down to 15mm so a common **10×15×4** drops in. Its 10mm ID already fits the Tekno stub. Press it in with retaining compound (green Loctite). **Two ways to make the sleeve:**
+| | Sleeve it down ⭐ *this car* | Open it up *(Mike's)* |
+|:---|:---|:---|
+| **Bearing** | 10×15×4 | 10×18×5 |
+| **Needs** | a sleeve, 18mm OD × 15mm ID × 4mm | the 17mm hex adapters shaved down |
+| **Make it** | ✅ **printed in PETG, fitted and working**, or turn it in brass | nothing to make |
+| **Sourcing** | easy, already in the diff outdrives | harder, and a 7th size to stock |
+| **Permanent?** | no | yes, the adapters are cut |
 
-- **Turn it in brass.** A few minutes per corner on a lathe if you have one.
-- **Print it.** Same dimensions, no machining at all. Use something dimensionally stable, PETG over PLA. 🚧 Not printed or fitted yet, so treat that fit as unverified. Save the STL into `3d-models/` once it exists.
-
-**The other way, which [Mike's Jato](../Jato4x4_Mike/README.md) took: a bare 10×18×5.** Drops straight into the 18mm pocket with no sleeve to make, but the **17mm hex adapters have to be shaved down** to clear it. That's the adapters, not the hub carriers.
-
-**Why this car sleeved it instead.** **10×15×4 is far easier to source** than a 10×18×5, and four of them already run in the diff outdrives, so it adds no new size to the parts box. It also needs no permanent cut on the adapters, and it lands the track width at **1mm per side** rather than chasing it by trimming a 17mm adapter down.
+Press the sleeve in with green Loctite. ✅ **The printed version is fitted and working**, so no lathe needed. 🚧 Save the STL into `3d-models/`.
 
 Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**, and the front/rear hubs are **Traxxas Raptor R Ultimate EHD alloy** (same 6×12×4 / 12×18×4 EHD bearing sizes as the kit).
 
