@@ -259,6 +259,8 @@ Rules:
 
 **This applies to every comparison table in the whole repo, not just one part type.** Each part category has a **fixed Spec field order**, written one `**Key:** value` per `<br>` line, in the **same order in every row**. Use **`N/A`** when a field doesn't apply or isn't known yet — **never drop a field**, so rows stay aligned and scannable. Anything extra (special offset, brand notes, availability quirks) goes in the Pros/Cons cell, not the Spec block.
 
+**Price and Weight must always carry their basis.** Most RC parts sell in pairs or sets, so a bare `$20` or `52.8 g` is ambiguous, and the two sit adjacent in the Spec cell where they get read as the same basis even when they aren't. Write the unit into the value on **every row**: `$25.73 / pair`, `$20 / set of 4`, `$9.22 each`, `52.8 g each`, `74.6 g / diff`. Where a category has a natural default (wheels and axle driveshafts are both quoted per set of 4), state it once above the table as well. This applies even when a category's registered field order below doesn't spell it out.
+
 When you start a **new part category**, define its field order once (add a short `> *Spec format: A · B · C ...*` note above the first table in that doc) and then reuse that exact order for every row and every future doc on that category. **Register the order in the list below** so it's reused, not reinvented:
 
 - **Wheels / tires:** Part · Type · Tread · Compound · Dia · Width · Rim · Hex · Weight · Foam · Pre-glued · Price
