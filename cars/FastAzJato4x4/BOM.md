@@ -25,7 +25,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | **AliExpress metal center diff** (alum body + **integrated steel 54T spur**, comes pre-filled with the correct oil, so no separate spur or oil needed) | 1 | ✅ **Purchased** | AliExpress | **~$20** (paid) | [`differential_analysis.md`](differential_analysis.md#center-diff) |
 | **Center driveshaft**, Jato 4x4 BL-2S take-off (7455) + pinion + bearings | 1 | ✅ **Purchased** | Jenny's RC | **$2.49** (paid) | [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | **Knock-off Slash 4x4 HD steel CV axle bodies** (order #8211906604054866) | set of 4 | ✅ **Purchased** 2026-06-01 | AliExpress, FengS Store | **$21.10** (paid; listed $27.76) | [`driveshaft_analysis.md`](driveshaft_analysis.md#price-history) |
-| **TRA6752 long output shafts** — front only; rear reuses the knock-off set's stock-length shafts | 2 used (of 4 bought, 2 spare) | ✅ **In Hand** | — | **$16.00** (2 × $8 on the build; other 2 of the 4-pack are spares) | [`driveshaft_analysis.md`](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
+| **TRA6752 long output shafts** — all four corners; the knock-off set's stock-length shafts are too short to use | 4 used (all 4 bought) | ✅ **In Hand** | — | **$32.00** (4 × $8, none spare) | [`driveshaft_analysis.md`](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
 | **Front gearbox housing**, Traxxas **TRA6881** | 1 | ✅ **Purchased** | **Tammies Hobby** | **$4.00** (paid) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Rear gearbox housing**, Traxxas **TRA6880** | 1 | ✅ **Purchased** | **Tammies Hobby** | **$4.00** (paid) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Tekno front stub, TKR1654-17** 17mm M6 hub adapter | 1 pair used (of 3 bought, 2 spare) | ✅ **In Hand** | eBay, mr-retro | **$23.15** (1 pair on the build; 2 spare pairs) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
@@ -85,12 +85,12 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 
 | Bucket | Sub-total |
 |---|---|
-| **On the build, in hand / purchased** (money already spent, "sunk") — MAX10 G2 + 3665SD combo, servo, AliExpress steel diffs (front + rear), AliExpress metal center diff, center driveshaft (7455), knock-off CV axle set, TRA6752 (2 used = $16), front + rear gearbox housings, Tekno front stub (1 pair) + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods (6 used = $36), RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body (integrated wing, no separate wing/mount), RED SPIDER R235/R305 wheels + tires ($18.61), closed-cell foam inserts ($9.42) | **~$756** |
+| **On the build, in hand / purchased** (money already spent, "sunk") — MAX10 G2 + 3665SD combo, servo, AliExpress steel diffs (front + rear), AliExpress metal center diff, center driveshaft (7455), knock-off CV axle set, TRA6752 (4 used = $32), front + rear gearbox housings, Tekno front stub (1 pair) + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods (6 used = $36), RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body (integrated wing, no separate wing/mount), RED SPIDER R235/R305 wheels + tires ($18.61), closed-cell foam inserts ($9.42) | **~$772** |
 | **On the build, to buy** — TKR5570-17 rear kit (~$26 for the rear hexes) | **~$26** |
 | **Still open (no cost yet)** — bearing kit (the 10×15×4 hub bearings ×4 in their 18→15mm sleeves are already fitted and working; pinions 16/17/18T came with the center diff) | TBD |
-| **Build total (locked items)** | **~$782** |
+| **Build total (locked items)** | **~$798** |
 
-> **How this totals:** the build counts only the **portion of each part actually on the car**, not the whole pack, 2 of the 4 TRA6752 ($16), 6 of the 10 ACER rods ($36), 1 of the 3 Tekno front-stub pairs ($23). The leftover units are sunk but sit in [Spares](#spares--not-used-owned-not-on-this-build), out of this total. **Exception:** pack-only items you can't split, like the **RPM rod ends** (12-pack), count the full pack since that's the real minimum spend.
+> **How this totals:** the build counts only the **portion of each part actually on the car**, not the whole pack, all 4 TRA6752 ($32), 6 of the 10 ACER rods ($36), 1 of the 3 Tekno front-stub pairs ($23). The leftover units are sunk but sit in [Spares](#spares--not-used-owned-not-on-this-build), out of this total. **Exception:** pack-only items you can't split, like the **RPM rod ends** (12-pack), count the full pack since that's the real minimum spend.
 
 ---
 
@@ -108,7 +108,7 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 | **Traxxas #9033 front + TRA9039 rear shock towers** | 2 | Fallback if the MonsterKingz CF towers prove too fragile | ~$12.00 |
 | **Buggy-wing setup: AliExpress wing + Traxxas TRA9517 wing + TRA9046 mount** | 1 each | Dropped, the Jato 3.3 body's integrated wing replaces the whole separate wing + mount | ~$5 (AliExpress wing) + $13.79 combo (TRA9517 + TRA9046) |
 | **Alternate wheel/tire sets** (RED SPIDER is the running set) | 9 options | Backups / other surfaces; full catalog in [`wheel_analysis.md`](wheel_analysis.md) | Tokyo Speed $20 · unbranded $13.17 · Mitsubishi-tread $13 · triangle 26013 $13.04 · RED SPIDER R306 $20 · Traxxas Response Pro 9074 $40.97 · Sledgehammer 9073 $36.97 · PowerHobby Armor PHT2410DW $34.95/pair · AKA Impact AKA14007XRW $31.99/pair |
-| **Extra Tekno front stubs, 2 pairs** · **extra TRA6752 shafts, 2** · **extra ACER titanium rods, 4** | — | Bulk-buy / set leftovers, spares | **~$86** (2 stub pairs $46.30 + 2 TRA6752 $16 + 4 ACER rods $23.96) |
+| **Extra Tekno front stubs, 2 pairs** · **extra ACER titanium rods, 4** | — | Bulk-buy / set leftovers, spares | **~$70** (2 stub pairs $46.30 + 4 ACER rods $23.96) |
 | **Silicone shock oil 45wt (front) + 60wt (rear)** | 2 bottles | Superseded — retested to 40wt front / 50wt rear, which run better | ~$12 (~$6 ea) |
 
 ---
@@ -120,7 +120,7 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 - **Spur:** running the **integrated steel 54T spur on the AliExpress metal center diff** (no separate spur). The plastic TRA3956R is a spare (doesn't fit the metal diff). See [`differential_analysis.md`](differential_analysis.md#spur-gear).
 - **Shock towers:** **MonsterKingz CF set** (larger-shock fit with the 67410 standoffs + 3D-printed shock covers); stock #9033 / TRA9039 are the fallback. See [`shock_tower_analysis.md`](shock_tower_analysis.md).
 - **Shock bodies:** running the metal **Hot Bodies D8** (used set of 4). Springs (white/grey) + 1.4mm pistons came with the set; shock oil from Tammies. Plastic Apache C1 is the identical-internals backup.
-- **Output shafts:** only the **front** needs the long TRA6752 (2×); the rear reuses the knock-off set's stock-length shafts. See the [driveshaft build sheet](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
+- **Output shafts:** **all four corners** need the long TRA6752 (4×). The knock-off set's stock-length shafts are too short to use, front or rear. See the [driveshaft build sheet](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 - **Arms:** **FLM26800 metal arms front + rear** (ProTrac dropped).
 - **Cooling fan / heatsink:** not needed. The combo motor is IP67 and 4S-native. See [motor_analysis.md](motor_analysis.md#related-motor-cooling-optional).
 - **Aluminum gearbox housings / bumpers / shock-tower brace (TRA9061):** vetoed. See the respective analysis docs.

@@ -1,6 +1,6 @@
 # FastAzJato4x4
 
-> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 metal extended arms (front + rear), Slash 4x4-pattern CVDs on Tekno M6 stubs (stock Jato 4x4 diffs, 5mm), stock Jato hex hubs, Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo on 4S (Fire Phoenix XeRun 120A also in hand as spare), Hot Bodies D8 metal big-bore shocks (used set in hand; plastic Apache C1 / Wltoys A929 as the backup).
+> Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 metal extended arms (front + rear), Slash 4x4-pattern CVDs on Tekno M6 stubs with 4× TRA6752 long output shafts (stock Jato 4x4 diffs, 5mm), stock Jato hex hubs, Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo on 4S (Fire Phoenix XeRun 120A also in hand as spare), Hot Bodies D8 metal big-bore shocks (used set in hand; plastic Apache C1 / Wltoys A929 as the backup).
 >
 > **Build Status: WIP, actively sourcing parts. Car does not exist yet.**
 
@@ -66,7 +66,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Component | Part | Notes |
 |-----------|------|-------|
 | Diffs (front + rear) | Traxxas Jato 4x4 stock (5mm) | To buy; E-Revo 1.0 (6mm) now spares, [`differential_analysis.md`](differential_analysis.md) |
-| Axle CVDs | Knock-off Slash 4x4 HD steel CV (5mm) + Tekno M6 stubs | In hand, [`driveshaft_analysis.md`](driveshaft_analysis.md) |
+| Axle CVDs | Knock-off Slash 4x4 HD steel CV (5mm) + **4× TRA6752 long output shafts** + Tekno M6 stubs | In hand, [`driveshaft_analysis.md`](driveshaft_analysis.md) |
 | Center diff | Stock TRA6814 OEM plastic + 20k wt oil | [`differential_analysis.md`](differential_analysis.md#center-diff) |
 | Center driveshaft | Jato 4x4 BL-2S take-off shaft (7455), $2.49, bought instead of TRA6855 | Purchased, [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | Spur gear | TRA3956R 54T plastic | [`differential_analysis.md`](differential_analysis.md#spur-gear) |
