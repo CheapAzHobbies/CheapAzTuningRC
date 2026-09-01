@@ -15,6 +15,12 @@
 
 ---
 
+## Damping fixed the wear rate, 2026-08
+
+The skid plate was taking an **occasional smack on jump landings**, which is what set the replacement pace. That turned out to be a **shock oil problem, not a skid plate problem**: at 2,000 cSt the truck packed down far enough on landing for the chassis to reach the dirt. Going to **Associated FT 4,000 cSt** front and rear stopped it, the intermittent hits are gone, and the **plate now lasts noticeably longer**. Full history in [`shock_analysis.md`](shock_analysis.md#setup-spec--piston--oil).
+
+Worth remembering before buying a tougher plate: **a skid plate that keeps getting hit is usually telling you about the suspension**, and stiffer damping is cheaper than a metal plate that bends.
+
 ## Why switch from metal to plastic
 
 I was running a **NEW ENRON Aluminum #5337 metal skid plate** (purchased $18.64, May 10, 2026). It bent on the first hard hit and stayed bent — see photo below. Metal skid plates on a basher/racer are **not worth it**:

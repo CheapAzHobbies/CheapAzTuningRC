@@ -52,7 +52,7 @@ Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt tra
 | Front | **FT 4,000 cSt** |
 | Rear | **FT 4,000 cSt** |
 
-> **Update:** Now running **Associated Factory Team 4,000 cSt** front and rear. It's **silicone diff fluid, not shock oil** (shock oil stops around 100wt, so the heavy end only comes in diff grades). Three steps to get here: 90wt / 100wt bucked on landings once the shocks wore in, **2,000 cSt** fixed the bucking but still packed down far enough to dig the chassis in on jump landings, so it went to **4,000 cSt**, skipping the planned 3,000. Landings still need re-checking at 4,000, watching for it kicking back instead of absorbing.
+> **Update:** Now running **Associated Factory Team 4,000 cSt** front and rear. It's **silicone diff fluid, not shock oil** (shock oil stops around 100wt, so the heavy end only comes in diff grades). Three steps to get here: 90wt / 100wt bucked on landings once the shocks wore in, **2,000 cSt** fixed the bucking but still packed down far enough to dig the chassis in on jump landings, so it went to **4,000 cSt**, skipping the planned 3,000. That worked: the truck holds up through the landing, the **occasional skid-plate smack is gone**, and the skid plate lasts longer for it. Watch for the opposite failure if it ever changes, kicking back instead of absorbing.
 
 > Full shock writeup — body choice, piston/oil tuning, the bigger-bore/lighter-oil logic, Acxess springs, the 3D-printed shock-to-chassis mounts, and the M3 shim + RPM rod-end linkage strategy — in [`shock_analysis.md`](shock_analysis.md).
 
