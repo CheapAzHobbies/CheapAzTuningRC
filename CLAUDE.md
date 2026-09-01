@@ -286,7 +286,8 @@ When you start a **new part category**, define its field order once (add a short
 - **Bulkheads:** Type · Material · Part · Fits · Warranty · Price
 - **Differentials:** Outdrive · Housing · Internals · Part · Fits · Price
 - **Spur gears:** Teeth · Pitch · Material · Fits · Price
-- **Driveshafts (axle):** Type · Part · Diff end · Fits · Price
+- **Driveshafts (axle):** Type · Part · Shaft · Diff end · Fits · Weight · Price
+  - *Price convention: quote per **set of 4** (one full car's worth), written `$X / set of 4`. **Weight is per single complete axle**, not per set. The two sit next to each other in the Spec cell and read as the same basis if you don't label them, so state both explicitly on every row and once above the table.*
 - **Driveshafts (center):** Type · Material · Part · Length · Price
 - **Wheel hexes:** Type · Part · Material · Stub fit · Wheel pattern · Retention · Weight · Price
 - **Wings:** Part · Material · Size · Fits · Weight · Price
