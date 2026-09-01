@@ -127,7 +127,7 @@ Now that the car is a **truggy**, the `MBX8Te` (MBX8 Truggy electric) arm + turn
 | **E2116** | Titanium turnbuckle set | `MBX8/7/MGT` |
 | Stainless steel screw kit | full-chassis hardware | `MBX8 & MBX8T` — fits ✅ |
 | Alloy shock towers (×2, f+r) + mud guards | aftermarket | verify MBX8 truggy cut |
-| Alloy steering bellcranks (×2, 32.0 g) | aftermarket | verify MBX8 fit |
+| Alloy steering bellcranks (×2, **32.0 g/pr incl. hardware**) | aftermarket | verify MBX8 fit |
 | E2324 | Battery connector holder (electric) | `MBX/T/MGT` — verify |
 | C0271 / H0867 / C0529A / H0855 / C0264 | Generic ball/link/pivot hardware | universal — verify sizes |
 
@@ -221,7 +221,7 @@ Quantities are **conservative** — several SKUs were photographed multiple time
 | — | Center-transmission assembly (used) | — | ♻️ MBX7 | 1 | — | — |
 | — | LFR clear + painted bodies | buggy | 🔶 buggy only | 2 | ~5,000* | 5,000 |
 | — | Alloy shock towers (f+r) + mud guards | aftermarket | ✅ verify | 1 pr | ~9,000* | 9,000 |
-| — | Alloy steering bellcranks — **32.0 g** | aftermarket | ✅ verify | 1 pr | ~5,000* | 5,000 |
+| — | Alloy steering bellcranks — **32.0 g/pr incl. hardware** | aftermarket | ✅ verify | 1 pr | ~5,000* | 5,000 |
 
 \* No factory price tag (store bags, alloy, bodies) — estimated at typical retail, flagged `*`.
 
@@ -295,7 +295,7 @@ Decision rests on the **asking price** (still TBD) minus **~$200–290 of repair
 - [ ] **What truggy body** does it currently run? (the two spare bodies are buggy)
 - [ ] **XR8 variant** — XR8 / XR8 Plus / XR8 SCT? Affects value.
 - [ ] **Savöx exact model** — confirm "SB-2273SG" vs another 2273 prefix.
-- [ ] **Alloy shock towers + bellcranks** — confirm MBX8 truggy cut (no tags).
+- [ ] **Alloy shock towers + bellcranks** — confirm MBX8 truggy cut (no tags). Bellcrank weight photo: `src/steering_mugen_alloy-bellcrank_weight.jpg` (32.0 g for the pair plus screws, nuts and washers).
 - [ ] **Rear chassis** — order E2435A, check gearbox feet for wear, replace chewed bevel pinion, re-mesh + Loctite.
 - [ ] Quantities marked "≤N?" — count actual packs to firm up the resale total.
 

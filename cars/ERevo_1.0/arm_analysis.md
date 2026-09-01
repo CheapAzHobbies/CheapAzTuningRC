@@ -96,4 +96,22 @@ Looked for a **flanged / shouldered pillow ball** that stops on a face at a fixe
 - **Future plan: go back to the extended-wheelbase setup when the True Track wears out.** The True Track is in hand, so run it until it wears out, then switch to the **original extended-wheelbase arms (TRA5333R) with the extra tie rods** (the adjustable rear toe links the True Track deletes). No reason to swap early; it's the planned end-of-life replacement.
 - **No aluminum arms here, on purpose.** Skipped the alloy arm options because they're **expensive, add tons of weight, and just aren't worth it** when **the stock arms rarely break, if at all**. The only arm issue I get is the **pillow balls popping out**, and that's an easy fix: **super glue them and screw them back in** and they hold fine.
 - **Measured True-Track kit weight (full rear, 2 corners, in hand):** arms **105.2 g** (lower 63.6 + upper 41.6) + rear carriers **32.3 g** + oversized bearings **19.0 g** (inner 11.7 + outer 7.3) + pins/clips **9.0 g** + setscrews **1.7 g** + screws **1.5 g** + bushings **0.6 g** = **≈ 169.3 g total**. *(Carrier + bearing detail also in [`hub_analysis.md`](hub_analysis.md).)*
+
+#### Weight photos (True Track 80562, measured in hand)
+
+Every figure above, with the scale photo it came from and what was actually on the pan.
+
+| Component | Measured | On the scale | Photo |
+|---|---|---|---|
+| Lower arms | **63.6 g** | the pair | <img src="src/suspension_rpm_truetrack_rear_lower_arm_80562_weight.jpg" width="150"> |
+| Upper arms | **41.6 g** | the pair | <img src="src/suspension_rpm_truetrack_rear_upper_arm_80562_weight.jpg" width="150"> |
+| Rear axle carriers | **32.3 g** | the pair | <img src="src/steering_rpm_truetrack_rear_axle_carriers_80562_weight.jpg" width="150"> |
+| Inner bearings 12×21×5 | **11.7 g** | 2 bearings (5.85 g each) | <img src="src/suspension_rpm_truetrack_bearing_inner_12x21x5_weight.jpg" width="150"> |
+| Outer bearings 6×15×5 | **7.3 g** | 2 bearings (3.65 g each) | <img src="src/suspension_rpm_truetrack_bearing_outer_6x15x5_weight.jpg" width="150"> |
+| Hinge pins + e-clips | **9.0 g** | 2 pins + 6 e-clips | <img src="src/suspension_rpm_truetrack_hinge_pins_eclips_80562_weight.jpg" width="150"> |
+| Set screws | **1.7 g** | 2 screws | <img src="src/suspension_rpm_truetrack_setscrews_metal_weight.jpg" width="150"> |
+| Screws | **1.5 g** | 2 screws | <img src="src/suspension_rpm_truetrack_screws_weight.jpg" width="150"> |
+| Bushings | **0.6 g** | 2 bushings (0.3 g each) | <img src="src/suspension_rpm_truetrack_bushings_black_weight.jpg" width="150"> |
+| **Total** | **169.3 g** | full rear, 2 corners | |
+
 - **Back-calculated OEM (stock) weight:** RPM rates the True-Track at **~32 g lighter** than the stock rear **arms + toe links** it replaces. Against the measured True-Track arms (**105.2 g**), that puts **stock rear arms + toe links ≈ 137 g**. Note this ~32 g claim covers **arms + links only** (not the carriers, smaller stock bearings, or pillow balls), so 137 g is the OEM arm/link portion, not the full stock rear-corner weight. Confirm the exact savings figure off the packaging.
