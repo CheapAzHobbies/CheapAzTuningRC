@@ -94,7 +94,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 | Shorter OG output shafts (**all 4**, replaced by the 6752, none stay on the car) | ~$8–16 |
 | **Est. offset** | **~$20–36** |
 
-**Estimated net ≈ $66–82 per set of 4** (gross − resale). Not counted: the **10×15×4 hub bearings ×4 and their sleeves** (front + rear, ~$6–10, a hub part; fitted and working). For reference a genuine set is **$69.95 for only two** TRA6851R, this makes a full set of **4**, longer at every corner *and* stronger with the M6 stubs.
+**Estimated net ≈ $66–82 per set of 4** (gross − resale). Not counted: the **10×15×4 hub bearings ×4 and their sleeves** (front + rear, ~$6–10, a hub part; fitted and working). For reference a genuine set is **$69.95 for only two** TRA6851R, and that's not even the same thing: **it doesn't come with the M6 stubs this build wants**, so the $49.10 of Tekno stubs is on top either way, and the genuine set is still **stock length**, so it wouldn't reach the extended FLM arms at all. Two genuine axles land at ~$119 and still don't do the job. This makes a full set of **4**, longer at every corner and stronger with the M6 stubs.
 
 <p align="center"><img src="src/drivetrain_traxxas_2wd_rear_cvd_1951r.jpg" width="360"><br><em>Traxxas 1951R, 2WD rear steel CVDs (~10mm longer than the 6852R/6851R). This is the length we're after.</em></p>
 
