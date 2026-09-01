@@ -140,8 +140,8 @@ The knock-off E-Revo 1.0 CVDs run **~$20** and **perform identically to the genu
 
 | Part | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **5.5 mm knock-off set** (older), *budget* | **Type:** CVD knock-off<br>**Shaft:** **5.5 mm**<br>**Diff end:** 6mm<br>**Fits:** E-Revo diffs and cups<br>**Weight:** 52.8 g<br>**Price:** **~$20** | Pro: **Stronger shaft** (~1.8× the 4.5 mm torsion). ~$20, works as well as genuine. Uses the **1/4-20** thread kit<br><br>Con: Heavier; **more prone to hitting the cup at full droop** | <img src="src/drivetrain_knockoff_cvd_axle_5-5mm_weight.jpg" width="500"> |
-| ⭐ **4.5 mm knock-off set** (newer), *budget* | **Type:** CVD knock-off<br>**Shaft:** **4.5 mm**<br>**Diff end:** 6mm<br>**Fits:** E-Revo diffs and cups<br>**Weight:** 46.9 g<br>**Price:** **~$20** | Pro: **~6 g lighter** and **clears the cup better at full droop** (good for the front). Uses the **M5×0.8** thread kit<br><br>Con: **~55% of the 5.5 mm torsional strength**, the weaker shaft | <img src="src/drivetrain_knockoff_cvd_axle_4-5mm_weight.jpg" width="500"> |
+| ⭐ **5.5 mm knock-off set** (older), *budget* | **Type:** CVD knock-off<br>**Shaft:** **5.5 mm**<br>**Diff end:** 6mm<br>**Fits:** E-Revo diffs and cups<br>**Weight:** 52.8 g (per axle)<br>**Price:** **~$20 / set of 4** | Pro: **Stronger shaft** (~1.8× the 4.5 mm torsion). ~$20 for a **set of 4**, works as well as genuine. Uses the **1/4-20** thread kit<br><br>Con: Heavier; **more prone to hitting the cup at full droop** | <img src="src/drivetrain_knockoff_cvd_axle_5-5mm_weight.jpg" width="500"> |
+| ⭐ **4.5 mm knock-off set** (newer), *budget* | **Type:** CVD knock-off<br>**Shaft:** **4.5 mm**<br>**Diff end:** 6mm<br>**Fits:** E-Revo diffs and cups<br>**Weight:** 46.9 g (per axle)<br>**Price:** **~$20 / set of 4** | Pro: **~6 g lighter** and **clears the cup better at full droop** (good for the front). Uses the **M5×0.8** thread kit<br><br>Con: **~55% of the 5.5 mm torsional strength**, the weaker shaft | <img src="src/drivetrain_knockoff_cvd_axle_4-5mm_weight.jpg" width="500"> |
 
 ---
 
@@ -213,6 +213,8 @@ The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardw
 | **5.5 mm** (older set) | AliExpress | **52.8 g** | **1/4-20** | 1/4-20 | #7 / 13/64" (~5.1 mm) | 1/4-20 hex coupler | **Stronger** (torsion ∝ d³ → ~1.8× the 4.5 mm). Heavier. **More prone to hitting the cup at full droop.** |
 | **4.5 mm** (newer set) | AliExpress | **46.9 g** | **M5×0.8** (alt #10-32) | M5×0.8 | 4.2 mm (alt #19) | M5 hex coupler | **~6 g lighter; ~55% of the 5.5 mm torsional strength.** **Clears better at full droop** (less cup interference). |
 
+> **Prices in this section are per set of 4 axles; weights are per single complete axle.**
+>
 > **Tradeoff:** 5.5 mm = strength, 4.5 mm = droop clearance. The thinner 4.5 mm shaft **binds less on the cup at full droop**, but it's the weaker shaft. Since the **front sees more load and more droop**, the 5.5 mm strength helps there but so does the 4.5 mm clearance, decide on the car. Weights are the complete axle, same hardware on both (the 52.8 g photo just has the loose parts on the pan too).
 
 <p align="center">
