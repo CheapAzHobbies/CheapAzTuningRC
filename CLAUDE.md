@@ -267,7 +267,8 @@ When you start a **new part category**, define its field order once (add a short
   - *Price convention: always quote per **set of 4** (one full car's worth), for wheels, tires, and foam inserts alike, written `$X / set of 4`. State it once near the top of the doc and on each row.*
   - *Section layout for a `wheel_analysis.md`: split the options into **Full Wheels** (mounted tire + rim sets), **Tires** (bare tires), **Rims** (bare wheels), and **Foam Inserts**, each its own `##` section. Name the doc `wheel_analysis.md` (covers rims + tires), not `tire_analysis.md`.*
 - **Radio controllers (transmitters):** Type · Channels · Protocol · Receivers · Gyro · Telemetry · Model memory · Display · Battery · Price
-- **Batteries:** Cells · Capacity · C-rating · Weight · Connector · Size · Price
+- **Batteries:** Cells · Config · Capacity · C-rating · Weight · Connector · Size · Price
+  - *`Config` is the series/parallel construction, e.g. `4S1P` or `4S2P`. It is not cosmetic: a 2P pack parallels two cells per series group, which roughly **halves internal resistance** and changes how the pack holds voltage under load, and it is what makes most shorty packs shorty. Many listings omit it, so mark it `🚧 TBD` rather than guessing from the capacity.*
 - **Chargers:** Chemistries · Cells · Power (DC/AC/PD) · Input voltage · Channels · Max current · Discharge · Balance current · Interfaces · Price
 - **Arms (A-arms):** Type · Material · Position · Fits · Wheelbase · Pivot/Hardware · Stiffness · Toe · Origin · Weight · Price
 - **Bumpers:** Type · Material · Position · Fits · Includes · Weight · Price
