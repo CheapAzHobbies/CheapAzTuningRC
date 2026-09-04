@@ -42,28 +42,29 @@
 
 **For contrast, a stock Jato 4x4 tray measures ~160.23 × 50 × ~35mm** (caliper), about 40mm of height if squeezed. This car isn't that: the CF deck and straps take the height ceiling off, so the numbers below are a conservative reference, not the limit. One thing that carries over either way, published pack dimensions often don't match a caliper reading, since makers differ on whether wire exit, plug, case lip or shrink wrap are counted, so **measure the pack the same way you measured the space**.
 
-> The height column below is scored against those stock numbers, so its flags are conservative. **On this car, read the length column and ignore the height flags.**
+> **The table below is ordered best fit first for this car.** Height is listed for reference only, it doesn't rank anything here. What ranks a pack is whether it sits centred and what it weighs.
 
-| Pack | L × W × H | Length (<163) | Width (50, 51 soft) | Height (45 max, 35 ideal) | Verdict |
-|---|---|---|---|---|---|
-| **CNHL Lightning 5500 LiHV** | 149 × 51 × 31 | ✅ 14mm spare | ⚠️ 51, soft so it squeezes | ✅ **31mm, clears 35 easily** | Only pack under 35mm |
-| **CNHL G+Plus 5000** | 147 × 51 × 34 | ✅ 16mm spare | ⚠️ 51, soft so it squeezes | ✅ 34mm | Clears everything |
-| **CNHL Black Series 5000** | 147 × 51 × 35 | ✅ 16mm spare | ⚠️ 51, soft so it squeezes | ✅ 35mm | Clears everything |
-| **CNHL Ultra-Thin 6000 LiHV** | 138 × 47 × 37 | ✅ 25mm spare | ✅ **3mm spare, only hardcase with real margin** | ✅ 37mm | Fits outright |
-| **CNHL Racing 5200 90C** | 160 × 45 × 37 | ⚠️ **3mm spare** | ✅ 5mm spare | ✅ 37 < 45, printed bar to share | Tightest on length of anything here |
-| ~~HCL-HP 5200~~ | 139 × 49 × 47 | ✅ 24mm spare | ✅ 1mm spare | ❌ **47, over the 45 limit** (was squished in) | Ruled out on weight anyway at 558g |
-| ~~PowerHobby 4200 HV~~ | 89 × 44 × 32.4 | ✅ 74mm spare | ✅ 6mm spare | ✅ 32.4mm | Fits easily. Ruled out on weight at 301g |
-| **Gens Ace Redline 2.0 6000 HV** | 98 × 47 × 47 | ✅ 62mm spare | ✅ 3mm spare | ✅ **47, no issue on the CF deck** | **The only true shorty here**, and the pack this car is built around |
-| **CNHL Racing 6000 shorty HV** | 97 × 47.5 × 47.5 | ✅ 63mm spare | ✅ 2.5mm spare | ⚠️ **47.5, over the 45mm limit** | Same height story as the Gens Ace, 2.5mm over with the 47mm HCL-HP precedent |
-| **Team Orion V-Max-HV 6000** | 106.4 × 46.4 × 50.5 | ✅ 54mm spare | ✅ 3.6mm spare | ⚠️ **50.5, the tallest here** | Fits the tray on every axis, but it is not a shorty and it is the tallest |
-| **Team Exalt X-Rated 6000** | 98 × 47 × 47 | ✅ 62mm spare | ✅ 3mm spare | ⚠️ **47, matches the proven squeeze** | Identical box to the Gens Ace |
-| **Fido Fi58130 5800 shorty HV** | 96 × 47 × 47 | ✅ 64.5mm spare | ✅ 3mm spare | ⚠️ **47, matches the proven squeeze** | Same box as the Tekin, half the price |
-| **Maclan Graphene V4 6400** | 99 long × 48.2 thick, 🚧 width TBD | ✅ 61.5mm spare | 🚧 unknown | ⚠️ **48.2** | Width unpublished, so the fit cannot be confirmed |
-| **HobbyStar 5000 shorty** | 95 × 47 × 47 | ✅ 65.5mm spare | ✅ 3mm spare | ⚠️ **47, matches the proven squeeze** | Shortest pack of the lot |
-| **Tekin Graphene 6300 shorty** | 96 × 47 × 47 | ✅ 64.5mm spare | ✅ 3mm spare | ⚠️ **47, matches the proven squeeze** | Ties the Gens Ace, and gets there without rotating |
-| **PowerHobby 5600 shorty HV** | 96 × 47 × 48 | ✅ 64.5mm spare | ✅ 3mm spare | ⚠️ **48, one past the precedent** | Shortest of the lot, same height as the ProTek |
-| **ProTek Si-Graphene 6400 shorty** | 98.5 × 47 × 48 | ✅ 61.5mm spare | ✅ 3mm spare | ⚠️ **48, one past the precedent** | Middle of the three on height, 3mm over the 45mm limit |
-| **GAONENG GNB 6300 shorty HV** | 97 × 47 × 50, **or 97 × 50 × 47 rotated** | ✅ 63mm spare | ⚠️ 50 rotated, **exactly the hardcase limit** | ⚠️ **47 rotated**, matching the proven squeeze | **Rotating it trades the height problem for a width one.** On its side it drops to 47mm tall, the same as the Gens Ace, at the cost of zero width slack |
+| Pack | L × W × H | Weight | Sits centred? | Verdict, best first |
+|---|---|---|---|---|
+| ⭐ **Gens Ace Redline 2.0 6000 HV** | 98 × 47 × 47 | **410g** | ✅ true shorty | **The pick.** Lightest, shortest-class, and already strapped in |
+| **Fido Fi58130 5800 HV** | 96 × 47 × 47 | 430g | ✅ true shorty | Same box, 20g more, a third of the price |
+| **Team Exalt X-Rated 6000** | 98 × 47 × 47 | 410g | ✅ true shorty | Dimensional twin of the Gens Ace, ties for lightest |
+| **HobbyStar 5000** | 95 × 47 × 47 | 420g | ✅ shortest here | Fits best of all, just carries the least energy |
+| **Tekin Graphene 6300** | 96 × 47 × 47 | 456g | ✅ true shorty | Fits without rotating, heaviest of the shorties |
+| **CNHL Racing 6000 shorty HV** | 97 × 47.5 × 47.5 | 415.5g | ✅ true shorty | Half a millimetre wider and taller, no consequence |
+| **PowerHobby 5600 HV** | 96 × 47 × 48 | ~420g | ✅ true shorty | Fits fine, weakest energy per gram |
+| **ProTek Si-Graphene 6400** | 98.5 × 47 × 48 | 440g | ✅ true shorty | Fits fine, most energy of the true shorties |
+| **GAONENG GNB 6300 HV** | 97 × 47 × 50, or 97 × 50 × 47 rotated | 435g | ✅ true shorty | Rotate it and the 50mm becomes width, which is exactly at the limit |
+| **Maclan Graphene V4 6400** | 99 long × 48.2 thick, 🚧 width TBD | 438g | ✅ true shorty | Width unpublished, so the fit is unconfirmed |
+| **Team Orion V-Max-HV 6000** | 106.4 × 46.4 × 50.5 | **386g** | 🔶 8mm long, still centres | **Lightest pack found.** Long shorty, sits centred, so it works |
+| **Performa Graphene 5000** | 106 × 47 × 49 | 410g | 🔶 8mm long, still centres | Long shorty, light, but only 74Wh |
+| **CNHL Ultra-Thin 6000 LiHV** | 138 × 47 × 37 | 479g | ❌ full length | Fits the deck, but the mass lands rearward |
+| **CNHL Lightning 5500 LiHV** | 149 × 51 × 31 | 472g | ❌ full length | Lowest pack here at 31mm, wrong length though |
+| **CNHL G+Plus 5000** | 147 × 51 × 34 | 491g | ❌ full length | Full length and soft case |
+| **CNHL Black Series 5000** | 147 × 51 × 35 | 521g | ❌ full length | Full length and soft case |
+| **CNHL Racing 5200 90C** | 160 × 45 × 37 | 524g | ❌ full length | Longest pack here, heaviest of the CNHLs |
+| ~~**HCL-HP 5200**~~ | 139 × 49 × 47 | 558g | ❌ full length | Ruled out on weight anyway |
+| ~~**PowerHobby 4200 HV**~~ | 89 × 44 × 32.4 | 301g | ✅ true shorty | Fits easily, ruled out on capacity |
 
 **What this settles:** with the limits corrected, **width and length rule nothing out**. The three 51mm packs are all soft case and squeeze in, and nothing is near the 163mm length ceiling except the Racing 5200 at 160mm.
 
