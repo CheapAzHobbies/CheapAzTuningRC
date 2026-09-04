@@ -34,7 +34,7 @@
 
 ## Battery tray fit check
 
-**This car runs the [AliExpress CF LCG chassis](chassis_analysis.md) with its aluminium battery holder and straps, so height is effectively not a limit.** A strapped pack on a CF deck isn't boxed in by a moulded tray the way a stock truck is, and a taller body sits over it. Every candidate here measures 47 to 50.5mm tall, and the 47mm HCL-HP already went in, so **stop treating height as the thing that decides a pack**.
+**This car runs the [AliExpress CF LCG chassis](chassis_analysis.md) with its aluminium battery holder and straps, so height is effectively not a limit.** A strapped pack on a CF deck isn't boxed in by a moulded tray the way a stock truck is. Every candidate here measures 47 to 50.5mm tall and the 47mm HCL-HP already went in, so height isn't what decides a pack on this car. **Body clearance is fine too**, a 47mm pack fits under the stock Jato 4x4 body, so there is no need to trade capacity for a shorter case to get the shell on.
 
 <p align="center"><img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="600"><br><em>The layout that sets the battery rule: RX box (clear blue) sits on the battery side, Redline shorty strapped centred on the CF deck. Box details in <a href="radio_analysis.md#rx-box-and-how-its-mounted">radio_analysis.md</a></em></p>
 
