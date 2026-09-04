@@ -1,6 +1,6 @@
 # Battery Selection — FastAzJato4x4
 
-> **Chosen: Gens Ace Redline 2.0 4S HV 6000mAh**, a pair bought 2026-08-31 at $92.26 each. The spec this car buys to is a **4S hardcase shorty**, and on that shortlist the Gens Ace is both the lightest at **410g** and among the cheapest, which is the combination that decides it. **Nothing is fitted to this car yet**, it is still a parts-selection build, so the Gens Ace goes straight in when the car is assembled.
+> **Chosen: Gens Ace Redline 2.0 4S HV 6000mAh**, a pair bought 2026-08-31 at $92.26 each. The spec this car buys to is a **4S hardcase shorty**, and on that shortlist the Gens Ace is both the lightest at **410g** and among the cheapest, which is the combination that decides it. **The Redline is already strapped into the chassis**, so this one is settled rather than pending.
 
 <p align="center"><img src="src/electronics_gensace_redline2_4s_6000_140c.png" width="600"><br><em>Gens Ace Redline 2.0, 6000mAh 15.2V, 91.2Wh, 410g, 98 × 47 × 47mm</em></p>
 
@@ -36,7 +36,9 @@
 
 **This car runs the [AliExpress CF LCG chassis](chassis_analysis.md) with its aluminium battery holder and straps, so height is effectively not a limit.** A strapped pack on a CF deck isn't boxed in by a moulded tray the way a stock truck is, and a taller body sits over it. Every candidate here measures 47 to 50.5mm tall, and the 47mm HCL-HP already went in, so **stop treating height as the thing that decides a pack**.
 
-**Length is the real constraint, and it comes from the RX box.** The receiver box sits on the battery side of this chassis and the pack has to sit centred, so the space either side of it is fixed. **That's why a shorty has to actually be a shorty**, not a full length brick reworded. Length is the one dimension worth measuring carefully before buying.
+<p align="center"><img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="600"><br><em>The layout that sets the battery rule: RX box (clear blue) sits on the battery side, Redline shorty strapped centred on the CF deck</em></p>
+
+**Length is the real constraint, and it comes from the RX box.** The receiver box sits on the battery side of this chassis, as in the photo above, and the pack has to sit centred, so the space left for it is fixed by where the box lands. **That's why a shorty has to actually be a shorty**, not a full length brick reworded. A 138 to 160mm pack would either push the RX box off the deck or force the battery out to one end, and neither is acceptable. Length is the one dimension worth measuring carefully before buying.
 
 **For contrast, a stock Jato 4x4 tray measures ~160.23 × 50 × ~35mm** (caliper), about 40mm of height if squeezed. This car isn't that: the CF deck and straps take the height ceiling off, so the numbers below are a conservative reference, not the limit. One thing that carries over either way, published pack dimensions often don't match a caliper reading, since makers differ on whether wire exit, plug, case lip or shrink wrap are counted, so **measure the pack the same way you measured the space**.
 
