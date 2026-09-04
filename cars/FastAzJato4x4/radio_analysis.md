@@ -41,7 +41,7 @@
 
 <p align="center"><img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="600"><br><em>Clear blue RX box mounted at an angle in the front battery stopper slots, battery strapped centred alongside</em></p>
 
-**Consequence for the battery:** the box occupies the battery side of the deck, so the pack has to sit centred and the space for it is fixed. That is what forces a **shorty**, and the reasoning lives in [`battery_analysis.md`](battery_analysis.md#battery-tray-fit-check).
+**Consequence for the battery:** the box occupies the battery side of the deck, so the pack has to sit centred and the space for it is fixed. That is what forces a **shorty**, and the reasoning lives in [`battery_analysis.md`](battery_analysis.md#chassis-layout-and-shortlist).
 
 ---
 
