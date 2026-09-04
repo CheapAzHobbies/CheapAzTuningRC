@@ -31,7 +31,6 @@
 | **HV (15.2V)** | May | Nice to have, not required. Higher voltage means more top speed, and the chargers all do LiHV ([`charger_analysis.md`](charger_analysis.md)), but a standard 14.8V pack is perfectly welcome |
 | **5000mAh and up** | May | Run time preference, not a rule, and it moved up with the shorty spec. **Capacity is a poor proxy for weight**, the 6000s here undercut several 5000s, so the gram figure decides rather than the mAh. Everything shortlisted now lands between 5000 and 6400 |
 | **Under 40mm tall, 35mm ideal** | May | **This is the sharing limit, not this car's limit**, and it is now soft. At **35mm the standard battery bar works** on Mike's car, and taller needs a 3D printed bar, **which Mike has**, so height no longer keeps a pack off his truck. Lower is still better for CG |
-| **Enough C-rating for the 140A ESC** | May | Any modern reputable pack (~50C+) handles the current fine at this capacity, not a limiting factor |
 | **Connector matches the ESC** | May | Match the MAX10 G2 connector or adapt |
 
 ---
