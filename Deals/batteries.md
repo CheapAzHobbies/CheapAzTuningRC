@@ -18,6 +18,7 @@ At-a-glance: cheapest **per-pack** ever seen for each model I run / care about.
 |-------|------|---------------------|------|--------|
 | Zeee Premo 3S 4200mAh Shorty (11.4V HV) | LiHV | **$23.30** | 2025-09-21 | AliExpress — ZEEE Direct Store |
 | CNHL Racing Series 5200mAh 4S 90C (EC5) | LiPo | **$52.51** | 2026-08-26 | ChinaHobbyLine |
+| Gens Ace Redline 2.0 6000mAh 4S HV 140C | LiHV | **$92.26** | 2026-08-31 | eBay — mugrc-store |
 | CNHL Lightning LiHV 5500mAh 4S 120C (EC5) | LiHV | **$54.46** | 2026-08-26 | ChinaHobbyLine |
 | CNHL Ultra-Thin Racing LiHV 6000mAh 4S 120C (EC5) | LiHV | **$71.00** | 2026-08-26 | ChinaHobbyLine |
 
@@ -26,6 +27,19 @@ At-a-glance: cheapest **per-pack** ever seen for each model I run / care about.
 ## Deal History — by Battery Model
 
 All recorded deals grouped by model, newest first within each group.
+
+### Gens Ace Redline 2.0 6000mAh 4S HV 140C (hardcase, 5.0mm bullet)
+
+Competition HV hardcase, part **GEA60004S14S**. Bought as a matched pair for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_analysis.md).
+
+| Date | Qty | Total | $/pack | Coupon | Source |
+|------|-----|-------|--------|--------|--------|
+| 2026-08-31 | 2 | **$184.51** | **$92.26** | none (list $230.64, seller discount) | eBay — mugrc-store |
+
+- **$46 under list per pack** without a coupon, the seller's own price. Ships from the USA, 90-day warranty, delivered in 3 days.
+- Cross-check against the older **6300** Redline at **$107.38/pack**: the 6000 is **$15 cheaper, 42g lighter**, and only 300mAh smaller.
+
+---
 
 ### CNHL 4S packs (ChinaHobbyLine)
 
