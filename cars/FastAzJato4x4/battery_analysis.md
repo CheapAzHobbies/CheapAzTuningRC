@@ -10,7 +10,7 @@
 
 > **This car now specs away from [Mike's Jato 4x4](../Jato4x4_Mike/README.md), and that's deliberate.** The old plan was one shared spec so either truck could run any pack in the pile. Going shorty-and-hardcase-only breaks that, because Mike's car runs full length packs that won't be bought for this one any more.
 >
-> **Sharing still works one way: shorties fit Mike's car too.** So anything bought to this car's spec can go in either truck, while Mike's full length packs stay on his car. Buy shorty, keep both trucks fed. 🚧 The one thing to confirm is height, Mike's stock tray is noted around 40mm, so the 47mm Gens Ace may be this car only.
+> **Sharing still works one way: shorties fit Mike's car too.** So anything bought to this car's spec can go in either truck, while Mike's full length packs stay on his car. Buy shorty, keep both trucks fed. **Height isn't a blocker there either**, Mike runs a **3D printed battery bar** that clears the taller packs, so even the 47mm Gens Ace shorty goes in his car.
 
 | Requirement | Type | Why |
 |---|---|---|
@@ -21,7 +21,7 @@
 | **Smaller than 163 × 50 × 45mm** (L × W × H) | Must | This car's actual envelope. Length is the easy one, nothing here comes close to 163mm. **Width is 50mm for a hard case and about 51mm for a soft one**, since a soft pack squeezes in and a hard one won't. **45mm is the height limit, though the 47mm HCL-HP did get squished in** |
 | **HV (15.2V)** | May | Nice to have, not required. Higher voltage means more top speed, and the chargers all do LiHV ([`charger_analysis.md`](charger_analysis.md)), but a standard 14.8V pack is perfectly welcome |
 | **4000-5500mAh** | May | Run time preference, not a rule. **Capacity is a poor proxy for weight**, a 6000 can undercut a 5000 depending on chemistry and construction, so the gram figure decides rather than the mAh |
-| **Under 40mm tall, 35mm ideal** | May | **This is the sharing limit, not this car's limit.** Mike's stock Jato tops out around 40mm, and at **35mm the standard battery bar still works** there, taller needs a 3D printed one. A pack at 35mm drops into both trucks with no extra parts. Lower is better for CG anyway |
+| **Under 40mm tall, 35mm ideal** | May | **This is the sharing limit, not this car's limit**, and it is now soft. At **35mm the standard battery bar works** on Mike's car, and taller needs a 3D printed bar, **which Mike has**, so height no longer keeps a pack off his truck. Lower is still better for CG |
 | **Enough C-rating for the 140A ESC** | May | Any modern reputable pack (~50C+) handles the current fine at this capacity, not a limiting factor |
 | **Connector matches the ESC** | May | Match the MAX10 G2 connector or adapt |
 

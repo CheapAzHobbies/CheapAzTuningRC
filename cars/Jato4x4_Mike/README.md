@@ -97,7 +97,7 @@ Runs **full length 4S packs**, which is where this car and the [FastAzJato4x4](.
 
 **Sharing still works one way:** shorties fit this car as well, so anything bought to the FastAz spec can run here, while the full length packs stay on this one. The three CNHL packs bought 2026-08-26 (Racing 5200, Lightning 5500, Ultra-Thin 6000) land here for that reason.
 
-🚧 Tray height here is noted at roughly **40mm**, so the 47mm Gens Ace Redline shorty is likely FastAz only. Measure before assuming a shorty drops in.
+Height is not a limit here: the stock battery bar tops out around **35mm**, but this car runs a **3D printed battery bar** that clears taller packs, so even the **47mm Gens Ace Redline shorty** fits.
 
 ---
 
