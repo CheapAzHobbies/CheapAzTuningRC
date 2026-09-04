@@ -26,7 +26,6 @@
 | **Hard case** | Must | Upgraded from a preference. **The sand at Meldrum chafes soft packs**, grit gets into the tray and works at the shrink wrap, so the hard shell earns its slightly higher weight |
 | **420 to 530g** | Must | **A window, not a floor.** Over roughly **580g is too heavy**; the 573g Zeee 6000 soft pack is the one that proved it. **Too light is its own problem**: the car goes odd in the air, motor torque starts steering it on a jump. The pack running now sits at **518g**, inside the band |
 | **Smaller than 163 × 50 × 45mm** (L × W × H) | Must | This car's actual envelope. Length is the easy one, nothing here comes close to 163mm. **Width is 50mm for a hard case and about 51mm for a soft one**, since a soft pack squeezes in and a hard one won't. **45mm is the height limit, though the 47mm HCL-HP did get squished in** |
-| **ROAR approved** | May | This car is built ROAR legal elsewhere, down to [standard width rims](wheel_analysis.md#key-requirements), so an approved pack keeps that consistent. A preference rather than a rule, since the home track's timed racing was discontinued. Checked against ROAR's own list, see [ROAR legality](#roar-legality) |
 | **HV (15.2V)** | May | Nice to have, not required. Higher voltage means more top speed, and the chargers all do LiHV ([`charger_analysis.md`](charger_analysis.md)), but a standard 14.8V pack is perfectly welcome |
 | **4000mAh and up** | May | Run time preference, not a rule. **Capacity is a poor proxy for weight**, the 6000s here undercut several 5000s, so the gram figure decides rather than the mAh. Note this doesn't rescue small packs: the 4200 below clears 4000 and still fails on **weight**, being 119g under the floor |
 | **Lower is better for CG** | May | Not a fit limit on this car, the CF deck and straps take taller packs without complaint. Purely a centre of gravity preference |
@@ -106,6 +105,8 @@ Full length packs (CNHL Ultra-Thin, Lightning, G+Plus, Black Series, Racing 5200
 
 ## ROAR legality
 
+> **This car isn't raced under ROAR and won't be.** It runs mod class, where the rules are minimal, so **nothing below constrains a purchase**. Kept because it's researched, it's a reasonable proxy for whether a maker is taken seriously, and it would matter if the car ever ran a sanctioned event.
+
 Checked against [ROAR's published approved battery list](https://www.roarracing.com/approvals/print_lipobattery.php) rather than seller claims.
 
 | On the list | Not on the list |
@@ -114,19 +115,13 @@ Checked against [ROAR's published approved battery list](https://www.roarracing.
 
 Also on it and not shortlisted here: Reedy, Trinity, Fantom, SMC, Muchmore, LRP, Spektrum, R1.
 
-**Three things this settles.**
-
-**The chosen pack is fine.** Gens Ace Redline is on the list, so nothing about running it conflicts with the ROAR-legal build. That wasn't known when the ROAR column first went in and it was marked as unstated.
-
-**Two cheap packs are approved and I'd assumed otherwise.** **Fido** at $55 and **GNB** at $105 are both on the list, so the cheapest genuinely competitive pack here is also race legal. Approval is not a proxy for price.
-
-**The lightest pack is not legal.** **Team Orion is not on the list**, which is the first real cost to the 386g pack. Everything else against it has been cosmetic, this isn't. Same for the CNHL shorty, HobbyStar, PowerHobby and Performa.
+**Read it as a credibility signal, not a rule.** Approval costs a manufacturer time and money, so brands that bother tend to be the ones selling to racers. **Fido at $55 and GNB at $105 being on the list** is the interesting part, since it means cheap doesn't imply unserious. **Team Orion, CNHL, HobbyStar, PowerHobby and Performa aren't on it**, which is worth knowing but doesn't rule anything out here.
 
 > ⚠️ **Brand on the list is not the same as pack on the list.** ROAR approves specific models by part number, so a brand appearing means that pack needs checking individually before racing it. The table above is a first filter, not a certificate.
 
-### The rule that actually bites
+### The rule that would have bitten
 
-**LiHV is only ROAR legal charged to 4.22V per cell**, not 4.35V. On a 4S that caps a legal charge at **16.88V instead of 17.4V**, so racing under ROAR gives up part of what an HV pack is bought for. Worth knowing that "ROAR approved LiHV" doesn't mean HV charging is allowed, only that the pack itself passes.
+**LiHV is only ROAR legal charged to 4.22V per cell**, not 4.35V, capping a legal 4S charge at **16.88V instead of 17.4V**. Running mod class means **charging to the full 4.35V and keeping what the HV pack was bought for**, which is a concrete reason not to care about this section.
 
 **Dimensions aren't a constraint.** ROAR's maximum 4S case is **165 × 52 × 52mm**, and every pack considered here is far inside that. The [length limit on this car](#chassis-layout-and-shortlist) comes from the RX box, not from any rule.
 
