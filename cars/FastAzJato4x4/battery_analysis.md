@@ -36,7 +36,7 @@
 
 **This car runs the [AliExpress CF LCG chassis](chassis_analysis.md) with its aluminium battery holder and straps, so height is effectively not a limit.** A strapped pack on a CF deck isn't boxed in by a moulded tray the way a stock truck is, and a taller body sits over it. Every candidate here measures 47 to 50.5mm tall, and the 47mm HCL-HP already went in, so **stop treating height as the thing that decides a pack**.
 
-<p align="center"><img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="600"><br><em>The layout that sets the battery rule: RX box (clear blue) sits on the battery side, Redline shorty strapped centred on the CF deck</em></p>
+<p align="center"><img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="600"><br><em>The layout that sets the battery rule: RX box (clear blue) sits on the battery side, Redline shorty strapped centred on the CF deck. Box details in <a href="radio_analysis.md#rx-box-and-how-its-mounted">radio_analysis.md</a></em></p>
 
 **Length is the real constraint, and it comes from the RX box.** The receiver box sits on the battery side of this chassis, as in the photo above, and the pack has to sit centred, so the space left for it is fixed by where the box lands. **That's why a shorty has to actually be a shorty**, not a full length brick reworded. A 138 to 160mm pack would either push the RX box off the deck or force the battery out to one end, and neither is acceptable. Length is the one dimension worth measuring carefully before buying.
 

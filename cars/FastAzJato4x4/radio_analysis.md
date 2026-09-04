@@ -25,6 +25,22 @@
 
 ---
 
+## RX box and how it's mounted
+
+**The box is a knock-off clear blue Slash 4x4 LCG battery box**, about **$3 for a pair**, used as a receiver box rather than for a battery. Cheap, sealed enough to keep dust off the FGr4S, and the clear shell means the bind LED is readable without opening anything.
+
+**The mounting is the good part.** The plan was to use the screw holes that originally take the front battery mount, the stopper that keeps a pack from sliding forward. What turned up while test fitting: **rotate the box and its holes line up with the battery stopper slots at an angle**. That angled position:
+
+- **clears the bell crank perfectly**, no fouling through steering travel
+- reuses existing chassis holes, so nothing new drilled
+- looks deliberate rather than improvised, which is why it stayed
+
+<p align="center"><img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="600"><br><em>Clear blue RX box mounted at an angle in the front battery stopper slots, battery strapped centred alongside</em></p>
+
+**Consequence for the battery:** the box occupies the battery side of the deck, so the pack has to sit centred and the space for it is fixed. That is what forces a **shorty**, and the reasoning lives in [`battery_analysis.md`](battery_analysis.md#battery-tray-fit-check).
+
+---
+
 ## Notes
 
 - **Two receivers in the box:** the NB4 ships with the larger **FGr4** and the small **FGr4S**. Running the **small FGr4S V2** (fits the tight CF chassis better); the FGr4 is a spare. Confirm the exact output types (servo / SBUS-style) against the unit when wiring.
