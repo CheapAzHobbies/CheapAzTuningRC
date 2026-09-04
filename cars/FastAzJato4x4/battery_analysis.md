@@ -9,6 +9,7 @@
 - [Key Requirements](#key-requirements) — what this car needs and why
 - [Battery tray fit check](#battery-tray-fit-check) — measured envelope against every candidate
 - [Pack comparison](#pack-comparison) — every 4S pack considered, owned or not
+- [Reputation and real-world experience](#reputation-and-real-world-experience) — what owners and racers report, ranked
 - [The C-rating math](#the-c-rating-math-a-fun-sanity-check) — why the C number on the label is fiction
 - [Notes](#notes) — the reasoning that actually decides purchases
 ---
@@ -101,6 +102,44 @@
 | 🚫 ~~**HCL-HP 4S 5200mAh 150C hardcase (52150-4S1P, SMC)**~~ — *558g, well over the window* | **Cells:** 4S / 14.8V<br>**Capacity:** 5200mAh (true ±5%)<br>**C-rating:** 150C (SMC true rate; **Power Factor 390**)<br>**Weight:** **558g** (hardcase)<br>**Connector:** SC5 (EC5/IC5 compatible)<br>**Size:** **139 × 49 × 47mm** hardcase (L × W × H)<br>**Price:** **$49.95 each** (bought **3**, $149.85) | Pro: **Absolute best performance of the bunch**, low IR gives strong acceleration/speed and stays cooler. 100% LCO cells, and SMC actually publishes an honest Power Factor / true C (see note)<br><br>Con: **Run 3.5V/cell LVC, not 3.4V.** SMC recommend it across their whole range and these packs are less tolerant of being taken low. **Not durable, you have to baby it.** Fails early even with a high cutoff, and it doesn't like impacts or being shaken hard. One arrived **DOA (a defect)**, and the rest **didn't make it past ~20 charge cycles**, frail within 6 months despite following SMC's care rules. Hardcase adds weight (558g) | <img src="src/electronics_hclhp_4s_5200_150c_hardcase.jpg" width="500"> |
 | 🚫 ~~**Zeee 4S 6000mAh 60C (Deans), soft case**~~ — *573g, the pack that set the too-heavy line* | **Cells:** 4S / 14.8V<br>**Capacity:** 6000mAh<br>**C-rating:** 60C (marketing)<br>**Weight:** **573g**<br>**Connector:** Deans (T-plug)<br>**Size:** larger soft case<br>**Price:** ~$69.59 | Pro: Longest run time of the bunch<br><br>Con: **Too heavy**, the extra mass hurts handling on this light chassis. Deans plug (would need adapting to the EC5 setup) | <img src="src/electronics_zeee_4s_6000_60c.jpg" width="500"> |
 | 🚫 ~~**RUDDOG Racing 5700mAh 150C/75C 15.2V short 4S LiPo-HV**~~ — *can't be shipped here* | **Cells:** 4S / **15.2V LiHV** (Silicon Graphene)<br>**Capacity:** 5700mAh (**86.64Wh**)<br>**C-rating:** **75C continuous / 150C peak**<br>**Weight:** **411g**<br>**Connector:** none fitted, 5mm bullet and XH balance ports<br>**Size:** **98 × 47 × 47mm** shorty hardcase<br>**Part:** RP-0749<br>**Price:** **€69.99** incl. 19% VAT (~$75), free shipping within Europe | Pro: **The only pack here that publishes a continuous rating**, 75C, instead of a peak number dressed up as continuous, which makes it the one honest C figure in the table. **411g, within a gram of the Gens Ace**, Silicon Graphene cells, and 47mm tall with no rotating<br><br>Con: **RUDDOG does not ship LiPo or LiHV outside mainland Europe**, so it cannot be bought from Oregon at any price. That alone rules it out. Also ships **with no plugs fitted**, and at 86.64Wh it carries less energy than the 6000s while weighing the same | <img src="src/electronics_ruddog_racing_4s_5700_150c_shorty_rp-0749.jpeg" width="500"><br><em>RP-0749, 5700mAh 15.2V, 86.64Wh, 411g</em> |
+
+---
+
+## Reputation and real-world experience
+
+Specs rank these packs cleanly, reputation doesn't. This is what owners and racers actually report, which matters more than a label but comes from forum anecdote and small samples, so treat it as weight-of-opinion rather than data. **The strongest evidence here is our own**, because it's the only sample where the charging, storage and abuse are known.
+
+### Tier 1, proven in this fleet
+
+- **Zeee.** Four Premo packs at **93 cycles and still working**, and Zeee replaced a dead one free. Not a race brand, but the longevity is measured, not claimed. The catch is capacity honesty, they charge back well under label ([E-Revo notes](../ERevo_1.0/battery_analysis.md)).
+- **SMC.** The opposite lesson. Best performing packs owned, and **none survived past ~20 cycles**, one DOA. Honest specs, poor durability, in our hands.
+
+### Tier 2, well regarded by racers
+
+- **Gens Ace / Tattu.** Treated as the benchmark for cell matching and pack-to-pack consistency, and racers rate the **Redline 2.0's voltage drop-off as good as anything tested**. ⚠️ Counter-report worth knowing: some packs failing with **broken internal cell tabs inside 3 to 4 months**. Relevant, since this is the chosen pack.
+- **Reedy and Fantom.** Named as the most consistent over six years of racing by one long-time racer. Neither is on this shortlist, worth remembering if the spec ever widens.
+- **Trinity Revtech.** Reported to hit numbers few packs get near. Not shortlisted here.
+
+### Tier 3, mixed reports
+
+- **ProTek.** Genuinely split. Some report great lifespan, others report **puffing and internal resistance climbing faster than comparable thin packs**, including one measured at 3.4 mΩ where under 2 is wanted. Its ROAR and Si-Graphene case is on paper, and the field reports don't back it up cleanly at $175.99.
+
+### Tier 4, cheap and popular, little long-term data
+
+- **CNHL.** Commonly called the best performance per dollar, and three are already owned here. No longevity record yet.
+- **GAONENG / GNB, HobbyStar, PowerHobby, Fido / Fyrework.** Sold widely, essentially no racer feedback found on long-term behaviour. Fido is the least known of all, and also the cheapest per Wh, which is the usual trade.
+
+### Tier 5, no useful signal found
+
+- **Maclan, Team Orion, Team Exalt, Performa.** Maclan has an active following but nothing conclusive surfaced, Orion is a 2020 design, Exalt is new enough (ROAR approval June 2025) that no durability record exists yet.
+
+### The finding that outranks all of it
+
+**Charging and charge leads matter as much as the brand.** The consistent theme across racer reports is that a bad lead or a careless charge ruins any pack, and that differences between current-generation packs are smaller than differences in how they're treated. Worth more than picking a logo: 1C charging, correct storage voltage, and not letting packs sit, which is exactly what killed [Premo #2](../ERevo_1.0/battery_analysis.md).
+
+> **This section does not reorder the comparison table**, which stays sorted by status per repo convention. Read them together: the table says what a pack is, this says what people find after six months with it.
+
+Sources: [rctech, best 4S for 1/8 buggy](https://www.rctech.net/forum/electric-off-road/1027860-best-4s-lipo-1-8-buggy-rc8b3-1e.html) · [rctech, better than ProTek 6400 shorty](https://www.rctech.net/forum/radio-electronics/1135118-lipo-better-then-protek-6400-2s-shorty.html) · [rctech, Maclan batteries](https://www.rctech.net/forum/electric-off-road/1120763-maclan-batteries.html) · [rctech, best shorty for stock class](https://www.rctech.net/forum/electric-off-road/876534-best-shorty-lipo-stock-class-buggy.html)
 
 ---
 
