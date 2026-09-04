@@ -276,7 +276,7 @@ When you start a **new part category**, define its field order once (add a short
 - **Rockers:** Type · Material · Rate · Pivot/Hardware · Fits · Colors · Weight · Price
 - **Rods (turnbuckles / pushrods):** Type · Material · MPN · Fits · Adjustable · Length · Price
 - **Rod ends (ball cups):** Type · Material · MPN · Fits · Balls included · Qty · Price
-- **Bodies:** Type/Part · Material · Finish · Includes · Fits · Price
+- **Bodies:** Type/Part · Material · Finish · Includes · Fits · Weight · Price
 - **ESCs:** Cells · Current (A) · BEC · Sensored · Waterproof · Weight · Price
 - **Motors:** Type · KV · Cells · Can · Shaft · Sensored · Poles/Slots · Rotor · Max RPM · Max temp · Bearings · Rebuildable · Weight · Price
 - **Servos:** Type · Torque · Speed · Voltage · Gears · Case · Motor · Bearing · Refresh · Pulse width · Dead band · Neutral · Travel · Signal · Programmable · Size · Weight · Price

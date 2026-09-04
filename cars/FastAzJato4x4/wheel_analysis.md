@@ -55,6 +55,7 @@ Bare tires, no rim. Mount on 17mm-hex rims with a [foam insert](#foam-inserts).
 | Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | 🔵 **Generic 1/8 buggy tires, "Mitsubishi-logo" tread** — *tires only, in hand* | **Part:** N/A (generic AliExpress)<br>**Type:** 1/8 off-road buggy (**tires only, no rims**)<br>**Tread:** small block, "Mitsubishi-logo" style<br>**Compound:** soft<br>**Dia:** N/A<br>**Width:** N/A<br>**Rim:** none (mount on 17mm rims)<br>**Hex:** N/A (tire only)<br>**Weight:** N/A<br>**Foam:** **included, nice closed-cell race foam** (blue)<br>**Pre-glued:** No (tires only)<br>**Price:** **$13 / set of 4** | Pro: **Comes with good closed-cell race foam** (holds shape better than the RedSpider's packing sponge). Cheap set of 4<br><br>Con: **Tires only, no rims**, mount them yourself. Unproven on my track vs the RedSpider | <img src="src/aero_generic_tires_1-8_with_foam.jpg" width="250"> |
+| 🔵 **Generic 1/8 buggy tires, block tread (Fiona Hobby)** — *tires only, in hand* | **Part:** N/A (Fiona Hobby Trading Co Ltd, AliExpress)<br>**Type:** 1/8 off-road buggy (**tires only, no rims**)<br>**Tread:** dense small block<br>**Compound:** N/A<br>**Dia:** N/A<br>**Width:** N/A<br>**Rim:** none (mount on 17mm rims)<br>**Hex:** N/A (tire only)<br>**Weight:** **272 g / set of 4** (68 g each, measured)<br>**Foam:** none<br>**Pre-glued:** No<br>**Price:** **$10 / set of 4** | Pro: **Cheapest tire here at $10 for four**, and the **lightest of the bare tires** at 272 g/set, 38 g under the triangle-tread set from the same seller. Dense block tread in the same family as the mini-pin treads that suit this track<br><br>Con: Tires only, no rims and no foam, so budget the [foam inserts](#foam-inserts) on top. Unproven on track, no wear data yet | <img src="src/aero_generic_block_tires_fiona_hobby_weight.jpeg" width="250"><br><em>272 g / set of 4</em> |
 | 🔵 **Generic 1/8 buggy tires, triangle tread (26013)** — *tires only, in hand* | **Part:** **26013** (Fiona Hobby)<br>**Type:** 1/8 off-road buggy (**tires only, no rims**)<br>**Tread:** triangle, hole in the middle<br>**Compound:** medium / soft<br>**Dia:** N/A<br>**Width:** N/A<br>**Rim:** none (mount on 17mm rims)<br>**Hex:** N/A (tire only)<br>**Weight:** ~310 g / set<br>**Foam:** **none** (bought the Tire-Only variant; "With Sponge" / "With Racing" variants exist)<br>**Pre-glued:** No<br>**Price:** **$13.04 / set of 4** (list $13.73) | Pro: Cheap set of 4, grip is OK, fits standard 1/8 wheels<br><br>Con: **Very fragile and prone to ripping**, weaker than the RedSpider. No foam in this variant (pick the With-Sponge/Racing option if you want it) | <img src="src/aero_generic_tires_triangle_26013.jpg" width="250"> |
 
 ---
@@ -65,20 +66,21 @@ Bare 17mm-hex rims, for remounting a good tire or a color change.
 
 | Rim | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
+| 🟢 **RED SPIDER BBS-style rims** — *bare rims, in hand* | **Part:** N/A (RED SPIDER)<br>**Type:** BBS-style multi-spoke 1/8 buggy rim<br>**Size:** 1/8 buggy, 17mm hex<br>**Hex:** **17mm standard** (non-star)<br>**Fits:** front or rear, standard width so it stays [ROAR legal](#key-requirements)<br>**Sold as:** normally ships as a mounted set with tires and foams<br>**Weight:** **166 g / pair** (83 g each, measured)<br>**Price:** N/A (left over from a mounted set) | Pro: **In hand and free**, left over after the tires on that set blew out, so the rims outlived the rubber. Standard 17mm non-star hex, so unlike the Traxxas 9070 it drives off **both** the front TKR1654-17 and the rear TKR5570-17 with no filing<br><br>Con: Bare rims only, needs tires and foams. Heavier than a dished race rim would be, the BBS spoke pattern is the look tax | <img src="src/aero_redspider_bbs_rims_weight.jpeg" width="250"><br><em>166 g / pair</em> |
 | 🔵 **Traxxas 3.0" White Dished Wheels (9070-WHT)** — *bare rim, splined/star hex* | **Part:** 9070-WHT<br>**Type:** 3.0" dished wheel (bare rim)<br>**Size:** 3.0"<br>**Hex:** **17mm splined (star)**<br>**Fits:** front or rear; needs 17mm hubs + nuts; bare version of the Response Pro white wheel<br>**Sold as:** pair (2)<br>**Price:** **$8.00 / pair** | Pro: Cheap OEM 3.0" dished rim, splined hex locks on solid. Handy for remounting a tire in white<br><br>Con: **Splined / star hex only**, the front non-star hex (TKR1654-17) won't drive it without cutting the teeth. Same wide Traxxas wheel, so the [wide-track / ROAR note](#key-requirements) applies | <img src="src/aero_traxxas_3in_dished_wheel_9070wht.jpg" width="250"> |
 
 ---
 
 ## Foam Inserts
 
-The insert matters as much as the tire. **Closed-cell blue foams, sold on their own (4-pack, ~$9.42), are the best insert I run**, worth buying separate rather than relying on whatever sponge a cheap tire ships with.
+The insert matters as much as the tire. **Closed-cell blue foams, sold on their own (4-pack, $8.08), are the best insert I run**, worth buying separate rather than relying on whatever sponge a cheap tire ships with.
 
-<p align="center"><img src="src/aero_closed_cell_foams_blue.jpg" width="400"><br><em>Standalone closed-cell foam inserts (4pcs, ~$9.42, HPI-compatible 1/8)</em></p>
+<p align="center"><img src="src/aero_closed_cell_foams_blue.jpg" width="400">&nbsp;<img src="src/aero_closed_cell_foams_blue_weight.jpeg" width="400"><br><em>Standalone closed-cell foam inserts (4pcs, $8.08, HPI-compatible 1/8) · 20 g / set of 4</em></p>
 
 - **Reusable many times**, they don't pack out like the soft packing sponges (e.g. the RedSpider's).
 - **Keeps the car planted** and cuts **rim slap** (tire collapsing onto the rim over bumps), so better overall control.
 - **Adds a bit of weight**, which actually **helps air control** / stability when the car's off a jump.
-- Generic 4Pcs 1/8 foam inserts (HPI-compatible), ~**$9.42 / 4**.
+- Generic 4Pcs 1/8 foam inserts (HPI-compatible), **$8.08 / set of 4**, **20 g / set** (5 g each, measured).
 
 ---
 
