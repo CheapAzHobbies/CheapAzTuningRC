@@ -91,6 +91,16 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 
 ---
 
+## Batteries
+
+Runs **full length 4S packs**, which is where this car and the [FastAzJato4x4](../FastAzJato4x4/battery_analysis.md) split. That car went **shorty hardcase only**, so the two no longer buy to one shared spec.
+
+**Sharing still works one way:** shorties fit this car as well, so anything bought to the FastAz spec can run here, while the full length packs stay on this one. The three CNHL packs bought 2026-08-26 (Racing 5200, Lightning 5500, Ultra-Thin 6000) land here for that reason.
+
+🚧 Tray height here is noted at roughly **40mm**, so the 47mm Gens Ace Redline shorty is likely FastAz only. Measure before assuming a shorty drops in.
+
+---
+
 ## Wheels & Tires
 
 | Item | Spec |
