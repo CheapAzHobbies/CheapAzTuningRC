@@ -37,11 +37,13 @@
 
 ## Battery tray fit check
 
-**Stock Jato 4x4 plastic chassis tray: ~160.23 × 50 × ~35mm** (L × W × H), and **~40mm of height can be squished in** if it has to. **That length is a caliper measurement of the actual tray**, and published pack dimensions often don't line up with it. Manufacturers aren't consistent about what they include, wire exit, plug, case lip or shrink wrap, so a pack listed at 147mm and a tray measured at 160mm aren't necessarily 13mm apart in practice. **Trust the caliper number for the tray and measure the pack the same way** rather than comparing a caliper reading to a spec sheet.
+**This car runs the [AliExpress CF LCG chassis](chassis_analysis.md) with its aluminium battery holder and straps, so height is effectively not a limit.** A strapped pack on a CF deck isn't boxed in by a moulded tray the way a stock truck is, and a taller body sits over it. Every candidate here measures 47 to 50.5mm tall, and the 47mm HCL-HP already went in, so **stop treating height as the thing that decides a pack**.
 
-**A stock Jato can be opened up to roughly 163 × 50 × 40mm** with the right battery mount and a 3D printed battery bar. Worth knowing if you're speccing a pack for a stock truck, and worth noting that the height is the part that needs the printed bar.
+**Length is the real constraint, and it comes from the RX box.** The receiver box sits on the battery side of this chassis and the pack has to sit centred, so the space either side of it is fixed. **That's why a shorty has to actually be a shorty**, not a full length brick reworded. Length is the one dimension worth measuring carefully before buying.
 
-> **None of this constrains this build.** The stock tray is the conservative reference here, not the limit. The FastAz runs the [AliExpress CF LCG chassis](chassis_analysis.md) with its own **aluminium battery holder and strap**, and a taller body over it, so length and height both open up. Its usable tray still needs measuring, but pack size isn't what decides this car's battery, weight is. Until then, treat the stock tray as the conservative reference. It's also the tray on [Mike's Jato](../Jato4x4_Mike/README.md).
+**Reference numbers for a stock truck**, kept because they're useful and because they're [Mike's tray](../Jato4x4_Mike/README.md): stock Jato 4x4 plastic tray is **~160.23 × 50 × ~35mm** caliper-measured, roughly **40mm** of height if squeezed, and about **163 × 50 × 40mm** once opened up with a printed battery bar. Published pack dimensions often don't line up with a caliper reading anyway, since makers differ on whether wire exit, plug, case lip or shrink wrap are included, so **measure the pack the same way you measured the tray**.
+
+> The column below is kept against the stock numbers as the conservative reference. On this car the height flags don't apply, only the length ones.
 
 | Pack | L × W × H | Length (<163) | Width (50, 51 soft) | Height (45 max, 35 ideal) | Verdict |
 |---|---|---|---|---|---|
