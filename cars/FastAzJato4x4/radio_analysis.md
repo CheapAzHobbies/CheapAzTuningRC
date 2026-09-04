@@ -29,7 +29,7 @@
 
 **The box is a knock-off clear blue Slash 4x4 LCG battery box**, about **$3 for a pair**, used as a receiver box rather than for a battery. Cheap, sealed enough to keep dust off the FGr4S, and the clear shell means the bind LED is readable without opening anything.
 
-**The mounting is the good part.** The plan was to use the screw holes that originally take the front battery mount, the stopper that keeps a pack from sliding forward. What turned up while test fitting: **rotate the box and its holes line up with the battery stopper slots at an angle**. That angled position:
+**The mounting is the good part.** The plan was to use the screw holes that originally take the front battery mount, the stopper that keeps a pack from sliding forward. **Losing that stopper is no loss anyway**, it is a pair of metal tubes and it looks tacky, so those holes were going spare regardless. What turned up while test fitting: **rotate the box and its holes line up with the battery stopper slots at an angle**. That angled position:
 
 - **clears the bell crank perfectly**, no fouling through steering travel
 - reuses existing chassis holes, so nothing new drilled
