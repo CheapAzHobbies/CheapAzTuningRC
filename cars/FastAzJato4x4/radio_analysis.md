@@ -35,6 +35,10 @@
 - reuses existing chassis holes, so nothing new drilled
 - looks deliberate rather than improvised, which is why it stayed
 
+**Fixing, as built:** a **washer and nut inside the box**, with a **taper screw up from underneath the chassis**, so the head sits flush against the deck and there is nothing proud to catch. On top of that the box already had **VHB tape underneath**, so the adhesive and the screws are doing the job together rather than relying on either alone.
+
+**It also saves weight while protecting the RX.** A dedicated receiver box is heavier than this, and the alternative of wrapping the receiver in foam and tape protects it less. A $3 shell that keeps dirt and moisture off the FGr4S, mounts on existing holes and adds almost nothing to the car is doing three jobs at once.
+
 <p align="center"><img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="600"><br><em>Clear blue RX box mounted at an angle in the front battery stopper slots, battery strapped centred alongside</em></p>
 
 **Consequence for the battery:** the box occupies the battery side of the deck, so the pack has to sit centred and the space for it is fixed. That is what forces a **shorty**, and the reasoning lives in [`battery_analysis.md`](battery_analysis.md#battery-tray-fit-check).
