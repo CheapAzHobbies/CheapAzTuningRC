@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [Key Requirements](#key-requirements) — what this car needs, and where it split from Mike's
+- [Key Requirements](#key-requirements) — what this car needs and why
 - [Battery tray fit check](#battery-tray-fit-check) — measured envelope against every candidate
 - [Pack comparison](#pack-comparison) — every 4S pack considered, owned or not
 - [The C-rating math](#the-c-rating-math-a-fun-sanity-check) — why the C number on the label is fiction
@@ -14,8 +14,6 @@
 ---
 
 ## Key Requirements
-
-> **Sharing still works one way: shorties fit Mike's car too.** So anything bought to this car's spec can go in either truck, while Mike's full length packs stay on his car. Buy shorty, keep both trucks fed. **Height isn't a blocker there either**, Mike runs a **3D printed battery bar** that clears the taller packs, so even the 47mm Gens Ace shorty goes in his car.
 
 | Requirement | Type | Why |
 |---|---|---|
@@ -52,7 +50,7 @@
 | **CNHL Racing 5200 90C** | 160 × 45 × 37 | ⚠️ **3mm spare** | ✅ 5mm spare | ✅ 37 < 45, printed bar to share | Tightest on length of anything here |
 | ~~HCL-HP 5200~~ | 139 × 49 × 47 | ✅ 24mm spare | ✅ 1mm spare | ❌ **47, over the 45 limit** (was squished in) | Ruled out on weight anyway at 558g |
 | ~~PowerHobby 4200 HV~~ | 89 × 44 × 32.4 | ✅ 74mm spare | ✅ 6mm spare | ✅ 32.4mm | Fits easily. Ruled out on weight at 301g |
-| **Gens Ace Redline 2.0 6000 HV** | 98 × 47 × 47 | ✅ 62mm spare | ✅ 3mm spare | ⚠️ **47, over the 45mm limit** | **The only true shorty here.** 2mm over this car's height limit, but the 47mm HCL-HP was squished in before, so it is likely fine here and **definitely too tall for Mike's stock tray** |
+| **Gens Ace Redline 2.0 6000 HV** | 98 × 47 × 47 | ✅ 62mm spare | ✅ 3mm spare | ✅ **47, no issue on the CF deck** | **The only true shorty here**, and the pack this car is built around |
 | **CNHL Racing 6000 shorty HV** | 97 × 47.5 × 47.5 | ✅ 63mm spare | ✅ 2.5mm spare | ⚠️ **47.5, over the 45mm limit** | Same height story as the Gens Ace, 2.5mm over with the 47mm HCL-HP precedent |
 | **Team Orion V-Max-HV 6000** | 106.4 × 46.4 × 50.5 | ✅ 54mm spare | ✅ 3.6mm spare | ⚠️ **50.5, the tallest here** | Fits the tray on every axis, but it is not a shorty and it is the tallest |
 | **Team Exalt X-Rated 6000** | 98 × 47 × 47 | ✅ 62mm spare | ✅ 3mm spare | ⚠️ **47, matches the proven squeeze** | Identical box to the Gens Ace |
@@ -67,7 +65,7 @@
 
 **What this settles:** with the limits corrected, **width and length rule nothing out**. The three 51mm packs are all soft case and squeeze in, and nothing is near the 163mm length ceiling except the Racing 5200 at 160mm.
 
-**Height is what separates them.** The **Lightning at 31mm, G+Plus at 34mm and Black Series at 35mm** clear the 35mm mark, so they take the standard battery bar on Mike's truck as well. The **Ultra-Thin and Racing at 37mm** fit this car fine but need the printed bar to share. Only the HCL-HP at 47mm actually breaks the 45mm limit, and it's out on weight regardless.
+**Height barely matters on this chassis.** The CF deck and straps take anything in this range, from the Lightning at 31mm to the shorties at 47 to 50mm. Height is worth tracking for centre of gravity, not for whether a pack fits.
 
 **The Ultra-Thin 6000 is still the standout**, the only hardcase with real width margin, 479g against the 518g running now, and 800mAh more. The **Lightning 5500 is the better fit on paper** at 31mm and 472g, at the cost of being soft case on a sandy track.
 
@@ -132,7 +130,7 @@ So the headline C number is physically impossible to sustain, it's a **marketing
 - **The mechanism is the sprung to unsprung ratio, not the weight itself.** Tyres, wheels and foams have a floor you can't go under, so as the chassis gets lighter a bigger share of what's left is unsprung, and that's what wrecks handling. Stripping the car evenly would push the limit much lower.
 - **Worth noting the thread isn't unanimous.** Several racers argue a nervous light car is a setup problem, springs, damping and foams, not a weight problem. So **420g is a judgement call informed by that thread, not a measured limit for this car.** It's also a battery figure standing in for a total car weight effect, which is a further step removed. Of the packs still in play the lightest is the **Gens Ace Redline at 452g**.
 - **Case type matters here more than most tracks.** Meldrum is sandy and grit works its way into the tray, chafing the shrink wrap on soft packs. Of the shortlist the **Ultra-Thin 6000 and the Zeee 5200 50C are hardcase**; the Zeee 5200 100C running now, the Racing 5200, the Lightning 5500, the G+Plus and the Black Series are all soft. It doesn't outrank weight, but between two packs within a few grams it should decide.
-- **Height ranks the shortlist as much as weight does.** On the packs with published dimensions: Lightning LiHV **31mm**, G+Plus **34mm**, Black Series **35mm**, Ultra-Thin and Racing both **37mm**. Everything here clears the 40mm ceiling that keeps packs swappable with Mike's Jato, and the 31 to 35mm group does it without forcing anything. Which specific packs are owned lives in the shared [battery tracker](../../batteries/README.md).
+- **Height is a CG note, not a fit test.** Of the packs with published dimensions the spread runs from the Lightning at **31mm** to the GNB at **50mm**, and the CF deck takes all of it. Lower sits the mass lower, which is worth something on a car built around an LCG chassis, but it decides nothing on its own. Which specific packs are owned lives in the shared [battery tracker](../../batteries/README.md).
 - **Ignore the C rating entirely when comparing these packs.** It is a marketing number, not a measurement, and it means nothing across brands. A 130C from one maker and a 140C from another are not comparable in any direction, so **none of the rows above are ranked on C**, and no pack here is better because its sticker says a bigger number. **The only legitimate use is within a single brand**, where a 100C and a 50C from the same line tell you which of the two is the stronger pack. Every one of these has current to spare for this car regardless, so it never decides anything. Detail below.
 - **C-ratings are mostly marketing, don't cross-shop them between brands.** The advertised C rarely survives the math (true C × capacity would be an absurd current the pack can't actually deliver), so a "100C" from one brand is not the same as "100C" from another. C is only useful as a **relative power scale within one brand**: a 100C Zeee vs a 50C Zeee tells you something; a 100C Zeee vs a 100C Tattu tells you nothing. Buy on **brand reputation + capacity**, and treat C as an in-brand relative number only. At this capacity any reputable pack pushes plenty for the 140A MAX10 G2 regardless. **One honest exception: SMC** publishes a real **Power Factor** (e.g. 390 on the HCL-HP) and rates true-spec mAh / true factory C, which is a far better cross-brand yardstick than the usual inflated C numbers.
 - **Performance vs durability, pick your poison.** The **SMC HCL-HP** is the best-performing pack I've run but the **least durable**, fails early, hates impacts/vibration, one died before its first charge, and **none lasted past ~20 charge cycles** (one was a straight **DOA defect**), frail inside 6 months even babied per SMC's rules. One DOA is a genuine dud, that happens to any brand and isn't a knock, but **the rest dying by ~20 cycles under different circumstances while following SMC's care rules is the pattern, a fundamental durability problem with the pack, not user handling**. The **Zeee 5200** gives up some peak punch but is the reliable daily pack. Also sold in a **3S variant (52150-3S1P, $37.95)** for 3S cars.
