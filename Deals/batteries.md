@@ -21,6 +21,7 @@ At-a-glance: cheapest **per-pack** ever seen for each model I run / care about.
 | Gens Ace Redline 2.0 6000mAh 4S HV 140C | LiHV | **$92.26** | 2026-08-31 | eBay — mugrc-store |
 | CNHL Lightning LiHV 5500mAh 4S 120C (EC5) | LiHV | **$54.46** | 2026-08-26 | ChinaHobbyLine |
 | CNHL Ultra-Thin Racing LiHV 6000mAh 4S 120C (EC5) | LiHV | **$71.00** | 2026-08-26 | ChinaHobbyLine |
+| HOOVO 3S 4200mAh 120C 11.4V shorty | LiPo | **$31.50** | 2026-08-27 | Amazon (sold by Hoovo) |
 
 ---
 
@@ -58,12 +59,22 @@ Bought as a set of three for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_a
 | 2026-08-26 | Racing Series 5200mAh 90C | 1 | **$52.51** | $53.99 | WELCOME | ChinaHobbyLine |
 | 2026-08-26 | Lightning LiHV 5500mAh 120C | 1 | **$54.46** | $55.99 | WELCOME | ChinaHobbyLine |
 | 2026-08-26 | Ultra-Thin Racing LiHV 6000mAh 120C | 1 | **$71.00** | $72.99 | WELCOME | ChinaHobbyLine |
-| | **Order total** | **3** | **$177.97** | $182.97 | −$5.00 | Free shipping (over $159) |
+| | **Order total** | **3** | **$177.97** | $182.97 | −$5.00 | Free shipping (over $159) — Order #20269753705 |
 
 - **`WELCOME`** — first-order discount, ~2.75% per line. Small, but it stacks on top of already-listed prices.
 - **Free shipping over $159**, so a three-pack order pays its own freight; a single pack would not.
 - **The store also runs "Buy 2, Get the 3rd Free" periodically** — not active on this order. Worth waiting for it on a repeat buy, since it beats WELCOME by a wide margin.
 - The Ultra-Thin 6000 shipped as a **pre-order, ~7 days out**; the other two were in stock.
+
+---
+
+### HOOVO 3S 4200mAh 120C 11.4V shorty (Amazon)
+
+Bought for the [E-Revo 1.0](../cars/ERevo_1.0/battery_analysis.md#pack-comparison) as the runner-up replacement pack. Gifted by Mike, booked to his account as a credit.
+
+| Date | Qty | Total | $/pack | Coupon | Source |
+|------|-----|-------|--------|--------|--------|
+| 2026-08-27 | 2 | **$62.99** | **$31.50** | — | Amazon (sold by Hoovo) — gift from Mike |
 
 ---
 

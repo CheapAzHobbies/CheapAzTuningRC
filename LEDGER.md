@@ -4,8 +4,8 @@
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $19.28** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) − $100 real car repair, paid cash (2026-09-07) + $50 MonsterKingz hub set sold to Mike (2026-09-07) | 2026-09-07 |
-| **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
+| **Mike** | **≈ $128.26** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) − $20 payment (2026-08-27) + $14 2× filament rolls (2026-08-27) + $177.97 3× CNHL batteries, order #20269753705 (2026-08-27) − $62.99 HOOVO 4200 2-pack gift (2026-08-27) − $100 real car repair, paid cash (2026-09-07) + $50 MonsterKingz hub set sold to Mike (2026-09-07) | 2026-09-07 |
+| **Henry** | **-$5.01 (I owe him)** | $234.99 Castle − $200 ESC payback − $40 payment (2026-08-27) | 2026-08-27 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
 
@@ -139,11 +139,16 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 89 | +$100.00 | Payment — $100 cash (2026-08-22) |
 | | **Checkpoint: -$33.28** | −$133.28 + #89 |
 | 90 | -$36.00 | Traxxas Jato 4x4 body, green (2026-08-22) |
-| | **➡️ Current: -$69.28 → Mike owes ≈ $69.28** | −$33.28 + #90 |
-| 91 | +$100.00 | Mike fixed my real car (non-RC repair), paid $100 cash (2026-09-07) |
-| | **➡️ Current: +$30.72 → you owe Mike ≈ $30.72** | −$69.28 + #91 |
-| 92 | -$50.00 | Mike bought the MonsterKingz hub set (in-hand, demoted — see [hub_carrier_analysis.md](cars/FastAzJato4x4/hub_carrier_analysis.md)) from me for $50 (2026-09-07) |
-| | **➡️ Current: -$19.28 → Mike owes ≈ $19.28** | +$30.72 + #92 |
+| | **Checkpoint: -$69.28 → Mike owes ≈ $69.28** | −$33.28 + #90 |
+| 91 | +$20.00 | Payment (2026-08-27) |
+| 92 | -$14.00 | 2× filament rolls, $7 ea (2026-08-27) |
+| 93 | -$177.97 | 3× CNHL LiPo/LiHV batteries (Racing Series 5200mAh, Ultra-Thin 6000mAh, Lightning 5500mAh) — order #20269753705, ChinaHobbyLine (2026-08-26); see [Deals/batteries.md](Deals/batteries.md) |
+| 94 | +$62.99 | HOOVO 3S 4200mAh 2-pack, bought for me (credit) — E-Revo 1.0 (2026-08-27) |
+| | **Checkpoint: -$178.26 → Mike owes ≈ $178.26** | −$69.28 + #91 + #92 + #93 + #94 |
+| 95 | +$100.00 | Mike fixed my real car (non-RC repair), paid $100 cash (2026-09-07) |
+| | **Checkpoint: -$78.26 → Mike owes ≈ $78.26** | −$178.26 + #95 |
+| 96 | -$50.00 | Mike bought the MonsterKingz hub set (in-hand, demoted — see [hub_carrier_analysis.md](cars/FastAzJato4x4/hub_carrier_analysis.md)) from me for $50 (2026-09-07) |
+| | **➡️ Current: -$128.26 → Mike owes ≈ $128.26** | −$78.26 + #96 |
 
 ### Flags to resolve
 
@@ -162,7 +167,9 @@ Chronological, top = oldest. Same sign convention as Mike (negative = Henry owes
 |---|--------|-------------|
 | 1 | -$234.99 | Castle (ESC) |
 | 2 | +$200.00 | Payment — payback for ESC |
-| | **Current: -$34.99 → Henry owes ≈ $35** | −$234.99 + $200 |
+| | **Checkpoint: -$34.99 → Henry owed ≈ $35** | −$234.99 + $200 |
+| 3 | +$40.00 | Payment (2026-08-27) |
+| | **➡️ Current: +$5.01 → I owe Henry ≈ $5.01** | −$34.99 + $40 |
 
 > **Flag:** Mike's account line 18 (`-$5.00 GTR XXL shock shaft (Henry)`) is tagged Henry but booked to Mike. Confirm whether that $5 should move to Henry's account.
 
@@ -177,6 +184,8 @@ Log payments here as they come in, then update Mike's account + Outstanding Bala
 | 2026-06-13 | Mike | $50.00 | Zelle | balance |
 | 2026-08-15 | Mike | $170.00 | Cash | balance |
 | 2026-08-22 | Mike | $100.00 | Cash | balance |
+| 2026-08-27 | Henry | $40.00 | — | balance |
+| 2026-08-27 | Mike | $20.00 | — | balance |
 
 ---
 
