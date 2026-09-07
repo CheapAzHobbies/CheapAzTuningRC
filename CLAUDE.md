@@ -16,38 +16,9 @@ Single source of guidance for working in this repo (folder layout, README templa
 
 ## Adding a new car
 
-1. Create `cars/<CarName>/` at the repo root.
-2. Inside it: `README.md` (main build doc, template below), `src/` (photos), `3d-models/` (STLs).
-3. Add the car to the root `README.md` **Cars** table.
+Create `cars/<CarName>/` with `README.md`, `src/` (photos) and `3d-models/` (STLs), and add a row to the root `README.md` **Cars** table in the same commit.
 
-### Per-car README template
-
-Each car `README.md` follows this section order:
-
-| Section | What goes here |
-|---|---|
-| **Car Overview** | Base car name, brief description, overview photo |
-| **Track & Setup Philosophy** | Where you race, why setup choices were made |
-| **Suspension** | Shocks, springs, oil weight, swaybars |
-| **Drivetrain** | Driveshafts, hubs, diff, pinion, spur |
-| **Electronics** | ESC, motor, battery |
-| **Steering** | Bell crank, servo, linkages |
-| **Aero & Body** | Wing, body, wheels |
-| **Bumpers** | Front and rear bumpers/skid plates |
-| **Parts List** | Single unified table (format below) |
-| **3D Models** | List of STL files in `3d-models/` |
-| **TODO / Notes** | Outstanding items |
-
-### Parts List table format
-
-One table, these columns: `| Part # | Description | Category | Cost | Source | Photo |`
-
-- **Part #** — manufacturer part number, or `Generic` if none.
-- **Description** — full name including key specs.
-- **Category** — one of: `Base Car`, `Suspension`, `Drivetrain`, `Electronics`, `Steering`, `Aero`, `Body`, `Bumpers`.
-- **Cost** — full retail price regardless of how obtained. Note gifted/free in parens, e.g. `$83.75 (gifted)`.
-- **Source** — where bought (`Amazon`, `eBay — seller`, `Tammies`, `AliExpress`).
-- **Photo** — `![](src/filename.jpg)` or `—` if none yet.
+The per-car README section order and the Parts List column format live in the **`add-new-car` skill** (`.claude/skills/add-new-car/SKILL.md`). Invoke it before scaffolding a car or writing a Parts List table.
 
 ## Inbox workflow
 
