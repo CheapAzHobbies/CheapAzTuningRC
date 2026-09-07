@@ -57,7 +57,7 @@ Master list of all batteries with cycle counts. Sorted alphabetically by pack na
 | 3 | Noname #2 | 400 mAh | 1/26/16 | 9/24/17 | 137 | |
 | 4 | Noname #3 | 400 mAh | 1/26/16 | 9/24/17 | 120 | |
 | 5 | Noname #4 | 400 mAh | 1/26/16 | 3/19/18 | 192 | |
-| 6 | Power Plant Peak | 5000 mAh (rated) | 4/22/18 | 9/7/26 | 78 | Mike's pack, from Tammies. Weak and low capacity from the first charge, never really delivered the claimed 5000mAh. Was run hard. Died from an internal battery disconnect |
+| 6 | Power Plant Peak | 5000 mAh (rated) | 4/22/18 | ~8/18 | 78 | Mike's pack, from Tammies. Weak and low capacity from the first charge, never really delivered the claimed 5000mAh. Was run hard. Died a few months after acquiring, from an internal battery disconnect |
 | 7 | SMC HCL-HP 3S #1 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
 | 8 | SMC HCL-HP 3S #2 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
 | 9 | SMC HCL-HP 3S #3 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
