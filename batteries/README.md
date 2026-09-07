@@ -19,10 +19,10 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 | 5 | Zeee 2S 8000 #1 | 8000 mAh | 3/19/24 | 29 | Sticker |
 | 6 | Zeee 2S 8000 #2 | 8000 mAh | 3/19/24 | 26 | |
 | 7 | Zeee 4S | 8000 mAh | 3/18/24 | 20 | |
-| 8 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 96 | LiHV. Run in pairs with #3/#4, charged together so same cycle count |
-| 9 | Zeee Premo #3 | 3S HV 4200 mAh | 6/21/23 | 96 | LiHV. Paired, same cycle count |
-| 10 | Zeee Premo #4 | 3S HV 4200 mAh | 6/21/23 | 96 | LiHV. Paired, same cycle count |
-| 11 | Zeee Premo #5 | 3S HV 4200 mAh | 6/21/23 | 96 | LiHV. Free replacement from Zeee for the one that died (retired #2) |
+| 8 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Run in pairs with #3/#4, charged together so same cycle count |
+| 9 | Zeee Premo #3 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
+| 10 | Zeee Premo #4 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
+| 11 | Zeee Premo #5 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Free replacement from Zeee for the one that died (retired #2) |
 | 12 | Gortpot #1 | 4000 mAh | 4/20/23 | 34 | |
 | 13 | Gortpot #2 | 4000 mAh | 4/20/23 | 29 | |
 | 14 | Zeee 2S #1 | 5200 mAh | 11/18/22 | 467 | |
