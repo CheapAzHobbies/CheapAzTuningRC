@@ -14,27 +14,29 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 |---|------|----------|----------|--------|-------|
 | 1 | Gens Ace Redline 2.0 4S HV #1 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), 410 g, 5.0mm bullet. Bought as a matched pair |
 | 2 | Gens Ace Redline 2.0 4S HV #2 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), 410 g, 5.0mm bullet. Paired with #1 |
-| 3 | SMC HCL-RS 2S HV (6400) | 2S HV 6400 mAh | 4/25 | — | LiHV, 120C hardcase (64120-2S1P), 5mm inboard |
-| 4 | SMC HCL-RS 2S (5600) | 2S 5600 mAh | 4/25 | — | 150C hardcase (56150-2S1P), 5mm inboard |
-| 5 | Zeee 2S 8000 #1 | 8000 mAh | 3/19/24 | 29 | Sticker |
-| 6 | Zeee 2S 8000 #2 | 8000 mAh | 3/19/24 | 26 | |
-| 7 | Zeee 4S | 8000 mAh | 3/18/24 | 20 | |
-| 8 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Run in pairs with #3/#4, charged together so same cycle count |
-| 9 | Zeee Premo #3 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
-| 10 | Zeee Premo #4 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
-| 11 | Zeee Premo #5 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Free replacement from Zeee for the one that died (retired #2) |
-| 12 | Gortpot #1 | 4000 mAh | 4/20/23 | 34 | |
-| 13 | Gortpot #2 | 4000 mAh | 4/20/23 | 29 | |
-| 14 | Zeee 2S #1 | 5200 mAh | 11/18/22 | 467 | |
-| 15 | Zeee 2S #2 | 5200 mAh | 11/18/22 | 443 | |
-| 16 | TATTU 1S 3.7V #1 | 380 mAh | 7/3/20 | 32 | |
-| 17 | TATTU 1S 3.7V #2 | 380 mAh | 7/3/20 | 32 | |
-| 18 | TATTU 1S 3.7V #3 | 380 mAh | 7/3/20 | 10 | |
-| 19 | TATTU 1S 3.7V #4 | 380 mAh | 7/3/20 | 12 | |
-| 20 | TATTU 1S 3.7V #5 | 380 mAh | 7/3/20 | 66 | |
-| 21 | TATTU 1S 3.7V #6 | 380 mAh | 7/3/20 | 1 | |
-| 22 | Reaction | 4000 mAh | 8/5/19 | 432 | |
-| 23 | Peak Power | — | 4/22/18 | 76 | Mike's pack |
+| 3 | HOOVO 4200 #1 | 3S HV 4200 mAh | 🚧 TBD | 3 | LiHV shorty, 214.4g, <4mΩ IR (~18-30C true). Matched pair from Mike, see [`ERevo_1.0/battery_analysis.md`](../cars/ERevo_1.0/battery_analysis.md). Paired with #4, charged together |
+| 4 | HOOVO 4200 #2 | 3S HV 4200 mAh | 🚧 TBD | 3 | LiHV shorty, 214.4g. Paired, same cycle count |
+| 5 | SMC HCL-RS 2S HV (6400) | 2S HV 6400 mAh | 4/25 | — | LiHV, 120C hardcase (64120-2S1P), 5mm inboard |
+| 6 | SMC HCL-RS 2S (5600) | 2S 5600 mAh | 4/25 | — | 150C hardcase (56150-2S1P), 5mm inboard |
+| 7 | Zeee 2S 8000 #1 | 8000 mAh | 3/19/24 | 29 | Sticker |
+| 8 | Zeee 2S 8000 #2 | 8000 mAh | 3/19/24 | 26 | |
+| 9 | Zeee 4S | 8000 mAh | 3/18/24 | 20 | |
+| 10 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Run in pairs with #3/#4, charged together so same cycle count |
+| 11 | Zeee Premo #3 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
+| 12 | Zeee Premo #4 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
+| 13 | Zeee Premo #5 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Free replacement from Zeee for the one that died (retired #2) |
+| 14 | Gortpot #1 | 4000 mAh | 4/20/23 | 34 | |
+| 15 | Gortpot #2 | 4000 mAh | 4/20/23 | 29 | |
+| 16 | Zeee 2S #1 | 5200 mAh | 11/18/22 | 467 | |
+| 17 | Zeee 2S #2 | 5200 mAh | 11/18/22 | 443 | |
+| 18 | TATTU 1S 3.7V #1 | 380 mAh | 7/3/20 | 32 | |
+| 19 | TATTU 1S 3.7V #2 | 380 mAh | 7/3/20 | 32 | |
+| 20 | TATTU 1S 3.7V #3 | 380 mAh | 7/3/20 | 10 | |
+| 21 | TATTU 1S 3.7V #4 | 380 mAh | 7/3/20 | 12 | |
+| 22 | TATTU 1S 3.7V #5 | 380 mAh | 7/3/20 | 66 | |
+| 23 | TATTU 1S 3.7V #6 | 380 mAh | 7/3/20 | 1 | |
+| 24 | Reaction | 4000 mAh | 8/5/19 | 432 | |
+| 25 | Peak Power | — | 4/22/18 | 76 | Mike's pack |
 
 ---
 
