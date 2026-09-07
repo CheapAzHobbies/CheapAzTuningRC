@@ -4,7 +4,7 @@
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $69.28** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) | 2026-08-22 |
+| **Mike** | **≈ −$30.72 (you owe him)** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) − $100 real car repair, paid cash (2026-09-07) | 2026-09-07 |
 | **Henry** | **≈ $34.99** | $234.99 Castle − $200 ESC payback | 2026-07-03 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
@@ -140,6 +140,8 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | | **Checkpoint: -$33.28** | −$133.28 + #89 |
 | 90 | -$36.00 | Traxxas Jato 4x4 body, green (2026-08-22) |
 | | **➡️ Current: -$69.28 → Mike owes ≈ $69.28** | −$33.28 + #90 |
+| 91 | +$100.00 | Mike fixed my real car (non-RC repair), paid $100 cash (2026-09-07) |
+| | **➡️ Current: +$30.72 → you owe Mike ≈ $30.72** | −$69.28 + #91 |
 
 ### Flags to resolve
 
