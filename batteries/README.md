@@ -12,9 +12,9 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 
 | # | Pack | Capacity | Acquired | Cycles | Notes |
 |---|------|----------|----------|--------|-------|
-| 1 | Gens Ace Redline 2.0 6000 4S HV #1 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), 410 g, 5.0mm bullet. Bought as a matched pair |
-| 2 | Gens Ace Redline 2.0 6000 4S HV #2 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), 410 g, 5.0mm bullet. Paired with #1 |
-| 3 | Gens Ace Redline 2.0 6300 4S HV | 4S HV 6300 mAh | 10/22/25 | 5 | LiHV 15.2V, 140C hardcase, 452 g, 5.0mm bullet. Single pack (not a pair), separate from the 6000 pair above, see [`FastAzJato4x4/battery_analysis.md`](../cars/FastAzJato4x4/battery_analysis.md) |
+| 1 | Gens Ace Redline 2.0 6000 4S HV #1 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), **shorty** (98mm), 410 g, 5.0mm bullet. Bought as a matched pair |
+| 2 | Gens Ace Redline 2.0 6000 4S HV #2 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), **shorty** (98mm), 410 g, 5.0mm bullet. Paired with #1 |
+| 3 | Gens Ace Redline 2.0 6300 4S HV | 4S HV 6300 mAh | 10/22/25 | 25 | LiHV 15.2V, 140C hardcase, **not the shorty** (the 6000 pair above is), 452 g, 5.0mm bullet. Single pack (not a pair), see [`FastAzJato4x4/battery_analysis.md`](../cars/FastAzJato4x4/battery_analysis.md) |
 | 4 | HOOVO 4200 #1 | 3S HV 4200 mAh | 🚧 TBD | 3 | LiHV shorty, 214.4g, <4mΩ IR (~18-30C true). Matched pair from Mike, see [`ERevo_1.0/battery_analysis.md`](../cars/ERevo_1.0/battery_analysis.md). Paired with #5, charged together |
 | 5 | HOOVO 4200 #2 | 3S HV 4200 mAh | 🚧 TBD | 3 | LiHV shorty, 214.4g. Paired, same cycle count |
 | 6 | SMC HCL-RS 2S HV (6400) | 2S HV 6400 mAh | 4/25 | — | LiHV, 120C hardcase (64120-2S1P), 5mm inboard |
