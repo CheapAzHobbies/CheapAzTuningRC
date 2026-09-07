@@ -320,7 +320,7 @@
     });
 
     // Scale filter (a real filter -- narrows what's shown in every department)
-    const scales = ['All', ...new Set(products.map(p => p.scale))];
+    const scales = ['All', ...new Set(products.flatMap(p => scalesOf(p)))];
     const scaleEl = document.getElementById('scale-filters');
     scaleEl.innerHTML = '';
     scales.forEach(s => {
@@ -346,8 +346,13 @@
     return cond.toLowerCase().startsWith('new') ? 'condition-new' : 'condition-used';
   }
 
+  // scale can be a single string ("1/10") or an array (["1/8","1/10"]) for parts that fit multiple
+  function scalesOf(p) {
+    return Array.isArray(p.scale) ? p.scale : [p.scale];
+  }
+
   function matches(p, q) {
-    if (state.scale !== 'All' && p.scale !== state.scale) return false;
+    if (state.scale !== 'All' && !scalesOf(p).includes(state.scale)) return false;
     if (q) {
       const hay = `${p.name} ${p.brand} ${p.partNumber} ${p.notes}`.toLowerCase();
       if (!hay.includes(q)) return false;
@@ -356,6 +361,7 @@
   }
 
   function cardHTML(p) {
+    const scaleTags = scalesOf(p).map(s => `<span class="tag scale">${s}</span>`).join('');
     return `
       <div class="card">
         <img src="${p.photo}" alt="${p.name}" loading="lazy">
@@ -363,7 +369,7 @@
           <div class="card-title">${p.name}</div>
           <div class="card-sub">${p.brand}${p.partNumber ? ' · #' + p.partNumber : ''}</div>
           <div class="tag-row">
-            <span class="tag scale">${p.scale}</span>
+            ${scaleTags}
             <span class="tag ${conditionClass(p.condition)}">${p.condition}</span>
           </div>
           <div class="card-notes">${p.notes || ''}</div>

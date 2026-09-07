@@ -29,7 +29,7 @@ Open [`products.json`](products.json) and add a new entry (copy an existing one 
 | `brand` | `Traxxas`, `Generic`, etc. — leave blank if unknown |
 | `partNumber` | Manufacturer part #, blank if none |
 | `category` | Start with: `Servos`, `Wheels & Tires`, `Screws & Hardware`, `Electronics`, `Traxxas Parts`, `Other`. Add a new category any time — it becomes its own department section automatically. New categories get a generic 🧰 icon; to give one its own emoji, add it to `CATEGORY_ICONS` near the top of the `<script>` in `index.html` |
-| `scale` | `1/8`, `1/10`, `1/12`, `1/16`, `1/18`, `1/24`, `Universal` (fits multiple / not scale-specific) |
+| `scale` | `1/8`, `1/10`, `1/12`, `1/16`, `1/18`, `1/24`, `Universal` (not scale-specific). For a part that fits more than one scale (e.g. a servo rated for 1/8 buggies and 1/10 SC trucks), use an array instead of a single string: `"scale": ["1/8", "1/10"]` — it'll show a tag for each and match either filter |
 | `price` | Number, no `$` |
 | `condition` | `New`, `Used - Like New`, `Used - Good`, `Used - Fair` |
 | `qty` | How many you have. `0` shows as "sold out" |
