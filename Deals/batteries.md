@@ -49,7 +49,7 @@ Bought as a set of three for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_a
 
 ### Gens Ace Redline 2.0 6000mAh 4S HV 140C (hardcase, 5.0mm bullet)
 
-Competition HV hardcase, part **GEA60004S14S**. Bought as a matched pair for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_analysis.md).
+Competition HV hardcase, part **GEA60004S14S**. Bought as a 2-pack for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_analysis.md), run independently rather than as a matched pair.
 
 | Date | Qty | Total | $/pack | Coupon | Source |
 |------|-----|-------|--------|--------|--------|
