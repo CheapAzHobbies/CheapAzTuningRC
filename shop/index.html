@@ -17,6 +17,7 @@
     --chip-bg: #262626;
     --chip-active: #e6462e;
     --good: #3aa15c;
+    --cost: #3aa15c;
   }
   * { box-sizing: border-box; }
   html, body {
@@ -29,12 +30,12 @@
   header {
     background: linear-gradient(135deg, #1a1a1a 0%, #241512 100%);
     border-bottom: 3px solid var(--accent);
-    padding: 22px 16px 18px;
+    padding: 26px 16px 20px;
     text-align: center;
   }
   header h1 {
     margin: 0 0 4px;
-    font-size: clamp(22px, 6vw, 32px);
+    font-size: clamp(24px, 6.5vw, 34px);
     letter-spacing: 0.5px;
   }
   header h1 span { color: var(--accent); }
@@ -45,33 +46,38 @@
   }
   .cash-banner {
     max-width: 640px;
-    margin: 14px auto 0;
+    margin: 16px auto 0;
     background: var(--bg-alt);
     border: 1px solid var(--accent-dim);
     border-radius: 10px;
-    padding: 10px 16px;
+    padding: 12px 16px;
     font-size: 13.5px;
-    line-height: 1.5;
+    line-height: 1.55;
     color: var(--text-dim);
+    text-align: left;
   }
   .cash-banner strong { color: var(--text); }
+  .cash-banner .cost-line { color: var(--cost); font-weight: 700; }
+
   main {
-    max-width: 1100px;
+    max-width: 1150px;
     margin: 0 auto;
     padding: 18px 14px 60px;
   }
+
+  /* Store directory / controls */
   .controls {
     position: sticky;
     top: 0;
     z-index: 5;
-    background: rgba(18,18,18,0.96);
+    background: rgba(18,18,18,0.97);
     backdrop-filter: blur(4px);
     padding: 12px 0 14px;
     display: flex;
     flex-direction: column;
     gap: 10px;
     border-bottom: 1px solid var(--card-border);
-    margin-bottom: 18px;
+    margin-bottom: 22px;
   }
   #search {
     width: 100%;
@@ -83,6 +89,13 @@
     font-size: 15px;
   }
   #search:focus { outline: none; border-color: var(--accent); }
+  .filter-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--text-dim);
+    margin: 2px 0 -2px 2px;
+  }
   .filter-row {
     display: flex;
     gap: 8px;
@@ -102,6 +115,7 @@
     cursor: pointer;
     white-space: nowrap;
     user-select: none;
+    text-decoration: none;
   }
   .chip.active {
     background: var(--chip-active);
@@ -109,17 +123,37 @@
     color: #fff;
     font-weight: 600;
   }
-  .filter-label {
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 0.6px;
-    color: var(--text-dim);
-    margin: 2px 0 -2px 2px;
+  .chip .count { opacity: 0.7; margin-left: 4px; font-size: 11px; }
+
+  /* Departments */
+  .department {
+    margin-bottom: 34px;
+    scroll-margin-top: 190px;
   }
+  .department-header {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+    border-bottom: 2px solid var(--accent-dim);
+  }
+  .department-icon { font-size: 22px; }
+  .department-name {
+    font-size: 19px;
+    font-weight: 800;
+    letter-spacing: 0.3px;
+  }
+  .department-count {
+    font-size: 12.5px;
+    color: var(--text-dim);
+    margin-left: auto;
+  }
+
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-    gap: 16px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 18px;
   }
   .card {
     background: var(--card);
@@ -128,9 +162,13 @@
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    transition: transform 0.15s ease, border-color 0.15s ease;
+    transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
   }
-  .card:hover { transform: translateY(-2px); border-color: var(--accent-dim); }
+  .card:hover {
+    transform: translateY(-3px);
+    border-color: var(--accent-dim);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+  }
   .card img {
     width: 100%;
     aspect-ratio: 4 / 3;
@@ -139,7 +177,7 @@
     display: block;
   }
   .card-body {
-    padding: 12px 14px 14px;
+    padding: 13px 15px 15px;
     display: flex;
     flex-direction: column;
     gap: 6px;
@@ -180,13 +218,21 @@
   .card-footer {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
     margin-top: 6px;
   }
+  .price-wrap { display: flex; flex-direction: column; gap: 1px; }
   .price {
     font-size: 19px;
     font-weight: 800;
     color: var(--accent);
+  }
+  .at-cost {
+    font-size: 10.5px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    color: var(--cost);
+    text-transform: uppercase;
   }
   .qty {
     font-size: 12px;
@@ -209,9 +255,10 @@
 
 <header>
   <h1>CheapAz<span>Hobbies</span> Trackside Shop</h1>
-  <p class="tagline">Good RC parts, cheap, straight from the pit box.</p>
+  <p class="tagline">Walk the aisles. Everything here is stuff I've bought, don't need, and am not marking up.</p>
   <div class="cash-banner">
-    <strong>💵 Cash only.</strong> Find something you want? Message me or catch me trackside and I'll bring it next time. Prices are firm-ish — ask.
+    <strong>💵 Cash only.</strong> Find something you want? Message me or catch me trackside and I'll bring it next time.<br>
+    <span class="cost-line">💲 Sold at cost — no markup.</span> The price is what I paid, period. I'm not running a business here, just clearing parts I bought and don't need.
   </div>
 </header>
 
@@ -219,17 +266,17 @@
   <div class="controls">
     <input id="search" type="text" placeholder="Search parts (servo, wheel, Traxxas part #...)">
     <div>
-      <div class="filter-label">Category</div>
-      <div class="filter-row" id="category-filters"></div>
+      <div class="filter-label">Departments — tap to jump</div>
+      <div class="filter-row" id="category-nav"></div>
     </div>
     <div>
-      <div class="filter-label">Scale</div>
+      <div class="filter-label">Filter by scale</div>
       <div class="filter-row" id="scale-filters"></div>
     </div>
   </div>
 
-  <div class="grid" id="grid"></div>
-  <div class="empty-state" id="empty-state" style="display:none;">No parts match that filter yet — check back soon.</div>
+  <div id="departments"></div>
+  <div class="empty-state" id="empty-state" style="display:none;">No parts match that search/filter yet — try clearing it, or check back soon, I'm always adding stuff.</div>
 </main>
 
 <footer>
@@ -237,37 +284,61 @@
 </footer>
 
 <script>
-  const state = { category: 'All', scale: 'All', search: '' };
+  const CATEGORY_ICONS = {
+    'Servos': '🔧',
+    'Wheels & Tires': '🛞',
+    'Screws & Hardware': '🔩',
+    'Electronics': '⚡',
+    'Traxxas Parts': '🏁',
+    'Other': '📦'
+  };
+  const FALLBACK_ICON = '🧰';
+
+  const state = { scale: 'All', search: '' };
   let products = [];
+  let categoryOrder = [];
 
   async function load() {
     const res = await fetch('products.json');
     products = await res.json();
-    buildFilters();
+    categoryOrder = [...new Set(products.map(p => p.category))];
+    buildNav();
     render();
   }
 
-  function buildFilters() {
-    const categories = ['All', ...new Set(products.map(p => p.category))];
+  function buildNav() {
+    // Department jump-links (not exclusive filters -- clicking scrolls, doesn't hide others)
+    const navEl = document.getElementById('category-nav');
+    navEl.innerHTML = '';
+    categoryOrder.forEach(cat => {
+      const count = products.filter(p => p.category === cat).length;
+      const link = document.createElement('a');
+      link.className = 'chip';
+      link.href = '#dept-' + slug(cat);
+      link.innerHTML = `${CATEGORY_ICONS[cat] || FALLBACK_ICON} ${cat} <span class="count">${count}</span>`;
+      navEl.appendChild(link);
+    });
+
+    // Scale filter (a real filter -- narrows what's shown in every department)
     const scales = ['All', ...new Set(products.map(p => p.scale))];
-    renderChips('category-filters', categories, state.category, val => { state.category = val; render(); });
-    renderChips('scale-filters', scales, state.scale, val => { state.scale = val; render(); });
+    const scaleEl = document.getElementById('scale-filters');
+    scaleEl.innerHTML = '';
+    scales.forEach(s => {
+      const chip = document.createElement('div');
+      chip.className = 'chip' + (s === state.scale ? ' active' : '');
+      chip.textContent = s;
+      chip.onclick = () => {
+        state.scale = s;
+        [...scaleEl.children].forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        render();
+      };
+      scaleEl.appendChild(chip);
+    });
   }
 
-  function renderChips(containerId, values, active, onClick) {
-    const el = document.getElementById(containerId);
-    el.innerHTML = '';
-    values.forEach(v => {
-      const chip = document.createElement('div');
-      chip.className = 'chip' + (v === active ? ' active' : '');
-      chip.textContent = v;
-      chip.onclick = () => {
-        onClick(v);
-        [...el.children].forEach(c => c.classList.remove('active'));
-        chip.classList.add('active');
-      };
-      el.appendChild(chip);
-    });
+  function slug(s) {
+    return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
   }
 
   function conditionClass(cond) {
@@ -275,32 +346,18 @@
     return cond.toLowerCase().startsWith('new') ? 'condition-new' : 'condition-used';
   }
 
-  function render() {
-    const q = state.search.trim().toLowerCase();
-    const filtered = products.filter(p => {
-      if (state.category !== 'All' && p.category !== state.category) return false;
-      if (state.scale !== 'All' && p.scale !== state.scale) return false;
-      if (q) {
-        const hay = `${p.name} ${p.brand} ${p.partNumber} ${p.notes}`.toLowerCase();
-        if (!hay.includes(q)) return false;
-      }
-      return true;
-    });
-
-    const grid = document.getElementById('grid');
-    const empty = document.getElementById('empty-state');
-    grid.innerHTML = '';
-
-    if (filtered.length === 0) {
-      empty.style.display = 'block';
-      return;
+  function matches(p, q) {
+    if (state.scale !== 'All' && p.scale !== state.scale) return false;
+    if (q) {
+      const hay = `${p.name} ${p.brand} ${p.partNumber} ${p.notes}`.toLowerCase();
+      if (!hay.includes(q)) return false;
     }
-    empty.style.display = 'none';
+    return true;
+  }
 
-    filtered.forEach(p => {
-      const card = document.createElement('div');
-      card.className = 'card';
-      card.innerHTML = `
+  function cardHTML(p) {
+    return `
+      <div class="card">
         <img src="${p.photo}" alt="${p.name}" loading="lazy">
         <div class="card-body">
           <div class="card-title">${p.name}</div>
@@ -308,17 +365,48 @@
           <div class="tag-row">
             <span class="tag scale">${p.scale}</span>
             <span class="tag ${conditionClass(p.condition)}">${p.condition}</span>
-            <span class="tag">${p.category}</span>
           </div>
           <div class="card-notes">${p.notes || ''}</div>
           <div class="card-footer">
-            <span class="price">$${Number(p.price).toFixed(2)}</span>
+            <div class="price-wrap">
+              <span class="price">$${Number(p.price).toFixed(2)}</span>
+              <span class="at-cost">at cost</span>
+            </div>
             <span class="qty">${p.qty > 1 ? p.qty + ' in stock' : (p.qty === 1 ? '1 left' : 'sold out')}</span>
           </div>
         </div>
+      </div>
+    `;
+  }
+
+  function render() {
+    const q = state.search.trim().toLowerCase();
+    const container = document.getElementById('departments');
+    const empty = document.getElementById('empty-state');
+    container.innerHTML = '';
+
+    let totalShown = 0;
+
+    categoryOrder.forEach(cat => {
+      const items = products.filter(p => p.category === cat && matches(p, q));
+      if (items.length === 0) return;
+      totalShown += items.length;
+
+      const section = document.createElement('div');
+      section.className = 'department';
+      section.id = 'dept-' + slug(cat);
+      section.innerHTML = `
+        <div class="department-header">
+          <span class="department-icon">${CATEGORY_ICONS[cat] || FALLBACK_ICON}</span>
+          <span class="department-name">${cat}</span>
+          <span class="department-count">${items.length} item${items.length === 1 ? '' : 's'}</span>
+        </div>
+        <div class="grid">${items.map(cardHTML).join('')}</div>
       `;
-      grid.appendChild(card);
+      container.appendChild(section);
     });
+
+    empty.style.display = totalShown === 0 ? 'block' : 'none';
   }
 
   document.getElementById('search').addEventListener('input', e => {

@@ -28,7 +28,7 @@ Open [`products.json`](products.json) and add a new entry (copy an existing one 
 | `name` | Full product name |
 | `brand` | `Traxxas`, `Generic`, etc. — leave blank if unknown |
 | `partNumber` | Manufacturer part #, blank if none |
-| `category` | Start with: `Servos`, `Wheels & Tires`, `Screws & Hardware`, `Electronics`, `Traxxas Parts`, `Other`. Add a new category any time — the filter row picks it up automatically |
+| `category` | Start with: `Servos`, `Wheels & Tires`, `Screws & Hardware`, `Electronics`, `Traxxas Parts`, `Other`. Add a new category any time — it becomes its own department section automatically. New categories get a generic 🧰 icon; to give one its own emoji, add it to `CATEGORY_ICONS` near the top of the `<script>` in `index.html` |
 | `scale` | `1/8`, `1/10`, `1/12`, `1/16`, `1/18`, `1/24`, `Universal` (fits multiple / not scale-specific) |
 | `price` | Number, no `$` |
 | `condition` | `New`, `Used - Like New`, `Used - Good`, `Used - Fair` |
@@ -59,7 +59,12 @@ One-time setup, does not need to be redone per product:
 
 Once Pages is live, generate a QR code pointing at that URL (any free QR generator works, e.g. `https://www.qr-code-generator.com/` or `qrcode.show/<url>`) and print it for the track. The page is filter-friendly on mobile, so it's fine to link the plain shop URL rather than a specific category.
 
+## How the page is laid out
+
+Rather than one flat filtered list, products render as **department sections** (one per category, like store aisles) with an icon and item count — the idea is browsing feels like walking into a shop, not scanning a spreadsheet. The **Departments** row at the top jumps you to a section instead of hiding the rest. **Scale** is a real filter (narrows every department at once, since it's about fitment), and search does the same.
+
 ## Notes
 
+- **Everything is sold at cost, no markup** — that's stated in the banner up top and on every card (`at cost` under the price). If that ever changes, edit the banner text in `index.html` and drop the `at-cost` label from the card template.
 - Cash-only banner and contact info live at the top of `index.html` — edit that text directly if your terms change.
 - This is a static catalog, not a store: no cart, no online payment. That's intentional — keeps it simple and avoids any payment-processing overhead for a cash trackside setup.
