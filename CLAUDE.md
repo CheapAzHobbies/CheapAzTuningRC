@@ -282,6 +282,9 @@ When you start a **new part category**, define its field order once (add a short
 - **ESCs:** Cells · Current (A) · BEC · Sensored · Waterproof · Weight · Price
 - **Motors:** Type · KV · Cells · Can · Shaft · Sensored · Poles/Slots · Rotor · Max RPM · Max temp · Bearings · Rebuildable · Weight · Price
 - **Servos:** Type · Torque · Speed · Voltage · Gears · Case · Motor · Bearing · Refresh · Pulse width · Dead band · Neutral · Travel · Signal · Programmable · Size · Weight · Price
+  - *Cross-brand variant, used only in [`servos/README.md`](servos/README.md):* **Type · Performance · Gears · Case · Motor · Bearing · Spline · Refresh · Pulse width · Dead band · Neutral · Travel · Signal · Programmable · Stall current · Waterproof · Size · Weight · Price*. It folds `Torque · Speed · Voltage` into one **Performance** field holding the whole curve (one `<br>` line per voltage the spec sheet lists, torque and speed together, low to high), because comparing servos across brands only works at a shared voltage. Use it whenever a doc compares servos from different brands; use the single-voltage order above for a per-car pick.
+  - *`Spline` is the output tooth count and it decides horn and servo-saver fit. 25T covers Futaba, Savöx, Traxxas, ProTek, Reedy, AGFRC and most Chinese servos; 24T is some Hitec; 23T is Sanwa, KO Propo and JR. They do not interchange. Where no maker figure exists, record it as `25T (estimated)` rather than asserting it.*
+  - *`Stall current` is the field that decides whether a swap browns out the BEC, and almost nobody publishes it. Record `not published` rather than `N/A` so the gap reads as the maker's omission, not as missing research.*
 - **Shock towers:** Material · Thickness · Dimensions · Weight · Failure mode · Price
 - **Gearbox housings:** Material · Part · Weight · Price
 - **Steering bell cranks:** Material · Pivots · Fits · Price
