@@ -19,25 +19,24 @@ Master list of all batteries with cycle counts. Sorted alphabetically by pack na
 | 5 | Gortpot #2 | 4000 mAh | 4/20/23 | 29 | |
 | 6 | HOOVO 4200 #1 | 3S HV 4200 mAh | 8/31/26 | 3 | LiHV shorty, 214.4g, <4mΩ IR (~18-30C true). Matched pair from Mike, see [`ERevo_1.0/battery_analysis.md`](../cars/ERevo_1.0/battery_analysis.md). Paired with #5, charged together |
 | 7 | HOOVO 4200 #2 | 3S HV 4200 mAh | 8/31/26 | 3 | LiHV shorty, 214.4g. Paired, same cycle count |
-| 8 | Peak Power | — | 4/22/18 | 76 | Mike's pack |
-| 9 | Reaction | 4000 mAh | 8/5/19 | 432 | |
-| 10 | SMC HCL-RS 2S (5600) | 2S 5600 mAh | 4/25 | — | 150C hardcase (56150-2S1P), 5mm inboard |
-| 11 | SMC HCL-RS 2S HV (6400) | 2S HV 6400 mAh | 4/25 | — | LiHV, 120C hardcase (64120-2S1P), 5mm inboard |
-| 12 | TATTU 1S 3.7V #1 | 380 mAh | 7/3/20 | 32 | |
-| 13 | TATTU 1S 3.7V #2 | 380 mAh | 7/3/20 | 32 | |
-| 14 | TATTU 1S 3.7V #3 | 380 mAh | 7/3/20 | 10 | |
-| 15 | TATTU 1S 3.7V #4 | 380 mAh | 7/3/20 | 12 | |
-| 16 | TATTU 1S 3.7V #5 | 380 mAh | 7/3/20 | 66 | |
-| 17 | TATTU 1S 3.7V #6 | 380 mAh | 7/3/20 | 1 | |
-| 18 | Zeee 2S #1 | 5200 mAh | 11/18/22 | 467 | |
-| 19 | Zeee 2S #2 | 5200 mAh | 11/18/22 | 443 | |
-| 20 | Zeee 2S 8000 #1 | 8000 mAh | 3/19/24 | 29 | Sticker |
-| 21 | Zeee 2S 8000 #2 | 8000 mAh | 3/19/24 | 26 | |
-| 22 | Zeee 4S | 8000 mAh | 3/18/24 | 20 | |
-| 23 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Run in pairs with #3/#4, charged together so same cycle count |
-| 24 | Zeee Premo #3 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
-| 25 | Zeee Premo #4 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
-| 26 | Zeee Premo #5 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Free replacement from Zeee for the one that died (retired #2) |
+| 8 | Reaction | 4000 mAh | 8/5/19 | 432 | |
+| 9 | SMC HCL-RS 2S (5600) | 2S 5600 mAh | 4/25 | — | 150C hardcase (56150-2S1P), 5mm inboard |
+| 10 | SMC HCL-RS 2S HV (6400) | 2S HV 6400 mAh | 4/25 | — | LiHV, 120C hardcase (64120-2S1P), 5mm inboard |
+| 11 | TATTU 1S 3.7V #1 | 380 mAh | 7/3/20 | 32 | |
+| 12 | TATTU 1S 3.7V #2 | 380 mAh | 7/3/20 | 32 | |
+| 13 | TATTU 1S 3.7V #3 | 380 mAh | 7/3/20 | 10 | |
+| 14 | TATTU 1S 3.7V #4 | 380 mAh | 7/3/20 | 12 | |
+| 15 | TATTU 1S 3.7V #5 | 380 mAh | 7/3/20 | 66 | |
+| 16 | TATTU 1S 3.7V #6 | 380 mAh | 7/3/20 | 1 | |
+| 17 | Zeee 2S #1 | 5200 mAh | 11/18/22 | 467 | |
+| 18 | Zeee 2S #2 | 5200 mAh | 11/18/22 | 443 | |
+| 19 | Zeee 2S 8000 #1 | 8000 mAh | 3/19/24 | 29 | Sticker |
+| 20 | Zeee 2S 8000 #2 | 8000 mAh | 3/19/24 | 26 | |
+| 21 | Zeee 4S | 8000 mAh | 3/18/24 | 20 | |
+| 22 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Run in pairs with #3/#4, charged together so same cycle count |
+| 23 | Zeee Premo #3 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
+| 24 | Zeee Premo #4 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
+| 25 | Zeee Premo #5 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Free replacement from Zeee for the one that died (retired #2) |
 
 ---
 
@@ -58,11 +57,12 @@ Master list of all batteries with cycle counts. Sorted alphabetically by pack na
 | 3 | Noname #2 | 400 mAh | 1/26/16 | 9/24/17 | 137 | |
 | 4 | Noname #3 | 400 mAh | 1/26/16 | 9/24/17 | 120 | |
 | 5 | Noname #4 | 400 mAh | 1/26/16 | 3/19/18 | 192 | |
-| 6 | SMC HCL-HP 3S #1 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
-| 7 | SMC HCL-HP 3S #2 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
-| 8 | SMC HCL-HP 3S #3 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
-| 9 | SMC HCL-HP 4S #1 | 4S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-4S1P). Failed within 6 months, none past ~20 cycles despite babying per SMC rules |
-| 10 | SMC HCL-HP 4S #2 | 4S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-4S1P). Failed within 6 months |
-| 11 | SMC HCL-HP 4S #3 | 4S 5200 mAh | 4/25 | ~4/25 | 0 | 150C hardcase (52150-4S1P). DOA, died before first charge — a unit defect, separate from the cycle-life failures |
-| 12 | Zeee (Deans connector) | 8000 mAh | 6/2020 | 3/13/24 | 698 | |
-| 13 | Zeee Premo #2 | 3S HV 4200 mAh | 6/21/23 | 6/1/26 | 93 | LiHV. Wrapped. Died from sitting unused in storage too long (self-discharged / degraded over time), not user error. Zeee sent a free replacement (now Active #5); still have 4 working Premos |
+| 6 | Power Plant Peak | 5000 mAh (rated) | 4/22/18 | 9/7/26 | 78 | Mike's pack, from Tammies. Weak and low capacity from the first charge, never really delivered the claimed 5000mAh. Was run hard. Died from an internal battery disconnect |
+| 7 | SMC HCL-HP 3S #1 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
+| 8 | SMC HCL-HP 3S #2 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
+| 9 | SMC HCL-HP 3S #3 | 3S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-3S1P). Failed within 6 months |
+| 10 | SMC HCL-HP 4S #1 | 4S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-4S1P). Failed within 6 months, none past ~20 cycles despite babying per SMC rules |
+| 11 | SMC HCL-HP 4S #2 | 4S 5200 mAh | 4/25 | ~10/25 | <20 | 150C hardcase (52150-4S1P). Failed within 6 months |
+| 12 | SMC HCL-HP 4S #3 | 4S 5200 mAh | 4/25 | ~4/25 | 0 | 150C hardcase (52150-4S1P). DOA, died before first charge — a unit defect, separate from the cycle-life failures |
+| 13 | Zeee (Deans connector) | 8000 mAh | 6/2020 | 3/13/24 | 698 | |
+| 14 | Zeee Premo #2 | 3S HV 4200 mAh | 6/21/23 | 6/1/26 | 93 | LiHV. Wrapped. Died from sitting unused in storage too long (self-discharged / degraded over time), not user error. Zeee sent a free replacement (now Active #5); still have 4 working Premos |
