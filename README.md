@@ -28,6 +28,7 @@ Build logs, part lists, setup notes, 3D models, and battery trackers for all my 
 | Deals | [Deals](Deals/) | All price tracking + coupon codes — batteries, servos, ESCs, AliExpress codes, per-sale snapshots |
 | Inbox | [inbox](inbox/) | Drop unsorted files here (images, receipts, screenshots) — Claude routes them to the right place |
 | Ledger | [LEDGER.md](LEDGER.md) | Money tracking — what friends owe me (sales/balances) + what I order |
+| Trackside Shop | [shop](shop/) | Cash-only parts catalog, QR code at the track — [shop/README.md](shop/README.md) for how to add products |
 
 ---
 

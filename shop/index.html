@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CheapAzHobbies Trackside Shop</title>
+<style>
+  :root {
+    --bg: #121212;
+    --bg-alt: #1a1a1a;
+    --card: #1e1e1e;
+    --card-border: #2c2c2c;
+    --text: #f2f2f2;
+    --text-dim: #a8a8a8;
+    --accent: #e6462e;
+    --accent-dim: #7a2b1f;
+    --chip-bg: #262626;
+    --chip-active: #e6462e;
+    --good: #3aa15c;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    background: linear-gradient(135deg, #1a1a1a 0%, #241512 100%);
+    border-bottom: 3px solid var(--accent);
+    padding: 22px 16px 18px;
+    text-align: center;
+  }
+  header h1 {
+    margin: 0 0 4px;
+    font-size: clamp(22px, 6vw, 32px);
+    letter-spacing: 0.5px;
+  }
+  header h1 span { color: var(--accent); }
+  header p.tagline {
+    margin: 0;
+    color: var(--text-dim);
+    font-size: 14px;
+  }
+  .cash-banner {
+    max-width: 640px;
+    margin: 14px auto 0;
+    background: var(--bg-alt);
+    border: 1px solid var(--accent-dim);
+    border-radius: 10px;
+    padding: 10px 16px;
+    font-size: 13.5px;
+    line-height: 1.5;
+    color: var(--text-dim);
+  }
+  .cash-banner strong { color: var(--text); }
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 18px 14px 60px;
+  }
+  .controls {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: rgba(18,18,18,0.96);
+    backdrop-filter: blur(4px);
+    padding: 12px 0 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-bottom: 1px solid var(--card-border);
+    margin-bottom: 18px;
+  }
+  #search {
+    width: 100%;
+    padding: 11px 14px;
+    border-radius: 10px;
+    border: 1px solid var(--card-border);
+    background: var(--card);
+    color: var(--text);
+    font-size: 15px;
+  }
+  #search:focus { outline: none; border-color: var(--accent); }
+  .filter-row {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding-bottom: 2px;
+    -webkit-overflow-scrolling: touch;
+  }
+  .filter-row::-webkit-scrollbar { height: 4px; }
+  .chip {
+    flex: 0 0 auto;
+    padding: 7px 14px;
+    border-radius: 999px;
+    background: var(--chip-bg);
+    border: 1px solid var(--card-border);
+    color: var(--text-dim);
+    font-size: 13px;
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+  }
+  .chip.active {
+    background: var(--chip-active);
+    border-color: var(--chip-active);
+    color: #fff;
+    font-weight: 600;
+  }
+  .filter-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--text-dim);
+    margin: 2px 0 -2px 2px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--card-border);
+    border-radius: 14px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+  }
+  .card:hover { transform: translateY(-2px); border-color: var(--accent-dim); }
+  .card img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    background: #0e0e0e;
+    display: block;
+  }
+  .card-body {
+    padding: 12px 14px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    flex: 1;
+  }
+  .card-title {
+    font-size: 15.5px;
+    font-weight: 700;
+    line-height: 1.3;
+  }
+  .card-sub {
+    font-size: 12.5px;
+    color: var(--text-dim);
+  }
+  .tag-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin: 2px 0;
+  }
+  .tag {
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 6px;
+    background: var(--chip-bg);
+    color: var(--text-dim);
+    border: 1px solid var(--card-border);
+  }
+  .tag.scale { color: #7ea8e0; border-color: #2a3d55; }
+  .tag.condition-new { color: var(--good); border-color: #1f4a2e; }
+  .tag.condition-used { color: #d0a13a; border-color: #4a3c1f; }
+  .card-notes {
+    font-size: 12.5px;
+    color: var(--text-dim);
+    line-height: 1.45;
+    flex: 1;
+  }
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 6px;
+  }
+  .price {
+    font-size: 19px;
+    font-weight: 800;
+    color: var(--accent);
+  }
+  .qty {
+    font-size: 12px;
+    color: var(--text-dim);
+  }
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-dim);
+  }
+  footer {
+    text-align: center;
+    padding: 24px 14px 40px;
+    color: var(--text-dim);
+    font-size: 12.5px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>CheapAz<span>Hobbies</span> Trackside Shop</h1>
+  <p class="tagline">Good RC parts, cheap, straight from the pit box.</p>
+  <div class="cash-banner">
+    <strong>💵 Cash only.</strong> Find something you want? Message me or catch me trackside and I'll bring it next time. Prices are firm-ish — ask.
+  </div>
+</header>
+
+<main>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Search parts (servo, wheel, Traxxas part #...)">
+    <div>
+      <div class="filter-label">Category</div>
+      <div class="filter-row" id="category-filters"></div>
+    </div>
+    <div>
+      <div class="filter-label">Scale</div>
+      <div class="filter-row" id="scale-filters"></div>
+    </div>
+  </div>
+
+  <div class="grid" id="grid"></div>
+  <div class="empty-state" id="empty-state" style="display:none;">No parts match that filter yet — check back soon.</div>
+</main>
+
+<footer>
+  Built with a plain <code>products.json</code> — see <code>shop/README.md</code> to add your own parts.
+</footer>
+
+<script>
+  const state = { category: 'All', scale: 'All', search: '' };
+  let products = [];
+
+  async function load() {
+    const res = await fetch('products.json');
+    products = await res.json();
+    buildFilters();
+    render();
+  }
+
+  function buildFilters() {
+    const categories = ['All', ...new Set(products.map(p => p.category))];
+    const scales = ['All', ...new Set(products.map(p => p.scale))];
+    renderChips('category-filters', categories, state.category, val => { state.category = val; render(); });
+    renderChips('scale-filters', scales, state.scale, val => { state.scale = val; render(); });
+  }
+
+  function renderChips(containerId, values, active, onClick) {
+    const el = document.getElementById(containerId);
+    el.innerHTML = '';
+    values.forEach(v => {
+      const chip = document.createElement('div');
+      chip.className = 'chip' + (v === active ? ' active' : '');
+      chip.textContent = v;
+      chip.onclick = () => {
+        onClick(v);
+        [...el.children].forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+      };
+      el.appendChild(chip);
+    });
+  }
+
+  function conditionClass(cond) {
+    if (!cond) return '';
+    return cond.toLowerCase().startsWith('new') ? 'condition-new' : 'condition-used';
+  }
+
+  function render() {
+    const q = state.search.trim().toLowerCase();
+    const filtered = products.filter(p => {
+      if (state.category !== 'All' && p.category !== state.category) return false;
+      if (state.scale !== 'All' && p.scale !== state.scale) return false;
+      if (q) {
+        const hay = `${p.name} ${p.brand} ${p.partNumber} ${p.notes}`.toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
+
+    const grid = document.getElementById('grid');
+    const empty = document.getElementById('empty-state');
+    grid.innerHTML = '';
+
+    if (filtered.length === 0) {
+      empty.style.display = 'block';
+      return;
+    }
+    empty.style.display = 'none';
+
+    filtered.forEach(p => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <img src="${p.photo}" alt="${p.name}" loading="lazy">
+        <div class="card-body">
+          <div class="card-title">${p.name}</div>
+          <div class="card-sub">${p.brand}${p.partNumber ? ' · #' + p.partNumber : ''}</div>
+          <div class="tag-row">
+            <span class="tag scale">${p.scale}</span>
+            <span class="tag ${conditionClass(p.condition)}">${p.condition}</span>
+            <span class="tag">${p.category}</span>
+          </div>
+          <div class="card-notes">${p.notes || ''}</div>
+          <div class="card-footer">
+            <span class="price">$${Number(p.price).toFixed(2)}</span>
+            <span class="qty">${p.qty > 1 ? p.qty + ' in stock' : (p.qty === 1 ? '1 left' : 'sold out')}</span>
+          </div>
+        </div>
+      `;
+      grid.appendChild(card);
+    });
+  }
+
+  document.getElementById('search').addEventListener('input', e => {
+    state.search = e.target.value;
+    render();
+  });
+
+  load();
+</script>
+
+</body>
+</html>

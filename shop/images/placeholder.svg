@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="375" viewBox="0 0 500 375">
+  <rect width="500" height="375" fill="#1c1c1c"/>
+  <rect x="1" y="1" width="498" height="373" fill="none" stroke="#3a3a3a" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="250" y="175" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#e6462e" text-anchor="middle">PHOTO NEEDED</text>
+  <text x="250" y="205" font-family="system-ui, sans-serif" font-size="14" fill="#9a9a9a" text-anchor="middle">add a real photo, then update</text>
+  <text x="250" y="224" font-family="system-ui, sans-serif" font-size="14" fill="#9a9a9a" text-anchor="middle">"photo" in products.json</text>
+</svg>

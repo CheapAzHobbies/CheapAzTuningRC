@@ -1,0 +1,41 @@
+[
+  {
+    "id": "example-servo-2075",
+    "name": "Traxxas 2075 Waterproof Servo",
+    "brand": "Traxxas",
+    "partNumber": "2075",
+    "category": "Servos",
+    "scale": "1/10",
+    "price": 18,
+    "condition": "New",
+    "qty": 2,
+    "photo": "images/placeholder.svg",
+    "notes": "EXAMPLE ENTRY — delete or edit. Standard steering servo, metal gear, waterproof. Fits most 1/10 Traxxas platforms (Slash, Rustler, Stampede)."
+  },
+  {
+    "id": "example-wheels-tires",
+    "name": "Traxxas Response Pro Wheels + Tires (set of 4)",
+    "brand": "Traxxas",
+    "partNumber": "9075",
+    "category": "Wheels & Tires",
+    "scale": "1/10",
+    "price": 22,
+    "condition": "Used - Good",
+    "qty": 1,
+    "photo": "images/placeholder.svg",
+    "notes": "EXAMPLE ENTRY — delete or edit. Pre-glued, mounted, light scuffing from track use. Fits 12mm hex."
+  },
+  {
+    "id": "example-screw-kit",
+    "name": "Stainless Screw Kit (assorted M2.5/M3)",
+    "brand": "Generic",
+    "partNumber": "",
+    "category": "Screws & Hardware",
+    "scale": "Universal",
+    "price": 8,
+    "condition": "New",
+    "qty": 5,
+    "photo": "images/placeholder.svg",
+    "notes": "EXAMPLE ENTRY — delete or edit. Assorted stainless button-head + flat-head screws, common RC sizes."
+  }
+]
