@@ -121,7 +121,7 @@ The user's friend Mike has related builds (FastAzJato4x4 is co-developed with hi
 ## Battery tracker conventions (`batteries/README.md`)
 
 - Three tables: **Active — LiPo**, **Active — Non-LiPo**, **Retired**.
-- **Newest at top** in every table — sort by Acquired date descending.
+- **Alphabetical by pack name** in every table (A→Z), not by date. Renumber the `#` column to match the new order whenever a pack is added or removed.
 - The number after the colon in user dumps (e.g. `Reaction 4000mah: 432`) is **cycle count**.
 - Dates in parens at the top of a group (e.g. `(8/5/19)`) apply to every battery listed under that group until the next date.
 - Multi-pack entries (e.g. `TATTU ... ×6`) get one row per pack with `#1`, `#2`, etc. suffix so per-pack cycles stay distinct.

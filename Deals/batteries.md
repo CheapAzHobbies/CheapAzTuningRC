@@ -12,22 +12,40 @@ Price tracking for battery sales/coupons across all sources (eBay, AliExpress, A
 
 ## Lowest Per-Pack Price by Model
 
-At-a-glance: cheapest **per-pack** ever seen for each model I run / care about.
+At-a-glance: cheapest **per-pack** ever seen for each model I run / care about. Sorted alphabetically by model.
 
 | Model | Chem | All-Time Low $/pack | When | Source |
 |-------|------|---------------------|------|--------|
-| Zeee Premo 3S 4200mAh Shorty (11.4V HV) | LiHV | **$23.30** | 2025-09-21 | AliExpress — ZEEE Direct Store |
-| CNHL Racing Series 5200mAh 4S 90C (EC5) | LiPo | **$52.51** | 2026-08-26 | ChinaHobbyLine |
-| Gens Ace Redline 2.0 6000mAh 4S HV 140C | LiHV | **$92.26** | 2026-08-31 | eBay — mugrc-store |
 | CNHL Lightning LiHV 5500mAh 4S 120C (EC5) | LiHV | **$54.46** | 2026-08-26 | ChinaHobbyLine |
+| CNHL Racing Series 5200mAh 4S 90C (EC5) | LiPo | **$52.51** | 2026-08-26 | ChinaHobbyLine |
 | CNHL Ultra-Thin Racing LiHV 6000mAh 4S 120C (EC5) | LiHV | **$71.00** | 2026-08-26 | ChinaHobbyLine |
+| Gens Ace Redline 2.0 6000mAh 4S HV 140C | LiHV | **$92.26** | 2026-08-31 | eBay — mugrc-store |
 | HOOVO 3S 4200mAh 120C 11.4V shorty | LiPo | **$31.50** | 2026-08-27 | Amazon (sold by Hoovo) |
+| Zeee Premo 3S 4200mAh Shorty (11.4V HV) | LiHV | **$23.30** | 2025-09-21 | AliExpress — ZEEE Direct Store |
 
 ---
 
 ## Deal History — by Battery Model
 
-All recorded deals grouped by model, newest first within each group.
+All recorded deals, grouped by model (alphabetical), newest first within each group.
+
+### CNHL 4S packs (ChinaHobbyLine)
+
+Bought as a set of three for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_analysis.md) — one of each candidate, to settle by testing rather than by spec sheet. **`WELCOME` took ~2.75% off each line** (first-order code), and **shipping is free over $159**, which the three packs cleared on their own.
+
+| Date | Pack | Qty | Paid | List | Coupon | Source |
+|------|------|-----|------|------|--------|--------|
+| 2026-08-26 | Racing Series 5200mAh 90C | 1 | **$52.51** | $53.99 | WELCOME | ChinaHobbyLine |
+| 2026-08-26 | Lightning LiHV 5500mAh 120C | 1 | **$54.46** | $55.99 | WELCOME | ChinaHobbyLine |
+| 2026-08-26 | Ultra-Thin Racing LiHV 6000mAh 120C | 1 | **$71.00** | $72.99 | WELCOME | ChinaHobbyLine |
+| | **Order total** | **3** | **$177.97** | $182.97 | −$5.00 | Free shipping (over $159) — Order #20269753705 |
+
+- **`WELCOME`** — first-order discount, ~2.75% per line. Small, but it stacks on top of already-listed prices.
+- **Free shipping over $159**, so a three-pack order pays its own freight; a single pack would not.
+- **The store also runs "Buy 2, Get the 3rd Free" periodically** — not active on this order. Worth waiting for it on a repeat buy, since it beats WELCOME by a wide margin.
+- The Ultra-Thin 6000 shipped as a **pre-order, ~7 days out**; the other two were in stock.
+
+---
 
 ### Gens Ace Redline 2.0 6000mAh 4S HV 140C (hardcase, 5.0mm bullet)
 
@@ -47,24 +65,6 @@ Single pack (not a pair), separate from the 6000mAh pair above, "in hand" per [`
 | Date | Qty | Total | $/pack | Coupon | Source |
 |------|-----|-------|--------|--------|--------|
 | 2025-10-22 | 1 | **$107.38** | **$107.38** | none (list $120.85) | RC Model Hobby Store |
-
----
-
-### CNHL 4S packs (ChinaHobbyLine)
-
-Bought as a set of three for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_analysis.md) — one of each candidate, to settle by testing rather than by spec sheet. **`WELCOME` took ~2.75% off each line** (first-order code), and **shipping is free over $159**, which the three packs cleared on their own.
-
-| Date | Pack | Qty | Paid | List | Coupon | Source |
-|------|------|-----|------|------|--------|--------|
-| 2026-08-26 | Racing Series 5200mAh 90C | 1 | **$52.51** | $53.99 | WELCOME | ChinaHobbyLine |
-| 2026-08-26 | Lightning LiHV 5500mAh 120C | 1 | **$54.46** | $55.99 | WELCOME | ChinaHobbyLine |
-| 2026-08-26 | Ultra-Thin Racing LiHV 6000mAh 120C | 1 | **$71.00** | $72.99 | WELCOME | ChinaHobbyLine |
-| | **Order total** | **3** | **$177.97** | $182.97 | −$5.00 | Free shipping (over $159) — Order #20269753705 |
-
-- **`WELCOME`** — first-order discount, ~2.75% per line. Small, but it stacks on top of already-listed prices.
-- **Free shipping over $159**, so a three-pack order pays its own freight; a single pack would not.
-- **The store also runs "Buy 2, Get the 3rd Free" periodically** — not active on this order. Worth waiting for it on a repeat buy, since it beats WELCOME by a wide margin.
-- The Ultra-Thin 6000 shipped as a **pre-order, ~7 days out**; the other two were in stock.
 
 ---
 
