@@ -37,6 +37,7 @@ Used as steering servo on the FastAzJato4x4 build (and the K939 family). Bulk-bo
 | Date | Qty | Total | $/unit | Coupon | Source |
 |------|-----|-------|--------|--------|--------|
 | 2026-06-01 | **8** (2 lots × 4) | **$157.17** | **~$19.65** | (paid $128.54/lot — listed $159+/lot) | AliExpress — PTK Servo Store (Order 8211217778334866) |
+| 2025-05-16 | 1 | $25.00 | $25.00 | — | 🚧 TBD |
 
 ### JX Ecoboost CLS6336HV — 36kg Coreless HV Digital (helicopter/car use)
 

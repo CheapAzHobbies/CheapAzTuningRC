@@ -1,6 +1,6 @@
 # Servo Selection — FastAzJato4x4
 
-> **Chosen: PTK 9752TG-D Metal High-Speed Low-Profile Servo**, the **successor to the JX CLS series** the build ran previously. Already in hand from a previous build, $25 sunk; bulk-bought 8-pack at ~$19.65/ea on 2026-06-01 as spares ([`Deals/servos.md`](../../Deals/servos.md)). The JX servos (CLS6322HV / CLS6336HV) are the predecessor data points, kept in the comparison below for context, not as live candidates.
+> **Chosen: PTK 9752TG-D Metal High-Speed Low-Profile Servo**, the **successor to the JX CLS series** the build ran previously. Already in hand from a previous build (bought 2025-05-16, $25 sunk); bulk-bought 8-pack at ~$19.65/ea on 2026-06-01 as spares ([`Deals/servos.md`](../../Deals/servos.md)). The JX servos (CLS6322HV / CLS6336HV) are the predecessor data points, kept in the comparison below for context, not as live candidates.
 
 <p align="center"><img src="src/steering_ptk_9752tgd_servo_dimensions.jpg" width="600"><br><em>Chosen, PTK 9752TG-D low-profile metal-gear digital servo · body 42.2 × 20 × 27.1 mm (54.4 mm tab-to-tab, 31.9 mm with horn)</em></p>
 
