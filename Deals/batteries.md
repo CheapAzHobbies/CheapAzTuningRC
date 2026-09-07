@@ -37,7 +37,15 @@ Competition HV hardcase, part **GEA60004S14S**. Bought as a matched pair for the
 | 2026-08-31 | 2 | **$184.51** | **$92.26** | none (list $230.64, seller discount) | eBay — mugrc-store |
 
 - **$46 under list per pack** without a coupon, the seller's own price. Ships from the USA, 90-day warranty, delivered in 3 days.
-- Cross-check against the older **6300** Redline at **$107.38/pack**: the 6000 is **$15 cheaper, 42g lighter**, and only 300mAh smaller.
+- Cross-check against the older **6300** Redline at **$107.38/pack**: the 6000 is **$15 cheaper, 42g lighter**, and only 300mAh smaller. A separate 6300mAh pair is also owned (see below) and in active use.
+
+### Gens Ace Redline 2.0 6300mAh 4S HV 140C (hardcase, 5.0mm bullet)
+
+Separate pack from the 6000mAh pair above, "in hand" per [`FastAzJato4x4/battery_analysis.md`](../cars/FastAzJato4x4/battery_analysis.md) — heavier (452g) but higher capacity. Order date/source/qty not recorded.
+
+| Date | Qty | Total | $/pack | Coupon | Source |
+|------|-----|-------|--------|--------|--------|
+| 🚧 TBD | 🚧 TBD | 🚧 TBD | **$107.38** | 🚧 TBD | 🚧 TBD |
 
 ---
 
