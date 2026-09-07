@@ -12,8 +12,8 @@ Master list of all batteries with cycle counts. Sorted alphabetically by pack na
 
 | # | Pack | Capacity | Acquired | Cycles | Notes |
 |---|------|----------|----------|--------|-------|
-| 1 | Gens Ace Redline 2.0 6000 4S HV #1 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), **shorty** (98mm), 410 g, 5.0mm bullet. Bought as a 2-pack, run independently (not a matched pair) |
-| 2 | Gens Ace Redline 2.0 6000 4S HV #2 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), **shorty** (98mm), 410 g, 5.0mm bullet. Bought as a 2-pack, run independently (not a matched pair) |
+| 1 | Gens Ace Redline 2.0 6000 4S HV #1 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), **shorty** (98mm), 410 g, 5.0mm bullet. Bought as a 2-pack for the FastAzJato4x4, run independently rather than wired as a series-matched pair (that's an E-Revo-only setup). Cycle counts should stay close since both run in the same car |
+| 2 | Gens Ace Redline 2.0 6000 4S HV #2 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), **shorty** (98mm), 410 g, 5.0mm bullet. Bought as a 2-pack for the FastAzJato4x4, run independently rather than wired as a series-matched pair (that's an E-Revo-only setup). Cycle counts should stay close since both run in the same car |
 | 3 | Gens Ace Redline 2.0 6300 4S HV | 4S HV 6300 mAh | 10/22/25 | 25 | LiHV 15.2V, 140C hardcase, **not the shorty** (the 6000 pair above is), 452 g, 5.0mm bullet. Single pack (not a pair), see [`FastAzJato4x4/battery_analysis.md`](../cars/FastAzJato4x4/battery_analysis.md) |
 | 4 | Gortpot #1 | 4000 mAh | 4/20/23 | 34 | |
 | 5 | Gortpot #2 | 4000 mAh | 4/20/23 | 29 | |
