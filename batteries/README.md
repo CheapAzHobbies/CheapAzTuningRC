@@ -12,8 +12,8 @@ Master list of all batteries with cycle counts. Newest packs at the top.
 
 | # | Pack | Capacity | Acquired | Cycles | Notes |
 |---|------|----------|----------|--------|-------|
-| 1 | Gens Ace Redline 2.0 4S HV #1 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), 410 g, 5.0mm bullet. Bought as a matched pair |
-| 2 | Gens Ace Redline 2.0 4S HV #2 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), 410 g, 5.0mm bullet. Paired with #1 |
+| 1 | Gens Ace Redline 2.0 4S HV #1 | 4S HV 6000 mAh | 9/3/26 | 5 | LiHV 15.2V, 140C hardcase (GEA60004S14S), 410 g, 5.0mm bullet. Bought as a matched pair |
+| 2 | Gens Ace Redline 2.0 4S HV #2 | 4S HV 6000 mAh | 9/3/26 | 5 | LiHV 15.2V, 140C hardcase (GEA60004S14S), 410 g, 5.0mm bullet. Paired with #1 |
 | 3 | HOOVO 4200 #1 | 3S HV 4200 mAh | 🚧 TBD | 3 | LiHV shorty, 214.4g, <4mΩ IR (~18-30C true). Matched pair from Mike, see [`ERevo_1.0/battery_analysis.md`](../cars/ERevo_1.0/battery_analysis.md). Paired with #4, charged together |
 | 4 | HOOVO 4200 #2 | 3S HV 4200 mAh | 🚧 TBD | 3 | LiHV shorty, 214.4g. Paired, same cycle count |
 | 5 | SMC HCL-RS 2S HV (6400) | 2S HV 6400 mAh | 4/25 | — | LiHV, 120C hardcase (64120-2S1P), 5mm inboard |
