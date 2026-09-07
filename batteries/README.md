@@ -17,8 +17,8 @@ Master list of all batteries with cycle counts. Sorted alphabetically by pack na
 | 3 | Gens Ace Redline 2.0 6300 4S HV | 4S HV 6300 mAh | 10/22/25 | 25 | LiHV 15.2V, 140C hardcase, **not the shorty** (the 6000 pair above is), 452 g, 5.0mm bullet. Single pack (not a pair), see [`FastAzJato4x4/battery_analysis.md`](../cars/FastAzJato4x4/battery_analysis.md) |
 | 4 | Gortpot #1 | 4000 mAh | 4/20/23 | 34 | |
 | 5 | Gortpot #2 | 4000 mAh | 4/20/23 | 29 | |
-| 6 | HOOVO 4200 #1 | 3S HV 4200 mAh | 🚧 TBD | 3 | LiHV shorty, 214.4g, <4mΩ IR (~18-30C true). Matched pair from Mike, see [`ERevo_1.0/battery_analysis.md`](../cars/ERevo_1.0/battery_analysis.md). Paired with #5, charged together |
-| 7 | HOOVO 4200 #2 | 3S HV 4200 mAh | 🚧 TBD | 3 | LiHV shorty, 214.4g. Paired, same cycle count |
+| 6 | HOOVO 4200 #1 | 3S HV 4200 mAh | 8/31/26 | 3 | LiHV shorty, 214.4g, <4mΩ IR (~18-30C true). Matched pair from Mike, see [`ERevo_1.0/battery_analysis.md`](../cars/ERevo_1.0/battery_analysis.md). Paired with #5, charged together |
+| 7 | HOOVO 4200 #2 | 3S HV 4200 mAh | 8/31/26 | 3 | LiHV shorty, 214.4g. Paired, same cycle count |
 | 8 | Peak Power | — | 4/22/18 | 76 | Mike's pack |
 | 9 | Reaction | 4000 mAh | 8/5/19 | 432 | |
 | 10 | SMC HCL-RS 2S (5600) | 2S 5600 mAh | 4/25 | — | 150C hardcase (56150-2S1P), 5mm inboard |
