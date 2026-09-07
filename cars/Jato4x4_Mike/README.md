@@ -99,6 +99,8 @@ Runs **full length 4S packs**, which is where this car and the [FastAzJato4x4](.
 
 **The three CNHL packs bought 2026-08-26 run on this car:** Racing 5200 (soft), Lightning 5500 (soft), Ultra-Thin 6000 (hardcase).
 
+**Gens Ace Redline 2.0 4S HV 6300mAh 140C** also runs here — full-length (139 × 47 × 37mm, 452g), not a shorty, so it never fit the FastAzJato4x4's shorty-only spec but works well on this car. Bought 2025-10-22 for $107.38 (see [`FastAzJato4x4/battery_analysis.md`](../FastAzJato4x4/battery_analysis.md) for full specs and price history). Currently on loan/testing here; may just become Mike's outright since it works well and this build doesn't run long 4S packs.
+
 **Sharing still works one way:** shorties fit this car as well, so anything bought to the FastAz spec can run here, while the full length packs stay on this one.
 
 Height is not a limit here. The stock battery bar tops out around **35mm**, but this car runs a **3D printed battery bar**, and **a 47mm shorty goes in regardless**, since the bar flexes a little and a shorty sits in the middle of the tray rather than out at the sides where the clearance is tight.
