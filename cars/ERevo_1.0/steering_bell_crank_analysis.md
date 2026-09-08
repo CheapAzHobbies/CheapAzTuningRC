@@ -21,7 +21,7 @@
 
 | Part | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **Traxxas 5343X** — *max-throw stop installed* | **Material:** Plastic (steering arm mount + stops), includes lower hinge pin retainer<br>**Pivots:** N/A<br>**Fits:** E-Revo 2.0 (native), **E-Revo 1.0** (confirmed fit), Revo 3.3, Summit, Slayer Pro 4x4<br>**Price:** 🚧 TBD | Pro: **One set includes both a standard-throw and a maximum-throw steering stop**, so there's no separate part to buy for more angle, just run the max-throw stop that's already in the box. Cross-platform: bought for the 2.0 but drops onto the 1.0<br><br>Con: 🚧 Nothing logged yet, no run time on it | <img src="src/steering_traxxas_arm_mount_stops_5343x.png" width="500"> |
+| ⭐ **Traxxas 5343X** — *max-throw stop installed* | **Material:** Plastic (steering arm mount + stops), includes lower hinge pin retainer<br>**Pivots:** N/A<br>**Fits:** E-Revo 2.0 (native), **E-Revo 1.0** (confirmed fit), Revo 3.3, Summit, Slayer Pro 4x4<br>**Price:** $3.50 | Pro: **One set includes both a standard-throw and a maximum-throw steering stop**, so there's no separate part to buy for more angle, just run the max-throw stop that's already in the box. Cross-platform: bought for the 2.0 but drops onto the 1.0<br><br>Con: 🚧 Nothing logged yet, no run time on it | <img src="src/steering_traxxas_arm_mount_stops_5343x.png" width="500"> |
 
 ---
 
@@ -30,4 +30,4 @@
 - **"5343X" is the part number to search for, not "5343."** Search results only turn up the X version as a current listing, don't spend time hunting for a plain "5343," it doesn't appear to be a distinct current product.
 - **The max-throw stop is the one to run.** Both stops ship in the same set, so picking max-throw over standard costs nothing extra, it's just a matter of which one gets installed.
 - **Bought for the E-Revo 2.0, confirmed to also fit the 1.0.** Worth remembering for future parts shopping: not everything E-Revo-2.0-labeled is a lost cause for the 1.0, unlike the center driveshaft (see [`driveshaft_analysis.md`](driveshaft_analysis.md)), this one crosses over.
-- **Still open:** price paid, install notes, and how it performs once it's actually on the car.
+- **Still open:** install notes and how it performs once it's actually on the car.
