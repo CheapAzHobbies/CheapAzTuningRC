@@ -76,7 +76,7 @@ Caveats: charger-measured IR includes the leads and connector, so read the same 
 
 ## Notes
 
-- **Usage rate: 109 total sessions (106 Premo + 3 HOOVO) against 69 weeks of regular driving** (since 2025-05-13, see [`README.md`](README.md#car-overview)). More than a strict once-a-week pace, consistent with occasional extra sessions beyond the weekend routine.
+- **Usage rate: 109 total sessions (106 Premo + 3 HOOVO) against 69 weeks since the car was first driven at all** (2025-05-13, when the original metal bulkheads went in, see [`README.md`](README.md#car-overview)). More than a strict once-a-week pace, consistent with occasional extra sessions beyond the weekend routine.
 - **Watts per gram, all five (published numbers).** All are 11.4V / 4200mAh, about 47.9Wh, so weight decides it outright. Wh/kg is published; **True C is the only column here anyone measured**:
 
 | Pack | Weight | Wh/kg | IR/cell | Claimed C | **True C** | Size | $/pack |

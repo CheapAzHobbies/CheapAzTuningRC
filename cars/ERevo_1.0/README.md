@@ -24,7 +24,7 @@
 ## Car Overview
 
 **Base Car:** Traxxas E-Revo 1.0  
-**Regular driving started:** 2025-05-13 (dated by the original metal bulkhead purchase). Been running roughly every weekend since, plus extra sessions, more often than a strict weekly pace, per the battery cycle counts in [`battery_analysis.md`](battery_analysis.md).
+**First driven:** 2025-05-13. Wasn't driven at all before the original metal bulkheads went in that day. Running roughly every weekend since, plus extra sessions, more often than a strict weekly pace, per the battery cycle counts in [`battery_analysis.md`](battery_analysis.md).
 
 ![Car Overview](src/car_overview.jpg)
 
