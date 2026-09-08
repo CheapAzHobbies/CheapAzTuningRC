@@ -49,7 +49,7 @@
 
 ## Driveshafts
 
-Running **CVDs**, not the stock plastic dogbone shafts. That's why the driveshaft-boot kits above (5459 / 5129) don't apply — the rebuild path and boots are different, and at ~$5/axle it's cheaper to replace than to fuss with the 5129 rebuild kit. Full driveshaft notes live with the build; this section is just the service/restock pointer.
+Running **CVDs**, not the stock plastic dogbone shafts. That's why the driveshaft-boot kits above (5459 / 5129) don't apply — the rebuild path and boots are different, and at ~$5/axle it's cheaper to replace than to fuss with the 5129 rebuild kit. This section is axle (wheel) driveshafts only; the **center (diff-to-diff) driveshaft** is its own topic, see [`driveshaft_analysis.md`](driveshaft_analysis.md).
 
 ---
 

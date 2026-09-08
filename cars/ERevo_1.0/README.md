@@ -90,6 +90,10 @@ Moved to the motor doc. See [`esc_motor_analysis.md` → Gearing](esc_motor_anal
 
 - **Traxxas 5153R Inner Drive Cups (2)** — **×2 packs (4 cups), in hand** ($16, PowerHobby). The diff-side cups the CVD driveshafts seat into; pair these with the AliExpress CVDs. Common wear/break point, good to have spares.
 
+### Center Driveshaft
+
+**Chosen: Traxxas 5650R** (E-Revo / E-Revo Brushless / Summit). Easy to order wrong: the E-Maxx's **5151R** looks the same and its front shaft even matches, but the rear is ~1.5" short. The E-Revo 2.0's **8655R** never fits either position. Full comparison in [`driveshaft_analysis.md`](driveshaft_analysis.md).
+
 ---
 
 ## Electronics
