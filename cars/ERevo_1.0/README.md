@@ -24,7 +24,7 @@
 ## Car Overview
 
 **Base Car:** Traxxas E-Revo 1.0  
-**First driven:** 2025-05-13. Wasn't driven at all before the original metal bulkheads went in that day. Running roughly every weekend since, plus extra sessions, more often than a strict weekly pace, per the battery cycle counts in [`battery_analysis.md`](battery_analysis.md).
+**First driven:** 2025-05-13. Wasn't driven at all before the original metal front bulkhead ($76.98, eBay) went in that day; the rear bulkhead's own purchase date isn't confirmed. Running roughly every weekend since, plus extra sessions, more often than a strict weekly pace, per the battery cycle counts in [`battery_analysis.md`](battery_analysis.md).
 
 ![Car Overview](src/car_overview.jpg)
 
@@ -162,7 +162,7 @@ Moved to the motor doc. See [`esc_motor_analysis.md` → Gearing](esc_motor_anal
 |--------|-------------|----------|------|--------|-------|
 | — | Traxxas E-Revo 1.0 | Base Car | — | — | — |
 | — | Castle Creations 1515 2200KV Motor | Electronics | — | — | — |
-| — | Original metal bulkheads (front + rear), bought 2025-05-13 | Drivetrain | 🚧 TBD | 🚧 TBD | — |
+| — | CNC Machined Front Bulkhead for Traxxas 1/10 E-Revo, bought 2025-05-13 | Drivetrain | $76.98 | eBay | — |
 | 5358 | Enron aluminum rockers, Progressive 2 (silver 4P) | Suspension | $14.31 | AliExpress (NEW ENRON) | [rocker_analysis.md](rocker_analysis.md) |
 | RPM 80562 | True Track rear A-arm conversion kit (black) | Suspension | $32.95 | PowerHobby | <img src="src/suspension_rpm_truetrack_rear_arm_80562.jpg" width="150"> |
 | ~~RPM 80582~~ | Axle carriers / steering blocks (black) — **retired, pillow balls pull out** | Steering | $23.75 | PowerHobby | <img src="src/steering_rpm_axle_carriers_steering_blocks_80582.jpg" width="150"> |
