@@ -48,6 +48,7 @@ I was running a **NEW ENRON Aluminum #5337 metal skid plate** (purchased $18.64,
 | Fit | Traxxas Revo 1.0, 2.0, 3.3 |
 | Color | Black |
 | Price | ~$8 / set |
+| Installed | **2026-09-08** (rear replaces the worn-through metal plate) |
 
 **Why this over the metal one:**
 - **Plastic flexes** — absorbs impacts without permanent deformation.
@@ -90,6 +91,7 @@ I was running a **NEW ENRON Aluminum #5337 metal skid plate** (purchased $18.64,
 ## Notes
 
 - **Skid plates are wear items** — don't overthink them. Buy the cheap plastic set, run it till it's chewed up, replace it.
+- **Tracking the plastic set's service life, installed 2026-09-08.** The metal set gave two data points to beat: front bent immediately, rear lasted ~4 months (~121 days). Log the date here when the plastic set eventually wears through, so there's a real plastic-vs-metal lifespan comparison, not just a durability assumption.
 - **The NEW ENRON aluminum set was a waste of money** — the front bent on the first hard landing and never recovered, and the rear wore through after about 4 months (~121 days) in service (acquired 2026-05-10, worn out 2026-09-08). Neither end made it to a full season. Plastic is the right call for a basher/racer.
 - **If you're running on beach sand**, the plastic skid plate will slide better than metal (less friction on sand).
 - **No need for a rear bumper** — the rear skid plate + metal bulkhead provide enough protection. See [`bumper_analysis.md`](bumper_analysis.md) for the full bumper reasoning.
