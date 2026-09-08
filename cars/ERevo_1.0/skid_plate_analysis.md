@@ -1,6 +1,6 @@
 # Skid Plate Analysis — E-Revo 1.0
 
-> **Decision: Traxxas 5337 Skid Plate Set, Revo (plastic, front + rear).** Replaces the bent metal front skid plate I was running. Plastic is a cheap wear item — no need for metal here. The NEW ENRON aluminum set was purchased but we're going back to plastic as the primary choice.
+> **Decision: Traxxas 5337 Skid Plate Set, Revo (plastic, front + rear).** Replaces the NEW ENRON metal set, both ends of which have now failed: front bent on first hit, rear wore through after ~4 months. Plastic is a cheap wear item — no need for metal here.
 
 ---
 
@@ -23,7 +23,7 @@ Worth remembering before buying a tougher plate: **a skid plate that keeps getti
 
 ## Why switch from metal to plastic
 
-I was running a **NEW ENRON Aluminum #5337 metal skid plate** (purchased $18.64, May 10, 2026). It bent on the first hard hit and stayed bent — see photo below. Metal skid plates on a basher/racer are **not worth it**:
+I was running a **NEW ENRON Aluminum #5337 metal skid plate** (purchased $18.64, May 10, 2026). The **front** plate bent on the first hard hit and stayed bent — see photo below. The **rear** plate lasted longer since it didn't bend, but it's now **worn through** (2026-09-08), about **4 months (~121 days)** of service. Both ends of the same metal set have now failed, just by different mechanisms. Metal skid plates on a basher/racer are **not worth it**:
 
 - **Metal bends and stays bent** — once deformed, it doesn't protect anymore and can even dig into the chassis.
 - **Plastic flexes and springs back** — absorbs impacts without permanent damage.
@@ -81,7 +81,7 @@ I was running a **NEW ENRON Aluminum #5337 metal skid plate** (purchased $18.64,
 
 | Option | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ❌ ~~**NEW ENRON Aluminum #5337 (metal)**~~ | **Type:** aluminum skid plate set<br>**Material:** aluminum<br>**Position:** front + rear<br>**Fits:** Revo / E-Revo<br>**Includes:** front + rear<br>**Weight:** N/A<br>**Price:** $18.64 (purchased May 10, 2026) | Pro: Looks tough, feels protective<br><br>Con: **Bends permanently**, heavier, more expensive | <img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="250"><br><em>Bent NEW ENRON Aluminum #5337 front skid plate</em><br><br><img src="src/bumper_new_enron_5337_skid_plate_metal_set.png" width="250"><br><em>NEW ENRON Aluminum Front & Rear Skid Plate #5337 (silver)</em> |
+| ❌ ~~**NEW ENRON Aluminum #5337 (metal)**~~ | **Type:** aluminum skid plate set<br>**Material:** aluminum<br>**Position:** front + rear<br>**Fits:** Revo / E-Revo<br>**Includes:** front + rear<br>**Weight:** N/A<br>**Price:** $18.64 (purchased May 10, 2026) | Pro: Looks tough, feels protective<br><br>Con: **Both ends failed.** Front **bent permanently on the first hard hit**. Rear didn't bend but **wore through after ~4 months (~121 days)**, retired 2026-09-08. Heavier and more expensive than plastic for a shorter service life | <img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="250"><br><em>Bent NEW ENRON Aluminum #5337 front skid plate</em><br><br><img src="src/bumper_new_enron_5337_skid_plate_metal_set.png" width="250"><br><em>NEW ENRON Aluminum Front & Rear Skid Plate #5337 (silver)</em> |
 | ❌ ~~**RPM skid plate**~~ | **Type:** RPM nylon skid plate<br>**Material:** nylon<br>**Position:** N/A<br>**Fits:** Revo / E-Revo<br>**Includes:** N/A<br>**Weight:** N/A<br>**Price:** N/A | Pro: RPM makes tough nylon parts<br><br>Con: **Not available for Revo** (RPM doesn't make a Revo skid plate) | — |
 | ⭐ **Traxxas 5337 (plastic)** — *chosen* | **Type:** plastic skid plate set<br>**Material:** nylon / plastic<br>**Position:** front + rear<br>**Fits:** Revo 1.0, 2.0, 3.3<br>**Includes:** front + rear<br>**Weight:** N/A<br>**Price:** ~$8 / set | Pro: Cheap, flexible, includes both front + rear, easy to replace<br><br>Con: None for this use case | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="250"><br>🚧 save as `src/bumpers_traxxas_5337_skid_plate_plastic.jpg` |
 
@@ -90,7 +90,7 @@ I was running a **NEW ENRON Aluminum #5337 metal skid plate** (purchased $18.64,
 ## Notes
 
 - **Skid plates are wear items** — don't overthink them. Buy the cheap plastic set, run it till it's chewed up, replace it.
-- **The NEW ENRON aluminum set was a waste of money** — it bent on the first hard landing and never recovered. Plastic is the right call for a basher/racer.
+- **The NEW ENRON aluminum set was a waste of money** — the front bent on the first hard landing and never recovered, and the rear wore through after about 4 months (~121 days) in service (acquired 2026-05-10, worn out 2026-09-08). Neither end made it to a full season. Plastic is the right call for a basher/racer.
 - **If you're running on beach sand**, the plastic skid plate will slide better than metal (less friction on sand).
 - **No need for a rear bumper** — the rear skid plate + metal bulkhead provide enough protection. See [`bumper_analysis.md`](bumper_analysis.md) for the full bumper reasoning.
-- **NEW ENRON aluminum set** was purchased ($18.64, May 10, 2026, order 8211350284004866) but we're going back to plastic as the primary choice. The aluminum set is now a fallback. It came with both front + rear plates, not just front.
+- **NEW ENRON aluminum set** was purchased ($18.64, May 10, 2026, order 8211350284004866). It came with both front + rear plates, not just front, but **both are now retired** — front bent on first hit, rear wore through after ~4 months (2026-09-08). Nothing left of that set to fall back on; plastic is the only plate in the plan going forward.
