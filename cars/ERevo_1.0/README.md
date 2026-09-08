@@ -117,6 +117,7 @@ Moved to the motor doc. See [`esc_motor_analysis.md` → Gearing](esc_motor_anal
 - **Front steering blocks: Enron metal** (chosen, source TBD) — the **RPM 80582 plastic blocks are retired**: even new, the pillow balls pull out every other crash. Enron metal won't crack and holds the balls; **reuse the same oversized bearings** (6×15×5 outer / 12×21×5 inner vs stock 6×12×4 / 12×18×4, ~2× load rating). Trade-off: heavier, no part number to reorder.
 - **Rear axle carriers: RPM 80562 True Track** (in hand) — bundled in the True Track kit, same oversized bearings, **4 mm pin lower mount** (no pillow ball, so no pull-out). The Revo otherwise uses the same small bearings as the lighter Jato 4x4, which is why it ate bearings for years. Full comparison in [`hub_analysis.md`](hub_analysis.md).
 - **Service / wear parts** — pivot-ball dust boots (Traxxas **5378X**), the skipped driveshaft-boot kits (5459 / 5129), bearings, and pushrod ends are consolidated in [`service_parts_analysis.md`](service_parts_analysis.md).
+- **Steering arm mount / stops: Traxxas 5343X**, max-throw stop installed. E-Revo 2.0-native part, confirmed to also fit the 1.0. Full writeup in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md).
 
 ---
 
