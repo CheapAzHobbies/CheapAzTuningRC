@@ -163,6 +163,7 @@ Moved to the motor doc. See [`esc_motor_analysis.md` → Gearing](esc_motor_anal
 | — | Traxxas E-Revo 1.0 | Base Car | — | — | — |
 | — | Castle Creations 1515 2200KV Motor | Electronics | — | — | — |
 | — | CNC Machined Front Bulkhead for Traxxas 1/10 E-Revo, bought 2025-05-13 | Drivetrain | $76.98 | eBay | — |
+| — | Billet Machined Rear Bulkhead for Traxxas 1/10 E-Revo (-2017), spare — not installed | Drivetrain | $68.99 | eBay | — |
 | 5358 | Enron aluminum rockers, Progressive 2 (silver 4P) | Suspension | $14.31 | AliExpress (NEW ENRON) | [rocker_analysis.md](rocker_analysis.md) |
 | RPM 80562 | True Track rear A-arm conversion kit (black) | Suspension | $32.95 | PowerHobby | <img src="src/suspension_rpm_truetrack_rear_arm_80562.jpg" width="150"> |
 | ~~RPM 80582~~ | Axle carriers / steering blocks (black) — **retired, pillow balls pull out** | Steering | $23.75 | PowerHobby | <img src="src/steering_rpm_axle_carriers_steering_blocks_80582.jpg" width="150"> |
