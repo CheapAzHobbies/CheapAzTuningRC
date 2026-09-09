@@ -10,6 +10,7 @@
 
 - [Why match per voltage, not headline spec](#why-match-per-voltage-not-headline-spec) — the trap this doc avoids
 - [How much torque you actually need](#how-much-torque-you-actually-need) — stop overbuying, by scale
+- [PTK full lineup](#ptk-full-lineup) — all 8 PTK models side by side, verified against manufacturer spec sheets
 - [Spec format](#spec-format) — standard field order, and how to record a torque curve
 - [Comparison, speed class](#comparison-speed-class-110-buggy-sc-touring) — 1/10 buggy, short course, touring
 - [Comparison, torque class](#comparison-torque-class-110-mt-18-buggy-truggy-crawler) — 1/10 MT, 1/8 buggy, truggy, crawler
@@ -47,6 +48,29 @@ Buying torque you don't use costs money, weight, height and current draw, and us
 | **X-Maxx / heavy crawler / 1/5** | **45–70 kg·cm** | Outside this group's cars. This is Savox SB-2290SG territory and the only tier where the premium price tag buys torque nothing cheap matches |
 
 **The 1/8 line is the one that matters.** Everything at or below 1/10 monster truck is served by a $20 servo. Above it, you need roughly 60% more torque, and that's the point where the cheap options thin out.
+
+---
+
+## PTK Full Lineup
+
+All 8 current PTK servo models, side by side, straight from their manufacturer spec sheet photos rather than a third-party summary table. **Bold** marks the best in each column. Sorted by torque @ 8.4V, low to high.
+
+> ⚠️ **These numbers were cross-checked against an AI-generated (DeepSeek) summary table and corrected against the actual spec sheets.** Three of eight rows in that summary were wrong: the 9860's speed figures were off in both directions, the 8835 was mislabeled as having a 4.8V-8.4V range (it's actually 6.0-8.4V, so it doesn't belong in the "widest range" group), and the 9752 TG-D's speed was significantly understated (0.110s/0.071s claimed vs. the real 0.072s/0.052s). Also dropped: an "IP67/IP65" waterproof rating and a separate "rated torque" column that summary table included, neither appears on any of the 8 real spec sheets, only a "Waterproof" case label (no IP number) and stall torque, so those two columns aren't reproduced here.
+
+| Model | Motor | Weight | Voltage Range | Speed @ 6V | Torque @ 6V | Speed @ 8.4V | Torque @ 8.4V | Waterproof | Photo |
+|---|---|---|---|---|---|---|---|---|---|
+| 9752 TG-D | Coreless | **60.2g** | 5.0-8.4V | 0.072s | 18kg·cm | 0.052s | 25kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_9752tgd.jpg" width="200"> |
+| 8842 | Coreless | 70g | 5.0-8.4V | **0.087s** | 27kg·cm | **0.063s** | 32kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_8842.jpg" width="200"> |
+| 8835 MG-D | Coreless | 71g | 6.0-8.4V | 0.180s | 31kg·cm | 0.143s | 42kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_8835mgd.jpg" width="200"> |
+| 9850 MG-D | Coreless | 75g | 6.0-8.4V | 0.122s | 35kg·cm | 0.090s | 50kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_9850mgd.jpg" width="200"> |
+| 9845 MG-D | Brushless | 76g | 4.8-8.4V | 0.095s | 39kg·cm | 0.074s | 50kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_9845mgd.jpg" width="200"> |
+| 8862 | Brushless | 80g | 6.0-8.4V | 0.144s | 55kg·cm | 0.105s | 72kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_8862.jpg" width="200"> |
+| 9860 MG-D | Coreless | 84g | 4.8-8.4V | 0.141s | 44kg·cm | 0.098s | 67kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_9860mgd.jpg" width="200"> |
+| 9870 MG-D | Brushless | 86g | 5.0-8.4V | 0.118s | **58kg·cm** | 0.092s | **75kg·cm** | Yes (no IP#) | <img src="src/steering_ptk_spec_9870mgd.jpg" width="200"> |
+
+**Widest voltage range (4.8-8.4V):** 9860 MG-D, 9845 MG-D, 8842, 9752 TG-D. The 8835 MG-D runs 6.0-8.4V only, despite being grouped with the wide-range servos in the original summary table.
+
+**For a 45+kg·cm @ 6V requirement:** only the 9870 MG-D (58kg·cm) and 8862 (55kg·cm) clear it. The 9870 wins on speed, torque, and voltage range; the 8862 is 6g lighter and nothing else. See the [torque class comparison](#comparison-torque-class-110-mt-18-buggy-truggy-crawler) below for how these stack up against other brands, and [how much torque you actually need](#how-much-torque-you-actually-need) before assuming higher is better.
 
 ---
 
