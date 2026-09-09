@@ -55,18 +55,20 @@ Buying torque you don't use costs money, weight, height and current draw, and us
 
 All 8 current PTK servo models, side by side, straight from their manufacturer spec sheet photos rather than a third-party summary table. **Bold** marks the best in each column. Sorted by torque @ 8.4V, low to high.
 
-> ⚠️ **These numbers were cross-checked against an AI-generated (DeepSeek) summary table and corrected against the actual spec sheets.** Three of eight rows in that summary were wrong: the 9860's speed figures were off in both directions, the 8835 was mislabeled as having a 4.8V-8.4V range (it's actually 6.0-8.4V, so it doesn't belong in the "widest range" group), and the 9752 TG-D's speed was significantly understated (0.110s/0.071s claimed vs. the real 0.072s/0.052s). Also dropped: an "IP67/IP65" waterproof rating and a separate "rated torque" column that summary table included, neither appears on any of the 8 real spec sheets, only a "Waterproof" case label (no IP number) and stall torque, so those two columns aren't reproduced here.
+> ⚠️ **These numbers were cross-checked against an AI-generated (DeepSeek) summary table and corrected against the actual spec sheets.** Three of eight rows in that summary were wrong: the 9860's speed figures were off in both directions, the 8835 was mislabeled as having a 4.8V-8.4V range (it's actually 6.0-8.4V, so it doesn't belong in the "widest range" group), and the 9752 TG-D's speed was significantly understated (0.110s/0.071s claimed vs. the real 0.072s/0.052s). **Waterproof (IP rating) and Rated Torque are kept below at the user's request, but neither appears on any of the 8 real spec sheet photos** (which only show a "Waterproof" case label with no IP number, and stall torque with no separate rated figure) — treat those two columns as the DeepSeek table's unverified claim, not a confirmed spec.
 
-| Model | Motor | Weight | Voltage Range | Speed @ 6V | Torque @ 6V | Speed @ 8.4V | Torque @ 8.4V | Waterproof | Photo |
-|---|---|---|---|---|---|---|---|---|---|
-| 9752 TG-D | Coreless | **60.2g** | 5.0-8.4V | 0.072s | 18kg·cm | 0.052s | 25kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_9752tgd.jpg" width="200"> |
-| 8842 | Coreless | 70g | 5.0-8.4V | **0.087s** | 27kg·cm | **0.063s** | 32kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_8842.jpg" width="200"> |
-| 8835 MG-D | Coreless | 71g | 6.0-8.4V | 0.180s | 31kg·cm | 0.143s | 42kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_8835mgd.jpg" width="200"> |
-| 9850 MG-D | Coreless | 75g | 6.0-8.4V | 0.122s | 35kg·cm | 0.090s | 50kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_9850mgd.jpg" width="200"> |
-| 9845 MG-D | Brushless | 76g | 4.8-8.4V | 0.095s | 39kg·cm | 0.074s | 50kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_9845mgd.jpg" width="200"> |
-| 8862 | Brushless | 80g | 6.0-8.4V | 0.144s | 55kg·cm | 0.105s | 72kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_8862.jpg" width="200"> |
-| 9860 MG-D | Coreless | 84g | 4.8-8.4V | 0.141s | 44kg·cm | 0.098s | 67kg·cm | Yes (no IP#) | <img src="src/steering_ptk_spec_9860mgd.jpg" width="200"> |
-| 9870 MG-D | Brushless | 86g | 5.0-8.4V | 0.118s | **58kg·cm** | 0.092s | **75kg·cm** | Yes (no IP#) | <img src="src/steering_ptk_spec_9870mgd.jpg" width="200"> |
+| Model | Motor | Weight | Voltage Range | Speed @ 6V | Torque @ 6V | Speed @ 8.4V | Torque @ 8.4V | Waterproof 🚧 | Rated Torque 🚧 | Photo |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 9752 TG-D | Coreless | **60.2g** | 5.0-8.4V | 0.072s | 18kg·cm | 0.052s | 25kg·cm | IP65 | 7.5kg | <img src="src/steering_ptk_spec_9752tgd.jpg" width="200"> |
+| 8842 | Coreless | 70g | 5.0-8.4V | **0.087s** | 27kg·cm | **0.063s** | 32kg·cm | IP67 | 9kg | <img src="src/steering_ptk_spec_8842.jpg" width="200"> |
+| 8835 MG-D | Coreless | 71g | 6.0-8.4V | 0.180s | 31kg·cm | 0.143s | 42kg·cm | IP67 | 16kg | <img src="src/steering_ptk_spec_8835mgd.jpg" width="200"> |
+| 9850 MG-D | Coreless | 75g | 6.0-8.4V | 0.122s | 35kg·cm | 0.090s | 50kg·cm | IP67 | 20kg | <img src="src/steering_ptk_spec_9850mgd.jpg" width="200"> |
+| 9845 MG-D | Brushless | 76g | 4.8-8.4V | 0.095s | 39kg·cm | 0.074s | 50kg·cm | IP67 | 19kg | <img src="src/steering_ptk_spec_9845mgd.jpg" width="200"> |
+| 8862 | Brushless | 80g | 6.0-8.4V | 0.144s | 55kg·cm | 0.105s | 72kg·cm | IP67 | 25kg | <img src="src/steering_ptk_spec_8862.jpg" width="200"> |
+| 9860 MG-D | Coreless | 84g | 4.8-8.4V | 0.141s | 44kg·cm | 0.098s | 67kg·cm | IP67 | 25kg | <img src="src/steering_ptk_spec_9860mgd.jpg" width="200"> |
+| 9870 MG-D | Brushless | 86g | 5.0-8.4V | 0.118s | **58kg·cm** | 0.092s | **75kg·cm** | IP67 | 25kg | <img src="src/steering_ptk_spec_9870mgd.jpg" width="200"> |
+
+*🚧 = unverified, see warning above — carried over from the DeepSeek summary, not confirmed against a spec sheet photo.*
 
 **Widest voltage range (4.8-8.4V):** 9860 MG-D, 9845 MG-D, 8842, 9752 TG-D. The 8835 MG-D runs 6.0-8.4V only, despite being grouped with the wide-range servos in the original summary table.
 
