@@ -72,7 +72,7 @@ All 8 current PTK servo models, side by side, straight from their manufacturer s
 
 *🚧 = unverified, see warning above — carried over from the DeepSeek summary, not confirmed against a spec sheet photo.*
 
-**Widest voltage range (4.8-8.4V):** 9860 MG-D, 9845 MG-D, 8842, 9752 TG-D. The 8835 MG-D runs 6.0-8.4V only, despite being grouped with the wide-range servos in the original summary table.
+**Widest voltage range (4.8-8.4V):** 9860 MG-D, 9845 MG-D. The 8842, 9752 TG-D and 9870 MG-D start at 5.0V (5.0-8.4V). The 8835 MG-D, 9850 MG-D and 8862 run 6.0-8.4V only; the 8835 was wrongly grouped with the wide-range servos in the original summary table.
 
 **For a 45+kg·cm @ 6V requirement:** only the 9870 MG-D (58kg·cm) and 8862 (55kg·cm) clear it. The 9870 wins on speed, torque, and voltage range; the 8862 is 6g lighter and nothing else. See the [torque class comparison](#comparison-torque-class-110-mt-18-buggy-truggy-crawler) below for how these stack up against other brands, and [how much torque you actually need](#how-much-torque-you-actually-need) before assuming higher is better.
 
