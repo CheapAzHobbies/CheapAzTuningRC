@@ -116,7 +116,7 @@ The front shock uppers mount on **Traxxas wheelie bar shoulder screws**, which s
 
 **Two for the front, four for the whole car** if the rear runs OEM plastic towers (EHD **TRA9039** or the standard Slash type).
 
-**Buy TRA4976 unless you want the bar.** $4 covers the front, $8 covers all four if the rear is on Slash towers. Still cheaper per screw than any complete bar, and cheaper outright than the Revo bar's six for $20. A full bar only makes sense if you want more than two, and there the Revo's 6 for $20 works out best at $2 to $3.33 each.
+**Buy TRA4976, as many sets as you need.** $4 covers the front, $8 covers all four if the rear is on Slash towers. At $2/screw it's cheaper per screw than any complete bar at any quantity, including the Revo bar's six for $20 ($3.33/screw), buying more TRA4976 sets stays cheaper than switching to a full bar even in bulk. There's no quantity where the bar wins on price; the only reason to buy a whole bar is wanting the bar itself, not just the screws.
 
 | Wheelie bar | Part | Fits | Screws | Price | $/screw |
 |:---|:---:|:---|:---:|:---:|:---:|
