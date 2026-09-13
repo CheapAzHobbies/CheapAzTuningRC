@@ -16,6 +16,7 @@
 - [Pushrod Ends & Balls](#pushrod-ends--balls) — see rod_analysis
 - [Bearings](#bearings) — oversized set; the 5334R 6×13 exception
 - [Motor Bearings](#motor-bearings) — 4278SD replacement bearings (Hobbywing kit)
+- [Transmission Rebuild Log](#transmission-rebuild-log) — full rebuild history, dated
 
 ---
 
@@ -86,3 +87,13 @@ The **Hobbywing 4278SD G2R** motor (see [`esc_motor_analysis.md`](esc_motor_anal
 - Practical cadence: quick spin-check **~every 10-15 packs** (or monthly), and after every beach/wet run. Keep a spare set on the shelf.
 
 <p align="center"><img src="src/reference_hobbywing_4278_motor_bearings_4310014_4310004.png" width="360"><br><em>Hobbywing 4278 / Xerun 1/8 motor bearing kit: front 5×16×5 (4310014) · rear 5×13×4 (4310004)</em></p>
+
+---
+
+## Transmission Rebuild Log
+
+Dated record of full transmission rebuilds (all bearings out, regreased), separate from the spot-checks and single-bearing swaps logged above.
+
+| Date | What was done | Grease | Notes |
+|---|---|---|---|
+| 2026-09-12 | Full transmission rebuild, **all bearings replaced** | **Blaser white lithium grease spray** | 🚧 TBD: which bearings specifically (transmission-case set vs. the hub/motor sets above), and why the rebuild was due (mileage, symptom, or scheduled) |

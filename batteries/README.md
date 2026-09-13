@@ -12,13 +12,13 @@ Master list of all batteries with cycle counts. Sorted alphabetically by pack na
 
 | # | Pack | Capacity | Acquired | Cycles | Notes |
 |---|------|----------|----------|--------|-------|
-| 1 | Gens Ace Redline 2.0 6000 4S HV #1 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), **shorty** (98mm), 410 g, 5.0mm bullet. Bought as a 2-pack for the FastAzJato4x4, run independently rather than wired as a series-matched pair (that's an E-Revo-only setup). Cycle counts should stay close since both run in the same car |
-| 2 | Gens Ace Redline 2.0 6000 4S HV #2 | 4S HV 6000 mAh | 9/3/26 | 0 | LiHV 15.2V, 140C hardcase (GEA60004S14S), **shorty** (98mm), 410 g, 5.0mm bullet. Bought as a 2-pack for the FastAzJato4x4, run independently rather than wired as a series-matched pair (that's an E-Revo-only setup). Cycle counts should stay close since both run in the same car |
+| 1 | Gens Ace Redline 2.0 6000 4S HV #1 | 4S HV 6000 mAh | 9/3/26 | 1 | LiHV 15.2V, 140C hardcase (GEA60004S14S), **shorty** (98mm), 410 g, 5.0mm bullet. Bought as a 2-pack for the FastAzJato4x4, run independently rather than wired as a series-matched pair (that's an E-Revo-only setup). Cycle counts should stay close since both run in the same car |
+| 2 | Gens Ace Redline 2.0 6000 4S HV #2 | 4S HV 6000 mAh | 9/3/26 | 1 | LiHV 15.2V, 140C hardcase (GEA60004S14S), **shorty** (98mm), 410 g, 5.0mm bullet. Bought as a 2-pack for the FastAzJato4x4, run independently rather than wired as a series-matched pair (that's an E-Revo-only setup). Cycle counts should stay close since both run in the same car |
 | 3 | Gens Ace Redline 2.0 6300 4S HV | 4S HV 6300 mAh | 10/22/25 | 25 | LiHV 15.2V, 140C hardcase, **not the shorty** (the 6000 pair above is), 452 g, 5.0mm bullet. Single pack (not a pair), see [`FastAzJato4x4/battery_analysis.md`](../cars/FastAzJato4x4/battery_analysis.md) |
 | 4 | Gortpot #1 | 4000 mAh | 4/20/23 | 34 | |
 | 5 | Gortpot #2 | 4000 mAh | 4/20/23 | 29 | |
-| 6 | HOOVO 4200 #1 | 3S HV 4200 mAh | 8/31/26 | 3 | LiHV shorty, 214.4g, <4mΩ IR (~18-30C true). Matched pair from Mike, see [`ERevo_1.0/battery_analysis.md`](../cars/ERevo_1.0/battery_analysis.md). Paired with #5, charged together |
-| 7 | HOOVO 4200 #2 | 3S HV 4200 mAh | 8/31/26 | 3 | LiHV shorty, 214.4g. Paired, same cycle count |
+| 6 | HOOVO 4200 #1 | 3S HV 4200 mAh | 8/31/26 | 4 | LiHV shorty, 214.4g, <4mΩ IR (~18-30C true). Matched pair from Mike, see [`ERevo_1.0/battery_analysis.md`](../cars/ERevo_1.0/battery_analysis.md). Paired with #5, charged together |
+| 7 | HOOVO 4200 #2 | 3S HV 4200 mAh | 8/31/26 | 4 | LiHV shorty, 214.4g. Paired, same cycle count |
 | 8 | Reaction | 4000 mAh | 8/5/19 | 432 | |
 | 9 | SMC HCL-RS 2S (5600) | 2S 5600 mAh | 4/25 | — | 150C hardcase (56150-2S1P), 5mm inboard |
 | 10 | SMC HCL-RS 2S HV (6400) | 2S HV 6400 mAh | 4/25 | — | LiHV, 120C hardcase (64120-2S1P), 5mm inboard |
@@ -33,10 +33,10 @@ Master list of all batteries with cycle counts. Sorted alphabetically by pack na
 | 19 | Zeee 2S 8000 #1 | 8000 mAh | 3/19/24 | 29 | Sticker |
 | 20 | Zeee 2S 8000 #2 | 8000 mAh | 3/19/24 | 26 | |
 | 21 | Zeee 4S | 8000 mAh | 3/18/24 | 20 | |
-| 22 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Run in pairs with #3/#4, charged together so same cycle count |
-| 23 | Zeee Premo #3 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
-| 24 | Zeee Premo #4 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Paired, same cycle count |
-| 25 | Zeee Premo #5 | 3S HV 4200 mAh | 6/21/23 | 106 | LiHV. Free replacement from Zeee for the one that died (retired #2) |
+| 22 | Zeee Premo #1 | 3S HV 4200 mAh | 6/21/23 | 107 | LiHV. Run in pairs with #3/#4, charged together so same cycle count |
+| 23 | Zeee Premo #3 | 3S HV 4200 mAh | 6/21/23 | 107 | LiHV. Paired, same cycle count |
+| 24 | Zeee Premo #4 | 3S HV 4200 mAh | 6/21/23 | 107 | LiHV. Paired, same cycle count |
+| 25 | Zeee Premo #5 | 3S HV 4200 mAh | 6/21/23 | 107 | LiHV. Free replacement from Zeee for the one that died (retired #2) |
 
 ---
 
