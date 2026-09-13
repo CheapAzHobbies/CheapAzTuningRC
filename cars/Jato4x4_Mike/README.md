@@ -136,6 +136,8 @@ Height is not a limit here. The stock battery bar tops out around **35mm**, but 
 |-----------|------|
 | Motor | **Castle Creations 1412 3200KV** |
 
+**Motor bearing service tracking:** bearings replaced ~2026-09-06, first run on them 2026-09-12. Tracked by weekend run count (no battery tracker for this car) in [`maintenance/README.md`](../../maintenance/README.md), the goal is catching the next replacement before they blow rather than after.
+
 ---
 
 ## Tuning Notes
