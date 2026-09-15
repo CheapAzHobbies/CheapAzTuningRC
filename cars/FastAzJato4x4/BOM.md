@@ -89,7 +89,7 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 |---|---|---|---|---|
 | **Carbon fiber chassis kit, Slash 4x4 VXL TRA6808 pattern** | 1 | AliExpress, RCTOYFUN | **$73.17 / kit** | [Chassis](chassis_analysis.md) |
 | **Front + rear bulkhead tie bars**<br><sub>Note: DIY from scrap aluminum instead of Traxxas 6823. The front is filed to clear the arm, which may not be needed once FLM updates the arms</sub> | 2 | DIY | **$0** | [Chassis](chassis_analysis.md#notes) |
-| **RPM 81042 wide front bumper, black**<br><sub>Note: from Mike</sub> | 1 | Mike | **$9.95 each** | [Bumpers](bumper_analysis.md) |
+| **RPM 81042 wide front bumper, black**<br><sub>Note: gifted by Mike. The price is retail and still counts in the total, so the build cost reflects what it takes to buy one</sub> | 1 | Mike (gift) | **$9.95 each** | [Bumpers](bumper_analysis.md) |
 | **Traxxas TRA9044 skid plates**<br><sub>Note: front + rear set, rear only used</sub> | 1 | Tammies Hobbies | **$7.00 / set** | [Bumpers](bumper_analysis.md) |
 
 ## Aero & Body
