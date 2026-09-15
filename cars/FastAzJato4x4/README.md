@@ -37,6 +37,7 @@
 | 🎯 **Steering** | PTK 9752TG-D servo, GPM 6845X alloy bell crank, Raptor R alloy hubs |
 | 🏁 **Body** | Traxxas Jato 3.3 red (5511A) with its own integrated wing |
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
+| 🔧 **Wheel cost** | ~$52 up front (rims + tires + foams), ~$4 per tire change after that |
 | ⚖️ **Weight** | 2.868 kg all up |
 | 💰 **Build cost** | ~$822 in locked parts, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
