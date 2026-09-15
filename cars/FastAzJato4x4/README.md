@@ -232,7 +232,7 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 | TRA6881 / TRA6880 | Traxxas front / rear gearbox housings | Drivetrain | $4.00 each | Tammies Hobby | <img src="src/drivetrain_traxxas_diff_housing_front_tra6881.jpg" width="120"> |
 | TKR1654-17 | Tekno 17mm M6 front stub / hub adapter | Drivetrain | $23.15 / pair | eBay, mr-retro | <img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="120"> |
 | 5580 | Tekno rear stubs, bought bare | Drivetrain | $34.81 | eBay, mr-retro | <img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="120"> |
-| Generic | AliExpress aftermarket 17mm splined wheel hubs (E-Revo 1.0 fit), black (4, with nuts + pins) | Drivetrain | $8.36 | AliExpress | <img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" width="120"> |
+| Generic | AliExpress aftermarket 17mm splined wheel hubs (E-Revo 1.0 fit), black (set of 4, with nuts + pins) | Drivetrain | $8.36 / set of 4 | AliExpress | <img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" width="120"> |
 | FLM26800 | FLM metal extended arms, front + rear (2 pairs) | Suspension | $25.73 / pair | FLM | <img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="120"> |
 | Generic | MonsterKingz (G-Maxx) carbon fiber rear shock tower (sold as a front + rear set) | Suspension | $33.29 / set | eBay, MonsterKingz | <img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="120"> |
 | 9033 | Traxxas Jato 4x4 stock front shock tower (gray) | Suspension | $6.00 | Tammies Hobby | <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="120"> |

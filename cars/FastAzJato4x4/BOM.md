@@ -32,7 +32,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | **Rear gearbox housing**, Traxxas **TRA6880** | 1 | **Tammies Hobby** | **$4.00** (paid) | [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | **Tekno front stubs, TKR1654-17** 17mm M6 (sold with a hex, which is swapped for the aftermarket E-Revo-fit hubs) | 1 pair | eBay, mr-retro | **$23.15** / pair | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **Tekno 5580 rear stubs**, bought bare (no TKR5570-17 kit needed) | 1 pair | eBay, mr-retro | **$34.81** | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| **AliExpress aftermarket 17mm splined wheel hubs (E-Revo 1.0 fit)**, black (hub + 17mm nut + pin each), 2-3mm wider per corner | 4 | AliExpress | **$8.36** | [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hubs-hexes) |
+| **AliExpress aftermarket 17mm splined wheel hubs (E-Revo 1.0 fit)**, black (hub + 17mm nut + pin each), 2-3mm wider per corner | 1 set of 4 | AliExpress | **$8.36** / set of 4 | [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hubs-hexes) |
 
 ---
 
