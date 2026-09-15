@@ -121,12 +121,12 @@ I run at the top of the oil range on purpose: **heavier oil is significantly mor
 | 30 | 350 | 338 | −12 | 338-350 |
 | 32.5 | 388 | — | — | ~400 |
 | 35 | 425 | 420 | −5 | ~420 |
-| **37.5** | **463** | **468** | +5 | ~465 · **Jato front candidate** |
+| **37.5** | **463** | **468** | +5 | ~465 · **Jato front (running, Losi TLR74030)** |
 | 40 | 500 | 516 | +16 | 500 · **Jato front (running)** |
 | 42.5 | 538 | — | — | ~540 |
 | 45 | 575 | 610 | **+35** | ~600 |
-| **47.5** | **613** | — | — | ~600 · **Jato rear (running, Associated ASC5438)** |
-| 50 | 640 | 710 | +70 | ~650-700 · Mike's Jato rear (running now, moving to 47.5) |
+| 47.5 | 613 | — | — | ~600 |
+| **50** | **640** | **710** | **+70** | ~650-700 · **Jato rear (running, Associated 5480)** · Mike's Jato rear |
 | 55 | 725 | 760 | +35 | ~750 |
 | 60 | 800 | 810 | +10 | 800 |
 | 70 | 900 | 910 | +10 | 900 |

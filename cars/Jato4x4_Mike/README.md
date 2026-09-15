@@ -34,9 +34,9 @@
 | Position | Weight |
 |----------|--------|
 | Front | 40wt |
-| Rear | 50wt (running now) → **47.5wt** (planned, the official number) |
+| Rear | **50wt** |
 
-> Same 40wt front as the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil) after its retest (was 45wt / 60wt on both). The rear runs 50wt now; the plan is to move to **47.5wt** like the FastAzJato4x4, which should work better, and 50wt is the fallback if 47.5 can't be found. Rear heavier than front because the motor sits at the back and the car is tail-heavy for a 1/8.
+> Same **50wt rear** as the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil). The FastAz went down to a **37.5wt front** (Losi TLR74030); this car is still on 40wt up front. Rear heavier than front because the motor sits at the back and the car is tail-heavy for a 1/8.
 
 ### Pistons
 

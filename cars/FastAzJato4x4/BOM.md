@@ -10,14 +10,14 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 |---|---|
 | [Electronics](#electronics) | $383.73 |
 | [Drivetrain](#drivetrain) | $164.79 |
-| [Suspension](#suspension) | $183.67 |
+| [Suspension](#suspension) | $188.71 |
 | [Hubs](#hubs) | $109.87 |
 | [Steering](#steering) | ~$72.92 |
 | [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
 | [Aero & Body](#aero--body) | $34.47 |
 | [Wheels](#wheels) | $51.93 |
-| **Total** | **~$1,092** |
-| **Car only, without the battery and radio** | **~$858** |
+| **Total** | **~$1,097** |
+| **Car only, without the battery and radio** | **~$863** |
 
 Still open: a full sealed bearing kit (the hub bearings are already fitted and working), plus a price for the GPM servo link.
 
@@ -44,7 +44,7 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | **Traxxas 10k diff oil, TRA5135**<br><sub>Note: rear diff, run greased</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](differential_analysis.md#front--rear-diff-oil) |
 | **Jato 4x4 BL-2S center driveshaft, 7455**<br><sub>Note: take-off, with pinion and bearings</sub> | 1 | Jenny's RC | **$2.49 each** | [Driveshafts](driveshaft_analysis.md#center-driveshaft-comparison) |
 | **Steel CV driveshafts, front + rear, knock-off TRA6851R / TRA6852R**<br><sub>Note: order 8211906604054866</sub> | 1 | AliExpress, FengS Store | **$21.10 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
-| **Traxxas TRA6752 long output shafts**<br><sub>Note: the knock-off set's stock shafts are too short</sub> | 4 | Go Nitro Hobbies | **$8.00 each** | [Driveshafts](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
+| **Traxxas TRA6752 long output shafts**<br><sub>Note: the knock-off set's stock shafts are too short</sub> | 4 | Nitro Hobbies | **$8.00 each** | [Driveshafts](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
 | **Traxxas TRA6881 front gearbox housing** | 1 | Tammies Hobbies | **$4.00 each** | [Housings](gearbox_housing_analysis.md) |
 | **Traxxas TRA6880 rear gearbox housing** | 1 | Tammies Hobbies | **$4.00 each** | [Housings](gearbox_housing_analysis.md) |
 | **Tekno TKR1654-17 front stubs**<br><sub>Note: $15.00 + $4.99 shipping, order 18-13082-92531, May 2025</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
@@ -57,8 +57,8 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 |---|---|---|---|---|
 | **FLM26800 extended arms** | 2 | FLM | **$25.73 / pair** | [Arms](arm_analysis.md) |
 | **Hot Bodies D8 97mm big-bore shocks, HBS67296**<br><sub>Note: used, came with white 59gf front / grey 52gf rear springs and 1.4mm × 6 pistons, plus $8 shipping</sub> | 1 | eBay, guavahobby | **$65.99 / set of 4** | [Shocks](shock_analysis.md) |
-| **Traxxas 40wt shock oil, TRA5033**<br><sub>Note: front</sub> | 1 | Tammies Hobbies | **$6.95 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
-| **Associated Factory Team 47.5wt shock fluid, ASC5438**<br><sub>Note: rear</sub> | 1 | Tammies Hobbies | **$7.99 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| **Losi TLR74030 silicone shock oil, 37.5wt**<br><sub>Note: front, 468 cSt, 4 oz. Nitro Hobbies order #137456, Aug 31 2026</sub> | 1 | Nitro Hobbies | **$9.99 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| **Associated 5480 FT silicone shock fluid, 50wt**<br><sub>Note: rear, 650 cSt, 4 oz. Nitro Hobbies order #137456, Aug 31 2026</sub> | 1 | Nitro Hobbies | **$9.99 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Traxxas #9033 front shock tower, gray** | 1 | Tammies Hobbies | **$6.00 each** | [Towers](shock_tower_analysis.md) |
 | **MonsterKingz G-Maxx carbon fiber shock towers**<br><sub>Note: front + rear set, rear only used</sub> | 1 | eBay, MonsterKingz | **$33.29 / set** | [Towers](shock_tower_analysis.md) |
 | **HB Racing HBS67410 shock standoffs**<br><sub>Note: rear CF tower</sub> | 1 | AMain | **$3.99 / pair** | [Standoffs](shock_analysis.md#shock-standoffs--mounting) |

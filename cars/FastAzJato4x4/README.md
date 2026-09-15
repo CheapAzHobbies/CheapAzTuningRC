@@ -32,7 +32,7 @@
 | 🔌 **Power** | Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV |
 | 🔋 **Battery** | Gens Ace Redline 2.0 4S HV 6000mAh 140C shorty (410 g) |
 | ⚙️ **Gearing** | 16T pinion on a 54T spur, FDR 3.38 |
-| 🌀 **Shocks** | Hot Bodies D8 97mm big bore, 40wt front / 47.5wt rear |
+| 🌀 **Shocks** | Hot Bodies D8 97mm big bore, 37.5wt front / 50wt rear |
 | 🦾 **Arms** | FLM26800 metal extended, about 10mm wider per side |
 | 🎯 **Steering** | PTK 9752TG-D servo, GPM 6845X alloy bell crank, Integy purple C-hubs + GPM XO-1 front blocks, Raptor R rear carriers |
 | 🏁 **Body** | Traxxas Jato 3.3 red (5511A) with its own integrated wing |
@@ -76,7 +76,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 
 - **Official races are banned there as of Aug 2026.** Organised racing at the park got shut down, so what's left is informal running. The setup philosophy below doesn't change, the track and the way people drive it are the same, there's just no formal event to build for.
 - **When it does run, it's open class and no rules.** Everything is fair game in the same heat: buggies, truggies, and 1/5 and monster class like X-Maxx, XRT and the Teknos. Nobody is trying to wreck anybody, but **racing is rubbing**, and with that spread of sizes on one track **landing on someone, or getting landed on, is normal**. A 1/5 or an X-Maxx coming down on this truck is a different kind of load than a crash into dirt. It's most of why durability decides parts here ahead of outright performance.
-- **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 47.5wt rear / 40wt front (down from an earlier 45wt/60wt), the rear still the firmer of the two to control squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
+- **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 50wt rear / 37.5wt front (down from an earlier 45wt/60wt), the rear still the firmer of the two to control squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
 - **Wide track for stability.** FLM26800 extended arms stretch the track width about 10mm per side, which calms the car over rough ground and adds droop.
 - **Diffs tuned for a loose surface.** 30k front to calm torque steer, 10k greased rear for drive off the corner, 100k center (Traxxas TRA5130) to hold drive stability.
 - **Geared for punch, not top speed.** 16T pinion (FDR 3.38) on the 3665SD 2400KV keeps it punchy and cooler on a technical, rough track where you rarely hold full throttle.
@@ -96,7 +96,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Component | Part | Notes |
 |-----------|------|-------|
 | Shocks | **Hot Bodies D8 metal 97mm big bore** (HBS67296), front + rear | Used set, [`shock_analysis.md`](shock_analysis.md) |
-| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · **40wt F (Traxxas TRA5033) / 47.5wt R (Associated ASC5438)** | Springs and pistons came with the D8 set, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · **37.5wt F (Losi TLR74030) / 50wt R (Associated 5480 FT)** | Springs and pistons came with the D8 set, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | Arms | **FLM26800 metal extended**, front + rear | $25.73/pair, [`arm_analysis.md`](arm_analysis.md) |
 | Shock standoffs | HB Racing HBS67410, 1 pair (rear CF tower) | [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
 | Upper shock screws (front) | **Traxxas wheelie bar shoulder screws**, 2 | Pulled from a free TRA5472 Revo bar; rebuy as TRA4976 ($4 for 2), [`shock_tower_analysis.md`](shock_tower_analysis.md#front-shock-mounting-wheelie-bar-shoulder-screws) |
