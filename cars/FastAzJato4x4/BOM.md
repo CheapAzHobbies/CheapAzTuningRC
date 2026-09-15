@@ -12,12 +12,12 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | [Drivetrain](#drivetrain) | $164.79 |
 | [Suspension](#suspension) | $188.71 |
 | [Hubs](#hubs) | $109.87 |
-| [Steering](#steering) | ~$80.53 |
+| [Steering](#steering) | $79.53 |
 | [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
 | [Aero & Body](#aero--body) | $34.47 |
 | [Wheels](#wheels) | $51.93 |
-| **Total** | **~$1,104** |
-| **Car only, without the battery and radio** | **~$871** |
+| **Total** | **~$1,103** |
+| **Car only, without the battery and radio** | **~$870** |
 
 Still open: a full sealed bearing kit (the hub bearings are already fitted and working), 
 
@@ -80,7 +80,7 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | **GPM 6845X aluminum bell crank**<br><sub>Note: ships with brass bushings</sub> | 1 | GPM | **$19.98 each** | [Bell crank](steering_bell_crank_analysis.md) |
 | **GPM RUS416026ST-S servo link + 25T alloy horn**<br><sub>Note: servo horn to bell crank, 6pc set, 8.0 g</sub> | 1 | GPM | **$7.61 / set** | [Bell crank](steering_bell_crank_analysis.md) |
 | **ACER Racing titanium M4x60 turnbuckles** | 6 | ACER Racing | **$5.99 each** | [Tie rods](tie_rod_analysis.md) |
-| **RPM 80511 long rod ends, white** | 1 | RPM | **~$7-9 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
+| **RPM 80511 long rod ends, white**<br><sub>Note: white has been discontinued since about 2022, but nobody buys white so it's usually cheaper than the black or blue</sub> | 1 | Tammies Hobbies | **$7.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
 | **Traxxas TRA5525 rod ends**<br><sub>Note: for the hollow balls</sub> | 1 | Traxxas | **$9.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
 
 ## Chassis & Bumpers
