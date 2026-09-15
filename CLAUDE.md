@@ -71,6 +71,7 @@ If a new generic-part category comes up (connectors, wire, bearings, etc.) and a
 
 - A car's BOM covers what that car **uses**, not everything owned. **Qty is the count on the car**, never "2 owned", "of 3 bought" or "4 spare".
 - **Write Qty in the unit it's sold in**, so nobody buys 4 of a 4-pack: `1 set of 4`, `1 pair`, `1 pack of 12`. A bare number (`4`, `6`) only when the part is sold individually (e.g. 4 × TRA6752 at $8 each). Put the same basis on the price (`$21.10 / set of 4`).
+- **Every price says what it covers**: `each`, `/ pair`, `/ set of 4`, `/ pack of 12`, `/ bottle`. Prices are what was paid, so never write "(paid)".
 - Add a short note only when it matters, e.g. a part only sold as a set (`1 (rear)`, priced per set).
 - Keep leftover units and superseded parts out of the Qty and part cells; they belong in the Spares section if anywhere.
 - **No Status column.** The BOM is the car's final build list, so every row is assumed in use; columns are `Part | Qty | Source | Price | Decided by`.
