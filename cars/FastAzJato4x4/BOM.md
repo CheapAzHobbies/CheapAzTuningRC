@@ -42,12 +42,9 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | **FLM26800 extended arms**, **front + rear** | 2 pairs | FLM | **$25.73/pair** ($40 list) | [`arm_analysis.md`](arm_analysis.md#price-history) |
 | **MonsterKingz (G-Maxx) carbon fiber rear shock tower** (sold only as a front + rear set), for the big bores + 67410 standoffs | 1 (rear) | eBay, MonsterKingz | **$33.29 / set** (set only) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | **Traxxas Jato 4x4 stock front shock tower #9033** (gray) | 1 | Tammies Hobby | **$6.00** | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
-| **Hot Bodies D8 metal 97mm big-bore shocks (HBS67296)**, used set of 4 | 4 | eBay, guavahobby | **$65.99** (sunk) + $8 ship | [`shock_analysis.md`](shock_analysis.md) |
+| **Hot Bodies D8 metal 97mm big-bore shocks (HBS67296)**, used set of 4, came with **white 59gf front springs** (HB67454, 76mm), **grey 52gf rear springs** (HB67453, 76mm) and **1.4mm × 6 hole pistons** | 4 | eBay, guavahobby | **$65.99** (sunk) + $8 ship | [`shock_analysis.md`](shock_analysis.md) |
 | **HB Racing Shock Standoff (HBS67410 = HPI Vorza Flux 67410)**, for the rear CF tower only | 1 pair | AMain | **$3.99/pair** | [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
 | **Traxxas wheelie bar shoulder screws**, front upper shock mounts (long smooth shoulder + long thread, sits the shock eye centred in the #9033 tower) | 2 | Free wheelie bar | **$0** (to rebuy: TRA4976 wheels + axles, $4 for 2) | [`shock_tower_analysis.md`](shock_tower_analysis.md#front-shock-mounting-wheelie-bar-shoulder-screws) |
-| **White 59gf springs (HB67454, 76mm)**, front | 1 pair | — | **$0** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
-| **Grey 52gf springs (HB67453, 76mm)**, rear | 1 pair | — | **$0** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
-| **1.4mm × 6 hole shock pistons** | 4 | — | **$0** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Traxxas 40wt shock oil (TRA5033)**, 500 cSt, 60cc silicone, front — ✅ retested, runs better than 45wt | 1 | **Tammies Hobbies** | **$6.95** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Associated Factory Team 47.5wt shock fluid (ASC5438)**, 613 cSt, rear | 1 | **Tammies Hobbies** | **$7.99** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Traxxas Raptor R Ultimate alloy rear carriers (9065)**, (sold with the front pieces as the Raptor R set) | 1 pair (rear) | eBay, toysion | **$68.73** (paid, full set) | [`hub_carrier_analysis.md`](hub_carrier_analysis.md#price-history) |
