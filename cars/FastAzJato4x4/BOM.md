@@ -37,42 +37,42 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Steel front + rear diffs, knock-off Slash 4x4**<br><sub>Note: 5mm outdrives, come with the I-bar</sub> | 1 2-pack | AliExpress, RS RC Store | **$15.26 / 2-pack** | [Diffs](differential_analysis.md#front--rear-diff-comparison) |
+| **Steel front + rear diffs, knock-off Slash 4x4**<br><sub>Note: 5mm outdrives, come with the I-bar</sub> | 1 | AliExpress, RS RC Store | **$15.26 / 2-pack** | [Diffs](differential_analysis.md#front--rear-diff-comparison) |
 | **Metal center diff, Traxxas 6780-style**<br><sub>Note: integrated steel 54T spur, running a 16T pinion, order 8213147729824866</sub> | 1 | AliExpress, E-star RC Car Store | **$19.06 each** | [Center diff](differential_analysis.md#center-diff) |
 | **Traxxas 100k diff oil, TRA5130**<br><sub>Note: center diff</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](differential_analysis.md#center-diff-oil) |
 | **Front + rear diff oil**<br><sub>Note: ~7k front, 5k rear</sub> | 2 | — | **🚧 TBD** | [Diff oil](differential_analysis.md#front--rear-diff-oil) |
 | **Jato 4x4 BL-2S center driveshaft, 7455**<br><sub>Note: take-off, with pinion and bearings</sub> | 1 | Jenny's RC | **$2.49 each** | [Driveshafts](driveshaft_analysis.md#center-driveshaft-comparison) |
-| **Steel CV driveshafts, front + rear, knock-off TRA6851R / TRA6852R**<br><sub>Note: order 8211906604054866</sub> | 1 set of 4 | AliExpress, FengS Store | **$21.10 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
+| **Steel CV driveshafts, front + rear, knock-off TRA6851R / TRA6852R**<br><sub>Note: order 8211906604054866</sub> | 1 | AliExpress, FengS Store | **$21.10 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA6752 long output shafts**<br><sub>Note: the knock-off set's stock shafts are too short</sub> | 4 | Go Nitro Hobbies | **$8.00 each** | [Driveshafts](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
 | **Traxxas TRA6881 front gearbox housing** | 1 | Tammies Hobbies | **$4.00 each** | [Housings](gearbox_housing_analysis.md) |
 | **Traxxas TRA6880 rear gearbox housing** | 1 | Tammies Hobbies | **$4.00 each** | [Housings](gearbox_housing_analysis.md) |
-| **Tekno TKR1654-17 front stubs** | 1 pair | eBay, mr-retro | **$23.15 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| **Tekno 5580 rear stubs** | 1 pair | eBay, mr-retro | **$34.81 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| **Tekno TKR1654-17 front stubs** | 1 | eBay, mr-retro | **$23.15 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| **Tekno 5580 rear stubs** | 1 | eBay, mr-retro | **$34.81 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **B'LASTER white lithium grease**<br><sub>Note: 11 oz spray, on the CVDs and gears, not inside the diffs</sub> | 1 | Harbor Freight, SKU 56817 | **$6.99 / can** | [Grease](driveshaft_analysis.md#grease-cvds--gears) |
 
 ## Suspension
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **FLM26800 extended arms** | 2 pairs | FLM | **$25.73 / pair** | [Arms](arm_analysis.md) |
-| **Traxxas TRA6732 front arm guards** | 1 pair | — | **$9.95 / pair** | [Arm guards](arm_analysis.md#shock-guards) |
-| **Traxxas TRA6733 rear arm guards** | 1 pair | — | **$7.00 / pair** | [Arm guards](arm_analysis.md#shock-guards) |
-| **Hot Bodies D8 97mm big-bore shocks, HBS67296**<br><sub>Note: used, came with white 59gf front / grey 52gf rear springs and 1.4mm × 6 pistons, plus $8 shipping</sub> | 1 set of 4 | eBay, guavahobby | **$65.99 / set of 4** | [Shocks](shock_analysis.md) |
+| **FLM26800 extended arms** | 2 | FLM | **$25.73 / pair** | [Arms](arm_analysis.md) |
+| **Traxxas TRA6732 front arm guards** | 1 | — | **$9.95 / pair** | [Arm guards](arm_analysis.md#shock-guards) |
+| **Traxxas TRA6733 rear arm guards** | 1 | — | **$7.00 / pair** | [Arm guards](arm_analysis.md#shock-guards) |
+| **Hot Bodies D8 97mm big-bore shocks, HBS67296**<br><sub>Note: used, came with white 59gf front / grey 52gf rear springs and 1.4mm × 6 pistons, plus $8 shipping</sub> | 1 | eBay, guavahobby | **$65.99 / set of 4** | [Shocks](shock_analysis.md) |
 | **Traxxas 40wt shock oil, TRA5033**<br><sub>Note: front</sub> | 1 | Tammies Hobbies | **$6.95 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Associated Factory Team 47.5wt shock fluid, ASC5438**<br><sub>Note: rear</sub> | 1 | Tammies Hobbies | **$7.99 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Traxxas #9033 front shock tower, gray** | 1 | Tammies Hobbies | **$6.00 each** | [Towers](shock_tower_analysis.md) |
-| **MonsterKingz G-Maxx carbon fiber shock towers**<br><sub>Note: front + rear set, rear only used</sub> | 1 set | eBay, MonsterKingz | **$33.29 / set** | [Towers](shock_tower_analysis.md) |
-| **HB Racing HBS67410 shock standoffs**<br><sub>Note: rear CF tower</sub> | 1 pair | AMain | **$3.99 / pair** | [Standoffs](shock_analysis.md#shock-standoffs--mounting) |
-| **Traxxas wheelie bar shoulder screws**<br><sub>Note: front upper shock mounts, pulled from a free wheelie bar. Rebuy as TRA4976 wheels + axles, $4 / set of 2</sub> | 1 set of 2 | Free wheelie bar | **$0** | [Shoulder screws](shock_tower_analysis.md#front-shock-mounting-wheelie-bar-shoulder-screws) |
+| **MonsterKingz G-Maxx carbon fiber shock towers**<br><sub>Note: front + rear set, rear only used</sub> | 1 | eBay, MonsterKingz | **$33.29 / set** | [Towers](shock_tower_analysis.md) |
+| **HB Racing HBS67410 shock standoffs**<br><sub>Note: rear CF tower</sub> | 1 | AMain | **$3.99 / pair** | [Standoffs](shock_analysis.md#shock-standoffs--mounting) |
+| **Traxxas wheelie bar shoulder screws**<br><sub>Note: front upper shock mounts, pulled from a free wheelie bar. Rebuy as TRA4976 wheels + axles, $4 / set of 2</sub> | 1 | Free wheelie bar | **$0** | [Shoulder screws](shock_tower_analysis.md#front-shock-mounting-wheelie-bar-shoulder-screws) |
 
 ## Hubs
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Integy C26402PURPLE billet C-hubs** | 1 pair | eBay, jontobitt1118 | **$13.62 / pair** | [Hubs](hub_analysis.md) |
-| **GPM XO-1 alloy steering blocks** | 1 pair | GPM | **$19.16 / pair** | [Hubs](hub_analysis.md) |
-| **Traxxas Raptor R Ultimate alloy hub set**<br><sub>Note: front + rear set, rear carriers (9065) only used</sub> | 1 set | eBay, toysion | **$68.73 / set** | [Hubs](hub_analysis.md#price-history) |
-| **Aftermarket 17mm splined wheel hubs, E-Revo 1.0 fit**<br><sub>Note: black, 2-3mm wider per corner, no barrel nut needed on Tekno stubs</sub> | 1 set of 4 | AliExpress | **$8.36 / set of 4** | [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes) |
+| **Integy C26402PURPLE billet C-hubs** | 1 | eBay, jontobitt1118 | **$13.62 / pair** | [Hubs](hub_analysis.md) |
+| **GPM XO-1 alloy steering blocks** | 1 | GPM | **$19.16 / pair** | [Hubs](hub_analysis.md) |
+| **Traxxas Raptor R Ultimate alloy hub set**<br><sub>Note: front + rear set, rear carriers (9065) only used</sub> | 1 | eBay, toysion | **$68.73 / set** | [Hubs](hub_analysis.md#price-history) |
+| **Aftermarket 17mm splined wheel hubs, E-Revo 1.0 fit**<br><sub>Note: black, 2-3mm wider per corner, no barrel nut needed on Tekno stubs</sub> | 1 | AliExpress | **$8.36 / set of 4** | [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes) |
 
 ## Steering
 
@@ -81,8 +81,8 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | **GPM 6845X aluminum bell crank**<br><sub>Note: ships with brass bushings</sub> | 1 | GPM | **$19.98 each** | [Bell crank](steering_bell_crank_analysis.md) |
 | **GPM RUS416026ST-S servo link + 25T alloy horn**<br><sub>Note: servo horn to bell crank, 8.0 g</sub> | 1 | GPM | **🚧 TBD** | [Bell crank](steering_bell_crank_analysis.md) |
 | **ACER Racing titanium M4x60 turnbuckles** | 6 | ACER Racing | **$5.99 each** | [Tie rods](tie_rod_analysis.md) |
-| **RPM 80511 long rod ends, white** | 1 pack of 12 | RPM | **~$7-9 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
-| **Traxxas TRA5525 rod ends**<br><sub>Note: for the hollow balls</sub> | 1 pack of 12 | Traxxas | **$9.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
+| **RPM 80511 long rod ends, white** | 1 | RPM | **~$7-9 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
+| **Traxxas TRA5525 rod ends**<br><sub>Note: for the hollow balls</sub> | 1 | Traxxas | **$9.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
 
 ## Chassis & Bumpers
 
@@ -91,7 +91,7 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | **Carbon fiber chassis kit, Slash 4x4 VXL pattern**<br><sub>Note: TRA6808 pattern</sub> | 1 | AliExpress, RCTOYFUN | **$73.17 / kit** | [Chassis](chassis_analysis.md) |
 | **Front + rear bulkhead tie bars**<br><sub>Note: DIY from scrap aluminum instead of Traxxas 6823, front filed to clear the arm</sub> | 2 | DIY | **$0** | [Chassis](chassis_analysis.md#notes) |
 | **RPM 81042 wide front bumper, black**<br><sub>Note: from Mike</sub> | 1 | Mike | **$9.95 each** | [Bumpers](bumper_analysis.md) |
-| **Traxxas TRA9044 skid plates**<br><sub>Note: front + rear set, rear only used</sub> | 1 set | Tammies Hobbies | **$7.00 / set** | [Bumpers](bumper_analysis.md) |
+| **Traxxas TRA9044 skid plates**<br><sub>Note: front + rear set, rear only used</sub> | 1 | Tammies Hobbies | **$7.00 / set** | [Bumpers](bumper_analysis.md) |
 
 ## Aero & Body
 
@@ -103,6 +103,6 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **IMEX IMX7893 1/8 Rally chrome rims**<br><sub>Note: list price, glued rally slicks removed</sub> | 2 pairs | IMEX Model Company | **$19.99 / pair** | [Rims](wheel_analysis.md#rims-bare-wheels) |
-| **Kforce 26013 1/8 buggy tires, Mitsubishi-logo tread**<br><sub>Note: 110 × 43mm, natural rubber 35°</sub> | 1 set of 4 | AliExpress | **$3.87 / set of 4** | [Tires](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
-| **Closed-cell foam inserts, blue** | 1 set of 4 | AliExpress | **$8.08 / set of 4** | [Foams](wheel_analysis.md#foam-inserts) |
+| **IMEX IMX7893 1/8 Rally chrome rims**<br><sub>Note: list price, glued rally slicks removed</sub> | 2 | IMEX Model Company | **$19.99 / pair** | [Rims](wheel_analysis.md#rims-bare-wheels) |
+| **Kforce 26013 1/8 buggy tires, Mitsubishi-logo tread**<br><sub>Note: 110 × 43mm, natural rubber 35°</sub> | 1 | AliExpress | **$3.87 / set of 4** | [Tires](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
+| **Closed-cell foam inserts, blue** | 1 | AliExpress | **$8.08 / set of 4** | [Foams](wheel_analysis.md#foam-inserts) |

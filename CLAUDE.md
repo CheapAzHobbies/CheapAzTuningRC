@@ -70,7 +70,7 @@ If a new generic-part category comes up (connectors, wire, bearings, etc.) and a
 ## Car BOMs (`cars/<CarName>/BOM.md`)
 
 - A car's BOM covers what that car **uses**, not everything owned. **Qty is the count on the car**, never "2 owned", "of 3 bought" or "4 spare".
-- **Write Qty in the unit it's sold in**, so nobody buys 4 of a 4-pack: `1 set of 4`, `1 pair`, `1 pack of 12`. A bare number (`4`, `6`) only when the part is sold individually (e.g. 4 × TRA6752 at $8 each). Put the same basis on the price (`$21.10 / set of 4`).
+- **Qty is just a number**: how many of that product you bought. One set of four wheels is `1`, not `1 set of 4`. The pack size lives on the price (`$21.10 / set of 4`), so nobody buys four 4-packs.
 - **Every price says what it covers**: `each`, `/ pair`, `/ set of 4`, `/ pack of 12`, `/ bottle`. Prices are what was paid, so never write "(paid)".
 - **The price cell holds only the price and its basis** (`**$33.29 / set**`). List prices, coupons, shipping and partial use go in a small note under the part name: `<br><sub>Note: front + rear set, rear only used</sub>`.
 - **Qty is how much of the product you bought** (`1 set`, `1 set of 4`, `1 pair`). If only part of it is used, say so in a small note under the part name, not in Qty or Price.
