@@ -4,6 +4,11 @@
 >
 > **Build Status: Built and running.** Battery cycle counts and full-car photos below confirm it's assembled and out at Meldrum, not just a parts list anymore.
 
+<p align="center">
+  <img src="src/overview_fastazjato_dirt_tires.jpg" width="600"><br>
+  <em>The Super Jato — currently running the dirt-tire setup</em>
+</p>
+
 ---
 
 ## Table of Contents
@@ -29,13 +34,8 @@
 **Base Car:** Traxxas Jato 4x4 (heavily modified, custom carbon fiber chassis build) — red Traxxas Jato 3.3 body (5511A). Nicknamed the **"Super Jato."**
 
 <p align="center">
-  <img src="src/overview_fastazjato_full_hero.jpg" width="600"><br>
-  <em>The Super Jato, full build</em>
-</p>
-
-<p align="center">
-  <img src="src/overview_fastazjato_front_detail.jpg" width="320">&nbsp;<img src="src/overview_fastazjato_rear_drivetrain.jpg" width="320">&nbsp;<img src="src/overview_fastazjato_dirt_tires.jpg" width="320"><br>
-  <em>Front bumper &amp; steering · rear shocks &amp; CVDs · dirt-tire setup</em>
+  <img src="src/overview_fastazjato_full_hero.jpg" width="320">&nbsp;<img src="src/overview_fastazjato_front_detail.jpg" width="320">&nbsp;<img src="src/overview_fastazjato_rear_drivetrain.jpg" width="320"><br>
+  <em>Street/slick tire setup (previous) · front bumper &amp; steering · rear shocks &amp; CVDs</em>
 </p>
 
 ---
