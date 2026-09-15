@@ -77,7 +77,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 |---|---|---|---|---|---|
 | **Rear wing** — the **Jato 3.3 body's own integrated wing** (no separate buggy wing or mount) | — | ✅ on the body | — | **$0** | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 | **Triangle 26013 tires** (generic 1/8 buggy, Fiona Hobby), tires only, mounted on the IMEX rims | 1 set of 4 | ✅ **In Hand** (mounted) | AliExpress | **$3.87 / set of 4** (paid, shipped) | [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
-| **IMEX IMX7893 1/8 Rally Tire Set, Chrome** (chrome swirl rims; the glued rally slicks are off) | 🚧 TBD (sold per pair) | ✅ **In Hand** (rims running) | IMEX Model Company | **🚧 TBD** (not in the total until logged) | [`wheel_analysis.md`](wheel_analysis.md#rims-bare-wheels) |
+| **IMEX IMX7893 1/8 Rally Tire Set, Chrome** (chrome swirl rims; the glued rally slicks are off) | 2 pairs on the car | ✅ **In Hand** (rims running) | IMEX Model Company | **$19.99 / pair** list (~$39.98 for 2 pairs) | [`wheel_analysis.md`](wheel_analysis.md#rims-bare-wheels) |
 | **Closed-cell foam inserts (4pc)** — the good reusable ones, keeps it planted / less rim slap | 1 set of 4 | ✅ **In Hand** | AliExpress | **$8.08** | [`wheel_analysis.md`](wheel_analysis.md#foam-inserts) |
 
 ---
@@ -86,10 +86,10 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 
 | Bucket | Sub-total |
 |---|---|
-| **On the build, in hand / purchased** (money already spent, "sunk") — MAX10 G2 + 3665SD combo, servo, AliExpress steel diffs (front + rear), AliExpress metal center diff, center driveshaft (7455), knock-off CV axle set, TRA6752 (4 used = $32), front + rear gearbox housings, Tekno front stub (1 pair) + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods (6 used = $36), RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body (integrated wing, no separate wing/mount), triangle 26013 tires ($3.87), closed-cell foam inserts ($8.08); IMEX rims price TBD | **~$756** |
+| **On the build, in hand / purchased** (money already spent, "sunk") — MAX10 G2 + 3665SD combo, servo, AliExpress steel diffs (front + rear), AliExpress metal center diff, center driveshaft (7455), knock-off CV axle set, TRA6752 (4 used = $32), front + rear gearbox housings, Tekno front stub (1 pair) + 5580 stubs, FLM arms (2 pairs), MonsterKingz CF towers, D8 shock set (springs + pistons incl.), HBS67410 standoffs, shock oil, Raptor R hubs, GPM bell crank, ACER titanium rods (6 used = $36), RPM rod ends + hollow balls, CF chassis, DIY chassis bars ($0), bumper set, Jato 3.3 body (integrated wing, no separate wing/mount), triangle 26013 tires ($3.87), closed-cell foam inserts ($8.08), IMEX IMX7893 rims (2 pairs, ~$39.98 at list) | **~$796** |
 | **On the build, to buy** — TKR5570-17 rear kit (~$26 for the rear hexes) | **~$26** |
 | **Still open (no cost yet)** — bearing kit (the 10×15×4 hub bearings ×4 in their 18→15mm sleeves are already fitted and working; pinions 16/17/18T came with the center diff) | TBD |
-| **Build total (locked items)** | **~$782** |
+| **Build total (locked items)** | **~$822** |
 
 > **How this totals:** the build counts only the **portion of each part actually on the car**, not the whole pack, all 4 TRA6752 ($32), 6 of the 10 ACER rods ($36), 1 of the 3 Tekno front-stub pairs ($23). The leftover units are sunk but sit in [Spares](#spares--not-used-owned-not-on-this-build), out of this total. **Exception:** pack-only items you can't split, like the **RPM rod ends** (12-pack), count the full pack since that's the real minimum spend.
 
