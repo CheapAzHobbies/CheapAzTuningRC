@@ -54,6 +54,7 @@
 - 🛡️ [Bumpers](#bumpers)
 - 📚 [Deep Dives](#deep-dives)
 - 🧾 [Parts List](#parts-list)
+- 💸 [Building It Cheaper](#building-it-cheaper)
 - 🖨️ [3D Models](#3d-models)
 - ✅ [TODO / Notes](#todo--notes)
 
