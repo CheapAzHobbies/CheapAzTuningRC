@@ -9,7 +9,7 @@
   <img alt="Status" src="https://img.shields.io/badge/status-built%20%26%20running-2ea44f?style=for-the-badge">
   <img alt="Power" src="https://img.shields.io/badge/power-4S%20LiPo-d7263d?style=for-the-badge">
   <img alt="Weight" src="https://img.shields.io/badge/weight-2.868%20kg-444?style=for-the-badge">
-  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24866-444?style=for-the-badge">
+  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24860-444?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
 | 🔧 **Wheel cost** | ~$52 up front (rims + tires + foams), ~$4 per tire change after that |
 | ⚖️ **Weight** | 2.868 kg all up |
-| 💰 **Build cost** | ~$866 in locked parts, see [`BOM.md`](BOM.md) |
+| 💰 **Build cost** | ~$860 for the car, ~$1,094 with the battery and radio, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
 ## Table of Contents
@@ -213,7 +213,7 @@ Every part choice above was decided in its own analysis doc.
 
 ## Parts List
 
-Only parts that are **on the car**. Spares, fallbacks and parts that didn't make the build live in [`BOM.md`](BOM.md#spares--not-used-owned-not-on-this-build).
+Only parts that are **on the car**. Costs and subtotals are in [`BOM.md`](BOM.md).
 
 | Part # | Description | Category | Cost | Source | Photo |
 |--------|-------------|----------|------|--------|-------|
