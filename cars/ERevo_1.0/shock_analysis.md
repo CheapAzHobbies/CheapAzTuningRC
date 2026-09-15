@@ -126,7 +126,7 @@ I run at the top of the oil range on purpose: **heavier oil is significantly mor
 | 42.5 | 538 | — | — | ~540 |
 | 45 | 575 | 610 | **+35** | ~600 |
 | **47.5** | **613** | — | — | ~600 · **Jato rear (running, Associated ASC5438)** |
-| 50 | 640 | 710 | +70 | ~650-700 |
+| 50 | 640 | 710 | +70 | ~650-700 · Mike's Jato rear (running now, moving to 47.5) |
 | 55 | 725 | 760 | +35 | ~750 |
 | 60 | 800 | 810 | +10 | 800 |
 | 70 | 900 | 910 | +10 | 900 |
