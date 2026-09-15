@@ -122,7 +122,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Center driveshaft | Jato 4x4 BL-2S take-off shaft (7455) | $2.49, [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | Axle CVDs | Knock-off Slash 4x4 HD steel CV driveshafts, front + rear (TRA6851R / TRA6852R clones, 5mm) + **4× TRA6752 long output shafts** | [`driveshaft_analysis.md`](driveshaft_analysis.md) |
 | Stubs | Tekno M6: front **TKR1654-17**, rear **5580** (bought bare) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| 17mm hubs | **AliExpress E-Revo 1.0 splined hubs**, black, all four corners | $8.36, 2-3mm wider per corner, [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hubs-hexes) |
+| 17mm hubs | **AliExpress aftermarket 17mm splined hubs (E-Revo 1.0 fit)**, black, all four corners | $8.36, 2-3mm wider per corner, [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hubs-hexes) |
 | Gearbox housings | Traxxas TRA6881 front / TRA6880 rear | $4 each, [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | Bearings | Hub bearings fitted; full sealed kit still open | [`bearings_reference.md`](bearings_reference.md) |
 
@@ -232,7 +232,7 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 | TRA6881 / TRA6880 | Traxxas front / rear gearbox housings | Drivetrain | $4.00 each | Tammies Hobby | <img src="src/drivetrain_traxxas_diff_housing_front_tra6881.jpg" width="120"> |
 | TKR1654-17 | Tekno 17mm M6 front stub / hub adapter | Drivetrain | $23.15 / pair | eBay, mr-retro | <img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="120"> |
 | 5580 | Tekno rear stubs, bought bare | Drivetrain | $34.81 | eBay, mr-retro | <img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="120"> |
-| Generic | AliExpress E-Revo 1.0 17mm splined wheel hubs, black (4, with nuts + pins) | Drivetrain | $8.36 | AliExpress | <img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" width="120"> |
+| Generic | AliExpress aftermarket 17mm splined wheel hubs (E-Revo 1.0 fit), black (4, with nuts + pins) | Drivetrain | $8.36 | AliExpress | <img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" width="120"> |
 | FLM26800 | FLM metal extended arms, front + rear (2 pairs) | Suspension | $25.73 / pair | FLM | <img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="120"> |
 | Generic | MonsterKingz (G-Maxx) carbon fiber rear shock tower (sold as a front + rear set) | Suspension | $33.29 / set | eBay, MonsterKingz | <img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="120"> |
 | 9033 | Traxxas Jato 4x4 stock front shock tower (gray) | Suspension | $6.00 | Tammies Hobby | <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="120"> |
@@ -269,7 +269,7 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 
 ## TODO / Notes
 
-- [x] Rear Tekno 5580 stubs + E-Revo 17mm hubs
+- [x] Rear Tekno 5580 stubs + aftermarket 17mm hubs
 - [ ] Pick a full sealed bearing kit (the hub bearings are already fitted and working)
 - [x] Motor locked in: Hobbywing 3665SD G3 2400KV
 - [x] Full-car build photos

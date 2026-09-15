@@ -1,7 +1,7 @@
 # Driveshaft Selection — FastAzJato4x4
 
 > **Chosen: Tekno M6 stub axle build, matched to the stock 5mm diffs.**
-> - **Stubs: Tekno M6 17mm front (TKR1654-17) + bare Tekno 5580 rear stubs**, **✅ confirmed a perfect fit** in the rear hubs. The wheels mount on **AliExpress E-Revo 1.0 17mm hubs** at all four corners, see [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes).
+> - **Stubs: Tekno M6 17mm front (TKR1654-17) + bare Tekno 5580 rear stubs**, **✅ confirmed a perfect fit** in the rear hubs. The wheels mount on **AliExpress aftermarket 17mm hubs (E-Revo 1.0 fit)** at all four corners, see [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes).
 > - **Driveshafts:** the full 4-set of cheap **AliExpress CVDs**, complete front + rear driveshafts (TRA6851R front + TRA6852R rear clones, 5mm diff end), with genuine **TRA6752 long output shafts at all four ends (4×)**. The set's own stock-length TRA6750 shafts came up **too short to work at either end**, so all four get replaced. **Sell the OG stubs and all 4 short shafts** to offset cost. See [2WD long CVDs](#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 > - **Center driveshaft: Jato 4x4 BL-2S take-off shaft (7455), $2.49, bought instead of the TRA6855.** Native Jato fitment, bundle includes a pinion + bearings.
 >

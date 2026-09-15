@@ -24,7 +24,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Tie rods + camber links**, ACER titanium M4×60 turnbuckles (all 6 links, purchased) + RPM white long rod ends (running the cheap ones), `tie_rod_analysis.md`
 - [x] **Steering bell crank**, GPM aluminum 6845X, in hand, `steering_bell_crank_analysis.md`
 - [x] **Servos**, PTK 9752TG-D metal high-speed, in hand (8-pack bulk), `servo_analysis.md`
-- [x] **17mm hubs**, AliExpress E-Revo 1.0 splined hubs (black) on Tekno M6 stubs (front TKR1654-17, rear 5580), `hub_analysis.md`
+- [x] **17mm hubs**, AliExpress aftermarket 17mm splined hubs (E-Revo 1.0 fit) (black) on Tekno M6 stubs (front TKR1654-17, rear 5580), `hub_analysis.md`
 - [x] **Wheels / tires** — **IMEX IMX7893 chrome rims + Mitsubishi-tread 26013 tires + blue closed-cell foams** mounted (17mm hex), `wheel_analysis.md`
 - [x] **Battery** — 4S 5000-5400mAh (~5200 sweet spot; 6000 too heavy, 4200 too short), from the shared fleet, `battery_analysis.md`
 - [x] **Radio / receiver** — FlySky Noble NB4 + FGr4S V2 RX, in hand, `radio_analysis.md`
