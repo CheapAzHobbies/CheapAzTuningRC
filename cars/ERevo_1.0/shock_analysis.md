@@ -201,7 +201,7 @@ Sources: [Associated FT shock fluid listings](https://www.associatedelectrics.co
 
 Files in [`3d-models/shock_mounts/`](3d-models/shock_mounts/):
 - `Front_Shock_Mount.stl` / `Rear_Shock_Mount.stl` — print-ready
-  - Front STL revised 2026-09-15: adds a 5 mm OD × 3 mm boss (about 2.7 mm bore) under each shock post, same 52 × 21 mm footprint. The front STEP and the 3D render below are still the previous version.
+  - Front STL revised 2026-09-15: adds a 5 mm OD × 3 mm boss (about 2.7 mm bore) under each shock post, same 52 × 21 mm footprint. The front STEP was re-exported to match the same day. The 3D render below still shows the previous version.
 - `EREVO_Front_Shock_Mount_Upgrade.step` / `EREVO_Rear_Shock_Mount_Upgrade.step` — editable CAD
 
 <p align="center">
