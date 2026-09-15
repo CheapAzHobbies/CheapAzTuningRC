@@ -51,8 +51,15 @@
 
 | Component | Part | Weight (pair) |
 |-----------|------|---------------|
-| Front C-Hub / Caster Block (aluminum) | **LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S** (black) | **25.5 g** bare · 36.4 g w/ hardware kit |
-| Front Steering Block / Knuckle (aluminum) | **LIGHT HOUSE Aluminum Front Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S** (black) | **22.4 g** bare · 34.9 g w/ hardware kit |
+| Front C-Hub / Caster Block | **Stock plastic EHD**, running now | N/A |
+| Front Steering Block / Knuckle | **MonsterKingz alloy**, running now | N/A |
+| Rear Hub Carriers | **Stock plastic EHD**, running now. **Plan: swap to a shaved-down MonsterKingz rear hub** for the slim Raptor R look at a lower price | N/A |
+| ~~LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm~~ (black) | **Broke**, retired | 25.5 g bare · 36.4 g w/ hardware |
+| ~~LIGHT HOUSE Aluminum Front Hub/Knuckle Arm~~ (black) | **Broke**, retired | 22.4 g bare · 34.9 g w/ hardware |
+
+> **Why the change:** the Lighthouse front C-hub and carrier broke, so Mike moved onto a **MonsterKingz metal set (front + rear) bought on discount**. He runs the alloy steering block with the **stock plastic C-hub** up front for now, and the plan is to **shave the MonsterKingz rear hub down** so it looks like a Raptor R alloy hub for less money. 🚧 Price TBD, and it isn't recorded whether this is the demoted set he bought from the FastAzJato4x4 for $50 on 2026-09-07, see [`LEDGER.md`](../../LEDGER.md).
+
+> The MonsterKingz alloy also **widens the track 1-2mm per side**, see [`FastAzJato4x4/hub_analysis.md`](../FastAzJato4x4/hub_analysis.md).
 
 ### Weighed-in photos
 

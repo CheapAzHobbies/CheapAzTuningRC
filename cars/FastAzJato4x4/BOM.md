@@ -8,18 +8,18 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 
 | Section | Subtotal |
 |---|---|
-| [Electronics](#electronics) | $379.82 |
+| [Electronics](#electronics) | $382.82 |
 | [Drivetrain](#drivetrain) | $170.86 |
-| [Suspension](#suspension) | $183.67 |
+| [Suspension](#suspension) | $200.62 |
 | [Hubs](#hubs) | $109.87 |
 | [Steering](#steering) | ~$72.92 |
 | [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
 | [Aero & Body](#aero--body) | $34.47 |
 | [Wheels](#wheels) | $51.93 |
-| **Total** | **~$1,094** |
-| **Car only, without the battery and radio** | **~$860** |
+| **Total** | **~$1,114** |
+| **Car only, without the battery and radio** | **~$880** |
 
-Still open: a full sealed bearing kit. The hub bearings are already fitted and working.
+Still open: a full sealed bearing kit (the hub bearings are already fitted and working), plus prices for the front/rear diff oil and the GPM servo link.
 
 ---
 
@@ -31,6 +31,7 @@ Still open: a full sealed bearing kit. The hub bearings are already fitted and w
 | **PTK 9752TG-D servo** | 1 | AliExpress, PTK Servo Store | **$19.65 each** | [Servo](servo_analysis.md) |
 | **Gens Ace Redline 2.0 4S HV 6000mAh 140C shorty**<br><sub>Note: GEA60004S14S, 410 g</sub> | 1 | eBay, mugrc-store | **$92.26 each** | [Battery](battery_analysis.md) |
 | **FlySky Noble NB4 radio**<br><sub>Note: running the FGr4S V2 receiver</sub> | 1 | AliExpress, Hi-Goeswell | **$140.91 each** | [Radio](radio_analysis.md) |
+| **Receiver box**<br><sub>Note: knock-off clear blue Slash 4x4 LCG battery box, used for the RX</sub> | 1 | AliExpress | **~$3.00 / pair** | [RX box](radio_analysis.md#rx-box-and-how-its-mounted) |
 
 ## Drivetrain
 
@@ -39,6 +40,7 @@ Still open: a full sealed bearing kit. The hub bearings are already fitted and w
 | **Steel front + rear diffs, knock-off Slash 4x4**<br><sub>Note: 5mm outdrives, come with the I-bar</sub> | 1 2-pack | AliExpress, RS RC Store | **$15.26 / 2-pack** | [Diffs](differential_analysis.md#front--rear-diff-comparison) |
 | **Metal center diff, Traxxas 6780-style**<br><sub>Note: integrated steel 54T spur, running a 16T pinion, order 8213147729824866</sub> | 1 | AliExpress, E-star RC Car Store | **$19.06 each** | [Center diff](differential_analysis.md#center-diff) |
 | **Traxxas 100k diff oil, TRA5130**<br><sub>Note: center diff</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](differential_analysis.md#center-diff-oil) |
+| **Front + rear diff oil**<br><sub>Note: ~7k front, 5k rear</sub> | 2 | — | **🚧 TBD** | [Diff oil](differential_analysis.md#front--rear-diff-oil) |
 | **Jato 4x4 BL-2S center driveshaft, 7455**<br><sub>Note: take-off, with pinion and bearings</sub> | 1 | Jenny's RC | **$2.49 each** | [Driveshafts](driveshaft_analysis.md#center-driveshaft-comparison) |
 | **Steel CV driveshafts, front + rear, knock-off TRA6851R / TRA6852R**<br><sub>Note: order 8211906604054866</sub> | 1 set of 4 | AliExpress, FengS Store | **$21.10 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA6752 long output shafts**<br><sub>Note: the knock-off set's stock shafts are too short</sub> | 4 | Go Nitro Hobbies | **$8.00 each** | [Driveshafts](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
@@ -53,11 +55,14 @@ Still open: a full sealed bearing kit. The hub bearings are already fitted and w
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **FLM26800 extended arms** | 2 pairs | FLM | **$25.73 / pair** | [Arms](arm_analysis.md) |
+| **Traxxas TRA6732 front arm guards** | 1 pair | — | **$9.95 / pair** | [Arm guards](arm_analysis.md#shock-guards) |
+| **Traxxas TRA6733 rear arm guards** | 1 pair | — | **$7.00 / pair** | [Arm guards](arm_analysis.md#shock-guards) |
 | **Hot Bodies D8 97mm big-bore shocks, HBS67296**<br><sub>Note: used, came with white 59gf front / grey 52gf rear springs and 1.4mm × 6 pistons, plus $8 shipping</sub> | 1 set of 4 | eBay, guavahobby | **$65.99 / set of 4** | [Shocks](shock_analysis.md) |
 | **Traxxas 40wt shock oil, TRA5033**<br><sub>Note: front</sub> | 1 | Tammies Hobbies | **$6.95 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Associated Factory Team 47.5wt shock fluid, ASC5438**<br><sub>Note: rear</sub> | 1 | Tammies Hobbies | **$7.99 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Traxxas #9033 front shock tower, gray** | 1 | Tammies Hobbies | **$6.00 each** | [Towers](shock_tower_analysis.md) |
 | **MonsterKingz G-Maxx carbon fiber shock towers**<br><sub>Note: front + rear set, rear only used</sub> | 1 set | eBay, MonsterKingz | **$33.29 / set** | [Towers](shock_tower_analysis.md) |
+| **3D-printed shock covers**<br><sub>Note: the CF tower leaves the shock caps exposed, printed at home</sub> | 1 set | DIY | **$0** | [Towers](shock_tower_analysis.md) |
 | **HB Racing HBS67410 shock standoffs**<br><sub>Note: rear CF tower</sub> | 1 pair | AMain | **$3.99 / pair** | [Standoffs](shock_analysis.md#shock-standoffs--mounting) |
 | **Traxxas wheelie bar shoulder screws**<br><sub>Note: front upper shock mounts, pulled from a free wheelie bar. Rebuy as TRA4976 wheels + axles, $4 / set of 2</sub> | 1 set of 2 | Free wheelie bar | **$0** | [Shoulder screws](shock_tower_analysis.md#front-shock-mounting-wheelie-bar-shoulder-screws) |
 
@@ -75,6 +80,7 @@ Still open: a full sealed bearing kit. The hub bearings are already fitted and w
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **GPM 6845X aluminum bell crank**<br><sub>Note: ships with brass bushings</sub> | 1 | GPM | **$19.98 each** | [Bell crank](steering_bell_crank_analysis.md) |
+| **GPM RUS416026ST-S servo link + 25T alloy horn**<br><sub>Note: servo horn to bell crank, 8.0 g</sub> | 1 | GPM | **🚧 TBD** | [Bell crank](steering_bell_crank_analysis.md) |
 | **ACER Racing titanium M4x60 turnbuckles** | 6 | ACER Racing | **$5.99 each** | [Tie rods](tie_rod_analysis.md) |
 | **RPM 80511 long rod ends, white** | 1 pack of 12 | RPM | **~$7-9 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
 | **Traxxas TRA5525 rod ends**<br><sub>Note: for the hollow balls</sub> | 1 pack of 12 | Traxxas | **$9.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
