@@ -47,7 +47,7 @@
 
 ## Servo Horn + Servo-to-Bellcrank Link
 
-> **Chosen: GPM RUS416026ST-S, in hand, running this.** Spring-steel tie rod (turnbuckle-style, adjustable) + 25T aluminum servo horn, 6pc set (silver), **8.0g measured**. This is the link between the servo horn and the bell crank, not the front steering tie rods (still TBD, see below).
+> **Chosen: GPM RUS416026ST-S, $7.61, in hand, running this.** Spring-steel tie rod (turnbuckle-style, adjustable) + 25T aluminum servo horn, 6pc set (silver), **8.0g measured**. This is the link between the servo horn and the bell crank, not the front steering tie rods (still TBD, see below).
 
 <p align="center"><img src="src/steering_gpm_servo_horn_link_rus416026st-s_weight.jpg" width="500"><br><em>GPM RUS416026ST-S, spring steel tie rod + 25T aluminum servo horn, 8.0g</em></p>
 

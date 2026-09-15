@@ -101,7 +101,7 @@ RPM long rod ends are what run on the car. Stock TRA5525 breaks and is kept only
 
 ## Servo-to-bellcrank link
 
-Already chosen and in hand: **GPM RUS416026ST-S,** spring-steel turnbuckle plus 25T alloy servo horn, 8.0g measured. Full write-up lives in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#servo-horn--servo-to-bellcrank-link). Listed here only so the linkage picture is complete. It is not one of the six 61mm links.
+Already chosen and in hand: **GPM RUS416026ST-S ($7.61),** spring-steel turnbuckle plus 25T alloy servo horn, 8.0g measured. Full write-up lives in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#servo-horn--servo-to-bellcrank-link). Listed here only so the linkage picture is complete. It is not one of the six 61mm links.
 
 <p align="center"><img src="src/steering_gpm_servo_horn_link_rus416026st-s_weight.jpg" width="500"><br><em>GPM RUS416026ST-S, the servo-to-bellcrank link, already in hand. A separate part from the six links.</em></p>
 

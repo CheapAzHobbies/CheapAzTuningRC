@@ -125,7 +125,7 @@ The build runs Tekno M6 stubs at both ends. **Front = the TKR1654-17 17mm M6 hub
 
 <p align="center"><img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="230">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="230">&nbsp;<img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" width="230">&nbsp;<img src="src/drivetrain_tekno_5070_stub_axle.jpg" width="230"><br><em>Front stub: TKR1654-17 (17mm M6 adapter) · the bare **TKR5580** stub (the "-80") · the **TKR5570-17** SCT410 kit (the "-70" = 5580 stub + 17mm hexes + nuts + pins), the rear pick · Tekno 5070 (EB48): 🚫 ruled out (too large)</em></p>
 
-Front stub purchase: eBay seller **kool_toyz_4u**, order **18-13082-92531**, **$19.99 shipped** ($15.00 + $4.99), placed May 18 2025, delivered May 24 2025. One kit, which is the pair on the car. 🚧 A separate mr-retro order for 3 pairs at $23.15/pair was recorded earlier and is unconfirmed.
+Front stub purchase: eBay seller **kool_toyz_4u**, order **18-13082-92531**, **$19.99 shipped** ($15.00 + $4.99), placed May 18 2025, delivered May 24 2025. One kit, which is the pair on the car. A separate mr-retro order covered **3 pairs at $23.15/pair**, bought on purpose as spares in case a friend needs one or someone wants to buy one. Only the kool_toyz_4u kit is on this car.
 
 Rear stubs purchase: eBay seller mr-retro, **$33.80 for 2 pairs ($16.90/pair)**, delivered Aug 17 2026. Only one pair is on this car, the second was bought for a friend.
 
