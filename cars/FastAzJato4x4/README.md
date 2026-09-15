@@ -227,7 +227,7 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 | 56817 | B'LASTER High-Performance White Lithium Grease, 11 oz spray (CVDs + gears) | Drivetrain | $6.99 | Harbor Freight | <img src="src/drivetrain_blaster_white_lithium_grease_56817.jpg" width="120"> |
 | 7455 | Traxxas Jato 4x4 BL-2S take-off center driveshaft | Drivetrain | $2.49 | Jenny's RC | <img src="src/drivetrain_traxxas_jato4x4_center_shaft_7455.webp" width="120"> |
 | Generic | Knock-off Slash 4x4 HD steel CV driveshafts, front + rear (TRA6851R / TRA6852R clones, order #8211906604054866) | Drivetrain | $21.10 / set of 4 | AliExpress, FengS Store | <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="120"> |
-| TRA6752 | Traxxas long output shafts, all four corners | Drivetrain | $32.00 (4 × $8) | — | <img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="120"> |
+| TRA6752 | Traxxas long output shafts, all four corners | Drivetrain | $32.00 (4 × $8) | Go Nitro Hobbies | <img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="120"> |
 | TRA6881 / TRA6880 | Traxxas front / rear gearbox housings | Drivetrain | $4.00 each | Tammies Hobby | <img src="src/drivetrain_traxxas_diff_housing_front_tra6881.jpg" width="120"> |
 | TKR1654-17 | Tekno 17mm M6 front stub / hub adapter | Drivetrain | $23.15 / pair | eBay, mr-retro | <img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="120"> |
 | TKR5570-17 | Tekno SCT410 rear kit (5580 stubs + 17mm hexes) | Drivetrain | $25.95 | PowerHobby | <img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" width="120"> |

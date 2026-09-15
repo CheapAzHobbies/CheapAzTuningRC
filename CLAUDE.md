@@ -64,7 +64,7 @@ If a new generic-part category comes up (connectors, wire, bearings, etc.) and a
 
 **When a part is purchased** (not just compared), make three updates in the same commit:
 1. Add a `✅ purchased` row to the part's `<part>_analysis.md` Price History.
-2. Flip the part's status in `BOM.md` from `To buy` → `Purchased <date>`, update the price to the actual paid amount, and recompute the cost-summary totals.
+2. Add or update the part's row in `BOM.md` with the actual paid amount, and recompute the cost-summary totals.
 3. If the part is generic (battery, servo, ESC), add a row to the matching `Deals/<category>.md` too.
 
 ## Car BOMs (`cars/<CarName>/BOM.md`)
@@ -72,6 +72,7 @@ If a new generic-part category comes up (connectors, wire, bearings, etc.) and a
 - A car's BOM covers what that car **uses**, not everything owned. **Qty is the count on the car** (`1`, `4`, `1 pair`), never "2 owned", "of 3 bought" or "4 spare".
 - Add a short note only when it matters, e.g. a part only sold as a set (`1 (rear)`, priced per set).
 - Keep leftover units and superseded parts out of the Qty and part cells; they belong in the Spares section if anywhere.
+- **No Status column.** The BOM is the car's final build list, so every row is assumed in use; columns are `Part | Qty | Source | Price | Decided by`.
 
 ## Branch policy
 
