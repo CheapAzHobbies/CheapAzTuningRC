@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="src/overview_fastazjato_dirt_tires.jpg" width="720"><br>
-  <em>IMEX chrome rims on the $3.87 triangle tires with blue race foams</em>
+  <em>IMEX chrome rims on the $3.87 Mitsubishi-tread tires with blue race foams</em>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 | 🦾 **Arms** | FLM26800 metal extended, about 10mm wider per side |
 | 🎯 **Steering** | PTK 9752TG-D servo, GPM 6845X alloy bell crank, Raptor R alloy hubs |
 | 🏁 **Body** | Traxxas Jato 3.3 red (5511A) with its own integrated wing |
-| 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 triangle 26013 tires, blue race foams |
+| 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
 | ⚖️ **Weight** | 2.868 kg all up |
 | 💰 **Build cost** | ~$822 in locked parts, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
@@ -80,7 +80,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 - **Geared for punch, not top speed.** 16T pinion (FDR 3.38) on the 3665SD 2400KV keeps it punchy and cooler on a technical, rough track where you rarely hold full throttle.
 - **Built to survive crashes.** Metal arms that bend instead of snap, Raptor R alloy hubs on Tekno stubs, and a **minimal skid plate at the rear** so a bad landing lets me throttle out instead of digging in and cartwheeling. Up front is the **RPM 81042 wide bumper**, which sounds like the opposite but isn't: **it sits far enough forward that touching it means the car is already too nose down**, and it shouldn't ever get that vertical while racing. In normal driving nothing reaches it, and in a real frontal hit it takes the load instead of the diff.
 - **Body:** the OG Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. Its own integrated wing means no separate buggy wing or mount.
-- **Wheels:** IMEX 1/8th Rally chrome rims, bought purely because they're baller, and yes I paid extra. The chrome ricer look plus the stretched stance from the extended arms makes it look like an extended-swingarm GSX-R. It looks great and still performs well. Right now they wear the $3.87 triangle 26013 tires with blue race foams. The glued rally slicks they came with (the glue had gone on the old rims) were great on track and fun to drift, but not for racing.
+- **Wheels:** IMEX 1/8th Rally chrome rims, bought purely because they're baller, and yes I paid extra. The chrome ricer look plus the stretched stance from the extended arms makes it look like an extended-swingarm GSX-R. It looks great and still performs well. Right now they wear the $3.87 Mitsubishi-tread 26013 tires with blue race foams. The glued rally slicks they came with (the glue had gone on the old rims) were great on track and fun to drift, but not for racing.
 
 ---
 
@@ -160,8 +160,8 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 ## Aero & Body
 
 <p align="center">
-  <img src="src/body_traxxas_jato33_red_5511a.jpg" width="190">&nbsp;<img src="src/aero_imex_rally_chrome_wheels.png" width="190">&nbsp;<img src="src/aero_generic_tires_triangle_26013.jpg" width="190">&nbsp;<img src="src/aero_closed_cell_foams_blue.jpg" width="190"><br>
-  <em>Jato 3.3 red shell · IMEX chrome Rally rims · triangle 26013 tires · blue closed-cell foams</em>
+  <img src="src/body_traxxas_jato33_red_5511a.jpg" width="190">&nbsp;<img src="src/aero_imex_rally_chrome_wheels.png" width="190">&nbsp;<img src="src/aero_generic_tires_mitsubishi_26013.jpg" width="190">&nbsp;<img src="src/aero_closed_cell_foams_blue.jpg" width="190"><br>
+  <em>Jato 3.3 red shell · IMEX chrome Rally rims · Mitsubishi-tread 26013 tires · blue closed-cell foams</em>
 </p>
 
 | Component | Part | Notes |
@@ -169,7 +169,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Body / shell | **Traxxas Jato 3.3 red (5511A)** | $34.47, clearance holes cut for the tall towers, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 | Wing | The Jato 3.3 shell's own integrated wing | No separate wing or mount, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 | Rims | **IMEX IMX7893 1/8 Rally chrome** (17mm hex) | Bought for the look. A bit narrower than standard, so standard 1/8 tires go on with some finesse. The glued rally slicks came off: fun to drift, not for racing, [`wheel_analysis.md`](wheel_analysis.md#rims-bare-wheels) |
-| Tires | **Triangle 26013** (Fiona Hobby), set of 4 | $3.87 shipped. Softer, but very durable once worn in, [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
+| Tires | **Mitsubishi-tread 26013** (Fiona Hobby), set of 4 | $3.87 shipped. Softer, but very durable once worn in, [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
 | Foam inserts | Blue closed-cell race foams, reusable | Keeps it planted, less rim slap, [`wheel_analysis.md`](wheel_analysis.md#foam-inserts) |
 
 ---
@@ -235,7 +235,7 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 | 80511 / TRA5525 | RPM long rod ends (white) + Traxxas hollow balls | Steering | ~$7-9 / 12 + $9 / 12 | RPM / Traxxas | <img src="src/steering_rpm_long_rod_ends_white_80511.jpg" width="120"> |
 | 5511A | Traxxas Jato 3.3 red body, take-off | Body | $34.47 | Jenny's RC | <img src="src/body_traxxas_jato33_red_5511a.jpg" width="120"> |
 | IMX7893 | IMEX 1/8 Rally Tire Set, Chrome (pair), the rims on the car, slicks removed | Aero | $19.99 / pair (2 on the car) | IMEX Model Company | <img src="src/aero_imex_rally_chrome_wheels.png" width="120"> |
-| 26013 | Generic 1/8 buggy tires, triangle tread (Fiona Hobby), tires only | Aero | $3.87 / set of 4 | AliExpress | <img src="src/aero_generic_tires_triangle_26013.jpg" width="120"> |
+| 26013 | Generic 1/8 buggy tires, "Mitsubishi-logo" tread (Fiona Hobby), tires only | Aero | $3.87 / set of 4 | AliExpress | <img src="src/aero_generic_tires_mitsubishi_26013.jpg" width="120"> |
 | Generic | Closed-cell foam inserts | Aero | $8.08 / set of 4 | AliExpress | <img src="src/aero_closed_cell_foams_blue.jpg" width="120"> |
 | 81042 | RPM wide front bumper, black | Bumpers | $9.95 | — | <img src="src/bumpers_rpm_wide_front_81042_black.webp" width="120"> |
 | TRA9044 | Traxxas front + rear skid plates (rear plate on the car) | Bumpers | $7.00 / set | Tammies Hobby | <img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="120"> |
