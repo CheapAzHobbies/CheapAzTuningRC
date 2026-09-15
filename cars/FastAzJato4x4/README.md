@@ -9,7 +9,7 @@
   <img alt="Status" src="https://img.shields.io/badge/status-built%20%26%20running-2ea44f?style=for-the-badge">
   <img alt="Power" src="https://img.shields.io/badge/power-4S%20LiPo-d7263d?style=for-the-badge">
   <img alt="Weight" src="https://img.shields.io/badge/weight-2.868%20kg-444?style=for-the-badge">
-  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24798-444?style=for-the-badge">
+  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24797-444?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 | 🏁 **Body** | Traxxas Jato 3.3 red (5511A) with its own integrated wing |
 | 🛞 **Wheels** | RED SPIDER, 17mm hex |
 | ⚖️ **Weight** | 2.868 kg all up |
-| 💰 **Build cost** | ~$798 in locked parts, see [`BOM.md`](BOM.md) |
+| 💰 **Build cost** | ~$797 in locked parts, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
 ## Table of Contents
@@ -233,7 +233,7 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 | 80511 / TRA5525 | RPM long rod ends (white) + Traxxas hollow balls | Steering | ~$7-9 / 12 + $9 / 12 | RPM / Traxxas | <img src="src/steering_rpm_long_rod_ends_white_80511.jpg" width="120"> |
 | 5511A | Traxxas Jato 3.3 red body, take-off | Body | $34.47 | Jenny's RC | <img src="src/body_traxxas_jato33_red_5511a.jpg" width="120"> |
 | R235 / R305 | RED SPIDER 1/8 buggy wheels + tires, 17mm hex | Aero | $18.61 / set of 4 | RED SPIDER Store | <img src="src/aero_redspider_wheels.jpg" width="120"> |
-| Generic | Closed-cell foam inserts | Aero | ~$9.42 / set of 4 | AliExpress | <img src="src/aero_closed_cell_foams_blue.jpg" width="120"> |
+| Generic | Closed-cell foam inserts | Aero | $8.08 / set of 4 | AliExpress | <img src="src/aero_closed_cell_foams_blue.jpg" width="120"> |
 | 81042 | RPM wide front bumper, black | Bumpers | $9.95 | — | <img src="src/bumpers_rpm_wide_front_81042_black.webp" width="120"> |
 | TRA9044 | Traxxas front + rear skid plates (rear plate on the car) | Bumpers | $7.00 / set | Tammies Hobby | <img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="120"> |
 
