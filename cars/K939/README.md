@@ -133,6 +133,8 @@ None — removed for Meldrum Bar Park conditions.
 | TRA9044 | Traxxas Front & Rear Skid Plates | Bumpers | $7.00 | Tammies | ![](src/bumpers_traxxas_skid_plates_tra9044.jpg) |
 | TBD | Pinion | Drivetrain | — | — | — |
 | | **Total (known)** | | **$812.78** | | |
+| TRA6732 | Traxxas front arm guards | Suspension | $9.95 / pair | Tammies Hobbies | — |
+| TRA6733 | Traxxas rear arm guards | Suspension | $7.00 / pair | Tammies Hobbies | — |
 
 ---
 

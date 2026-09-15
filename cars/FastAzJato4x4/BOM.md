@@ -10,14 +10,14 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 |---|---|
 | [Electronics](#electronics) | $383.73 |
 | [Drivetrain](#drivetrain) | $164.79 |
-| [Suspension](#suspension) | $200.62 |
+| [Suspension](#suspension) | $183.67 |
 | [Hubs](#hubs) | $109.87 |
 | [Steering](#steering) | ~$72.92 |
 | [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
 | [Aero & Body](#aero--body) | $34.47 |
 | [Wheels](#wheels) | $51.93 |
-| **Total** | **~$1,108** |
-| **Car only, without the battery and radio** | **~$875** |
+| **Total** | **~$1,092** |
+| **Car only, without the battery and radio** | **~$858** |
 
 Still open: a full sealed bearing kit (the hub bearings are already fitted and working), plus a price for the GPM servo link.
 
@@ -56,8 +56,6 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **FLM26800 extended arms** | 2 | FLM | **$25.73 / pair** | [Arms](arm_analysis.md) |
-| **Traxxas TRA6732 front arm guards** | 1 | — | **$9.95 / pair** | [Arm guards](arm_analysis.md#shock-guards) |
-| **Traxxas TRA6733 rear arm guards** | 1 | — | **$7.00 / pair** | [Arm guards](arm_analysis.md#shock-guards) |
 | **Hot Bodies D8 97mm big-bore shocks, HBS67296**<br><sub>Note: used, came with white 59gf front / grey 52gf rear springs and 1.4mm × 6 pistons, plus $8 shipping</sub> | 1 | eBay, guavahobby | **$65.99 / set of 4** | [Shocks](shock_analysis.md) |
 | **Traxxas 40wt shock oil, TRA5033**<br><sub>Note: front</sub> | 1 | Tammies Hobbies | **$6.95 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Associated Factory Team 47.5wt shock fluid, ASC5438**<br><sub>Note: rear</sub> | 1 | Tammies Hobbies | **$7.99 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
