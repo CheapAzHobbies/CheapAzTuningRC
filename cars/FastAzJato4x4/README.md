@@ -232,7 +232,7 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 | TKR1654-17 | Tekno 17mm M6 front stub / hub adapter | Drivetrain | $23.15 / pair | eBay, mr-retro | <img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="120"> |
 | TKR5570-17 | Tekno SCT410 rear kit (5580 stubs + 17mm hexes) | Drivetrain | $25.95 | PowerHobby | <img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" width="120"> |
 | FLM26800 | FLM metal extended arms, front + rear (2 pairs) | Suspension | $25.73 / pair | FLM | <img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="120"> |
-| Generic | MonsterKingz (G-Maxx) carbon fiber rear shock tower (sold as a front + rear set) | Suspension | ~$33.29 / set | eBay, MonsterKingz | <img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="120"> |
+| Generic | MonsterKingz (G-Maxx) carbon fiber rear shock tower (sold as a front + rear set) | Suspension | $33.29 / set | eBay, MonsterKingz | <img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="120"> |
 | 9033 | Traxxas Jato 4x4 stock front shock tower (gray) | Suspension | $6.00 | Tammies Hobby | <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="120"> |
 | HBS67296 | Hot Bodies D8 metal 97mm big-bore shocks, used set of 4 (white 59gf / grey 52gf springs + 1.4mm×6 pistons included) | Suspension | $65.99 + $8 ship | eBay, guavahobby | <img src="src/suspension_hb_d8_shocks_used_set.jpg" width="120"> |
 | HBS67410 | HB Racing shock standoffs, 1 pair (rear CF tower) | Suspension | $3.99 / pair | AMain | <img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="120"> |

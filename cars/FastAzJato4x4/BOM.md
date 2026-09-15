@@ -40,7 +40,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | Part | Qty | Source | Price | Decided by |
 |---|---|---|---|---|
 | **FLM26800 extended arms**, **front + rear** | 2 pairs | FLM | **$25.73/pair** ($40 list) | [`arm_analysis.md`](arm_analysis.md#price-history) |
-| **MonsterKingz (G-Maxx) carbon fiber rear shock tower** (sold only as a front + rear set), for the big bores + 67410 standoffs | 1 (rear) | eBay, MonsterKingz | **~$33.29 / set** (set only) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
+| **MonsterKingz (G-Maxx) carbon fiber rear shock tower** (sold only as a front + rear set), for the big bores + 67410 standoffs | 1 (rear) | eBay, MonsterKingz | **$33.29 / set** (set only) | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | **Traxxas Jato 4x4 stock front shock tower #9033** (gray) | 1 | Tammies Hobby | **$6.00** | [`shock_tower_analysis.md`](shock_tower_analysis.md) |
 | **Hot Bodies D8 metal 97mm big-bore shocks (HBS67296)**, used set of 4 | 4 | eBay, guavahobby | **$65.99** (sunk) + $8 ship | [`shock_analysis.md`](shock_analysis.md) |
 | **HB Racing Shock Standoff (HBS67410 = HPI Vorza Flux 67410)**, for the rear CF tower only | 1 pair | AMain | **$3.99/pair** | [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
@@ -113,7 +113,7 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 | **TRA5153 Traxxas Drive Cups** | 4 (2 pairs) | Mate the 6mm E-Revo diff only | $16.00 (gifted) |
 | **Traxxas TRA3956R 54T plastic spur** | 1 | The AliExpress metal center diff has its own integrated steel spur; this plastic spur only fits a plastic center diff | $3.00 |
 | **Traxxas TRA3775 Oilite brass bushings** | 12-pack | The GPM bell crank already ships with brass bushings | $7.69 |
-| **MonsterKingz CF front shock tower** (from the set) · **Traxxas TRA9039 rear shock tower** | 2 | The stock #9033 runs up front instead of the CF front; TRA9039 is the rear fallback | in the ~$33.29 set · ~$6 |
+| **MonsterKingz CF front shock tower** (from the set) · **Traxxas TRA9039 rear shock tower** | 2 | The stock #9033 runs up front instead of the CF front; TRA9039 is the rear fallback | in the $33.29 set · ~$6 |
 | **Traxxas Raptor R Ultimate front caster blocks (9063) + steering blocks (9064)** | 1 set | Front runs the Integy purple C-hubs + GPM XO-1 blocks now | in the $68.73 set |
 | **HB Racing HBS67410 shock standoffs** | 1 pair | Only the rear CF tower uses them now | $3.99 |
 | **Traxxas TRA9044 front skid plate** | 1 | The RPM 81042 wide bumper is the front | in the $7 set |
