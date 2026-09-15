@@ -24,7 +24,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Tie rods + camber links**, ACER titanium M4×60 turnbuckles (all 6 links, purchased) + RPM white long rod ends (running the cheap ones), `tie_rod_analysis.md`
 - [x] **Steering bell crank**, GPM aluminum 6845X, in hand, `steering_bell_crank_analysis.md`
 - [x] **Servos**, PTK 9752TG-D metal high-speed, in hand (8-pack bulk), `servo_analysis.md`
-- [x] **Wheel hexes**, front Tekno TKR1654-17 + rear TKR5570-17 SCT410 kit (star 17mm hexes), `hub_analysis.md#17mm-wheel-hubs-hexes`
+- [x] **17mm hubs**, AliExpress E-Revo 1.0 splined hubs (black) on Tekno M6 stubs (front TKR1654-17, rear 5580), `hub_analysis.md`
 - [x] **Wheels / tires** — **IMEX IMX7893 chrome rims + Mitsubishi-tread 26013 tires + blue closed-cell foams** mounted (17mm hex), `wheel_analysis.md`
 - [x] **Battery** — 4S 5000-5400mAh (~5200 sweet spot; 6000 too heavy, 4200 too short), from the shared fleet, `battery_analysis.md`
 - [x] **Radio / receiver** — FlySky Noble NB4 + FGr4S V2 RX, in hand, `radio_analysis.md`
@@ -47,7 +47,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 
 ## 🔧 Loose ends / cleanups
 
-- [x] **TKR5570-17 rear kit** for the rear 17mm hexes
+- [x] **Rear Tekno 5580 stubs**, bought bare (no TKR5570-17 kit needed)
 - [ ] Confirm the **AliExpress steel diffs** (front + rear) in hand vs still to-buy
 - [x] Hub bearings sorted: **10×15×4 in an 18→15mm sleeve**, fitted and running. Bare **10×18×5** is the alternative if the sleeve ever comes out
 - [ ] README: keep synced as the open picks (wheels/tires, pinion, battery, radio) finalize
