@@ -14,12 +14,12 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | [Drivetrain](#drivetrain) | $172.00 |
 | [Suspension](#suspension) | $180.71 |
 | [Hubs](#hubs) | $109.87 |
-| [Steering](#steering) | $79.53 |
+| [Steering](#steering) | $84.53 |
 | [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
 | [Aero & Body](#aero--body) | $36.68 |
 | [Wheels](#wheels) | $51.93 |
-| **Total** | **~$1,105** |
-| **Car only, without the battery and radio** | **~$871** |
+| **Total** | **~$1,110** |
+| **Car only, without the battery and radio** | **~$876** |
 
 ---
 
@@ -80,6 +80,7 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **GPM 6845X aluminum bell crank**<br><sub>Note: ships with brass bushings</sub> | 1 | GPM | **$19.98 each** | [Bell crank](steering_bell_crank_analysis.md) |
+| **Traxxas TRA3775 Oilite bushings, 5×8×2.5mm**<br><sub>Note: the four bell crank main pivots, replacing the ball bearings the GPM crank ships with. Bearings false-brinell in that tiny arc and chew the steering post, bushings just slide</sub> | 1 | Traxxas | **$5.00 / pack** | [Bell crank](steering_bell_crank_analysis.md#key-requirements) |
 | **GPM RUS416026ST-S servo link + 25T alloy horn**<br><sub>Note: servo horn to bell crank, 6pc set, 8.0 g</sub> | 1 | GPM | **$7.61 / set** | [Bell crank](steering_bell_crank_analysis.md) |
 | **ACER Racing titanium M4x60 turnbuckles** | 6 | ACER Racing | **$5.99 each** | [Tie rods](tie_rod_analysis.md) |
 | **RPM 80511 long rod ends, white**<br><sub>Note: white has been discontinued since about 2022, but nobody buys white so it's usually cheaper than the black or blue</sub> | 1 | Tammies Hobbies | **$7.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |

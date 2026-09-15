@@ -75,6 +75,7 @@ If a new generic-part category comes up (connectors, wire, bearings, etc.) and a
 - **The price cell holds only the price and its basis** (`**$33.29 / set**`). List prices, coupons, shipping and partial use go in a small note under the part name: `<br><sub>Note: front + rear set, rear only used</sub>`.
 - **Qty is how much of the product you bought** (`1 set`, `1 set of 4`, `1 pair`). If only part of it is used, say so in a small note under the part name, not in Qty or Price.
 - Keep leftover units and superseded parts out of the Qty and part cells; they belong in the Spares section if anywhere.
+- **Part numbers go in the part name** when the part has one (`Traxxas TRA9044 skid plates`). **Plenty of parts genuinely don't have one** — generic AliExpress, unbranded and one-off listings — and that's fine. Name them by what they are and leave it; never invent a number or keep hunting for one that doesn't exist.
 - **No Status column.** The BOM is the car's final build list, so every row is assumed in use; columns are `Part | Qty | Source | Price | Decided by`.
 
 ## Branch policy
