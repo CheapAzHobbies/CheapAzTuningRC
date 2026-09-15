@@ -2,7 +2,7 @@
 
 > **Chosen:**
 > - **Front & rear diffs: AliExpress knock-off Slash 4x4 steel diffs (5mm), ~$15.26 for the pair.** Strong steel, come assembled with the I-bar brace, and 5mm matches the **Slash 4x4-pattern CVDs on Tekno M6 stubs** (see [`driveshaft_analysis.md`](driveshaft_analysis.md)). The stock Jato 4x4 diff is the native-fit fallback; the 6mm E-Revo 1.0 diffs (owned) are spares.
-> - **Center diff: AliExpress metal center diff (~$20), running Traxxas 100k oil (TRA5130, $8).** Fully assembled, its **integrated steel 54T spur is the build's spur** (no separate spur to fit), and it **ships with 16T / 17T / 18T (5mm-bore) pinions** to tune the final drive. The lighter TRA6814 plastic is the alternative.
+> - **Center diff: AliExpress metal center diff ($19.06, E-star RC Car Store), running Traxxas 100k oil (TRA5130, $8).** Fully assembled, its **integrated steel 54T spur is the build's spur** (no separate spur to fit), and it **ships with 16T / 17T / 18T (5mm-bore) pinions** to tune the final drive. The lighter TRA6814 plastic is the alternative.
 > - **Spur gear: the integrated steel 54T spur on the AliExpress center diff.**
 
 <p align="center"><img src="src/drivetrain_aliexpress_knockoff_slash4x4_steel_diff.png" height="240">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" height="240"><br><em>The chosen drivetrain: AliExpress knock-off Slash 4x4 steel front/rear diff (5mm, I-bar) · AliExpress metal center diff (integrated steel 54T spur)</em></p>
@@ -18,6 +18,7 @@
 - [Center Diff Oil](#center-diff-oil)
 - [Front & Rear Diff Oil](#front--rear-diff-oil)
 - [Spur Gear](#spur-gear)
+- [Price History](#price-history)
 - [Sources](#sources)
 
 ---
@@ -72,15 +73,15 @@ That makes the **native Jato 4x4 stock diff** the correct pick again, cheapest, 
 
 ## Center Diff
 
-> **Chosen: AliExpress metal center diff (alum body + integrated steel 54T spur), ~$20, comes pre-filled with the correct oil.** One cheap fully-assembled unit that includes the spur and the oil, so there is nothing separate to buy or fit. It trades the lighter TRA6814 plastic (and the plastic-fuse failure mode) for a cheap all-in-one metal diff, a tradeoff taken knowingly. The TRA6814 OEM plastic is the lighter alternative if you would rather keep the separate plastic spur fuse.
+> **Chosen: AliExpress metal center diff (alum body + integrated steel 54T spur), $19.06, running Traxxas 100k oil.** One cheap fully-assembled unit that includes the spur and the oil, so there is nothing separate to buy or fit. It trades the lighter TRA6814 plastic (and the plastic-fuse failure mode) for a cheap all-in-one metal diff, a tradeoff taken knowingly. The TRA6814 OEM plastic is the lighter alternative if you would rather keep the separate plastic spur fuse.
 
-<p align="center"><img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" width="600"><br><em>AliExpress metal center diff (alum body + integrated steel 54T spur), ~$20, 74.6 g</em></p>
+<p align="center"><img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" width="600"><br><em>AliExpress metal center diff (alum body + integrated steel 54T spur), $19.06, 74.6 g</em></p>
 
 > *Spec format: Part · Housing · Spur · Oil · Weight · Fits · Price*
 
 | Center Diff | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **AliExpress Heavy Duty Centre Diff (alum body + steel 54T spur)** — *chosen* | **Part:** Tolex (generic)<br>**Housing:** aluminum<br>**Spur:** **steel 54T, integrated** (this is the build's spur, so the separate plastic TRA3956R is now a spare)<br>**Pinions:** **ships with 16T / 17T / 18T, 5mm bore** (matched to the spur; see [pinion reference](motor_analysis.md#pinion-reference-32p))<br>**Oil:** **comes pre-filled** with the correct wt (fully assembled)<br>**Weight:** **74.6 g** (measured, incl. steel 54T spur + assembled output shaft)<br>**Fits:** Slash 4x4 / Hoss 4x4 VXL<br>**Price:** **~$20** ($15.23 sale / $23.43 list) | Pro: **Chosen: one cheap (~$20) fully-assembled metal unit with the integrated steel 54T spur, no separate spur to buy or fit.** A knock-off of the $69.95 TRA6780. Complete drop-in<br><br>Con: **Heavier (74.6 g) than the TRA6814 plastic**, and the **integrated steel spur removes the plastic-fuse failure mode** (see [spur gear](#spur-gear)). Aluminum housing augers out faster than plastic. Weight + fuse tradeoff taken knowingly for the cheap all-in-one metal diff | <img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" width="500"> |
+| ⭐ **AliExpress Heavy Duty Centre Diff (alum body + steel 54T spur)** — *chosen* | **Part:** Tolex (generic)<br>**Housing:** aluminum<br>**Spur:** **steel 54T, integrated** (this is the build's spur, so the separate plastic TRA3956R is now a spare)<br>**Pinions:** **ships with 16T / 17T / 18T, 5mm bore** (matched to the spur; see [pinion reference](motor_analysis.md#pinion-reference-32p))<br>**Oil:** **comes pre-filled** with the correct wt (fully assembled)<br>**Weight:** **74.6 g** (measured, incl. steel 54T spur + assembled output shaft)<br>**Fits:** Slash 4x4 / Hoss 4x4 VXL<br>**Price:** **$19.06** (paid, AliExpress E-star RC Car Store, order 8213147729824866) | Pro: **Chosen: one cheap (~$20) fully-assembled metal unit with the integrated steel 54T spur, no separate spur to buy or fit.** A knock-off of the $69.95 TRA6780. Complete drop-in<br><br>Con: **Heavier (74.6 g) than the TRA6814 plastic**, and the **integrated steel spur removes the plastic-fuse failure mode** (see [spur gear](#spur-gear)). Aluminum housing augers out faster than plastic. Weight + fuse tradeoff taken knowingly for the cheap all-in-one metal diff | <img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" width="500"> |
 | 🔵 **TRA6814, Traxxas Pre-Built Center Diff Kit** — *lighter plastic alternative* | **Part:** TRA6814 (rebuild: TRA6884 housing + TRA6883 gear set)<br>**Housing:** Plastic<br>**Spur:** N/A (separate spur)<br>**Oil:** Tunable via silicone oil (sealed, pre-filled)<br>**Weight:** N/A<br>**Fits:** Slash 4x4, Jato 4x4<br>**Price:** **$39.95** complete (~$20 built from TRA6884 + TRA6883) | Pro: **Lighter than the metal AliExpress unit** and keeps the plastic-fuse failure mode (needs the separate plastic spur). Pre-built, sealed, tunable. **Cheaper to build from components**, TRA6884 ($5) + TRA6883 ($15) = ~$20 vs $39.95. $5 housing rebuild when worn<br><br>Con: Not the pick here (went with the cheap all-in-one metal unit). $39.95 for the complete kit if not building from parts | <img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="500"><br><img src="src/drivetrain_traxxas_center_diff_housing_tra6884.jpg" width="500">&nbsp;<img src="src/drivetrain_traxxas_center_diff_gear_set_tra6883.jpg" width="500"><br><em>TRA6814 complete · TRA6884 housing · TRA6883 gear set</em> |
 | 🔵 **TRA6780A, Pro-Built Center Diff** | **Part:** TRA6780A<br>**Housing:** plastic (black)<br>**Spur:** steel 54T 32-pitch (integrated)<br>**Oil:** 500k (pre-filled, nearly locked)<br>**Weight:** N/A<br>**Fits:** Hoss / Slash / Stampede / Rustler 4x4<br>**Price:** $60.00 | Pro: Plastic housing, stays round, holds fluid, outlasts aluminum. Pre-built, sealed, $60<br><br>Con: Integrated steel spur kills the plastic-fuse failure mode. 500k oil = nearly locked center, too stiff for offroad dirt use. Outdrive size TBD, verify 6mm | <img src="src/drivetrain_traxxas_pro_built_center_diff_tra6780a.jpg" width="500"> |
 | 🔵 **TRA6780R, Pro-Built Center Diff** | **Part:** TRA6780R<br>**Housing:** plastic (black)<br>**Spur:** steel 50T 32-pitch (integrated)<br>**Oil:** 20m (pre-filled)<br>**Weight:** N/A<br>**Fits:** Hoss / Slash / Stampede / Rustler 4x4<br>**Price:** $60.00 | Pro: Plastic housing. Pre-built, sealed, $60. 50T spur<br><br>Con: Integrated steel spur kills the plastic-fuse failure mode. Outdrive size TBD, verify 6mm | <img src="src/drivetrain_traxxas_pro_built_center_diff_tra6780r.jpg" width="500"> |
@@ -170,6 +171,15 @@ A slipper clutch replaces the center diff entirely. Vetoed here because it doesn
 - **Metal spur = wrong failure mode:** a metal spur that won't strip transfers crash energy directly into the pinion and downstream drivetrain. You save the $3 plastic gear and destroy far more expensive parts.
 - **Tooth count and gear ratio:** all 32P / 0.8M gears are compatible. Choose tooth count based on motor KV and desired top speed vs torque balance. 50T–54T is the standard range for 4S offroad builds.
 - **Slipper vs center diff:** slipper clutch (TRA6878A) works on high-grip surfaces but doesn't handle well on dirt/low-grip tracks, this build is set up for dirt offroad. Center diff (TRA6814) is the correct setup. Use center-diff specific spur gears (TRA6842R, TRA6843R) which seat directly in the center diff housing, not slipper assembly gears.
+
+---
+
+## Price History
+
+| Date | Price | Discount Path | Notes |
+|---|---|---|---|
+| 2026-07-19 | **$19.06** ✅ **purchased** | Listed $19.28 | Metal 6780 complete center differential kit (15T + 17T + 19T pinions listed), AliExpress E-star RC Car Store, order 8213147729824866. **The one on the car** |
+| 2026-05-16 | **$18.80** ✅ purchased | Listed $20.00 | Metal center diff (Traxxas 6780-style), AliExpress TangEmpire Store, order 8211762212584866. **Resold to Mike at cost**, see [LEDGER.md](../../LEDGER.md) |
 
 ---
 

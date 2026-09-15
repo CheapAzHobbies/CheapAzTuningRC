@@ -9,7 +9,7 @@
   <img alt="Status" src="https://img.shields.io/badge/status-built%20%26%20running-2ea44f?style=for-the-badge">
   <img alt="Power" src="https://img.shields.io/badge/power-4S%20LiPo-d7263d?style=for-the-badge">
   <img alt="Weight" src="https://img.shields.io/badge/weight-2.868%20kg-444?style=for-the-badge">
-  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24867-444?style=for-the-badge">
+  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24866-444?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
 | 🔧 **Wheel cost** | ~$52 up front (rims + tires + foams), ~$4 per tire change after that |
 | ⚖️ **Weight** | 2.868 kg all up |
-| 💰 **Build cost** | ~$867 in locked parts, see [`BOM.md`](BOM.md) |
+| 💰 **Build cost** | ~$866 in locked parts, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
 ## Table of Contents
@@ -223,7 +223,7 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 | GEA60004S14S | Gens Ace Redline 2.0 4S HV 6000mAh 140C shorty hardcase | Electronics | $92.26 each | eBay, mugrc-store | <img src="src/electronics_gensace_redline2_4s_6000_140c.png" width="120"> |
 | NB4 | FlySky Noble NB4 radio, running the FGr4S V2 receiver | Electronics | $140.91 | AliExpress, Hi-Goeswell | <img src="src/electronics_flysky_nb4_radio.jpg" width="120"> |
 | Generic | AliExpress knock-off Slash 4x4 steel diffs (5mm, with I-bar), front + rear | Drivetrain | $15.26 / 2 | AliExpress, RS RC Store | <img src="src/drivetrain_aliexpress_knockoff_slash4x4_steel_diff.png" width="120"> |
-| Generic | AliExpress metal center diff, integrated steel 54T spur, 16/17/18T pinions included | Drivetrain | ~$20 | AliExpress | <img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" width="120"> |
+| Generic | AliExpress metal center diff, integrated steel 54T spur, 16/17/18T pinions included | Drivetrain | $19.06 | AliExpress, E-star RC Car Store | <img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" width="120"> |
 | TRA5130 | Traxxas differential oil, 100k, in the center diff | Drivetrain | $8.00 | Tammies Hobby | <img src="src/drivetrain_traxxas_diff_oil_100k_tra5130.jpg" width="120"> |
 | 56817 | B'LASTER High-Performance White Lithium Grease, 11 oz spray (CVDs + gears) | Drivetrain | $6.99 | Harbor Freight | <img src="src/drivetrain_blaster_white_lithium_grease_56817.jpg" width="120"> |
 | 7455 | Traxxas Jato 4x4 BL-2S take-off center driveshaft | Drivetrain | $2.49 | Jenny's RC | <img src="src/drivetrain_traxxas_jato4x4_center_shaft_7455.webp" width="120"> |
