@@ -99,9 +99,13 @@ Runs **full length 4S packs**, which is where this car and the [FastAzJato4x4](.
 
 **The three CNHL packs bought 2026-08-26 run on this car:** Racing 5200 (soft), Lightning 5500 (soft), Ultra-Thin 6000 (hardcase).
 
-**IR check on the Racing 5200** (HOTA T6, mid-charge): 2.3 / 2.2 / 2.3 / 2.1 mΩ per cell, ~2.23mΩ avg. Using the [E-Revo IR-to-True-C method](../ERevo_1.0/battery_analysis.md#c-ratings-and-internal-resistance) (`max A = sag ÷ IR`, `true C = max A ÷ Ah`), that's roughly **26-43C true** (0.3V/0.5V sag) against the **90C printed on the label**. Informational only, the CNHL packs aren't in the shared cycle tracker.
+**IR check on the Racing 5200** (HOTA T6, mid-charge): 2.3 / 2.2 / 2.3 / 2.1 mΩ per cell, ~2.23mΩ avg. Using the [E-Revo IR-to-True-C method](../ERevo_1.0/battery_analysis.md#c-ratings-and-internal-resistance) (`max A = sag ÷ IR`, `true C = max A ÷ Ah`), that's roughly **26-43C true** (0.3V/0.5V sag) against the **90C printed on the label**. Charger reads LiHV-4S(4.35V), so this pack is **HV**. Informational only, the CNHL packs aren't in the shared cycle tracker.
 
 <p align="center"><img src="src/electronics_cnhl_racing_5200_90c.jpg" width="500"><br><em>CNHL Racing 90C 5200mAh, per-cell IR mid-charge</em></p>
+
+**IR check on the Ultra-Thin 6000** (HOTA T6, charge done 100%): 4.5 / 4.3 / 4.6 mΩ per cell (4th cell didn't register), ~4.47mΩ avg. Same method: roughly **11-19C true** against the **120C printed on the label**. Also reads LiHV-4S(4.35V) on the charger, so both CNHL packs photographed so far are **HV**, not standard voltage. The third pack in this order, the Lightning 5500, hasn't been photographed yet, so its voltage class is unconfirmed. Informational only.
+
+<p align="center"><img src="src/electronics_cnhl_ultrathin_6000_120c.jpg" width="500"><br><em>CNHL Ultra-Thin 120C 6000mAh, 15.2V, per-cell IR at 100% charge</em></p>
 
 **Gens Ace Redline 2.0 4S HV 6300mAh 140C** also runs here — full-length (139 × 47 × 37mm, 452g), not a shorty, so it never fit the FastAzJato4x4's shorty-only spec but works well on this car. Bought 2025-10-22 for $107.38 (see [`FastAzJato4x4/battery_analysis.md`](../FastAzJato4x4/battery_analysis.md) for full specs and price history). Currently on loan/testing here; may just become Mike's outright since it works well and this build doesn't run long 4S packs.
 
