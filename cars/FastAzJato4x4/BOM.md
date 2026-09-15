@@ -100,7 +100,7 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Traxxas Jato 3.3 body, 5511A red**<br><sub>Note: take-off, its own integrated wing means no separate wing</sub> | 1 | Jenny's RC | **$34.47 each** | [Body](aero_analysis.md#body-comparison) |
-| **3D-printed body mounts + posts, front + rear**<br><sub>Note: printed at home. Mounts in TPU, posts in PETG, two posts per mount. STL + editable STEP in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
+| **3D-printed body mounts + posts, front + rear**<br><sub>Note: printed at home. Mounts in TPU, posts in PETG, two posts at each end. The front post is shorter than the rear. STL + editable STEP in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 | **AJRC body clips, 50 pcs silver**<br><sub>Note: 1/5 to 1/16 R-clips, listed $6.31, paid $2.21 on sale. 50 of them is a lifetime supply</sub> | 1 | AliExpress, AJRC Official Store | **$2.21 / pack of 50** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 
 ## Wheels

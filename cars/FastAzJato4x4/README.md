@@ -260,7 +260,8 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 |-------|-------------|--------|
 | `SJato_Front_Body_Mount.stl` | Front body mount, **TPU**, 1 off. 80 × 18 × 7 mm | **On the car** |
 | `SJato_Rear_Body_Mount.stl` | Rear body mount, **TPU**, 1 off. 55 × 37 × 7 mm | **On the car** |
-| `SJato_Rear_Body_Post.stl` | Body post, **PETG**, **2 per mount**. 20 × 20 × 48 mm | **On the car** |
+| `SJato_Front_Body_Post.stl` | Front body post, **PETG**, **2 off**. 20 × 20 × 35 mm | **On the car** |
+| `SJato_Rear_Body_Post.stl` | Rear body post, **PETG**, **2 off**. 20 × 20 × 48 mm | **On the car** |
 | 18 → 15 mm bearing sleeve | Drops a common 10×15×4 into the 18 mm hub pocket, so nothing has to be shaved. Glue the outer face of the ring only and press it in, [`bearings_reference.md`](bearings_reference.md) | **On the car** |
 | `JatoE_Wing_Mount.stl` | Wing mount, printed. Not fitted, since the Jato 3.3 shell carries its own integrated wing | Spare / for a buggy body |
 | Custom front-end shroud / wing mount + Rustler bumper integration | Cosmetic shroud that integrates the Rustler 4x4 front bumper (better crash protection, ugly stock) into a clean wing mount. Discussed in [`bumper_analysis.md`](bumper_analysis.md#notes) | Idea / TODO |

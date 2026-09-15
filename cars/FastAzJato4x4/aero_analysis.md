@@ -120,7 +120,8 @@ The CF chassis has no clipless support, so **the body mounting is printed**. Tha
 |---|---|---|---|---|
 | **Front body mount** | `SJato_Front_Body_Mount.stl` | **TPU** | 1 | 80 × 18 × 7 mm |
 | **Rear body mount** | `SJato_Rear_Body_Mount.stl` | **TPU** | 1 | 55 × 37 × 7 mm |
-| **Body post** | `SJato_Rear_Body_Post.stl` | **PETG** | **2 per mount** | 20 × 20 × 48 mm |
+| **Front body post** | `SJato_Front_Body_Post.stl` | **PETG** | **2** | 20 × 20 × 35 mm |
+| **Rear body post** | `SJato_Rear_Body_Post.stl` | **PETG** | **2** | 20 × 20 × 48 mm |
 
 **Materials:** the two stick mounts print in **TPU**, the posts in **PETG**.
 
