@@ -97,6 +97,7 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Traxxas Jato 3.3 body, 5511A red**<br><sub>Note: take-off, its own integrated wing means no separate wing</sub> | 1 | Jenny's RC | **$34.47 each** | [Body](aero_analysis.md#body-comparison) |
+| **3D-printed body mounts, front + rear**<br><sub>Note: printed at home, STLs in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [Body](aero_analysis.md#body-comparison) |
 
 ## Wheels
 

@@ -254,13 +254,14 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 ## 3D Models
 
-> See [`3d-models/`](3d-models/) for all custom STL files.
+> STL files live in [`3d-models/`](3d-models/).
 
 | Model | Description | Status |
 |-------|-------------|--------|
+| `JatoE_Front_Body_Mount.stl` | Front body mount, printed at home | **On the car** |
+| `JatoE_Rear_Body_Mount.stl` | Rear body mount, printed at home | **On the car** |
+| `JatoE_Wing_Mount.stl` | Wing mount, printed. Not fitted, since the Jato 3.3 shell carries its own integrated wing | Spare / for a buggy body |
 | Custom front-end shroud / wing mount + Rustler bumper integration | Cosmetic shroud that integrates the Rustler 4x4 front bumper (better crash protection, ugly stock) into a clean wing mount. Discussed in [`bumper_analysis.md`](bumper_analysis.md#notes) | Idea / TODO |
-
----
 
 ## TODO / Notes
 
