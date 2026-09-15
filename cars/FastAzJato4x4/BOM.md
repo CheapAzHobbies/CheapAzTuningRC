@@ -62,7 +62,6 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | **Associated Factory Team 47.5wt shock fluid, ASC5438**<br><sub>Note: rear</sub> | 1 | Tammies Hobbies | **$7.99 / bottle** | [Shock oil](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Traxxas #9033 front shock tower, gray** | 1 | Tammies Hobbies | **$6.00 each** | [Towers](shock_tower_analysis.md) |
 | **MonsterKingz G-Maxx carbon fiber shock towers**<br><sub>Note: front + rear set, rear only used</sub> | 1 set | eBay, MonsterKingz | **$33.29 / set** | [Towers](shock_tower_analysis.md) |
-| **3D-printed shock covers**<br><sub>Note: the CF tower leaves the shock caps exposed, printed at home</sub> | 1 set | DIY | **$0** | [Towers](shock_tower_analysis.md) |
 | **HB Racing HBS67410 shock standoffs**<br><sub>Note: rear CF tower</sub> | 1 pair | AMain | **$3.99 / pair** | [Standoffs](shock_analysis.md#shock-standoffs--mounting) |
 | **Traxxas wheelie bar shoulder screws**<br><sub>Note: front upper shock mounts, pulled from a free wheelie bar. Rebuy as TRA4976 wheels + axles, $4 / set of 2</sub> | 1 set of 2 | Free wheelie bar | **$0** | [Shoulder screws](shock_tower_analysis.md#front-shock-mounting-wheelie-bar-shoulder-screws) |
 
