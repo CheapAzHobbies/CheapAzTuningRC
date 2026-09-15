@@ -9,7 +9,7 @@
   <img alt="Status" src="https://img.shields.io/badge/status-built%20%26%20running-2ea44f?style=for-the-badge">
   <img alt="Power" src="https://img.shields.io/badge/power-4S%20LiPo-d7263d?style=for-the-badge">
   <img alt="Weight" src="https://img.shields.io/badge/weight-2.868%20kg-444?style=for-the-badge">
-  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24882-444?style=for-the-badge">
+  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24885-444?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -32,14 +32,14 @@
 | 🔌 **Power** | Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV |
 | 🔋 **Battery** | Gens Ace Redline 2.0 4S HV 6000mAh 140C shorty (410 g) |
 | ⚙️ **Gearing** | 16T pinion on a 54T spur, FDR 3.38 |
-| 🌀 **Shocks** | Hot Bodies D8 97mm big bore, 40wt front / 50wt rear |
+| 🌀 **Shocks** | Hot Bodies D8 97mm big bore, 40wt front / 47.5wt rear |
 | 🦾 **Arms** | FLM26800 metal extended, about 10mm wider per side |
 | 🎯 **Steering** | PTK 9752TG-D servo, GPM 6845X alloy bell crank, Integy purple C-hubs + GPM XO-1 front blocks, Raptor R rear carriers |
 | 🏁 **Body** | Traxxas Jato 3.3 red (5511A) with its own integrated wing |
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
 | 🔧 **Wheel cost** | ~$52 up front (rims + tires + foams), ~$4 per tire change after that |
 | ⚖️ **Weight** | 2.868 kg all up |
-| 💰 **Build cost** | ~$882 in locked parts, see [`BOM.md`](BOM.md) |
+| 💰 **Build cost** | ~$885 in locked parts, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
 ## Table of Contents
@@ -75,7 +75,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 
 - **Official races are banned there as of Aug 2026.** Organised racing at the park got shut down, so what's left is informal running. The setup philosophy below doesn't change, the track and the way people drive it are the same, there's just no formal event to build for.
 - **When it does run, it's open class and no rules.** Everything is fair game in the same heat: buggies, truggies, and 1/5 and monster class like X-Maxx, XRT and the Teknos. Nobody is trying to wreck anybody, but **racing is rubbing**, and with that spread of sizes on one track **landing on someone, or getting landed on, is normal**. A 1/5 or an X-Maxx coming down on this truck is a different kind of load than a crash into dirt. It's most of why durability decides parts here ahead of outright performance.
-- **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 50wt rear / 40wt front (retested from an earlier 45wt/60wt), the rear still the firmer of the two to control squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
+- **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 47.5wt rear / 40wt front (down from an earlier 45wt/60wt), the rear still the firmer of the two to control squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
 - **Wide track for stability.** FLM26800 extended arms stretch the track width about 10mm per side, which calms the car over rough ground and adds droop.
 - **Diffs tuned for a loose surface.** ~7k front for steering on the loose stuff, 5k rear for rotation, 100k center (Traxxas TRA5130) to hold drive stability.
 - **Geared for punch, not top speed.** 16T pinion (FDR 3.38) on the 3665SD 2400KV keeps it punchy and cooler on a technical, rough track where you rarely hold full throttle.
@@ -95,7 +95,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Component | Part | Notes |
 |-----------|------|-------|
 | Shocks | **Hot Bodies D8 metal 97mm big bore** (HBS67296), front + rear | Used set, [`shock_analysis.md`](shock_analysis.md) |
-| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · **40wt F / 50wt R** (✅ retested) | Springs and pistons came with the D8 set, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
+| Springs / pistons / oil | White 59gf front + grey 52gf rear · 1.4mm×6 pistons · **40wt F (Traxxas TRA5033) / 47.5wt R (Associated ASC5438)** | Springs and pistons came with the D8 set, [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | Arms | **FLM26800 metal extended**, front + rear | $25.73/pair, [`arm_analysis.md`](arm_analysis.md) |
 | Shock standoffs | HB Racing HBS67410, 1 pair (rear CF tower) | [`shock_analysis.md`](shock_analysis.md#shock-standoffs--mounting) |
 | Upper shock screws (front) | **Traxxas wheelie bar shoulder screws**, 2 | Pulled from a free TRA5472 Revo bar; rebuy as TRA4976 ($4 for 2), [`shock_tower_analysis.md`](shock_tower_analysis.md#front-shock-mounting-wheelie-bar-shoulder-screws) |
@@ -237,7 +237,8 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 | HBS67296 | Hot Bodies D8 metal 97mm big-bore shocks, used set of 4 (white 59gf / grey 52gf springs + 1.4mm×6 pistons included) | Suspension | $65.99 + $8 ship | eBay, guavahobby | <img src="src/suspension_hb_d8_shocks_used_set.jpg" width="120"> |
 | HBS67410 | HB Racing shock standoffs, 1 pair (rear CF tower) | Suspension | $3.99 / pair | AMain | <img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="120"> |
 | TRA5472 / TRA4976 | Traxxas wheelie bar shoulder screws, front upper shock mounts (2) | Suspension | $0 (free bar; TRA4976 is $4 for 2) | Free wheelie bar | <img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" width="120"> |
-| Generic | Silicone shock oil, 40wt front + 50wt rear | Suspension | ~$6 each | Tammies | — |
+| TRA5033 | Traxxas 40wt shock oil, 500 cSt, 60cc silicone (front) | Suspension | $6.95 | Tammies Hobbies | <img src="src/suspension_traxxas_shock_oil_40wt_tra5033.jpg" width="120"> |
+| ASC5438 | Associated Factory Team 47.5wt shock fluid, 613 cSt (rear) | Suspension | $7.99 | Tammies Hobbies | <img src="src/suspension_associated_shock_fluid_47-5wt_asc5438.jpg" width="120"> |
 | 9065 | Traxxas Raptor R Ultimate alloy rear carriers (sold as the full Raptor R set) | Steering | $68.73 / set | eBay, toysion | <img src="src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg" width="120"> |
 | C26402PURPLE | Integy billet alloy C-hubs (caster blocks), purple | Steering | $13.62 | eBay, jontobitt1118 | <img src="../K939/src/suspension_integy_caster_block_c26402purple.jpg" width="120"> |
 | Generic | GPM XO-1 alloy front steering blocks (knuckles) | Steering | $19.16 | GPM | <img src="src/suspension_gpm_xo1_alloy_front_knuckle.jpg" width="120"> |
