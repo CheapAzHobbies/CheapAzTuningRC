@@ -220,36 +220,37 @@ Every part on the car, with prices, sources and subtotals, lives in **[`BOM.md`]
 
 ## Building It Cheaper
 
-This car got expensive because I bought the fun, gimmicky stuff. **About $327 of it is looks and feel, not lap times.** Same car, same layout, cheaper picks:
+This car got expensive because I bought the fun, gimmicky stuff. **About $165 of it comes off without changing how the car drives**, and some of the expensive picks genuinely earn their place.
 
 | On the car | Paid | Cheaper option | Cost | Saves |
 |---|---|---|---|---|
-| Carbon fiber chassis kit | $73.17 | Traxxas stock LCG chassis, [`chassis_analysis.md`](chassis_analysis.md) | $20.00 | **$53.17** |
-| Raptor R alloy hubs + Integy purple C-hubs + GPM XO-1 blocks | $101.51 | Tekno M6 nylon blocks + rear carriers, [`hub_analysis.md`](hub_analysis.md) | ~$17.78 | **~$83.73** |
-| Hot Bodies D8 metal big bores | $73.99 | Wltoys A929 plastic big bores, [`shock_analysis.md`](shock_analysis.md) | ~$15.99 | **~$58.00** |
+| HB D8 metal big bores + HBS67410 standoffs | $77.98 | **Stock Jato 4x4 GTR XX-Long** (7462-GRAY), springs included, no standoffs needed, [`shock_analysis.md`](shock_analysis.md) | $22.97 | **$55.01** |
 | Gens Ace Redline 6000 shorty | $92.26 | Fido RC Fi58130 5800 shorty, [`battery_analysis.md`](battery_analysis.md) | $55.00 | **$37.26** |
-| FLM26800 metal extended arms | $51.46 | Traxxas TRA3655X arms, [`arm_analysis.md`](arm_analysis.md) | $20.00 | **$31.46** |
-| MonsterKingz CF tower set | $33.29 | Traxxas TRA9039 rear tower, [`shock_tower_analysis.md`](shock_tower_analysis.md) | $6.00 | **$27.29** |
-| IMEX chrome rims + Kforce tires | $43.85 | HSP-style swirl wheels with tires on, [`wheel_analysis.md`](wheel_analysis.md) | ~$25.45 | **~$18.40** |
+| MonsterKingz CF tower set | $33.29 | **Plastic only**: keep the $6 #9033 front, add a TRA9039 rear, [`shock_tower_analysis.md`](shock_tower_analysis.md) | $6.00 | **$27.29** |
+| IMEX chrome rims + Kforce tires | $43.85 | HSP-style swirl wheels with tires already on, [`wheel_analysis.md`](wheel_analysis.md) | ~$25.45 | **~$18.40** |
 | ACER titanium turnbuckles | $35.94 | Arrma steel M4x60 turnbuckles, [`tie_rod_analysis.md`](tie_rod_analysis.md) | ~$18.00 | **~$17.94** |
-| **Total** | | | | **~$327** |
+| Bare Tekno 5580 rear stubs | $34.81 | TKR5570-17 kit, stub **and** hexes together, [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) | $25.95 | **$8.86** |
+| **Total** | | | | **~$165** |
 
-**That lands the same build near ~$766 all in, or ~$626 without the radio**, against ~$1,094 as built.
+**That lands the same car near ~$929 all in, or ~$788 without the radio**, against ~$1,094 as built.
 
-**What the money actually bought:**
+**Optional, only if you don't care about the look:** a generic AliExpress 1/8 buggy shell runs ~$25 against the $34.47 Jato 3.3 take-off, so **~$9 more**. The OG shell is most of this car's character, so it stays.
 
-- **IMEX chrome rims ($39.98).** Bought purely because they're baller. The [HSP swirl set](wheel_analysis.md) is the same rim style with tires already on for less.
-- **Integy purple C-hubs ($13.62).** Bought for the rare purple to match the car.
-- **Raptor R alloy hubs ($68.73).** Genuine slim EHD alloy, but only the rear carriers are on the car.
-- **Titanium turnbuckles ($35.94).** Steel rods do the same job for half.
-- **Carbon fiber chassis ($73.17) and CF rear tower ($33.29).** Light and stiff, and they look the part.
+### Don't cheap out on these
 
-**Worth every penny, don't cheap out:**
+- **CF chassis kit ($73.17), non-negotiable.** It **comes with the aluminum bulkheads**, so it replaces a separate bulkhead buy (Powerhobby alone is $36.99). Cheaper up front than building the same thing out of a stock chassis plus bulkheads, [`chassis_analysis.md`](chassis_analysis.md).
+- **FLM26800 arms ($51.46).** The extra ~10mm of track per side is a handling change, not a looks change, [`arm_analysis.md`](arm_analysis.md).
+- **Alloy hubs and carriers.** They're what survives landing on, or under, a 1/5 scale car. Only the *purple* on the Integy C-hubs was a colour pick, [`hub_analysis.md`](hub_analysis.md).
+- **MAX10 G2 + 3665SD combo ($127).** Matched pair, no sensor adapter, and it sets the ceiling for the whole drivetrain.
+- **Kforce 26013 tires ($3.87) and closed-cell foams ($8.08).** The cheapest parts on the car and the ones that decide how it drives.
+- **PTK 9752TG-D servo ($19.65).** Already the budget pick, and it matches a $130 ProTek at 7.4V.
 
-- **MAX10 G2 + 3665SD combo ($127).** Matched pair, no sensor adapter, and it's the whole drivetrain's ceiling.
-- **Kforce 26013 tires ($3.87) and the closed-cell foams ($8.08).** The cheapest things on the car and the ones that decide how it drives.
-- **Tekno M6 stubs ($57.96).** The part that stops snapping axles, see [`driveshaft_analysis.md`](driveshaft_analysis.md).
-- **PTK 9752TG-D servo ($19.65).** Already the budget pick, it matches a $130 ProTek at 7.4V.
+### What the fun tax actually bought
+
+- **IMEX chrome rims ($39.98).** Bought purely because they're baller. The HSP set is the same swirl rim with tires on for less.
+- **Titanium turnbuckles ($35.94).** Steel rods do the same job for about half.
+- **CF rear tower ($33.29).** Light and stiff, and it looks the part, but the plastic tower is $6 and takes the same hits.
+- **D8 metal big bores ($73.99).** A real upgrade over the stock GTRs, and also the single biggest line you can cut.
 
 ## 3D Models
 
