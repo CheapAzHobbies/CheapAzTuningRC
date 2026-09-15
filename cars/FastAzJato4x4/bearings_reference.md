@@ -24,6 +24,27 @@ The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10
 
 ---
 
+## What the bearings cost
+
+Bearings sell in **10-packs**, and no size on this car needs ten. So the honest number isn't what the packs cost, it's the **per-bearing price times what the car actually runs**. Unit price is the order total divided by how many bearings came in it, all AliExpress.
+
+| Size (mm) | On the car | Unit price | Line cost | The order it's priced from |
+|---|---|---|---|---|
+| **10×15×4** (6700-2RS) | 8 | **$0.31** | **$2.46** | Shop1105232489, 4 × 10-pack, $12.31 total (Jun 7 2026) |
+| **6×12×4** | 6 | **$0.38** | **$2.30** | Kate Bearing Store, 2 × 10-pack, $7.68 (Jun 7 2026) |
+| **8×16×5** (688-2RS) | 2 | **$0.79** | **$1.58** | raindew Official Store, 10-pack, $7.91 (Mar 6 2026) |
+| **12×18×4** (6701-2RS) | 1 | **$0.65** | **$0.65** | Bearing Solution Store, 10-pack, $6.52 (Aug 21 2025) |
+| **5×11×4** (MR115-2RS) | 1 | **$0.21** | **$0.21** | Global Best-Selling Direct, 10-pack, $2.14 (Jun 5 2026) |
+| **Total** | **18** | | **$7.21** | |
+
+**So the whole car's bearing set is $7.21.** Every size lands between **$0.21 and $0.79 a bearing**, which is why buying sealed and replacing them when they get gritty beats trying to save one.
+
+What you actually spend up front is more, because you're buying packs: the orders above run about **$41** and leave 40+ spares sitting in the drawer, enough for years and for the other cars. That's the right way to buy them and the wrong way to cost this car, which is why the table divides it out.
+
+**Not in this total:** the four **TRA3775 Oilite bushings** in the bell cranks (see above, they replaced the TRA5114 bearings), and the **10×18×5** stainless (S61810ZZ, $14.45 / 10-pack = **$1.45 each**), bought to have the option of [Mike's route](../Jato4x4_Mike/README.md) — the bare big bearing straight into the hub. This car sleeves down to 10×15×4 instead, so those aren't fitted.
+
+---
+
 ## OG — Stock Jato 4x4 BL-2s kit (baseline)
 
 | Size (mm) | Qty | Typical location |

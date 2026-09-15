@@ -9,7 +9,7 @@
   <img alt="Status" src="https://img.shields.io/badge/status-built%20%26%20running-2ea44f?style=for-the-badge">
   <img alt="Power" src="https://img.shields.io/badge/power-4S%20LiPo-d7263d?style=for-the-badge">
   <img alt="Weight" src="https://img.shields.io/badge/weight-2.868%20kg-444?style=for-the-badge">
-  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24870-444?style=for-the-badge">
+  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24871-444?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
 | 🔧 **Wheel cost** | ~$52 up front (rims + tires + foams), ~$4 per tire change after that |
 | ⚖️ **Weight** | 2.868 kg all up |
-| 💰 **Build cost** | ~$870 for the car, ~$1,103 with the battery and radio, see [`BOM.md`](BOM.md) |
+| 💰 **Build cost** | ~$871 for the car, ~$1,105 with the battery and radio, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
 ## Table of Contents
@@ -229,7 +229,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 | IMEX chrome rims + Kforce tires + blue race foams | $51.93 | HSP-style swirl wheels, tires **and** foams already on, [`wheel_analysis.md`](wheel_analysis.md) | ~$25.45 | **~$26.48** |
 | **Total** | | | | **~$146** |
 
-**That lands the same car near ~$957 all in, or ~$816 without the radio**, against ~$1,103 as built.
+**That lands the same car near ~$959 all in, or ~$818 without the radio**, against ~$1,105 as built.
 
 **Rear stubs, confirmed:** buying the **bare rear stubs at $16.90 a pair** beats the $25.95 TKR5570-17 kit, whose hexes go unused since the car runs the $8.36 aftermarket 17mm hubs. **Saves $9.05.**
 
@@ -254,18 +254,20 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 ## 3D Models
 
-> STL files live in [`3d-models/`](3d-models/).
+> STL files live in [`3d-models/`](3d-models/), with the **editable STEP** next to each body part. Print settings, materials and the screws that go with them are in [`aero_analysis.md`](aero_analysis.md#3d-printed-body-mounts).
 
 | Model | Description | Status |
 |-------|-------------|--------|
-| `JatoE_Front_Body_Mount.stl` | Front body mount, printed at home | **On the car** |
-| `JatoE_Rear_Body_Mount.stl` | Rear body mount, printed at home | **On the car** |
+| `SJato_Front_Body_Mount.stl` | Front body mount, **TPU**, 1 off. 80 × 18 × 7 mm | **On the car** |
+| `SJato_Rear_Body_Mount.stl` | Rear body mount, **TPU**, 1 off. 55 × 37 × 7 mm | **On the car** |
+| `SJato_Rear_Body_Post.stl` | Body post, **PETG**, **2 per mount**. 20 × 20 × 48 mm | **On the car** |
+| 18 → 15 mm bearing sleeve | Drops a common 10×15×4 into the 18 mm hub pocket, so nothing has to be shaved. Glue the outer face of the ring only and press it in, [`bearings_reference.md`](bearings_reference.md) | **On the car** |
 | `JatoE_Wing_Mount.stl` | Wing mount, printed. Not fitted, since the Jato 3.3 shell carries its own integrated wing | Spare / for a buggy body |
 | Custom front-end shroud / wing mount + Rustler bumper integration | Cosmetic shroud that integrates the Rustler 4x4 front bumper (better crash protection, ugly stock) into a clean wing mount. Discussed in [`bumper_analysis.md`](bumper_analysis.md#notes) | Idea / TODO |
 
 ## TODO / Notes
 
 - [x] Rear Tekno 5580 stubs + aftermarket 17mm hubs
-- [ ] Pick a full sealed bearing kit (the hub bearings are already fitted and working)
+- [x] Bearings costed out: **$7.21** for the car's 18, bought by size in 10-packs, [`bearings_reference.md`](bearings_reference.md#what-the-bearings-cost)
 - [x] Motor locked in: Hobbywing 3665SD G3 2400KV
 - [x] Full-car build photos

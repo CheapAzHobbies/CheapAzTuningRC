@@ -16,6 +16,7 @@
 - [Wing Mount Comparison](#wing-mount-comparison) — the OEM Jato mount held in reserve, and what was vetoed
 - [Shock Tower Compatibility Cascade](#shock-tower-compatibility-cascade) — why the wing mount choice is what made the rear tower carbon
 - [Body Comparison](#body-comparison) — JConcepts P2 vs Traxxas OEM tiers
+- [3D Printed Body Mounts](#3d-printed-body-mounts) — what to print, in what material, and the hardware that goes with it
 - [Notes](#notes)
 
 ---
@@ -108,6 +109,28 @@ The body shell. **Buggy-style aftermarket bodies are the direction**, the JConce
 | 🔵 **Traxxas Jato 4x4, pre-painted 9060-series** | **Part:** 9060-BLUE / -GRN / -ORNG / -PINK<br>**Material:** Polycarbonate<br>**Fits:** Traxxas Jato 4x4 (OEM exact)<br>**Finish:** Pre-painted, different graphics scheme; ready to mount, no trimming<br>**Includes:** decals<br>**Price:** **$43.95** | Pro: Pre-painted, ready to mount. Different scheme + colors<br><br>Con: **Priciest at $43.95** and looks generic | <img src="src/body_traxxas_jato4x4_9060green.jpg" width="250"> <img src="src/body_traxxas_jato4x4_9060orange.jpg" width="250"> <img src="src/body_traxxas_jato4x4_9060pink.jpg" width="250">&nbsp;<img src="src/body_traxxas_jato4x4_9060blue.jpg" width="250"><br><em>green · orange · pink · blue</em> |
 
 > **⚠️ CF chassis vs clipless bodies:** the chosen [CF chassis](chassis_analysis.md) **doesn't support the clipless body-latch system** that the Traxxas OEM Jato 4x4 bodies (9018 / 9060 family) rely on. To run an OEM body you'd have to **add body posts or drill mounting holes** for it. The **JConcepts P2 doesn't sidestep this**, there's nothing on the CF chassis sides to fasten hook and loop tape to, so it hits the same problem. **The fix either way is 3D printed mounts**, TPU or PETG, which is easy enough and cheaper than changing chassis. **So the clipless latches + hardware that ship with the OEM bodies are moot on this build**, don't count "includes clipless latches" as a plus here.
+
+---
+
+## 3D Printed Body Mounts
+
+The CF chassis has no clipless support, so **the body mounting is printed**. That's the fix the body table above keeps pointing at, and it costs filament rather than parts. Files are in [`3d-models/`](3d-models/), **STL to print and the editable STEP alongside it**, so the mounts can be adjusted for a different shell rather than re-drawn.
+
+| Part | File | Material | Qty | Size |
+|---|---|---|---|---|
+| **Front body mount** | `SJato_Front_Body_Mount.stl` | **TPU** | 1 | 80 × 18 × 7 mm |
+| **Rear body mount** | `SJato_Rear_Body_Mount.stl` | **TPU** | 1 | 55 × 37 × 7 mm |
+| **Body post** | `SJato_Rear_Body_Post.stl` | **PETG** | **2 per mount** | 20 × 20 × 48 mm |
+
+**Materials:** the two stick mounts print in **TPU**, the posts in **PETG**.
+
+**Hardware, per mount:** **2 × M3 countersunk (tapered) screws, 10 mm or longer**, plus **2 × M3 button head, 10 mm or longer, at the front**. Length isn't fussy as long as it clears, so use what's in the box.
+
+**Body clips:** AJRC **50 pcs silver** R-clips, $2.21 a pack (listed $6.31), AliExpress. Universal 1/5 to 1/16, so one pack covers every car in the garage.
+
+<p align="center"><img src="src/body_ajrc_body_clips_50pc_silver.jpg" width="320"><br><em>AJRC 50 pc silver R-clips, $2.21 the pack</em></p>
+
+> **Also printed on this car, not a body part:** the **18 → 15 mm bearing sleeve** that drops a common 10×15×4 into the 18 mm hub pocket. Glue on the outer face of the ring only, then press it in. Details in [`bearings_reference.md`](bearings_reference.md).
 
 ---
 

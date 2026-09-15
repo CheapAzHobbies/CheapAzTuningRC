@@ -2,6 +2,8 @@
 
 Everything on the car, nothing that isn't. **Qty** is how much of the product was bought, **Price** is what it cost and what that covers, and anything else sits in a small note under the part. The reasoning behind each pick is in the linked doc.
 
+> **This is not the cheapest way to build a car this fast.** It's a good base with my personal touches bolted on and a few bad decisions I paid for. A **bare-bones BOM** is coming later, running the stock Jato 4x4 wing and body, and **this list isn't the final spec for this car either**. It's here so you can see what it actually took, if you want something just as quick. The money that can come back off is in [Building It Cheaper](README.md#building-it-cheaper).
+
 <p align="center"><img src="src/overview_fastazjato_parts_collage.jpg" width="900"><br><em>Most of the parts on the car. A few have no photo yet, so the tables below are the full list.</em></p>
 
 ## Cost Summary
@@ -9,17 +11,15 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | Section | Subtotal |
 |---|---|
 | [Electronics](#electronics) | $383.73 |
-| [Drivetrain](#drivetrain) | $164.79 |
-| [Suspension](#suspension) | $188.71 |
+| [Drivetrain](#drivetrain) | $172.00 |
+| [Suspension](#suspension) | $180.71 |
 | [Hubs](#hubs) | $109.87 |
 | [Steering](#steering) | $79.53 |
 | [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
-| [Aero & Body](#aero--body) | $34.47 |
+| [Aero & Body](#aero--body) | $36.68 |
 | [Wheels](#wheels) | $51.93 |
-| **Total** | **~$1,103** |
-| **Car only, without the battery and radio** | **~$870** |
-
-Still open: a full sealed bearing kit (the hub bearings are already fitted and working), 
+| **Total** | **~$1,105** |
+| **Car only, without the battery and radio** | **~$871** |
 
 ---
 
@@ -50,6 +50,7 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | **Tekno TKR1654-17 front stubs**<br><sub>Note: $15.00 + $4.99 shipping, order 18-13082-92531, May 2025</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **Tekno 5580 rear stubs**<br><sub>Note: bought 2 pairs for $33.80, the second pair was for a friend</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **B'LASTER white lithium grease, SKU 56817**<br><sub>Note: 11 oz spray, on the CVDs and gears, not inside the diffs</sub> | 1 | Harbor Freight, SKU 56817 | **$6.99 / can** | [Grease](driveshaft_analysis.md#grease-cvds--gears) |
+| **Sealed ball bearings, the car's 18**<br><sub>Note: bought by size in 10-packs, so this is the per-bearing price times what the car actually runs, not what the packs cost. Sizes, counts and unit prices in [`bearings_reference.md`](bearings_reference.md#what-the-bearings-cost)</sub> | 1 | AliExpress, various | **$7.21 / set of 18** | [Bearings](bearings_reference.md#what-the-bearings-cost) |
 
 ## Suspension
 
@@ -72,6 +73,7 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | **GPM XO-1 alloy steering blocks** | 1 | GPM | **$19.16 / pair** | [Hubs](hub_analysis.md) |
 | **Traxxas Raptor R Ultimate alloy hub set, 9063 / 9064 / 9065**<br><sub>Note: front + rear set, only the 9065 rear carriers are used</sub> | 1 | eBay, toysion | **$68.73 / set** | [Hubs](hub_analysis.md#price-history) |
 | **Aftermarket 17mm splined wheel hubs, E-Revo 1.0 fit**<br><sub>Note: black, 2-3mm wider per corner, no barrel nut needed on Tekno stubs</sub> | 1 | AliExpress | **$8.36 / set of 4** | [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes) |
+| **3D-printed 18 → 15mm bearing sleeves**<br><sub>Note: printed at home, drops a 10×15×4 into the 18mm hub pocket. A touch of super glue on the outer face of the ring only, then press into either the EHD plastic (TRA9032 / TRA9037 / TRA9050) or the Raptor R alloy (9063 / 9064 / 9065) hubs</sub> | 1 | DIY | **$0** | [Bearings](bearings_reference.md) |
 
 ## Steering
 
@@ -97,7 +99,8 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Traxxas Jato 3.3 body, 5511A red**<br><sub>Note: take-off, its own integrated wing means no separate wing</sub> | 1 | Jenny's RC | **$34.47 each** | [Body](aero_analysis.md#body-comparison) |
-| **3D-printed body mounts, front + rear**<br><sub>Note: printed at home, STLs in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [Body](aero_analysis.md#body-comparison) |
+| **3D-printed body mounts + posts, front + rear**<br><sub>Note: printed at home. Mounts in TPU, posts in PETG, two posts per mount. STL + editable STEP in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
+| **AJRC body clips, 50 pcs silver**<br><sub>Note: 1/5 to 1/16 R-clips, listed $6.31, paid $2.21 on sale. 50 of them is a lifetime supply</sub> | 1 | AliExpress, AJRC Official Store | **$2.21 / pack of 50** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 
 ## Wheels
 
