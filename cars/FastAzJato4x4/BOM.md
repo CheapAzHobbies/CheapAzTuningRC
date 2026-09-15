@@ -8,7 +8,7 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 
 | Section | Subtotal |
 |---|---|
-| [Electronics](#electronics) | $382.82 |
+| [Electronics](#electronics) | $383.73 |
 | [Drivetrain](#drivetrain) | $164.79 |
 | [Suspension](#suspension) | $200.62 |
 | [Hubs](#hubs) | $109.87 |
@@ -17,7 +17,7 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | [Aero & Body](#aero--body) | $34.47 |
 | [Wheels](#wheels) | $51.93 |
 | **Total** | **~$1,108** |
-| **Car only, without the battery and radio** | **~$874** |
+| **Car only, without the battery and radio** | **~$875** |
 
 Still open: a full sealed bearing kit (the hub bearings are already fitted and working), plus a price for the GPM servo link.
 
@@ -31,7 +31,7 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | **PTK 9752TG-D servo** | 1 | AliExpress, PTK Servo Store | **$19.65 each** | [Servo](servo_analysis.md) |
 | **Gens Ace Redline 2.0 4S HV 6000mAh 140C shorty**<br><sub>Note: GEA60004S14S, 410 g</sub> | 1 | eBay, mugrc-store | **$92.26 each** | [Battery](battery_analysis.md) |
 | **FlySky Noble NB4 radio**<br><sub>Note: running the FGr4S V2 receiver</sub> | 1 | AliExpress, Hi-Goeswell | **$140.91 each** | [Radio](radio_analysis.md) |
-| **Receiver box**<br><sub>Note: knock-off clear blue Slash 4x4 LCG battery box, used for the RX</sub> | 1 | AliExpress | **~$3.00 / pair** | [RX box](radio_analysis.md#rx-box-and-how-its-mounted) |
+| **Receiver box**<br><sub>Note: knock-off clear blue Slash 4x4 LCG battery box, used for the RX. $3.34 for 2 pcs, $3.91 with fees</sub> | 1 | AliExpress, Goodluck RC Store | **$3.91 / pair** | [RX box](radio_analysis.md#rx-box-and-how-its-mounted) |
 
 ## Drivetrain
 
