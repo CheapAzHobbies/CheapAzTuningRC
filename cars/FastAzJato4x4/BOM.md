@@ -2,6 +2,8 @@
 
 Everything on the car, nothing that isn't. **Qty** is how much of the product was bought, **Price** is what it cost and what that covers, and anything else sits in a small note under the part. The reasoning behind each pick is in the linked doc.
 
+<p align="center"><img src="src/overview_fastazjato_parts_collage.jpg" width="900"><br><em>Most of the parts on the car. A few have no photo yet, so the tables below are the full list.</em></p>
+
 ## Cost Summary
 
 | Section | Subtotal |
@@ -11,7 +13,8 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | [Suspension](#suspension) | $183.67 |
 | [Hubs](#hubs) | $109.87 |
 | [Steering](#steering) | ~$72.92 |
-| [Chassis & Body](#chassis--body) | $124.59 |
+| [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
+| [Aero & Body](#aero--body) | $34.47 |
 | [Wheels](#wheels) | $51.93 |
 | **Total** | **~$1,094** |
 | **Car only, without the battery and radio** | **~$860** |
@@ -76,14 +79,19 @@ Still open: a full sealed bearing kit. The hub bearings are already fitted and w
 | **RPM 80511 long rod ends, white** | 1 pack of 12 | RPM | **~$7-9 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
 | **Traxxas TRA5525 rod ends**<br><sub>Note: for the hollow balls</sub> | 1 pack of 12 | Traxxas | **$9.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
 
-## Chassis & Body
+## Chassis & Bumpers
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Carbon fiber chassis kit, Slash 4x4 VXL pattern**<br><sub>Note: TRA6808 pattern</sub> | 1 | AliExpress, RCTOYFUN | **$73.17 / kit** | [Chassis](chassis_analysis.md) |
 | **Front + rear bulkhead tie bars**<br><sub>Note: DIY from scrap aluminum instead of Traxxas 6823, front filed to clear the arm</sub> | 2 | DIY | **$0** | [Chassis](chassis_analysis.md#notes) |
-| **RPM 81042 wide front bumper, black** | 1 | — | **$9.95 each** | [Bumpers](bumper_analysis.md) |
+| **RPM 81042 wide front bumper, black**<br><sub>Note: from Mike</sub> | 1 | Mike | **$9.95 each** | [Bumpers](bumper_analysis.md) |
 | **Traxxas TRA9044 skid plates**<br><sub>Note: front + rear set, rear only used</sub> | 1 set | Tammies Hobbies | **$7.00 / set** | [Bumpers](bumper_analysis.md) |
+
+## Aero & Body
+
+| Part | Qty | Source | Price | Doc |
+|---|---|---|---|---|
 | **Traxxas Jato 3.3 body, 5511A red**<br><sub>Note: take-off, its own integrated wing means no separate wing</sub> | 1 | Jenny's RC | **$34.47 each** | [Body](aero_analysis.md#body-comparison) |
 
 ## Wheels
