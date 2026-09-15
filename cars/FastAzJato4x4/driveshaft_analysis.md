@@ -83,7 +83,7 @@ A way to get a **longer axle without the cut-and-glue**, cheaply. The Traxxas **
 |---|---|---|
 | Knock-off Slash 4×4 HD steel CV driveshafts, front + rear (TRA6851R + TRA6852R clones) | set of 4 | $21.10 |
 | Traxxas 6752 long output shaft (**all 4 corners**) | 4 × $8 | $32.00 |
-| Tekno TKR1654-17, front 17 mm M6 adapter | 1 pair | $23.15 |
+| Tekno TKR1654-17, front 17 mm M6 adapter | 1 pair | $19.99 |
 | Tekno TKR5570-17 SCT410 kit (rear stub + 17mm hexes + nuts + pins) | 1 set | $25.95 |
 | **Gross parts total** | | **≈ $102.20** |
 
@@ -119,13 +119,13 @@ The build runs Tekno M6 stubs at both ends. **Front = the TKR1654-17 17mm M6 hub
 
 | Position | Tekno stub | For | Price | Status |
 |---|---|---|---|---|
-| **Front** | **TKR1654-17**, 17mm M6 hub adapter (17mm hex adapters + stub pins + cross pins + 17mm nuts) | Front 17mm M6 setup | **$23.15/pair**, only 1 pair needed | ✅ In hand. Minor 17mm hex filing to seat (see [`wheel_hex`](hub_analysis.md#17mm-wheel-hubs-hexes)) |
+| **Front** | **TKR1654-17**, 17mm M6 hub adapter (17mm hex adapters + stub pins + cross pins + 17mm nuts) | Front 17mm M6 setup | **$19.99/pair** shipped, only 1 pair needed | ✅ In hand. Minor 17mm hex filing to seat (see [`wheel_hex`](hub_analysis.md#17mm-wheel-hubs-hexes)) |
 | **Rear** | **Tekno TKR5570-17 SCT410 kit** = the 5580 stub + 17mm hexes + nuts + cross-pins in one (buy the kit, not the bare 5580) | Rear 17mm stub + hex in one | **$25.95** (PowerHobby, free ship direct) | ✅ **Confirmed fit** (6 mm M6 end, 10 mm bearing seat). Gives the rear stub **and** hexes together. |
 | ~~**Rear**~~ | 🚫 ~~**Tekno 5070**, hardened steel, EB48 (buggy)~~ | **Does NOT fit, too large** | $17.91 | 🚫 **Ruled out.** **8 mm stub end** (vs 6 mm on the 5580) + **~12 mm bearing seat** (vs 10 mm), so it'd need a **12 mm ID inner**, not the 10×18×5. The 5580 (in the TKR5570-17 kit) is the confirmed fit |
 
 <p align="center"><img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="230">&nbsp;<img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="230">&nbsp;<img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" width="230">&nbsp;<img src="src/drivetrain_tekno_5070_stub_axle.jpg" width="230"><br><em>Front stub: TKR1654-17 (17mm M6 adapter) · the bare **TKR5580** stub (the "-80") · the **TKR5570-17** SCT410 kit (the "-70" = 5580 stub + 17mm hexes + nuts + pins), the rear pick · Tekno 5070 (EB48): 🚫 ruled out (too large)</em></p>
 
-Front stub purchase: eBay seller mr-retro, order 06-14626-84975, $69.45 total for **3 pairs** ($23.15/pair), ordered May 10 2026, delivered May 13 2026. Only 1 pair is needed for the build; the other 2 pairs are spares.
+Front stub purchase: eBay seller **kool_toyz_4u**, order **18-13082-92531**, **$19.99 shipped** ($15.00 + $4.99), placed May 18 2025, delivered May 24 2025. One kit, which is the pair on the car. 🚧 A separate mr-retro order for 3 pairs at $23.15/pair was recorded earlier and is unconfirmed.
 
 Rear stubs purchase: eBay seller mr-retro, **$33.80 for 2 pairs ($16.90/pair)**, delivered Aug 17 2026. Only one pair is on this car, the second was bought for a friend.
 
