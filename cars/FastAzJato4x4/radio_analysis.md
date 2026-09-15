@@ -27,7 +27,7 @@
 
 ## RX box and how it's mounted
 
-**The box is a knock-off clear blue Slash 4x4 LCG battery box**, **$3.91 for a pair** (2 pcs, Goodluck RC Store), used as a receiver box rather than for a battery. Cheap, sealed enough to keep dust off the FGr4S, and the clear shell means the bind LED is readable without opening anything.
+**The box is a knock-off clear blue Slash 4x4 LCG battery box**, **$3.91 for a pair** (2 pcs, Goodluck RC Store), used as a receiver box rather than for a battery. **55 × 35mm outside, 48mm across inside, 32mm deep, 18 g.** Cheap, sealed enough to keep dust off the FGr4S, and the clear shell means the bind LED is readable without opening anything.
 
 **The mounting is the good part.** The plan was to use the screw holes that originally take the front battery mount, the stopper that keeps a pack from sliding forward. **Losing that stopper is no loss anyway**, it is a pair of metal tubes and it looks tacky, so those holes were going spare regardless. What turned up while test fitting: **rotate the box and its holes line up with the battery stopper slots at an angle**. That angled position:
 
@@ -39,7 +39,7 @@
 
 **It also saves weight while protecting the RX.** A dedicated receiver box is heavier than this, and the alternative of wrapping the receiver in foam and tape protects it less. A $3 shell that keeps dirt and moisture off the FGr4S, mounts on existing holes and adds almost nothing to the car is doing three jobs at once.
 
-<p align="center"><img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="600"><br><em>Clear blue RX box mounted at an angle in the front battery stopper slots, battery strapped centred alongside</em></p>
+<p align="center"><img src="src/electronics_waterproof_receiver_box_slash4x4.jpg" width="300">&nbsp;<img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="300"><br><em>The box itself: 55 × 35mm outer, 48mm inner, 32mm deep, 18 g · mounted at an angle in the front battery stopper slots, battery strapped centred alongside</em></p>
 
 **Consequence for the battery:** the box occupies the battery side of the deck, so the pack has to sit centred and the space for it is fixed. That is what forces a **shorty**, and the reasoning lives in [`battery_analysis.md`](battery_analysis.md#chassis-layout-and-shortlist).
 
