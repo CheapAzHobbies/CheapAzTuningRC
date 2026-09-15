@@ -228,32 +228,32 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 | 56817 | B'LASTER High-Performance White Lithium Grease, 11 oz spray (CVDs + gears) | Drivetrain | $6.99 / can | Harbor Freight | <img src="src/drivetrain_blaster_white_lithium_grease_56817.jpg" width="120"> |
 | 7455 | Traxxas Jato 4x4 BL-2S take-off center driveshaft | Drivetrain | $2.49 each | Jenny's RC | <img src="src/drivetrain_traxxas_jato4x4_center_shaft_7455.webp" width="120"> |
 | Generic | Knock-off Slash 4x4 HD steel CV driveshafts, front + rear (TRA6851R / TRA6852R clones, order #8211906604054866) | Drivetrain | $21.10 / set of 4 | AliExpress, FengS Store | <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="120"> |
-| TRA6752 | Traxxas long output shafts, all four corners | Drivetrain | $8.00 each ($32.00 for 4) | Go Nitro Hobbies | <img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="120"> |
+| TRA6752 | Traxxas long output shafts, all four corners<br><sub>Note: 4 × $8.00 = $32.00</sub> | Drivetrain | $8.00 each | Go Nitro Hobbies | <img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" width="120"> |
 | TRA6881 / TRA6880 | Traxxas front / rear gearbox housings | Drivetrain | $4.00 each | Tammies Hobby | <img src="src/drivetrain_traxxas_diff_housing_front_tra6881.jpg" width="120"> |
 | TKR1654-17 | Tekno 17mm M6 front stub / hub adapter | Drivetrain | $23.15 / pair | eBay, mr-retro | <img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="120"> |
 | 5580 | Tekno rear stubs, bought bare | Drivetrain | $34.81 / pair | eBay, mr-retro | <img src="src/drivetrain_tekno_5580_stub_axle.jpg" width="120"> |
 | Generic | AliExpress aftermarket 17mm splined wheel hubs (E-Revo 1.0 fit), black (set of 4, with nuts + pins) | Drivetrain | $8.36 / set of 4 | AliExpress | <img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" width="120"> |
 | FLM26800 | FLM metal extended arms, front + rear (2 pairs) | Suspension | $25.73 / pair | FLM | <img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="120"> |
-| Generic | MonsterKingz (G-Maxx) carbon fiber rear shock tower (sold as a front + rear set) | Suspension | $33.29 / set (rear only used) | eBay, MonsterKingz | <img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="120"> |
+| Generic | MonsterKingz (G-Maxx) carbon fiber rear shock tower (sold as a front + rear set)<br><sub>Note: front + rear set, rear only used</sub> | Suspension | $33.29 / set | eBay, MonsterKingz | <img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="120"> |
 | 9033 | Traxxas Jato 4x4 stock front shock tower (gray) | Suspension | $6.00 each | Tammies Hobby | <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="120"> |
-| HBS67296 | Hot Bodies D8 metal 97mm big-bore shocks, used set of 4 (white 59gf / grey 52gf springs + 1.4mm×6 pistons included) | Suspension | $65.99 / set of 4 + $8 ship | eBay, guavahobby | <img src="src/suspension_hb_d8_shocks_used_set.jpg" width="120"> |
+| HBS67296 | Hot Bodies D8 metal 97mm big-bore shocks, used set of 4 (white 59gf / grey 52gf springs + 1.4mm×6 pistons included)<br><sub>Note: used set, plus $8 shipping</sub> | Suspension | $65.99 / set of 4 | eBay, guavahobby | <img src="src/suspension_hb_d8_shocks_used_set.jpg" width="120"> |
 | HBS67410 | HB Racing shock standoffs, 1 pair (rear CF tower) | Suspension | $3.99 / pair | AMain | <img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="120"> |
-| TRA5472 / TRA4976 | Traxxas wheelie bar shoulder screws, front upper shock mounts (2) | Suspension | $0 (free bar; TRA4976 is $4 / set of 2) | Free wheelie bar | <img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" width="120"> |
+| TRA5472 / TRA4976 | Traxxas wheelie bar shoulder screws, front upper shock mounts (2)<br><sub>Note: pulled from a free wheelie bar; TRA4976 is $4 / set of 2</sub> | Suspension | $0 | Free wheelie bar | <img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" width="120"> |
 | TRA5033 | Traxxas 40wt shock oil, 500 cSt, 60cc silicone (front) | Suspension | $6.95 / bottle | Tammies Hobbies | <img src="src/suspension_traxxas_shock_oil_40wt_tra5033.jpg" width="120"> |
 | ASC5438 | Associated Factory Team 47.5wt shock fluid, 613 cSt (rear) | Suspension | $7.99 / bottle | Tammies Hobbies | <img src="src/suspension_associated_shock_fluid_47-5wt_asc5438.jpg" width="120"> |
-| 9065 | Traxxas Raptor R Ultimate alloy rear carriers (sold as the full Raptor R set) | Steering | $68.73 / set (rears only used) | eBay, toysion | <img src="src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg" width="120"> |
+| 9065 | Traxxas Raptor R Ultimate alloy rear carriers (sold as the full Raptor R set)<br><sub>Note: front + rear set, rears only used</sub> | Steering | $68.73 / set | eBay, toysion | <img src="src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg" width="120"> |
 | C26402PURPLE | Integy billet alloy C-hubs (caster blocks), purple | Steering | $13.62 / pair | eBay, jontobitt1118 | <img src="../K939/src/suspension_integy_caster_block_c26402purple.jpg" width="120"> |
-| Generic | GPM XO-1 alloy front steering blocks (knuckles) | Steering | $19.16 (🚧 per pair or each) | GPM | <img src="src/suspension_gpm_xo1_alloy_front_knuckle.jpg" width="120"> |
+| Generic | GPM XO-1 alloy front steering blocks (knuckles) | Steering | $19.16 / pair | GPM | <img src="src/suspension_gpm_xo1_alloy_front_knuckle.jpg" width="120"> |
 | 9752TG-D | PTK metal gear high speed servo | Steering | $19.65 each | AliExpress, PTK Servo Store | <img src="src/steering_ptk_9752tgd_servo_dimensions.jpg" width="120"> |
 | 6845X | GPM aluminum bell crank, brass / oilite bushings | Steering | $19.98 each | GPM | <img src="src/steering_gpm_aluminum_bell_crank_6845x.jpg" width="120"> |
-| Generic | ACER Racing titanium M4x60 turnbuckle rods, all 6 links | Steering | $5.99 each ($35.94 for 6) | ACER Racing | <img src="src/steering_acer_titanium_turnbuckle_m4x60.jpg" width="120"> |
+| Generic | ACER Racing titanium M4x60 turnbuckle rods, all 6 links<br><sub>Note: 6 × $5.99 = $35.94</sub> | Steering | $5.99 each | ACER Racing | <img src="src/steering_acer_titanium_turnbuckle_m4x60.jpg" width="120"> |
 | 80511 / TRA5525 | RPM long rod ends (white) + Traxxas hollow balls | Steering | ~$7-9 / pack of 12 + $9 / pack of 12 | RPM / Traxxas | <img src="src/steering_rpm_long_rod_ends_white_80511.jpg" width="120"> |
 | 5511A | Traxxas Jato 3.3 red body, take-off | Body | $34.47 each | Jenny's RC | <img src="src/body_traxxas_jato33_red_5511a.jpg" width="120"> |
-| IMX7893 | IMEX 1/8 Rally Tire Set, Chrome (pair), the rims on the car, slicks removed | Aero | $19.99 / pair (2 on the car) | IMEX Model Company | <img src="src/aero_imex_rally_chrome_wheels.png" width="120"> |
+| IMX7893 | IMEX 1/8 Rally Tire Set, Chrome (pair), the rims on the car, slicks removed<br><sub>Note: 2 pairs on the car</sub> | Aero | $19.99 / pair | IMEX Model Company | <img src="src/aero_imex_rally_chrome_wheels.png" width="120"> |
 | 26013 | Kforce 1/8 buggy tires, "Mitsubishi-logo" tread, 110 × 43mm, natural rubber 35°, tires only | Aero | $3.87 / set of 4 | AliExpress | <img src="src/aero_generic_tires_mitsubishi_26013.jpg" width="120"> |
 | Generic | Closed-cell foam inserts | Aero | $8.08 / set of 4 | AliExpress | <img src="src/aero_closed_cell_foams_blue.jpg" width="120"> |
 | 81042 | RPM wide front bumper, black | Bumpers | $9.95 each | — | <img src="src/bumpers_rpm_wide_front_81042_black.webp" width="120"> |
-| TRA9044 | Traxxas front + rear skid plates (rear plate on the car) | Bumpers | $7.00 / set (rear only used) | Tammies Hobby | <img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="120"> |
+| TRA9044 | Traxxas front + rear skid plates (rear plate on the car)<br><sub>Note: front + rear set, rear only used</sub> | Bumpers | $7.00 / set | Tammies Hobby | <img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="120"> |
 
 ---
 
