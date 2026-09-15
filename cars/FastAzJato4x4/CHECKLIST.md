@@ -25,7 +25,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 - [x] **Steering bell crank**, GPM aluminum 6845X, in hand, `steering_bell_crank_analysis.md`
 - [x] **Servos**, PTK 9752TG-D metal high-speed, in hand (8-pack bulk), `servo_analysis.md`
 - [x] **Wheel hexes**, front Tekno TKR1654-17 + rear TKR5570-17 SCT410 kit (star 17mm hexes), `wheel_hex_analysis.md`
-- [x] **Wheels / tires** — **RED SPIDER wheels + tires mounted** (17mm hex, same tire on colored rims), `wheel_analysis.md`
+- [x] **Wheels / tires** — **IMEX IMX7893 chrome rims + triangle 26013 tires + blue closed-cell foams** mounted (17mm hex), `wheel_analysis.md`
 - [x] **Battery** — 4S 5000-5400mAh (~5200 sweet spot; 6000 too heavy, 4200 too short), from the shared fleet, `battery_analysis.md`
 - [x] **Radio / receiver** — FlySky Noble NB4 + FGr4S V2 RX, in hand, `radio_analysis.md`
 - [x] **Connectors** — EC5 stock; EC5/XT60/XT90 good, Deans/Tamiya avoided, `connector_reference.md`
