@@ -76,7 +76,7 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | Part | Qty | Status | Source | Price | Decided by |
 |---|---|---|---|---|---|
 | **Rear wing** — the **Jato 3.3 body's own integrated wing** (no separate buggy wing or mount) | — | ✅ on the body | — | **$0** | [`aero_analysis.md`](aero_analysis.md#body-comparison) |
-| **Mitsubishi-tread 26013 tires** (generic 1/8 buggy, Fiona Hobby), tires only, mounted on the IMEX rims | 1 set of 4 | ✅ **In Hand** (mounted) | AliExpress | **$3.87 / set of 4** (paid, shipped) | [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
+| **Kforce Mitsubishi-tread 26013 tires** (1/8 buggy, 110 × 43mm, natural rubber 35°), tires only, mounted on the IMEX rims | 1 set of 4 | ✅ **In Hand** (mounted) | AliExpress | **$3.87 / set of 4** (paid, shipped) | [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
 | **IMEX IMX7893 1/8 Rally Tire Set, Chrome** (chrome swirl rims; the glued rally slicks are off) | 2 pairs on the car | ✅ **In Hand** (rims running) | IMEX Model Company | **$19.99 / pair** list (~$39.98 for 2 pairs) | [`wheel_analysis.md`](wheel_analysis.md#rims-bare-wheels) |
 | **Closed-cell foam inserts (4pc)** — the good reusable ones, keeps it planted / less rim slap | 1 set of 4 | ✅ **In Hand** | AliExpress | **$8.08** | [`wheel_analysis.md`](wheel_analysis.md#foam-inserts) |
 

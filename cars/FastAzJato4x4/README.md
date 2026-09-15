@@ -170,7 +170,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Body / shell | **Traxxas Jato 3.3 red (5511A)** | $34.47, clearance holes cut for the tall towers, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 | Wing | The Jato 3.3 shell's own integrated wing | No separate wing or mount, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 | Rims | **IMEX IMX7893 1/8 Rally chrome** (17mm hex) | Bought for the look. A bit narrower than standard, so standard 1/8 tires go on with some finesse. The glued rally slicks came off: fun to drift, not for racing, [`wheel_analysis.md`](wheel_analysis.md#rims-bare-wheels) |
-| Tires | **Mitsubishi-tread 26013** (Fiona Hobby), set of 4 | $3.87 shipped. Softer, but very durable once worn in, [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
+| Tires | **Kforce Mitsubishi-tread 26013** (110 × 43mm, natural rubber, 35°), set of 4 | $3.87 shipped. Softer, but very durable once worn in, [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
 | Foam inserts | Blue closed-cell race foams, reusable | Keeps it planted, less rim slap, [`wheel_analysis.md`](wheel_analysis.md#foam-inserts) |
 
 ---
@@ -236,7 +236,7 @@ Only parts that are **on the car**. Spares, fallbacks and parts that didn't make
 | 80511 / TRA5525 | RPM long rod ends (white) + Traxxas hollow balls | Steering | ~$7-9 / 12 + $9 / 12 | RPM / Traxxas | <img src="src/steering_rpm_long_rod_ends_white_80511.jpg" width="120"> |
 | 5511A | Traxxas Jato 3.3 red body, take-off | Body | $34.47 | Jenny's RC | <img src="src/body_traxxas_jato33_red_5511a.jpg" width="120"> |
 | IMX7893 | IMEX 1/8 Rally Tire Set, Chrome (pair), the rims on the car, slicks removed | Aero | $19.99 / pair (2 on the car) | IMEX Model Company | <img src="src/aero_imex_rally_chrome_wheels.png" width="120"> |
-| 26013 | Generic 1/8 buggy tires, "Mitsubishi-logo" tread (Fiona Hobby), tires only | Aero | $3.87 / set of 4 | AliExpress | <img src="src/aero_generic_tires_mitsubishi_26013.jpg" width="120"> |
+| 26013 | Kforce 1/8 buggy tires, "Mitsubishi-logo" tread, 110 × 43mm, natural rubber 35°, tires only | Aero | $3.87 / set of 4 | AliExpress | <img src="src/aero_generic_tires_mitsubishi_26013.jpg" width="120"> |
 | Generic | Closed-cell foam inserts | Aero | $8.08 / set of 4 | AliExpress | <img src="src/aero_closed_cell_foams_blue.jpg" width="120"> |
 | 81042 | RPM wide front bumper, black | Bumpers | $9.95 | — | <img src="src/bumpers_rpm_wide_front_81042_black.webp" width="120"> |
 | TRA9044 | Traxxas front + rear skid plates (rear plate on the car) | Bumpers | $7.00 / set | Tammies Hobby | <img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" width="120"> |
