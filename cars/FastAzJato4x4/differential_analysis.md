@@ -121,14 +121,14 @@ A slipper clutch replaces the center diff entirely. Vetoed here because it doesn
 
 ## Front & Rear Diff Oil
 
-**Front: ~7k wt (recommended starting point)**, shared target with [Mike's Jato](../Jato4x4_Mike/README.md#diff-oil). On loose / low-grip dirt with this 4S car, ~7k keeps steering while the 20k center holds drive stability.
+**Running: 30k front, 10k greased rear.** Both ends are far heavier than the old 7k / 5k target. The thick front calms torque steer on a 4S car, and the greased rear holds drive off the corner instead of spinning up on the blown-out dirt.
 
 | Diff | Weight | Tuning |
 |---|---|---|
-| **Front** | **~7k wt** (start) | **Lighter (5k)** = more turn-in on the slickest days; **heavier (10k+)** = calmer if it torque-steers / plows |
-| **Rear** | **5k wt** (running) | Lighter than the 7k front for more rear rotation on the blown-out track; go heavier if it steps out too easily |
+| **Front** | **30k wt** | Lighter = more turn-in on the slickest days; heavier = calmer still if it torque-steers or plows |
+| **Rear** | **10k wt, greased** | Heavier or more grease = more drive off the corner; lighter = more rear rotation if it pushes |
 
-> Same target as Mike's Jato (the two share this setup), dial it on track, then lock the value in on both cars. *(This is the Jato E-buggy figure; the [E-Revo](../ERevo_1.0/README.md) runs a heavier **30k** front because it's a different, heavier platform.)*
+> The [E-Revo](../ERevo_1.0/README.md) runs the same **30k** front. [Mike's Jato](../Jato4x4_Mike/README.md#diff-oil) is still on the older **7k / 5k** target, so the two cars have diverged.
 
 ---
 

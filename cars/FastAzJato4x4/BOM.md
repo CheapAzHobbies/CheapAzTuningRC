@@ -40,7 +40,7 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | **Steel front + rear diffs, knock-off Slash 4x4**<br><sub>Note: 5mm outdrives, come with the I-bar</sub> | 1 | AliExpress, RS RC Store | **$15.26 / 2-pack** | [Diffs](differential_analysis.md#front--rear-diff-comparison) |
 | **Metal center diff, Traxxas 6780-style**<br><sub>Note: integrated steel 54T spur, running a 16T pinion, order 8213147729824866</sub> | 1 | AliExpress, E-star RC Car Store | **$19.06 each** | [Center diff](differential_analysis.md#center-diff) |
 | **Traxxas 100k diff oil, TRA5130**<br><sub>Note: center diff</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](differential_analysis.md#center-diff-oil) |
-| **Front + rear diff oil**<br><sub>Note: ~7k front, 5k rear</sub> | 2 | — | **🚧 TBD** | [Diff oil](differential_analysis.md#front--rear-diff-oil) |
+| **Front + rear diff oil**<br><sub>Note: 30k front, 10k greased rear</sub> | 2 | — | **🚧 TBD** | [Diff oil](differential_analysis.md#front--rear-diff-oil) |
 | **Jato 4x4 BL-2S center driveshaft, 7455**<br><sub>Note: take-off, with pinion and bearings</sub> | 1 | Jenny's RC | **$2.49 each** | [Driveshafts](driveshaft_analysis.md#center-driveshaft-comparison) |
 | **Steel CV driveshafts, front + rear, knock-off TRA6851R / TRA6852R**<br><sub>Note: order 8211906604054866</sub> | 1 | AliExpress, FengS Store | **$21.10 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA6752 long output shafts**<br><sub>Note: the knock-off set's stock shafts are too short</sub> | 4 | Go Nitro Hobbies | **$8.00 each** | [Driveshafts](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
