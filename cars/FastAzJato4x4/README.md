@@ -2,7 +2,7 @@
 
 > Custom prototype E-Buggy built on a Traxxas Jato 4x4 platform. AliExpress carbon-fiber LCG chassis, FLM26800 metal extended arms (front + rear), Slash 4x4-pattern CVDs on Tekno M6 stubs with 4× TRA6752 long output shafts (stock Jato 4x4 diffs, 5mm), stock Jato hex hubs, Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo on 4S (Fire Phoenix XeRun 120A also in hand as spare), Hot Bodies D8 metal big-bore shocks (used set in hand; plastic Apache C1 / Wltoys A929 as the backup).
 >
-> **Build Status: WIP, actively sourcing parts. Car does not exist yet.**
+> **Build Status: Built and running.** Battery cycle counts and full-car photos below confirm it's assembled and out at Meldrum, not just a parts list anymore.
 
 ---
 
@@ -26,9 +26,17 @@
 
 ## Car Overview
 
-**Base Car:** Traxxas Jato 4x4 (heavily modified, custom carbon fiber chassis build)
+**Base Car:** Traxxas Jato 4x4 (heavily modified, custom carbon fiber chassis build) — red Traxxas Jato 3.3 body (5511A). Nicknamed the **"Super Jato."**
 
-_No build photo yet, the car doesn't physically exist; this is a parts-selection / planning build._
+<p align="center">
+  <img src="src/overview_fastazjato_full_hero.jpg" width="600"><br>
+  <em>The Super Jato, full build</em>
+</p>
+
+<p align="center">
+  <img src="src/overview_fastazjato_front_detail.jpg" width="320">&nbsp;<img src="src/overview_fastazjato_rear_drivetrain.jpg" width="320">&nbsp;<img src="src/overview_fastazjato_dirt_tires.jpg" width="320"><br>
+  <em>Front bumper &amp; steering · rear shocks &amp; CVDs · dirt-tire setup</em>
+</p>
 
 ---
 

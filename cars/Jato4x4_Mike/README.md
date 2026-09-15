@@ -99,6 +99,10 @@ Runs **full length 4S packs**, which is where this car and the [FastAzJato4x4](.
 
 **The three CNHL packs bought 2026-08-26 run on this car:** Racing 5200 (soft), Lightning 5500 (soft), Ultra-Thin 6000 (hardcase).
 
+**IR check on the Racing 5200** (HOTA T6, mid-charge): 2.3 / 2.2 / 2.3 / 2.1 mΩ per cell, ~2.23mΩ avg. Using the [E-Revo IR-to-True-C method](../ERevo_1.0/battery_analysis.md#c-ratings-and-internal-resistance) (`max A = sag ÷ IR`, `true C = max A ÷ Ah`), that's roughly **26-43C true** (0.3V/0.5V sag) against the **90C printed on the label**. Informational only, the CNHL packs aren't in the shared cycle tracker.
+
+<p align="center"><img src="src/electronics_cnhl_racing_5200_90c.jpg" width="500"><br><em>CNHL Racing 90C 5200mAh, per-cell IR mid-charge</em></p>
+
 **Gens Ace Redline 2.0 4S HV 6300mAh 140C** also runs here — full-length (139 × 47 × 37mm, 452g), not a shorty, so it never fit the FastAzJato4x4's shorty-only spec but works well on this car. Bought 2025-10-22 for $107.38 (see [`FastAzJato4x4/battery_analysis.md`](../FastAzJato4x4/battery_analysis.md) for full specs and price history). Currently on loan/testing here; may just become Mike's outright since it works well and this build doesn't run long 4S packs.
 
 **Sharing still works one way:** shorties fit this car as well, so anything bought to the FastAz spec can run here, while the full length packs stay on this one.
