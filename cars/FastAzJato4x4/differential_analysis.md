@@ -125,8 +125,10 @@ A slipper clutch replaces the center diff entirely. Vetoed here because it doesn
 
 | Diff | Weight | Tuning |
 |---|---|---|
-| **Front** | **30k wt** | Lighter = more turn-in on the slickest days; heavier = calmer still if it torque-steers or plows |
-| **Rear** | **10k wt, greased** | Heavier or more grease = more drive off the corner; lighter = more rear rotation if it pushes |
+| **Front** | **30k wt** (Traxxas **TRA5136**, $7.50) | Lighter = more turn-in on the slickest days; heavier = calmer still if it torque-steers or plows |
+| **Rear** | **10k wt, greased** (Traxxas **TRA5135**, $7.50) | Heavier or more grease = more drive off the corner; lighter = more rear rotation if it pushes |
+
+<p align="center"><img src="src/drivetrain_traxxas_diff_oil_30k_tra5136.jpg" width="280">&nbsp;<img src="src/drivetrain_traxxas_diff_oil_10k_tra5135.jpg" width="280"><br><em>Front: Traxxas 30k (TRA5136) · Rear: Traxxas 10k (TRA5135), run greased. $7.50 each at Tammies Hobbies</em></p>
 
 > The [E-Revo](../ERevo_1.0/README.md) runs the same **30k** front. [Mike's Jato](../Jato4x4_Mike/README.md#diff-oil) is still on the older **7k / 5k** target, so the two cars have diverged.
 
