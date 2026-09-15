@@ -220,7 +220,7 @@ Every part on the car, with prices, sources and subtotals, lives in **[`BOM.md`]
 
 ## Building It Cheaper
 
-This car got expensive because I bought the fun, gimmicky stuff. **About $165 of it comes off without changing how the car drives**, and some of the expensive picks genuinely earn their place.
+This car got expensive because I bought the fun, gimmicky stuff. **About $147 of it comes off without changing how the car drives**, and some of the expensive picks genuinely earn their place.
 
 | On the car | Paid | Cheaper option | Cost | Saves |
 |---|---|---|---|---|
@@ -228,11 +228,10 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $165 of
 | Gens Ace Redline 6000 shorty | $92.26 | Fido RC Fi58130 5800 shorty, [`battery_analysis.md`](battery_analysis.md) | $55.00 | **$37.26** |
 | MonsterKingz CF tower set | $33.29 | **Plastic only**: keep the $6 #9033 front, add a TRA9039 rear, [`shock_tower_analysis.md`](shock_tower_analysis.md) | $6.00 | **$27.29** |
 | IMEX chrome rims + Kforce tires | $43.85 | HSP-style swirl wheels with tires already on, [`wheel_analysis.md`](wheel_analysis.md) | ~$25.45 | **~$18.40** |
-| ACER titanium turnbuckles | $35.94 | Arrma steel M4x60 turnbuckles, [`tie_rod_analysis.md`](tie_rod_analysis.md) | ~$18.00 | **~$17.94** |
 | Bare Tekno 5580 rear stubs | $34.81 | TKR5570-17 kit, stub **and** hexes together, [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) | $25.95 | **$8.86** |
-| **Total** | | | | **~$165** |
+| **Total** | | | | **~$147** |
 
-**That lands the same car near ~$929 all in, or ~$788 without the radio**, against ~$1,094 as built.
+**That lands the same car near ~$947 all in, or ~$806 without the radio**, against ~$1,094 as built.
 
 **Optional, only if you don't care about the look:** a generic AliExpress 1/8 buggy shell runs ~$25 against the $34.47 Jato 3.3 take-off, so **~$9 more**. The OG shell is most of this car's character, so it stays.
 
@@ -241,6 +240,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $165 of
 - **CF chassis kit ($73.17), non-negotiable.** It **comes with the aluminum bulkheads**, so it replaces a separate bulkhead buy (Powerhobby alone is $36.99). Cheaper up front than building the same thing out of a stock chassis plus bulkheads, [`chassis_analysis.md`](chassis_analysis.md).
 - **FLM26800 arms ($51.46).** The extra ~10mm of track per side is a handling change, not a looks change, [`arm_analysis.md`](arm_analysis.md).
 - **Alloy hubs and carriers.** They're what survives landing on, or under, a 1/5 scale car. Only the *purple* on the Integy C-hubs was a colour pick, [`hub_analysis.md`](hub_analysis.md).
+- **ACER titanium turnbuckles ($35.94), non-negotiable.** They don't bend or snap, so they pay for themselves in rods you never rebuy. The wear goes on **cheap plastic rod ends** instead (RPM white 80511, ~$7-9 for 12), which is the whole point: break the part that costs a few dollars, [`tie_rod_analysis.md`](tie_rod_analysis.md).
 - **MAX10 G2 + 3665SD combo ($127).** Matched pair, no sensor adapter, and it sets the ceiling for the whole drivetrain.
 - **Kforce 26013 tires ($3.87) and closed-cell foams ($8.08).** The cheapest parts on the car and the ones that decide how it drives.
 - **PTK 9752TG-D servo ($19.65).** Already the budget pick, and it matches a $130 ProTek at 7.4V.
@@ -248,7 +248,6 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $165 of
 ### What the fun tax actually bought
 
 - **IMEX chrome rims ($39.98).** Bought purely because they're baller. The HSP set is the same swirl rim with tires on for less.
-- **Titanium turnbuckles ($35.94).** Steel rods do the same job for about half.
 - **CF rear tower ($33.29).** Light and stiff, and it looks the part, but the plastic tower is $6 and takes the same hits.
 - **D8 metal big bores ($73.99).** A real upgrade over the stock GTRs, and also the single biggest line you can cut.
 
