@@ -9,15 +9,15 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | Section | Subtotal |
 |---|---|
 | [Electronics](#electronics) | $382.82 |
-| [Drivetrain](#drivetrain) | $185.86 |
+| [Drivetrain](#drivetrain) | $167.95 |
 | [Suspension](#suspension) | $200.62 |
 | [Hubs](#hubs) | $109.87 |
 | [Steering](#steering) | ~$72.92 |
 | [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
 | [Aero & Body](#aero--body) | $34.47 |
 | [Wheels](#wheels) | $51.93 |
-| **Total** | **~$1,129** |
-| **Car only, without the battery and radio** | **~$895** |
+| **Total** | **~$1,111** |
+| **Car only, without the battery and radio** | **~$878** |
 
 Still open: a full sealed bearing kit (the hub bearings are already fitted and working), plus a price for the GPM servo link.
 
@@ -48,7 +48,7 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | **Traxxas TRA6881 front gearbox housing** | 1 | Tammies Hobbies | **$4.00 each** | [Housings](gearbox_housing_analysis.md) |
 | **Traxxas TRA6880 rear gearbox housing** | 1 | Tammies Hobbies | **$4.00 each** | [Housings](gearbox_housing_analysis.md) |
 | **Tekno TKR1654-17 front stubs** | 1 | eBay, mr-retro | **$23.15 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| **Tekno 5580 rear stubs** | 1 | eBay, mr-retro | **$34.81 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| **Tekno 5580 rear stubs**<br><sub>Note: bought 2 pairs for $33.80, the second pair was for a friend</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **B'LASTER white lithium grease**<br><sub>Note: 11 oz spray, on the CVDs and gears, not inside the diffs</sub> | 1 | Harbor Freight, SKU 56817 | **$6.99 / can** | [Grease](driveshaft_analysis.md#grease-cvds--gears) |
 
 ## Suspension

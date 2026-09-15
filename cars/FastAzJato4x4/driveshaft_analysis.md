@@ -127,7 +127,7 @@ The build runs Tekno M6 stubs at both ends. **Front = the TKR1654-17 17mm M6 hub
 
 Front stub purchase: eBay seller mr-retro, order 06-14626-84975, $69.45 total for **3 pairs** ($23.15/pair), ordered May 10 2026, delivered May 13 2026. Only 1 pair is needed for the build; the other 2 pairs are spares.
 
-Rear stubs purchase: eBay seller mr-retro, order 24-14914-16595, $34.81 total, ordered Jul 20 2026, delivered Jul 23 2026.
+Rear stubs purchase: eBay seller mr-retro, **$33.80 for 2 pairs ($16.90/pair)**, delivered Aug 17 2026. Only one pair is on this car, the second was bought for a friend.
 
 ---
 
