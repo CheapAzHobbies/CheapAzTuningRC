@@ -47,9 +47,9 @@ Parts actually going **on this build**, decided by the analysis docs in this fol
 | **Traxxas wheelie bar shoulder screws**, front upper shock mounts (long smooth shoulder + long thread, sits the shock eye centred in the #9033 tower) | 2 | Free wheelie bar | **$0** (to rebuy: TRA4976 wheels + axles, $4 for 2) | [`shock_tower_analysis.md`](shock_tower_analysis.md#front-shock-mounting-wheelie-bar-shoulder-screws) |
 | **Traxxas 40wt shock oil (TRA5033)**, 500 cSt, 60cc silicone, front — ✅ retested, runs better than 45wt | 1 | **Tammies Hobbies** | **$6.95** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
 | **Associated Factory Team 47.5wt shock fluid (ASC5438)**, 613 cSt, rear | 1 | **Tammies Hobbies** | **$7.99** | [`shock_analysis.md`](shock_analysis.md#setup-spec-springs--pistons--oil) |
-| **Traxxas Raptor R Ultimate alloy rear carriers (9065)**, (sold with the front pieces as the Raptor R set) | 1 pair (rear) | eBay, toysion | **$68.73** (paid, full set) | [`hub_carrier_analysis.md`](hub_carrier_analysis.md#price-history) |
-| **Integy C26402PURPLE billet alloy C-hubs** (caster blocks), purple, originally bought for the K939 | 1 pair | eBay, jontobitt1118 | **$13.62** (paid; MSRP $26.99) | [`hub_carrier_analysis.md`](hub_carrier_analysis.md) |
-| **GPM XO-1 alloy front steering blocks** (knuckles), originally planned for the K939 | 1 pair | GPM | **$19.16** | [`hub_carrier_analysis.md`](hub_carrier_analysis.md) |
+| **Traxxas Raptor R Ultimate alloy rear carriers (9065)**, (sold with the front pieces as the Raptor R set) | 1 pair (rear) | eBay, toysion | **$68.73** (paid, full set) | [`hub_analysis.md`](hub_analysis.md#price-history) |
+| **Integy C26402PURPLE billet alloy C-hubs** (caster blocks), purple, originally bought for the K939 | 1 pair | eBay, jontobitt1118 | **$13.62** (paid; MSRP $26.99) | [`hub_analysis.md`](hub_analysis.md) |
+| **GPM XO-1 alloy front steering blocks** (knuckles), originally planned for the K939 | 1 pair | GPM | **$19.16** | [`hub_analysis.md`](hub_analysis.md) |
 
 ---
 
@@ -128,7 +128,7 @@ Parts already owned that are **not** going on this build (fallbacks, wrong-fit l
 - **Diffs:** **AliExpress knock-off Slash 4x4 steel diffs (5mm, I-bar)** front + rear, and the **AliExpress metal center diff** with its integrated steel spur, running **Traxxas 100k oil (TRA5130)**. The stock Jato / E-Revo diffs are spares. See [`differential_analysis.md`](differential_analysis.md).
 - **Spur:** running the **integrated steel 54T spur on the AliExpress metal center diff** (no separate spur). The plastic TRA3956R is a spare (doesn't fit the metal diff). See [`differential_analysis.md`](differential_analysis.md#spur-gear).
 - **Shock towers:** **stock #9033 front + MonsterKingz CF rear** (the rear CF takes the big bores with the 67410 standoffs + 3D-printed shock covers). The CF front tower and TRA9039 are spares. See [`shock_tower_analysis.md`](shock_tower_analysis.md).
-- **Hubs:** front **Integy C26402PURPLE** purple C-hubs + **GPM XO-1** alloy steering blocks (both originally for the K939), rear **Raptor R Ultimate** carriers. The Raptor R front pieces are spares. See [`hub_carrier_analysis.md`](hub_carrier_analysis.md).
+- **Hubs:** front **Integy C26402PURPLE** purple C-hubs + **GPM XO-1** alloy steering blocks (both originally for the K939), rear **Raptor R Ultimate** carriers. The Raptor R front pieces are spares. See [`hub_analysis.md`](hub_analysis.md).
 - **Battery:** **Gens Ace Redline 2.0 4S HV 6000mAh shorty** (410 g), a pair bought 2026-08-31 and run one at a time. The Zeee 5200 is back in the shared fleet. See [`battery_analysis.md`](battery_analysis.md).
 - **Shock bodies:** running the metal **Hot Bodies D8** (used set of 4). Springs (white/grey) + 1.4mm pistons came with the set; shock oil from Tammies. Plastic Apache C1 is the identical-internals backup.
 - **Output shafts:** **all four corners** need the long TRA6752 (4×). The knock-off set's stock-length shafts are too short to use, front or rear. See the [driveshaft build sheet](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).

@@ -147,7 +147,7 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | | **Checkpoint: -$178.26 → Mike owes ≈ $178.26** | −$69.28 + #91 + #92 + #93 + #94 |
 | 95 | +$100.00 | Mike fixed my real car (non-RC repair), paid $100 cash (2026-09-07) |
 | | **Checkpoint: -$78.26 → Mike owes ≈ $78.26** | −$178.26 + #95 |
-| 96 | -$50.00 | Mike bought the MonsterKingz hub set (in-hand, demoted — see [hub_carrier_analysis.md](cars/FastAzJato4x4/hub_carrier_analysis.md)) from me for $50 (2026-09-07) |
+| 96 | -$50.00 | Mike bought the MonsterKingz hub set (in-hand, demoted — see [hub_analysis.md](cars/FastAzJato4x4/hub_analysis.md)) from me for $50 (2026-09-07) |
 | | **➡️ Current: -$128.26 → Mike owes ≈ $128.26** | −$78.26 + #96 |
 
 ### Flags to resolve

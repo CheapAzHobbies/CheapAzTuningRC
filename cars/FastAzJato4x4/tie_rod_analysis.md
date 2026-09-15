@@ -57,7 +57,7 @@ Six links, all M4, all about 61mm. "Tie rod" gets used loosely, so to be clear a
 | **M4 thread, ~61mm, all six links** | Must | Measured on the car: every link is M4 and about 61mm (96mm center-to-center). Traxxas confirms 61mm on the stock 3645 and 2336A toe links. One rod length covers all six |
 | **Rod that will not snap or bend soft** | Must | The stock steel 3645 and aluminum 2336A/2336X both break easily behind the FLM aluminum arm. Titanium takes the hit |
 | **Rod ends tougher than stock** | Must | The stock TRA5525 rod ends break easily too. RPM long rod ends are thicker around the ball and hold up |
-| **Rod ends match the alloy hubs and FLM studs** | Must | Front runs the Raptor R Ultimate EHD alloy hubs ([`hub_carrier_analysis.md`](hub_carrier_analysis.md)). The rod ends + hollow balls have to seat in those and in the FLM arm studs |
+| **Rod ends match the alloy hubs and FLM studs** | Must | Front runs the Raptor R Ultimate EHD alloy hubs ([`hub_analysis.md`](hub_analysis.md)). The rod ends + hollow balls have to seat in those and in the FLM arm studs |
 | **Long rod ends help the stretched track width** | May | The FLM front arms add ~9.6mm/side. RPM long rod ends give extra reach so the turnbuckle is not maxed out to hit the wider track |
 | **Will not rust** | May | Titanium does not corrode. Nice for a washed dirt car |
 

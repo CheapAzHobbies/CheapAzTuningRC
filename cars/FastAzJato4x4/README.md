@@ -121,7 +121,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Pinion | **16T 32P** on the 3665SD 2400KV, FDR 3.38 | 17T / 18T on hand to retune, [`motor_analysis.md`](motor_analysis.md#pinion-reference-32p) |
 | Center driveshaft | Jato 4x4 BL-2S take-off shaft (7455) | $2.49, [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | Axle CVDs | Knock-off Slash 4x4 HD steel CV driveshafts, front + rear (TRA6851R / TRA6852R clones, 5mm) + **4× TRA6752 long output shafts** | [`driveshaft_analysis.md`](driveshaft_analysis.md) |
-| Stubs / wheel hexes | Front **Tekno TKR1654-17**; rear **TKR5570-17 SCT410 kit** | [`wheel_hex_analysis.md`](wheel_hex_analysis.md) |
+| Stubs / wheel hexes | Front **Tekno TKR1654-17**; rear **TKR5570-17 SCT410 kit** | [`hub_analysis.md#17mm-wheel-hubs-hexes`](hub_analysis.md#17mm-wheel-hubs-hexes) |
 | Gearbox housings | Traxxas TRA6881 front / TRA6880 rear | $4 each, [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | Bearings | Hub bearings fitted; full sealed kit still open | [`bearings_reference.md`](bearings_reference.md) |
 
@@ -156,9 +156,9 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 |-----------|------|-------|
 | Servo | **PTK 9752TG-D** metal gear, high speed | $19.65, [`servo_analysis.md`](servo_analysis.md) |
 | Bell crank | **GPM aluminum bell crank (6845X)** | $19.98, [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
-| Front C-hubs | **Integy C26402PURPLE** billet alloy, purple | $13.62, originally bought for the K939, [`hub_carrier_analysis.md`](hub_carrier_analysis.md) |
-| Front steering blocks | **GPM XO-1 alloy knuckle** | $19.16, XO-1 bearing geometry suits the Tekno M6 stubs, [`hub_carrier_analysis.md`](hub_carrier_analysis.md) |
-| Rear carriers | **Traxxas Raptor R Ultimate alloy (9065)** | From the $68.73 Raptor R set, [`hub_carrier_analysis.md`](hub_carrier_analysis.md) |
+| Front C-hubs | **Integy C26402PURPLE** billet alloy, purple | $13.62, originally bought for the K939, [`hub_analysis.md`](hub_analysis.md) |
+| Front steering blocks | **GPM XO-1 alloy knuckle** | $19.16, XO-1 bearing geometry suits the Tekno M6 stubs, [`hub_analysis.md`](hub_analysis.md) |
+| Rear carriers | **Traxxas Raptor R Ultimate alloy (9065)** | From the $68.73 Raptor R set, [`hub_analysis.md`](hub_analysis.md) |
 | Tie rods + camber links | **ACER titanium M4x60** rods (6) + RPM long rod ends (white 80511) + Traxxas hollow balls, ~61mm (96mm c-t-c) | [`tie_rod_analysis.md`](tie_rod_analysis.md) |
 
 ---
@@ -203,8 +203,8 @@ Every part choice above was decided in its own analysis doc.
 | [Shocks](shock_analysis.md) | [Diffs](differential_analysis.md) | [ESC](esc_analysis.md) | [Chassis](chassis_analysis.md) | [BOM](BOM.md) |
 | [Shock towers](shock_tower_analysis.md) | [Driveshafts](driveshaft_analysis.md) | [Motor](motor_analysis.md) | [Body & aero](aero_analysis.md) | [Checklist](CHECKLIST.md) |
 | [Arms](arm_analysis.md) | [Gearbox housings](gearbox_housing_analysis.md) | [Battery](battery_analysis.md) | [Bumpers](bumper_analysis.md) | |
-| [Swaybars](swaybar_analysis.md) | [Wheel hexes](wheel_hex_analysis.md) | [Charger](charger_analysis.md) | [Wheels](wheel_analysis.md) | |
-| [Hubs & carriers](hub_carrier_analysis.md) | [Bearings](bearings_reference.md) | [Radio](radio_analysis.md) | [Bell crank](steering_bell_crank_analysis.md) | |
+| [Swaybars](swaybar_analysis.md) | [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes) | [Charger](charger_analysis.md) | [Wheels](wheel_analysis.md) | |
+| [Hubs](hub_analysis.md) | [Bearings](bearings_reference.md) | [Radio](radio_analysis.md) | [Bell crank](steering_bell_crank_analysis.md) | |
 | | | [Servo](servo_analysis.md) | [Tie rods](tie_rod_analysis.md) | |
 | | | [Connectors](connector_reference.md) | | |
 

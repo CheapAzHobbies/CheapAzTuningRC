@@ -17,7 +17,7 @@
 
 | Requirement | Type | Why |
 |---|---|---|
-| **17mm hex, standard (non-star) rim** | May | Standard 17mm mounts easiest, but star-hex rims still work (the rear star hex takes them, or cut the front teeth), so it's a preference not a hard rule. See [wheel hexes](wheel_hex_analysis.md) |
+| **17mm hex, standard (non-star) rim** | May | Standard 17mm mounts easiest, but star-hex rims still work (the rear star hex takes them, or cut the front teeth), so it's a preference not a hard rule. See [wheel hexes](hub_analysis.md#17mm-wheel-hubs-hexes) |
 | **ROAR-legal track width** | ~~Must~~ **Dropped** | This car runs **mod class, not ROAR**, so there is no width limit to respect. Standard-width rims are still what it runs, but that is now a choice rather than a rule, and the **wide Traxxas rims are back on the table** (see notes) |
 | **Grips the blown-out dirt at Meldrum Bar** | Must | The [home track](README.md#track--setup-philosophy) is dry, rutted, loose over hard base |
 | **Long wear life** | May | Fewer tire changes. RedSpider wears slowest, and the Mitsubishi-tread 26013 turns very durable once worn in |
