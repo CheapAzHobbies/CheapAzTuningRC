@@ -25,6 +25,7 @@
 - [Knock-Off E-Revo CVDs](#knock-off-e-revo-cvds)
 - [Shortening + Joining E-Revo CVDs](#shortening--joining-e-revo-cvds-custom-axles-wip)
 - [Center Driveshaft Comparison](#center-driveshaft-comparison)
+- [Grease (CVDs + gears)](#grease-cvds--gears)
 - [Price History](#price-history)
 - [Notes](#notes)
 
@@ -312,6 +313,18 @@ Buying-blind rules:
 | ❌ ~~**Tekno Big Bone aftermarket**~~ | **Type:** dog-bone center shaft + outdrives<br>**Material:** anodized aluminum shaft, hardened steel outdrives<br>**Part:** TKR6855 (Slash 4x4 kit)<br>**Length:** N/A<br>**Price:** **$34.99** (in stock) | Pro: Nicely built dog-bone, hardened steel outdrives<br><br>Con: **Not worth the money, no performance gain over stock.** The shaft still bends and the outdrives get super chewed up, and it runs noisily. Literally cheaper to run stock metal, or even plastic at worst | <img src="src/drivetrain_tekno_center_driveshaft_tkr6855.jpg" width="500"> |
 | 🚫 ~~**Stock plastic (screw pin)**~~ | **Type:** one-piece w/ screw pin<br>**Material:** black plastic<br>**Part:** TRA6767<br>**Length:** N/A<br>**Price:** **$4.00** | Pro: Cheapest at $4, lightest option<br><br>Con: **We're running 4S, plastic deforms under that power** over many packs. Fine for a stock basher, not for this build | <img src="src/drivetrain_traxxas_center_driveshaft_6767.jpg" width="500"> |
 | 🚫 ~~**Rustler 4x4 aluminum (wrong fit)**~~ | **Type:** one-piece<br>**Material:** 6061-T6 aluminum<br>**Part:** TRA6755 (Rustler 4x4)<br>**Length:** **189mm** (6.5")<br>**Price:** **$10** | Pro: Same aluminum build as the Slash shaft, looks nearly identical<br><br>Con: **Too short, 189mm vs the Slash 4x4's 215mm.** Easy to order by mistake; this is the Rustler/Stampede 4x4 part. Get **TRA6855** instead | <img src="src/drivetrain_traxxas_center_driveshaft_6755.jpg" width="500"> |
+
+---
+
+## Grease (CVDs + gears)
+
+<p align="center"><img src="src/drivetrain_blaster_white_lithium_grease_56817.jpg" width="300"><br><em>B'LASTER High-Performance White Lithium Grease, 11 oz spray, $6.99 at Harbor Freight (SKU 56817)</em></p>
+
+**B'LASTER white lithium grease goes on the CVDs and pretty much everything with a gear.** $6.99 at Harbor Freight (SKU 56817), compared to Blaster 16-LG at $11.12.
+
+- **Where:** the CVD joints, plus the gears on the front, center and rear diffs and the pinions. **Not inside the diffs**, those run diff oil.
+- **CVDs last so much longer with it.** It thickens up as it dries, so it stays where it's put.
+- **Why white lithium over waterproof or silicone grease:** dirt doesn't stick to it as much, and it doesn't wash away as easily.
 
 ---
 

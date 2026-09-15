@@ -67,6 +67,12 @@ If a new generic-part category comes up (connectors, wire, bearings, etc.) and a
 2. Flip the part's status in `BOM.md` from `To buy` → `Purchased <date>`, update the price to the actual paid amount, and recompute the cost-summary totals.
 3. If the part is generic (battery, servo, ESC), add a row to the matching `Deals/<category>.md` too.
 
+## Car BOMs (`cars/<CarName>/BOM.md`)
+
+- A car's BOM covers what that car **uses**, not everything owned. **Qty is the count on the car** (`1`, `4`, `1 pair`), never "2 owned", "of 3 bought" or "4 spare".
+- Add a short note only when it matters, e.g. a part only sold as a set (`1 (rear)`, priced per set).
+- Keep leftover units and superseded parts out of the Qty and part cells; they belong in the Spares section if anywhere.
+
 ## Branch policy
 
 - **Push directly to `main`.** No feature branches, no PRs unless explicitly asked.
