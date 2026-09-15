@@ -103,5 +103,5 @@ Still open: a full sealed bearing kit (the hub bearings are already fitted and w
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **IMEX IMX7893 1/8 Rally chrome rims**<br><sub>Note: list price, glued rally slicks removed</sub> | 2 | IMEX Model Company | **$19.99 / pair** | [Rims](wheel_analysis.md#rims-bare-wheels) |
-| **Kforce 26013 1/8 buggy tires, Mitsubishi-logo tread**<br><sub>Note: 110 × 43mm, natural rubber 35°</sub> | 1 | AliExpress | **$3.87 / set of 4** | [Tires](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
+| **Kforce 26013 1/8 buggy tires, Mitsubishi-logo tread**<br><sub>Note: 110 × 43mm, natural rubber 35°. The seller also calls it triangle tread, practice compound</sub> | 1 | AliExpress | **$3.87 / set of 4** | [Tires](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
 | **Closed-cell foam inserts, blue** | 1 | AliExpress | **$8.08 / set of 4** | [Foams](wheel_analysis.md#foam-inserts) |
