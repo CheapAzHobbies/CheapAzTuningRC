@@ -47,7 +47,7 @@ Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](.
 
 ## 🔧 Loose ends / cleanups
 
-- [ ] Buy the **TKR5570-17 rear kit** for the rear 17mm hexes (5580 stubs already in hand)
+- [x] **TKR5570-17 rear kit** for the rear 17mm hexes
 - [ ] Confirm the **AliExpress steel diffs** (front + rear) in hand vs still to-buy
 - [x] Hub bearings sorted: **10×15×4 in an 18→15mm sleeve**, fitted and running. Bare **10×18×5** is the alternative if the sleeve ever comes out
 - [ ] README: keep synced as the open picks (wheels/tires, pinion, battery, radio) finalize

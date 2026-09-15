@@ -2,7 +2,7 @@
 
 > **Chosen:**
 > - **Front & rear diffs: AliExpress knock-off Slash 4x4 steel diffs (5mm), ~$15.26 for the pair.** Strong steel, come assembled with the I-bar brace, and 5mm matches the **Slash 4x4-pattern CVDs on Tekno M6 stubs** (see [`driveshaft_analysis.md`](driveshaft_analysis.md)). The stock Jato 4x4 diff is the native-fit fallback; the 6mm E-Revo 1.0 diffs (owned) are spares.
-> - **Center diff: AliExpress metal center diff (~$20), comes pre-filled with the correct oil.** Fully assembled, its **integrated steel 54T spur is the build's spur** (no separate spur to fit), and it **ships with 16T / 17T / 18T (5mm-bore) pinions** to tune the final drive. The lighter TRA6814 plastic is the alternative.
+> - **Center diff: AliExpress metal center diff (~$20), running Traxxas 100k oil (TRA5130, $8).** Fully assembled, its **integrated steel 54T spur is the build's spur** (no separate spur to fit), and it **ships with 16T / 17T / 18T (5mm-bore) pinions** to tune the final drive. The lighter TRA6814 plastic is the alternative.
 > - **Spur gear: the integrated steel 54T spur on the AliExpress center diff.**
 
 <p align="center"><img src="src/drivetrain_aliexpress_knockoff_slash4x4_steel_diff.png" height="240">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" height="240"><br><em>The chosen drivetrain: AliExpress knock-off Slash 4x4 steel front/rear diff (5mm, I-bar) · AliExpress metal center diff (integrated steel 54T spur)</em></p>
@@ -100,19 +100,21 @@ A slipper clutch replaces the center diff entirely. Vetoed here because it doesn
 
 ## Center Diff Oil
 
-**Chosen: 20,000 wt (20k cSt).** I’ve tested it across several builds, lands in the sweet spot between freewheeling traction handoff and progressive lockup under throttle.
+**Running: 100k (Traxxas TRA5130 diff oil, $8 at Tammies Hobby).** 20k was the starting point, tested across several builds as the sweet spot between freewheeling traction handoff and progressive lockup under throttle; this car now runs 100k.
+
+<p align="center"><img src="src/drivetrain_traxxas_diff_oil_100k_tra5130.jpg" width="300"><br><em>Traxxas diff oil 100k (TRA5130), in the center diff</em></p>
 
 | Oil weight | Behavior | Use case |
 |---|---|---|
 | 5k cSt | Very fluid, lots of differentiation, freewheels in turns | Light-traction surfaces (sand, very loose) |
 | 10k cSt | Quicker freewheel, less lockup under power | Tight indoor tracks |
-| **20k cSt ⭐** | Balanced, diffs under hard throttle, freewheels at part-throttle | **Chosen, general offroad / 4S dirt** |
+| 20k cSt | Balanced, diffs under hard throttle, freewheels at part-throttle | Earlier baseline, general offroad / 4S dirt |
 | 50k cSt | Mostly locked, all-four-wheels-pull feel | Crawling, low-grip climbs |
-| 100k+ | Effectively locked spool | Drag/speed-run with grip |
+| **100k+ ⭐** | Effectively locked spool | Drag/speed-run with grip. **Running now (TRA5130)** |
 
 **Fill level: half full only.** Overfilling plastic diff housings causes them to explode under pressure, this is operator error. Fill to half, no more.
 
-**Why not just lock the center diff?** Locked center = no torque differentiation front-to-rear = chassis pushes / pivots awkwardly on uneven surfaces. 20k gives the locked-feel under power without the disadvantages on rough offroad.
+**Why not just lock the center diff?** Locked center = no torque differentiation front-to-rear = chassis pushes / pivots awkwardly on uneven surfaces. That's the tradeoff 100k accepts; 20k was the way to get the locked feel under power without it.
 
 ---
 
