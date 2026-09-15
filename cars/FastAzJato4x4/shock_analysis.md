@@ -92,6 +92,8 @@ This is the target tuning, based on the K939 build, but the FastAzJato4x4 is **l
 | **Front** | **White 59gf** (Hot Bodies #67454, 76mm, stock Apache C1 / D8) | **1.4mm × 6 holes** | **37.5wt** (Losi TLR74030, 468 cSt) ✅ running |
 | **Rear** | **Grey 52gf** (Hot Bodies #67453, 76mm, soft for bump compliance) | **1.4mm × 6 holes** | **50wt** (Associated 5480 FT, 650 cSt) ✅ runs better than 60wt |
 
+<p align="center"><img src="src/suspension_losi_shock_oil_37-5wt_tlr74030.jpg" width="260">&nbsp;<img src="src/suspension_associated_shock_fluid_50wt_asc5480.jpg" width="260"><br><em>Front: Losi TLR74030 37.5wt (468 cSt) · Rear: Associated 5480 FT 50wt (650 cSt). $9.99 each, 4 oz bottles from Nitro Hobbies</em></p>
+
 **Why this setup:**
 - **White 59gf front + grey 52gf rear** = stock Apache C1 / D8 spec, K939-tested. The softer rear gives more bump compliance and rear grip, and this car is **lighter than the K939**, so the lighter rear end wants the softer spring, not a stiffer one
 - **Spring sourcing:** the HPI Apache C1 and Hot Bodies D8 both ship stock with **white** springs. On real **D8 buggy take-offs** you'll typically find a **grey + white combo**, which is exactly this front (white) / rear (grey) pairing, so used take-off springs are a cheap, easy source
