@@ -71,9 +71,9 @@
 
 | Component | Part | Notes |
 |---|---|---|
-| Chassis | **Stock plastic** | **The big divergence from the [FastAzJato4x4](../FastAzJato4x4/chassis_analysis.md), which went carbon fiber.** Plastic flexes rather than cracking, and it's already on the car, so there's nothing to buy |
+| Chassis | **Traxxas 7422 LCG plastic** ($20) | **The big divergence from the [FastAzJato4x4](../FastAzJato4x4/chassis_analysis.md), which went carbon fiber.** Plastic flexes rather than cracking. ⚠️ **It's the LCG chassis, so LCG-only parts are what fit** |
 | Front bulkhead | **Powerhobby aluminum** | The front is where bulkheads get loaded and where the plastic one gives up. On the FastAz this came bundled with the CF chassis kit; here it's the standalone part (~$36.99 on its own, [`chassis_analysis.md`](../FastAzJato4x4/chassis_analysis.md#bulkheads-front--rear)) |
-| Upper brace | **Steel, VG Racing style** | **The OEM upper brace breaks often**, so it's replaced with a steel one. See [`chassis_analysis.md`](chassis_analysis.md) |
+| Upper brace | **VG Racing steel** ($18.99) | **The OEM upper brace breaks often**, so it's replaced with a steel one. ⚠️ **LCG only, won't fit HCG.** See [`chassis_analysis.md`](chassis_analysis.md) |
 
 > **The honest cheap route:** a plastic chassis plus one alloy front bulkhead covers the part that actually fails, without the carbon kit. It's also the pairing that makes [metal arms risky](../FastAzJato4x4/arm_analysis.md), FLM arms strip a *plastic* bulkhead. Full reasoning, and why this choice makes the [battery bars](battery_analysis.md) unique to this car, in [`chassis_analysis.md`](chassis_analysis.md).
 
