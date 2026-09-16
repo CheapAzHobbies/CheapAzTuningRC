@@ -113,7 +113,7 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 | **Tekno TKR1654-17 front stubs**<br><sub>Note: the M6 stub the long-axle build needs</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **Tekno 5580 rear stubs**<br><sub>Note: bare stubs beat the $25.95 TKR5570-17 kit, whose hexes go unused anyway</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **10×15×4 sealed bearings, 6700-2RS**<br><sub>Note: the only bearings you buy. The donor's are 12×18×4, and the Tekno stub conversion changes the four hub corners to 10×15×4 in a sleeve. They sell in 10-packs, so the four you need come with six spares</sub> | 1 | AliExpress | **$3.08 / pack of 10** | [Bearings](bearings_reference.md#what-the-bearings-cost) |
-| **3D-printed 18 → 15mm bearing sleeves**<br><sub>Note: printed at home, drops the 10×15×4 into the 18mm hub pocket. Super glue on the outer face of the ring only, then press in</sub> | 1 | DIY | **$0** | [Bearings](bearings_reference.md) |
+| **3D-printed 18 → 15mm bearing sleeves**<br><sub>Note: printed at home, STL in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [Fitting the sleeve](bearings_reference.md#fitting-the-sleeve) |
 
 ## Drivetrain
 
@@ -162,7 +162,7 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Stock Jato 4x4 body + wing + TRA9046 wing mount** | 1 | Donor car | **$0** | [Body](aero_analysis.md#body-comparison) |
-| **3D-printed body mounts + posts, front + rear**<br><sub>Note: still needed, the CF chassis has no clipless support. Mounts in TPU, posts in PETG, two posts at each end. **~$10 at a local print shop; about $1 of filament if the printer is yours**, which is why this is the one line that depends on who you are</sub> | 1 | Local print shop / DIY | **$10.00 / set** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
+| **3D-printed body mounts + posts, front + rear**<br><sub>Note: still needed, the CF chassis has no clipless support. **~$10 at a local print shop; about $1 of filament if the printer is yours**, which is why this is the one line that depends on who you are</sub> | 1 | Local print shop / DIY | **$10.00 / set** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 
 ---
 

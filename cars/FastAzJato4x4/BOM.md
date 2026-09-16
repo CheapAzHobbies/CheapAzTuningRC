@@ -73,7 +73,7 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | **GPM XO-1 alloy steering blocks** | 1 | GPM | **$19.16 / pair** | [Hubs](hub_analysis.md) |
 | **Traxxas Raptor R Ultimate alloy hub set, 9063 / 9064 / 9065**<br><sub>Note: front + rear set, only the 9065 rear carriers are used</sub> | 1 | eBay, toysion | **$68.73 / set** | [Hubs](hub_analysis.md#price-history) |
 | **Aftermarket 17mm splined wheel hubs, E-Revo 1.0 fit**<br><sub>Note: black, 2-3mm wider per corner, no barrel nut needed on Tekno stubs</sub> | 1 | AliExpress | **$8.36 / set of 4** | [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes) |
-| **3D-printed 18 → 15mm bearing sleeves**<br><sub>Note: printed at home, drops a 10×15×4 into the 18mm hub pocket. A touch of super glue on the outer face of the ring only, then press into either the EHD plastic (TRA9032 / TRA9037 / TRA9050) or the Raptor R alloy (9063 / 9064 / 9065) hubs</sub> | 1 | DIY | **$0** | [Bearings](bearings_reference.md) |
+| **3D-printed 18 → 15mm bearing sleeves**<br><sub>Note: printed at home, STL in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [Fitting the sleeve](bearings_reference.md#fitting-the-sleeve) |
 
 ## Steering
 
@@ -100,7 +100,7 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Traxxas Jato 3.3 body, 5511A red**<br><sub>Note: take-off, its own integrated wing means no separate wing</sub> | 1 | Jenny's RC | **$34.47 each** | [Body](aero_analysis.md#body-comparison) |
-| **3D-printed body mounts + posts, front + rear**<br><sub>Note: printed at home. Mounts in TPU, posts in PETG, two posts at each end. The front post is shorter than the rear. STL + editable STEP in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
+| **3D-printed body mounts + posts, front + rear**<br><sub>Note: printed at home, STL + editable STEP in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 | **AJRC body clips, 50 pcs silver**<br><sub>Note: 1/5 to 1/16 R-clips, listed $6.31, paid $2.21 on sale. 50 of them is a lifetime supply</sub> | 1 | AliExpress, AJRC Official Store | **$2.21 / pack of 50** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 
 ## Wheels

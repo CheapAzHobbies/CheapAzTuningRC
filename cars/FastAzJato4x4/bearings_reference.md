@@ -24,6 +24,18 @@ The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10
 
 ---
 
+## Fitting the sleeve
+
+Printed at home, **18mm OD × 15mm ID × 4mm**, one per hub corner. STL in [`3d-models/`](3d-models/).
+
+- **A touch of super glue on the outer face of the ring only**, never in the bore. The bore has to stay clean for the bearing to seat square.
+- **Press it into the hub's 18mm pocket**, then the **10×15×4** drops straight into the sleeve.
+- Fits either the **stock EHD plastic hubs** (TRA9032 front C-hub / TRA9037 steering block / TRA9050 rear carrier) or the **Raptor R alloy set** (9063 / 9064 / 9065).
+
+**It's reversible**, which is the main argument for this route: pull the sleeve and the hub is stock again, where shaving the hex adapters or cutting the carrier pocket is permanent.
+
+---
+
 ## What the bearings cost
 
 Bearings sell in **10-packs**, and no size on this car needs ten. So the honest number isn't what the packs cost, it's the **per-bearing price times what the car actually runs**. Unit price is the order total divided by how many bearings came in it, all AliExpress.
