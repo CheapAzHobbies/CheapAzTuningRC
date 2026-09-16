@@ -72,7 +72,19 @@
 
 Everything else is negotiable, so don't pay for cosmetics or a clean front end.
 
-**Or buy new.** A **base model Jato 4x4 is about $325 new**, $125 over a good used one, for an undamaged car with a warranty and no previous owner's crashes in it. ⚠️ **Check the trim before counting on that number:** if it's the **BL-2S (90154-4)** that's a **2S** brushless system, so add the [MAX10 G2 + 3665SD combo](esc_analysis.md) at **$127** to get the 4S power this build assumes, landing near **$912**. If the $325 car is already 4S-capable, it's **~$785** and nothing else on this list changes.
+### Or buy new
+
+Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways in:
+
+| New donor | Car | Build total | |
+|---|---|---|---|
+| **4S model on a holiday sale** | **$399** | **~$859** | ⭐ **The one to wait for** |
+| **Base model + the 4S combo** | $325 + **$127** = $452 | ~$912 | The base is **2S**, so it needs the [MAX10 G2 + 3665SD combo](esc_analysis.md) to reach 4S |
+| **4S model at full retail** | $549 | ~$1,009 | Only ~$100 under the real build, at which point buy the real spec |
+
+**Don't buy the base model to upgrade it.** $325 plus the $127 combo is **$452**, while the 4S car on a holiday sale is **$399** — **$53 cheaper, already 4S, and the combo money stays in your pocket.** The base only makes sense if you find one well under $325 or you want the MAX10 anyway.
+
+**At full retail, new stops being the cheap route.** $549 puts the build at ~$1,009 against ~$1,110 for the car as actually built, so you'd be paying nearly full price for a lesser spec. **Used at $200-250, or a sale car at $399. Those are the two that make sense.**
 
 ## Chassis
 
