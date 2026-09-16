@@ -125,7 +125,7 @@ PowerHobby's chart (below) is for the **buggy** line. For **truggy** (what the R
 
 #### AKA tire charts & track fit
 
-<p align="center"><img src="src/tire_aka_chart_truggy.jpg" width="500">&nbsp;<img src="src/tire_aka_chart_full.jpg" width="500"><br><em>left: AKA 1/8 truggy tread × condition + compound-by-temp · right: full AKA chart with part numbers / granular traction</em></p>
+<p align="center"><img src="src/tire_aka_chart_truggy.jpg" height="459">&nbsp;<img src="src/tire_aka_chart_full.jpg" height="459"><br><em>left: AKA 1/8 truggy tread × condition + compound-by-temp · right: full AKA chart with part numbers / granular traction</em></p>
 
 > **What AKA's chart says for my track (loose, dusty, low grip):** for **Loose Loamy**, AKA rates **City Block and I-Beam "best"**, and **Gridiron + Impact only "good."** So the Gridiron is really a hard-pack tire here; **City Block (or the loose-specialist I-Beam) is the better AKA pick** for my dirt. Compound by temperature: **Ultra Soft** for cold (<~50°F), **Super Soft** for cool, **Soft** once it warms.
 >

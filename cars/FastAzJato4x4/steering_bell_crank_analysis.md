@@ -3,7 +3,7 @@
 > **Chosen: GPM aluminum bell crank (6845X), $19.98, in hand.** GPM and Integy alloy cranks use **brass / oil-sintered bushings** at the secondary joints, though **the four main pivots come as ball bearings and want swapping** (TRA3775). Bushings last basically forever: the cheap bushing wears, never the aluminum, and you just drop in a fresh bushing. The bell crank is a "doesn't-have-to-be-premium" part anyway, the bigger steering wins come from the servo, not the crank.
 
 <p align="center">
-  <img src="src/steering_gpm_aluminum_bell_crank_6845x.jpg" width="500">&nbsp;<img src="src/steering_traxxas_tra3775_oilite_bushing.jpg" width="500"><br>
+  <img src="src/steering_gpm_aluminum_bell_crank_6845x.jpg" height="444">&nbsp;<img src="src/steering_traxxas_tra3775_oilite_bushing.jpg" height="444"><br>
   <em>GPM aluminum bell crank (6845X), $19.98 · Traxxas TRA3775 Oilite bushings, fitted at the four main pivots in place of the ball bearings it shipped with</em>
 </p>
 

@@ -3,7 +3,7 @@
 > **Chosen: stock Traxxas composite #9033 front, G-Maxx carbon fibre rear.** Not the full CF set. This car is tail heavy, so the front keeps the tougher, simpler plastic tower and the rear sheds what it can. The carbon rear is there because it **takes the Jato wing mount and keeps the shock positioning**, which the $6 Slash rear towers don't. On a Jato 3.3 shell that doesn't matter, and either Slash tower is fine for about $12 all in.
 
 <p align="center">
-  <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="240">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf_annotated.jpg" width="240">&nbsp;<img src="src/suspension_hb_shock_standoff_hbs67410.jpg" width="240">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_axles_pair.jpg" width="120"><br>
+  <img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" height="175">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf_annotated.jpg" height="175">&nbsp;<img src="src/suspension_hb_shock_standoff_hbs67410.jpg" height="175">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_axles_pair.jpg" height="175"><br>
   <em>stock #9033 front · G-Maxx carbon, rear only · HB / HPI 67410 standoffs, not the kit's aluminium ones · the two axles from TRA4976, which are the screws</em>
 </p>
 
@@ -40,7 +40,7 @@
 - Carbon only sells as a **$33.29 set** whose front tower goes unused, and it arrives needing printed covers and different standoffs. Stock at both ends is about **$12** and a few grams heavier.
 
 <p align="center">
-  <img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra9039.jpg" width="400">&nbsp;<img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra6838.jpg" width="400"><br>
+  <img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra9039.jpg" height="302">&nbsp;<img src="src/suspension_shock_tower_traxxas_slash4x4_rear_tra6838.jpg" height="302"><br>
   <em>TRA9039 Extreme HD · TRA6838 first gen, both $6, same shock holes</em>
 </p>
 
@@ -104,7 +104,7 @@ The front shock uppers mount on **Traxxas wheelie bar shoulder screws**, which s
 **It has to be the wheelie bar screw, not any shoulder screw.** The one that works has a **long smooth shoulder and a long thread**; a standard shoulder screw is stubby at both. That long unthreaded shank is the whole point. It is what the shock eye pivots on, and it is long enough to sit the eye centred in the tower hole while the thread still reaches deep enough to hold. Swap in a standard one and there is not enough smooth shank to bear on.
 
 <p align="center">
-  <img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" width="400">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_wheels_axles_tra4976.jpg" width="400"><br>
+  <img src="src/suspension_traxxas_shoulder_screw_vs_standard.jpg" height="356">&nbsp;<img src="src/suspension_traxxas_wheelie_bar_wheels_axles_tra4976.jpg" height="356"><br>
   <em>the wheelie bar screw beside a standard shoulder screw · TRA4976, four wheels and the two axles you actually want</em>
 </p>
 

@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="src/overview_fastazjato_imex_slicks_side.jpg" width="270">&nbsp;<img src="src/overview_fastazjato_front_detail.jpg" width="270">&nbsp;<img src="src/overview_fastazjato_rear_drivetrain.jpg" width="270"><br>
+  <img src="src/overview_fastazjato_imex_slicks_side.jpg" height="243">&nbsp;<img src="src/overview_fastazjato_front_detail.jpg" height="243">&nbsp;<img src="src/overview_fastazjato_rear_drivetrain.jpg" height="243"><br>
   <em>Stretched on the IMEX slicks &middot; front bumper and steering &middot; rear shocks and CVDs</em>
 </p>
 
@@ -140,7 +140,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 ## SUSPENSION
 
 <p align="center">
-  <img src="src/suspension_hb_d8_shocks_used_set.jpg" width="190">&nbsp;<img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="190">&nbsp;<img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="190">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="190"><br>
+  <img src="src/suspension_hb_d8_shocks_used_set.jpg" height="151">&nbsp;<img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" height="151">&nbsp;<img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" height="151">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf.jpg" height="151"><br>
   <em>Hot Bodies D8 big bores · FLM26800 extended arms · stock #9033 front tower · MonsterKingz CF rear tower</em>
 </p>
 
@@ -190,7 +190,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 ## ELECTRONICS
 
 <p align="center">
-  <img src="src/electronics_hobbywing_ezrun_max10_g2_hw30102603.jpg" width="190">&nbsp;<img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" width="190">&nbsp;<img src="src/electronics_gensace_redline2_4s_6000_140c.png" width="190">&nbsp;<img src="src/electronics_flysky_nb4_radio.jpg" width="190"><br>
+  <img src="src/electronics_hobbywing_ezrun_max10_g2_hw30102603.jpg" height="179">&nbsp;<img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" height="179">&nbsp;<img src="src/electronics_gensace_redline2_4s_6000_140c.png" height="179">&nbsp;<img src="src/electronics_flysky_nb4_radio.jpg" height="179"><br>
   <em>MAX10 G2 ESC · 3665SD G3 motor · Gens Ace Redline 6000 shorty · FlySky Noble NB4</em>
 </p>
 
@@ -208,7 +208,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 ## STEERING
 
 <p align="center">
-  <img src="src/steering_ptk_9752tgd_servo_dimensions.jpg" width="150">&nbsp;<img src="src/steering_gpm_aluminum_bell_crank_6845x.jpg" width="150">&nbsp;<img src="../K939/src/suspension_integy_caster_block_c26402purple.jpg" width="150">&nbsp;<img src="src/suspension_gpm_xo1_alloy_front_knuckle.jpg" width="150">&nbsp;<img src="src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg" width="150"><br>
+  <img src="src/steering_ptk_9752tgd_servo_dimensions.jpg" height="143">&nbsp;<img src="src/steering_gpm_aluminum_bell_crank_6845x.jpg" height="143">&nbsp;<img src="../K939/src/suspension_integy_caster_block_c26402purple.jpg" height="143">&nbsp;<img src="src/suspension_gpm_xo1_alloy_front_knuckle.jpg" height="143">&nbsp;<img src="src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg" height="143"><br>
   <em>PTK 9752TG-D servo · GPM alloy bell crank · Integy purple C-hub · GPM XO-1 front block · Raptor R (rear carriers used)</em>
 </p>
 
@@ -228,7 +228,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 ## AERO & BODY
 
 <p align="center">
-  <img src="src/body_traxxas_jato33_red_5511a.jpg" width="190">&nbsp;<img src="src/aero_imex_rally_chrome_wheels.png" width="190">&nbsp;<img src="src/aero_generic_tires_mitsubishi_26013.jpg" width="190">&nbsp;<img src="src/aero_closed_cell_foams_blue.jpg" width="190"><br>
+  <img src="src/body_traxxas_jato33_red_5511a.jpg" height="163">&nbsp;<img src="src/aero_imex_rally_chrome_wheels.png" height="163">&nbsp;<img src="src/aero_generic_tires_mitsubishi_26013.jpg" height="163">&nbsp;<img src="src/aero_closed_cell_foams_blue.jpg" height="163"><br>
   <em>Jato 3.3 red shell · IMEX chrome Rally rims · Mitsubishi-tread 26013 tires · blue closed-cell foams</em>
 </p>
 
