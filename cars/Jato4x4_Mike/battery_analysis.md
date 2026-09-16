@@ -2,7 +2,7 @@
 
 > **Running: a 3D printed hold-down bar on the stock Traxxas retainers, over full length 4S packs.** The stock bars stop at **44mm**; the printed one flexes, which is the only reason a **47mm** shorty goes in.
 >
-> **Four packs run here and the HV ones are the better packs.** ⚠️ But on the measured dimensions **only the Gens Ace clears the 152 × 48 × 44mm envelope outright**, see [the packs](#the-packs).
+> **Four packs run here and all four fit. The HV ones are the better packs.** Two of them read oversize against the 152 × 48 × 44mm envelope and still go in, because **length trades against height**, see [the packs](#the-packs).
 >
 > None of the mounting half carries over to the [FastAzJato4x4](../FastAzJato4x4/battery_analysis.md), which runs a CF chassis with an aluminium holder and straps and has no bar at all.
 
@@ -80,7 +80,9 @@ Two ways to do it, a **bar across the stock posts** or a **strap**. They are alt
 | **Width** | **48mm** | Tray width |
 | **Height** | **44mm** | The 7426X in the upper hole, high orientation, the tallest stock setting |
 
-The notesheet also sketches the tray opening itself at **165 × 50mm**, which is the raw space before a bar goes on. The 152 × 48 × 44 figure is the one to buy against.
+The notesheet also sketches the tray opening itself at **165 × 50mm**, which is the raw space before a bar goes on.
+
+> ⚠️ **152mm is not a hard length limit, it is the span at full height.** The bar curves up towards each end, so **a low pack fits under the curve and can run longer**. The 160mm Racing 5200 goes in at 37mm tall, and a straight bar takes it without trouble. **Treat 152 × 48 × 44 as the safe box for a tall pack**, and check the curve yourself if the pack is long but low.
 
 ---
 
@@ -94,10 +96,10 @@ The notesheet also sketches the tray opening itself at **165 × 50mm**, which is
 > |---|---|---|
 > | **Gens Ace 6300** | 139 × 47 × 37mm | ✅ clears on all three |
 > | **Ultra-Thin 6000** | 138 × 47 × 37mm | ✅ clears on all three |
-> | **Lightning 5500** | 149 × 51 × 31mm | ⚠️ **51mm wide, 3mm over the tray** |
-> | **Racing 5200** | 160 × 45 × 37mm | ⚠️ **160mm long, 8mm past the bar span** |
+> | **Lightning 5500** | 149 × 51 × 31mm | ✅ fits, **51mm is 3mm over on paper but it is soft case and squeezes in** |
+> | **Racing 5200** | 160 × 45 × 37mm | ✅ fits, **8mm past the flat span but it is low enough to pass under the bar's curve** |
 >
-> They are all reported to run fine, so either the tray and bar take more than the notesheet figures, or the packs sit differently than a straight envelope check assumes. **Worth measuring on the car**, because as written the doc says both things.
+> **The length limit is height dependent, which is why a straight envelope check is wrong here.** The bar curves up towards its ends, so **152mm is the span at full height**. A low pack goes under that curve and can run longer, which is exactly what the 160mm Racing 5200 does at 37mm tall. A straight bar handles it without trouble.
 
 > **The finding: the HV packs are the better ones.** Higher voltage (15.2V, 4.35V/cell) means more motor RPM and so more top speed than a standard 14.8V pack, and these are low internal resistance packs that sag less under a hard pull.
 
@@ -108,7 +110,7 @@ The notesheet also sketches the tray opening itself at **165 × 50mm**, which is
 | ⭐ **Gens Ace Redline 2.0 4S HV 15.2V 6300mAh 140C** — *on loan from the FastAz* | **Cells:** 4S HV / **15.2V** (4.35V/cell)<br>**Config:** **4S1P** (confirmed on the listing)<br>**ROAR:** ✅ brand on the list<br>**Capacity:** 6300mAh (**95.76Wh**)<br>**C-rating:** 140C (marketing)<br>**Weight:** **452g**<br>**Connector:** 5.0mm bullet<br>**Size:** **139 × 47 × 37mm** full length hardcase<br>**Price:** **$107.38** (2025-10-22) | Pro: **The best pack that runs here.** HV, low IR, light for a 6300, and at **37mm tall it clears the 44mm ceiling with 7mm to spare**. Never fitted the FastAz shorty-only spec, so it found its home on this car<br><br>Con: **5.0mm bullet**, the odd one out against the CNHL fleet's EC5. Needs an HV charger. **On loan**, it may just become Mike's outright | <img src="../FastAzJato4x4/src/electronics_gensace_redline2_4s_6300_140c.webp" width="500"> |
 | 🟢 **CNHL Ultra-Thin Racing LiHV 4S 15.2V 6000mAh 120C** — *hardcase* | **Cells:** 4S / **15.2V LiHV**<br>**Config:** **4S1P** (printed on the label)<br>**ROAR:** ❌ brand not on the list<br>**Capacity:** 6000mAh (91.20Wh)<br>**C-rating:** 120C / 240C burst (marketing)<br>**Weight:** **479g**<br>**Connector:** EC5, 10AWG<br>**Size:** **138 × 47 × 37mm** hardcase<br>**Price:** **$71.00** (2026-08-26) | Pro: **Most capacity of the CNHL three**, hardcase, and HV confirmed on the charger. Fits and works well<br><br>Con: **The worst measured IR of the group at ~4.47mΩ**, which works out around **11-19C true against the 120C on the label**. Priciest CNHL here | <img src="src/electronics_cnhl_ultrathin_6000_120c.jpg" width="500"><br><em>per-cell IR at 100% charge</em> |
 | 🟢 **CNHL Lightning LiHV 4S 5500mAh 120C** — *soft case* | **Cells:** 4S / **15.2V LiHV** (per the listing)<br>**Config:** **4S1P** (inferred, not stated)<br>**ROAR:** ❌ brand not on the list<br>**Capacity:** 5500mAh<br>**C-rating:** 120C / 240C burst (marketing)<br>**Weight:** **472g**, the lightest here<br>**Connector:** EC5, 10AWG<br>**Size:** **149 × 51 × 31mm** soft case<br>**Price:** **$54.46** (2026-08-26) | Pro: Fits and works well, mid capacity of the three, and the listing sells it as LiHV, so it should be in the better group<br><br>Con: **The only pack here never put on the charger for an IR check**, so its voltage class is listing-only and its true C is unknown | <img src="../FastAzJato4x4/src/electronics_cnhl_lightning_4s_5500_120c_hv.png" width="500"> |
-| 🟢 **CNHL Racing Series 4S 5200mAh 90C** — *soft case* | **Cells:** 4S, **reads LiHV-4S (4.35V) on the charger**<br>**Config:** **4S1P**<br>**ROAR:** ❌ brand not on the list<br>**Capacity:** 5200mAh<br>**C-rating:** 90C / 180C burst (marketing)<br>**Weight:** **524g**, the heaviest here<br>**Connector:** EC5, 10AWG<br>**Size:** **160 × 45 × 37mm** soft case<br>**Price:** **$52.51** (2026-08-26) | Pro: **Much the best IR of the group at ~2.23mΩ**, roughly **26-43C true**, so it holds voltage best under load despite carrying the lowest label rating. Cheapest pack here<br><br>Con: **Heaviest pack here at 524g**, and **160mm long, 8mm past the 152mm bar span**. ⚠️ **Sold as a standard LiPo and listed as 14.8V on the FastAz, but this car's charger reads it as LiHV**, so the sources disagree | <img src="src/electronics_cnhl_racing_5200_90c.jpg" width="500"><br><em>per-cell IR mid-charge</em> |
+| 🟢 **CNHL Racing Series 4S 5200mAh 90C** — *soft case* | **Cells:** 4S, **reads LiHV-4S (4.35V) on the charger**<br>**Config:** **4S1P**<br>**ROAR:** ❌ brand not on the list<br>**Capacity:** 5200mAh<br>**C-rating:** 90C / 180C burst (marketing)<br>**Weight:** **524g**, the heaviest here<br>**Connector:** EC5, 10AWG<br>**Size:** **160 × 45 × 37mm** soft case<br>**Price:** **$52.51** (2026-08-26) | Pro: **Much the best IR of the group at ~2.23mΩ**, roughly **26-43C true**, so it holds voltage best under load despite carrying the lowest label rating. Cheapest pack here<br><br>Con: **Heaviest pack here at 524g**, and the longest at 160mm, though **being only 37mm tall it passes under the bar's curve and fits anyway**. ⚠️ **Sold as a standard LiPo and listed as 14.8V on the FastAz, but this car's charger reads it as LiHV**, so the sources disagree | <img src="src/electronics_cnhl_racing_5200_90c.jpg" width="500"><br><em>per-cell IR mid-charge</em> |
 
 ### IR checks
 
