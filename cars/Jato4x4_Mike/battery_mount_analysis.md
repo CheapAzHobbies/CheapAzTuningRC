@@ -34,7 +34,7 @@
 ## The holder
 
 
-**The retainers come with the hold-down kit, not with the chassis.** Both **7426** and **7426X** are sold as a bar **plus front and rear retainers**, so buying a bar buys the mounts too. Each retainer has **two hole positions**, and that choice matters more than which bar you own.
+**The retainers come with the hold-down kit, not with the chassis.** Both **7426** and **7426X** are sold as a bar **plus front and rear retainers**, so buying a bar buys the mounts too. Each retainer has **two hole positions**, and that choice matters more than which bar you own. **The front and rear retainers are different shapes and are not interchangeable**, the rear being the taller slotted one.
 
 | Hole | Height to chassis floor | Note |
 |---|---|---|
@@ -45,7 +45,7 @@
 
 > ⚠️ **LCG only.** Traxxas state both hold-downs are for the **low-CG 4X4 chassis** and **do not fit the standard chassis**. That suits this car's [7422 LCG tub](chassis_analysis.md); the full conversion kit is **7421**.
 
-<p align="center"><img src="src/electronics_traxxas_battery_holder_installed.jpg" height="375">&nbsp;<img src="src/electronics_traxxas_battery_holders_low_high.jpg" height="375"><br><em>A retainer mounted in the chassis · both retainers out, showing the two hole heights</em></p>
+<p align="center"><img src="src/electronics_traxxas_battery_holder_installed.jpg" height="375">&nbsp;<img src="src/electronics_traxxas_battery_holders_low_high.jpg" height="375"><br><em>The <strong>front</strong> retainer, mounted · the <strong>rear</strong> retainer, the taller slotted one, with its two hole positions visible</em></p>
 
 ---
 
