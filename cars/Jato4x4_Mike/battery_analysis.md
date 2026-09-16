@@ -6,7 +6,7 @@
 >
 > The mounting half of this doc is the main thing that does **not** carry over to the [FastAzJato4x4](../FastAzJato4x4/battery_analysis.md), which runs a CF chassis with an aluminium holder and straps and has no bar at all.
 
-<p align="center"><img src="src/electronics_traxxas_battery_holders_low_high.jpg" height="260">&nbsp;<img src="../FastAzJato4x4/src/electronics_gensace_redline2_4s_6300_140c.webp" height="260"><br><em>The two holder heights · the Gens Ace Redline 6300 that sits under them. 🚧 an in-car shot of a pack strapped under the bar would beat both</em></p>
+<p align="center"><img src="src/electronics_traxxas_battery_holders_low_high.jpg" height="150">&nbsp;<img src="src/electronics_battery_bar_3d_printed.jpg" height="150">&nbsp;<img src="src/electronics_hotracing_battery_holddown_lcf126x06.jpg" height="150"><br><em>Holding it down: the two holder post heights · the 3D printed bar this car runs · the Hot Racing kit, front plate, rear plate and strap</em><br><br><img src="../FastAzJato4x4/src/electronics_gensace_redline2_4s_6300_140c.webp" height="150">&nbsp;<img src="../FastAzJato4x4/src/electronics_cnhl_racing_4s_5200_90c.png" height="150">&nbsp;<img src="../FastAzJato4x4/src/electronics_cnhl_lightning_4s_5500_120c_hv.png" height="150">&nbsp;<img src="../FastAzJato4x4/src/electronics_cnhl_ultrathin_4s_6000_120c_hv.png" height="150"><br><em>The four packs that run here: Gens Ace Redline 6300 · CNHL Racing 5200 · CNHL Lightning 5500 · CNHL Ultra-Thin 6000</em></p>
 
 ---
 

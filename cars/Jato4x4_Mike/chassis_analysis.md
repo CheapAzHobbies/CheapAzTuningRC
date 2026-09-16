@@ -6,7 +6,7 @@
 >
 > ⚠️ **This choice is why several of this car's docs cannot be shared with the FastAz.** The battery bars, tray and max pack size only exist because there is a moulded plastic tub, see [`battery_analysis.md`](battery_analysis.md).
 
-<p align="center"><img src="../FastAzJato4x4/src/chassis_powerhobby_alu_front_bulkhead.jpg" width="500"><br><em>Powerhobby aluminum front bulkhead, the one bought part on an otherwise stock chassis</em></p>
+<p align="center"><img src="../FastAzJato4x4/src/chassis_traxxas_oem_lcg_tra7422.jpg" height="200">&nbsp;<img src="../FastAzJato4x4/src/chassis_powerhobby_alu_front_bulkhead.jpg" height="200">&nbsp;<img src="src/chassis_vg_racing_steel_upper_brace.jpg" height="200"><br><em>The three parts that make up this chassis: Traxxas 7422 LCG tub ($20) · Powerhobby alloy front bulkhead ($36.99) · steel VG-style centre brace ($18.99)</em></p>
 
 ---
 
