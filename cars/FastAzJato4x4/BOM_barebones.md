@@ -144,7 +144,7 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **HSP-style 1/8 buggy wheels + tires, 112 × 43mm (86B-801 black / 86W-801 white)**<br><sub>Note: tires and foams already mounted, so one line covers rims, tires and inserts. List $32.26, about $25.45 with coupons stacked. The donor's 1/10 3.0" wheels don't fit the 17mm hubs</sub> | 1 | AliExpress | **$25.45 / set of 4** | [Wheels](wheel_analysis.md) |
+| **HSP-style 1/8 buggy wheels + tires, 112 × 43mm (86B-801 black / 86W-801 white)**<br><sub>Note: tires and foams already mounted, so one line covers rims, tires and inserts. List $32.26, about $25.45 with coupons stacked. The donor's 1/10 3.0" wheels don't fit the 17mm hubs. **RedSpider R235 / R305 at $18.61 works just as well** and is the most durable full set in the doc</sub> | 1 | AliExpress | **$25.45 / set of 4** | [Wheels](wheel_analysis.md) |
 | **HFT high-strength super glue, 10-pack, SKU 68345**<br><sub>Note: glues the tires to the rims. ⚠️ **Thin liquid, not the gel** — the thin stuff wicks into the bead, the gel sits on top and doesn't</sub> | 1 | Harbor Freight, SKU 68345 | **$4.99 / pack of 10** | [Tires](wheel_analysis.md) |
 
 ## Body & Aero

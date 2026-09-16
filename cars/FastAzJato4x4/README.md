@@ -121,7 +121,7 @@ Component weights measured so far, all of them in the analysis docs: body shell 
 I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Gladstone, OR), a really blown-out dirt track: deep ruts, choppy braking bumps, dry loose dirt over a hard base. It's **casual / fun racing now** (transponder-timed racing was discontinued), so **no personal transponder is needed**. That surface drives the whole setup. It rewards compliance and forgiveness over outright top speed, so the car is built to soak up the rough and stay planted.
 
 - **Official races are banned there as of Aug 2026.** Organised racing at the park got shut down, so what's left is informal running. The setup philosophy below doesn't change, the track and the way people drive it are the same, there's just no formal event to build for.
-- **When it does run, it's open class and no rules.** Everything is fair game in the same heat: buggies, truggies, and 1/5 and monster class like X-Maxx, XRT and the Teknos. Nobody is trying to wreck anybody, but **racing is rubbing**, and with that spread of sizes on one track **landing on someone, or getting landed on, is normal**. A 1/5 or an X-Maxx coming down on this truck is a different kind of load than a crash into dirt, and it's most of why durability gets weighed at all here.
+- **When it does run, it's open class and no rules.** Everything is fair game in the same heat: buggies, truggies, and 1/5 and monster class like X-Maxx, XRT and the Teknos. Nobody is trying to wreck anybody, but a 1/5 or an X-Maxx coming down on this truck is a different kind of load than a crash into dirt, and it's most of why durability gets weighed at all here.
 - **Being straight about it though: this build sacrifices some durability for performance.** The carbon chassis is stiffer and lighter than flexy plastic but less forgiving, the extended arms put more leverage through every part they touch, and the wider hubs add scrub. Those are performance calls, and each one costs a little toughness.
 <p align="center">
   <b><i>&ldquo;RACING IS RUBBING.<br>GETTING RAILED BY AN X-MAXX IS JUST ANOTHER SUNDAY.&rdquo;</i></b>
@@ -290,9 +290,9 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 | On the car | Paid | Cheaper option | Cost | Saves |
 |---|---|---|---|---|
 | HB D8 metal big bores + HBS67410 standoffs | $77.98 | **Stock Jato 4x4 GTR XX-Long** (7462-GRAY), springs included, no standoffs needed, [`shock_analysis.md`](shock_analysis.md) | $22.97 | **$55.01** |
-| Gens Ace Redline 6000 shorty | $92.26 | Fido RC Fi58130 5800 shorty, [`battery_analysis.md`](battery_analysis.md) | $55.00 | **$37.26** |
+| Gens Ace Redline 6000 shorty | $92.26 | Fido RC Fi58130 5800 shorty, [`battery_analysis.md`](battery_analysis.md). **Or run standard full-length packs instead** — the car can be set up for them on the stock battery posts and they're cheaper again (the [bare-bones build](BOM_barebones.md) uses a full-length 4S at ~$29 a pack). Catch: full-length is **4S1P**, four cells rather than eight paralleled, so higher internal resistance and more sag than a shorty | $55.00 | **$37.26** |
 | MonsterKingz CF tower set + #9033 front | $39.29 | **Plastic both ends**: #9033 front + TRA9039 rear, **$6.00 each**, [`shock_tower_analysis.md`](shock_tower_analysis.md) | $12.00 | **$27.29** |
-| IMEX chrome rims + Kforce tires + blue race foams | $51.93 | HSP-style swirl wheels, tires **and** foams already on, [`wheel_analysis.md`](wheel_analysis.md) | ~$25.45 | **~$26.48** |
+| IMEX chrome rims + Kforce tires + blue race foams | $51.93 | **HSP-style ricer swirl wheels (~$25.45) or RedSpider R235 / R305 ($18.61)** — either works well, tires **and** foams already on both. The RedSpider set is the most durable full set here, so going cheaper saves more again, [`wheel_analysis.md`](wheel_analysis.md) | ~$25.45 | **~$26.48** |
 | **Total** | | | | **~$146** |
 
 **That lands the same car near ~$969 all in, or ~$828 without the radio**, against ~$1,115 as built.
@@ -300,6 +300,8 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 > **Taken all the way, that's the [bare-bones BOM](BOM_barebones.md): ~$665.** Buy a **running Jato 4x4 VXL for $200** (the market is $200-250) and spend ~$465 on the parts that actually matter — CF chassis, FLM arms, front alloy hubs, titanium rods, the long-axle conversion and a servo. The donor's ESC, motor, radio, bearings, diffs, shocks, towers, body and wing all stay on the car.
 
 **Rear stubs, confirmed:** buying the **bare rear stubs at $16.90 a pair** beats the $25.95 TKR5570-17 kit, whose hexes go unused since the car runs the $8.36 aftermarket 17mm hubs. **Saves $9.05.**
+
+**Rear hubs, if you don't want the extra width:** the alloy carriers widen the track 1-2mm per side, and that width is the main reason to buy them. **Don't want it? The Tekno M6 nylon rear carrier (TKR1952T15, $8.99) does the job for a fraction of the $68.73 Raptor R set**, and it **takes the 10×15×4 bearing natively**, so you skip the printed sleeve as well. It's plastic, so it's the sacrificial choice rather than the strong one, which is fine at the rear where almost nothing happens. ⚠️ **Check the stub fit before ordering:** [`hub_analysis.md`](hub_analysis.md) flags that this carrier expects M6 / XO-1-style stubs front and rear rather than the SCT410-family **5580** this car runs at the back.
 
 **Optional, only if you don't care about the look:** a generic AliExpress 1/8 buggy shell runs ~$25 against the $34.47 Jato 3.3 take-off, so **~$9 more**. The OG shell is most of this car's character, so it stays.
 
