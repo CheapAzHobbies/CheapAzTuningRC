@@ -15,6 +15,7 @@
 - [Front & Rear Diff Comparison](#front--rear-diff-comparison)
 - [Alternative Upgrade Parts](#alternative-upgrade-parts)
 - [Center Diff](#center-diff)
+- [Center Diff Teardown](#center-diff-teardown) — inside the $19 winner: 3 spider gears, bearings both sides, and the one pin that breaks
 - [Center Diff Oil](#center-diff-oil)
 - [Front & Rear Diff Oil](#front--rear-diff-oil)
 - [Spur Gear](#spur-gear)
@@ -96,6 +97,53 @@ A slipper clutch replaces the center diff entirely. Vetoed here because it doesn
 | Part | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ❌ ~~**TRA6878A, Complete Slipper Clutch**~~ | **Part:** TRA6878A<br>**Type:** complete slipper clutch assembly (replaces center diff)<br>**Price:** **$20.00** | Pro: Works well on high-grip surfaces<br><br>Con: **Doesn't handle well on dirt/low-grip tracks**, this build is set up for dirt offroad, not high-grip. Center diff (TRA6814) is the correct setup | <img src="src/drivetrain_traxxas_slipper_clutch_tra6878a.jpg" width="500"> |
+
+---
+
+## Center Diff Teardown
+
+> **Opened the $19.06 AliExpress unit up, and it is over-designed for the money.** Three spider gears instead of the usual two, ball bearings on **both** sides of the output shafts, and Traxxas-size gears throughout so it rebuilds off the shelf. There is one real weak point (a stepped spider pin) and one fitment chore (shave the rear output shaft), both covered below. For ~$20 this is a great find.
+
+<p align="center"><img src="src/drivetrain_aliexpress_center_diff_internals_laid_out.jpg" width="600"><br><em>Everything inside: three spider gears, both output shafts with their bevels, and one of the shaft bearings</em></p>
+
+### What's inside
+
+| Item | What it is | Why it matters |
+|---|---|---|
+| **Spider gears** | **Three**, not the usual two | More teeth in mesh spreads the load, so each gear sees less of it |
+| **Output shaft bearings** | **Ball bearings on both sides of the shafts** | Basically unheard of at this price. Most cheap diffs run the shafts straight in the housing bore, which wallows out |
+| **Bevel gears** | **Same size as Traxxas diff gears** | Rebuildable from Traxxas spares (TRA6882-class gear sets) until the housing itself fails |
+| **Spur** | Steel 54T, integrated | This is the build's spur, see [Spur Gear](#spur-gear) |
+| **Housing** | Aluminum, 3-bolt end caps | Wears faster than plastic, but the internals will outlive a lot of cheaper diffs |
+
+<p align="center"><img src="src/drivetrain_aliexpress_center_diff_spider_gears_open.jpg" width="500">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_housing_bearing_seat.jpg" width="500"><br><em>Three spider gears packed in black grease · bearing seated in the housing end cap, both sides get one</em></p>
+
+<p align="center"><img src="src/drivetrain_aliexpress_center_diff_spider_gear_closeup.jpg" width="500">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_output_bevel_gears.jpg" width="500"><br><em>Single spider gear · the two output bevels, Traxxas-size</em></p>
+
+### The spider pin, the only real weak point
+
+The spider pins are **stepped down** partway along their length, and that step is exactly where they shear. My guess is the step is there to flex slightly and fake an LSD-style progressive response, but for a part you have to repair in the field it is a bad trade.
+
+**The fix: any full-length 2.8mm pin, no step-down.** A plain solid pin is stronger, cheaper, and easier to source than the original.
+
+<p align="center"><img src="src/drivetrain_aliexpress_center_diff_pin_broken_vs_good.jpg" width="500">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_pin_step_down.jpg" width="500"><br><em>One sheared pin next to a good one · the step-down that causes it, clearly visible on the upper pin</em></p>
+
+<p align="center"><img src="src/drivetrain_aliexpress_center_diff_pins_caliper.jpg" width="500"><br><em>Spider gears and the full pin set. Caliper reads <strong>6.85 mm</strong> 🚧 which dimension this is (pin length) still needs confirming</em></p>
+
+### Fitment: the rear output shaft needs shaving
+
+**The one downside of the whole unit.** The **rear output shaft** sits ~**5mm** too long to seat correctly, so it needs shaving down. Nothing else on the diff needs fitting. A little filing goes a long way here, and it is a one-time job.
+
+<p align="center"><img src="src/drivetrain_aliexpress_center_diff_output_shafts_length.jpg" width="500">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_output_shaft_caliper.jpg" width="500"><br><em>The two output shafts are visibly different lengths · caliper on the shaft stub reads <strong>4.75 mm</strong></em></p>
+
+### Rebuild notes
+
+- **Gears are Traxxas-size**, so a standard Traxxas diff gear set rebuilds it. No proprietary spares to chase.
+- **Replace the stepped pins with solid 2.8mm pins** on the first rebuild, before one breaks rather than after.
+- **The housing is the life limit.** Aluminum augers out eventually; when the bores go oblong the unit is done, but the internals should long outlast the price.
+- **Fill half full only**, same rule as any sealed diff. See [Center Diff Oil](#center-diff-oil) for the weight this car runs.
+
+<p align="center"><img src="src/drivetrain_aliexpress_center_diff_assembled_spur.jpg" width="500">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_spur_face_bearing.jpg" width="500"><br><em>Back together, steel 54T spur face · spur face and the center bore bearing</em></p>
 
 ---
 
