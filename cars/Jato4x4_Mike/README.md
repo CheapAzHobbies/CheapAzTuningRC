@@ -25,7 +25,7 @@
 
 **Base Car:** started as a **running Traxxas Slash 4x4**, built up to Jato 4x4 spec.
 
-> **This is the car the [FastAzJato4x4](../FastAzJato4x4/README.md) was born out of.** Mike's Jato came first and the R&D happened here: the diff and shock oils, the pistons and the custom axle build were all worked out on this car, together, and the FastAz inherited the answers. So where the two docs agree, **this is the origin and that one is the copy** — worth knowing when the settings look identical.
+> **This is the car the [FastAzJato4x4](../FastAzJato4x4/README.md) was born out of.** Mike's Jato came first and the R&D happened here: the diff and shock oils, the pistons and the custom axle build were all worked out on this car, together, and the FastAz inherited the answers. So where the two docs agree, **this is the origin and that one is the copy**, worth knowing when the settings look identical.
 >
 > The two have since diverged. This car keeps the **plastic chassis**, runs **different hubs**, and solves the hub-bearing problem the opposite way (bigger bearing, shaved hexes, rather than a sleeve). Those differences are the interesting part and are called out section by section below.
 >
@@ -42,7 +42,7 @@
 | Front | **37.5wt** (Losi TLR74030, 468 cSt) |
 | Rear | **50wt** (Associated 5480 FT, 650 cSt) |
 
-> **Same spec as the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil), and this car is where it was arrived at** — the two were tuned together, starting here. Rear heavier than front because the motor sits at the back and the car is tail-heavy for a 1/8.
+> **Same spec as the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil), and this car is where it was arrived at**, the two were tuned together, starting here. Rear heavier than front because the motor sits at the back and the car is tail-heavy for a 1/8.
 
 ### Pistons
 
@@ -120,7 +120,8 @@ Height is the one real constraint and **44mm is the stock ceiling**. A **47mm sh
 
 | Item | Spec |
 |---|---|
-| **Rims** | **Traxxas Jato 4x4 VXL 3.0" dished wheels — 17 mm hex** (white). Assembled tire+wheel set: **TRA9074-WHT**; wheels-only sold separately (verify exact SKU). |
+| **Rims** | **Traxxas 9070-WHT**, Jato 4x4 VXL 3.0" dished, 17 mm hex, white |
+| **Foams** | **Blue race foams**, between the rim and the tire |
 | **Tires** | **RedSpider** tires **mounted on the Traxxas Jato 4x4 rims** to widen the track |
 
 > **Wide-track trick:** RedSpider tires mounted on the wider **Traxxas Jato 4x4 rims**, which pushes the wheels out and **widens the stance by a lot**. More stability and corner grip, at the cost of being **outside ROAR width**. The FastAz runs the same tire on standard rims to stay legal. Also note these take **~7 packs to wear in**. Full write-up in [`wheel_analysis.md`](wheel_analysis.md).
@@ -131,7 +132,7 @@ Height is the one real constraint and **44mm is the stock ceiling**. A **47mm sh
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Body / shell | Traxxas Jato 4x4 body, green (exact SKU TBD) | $36.00, paid for by me — tracked in [`/LEDGER.md`](../../LEDGER.md), not here |
+| Body / shell | Traxxas Jato 4x4 body, green (exact SKU TBD) | $36.00, paid for by me, tracked in [`/LEDGER.md`](../../LEDGER.md), not here |
 
 ---
 
@@ -151,7 +152,7 @@ Height is the one real constraint and **44mm is the stock ceiling**. A **47mm sh
 
 **12T 32P pinion on a 54T spur + Castle 1412 3200KV is the keeper combo.**
 
-Original intuition was that **higher RPM** = better air control, so chasing the smallest pinion was the obvious move. Real-world finding: **torque matters as much as RPM** — gearing for the **power-band sweet spot** (12T here, not the tiniest pinion) makes mid-air corrections feel just as responsive as the high-RPM theory promised, *and* keeps the motor cooler because it's neither lugging nor screaming.
+Original intuition was that **higher RPM** = better air control, so chasing the smallest pinion was the obvious move. Real-world finding: **torque matters as much as RPM**, gearing for the **power-band sweet spot** (12T here, not the tiniest pinion) makes mid-air corrections feel just as responsive as the high-RPM theory promised, *and* keeps the motor cooler because it's neither lugging nor screaming.
 
 The on-track observations, the service tracking and the full write-up are in [`motor_analysis.md`](motor_analysis.md). It's also the empirical data point behind the FastAzJato4x4 pinion decision: pinion sizing is **not** purely a top-speed equation.
 
@@ -162,10 +163,10 @@ The on-track observations, the service tracking and the full write-up are in [`m
 | Date | Part | Qty | Total | Source |
 |------|------|-----|-------|--------|
 | 2026-09-07 | MonsterKingz / G-Maxx 7075 alloy hub set (front + rear) | 1 set | $50.00 | Bought off the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md) |
-| 2026-05-19 | LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S (black) | 1 | $15.29 | AliExpress — LIGHT HOUSE 188527 Store |
-| 2026-05-19 | LIGHT HOUSE Aluminum Front Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S (black) | 1 | $14.42 | AliExpress — LIGHT HOUSE 188527 Store |
+| 2026-05-19 | LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S (black) | 1 | $15.29 | AliExpress, LIGHT HOUSE 188527 Store |
+| 2026-05-19 | LIGHT HOUSE Aluminum Front Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S (black) | 1 | $14.42 | AliExpress, LIGHT HOUSE 188527 Store |
 
-> Both items shipped on the same order **#8210896333264866** — subtotal $29.71, paid **$24.67** ($5.04 off). Free returns within 90 days.
+> Both items shipped on the same order **#8210896333264866**, subtotal $29.71, paid **$24.67** ($5.04 off). Free returns within 90 days.
 
 > Money Mike owes for parts (FLM arms, E-Revo CVD axle set) is tracked in [`/LEDGER.md`](../../LEDGER.md), not here.
 

@@ -1,10 +1,10 @@
 # Wheel & Tire Selection — Jato4x4_Mike
 
-> **Running: RedSpider tires mounted on Traxxas Jato 4x4 VXL 3.0" dished rims (17mm hex, white).** The tire is the same one the [FastAzJato4x4](../FastAzJato4x4/wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) runs, so the tire itself is not re-analysed here. **What is unique to this car is the rim it is mounted on.** Putting RedSpider rubber on the wider Traxxas rims pushes the wheels out and **widens the track by a lot**, which is the single best handling change made to this car.
+> **Running: a three-part stack, Traxxas 9070-WHT rims + blue race foams + RedSpider tires.** The tire is the same one the [FastAzJato4x4](../FastAzJato4x4/wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) runs, so the tire itself is not re-analysed here. **What is unique to this car is the rim it is mounted on.** Putting RedSpider rubber on the wider Traxxas rims pushes the wheels out and **widens the track by a lot**, which is the single best handling change made to this car.
 >
 > ⚠️ **It puts the car outside ROAR width limits.** Fine here, this is a bash car. The FastAz runs the same tire on standard-width rims specifically to stay legal.
 
-<p align="center"><img src="../FastAzJato4x4/src/aero_redspider_wheels_r305_white.jpg" width="600"><br><em>RedSpider <strong>R305</strong>, the white set. Note this car runs the RedSpider <strong>tire</strong> on wider Traxxas Jato rims, not the R305 rim</em></p>
+<p align="center"><img src="../FastAzJato4x4/src/aero_redspider_wheels_r305_white.jpg" width="600"><br><em>RedSpider <strong>R305</strong>, the white set. This car runs the RedSpider <strong>tire</strong> on wider <strong>Traxxas 9070-WHT</strong> rims over blue race foams, not on the R305 rim</em></p>
 
 ---
 
@@ -25,7 +25,8 @@
 | | This car | [FastAzJato4x4](../FastAzJato4x4/wheel_analysis.md) |
 |---|---|---|
 | **Tire** | RedSpider | RedSpider (same) |
-| **Rim** | **Traxxas Jato 4x4 VXL 3.0" dished, white** | Standard-width rims |
+| **Rim** | **Traxxas 9070-WHT**, Jato 4x4 VXL 3.0" dished | Standard-width rims |
+| **Foam** | **Blue race foams** | 🚧 not recorded |
 | **Track** | **Much wider** | Stock width |
 | **ROAR legal** | ❌ no | ✅ yes, deliberately |
 
@@ -43,7 +44,7 @@
 
 | Wheel / Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **RedSpider tires on Traxxas Jato 4x4 rims** — *running* | **Part:** tire RedSpider; rim **TRA9074-WHT** assembled set, wheels sold separately 🚧 verify bare-rim SKU<br>**Type:** 1/8 off-road<br>**Tread:** RedSpider<br>**Compound:** see [FastAz](../FastAzJato4x4/wheel_analysis.md#tires-tire-only-mount-on-your-own-rims)<br>**Dia:** N/A<br>**Width:** **wider than standard, this is the point**<br>**Rim:** Traxxas Jato 4x4 VXL 3.0" dished, white<br>**Hex:** 17mm<br>**Weight:** N/A 🚧 not weighed<br>**Foam:** N/A<br>**Pre-glued:** mounted in house<br>**Price:** N/A | Pro: **The wide stance is the best handling change on this car**, more stability and more corner grip, using a rim you may already own. Costs nothing if the Traxxas rims are already in the box<br><br>Con: **Outside ROAR width**, so it is a bash-only setup. Takes **~7 packs to wear in** before it is at its best. Wider track adds scrub | <img src="../FastAzJato4x4/src/aero_redspider_wheels.jpg" width="250">&nbsp;<img src="../FastAzJato4x4/src/aero_redspider_wheels_r306.jpg" width="250"><br><em>RedSpider, the shared tire</em> |
+| ⭐ **RedSpider tires on Traxxas Jato 4x4 rims** — *running* | **Part:** tire **RedSpider**; rim **Traxxas 9070-WHT**; **blue race foams** between them<br>**Type:** 1/8 off-road<br>**Tread:** RedSpider<br>**Compound:** see [FastAz](../FastAzJato4x4/wheel_analysis.md#tires-tire-only-mount-on-your-own-rims)<br>**Dia:** N/A<br>**Width:** **wider than standard, this is the point**<br>**Rim:** **Traxxas 9070-WHT**, Jato 4x4 VXL 3.0" dished, white<br>**Hex:** 17mm<br>**Weight:** N/A 🚧 not weighed<br>**Foam:** N/A<br>**Pre-glued:** mounted in house<br>**Price:** N/A | Pro: **The wide stance is the best handling change on this car**, more stability and more corner grip, using a rim you may already own. Costs nothing if the Traxxas rims are already in the box<br><br>Con: **Outside ROAR width**, so it is a bash-only setup. Takes **~7 packs to wear in** before it is at its best. Wider track adds scrub | <img src="../FastAzJato4x4/src/aero_redspider_wheels.jpg" width="250">&nbsp;<img src="../FastAzJato4x4/src/aero_redspider_wheels_r306.jpg" width="250"><br><em>RedSpider, the shared tire</em> |
 
 ---
 
