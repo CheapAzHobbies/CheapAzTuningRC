@@ -231,6 +231,8 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 **That lands the same car near ~$964 all in, or ~$823 without the radio**, against ~$1,110 as built.
 
+> **Taken all the way, that's the [bare-bones BOM](BOM_barebones.md): ~$649.** Buy a **running Jato 4x4 VXL for $200** and spend ~$449 on the parts that actually matter — CF chassis, FLM arms, front alloy hubs, titanium rods, the long-axle conversion and a servo. The donor's ESC, motor, radio, bearings, diffs, shocks, towers, body and wing all stay on the car.
+
 **Rear stubs, confirmed:** buying the **bare rear stubs at $16.90 a pair** beats the $25.95 TKR5570-17 kit, whose hexes go unused since the car runs the $8.36 aftermarket 17mm hubs. **Saves $9.05.**
 
 **Optional, only if you don't care about the look:** a generic AliExpress 1/8 buggy shell runs ~$25 against the $34.47 Jato 3.3 take-off, so **~$9 more**. The OG shell is most of this car's character, so it stays.
