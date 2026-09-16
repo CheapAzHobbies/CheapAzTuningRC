@@ -1,8 +1,10 @@
 # Bill of Materials — FastAzJato4x4
 
-Everything on the car, nothing that isn't. **Qty** is how much of the product was bought, **Price** is what it cost and what that covers, and anything else sits in a small note under the part. The reasoning behind each pick is in the linked doc.
+Everything that's actually on the car, and nothing that isn't. **Qty** is how many of that product I bought, **Price** is what it cost me and what that price covers, and anything else worth knowing sits in a small note under the part. If you want to know *why* a part is here, the linked doc has the whole argument.
 
-> **This is not the cheapest way to build a car this fast.** It's a good base with my personal touches bolted on and a few bad decisions I paid for. The **[bare-bones BOM](BOM_barebones.md)** is the cheap version: start from a **$200 running Jato 4x4** and spend ~$465 on the parts that matter, for about **$665 all in**. **This list isn't the final spec for this car either**. It's here so you can see what it actually took, if you want something just as quick. The money that can come back off is in [Building It Cheaper](README.md#building-it-cheaper).
+> **Fair warning before you start adding this up: this is not the cheapest way to build a car this fast.** It's a good base with my personal touches bolted on and a few bad decisions I paid for, and honestly I'd make most of them again. **If you just want the speed, don't copy this list** — go to the **[bare-bones BOM](BOM_barebones.md)** instead: buy a **$200 running Jato 4x4**, spend about **$465** on the parts that actually matter, and you're done near **$665**.
+>
+> This isn't the final spec for this car either. It's simply what it took to get here, receipts and all. **Where the money comes back off** is in [Building It Cheaper](README.md#building-it-cheaper), and **what I blew it on anyway** is in [the fun tax](README.md#the-fun-tax-and-the-bad-decisions-id-make-again).
 
 <p align="center"><img src="src/overview_fastazjato_parts_collage.jpg" width="900"><br><em>Most of the parts on the car. A few have no photo yet, so the tables below are the full list.</em></p>
 

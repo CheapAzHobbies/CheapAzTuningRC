@@ -248,11 +248,17 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 - **Blue closed-cell race foams ($8.08).** Worth it, but the foams that come in the HSP wheels are only **marginally** worse, so that's a fair place to save.
 - **PTK 9752TG-D servo ($19.65).** Already the budget pick, and it matches a $130 ProTek at 7.4V.
 
-### What the fun tax actually bought
+### The fun tax, and the bad decisions I'd make again
 
-- **IMEX chrome rims ($39.98).** Bought purely because they're baller. The HSP set is the same swirl rim with tires on for less.
+**This car got expensive because I wanted it to be cool, not because it needed to be.** None of these were rational, all of them were fun, and pretending otherwise would make this a worse build log. If something was baller, I needed it.
+
+- **IMEX chrome rims ($39.98).** Bought purely because they're baller. The HSP set is the same swirl rim with tires already on for less. **The ricer chrome plus the stretched stance from the extended arms makes it look like an extended-swingarm GSX-R**, which is the entire justification, and it's enough.
+- **Gens Ace Redline 6000 shorty ($92.26).** **Nobody needs a battery this expensive**, and the [Fido Fi58130 at $55](battery_analysis.md) does the same job. **But the shorty isn't pure vanity:** shorty 4S packs are **4S2P**, eight cells with two paralleled per series group, where a full-length pack is 4S1P with four. **Two cells in parallel roughly halve internal resistance**, so it's effectively two batteries in there sharing the load — less sag under power and an honest C-rating in use rather than a sticker one. Over-bought, but it does something.
+- **The RX box ($3.91).** It's a knock-off battery box holding a receiver. It costs four dollars. It's baller, so I needed it. That's the whole reasoning. 😄
 - **CF rear tower ($33.29).** Light and stiff, and it looks the part, but the plastic tower is $6 and takes the same hits.
 - **D8 metal big bores ($73.99).** A real upgrade over the stock GTRs, and also the single biggest line you can cut.
+
+**The honest summary:** strip every one of these and the car is [about $146 cheaper](#building-it-cheaper) and drives nearly the same. That's what the [bare-bones BOM](BOM_barebones.md) is for. This one is the version I actually wanted to own.
 
 ## 3D Models
 

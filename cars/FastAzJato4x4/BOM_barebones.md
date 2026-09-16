@@ -2,7 +2,7 @@
 
 **Buy a running Jato 4x4 for $200, then spend ~$465 turning it into this car.** Total **~$665**, against ~$1,115 for the real build.
 
-> This is not the car in [`BOM.md`](BOM.md). That one is the actual build, personal touches and bad decisions included. **This is the cheapest honest route to the same speed**, and it starts from a used 4S truck instead of a box of parts. Every price is a real one from the full BOM or its analysis docs, except the pinion and the battery, which are current retail and linked below.
+> This isn't the car in [`BOM.md`](BOM.md) — that one's the real build, personal touches and bad decisions included. **This is the cheapest honest way I know to get the same speed**, and it starts with somebody else's used truck rather than a box of new parts. **Every price here is one I actually paid or found**, pulled from the full BOM or its analysis docs. The only two I haven't bought myself are the pinion and the battery, and those are current retail with the listings linked.
 
 <p align="center"><img src="src/overview_barebones_parts_collage.jpg" width="900"><br><em>The bare-bones parts list. Most of what you buy, plus the stock pieces the donor hands you.</em></p>
 
