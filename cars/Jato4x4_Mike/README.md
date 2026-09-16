@@ -108,7 +108,9 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 
 > **All of it lives in [`battery_analysis.md`](battery_analysis.md):** the retainers and bar heights, the max pack size, the four packs and the IR checks.
 
-**Max pack 152 × 48 × 44mm**, full length 4S, soft or hard case. **Four packs run here**, the Gens Ace Redline 6300 and three CNHL, and **the HV ones are the better packs**. Prices are in [`BOM.md`](BOM.md#batteries).
+⚠️ **Low-voltage cutoff: 3.5V per cell.**
+
+**Max pack 152 × 48 × 44mm**, full length 4S, soft or hard case. **Four packs run here**, the Gens Ace Redline 6300 and three CNHL, and **the HV ones are the better packs**. Prices are in [`BOM.md`](BOM.md#batteries). **Likely moving to hardcase** so grit stops chafing the soft packs.
 
 ---
 

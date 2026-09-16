@@ -1,5 +1,7 @@
 # Battery Selection — Jato4x4_Mike
 
+> ⚠️ **Set the low-voltage cutoff to 3.5V per cell.** That is the one setting to get right before running any of these packs (**14.0V across a 4S**, derived, since ESCs are configured per cell).
+>
 > **Running: a 3D printed hold-down bar on the stock Traxxas retainers, over full length 4S packs.** The stock bars stop at **44mm**; the printed one flexes, which is the only reason a **47mm** shorty goes in.
 >
 > **Four packs run here and all four fit. The HV ones are the better packs.** Two of them read oversize against the 152 × 48 × 44mm envelope and still go in, because **length trades against height**, see [the packs](#the-packs).
@@ -143,3 +145,5 @@ Every dimension on this page is transcribed from Mike's handwritten sheet. It is
 - **Measure the pack, not the label.** Everything here carries **±1.5mm**, so a setting within 1.5mm of a pack's height is a maybe, not a yes.
 - **Sharing works one way.** Shorties fit this car too, so anything bought to the FastAz spec runs here, while the full length packs stay on this one.
 - **There is no separate "Traxxas OE strap" to buy.** The OE arrangement *is* the plastic bar on its retainers, listed above. A plain generic strap is $2 to $4 ([LEDGER](../../LEDGER.md) #39, #40) if you want one anyway.
+- ⚠️ **Low-voltage cutoff: 3.5V per cell.** Applies to every pack here, HV or standard. The HV packs charge to 4.35V a cell rather than 4.2V, so the top of the range moves but the floor does not.
+- **Hardcase is the likely direction.** Two of the four packs here are soft case, and soft packs are what chafe: grit works into the tray and wears the shrink wrap. **Moving to hardcase, the CNHL hardpack being the obvious one, would remove that worry entirely.** It is the same reasoning that pushed the [FastAzJato4x4](../FastAzJato4x4/battery_analysis.md) to hardcase-only for the sand at Meldrum, so this car would just be catching up.
