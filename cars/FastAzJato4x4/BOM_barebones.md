@@ -146,6 +146,7 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 |---|---|---|---|---|
 | **PTK 9752TG-D servo**<br><sub>Note: replaces the donor's servo. Matches a $130 ProTek at 7.4V, so there's nothing to save here</sub> | 1 | AliExpress, PTK Servo Store | **$19.65 each** | [Servo](servo_analysis.md) |
 | **Ovonic 4S 14.8V 6500mAh 120C hardcase**<br><sub>Note: **full length** (138 × 46 × 50mm), so it runs on the **stock battery posts**, no shorty tray needed. Sold as a 2-pack, so that's ~$29 a pack and you get a spare</sub> | 1 | Ovonic US | **$57.99 / 2-pack** | [Battery](battery_analysis.md) |
+| **Traxxas TQ / TQi radio**<br><sub>Note: comes with the donor, so the radio line is free. **Stock it really sucks to use**, but re-grease it and run bearings in place of the factory bushings at the wheel and trigger and **it feels like a pro controller** for a couple of dollars. Fixes the feel, not the 2-3 channels or the Traxxas-only receivers</sub> | 1 | Donor car | **$0** | [Radios](../../controllers/README.md#notes) |
 | **Receiver, mounted on the upper brace**<br><sub>Note: no RX box. The donor's receiver sits on top of the upper brace</sub> | 1 | Donor car | **$0** | [RX box](radio_analysis.md#rx-box-and-how-its-mounted) |
 
 ## Wheels
