@@ -9,7 +9,9 @@
 - [Car Overview](#car-overview)
 - [Suspension](#suspension)
 - [Steering](#steering)
+- [Chassis](#chassis)
 - [Drivetrain](#drivetrain)
+- [Batteries](#batteries)
 - [Wheels & Tires](#wheels--tires)
 - [Aero & Body](#aero--body)
 - [Electronics](#electronics)
@@ -23,7 +25,11 @@
 
 **Base Car:** Traxxas Jato 4x4 — Mike's personal build.
 
-> Originally noted as "Slash" — it's actually a Jato 4x4. Shares lineage / tuning notes with my FastAzJato4x4 but is its own car.
+> **This is the car the [FastAzJato4x4](../FastAzJato4x4/README.md) was born out of.** Mike's Jato came first and the R&D happened here: the diff and shock oils, the pistons and the custom axle build were all worked out on this car, together, and the FastAz inherited the answers. So where the two docs agree, **this is the origin and that one is the copy** — worth knowing when the settings look identical.
+>
+> The two have since diverged. This car keeps the **plastic chassis**, runs **different hubs**, and solves the hub-bearing problem the opposite way (bigger bearing, shaved hexes, rather than a sleeve). Those differences are the interesting part and are called out section by section below.
+>
+> Originally noted as "Slash" — it's actually a Jato 4x4.
 
 ---
 
@@ -33,10 +39,10 @@
 
 | Position | Weight |
 |----------|--------|
-| Front | 40wt |
-| Rear | **50wt** |
+| Front | **37.5wt** (Losi TLR74030, 468 cSt) |
+| Rear | **50wt** (Associated 5480 FT, 650 cSt) |
 
-> Same **50wt rear** as the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil). The FastAz went down to a **37.5wt front** (Losi TLR74030); this car is still on 40wt up front. Rear heavier than front because the motor sits at the back and the car is tail-heavy for a 1/8.
+> **Same spec as the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil), and this car is where it was arrived at** — the two were tuned together, starting here. Rear heavier than front because the motor sits at the back and the car is tail-heavy for a 1/8.
 
 ### Pistons
 
@@ -75,6 +81,17 @@
 
 ---
 
+## Chassis
+
+| Component | Part | Notes |
+|---|---|---|
+| Chassis | **Stock plastic** | **The big divergence from the [FastAzJato4x4](../FastAzJato4x4/chassis_analysis.md), which went carbon fiber.** Plastic flexes rather than cracking, and it's already on the car, so there's nothing to buy |
+| Front bulkhead | **Powerhobby aluminum** | The front is where bulkheads get loaded and where the plastic one gives up. On the FastAz this came bundled with the CF chassis kit; here it's the standalone part (~$36.99 on its own, [`chassis_analysis.md`](../FastAzJato4x4/chassis_analysis.md#bulkheads-front--rear)) |
+
+> **Worth noting for anyone pricing a build:** this combination is the honest cheap route. A plastic chassis plus one alloy front bulkhead covers the part that actually fails, without the carbon kit. It's also the pairing that makes [metal arms risky](../FastAzJato4x4/arm_analysis.md) — FLM arms strip a *plastic* bulkhead, which is exactly why the alloy front matters here.
+
+---
+
 ## Drivetrain
 
 | Position | Part |
@@ -84,17 +101,19 @@
 
 ### Custom Axles (shared with FastAzJato4x4)
 
-> **Bearings:** this car runs a **bare 10×18×5 in the hub**, which needed the **17mm hex adapters shaved down** to fit, not the hub carriers. The FastAz solves the same problem with a sleeve instead. Three-way comparison against stock BL-2S is in [`FastAzJato4x4/bearings_reference.md`](../FastAzJato4x4/bearings_reference.md#three-builds-side-by-side).
+> **Bearings:** this car runs a **bare 10×18×5 in the hub**, which needed the **17mm hex adapters shaved down** to fit, not the hub carriers. The FastAz solves the same problem with a sleeve instead. **Both end up on the same 10×18×5** — the difference is only which part gives up the 1mm. All four routes, including stock BL-2S, are compared in [`FastAzJato4x4/bearings_reference.md`](../FastAzJato4x4/bearings_reference.md#bearings-by-position-all-four-routes).
 
 Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is dialed on an **adjustable threaded prototype** first, then the **final axles are welded** to that length (simpler, tools on hand, a fresh set is cheap to remake). **Shorter axle = front.** Full build write-up and the rejected join methods are in [`FastAzJato4x4/driveshaft_analysis.md`](../FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip).
 
 ### Diff Oil
 
+> **This car is where the setup came from.** Mike's Jato was the first of the two, and the oils were tuned here together before the [FastAzJato4x4](../FastAzJato4x4/differential_analysis.md) inherited them. Both cars run the same spec.
+
 | Diff | Weight | Note |
 |---|---|---|
-| **Front** | **~7k wt** (recommended starting point) | Loose / low-grip dirt: ~7k keeps steering with the heavy 4S car. Go **lighter (5k)** for more turn-in on the slickest days, **heavier (10k+)** if it torque-steers or plows. Dial in on track, then match it on the FastAzJato. |
-| **Center** | **20k wt** | Same as the [FastAzJato4x4](../FastAzJato4x4/differential_analysis.md#center-diff-oil) — balanced (diffs under hard throttle, freewheels at part-throttle) for 4S dirt. |
-| **Rear** | TBD | Set after front/center are dialed. |
+| **Front** | **30k** (Traxxas TRA5136) | Calms torque steer on the heavy 4S car |
+| **Center** | **100k** (Traxxas TRA5130) | Holds drive stability |
+| **Rear** | **10k, run greased** (Traxxas TRA5135) | Drive off the corner |
 
 ---
 
@@ -187,6 +206,8 @@ Cross-reference for the FastAzJato4x4 pinion decision (currently TBD): the 12T 3
 
 ## TODO / Notes
 
-- [ ] Confirm chassis / hub / arm setup vs FastAzJato4x4
+- [x] Chassis confirmed: **stock plastic + Powerhobby alloy front bulkhead**
+- [ ] Weigh the car (no all-up figure recorded yet)
+- [ ] Confirm the arm setup vs the FastAzJato4x4
 - [ ] Add electronics + drivetrain details
 - [ ] Add photos
