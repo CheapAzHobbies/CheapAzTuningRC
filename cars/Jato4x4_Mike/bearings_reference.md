@@ -1,6 +1,6 @@
 # Bearings Reference — Jato4x4_Mike
 
-Not a tuning decision, just the list of bearings this car runs. The baseline is the **Traxxas Jato 4x4 BL-2s (90154-4)** kit, same as the [FastAzJato4x4](../FastAzJato4x4/bearings_reference.md), because both are the same 1/8-class platform. Run sealed (rubber-shielded) bearings throughout for offroad.
+Not a tuning decision, just the list of bearings this car runs. The baseline is the **Traxxas Jato 4x4 BL-2s (90154-4)** kit, same as the [FastAzJato4x4](../FastAzJato4x4/bearings_reference.md), because both are the same 1/8-class platform. Run sealed (rubber-shielded, **2RS**) bearings throughout for offroad, **with one exception on this car**: the four hub bearings are **ZZ metal-shielded**, see [the hub bearing](#the-hub-bearing-s61810zz).
 
 > **This car and the FastAz split at exactly one position, the hub.** Both run custom axles that need a **10mm ID** where the EHD hubs came with a **12×18×4**. This car **opens the hub up** and drops a bare **10×18×5** straight in. The FastAz **fills the pocket down** with a sleeve and runs a **10×15×4**. Same problem, two answers.
 
@@ -44,11 +44,31 @@ Three places the 1mm can come from, and this car picked the second:
 
 ---
 
-## What the hub bearing costs
+## The hub bearing (S61810ZZ)
+
+The one part that makes this car's route work, and the one bearing here that is **not** rubber sealed.
+
+| Field | Value |
+|---|---|
+| **Part** | **S61810ZZ**, 10×18×5mm |
+| **Material** | Stainless steel |
+| **Precision** | **ABEC-9** |
+| **Seal** | ⚠️ **Double metal shield (ZZ)**, not 2RS rubber |
+| **Lubrication** | Pre-greased |
+| **Sold as** | 10 pcs per lot |
+| **Source** | AliExpress, **Speed Bearing Store** |
+| **Price paid** | **$14.45 / 10-pack** = **$1.45 each** |
+| **Listed now** | **$20.55 / lot**, or **$14.88 / lot** at 3+ lots |
+
+<p align="center"><img src="src/suspension_bearing_s61810zz_10x18x5.jpg" width="420"><br><em>S61810ZZ 10×18×5, stainless, double metal shield. Listing photo, watermarked <strong>RAIN &amp; DEW</strong> though the store is Speed Bearing Store, so the store is not the brand</em></p>
+
+> ⚠️ **ZZ is a metal shield, not a rubber seal.** Every other bearing on these cars is **2RS** rubber sealed, chosen specifically to keep grit and water out for offroad running. **The hub corners are the most exposed position on the car**, and they are the one place running the lesser seal. Worth watching, and worth buying the 2RS version of this size if one turns up.
+
+### What it costs
 
 | Size (mm) | On the car | Unit price | Line cost | Source |
 |---|---|---|---|---|
-| **10×18×5** (S61810ZZ, stainless) | 4 | **$1.45** | **$5.80** | $14.45 / 10-pack |
+| **10×18×5** (S61810ZZ, stainless) | 4 | **$1.45** | **$5.80** | $14.45 / 10-pack paid |
 
 **The hub bearings are the expensive four on this car** at $1.45 each, against **$0.21 to $0.79** for every other size on the [FastAz list](../FastAzJato4x4/bearings_reference.md#what-the-bearings-cost). That is the real price of this route: about **$4.60 more** than the four sleeved 10×15×4 would cost, plus the permanently shaved adapters, in exchange for having nothing to fabricate.
 
@@ -75,12 +95,14 @@ Since **a bearing position does not disappear when you change what sits in it**,
 | Centre / slipper | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 |
 | **Total** | **22** | **22** | **22** (18 bearings + 4 bushings) |
 
-<p align="center"><img src="../FastAzJato4x4/src/suspension_bearing_tra5117_6x12x4.jpg" height="150">&nbsp;<img src="../FastAzJato4x4/src/suspension_bearing_tra5119_10x15x4.jpg" height="150">&nbsp;<img src="../FastAzJato4x4/src/suspension_bearing_tra5120_12x18x4.jpg" height="150"><br><em>TRA5117 6×12×4 · TRA5119 10×15×4 · TRA5120A 12×18×4. 🚧 no photo of the 10×18×5 yet</em></p>
+<p align="center"><img src="../FastAzJato4x4/src/suspension_bearing_tra5117_6x12x4.jpg" height="150">&nbsp;<img src="../FastAzJato4x4/src/suspension_bearing_tra5119_10x15x4.jpg" height="150">&nbsp;<img src="../FastAzJato4x4/src/suspension_bearing_tra5120_12x18x4.jpg" height="150">&nbsp;<img src="src/suspension_bearing_s61810zz_10x18x5.jpg" height="150"><br><em>TRA5117 6×12×4 · TRA5119 10×15×4 · TRA5120A 12×18×4 · S61810ZZ 10×18×5, this car's hub bearing</em></p>
 
 ---
 
 ## Notes
 
+- **The hub bearings are the one weak seal on the car.** They are **ZZ metal-shielded** where everything else is **2RS rubber**, and they sit in the most grit-exposed position. That is a consequence of picking a size RC cars do not use: you take the seal type the bearing supplier offers. If a **10×18×5 2RS** shows up, buy it.
+- **Store is not the brand.** The listing photo is watermarked **RAIN & DEW** but it ships from **Speed Bearing Store**. Search the store and the part number rather than a brand name, the same rule as the [Kforce tires](../FastAzJato4x4/wheel_analysis.md).
 - **The hexes are the consumable here.** Shaving them is what buys the bigger bearing, so treat a shaved 17mm hex as a wear part. See [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hexes) for which hex and why the solid screw-pin design makes the cut riskier.
 - **The bellcrank bearings are a known weak spot that has not been addressed.** The FastAz moved to Oilite bushings after the bearings chewed the steering post. The same failure is available on this car.
 - **Sizes and quantities are inherited, not independently verified.** The FastAz list was checked against the Avid kit for the Jato 4x4 BL-2S (90154-4) and the Traxxas exploded views. This car shares the platform, so the same counts apply, but **this car's own bearings have not been physically counted**.
