@@ -11,19 +11,19 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | Section | Subtotal |
 |---|---|
 | [Donor Car](#donor-car) | 🚧 not recorded |
-| [Chassis & Bracing](#chassis--bracing) | $78.98 |
+| [Chassis & Bracing](#chassis--bracing) | $91.98 |
 | [Drivetrain](#drivetrain) | $96.91 |
-| [Suspension](#suspension) | $25.73 |
+| [Suspension](#suspension) | $31.73 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
 | [Steering](#steering) | $31.98 |
-| [Wheels & Tires](#wheels--tires) | $28.18 |
+| [Wheels & Tires](#wheels--tires) | $36.54 |
 | [Body & Aero](#body--aero) | $36.00 |
 | [Electronics](#electronics) | $198.71 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$837.64** |
-| **Car only, without batteries** | **$552.29** |
+| **Total recorded** | **$865.00** |
+| **Car only, without batteries** | **$579.65** |
 
-> **What the total is missing:** the donor, the shocks, the towers, the wing, the radio, the spur and pinion, and the 17mm hexes. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
+> **What the total is missing:** the donor, the shocks, the wing, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -41,6 +41,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Powerhobby aluminum front bulkhead** | 1 | Powerhobby | **$36.99 each** | [Chassis](chassis_analysis.md) |
 | **Steel centre chassis brace, VG-style**<br><sub>Note: the Slash came with no brace, so this was added, not replaced. Sold under several brands. ⚠️ LCG only</sub> | 1 | eBay, vgracing | **$18.99 each** | [Bracing](chassis_analysis.md#chassis-bracing) |
 | **Traxxas 7477 LCG spur gear cover** | 1 | [LEDGER](../../LEDGER.md) #79 | **$3.00 each** | [Chassis](chassis_analysis.md) |
+| **Traxxas TRA6736 Rustler 4x4 front bumper + support**<br><sub>Note: the part the FastAz weighed and passed on for looks, not protection</sub> | 1 | Traxxas | **$6.00 each** | [Bumpers](bumper_analysis.md) |
+| **Traxxas TRA9044 skid plates**<br><sub>Note: front + rear set, **rear only used**, same as the FastAz. The only rear plate that covers the tongue</sub> | 1 | Traxxas | **$7.00 / set** | [Bumpers](bumper_analysis.md) |
 
 ## Drivetrain
 
@@ -49,7 +51,9 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Metal centre diff, Traxxas 6780-style** | 1 | AliExpress, TangEmpire | **$18.80 each** | [Diffs](../FastAzJato4x4/differential_analysis.md#center-diff) |
 | **Knock-off E-Revo CVD 5451R axle set**<br><sub>Note: cut and shortened into the custom axles shared with the FastAz</sub> | 1 | AliExpress, Pretty GEM | **$18.75 / set** | [Driveshafts](../FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) |
 | **M6 × 30mm 304-SS hex standoff**<br><sub>Note: the coupling that joins the two chopped CVD ends</sub> | 1 | CLOXY Hardware | **$4.36 / 5 pc** | [Driveshafts](../FastAzJato4x4/driveshaft_analysis.md) |
-| **Traxxas 6752 long output shafts** | 1 | [LEDGER](../../LEDGER.md) #87 | **$32.00 / set of 4** | [Driveshafts](../FastAzJato4x4/driveshaft_analysis.md) |
+| **Traxxas 6752 long output shafts** | 1 | [LEDGER](../../LEDGER.md) #87 | **$32.00 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
+| **Traxxas TRA6855 aluminium centre driveshaft**<br><sub>Note: 6061-T6, one piece, 215mm. ⚠️ TRA6755 is the 189mm Rustler shaft, wrong fit. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Driveshafts](driveshaft_analysis.md) |
+| **Tekno stubs, TKR1654-17 front + 5580 rear**<br><sub>Note: same stubs as the FastAz. 🚧 price not recorded for this car</sub> | 1 | 🚧 not recorded | **🚧** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA5136 30k diff oil**<br><sub>Note: front. 🚧 price is the FastAz purchase of the same bottle; whether Mike bought his own is not recorded</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Traxxas TRA5135 10k diff oil**<br><sub>Note: rear, run greased. Same caveat as above</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
@@ -61,8 +65,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **FLM26800 extended arms**<br><sub>Note: Slash / Jato 4x4 fitment, his share of a 4-pair bulk order at $25.725/pair, FLM July sale</sub> | 1 | FLM, order #4658 | **$25.73 / pair** | [Arms](../FastAzJato4x4/arm_analysis.md) |
-| **Shocks**<br><sub>Note: one of the three parts that make this a Jato rather than a Slash. 🚧 model and price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shocks](../FastAzJato4x4/shock_analysis.md) |
-| **Shock towers**<br><sub>Note: Jato towers, taller than the Slash ones. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Towers](../FastAzJato4x4/shock_tower_analysis.md) |
+| **HPI Apache C1 big bore shocks**<br><sub>Note: part **107365**, 16mm bore, 97mm, plastic body. Internally identical to the Hot Bodies D8 the FastAz runs. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shocks](shock_analysis.md) |
+| **Traxxas TRA9034 Jato 4x4 rear shock tower**<br><sub>Note: puts the shocks at the back rather than mid-chassis. Front tower 🚧 not recorded, the Jato front is TRA9033 at the same price</sub> | 1 | Traxxas | **$6.00 each** | [Towers](shock_tower_analysis.md) |
 | **Losi TLR74030 37.5wt shock oil**<br><sub>Note: front. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shock oil](README.md#shock-oil) |
 | **Associated 5480 FT 50wt shock oil**<br><sub>Note: rear. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shock oil](README.md#shock-oil) |
 
@@ -89,14 +93,14 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **RED SPIDER 17mm hex wheels + tires**<br><sub>Note: the tires run on wider Traxxas Jato rims instead, which is the wide-track trick</sub> | 1 | [LEDGER](../../LEDGER.md) #77 | **$20.10 / set of 4** | [Wheels](wheel_analysis.md) |
 | **Blue race foams**<br><sub>Note: sit between the 9070-WHT rim and the RedSpider tire. ⚠️ 🚧 two foam lines on the ledger, #76 "4pc 1/8 RC foam inserts" at $8.08 and #59 "race tire foams" at $6.39, so which one these are is unconfirmed</sub> | 1 | [LEDGER](../../LEDGER.md) #76 | **$8.08 / set of 4** | [Wheels](wheel_analysis.md) |
 | **Traxxas 9070-WHT rims**<br><sub>Note: Jato 4x4 VXL 3.0" dished, white, 17mm hex. What the RedSpider tires are mounted on. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Wheels](wheel_analysis.md) |
-| **Traxxas TRA6469 17mm hexes**<br><sub>Note: shaved down to clear the bigger hub bearing</sub> | 1 | 🚧 not recorded | **🚧** | [Hexes](hub_analysis.md#17mm-wheel-hexes) |
+| **Aftermarket 17mm splined hexes, E-Revo 1.0 fit**<br><sub>Note: shaved down to clear the bare 10×18×5. Same hex the FastAz runs</sub> | 1 | AliExpress | **$8.36 / set of 4** | [Hexes](hub_analysis.md#17mm-wheel-hexes) |
 
 ## Body & Aero
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Traxxas Jato 4x4 body, green** | 1 | [LEDGER](../../LEDGER.md) #90 | **$36.00 each** | [Body](README.md#aero--body) |
-| **Wing**<br><sub>Note: one of the three parts that make this a Jato rather than a Slash. 🚧 not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Aero](../FastAzJato4x4/aero_analysis.md) |
+| **Traxxas Jato body, red and blue**<br><sub>Note: a green one was ordered and **Jenny's RC shipped this instead**. Kept, so the $36.00 receipt is this body. Lists around $43. 🚧 SKU not confirmed</sub> | 1 | Jenny's RC, [LEDGER](../../LEDGER.md) #90 | **$36.00 each** | [Aero](aero_analysis.md) |
+| **Traxxas TRA9517 wing**<br><sub>Note: Jato 4x4 / Sledge. One of the three parts that make this a Jato rather than a Slash. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Aero](aero_analysis.md) |
 
 ## Electronics
 
@@ -126,7 +130,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 |---|---|
 | **The running Slash 4x4 donor** | The single biggest line. Without it the total is parts-only |
 | **Shocks, towers, wing** | The three parts that turn a Slash into a Jato, so they are the conversion cost |
-| **Radio** | Not documented anywhere for this car, not just unpriced |
+| **Radio** | FlySky NB4 gen 1 with the FGr4S V2, same as the FastAz, but no price recorded |
 | **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
 | **Servo** | Two PTK servos on the ledger, neither confirmed to this car |
 | **Bare Jato rims, TRA6469 hexes, shock oils** | Small money, but they round the list out |

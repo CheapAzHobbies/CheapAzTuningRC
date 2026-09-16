@@ -13,7 +13,7 @@
 - [Key Requirements](#key-requirements) — what the front has to survive
 - [Comparison](#comparison) — what runs, what is planned, what broke
 - [Weighed-in photos](#weighed-in-photos) — the Lighthouse measurements
-- [17mm wheel hexes](#17mm-wheel-hexes) — the shaved TRA6469
+- [17mm wheel hexes](#17mm-wheel-hexes) — the shaved aftermarket E-Revo hubs
 - [Price History](#price-history)
 - [Notes](#notes)
 
@@ -59,7 +59,9 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 
 ## 17mm wheel hexes
 
-**Running: Traxxas TRA6469 17mm splined aluminum, 5.9 g each, shaved down.** This is the other half of this car's bearing decision. Running the **bare 10×18×5** in the hub leaves no room for a full-thickness hex, so **the hexes give up the 1mm, not the carriers**.
+**Running: the aftermarket E-Revo 1.0 fit 17mm splined hubs, $8.36 for all four corners, shaved down.** Same hex the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md#17mm-wheel-hubs-hexes) runs, on the same **Tekno stubs**, so the axle end of both cars is identical.
+
+⚠️ **The FastAz doc still says the TRA6469 is the hex on this car.** That is stale; it is the aftermarket E-Revo hub here. This is the other half of this car's bearing decision. Running the **bare 10×18×5** in the hub leaves no room for a full-thickness hex, so **the hexes give up the 1mm, not the carriers**.
 
 | Requirement | Type | Why |
 |---|---|---|
@@ -67,9 +69,9 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 | **Survives being shaved** | Must | This car takes its 1mm out of the hex, so the hex has to have material to give |
 | **Cheap and replaceable** | May | A shaved part is a consumable, and the cut is permanent |
 
-<p align="center"><img src="../FastAzJato4x4/src/drivetrain_traxxas_wheel_hub_17mm_tra6469_weight.jpg" width="500"><br><em>Traxxas TRA6469 17mm splined alloy, 5.9 g each</em></p>
+<p align="center"><img src="../FastAzJato4x4/src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" width="300">&nbsp;<img src="../FastAzJato4x4/src/drivetrain_erevo_17mm_splined_wheel_hubs_dimensions.png" width="300"><br><em>The aftermarket E-Revo 1.0 fit 17mm splined hubs, $8.36 the set of four · 24mm tall × 20mm across, 6mm bore, M2 set screw</em></p>
 
-> ⚠️ **The TRA6469 is a solid screw-pin hex, not pin-through**, so shaving it thin is the riskier of the two designs. The FastAz notes a pin-through hex tolerates thinning better. Worth knowing before cutting a fresh set.
+> ⚠️ **Shaving is what buys the bigger bearing here**, and the FastAz notes a **pin-through** hex tolerates thinning better than a solid screw-pin one. Worth knowing before cutting a fresh set.
 
 ---
 
