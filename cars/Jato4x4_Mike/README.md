@@ -119,6 +119,8 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 
 ## Batteries
 
+> **Mounting, bar heights and max pack size live in [`battery_analysis.md`](battery_analysis.md).** Max best fit is **152 × 48 × 44mm**.
+
 Runs **full length 4S packs**, which is where this car and the [FastAzJato4x4](../FastAzJato4x4/battery_analysis.md) split. That car went **shorty hardcase only**, so the two no longer buy to one shared spec.
 
 **Soft case or hard case, both run here.** No case requirement on this car, unlike the FastAz, which went hardcase-only because of the sand at Meldrum.
@@ -137,7 +139,7 @@ Runs **full length 4S packs**, which is where this car and the [FastAzJato4x4](.
 
 **Sharing still works one way:** shorties fit this car as well, so anything bought to the FastAz spec can run here, while the full length packs stay on this one.
 
-Height is not a limit here. The stock battery bar tops out around **35mm**, but this car runs a **3D printed battery bar**, and **a 47mm shorty goes in regardless**, since the bar flexes a little and a shorty sits in the middle of the tray rather than out at the sides where the clearance is tight.
+Height is the one real constraint, and **44mm is the stock ceiling**, not the 35mm quoted here before. 35mm is just one setting (the 7426X bar in the upper hole, low orientation); the same bar flipped over gives **44mm**. This car runs a **3D printed battery bar**, and **a 47mm shorty goes in regardless**, since the printed bar flexes over the last 3mm and a shorty sits in the middle of the tray rather than out at the sides where the clearance is tight. Full geometry, both stock bars and the max pack size in [`battery_analysis.md`](battery_analysis.md).
 
 ---
 

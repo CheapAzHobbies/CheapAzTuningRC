@@ -281,6 +281,8 @@ When you start a **new part category**, define its field order once (add a short
 - **Wheel hexes:** Type · Part · Material · Stub fit · Wheel pattern · Retention · Weight · Price
 - **Wings:** Part · Material · Size · Fits · Weight · Price
 - **Motor cooling (heatsink/fan):** Heatsink · Fans · Suits · Footprint · Fan max RPM · Cable · Weight · Price
+- **Battery hold-down bars:** Part · Embossed · Lower hole (22mm) · Upper hole (37mm) · Thickness · Span · Weight · Price
+  - *Stock Traxxas bars are **embossed with two numbers, one per flip orientation**, and the holder post has two hole positions, so one part yields four clearances. Record the embossed pair and the resulting clearance in **each** hole rather than a single height, or the figure reads as a fixed spec when it is really one of four settings.*
 - *(add new categories here as they are created)*
 
 If you write an analysis for a category not yet listed, pick a sensible field order, apply it consistently, and append it to this registry.
