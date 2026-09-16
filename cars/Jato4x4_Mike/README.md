@@ -74,7 +74,7 @@
 | Chassis | **Stock plastic** | **The big divergence from the [FastAzJato4x4](../FastAzJato4x4/chassis_analysis.md), which went carbon fiber.** Plastic flexes rather than cracking, and it's already on the car, so there's nothing to buy |
 | Front bulkhead | **Powerhobby aluminum** | The front is where bulkheads get loaded and where the plastic one gives up. On the FastAz this came bundled with the CF chassis kit; here it's the standalone part (~$36.99 on its own, [`chassis_analysis.md`](../FastAzJato4x4/chassis_analysis.md#bulkheads-front--rear)) |
 
-> **Worth noting for anyone pricing a build:** this combination is the honest cheap route. A plastic chassis plus one alloy front bulkhead covers the part that actually fails, without the carbon kit. It's also the pairing that makes [metal arms risky](../FastAzJato4x4/arm_analysis.md) — FLM arms strip a *plastic* bulkhead, which is exactly why the alloy front matters here.
+> **The honest cheap route:** a plastic chassis plus one alloy front bulkhead covers the part that actually fails, without the carbon kit. It's also the pairing that makes [metal arms risky](../FastAzJato4x4/arm_analysis.md), FLM arms strip a *plastic* bulkhead. Full reasoning, and why this choice makes the [battery bars](battery_analysis.md) unique to this car, in [`chassis_analysis.md`](chassis_analysis.md).
 
 ---
 
@@ -136,11 +136,7 @@ Height is the one real constraint, and **44mm is the stock ceiling**, not the 35
 | **Rims** | **Traxxas Jato 4x4 VXL 3.0" dished wheels — 17 mm hex** (white). Assembled tire+wheel set: **TRA9074-WHT**; wheels-only sold separately (verify exact SKU). |
 | **Tires** | **RedSpider** tires **mounted on the Traxxas Jato 4x4 rims** to widen the track |
 
-> **Wide-track trick:** we took the RedSpider tires and mounted them on the **Traxxas Jato 4x4 rims**, which push the wheels out and **widen the track (stance) by a lot**. It worked great here, more stability and corner grip. Note this puts it **outside ROAR width limits**, fine for a bash/fun setup like Mike's.
->
-> **Wear-in:** these RedSpider tires take **~7 battery packs of running to fully wear in** before they reach maximum grip / performance — don't judge them when fresh.
->
-> The **[FastAzJato4x4](../FastAzJato4x4/README.md) runs the same RedSpider tires but on standard-width rims** (not the wide Traxxas-rim trick) to **stay ROAR legal**.
+> **Wide-track trick:** RedSpider tires mounted on the wider **Traxxas Jato 4x4 rims**, which pushes the wheels out and **widens the stance by a lot**. More stability and corner grip, at the cost of being **outside ROAR width**. The FastAz runs the same tire on standard rims to stay legal. Also note these take **~7 packs to wear in**. Full write-up in [`wheel_analysis.md`](wheel_analysis.md).
 
 ---
 
@@ -160,6 +156,8 @@ Height is the one real constraint, and **44mm is the stock ceiling**, not the 35
 
 **Motor bearing service tracking:** bearings replaced ~2026-09-06, first run on them 2026-09-12. Tracked by weekend run count (no battery tracker for this car) in [`maintenance/README.md`](../../maintenance/README.md), the goal is catching the next replacement before they blow rather than after.
 
+> Motor, gearing and the power-band finding are written up in [`motor_analysis.md`](motor_analysis.md).
+
 ---
 
 ## Tuning Notes
@@ -168,13 +166,7 @@ Height is the one real constraint, and **44mm is the stock ceiling**, not the 35
 
 Original intuition was that **higher RPM** = better air control, so chasing the smallest pinion was the obvious move. Real-world finding: **torque matters as much as RPM** — gearing for the **power-band sweet spot** (12T here, not the tiniest pinion) makes mid-air corrections feel just as responsive as the high-RPM theory promised, *and* keeps the motor cooler because it's neither lugging nor screaming.
 
-Subjective on-track:
-- **Motor runs noticeably cooler** vs the previous taller gearing
-- **Power band lands where it's useful** — more usable thrust through the whole throttle, not just at the top
-- **"WOOOOO" sound is higher than ever before** — the motor is actually getting up into its happy RPM range
-- **Car feels lighter and faster overall** — less effort everywhere, throttle response sharper
-
-Cross-reference for the FastAzJato4x4 pinion decision (currently TBD): the 12T 32P / 3200KV combo on this Jato is the empirical data point that pinion sizing is **not** purely a top-speed equation — gearing for the power-band sweet spot beats gearing for theoretical max RPM.
+The on-track observations, the service tracking and the full write-up are in [`motor_analysis.md`](motor_analysis.md). It's also the empirical data point behind the FastAzJato4x4 pinion decision: pinion sizing is **not** purely a top-speed equation.
 
 ---
 
