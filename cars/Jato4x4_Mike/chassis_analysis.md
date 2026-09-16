@@ -1,6 +1,6 @@
 # Chassis Selection — Jato4x4_Mike
 
-> **Running: the Traxxas 7422 LCG plastic chassis, a Powerhobby aluminum front bulkhead and a steel VG-style centre brace** (brace options and the recommendation are in [Chassis bracing](#chassis-bracing)). This is the biggest divergence from the [FastAzJato4x4](../FastAzJato4x4/chassis_analysis.md), which went carbon fiber, and it is the decision that everything else on this car follows from. Plastic **flexes rather than cracking**, it was already here so there is nothing to buy, and **the only two bought parts are the two that actually break**. **The honest cheap route.**
+> **Running: the Traxxas 7422 LCG plastic chassis, a Powerhobby aluminum front bulkhead and a steel VG-style centre brace** (brace options and the recommendation are in [Chassis bracing](#chassis-bracing)). This is the biggest divergence from the [FastAzJato4x4](../FastAzJato4x4/chassis_analysis.md), which went carbon fiber, and it is the decision that everything else on this car follows from. Plastic **flexes rather than cracking**, and the spend stays tiny: **$75.98 for the whole chassis side**, with the two bought upgrades going on the two parts that actually break. **The honest cheap route.**
 >
 > **The chassis itself came off a running Slash 4x4.** Slash 4x4 and Jato 4x4 are the **same platform**, so the tub, bulkheads and brace all carry over. Only the **towers, shocks and wing** differ between the two.
 >
