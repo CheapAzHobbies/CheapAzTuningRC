@@ -125,7 +125,7 @@ A slipper clutch replaces the center diff entirely. Vetoed here because it doesn
 
 The spider pins are **stepped down** partway along their length, and that step is exactly where they shear. My guess is the step is there to flex slightly and fake an LSD-style progressive response, but for a part you have to repair in the field it is a bad trade.
 
-**The fix: a solid 2.8mm × 7mm pin, full length, no step-down.** 7mm is the right length for these pins. The stock stepped pin measures **6.85mm**, which is ever so slightly too short on top of being weaker. A plain solid pin is stronger, cheaper, and easier to source than the original.
+**The fix came from [Mike's car](../Jato4x4_Mike/differential_analysis.md), which broke one first: a solid 2.8mm × 7mm pin, full length, no step-down.** 7mm is the right length for these pins. The stock stepped pin measures **6.85mm**, which is ever so slightly too short on top of being weaker. A plain solid pin is stronger, cheaper, and easier to source than the original.
 
 <p align="center"><img src="src/drivetrain_aliexpress_center_diff_pin_broken_vs_good.jpg" width="500">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_pin_step_down.jpg" width="500"><br><em>One sheared pin next to a good one · the step-down that causes it, clearly visible on the upper pin</em></p>
 

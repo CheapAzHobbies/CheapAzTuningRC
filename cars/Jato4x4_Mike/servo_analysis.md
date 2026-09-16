@@ -1,13 +1,25 @@
 # Servo Selection — Jato4x4_Mike
 
-> ⚠️ **Which servo is on this car is not confirmed.** Two PTK servos appear on Mike's ledger and either could be the one: a **PTK 9110 MG-D 100KG brushless at $42.84** ([LEDGER](../../LEDGER.md) #75) or a **"PTK big servo" at $27.00** (#70).
+> **Running: a PTK servo, about $19.65** as part of a bulk 8-pack. ⚠️ **Model not pinned down: recalled as the PTK 9750**, while the [FastAz](../FastAzJato4x4/servo_analysis.md) documents a **PTK 9752TG-D** at the same bulk rate. 🚧 confirm off the servo case. It replaced a **JX CLS6322HV (EcoBoost branding)** that **started losing its centre**.
 >
-> **Full comparison:** [FastAzJato4x4 servo analysis](../FastAzJato4x4/servo_analysis.md).
+> **Full comparison and the cross-brand table:** [FastAzJato4x4 servo analysis](../FastAzJato4x4/servo_analysis.md#servo-comparison).
 
 | Item | Spec |
 |---|---|
-| **Servo** | 🚧 **unconfirmed**, one of the two PTK units above |
+| **Servo** | **PTK**, 🚧 **9750 or 9752TG-D**, digital coreless metal gear, low profile |
+| **Horn** | **GPM servo horn** |
+| **Servo tie rod** | **Spring steel**, same as the FastAz |
+| **Price** | **~$19.65**, bulk 8-pack rate |
+| **Replaced** | **JX CLS6322HV**, EcoBoost branding, retired for centring drift |
 | **Bell crank** | GPM aluminum, see [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
-| **Spline** | 🚧 not recorded. 25T covers most brands including PTK, but it has not been checked |
+| **Servo saver** | None. The alloy bell crank effectively welds the OEM saver into a fixed coupling anyway |
 
-**This is the one gap worth closing by looking at the car**, since it is a $16 difference and a materially different servo.
+## Why it was swapped
+
+**The JX did not break, it drifted.** Its failure mode is **electrical, not mechanical**: the pot and centring circuit wander, so the servo **quivers at centre under no load** and cannot settle at neutral. On this car it reached the point of **having a hard time centring**, which is what triggered the switch.
+
+**The gears never stripped.** That is the awkward part of this failure: a stripped gear lets you limp home, while a drifting centre leaves the car undrivable with everything apparently intact.
+
+> **This car is where that failure was observed.** The JX centring write-up in the [FastAz servo doc](../FastAzJato4x4/servo_analysis.md#notes) is describing what happened here, not on that car.
+
+🚧 **Purchase date is not recorded**, and the ledger's PTK entries (a 9110 MG-D at $42.84 and a "big servo" at $27.00) are **different servos**, not this one.

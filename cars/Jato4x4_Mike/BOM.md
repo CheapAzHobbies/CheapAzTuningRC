@@ -12,16 +12,16 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|
 | [Donor Car](#donor-car) | 🚧 not recorded |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
-| [Drivetrain](#drivetrain) | $96.91 |
+| [Drivetrain](#drivetrain) | $100.91 |
 | [Suspension](#suspension) | $31.73 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
-| [Steering](#steering) | $31.98 |
+| [Steering](#steering) | $51.63 |
 | [Wheels & Tires](#wheels--tires) | $36.54 |
 | [Body & Aero](#body--aero) | $36.00 |
 | [Electronics](#electronics) | $198.71 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$865.00** |
-| **Car only, without batteries** | **$579.65** |
+| **Total recorded** | **$888.65** |
+| **Car only, without batteries** | **$603.30** |
 
 > **What the total is missing:** the donor, the shocks, the wing, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
@@ -57,6 +57,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Traxxas TRA5136 30k diff oil**<br><sub>Note: front. 🚧 price is the FastAz purchase of the same bottle; whether Mike bought his own is not recorded</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Traxxas TRA5135 10k diff oil**<br><sub>Note: rear, run greased. Same caveat as above</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
+| **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>Note: glass-filled nylon, 20.0g each, unchanged from stock</sub> | 1 | Traxxas | **$4.00 / set** | [Housings](gearbox_housing_analysis.md) |
 | **54T spur gear** | 1 | 🚧 not recorded | **🚧** | [Drivetrain](README.md#drivetrain) |
 | **11T 32P pinion** | 1 | 🚧 not recorded | **🚧** | [Motor](motor_analysis.md) |
 
@@ -84,7 +85,9 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|---|---|---|
 | **GPM aluminum bell crank** | 1 | [LEDGER](../../LEDGER.md) #72 | **$20.00 each** | [Steering](README.md#steering) |
 | **ACER M4 × 60 titanium turnbuckles**<br><sub>Note: $5.99 each, were the planned FastAzJato steering links</sub> | 1 | ACER Racing, order #581093 | **$11.98 / pair** | [Steering](README.md#steering) |
-| **Servo**<br><sub>Note: ⚠️ two PTK servos appear on Mike's ledger, a 9110 MG-D at $42.84 and a "big servo" at $27.00. Which one is on this car is not recorded</sub> | 1 | 🚧 unconfirmed | **🚧** | [Steering](README.md#steering) |
+| **PTK servo**<br><sub>Note: bulk 8-pack rate. 🚧 model recalled as 9750, the FastAz documents a 9752TG-D at the same rate. Replaced a JX CLS6322HV that lost its centre. The ledger's other PTK entries are different servos</sub> | 1 | Bulk 8-pack | **$19.65 each** | [Servo](servo_analysis.md) |
+| **GPM servo horn** | 1 | 🚧 not recorded | **🚧** | [Servo](servo_analysis.md) |
+| **Spring steel servo tie rod**<br><sub>Note: same as the FastAz</sub> | 1 | 🚧 not recorded | **🚧** | [Servo](servo_analysis.md) |
 
 ## Wheels & Tires
 
@@ -132,7 +135,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | **Shocks, towers, wing** | The three parts that turn a Slash into a Jato, so they are the conversion cost |
 | **Radio** | FlySky NB4 gen 1 with the FGr4S V2, same as the FastAz, but no price recorded |
 | **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
-| **Servo** | Two PTK servos on the ledger, neither confirmed to this car |
+| ~~Servo~~ | **Resolved:** a PTK at $19.65. 🚧 only the model number is still open |
 | **Bare Jato rims, shock oils, Tekno stubs** | Small money, but they round the list out. The 17mm hexes are no longer a gap: they are the aftermarket E-Revo hubs at $8.36 |
 
 ---

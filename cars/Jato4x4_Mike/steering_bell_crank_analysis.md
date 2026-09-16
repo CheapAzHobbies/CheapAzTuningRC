@@ -9,5 +9,7 @@
 | **Bell crank** | **GPM aluminum** |
 | **Price** | **$20.00** ([LEDGER](../../LEDGER.md) #72) |
 | **Pivots** | 🚧 still on the stock **5×8×2.5 TRA5114 bearings**, see [`bearings_reference.md`](bearings_reference.md) |
+| **Servo horn** | **GPM** |
+| **Servo tie rod** | **Spring steel**, same as the FastAz |
 
 ⚠️ **The bellcrank bearings are a known failure point.** A bellcrank only rocks through a small arc, so the balls dig into one spot and chew the post. The FastAz moved to **TRA3775 Oilite bushings** for that reason; this car has not.
