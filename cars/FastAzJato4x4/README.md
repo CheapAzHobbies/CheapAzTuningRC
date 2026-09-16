@@ -3,7 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="#at-a-glance"><img src="https://img.shields.io/badge/%E2%96%B8%20THE%20RIDE-000000?style=flat-square&labelColor=c0c0c0&color=1a1a1a"></a>
+  <b>VOL. 1 &middot; ISSUE 01 &middot; PROJECT CAR FEATURE &middot; MELDRUM BAR, OR</b><br>
+  <b>&#9733; EXCLUSIVE:</b> $881 BUILD TAKES ON 1/5 SCALE &nbsp;&#9642;&nbsp;
+  <b>INSIDE:</b> EVERY RECEIPT &nbsp;&#9642;&nbsp;
+  <b>PLUS:</b> THE $3.87 TIRE THAT ACTUALLY WORKS
+</p>
+
+<p align="center">
+  <a href="#spec-sheet"><img src="https://img.shields.io/badge/%E2%96%B8%20THE%20RIDE-000000?style=flat-square&labelColor=c0c0c0&color=1a1a1a"></a>
   <a href="BOM.md"><img src="https://img.shields.io/badge/%E2%96%B8%20PARTS%20%2B%20PRICES-000000?style=flat-square&labelColor=c0c0c0&color=1a1a1a"></a>
   <a href="BOM_barebones.md"><img src="https://img.shields.io/badge/%E2%96%B8%20BUILD%20IT%20CHEAP-000000?style=flat-square&labelColor=c0c0c0&color=1a1a1a"></a>
   <a href="#building-it-cheaper"><img src="https://img.shields.io/badge/%E2%96%B8%20THE%20FUN%20TAX-000000?style=flat-square&labelColor=c0c0c0&color=1a1a1a"></a>
@@ -44,8 +51,22 @@
 
 <p align="center"><img src="src/web_divider_chrome.png" width="100%"></p>
 
+<h2 align="center">BUDGET KING</h2>
 
-## AT A GLANCE
+<p align="center">
+  <i>We gutted a Traxxas Jato 4x4 down to the gearboxes, spent $881 putting it back together<br>
+  as a 4S electric buggy, and wrapped the whole thing in a 2007 nitro shell and chrome deep dish.<br>
+  It races 1/5 scale trucks on a blown-out public dirt track. Here is every part, every price,<br>
+  and every bad decision we would happily make again.</i>
+</p>
+
+<p align="center">
+  <b>WORDS, PHOTOS &amp; RECEIPTS:</b> ANDREW &nbsp;&#9642;&nbsp; <b>BUILT:</b> 2026 &nbsp;&#9642;&nbsp; <b>HOME TRACK:</b> MELDRUM BAR PARK, GLADSTONE OR
+</p>
+
+---
+
+## SPEC SHEET
 
 | Area | Setup |
 |---|---|
@@ -77,7 +98,7 @@
 - 🧾 [PARTS LIST](#parts-list)
 - 💸 [BUILDING IT CHEAPER](#building-it-cheaper)
 - 🖨️ [3D MODELS](#3d-models)
-- ✅ [TODO / NOTES](#todo--notes)
+- ✅ [NEXT ISSUE](#next-issue)
 
 ---
 
@@ -89,6 +110,10 @@
 
 Component weights measured so far, all of them in the analysis docs: body shell **160 g** ([`aero_analysis.md`](aero_analysis.md)), CF chassis kit **357.2 g** ([`chassis_analysis.md`](chassis_analysis.md)), MAX10 G2 ESC, 3665SD motor, Zeee 5200 pack **518 g** ([`battery_analysis.md`](battery_analysis.md)). The 2.868 kg weigh-in was on that Zeee; the Gens Ace Redline 6000 now on the car is **410 g**, so it runs about **2.76 kg** all up. The battery alone is about **18% of the all-up weight**, which is why the [pack choice](battery_analysis.md) is judged on grams before capacity.
 
+<p align="center">
+  <b><i>&ldquo;THE BATTERY ALONE IS 18% OF THE CAR.<br>THAT IS WHY PACKS GET JUDGED ON GRAMS BEFORE CAPACITY.&rdquo;</i></b>
+</p>
+
 ---
 
 ## TRACK & SETUP PHILOSOPHY
@@ -98,6 +123,10 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 - **Official races are banned there as of Aug 2026.** Organised racing at the park got shut down, so what's left is informal running. The setup philosophy below doesn't change, the track and the way people drive it are the same, there's just no formal event to build for.
 - **When it does run, it's open class and no rules.** Everything is fair game in the same heat: buggies, truggies, and 1/5 and monster class like X-Maxx, XRT and the Teknos. Nobody is trying to wreck anybody, but **racing is rubbing**, and with that spread of sizes on one track **landing on someone, or getting landed on, is normal**. A 1/5 or an X-Maxx coming down on this truck is a different kind of load than a crash into dirt, and it's most of why durability gets weighed at all here.
 - **Being straight about it though: this build sacrifices some durability for performance.** The carbon chassis is stiffer and lighter than flexy plastic but less forgiving, the extended arms put more leverage through every part they touch, and the wider hubs add scrub. Those are performance calls, and each one costs a little toughness.
+<p align="center">
+  <b><i>&ldquo;RACING IS RUBBING &mdash; AND WITH X-MAXX AND 1/5 SCALE IN THE SAME HEAT,<br>GETTING LANDED ON IS NORMAL.&rdquo;</i></b>
+</p>
+
 - **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 50wt rear / 37.5wt front (down from an earlier 45wt/60wt), the rear still the firmer of the two to control squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
 - **Wide track for stability.** FLM26800 extended arms stretch the track width about 10mm per side, which calms the car over rough ground and adds droop.
 - **Diffs tuned for a loose surface.** 30k front to calm torque steer, 10k greased rear for drive off the corner, 100k center (Traxxas TRA5130) to hold drive stability.
@@ -147,6 +176,14 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | 17mm hubs | **AliExpress aftermarket 17mm splined hubs (E-Revo 1.0 fit)**, black, all four corners | $8.36, 2-3mm wider per corner, [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hubs-hexes) |
 | Gearbox housings | Traxxas TRA6881 front / TRA6880 rear | $4 each, [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | Bearings | Hub bearings fitted; full sealed kit still open | [`bearings_reference.md`](bearings_reference.md) |
+
+> ### &#128296; TECH TIP &middot; THE 18 &rarr; 15 SLEEVE
+>
+> The hub pocket is 18 mm. The cheap, everywhere-available bearing is **10&times;15&times;4**. Most people
+> solve that by shaving the hex adapters. **We print a sleeve instead:** 18 mm OD, 15 mm ID, 4 mm wide.
+> **Glue the outer face of the ring only, never the bore**, press it into the hub, drop the bearing in.
+> It costs pennies, it is fully reversible, and nothing on the car gets cut. Full method in
+> [`bearings_reference.md`](bearings_reference.md#fitting-the-sleeve).
 
 ---
 
@@ -200,6 +237,13 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Rims | **IMEX IMX7893 1/8 Rally chrome** (17mm hex) | Bought for the look. A bit narrower than standard, so standard 1/8 tires go on with some finesse. The glued rally slicks came off: fun to drift, not for racing, [`wheel_analysis.md`](wheel_analysis.md#rims-bare-wheels) |
 | Tires | **Kforce Mitsubishi-tread 26013** (110 × 43mm, natural rubber, 35°), set of 4 | $3.87 shipped. Softer, but very durable once worn in, [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
 | Foam inserts | Blue closed-cell race foams, reusable | Keeps it planted, less rim slap, [`wheel_analysis.md`](wheel_analysis.md#foam-inserts) |
+
+> ### &#128296; TECH TIP &middot; GLUE THE BEAD, NOT THE GEL
+>
+> Mounting 1/8 tires, **use thin liquid super glue, not the gel**. The thin stuff wicks right into the
+> bead and pulls itself around the rim by capillary action. Gel sits on top and bridges gaps instead of
+> filling them, so it lets go on the first hard corner. A 10-pack of HFT high-strength (SKU 68345) is
+> **$4.99** and will mount more tires than you will own.
 
 ---
 
@@ -282,6 +326,22 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 **The honest summary:** strip every one of these and the car is [about $146 cheaper](#building-it-cheaper) and drives nearly the same. That's what the [bare-bones BOM](BOM_barebones.md) is for. This one is the version I actually wanted to own.
 
+## THE VERDICT
+
+| Category | Score | The call |
+|---|---|---|
+| **Value** | **9/10** | $881 for a car that runs with 1/5 scale trucks. The [bare-bones build](BOM_barebones.md) does it for **~$665** |
+| **Performance** | **8/10** | 4S, 2400KV, wide track, soft big bores. Geared for punch on a rough track, not for a top-speed number |
+| **Durability** | **7/10** | Gave some away for performance and got lucky. Metal arms, alloy hubs and titanium rods carry the parts that were not chosen to last |
+| **Looks** | **10/10** | Chrome deep dish, OG nitro shell, stretched stance. Objectively correct |
+| **Sense** | **4/10** | Nobody needs a $92 battery, $40 rims or a $4 receiver box. See [the fun tax](#the-fun-tax-and-the-bad-decisions-id-make-again) |
+
+**WHAT WE'D DO DIFFERENTLY:** run the **$22.97 stock GTRs** instead of the D8s, take the **plastic rear tower** over carbon, and buy the **$55 Fido pack**. That is **~$146** back for a car that drives about the same. **What stays either way:** the carbon chassis, the FLM arms, the alloy front hubs and the titanium rods.
+
+**WOULD WE BUILD IT AGAIN?** Yes, and with the same bad decisions. If it was baller, we needed it.
+
+---
+
 ## 3D MODELS
 
 > STL files live in [`3d-models/`](3d-models/), with the **editable STEP** next to each body part. Print settings, materials and the screws that go with them are in [`aero_analysis.md`](aero_analysis.md#3d-printed-body-mounts).
@@ -296,9 +356,11 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 | `JatoE_Wing_Mount.stl` | Wing mount, printed. Not fitted, since the Jato 3.3 shell carries its own integrated wing | Spare / for a buggy body |
 | Custom front-end shroud / wing mount + Rustler bumper integration | Cosmetic shroud that integrates the Rustler 4x4 front bumper (better crash protection, ugly stock) into a clean wing mount. Discussed in [`bumper_analysis.md`](bumper_analysis.md#notes) | Idea / TODO |
 
-## TODO / NOTES
+## NEXT ISSUE
 
 <p align="center"><img src="src/web_under_construction.gif" width="380"></p>
+
+**STILL ON THE BENCH:** measure the bore on an alloy big-bore shock (nobody lists it), record the TQ/TQi rebuild bearing sizes, catch the Jenny's RC GTR restock, and confirm which trim the $325 new base Jato actually is. Full list in [`CHECKLIST.md`](CHECKLIST.md).
 
 - [x] Rear Tekno 5580 stubs + aftermarket 17mm hubs
 - [x] Bearings costed out: **$7.21** for the car's 18, bought by size in 10-packs, [`bearings_reference.md`](bearings_reference.md#what-the-bearings-cost)
