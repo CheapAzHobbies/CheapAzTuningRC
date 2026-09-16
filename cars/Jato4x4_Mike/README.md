@@ -106,13 +106,9 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 
 ## Batteries
 
-> **Mounting, bar heights and max pack size live in [`battery_analysis.md`](battery_analysis.md).** Max best fit is **152 × 48 × 44mm**.
+> **All of it lives in [`battery_analysis.md`](battery_analysis.md):** the retainers and bar heights, the max pack size, the four packs and the IR checks.
 
-Runs **full length 4S packs**, which is where this car and the [FastAzJato4x4](../FastAzJato4x4/battery_analysis.md) split. That car went **shorty hardcase only**, so the two no longer buy to one shared spec. **Soft case or hard case both run here.** Sharing works one way: shorties fit this car too, while the full length packs stay on this one.
-
-**Four packs run here and all four fit well:** the **Gens Ace Redline 6300** ($107.38, on loan from the FastAz) and the three CNHL packs bought 2026-08-26, **Racing 5200** ($52.51), **Lightning 5500** ($54.46) and **Ultra-Thin 6000** ($71.00). **The HV ones are the better packs.**
-
-Height is the one real constraint and **44mm is the stock ceiling**. A **47mm shorty still goes in**, because the printed bar flexes over the last 3mm and a shorty sits mid-tray where there is most room. Pack specs, the IR checks and the bar geometry are in [`battery_analysis.md`](battery_analysis.md#the-packs).
+**Max pack 152 × 48 × 44mm**, full length 4S, soft or hard case. **Four packs run here**, the Gens Ace Redline 6300 and three CNHL, and **the HV ones are the better packs**. Prices are in [`BOM.md`](BOM.md#batteries).
 
 ---
 
