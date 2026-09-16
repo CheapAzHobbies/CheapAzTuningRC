@@ -23,13 +23,13 @@
 
 ## Car Overview
 
-**Base Car:** Traxxas Jato 4x4 — Mike's personal build.
+**Base Car:** started as a **running Traxxas Slash 4x4**, built up to Jato 4x4 spec.
 
 > **This is the car the [FastAzJato4x4](../FastAzJato4x4/README.md) was born out of.** Mike's Jato came first and the R&D happened here: the diff and shock oils, the pistons and the custom axle build were all worked out on this car, together, and the FastAz inherited the answers. So where the two docs agree, **this is the origin and that one is the copy** — worth knowing when the settings look identical.
 >
 > The two have since diverged. This car keeps the **plastic chassis**, runs **different hubs**, and solves the hub-bearing problem the opposite way (bigger bearing, shaved hexes, rather than a sleeve). Those differences are the interesting part and are called out section by section below.
 >
-> Originally noted as "Slash" — it's actually a Jato 4x4.
+> **On the Slash vs Jato question: it started as a running Slash 4x4**, and that is not a correction to make, it is the build. **The two are the same platform**, so the donor carries straight over. What makes it a Jato 4x4 is the **towers, shocks and wing**, which are the parts that actually differ between them. Anyone pricing this build should start from a running Slash 4x4 and budget those three.
 
 ---
 
@@ -73,6 +73,7 @@
 |---|---|---|
 | Chassis | **Stock plastic** | **The big divergence from the [FastAzJato4x4](../FastAzJato4x4/chassis_analysis.md), which went carbon fiber.** Plastic flexes rather than cracking, and it's already on the car, so there's nothing to buy |
 | Front bulkhead | **Powerhobby aluminum** | The front is where bulkheads get loaded and where the plastic one gives up. On the FastAz this came bundled with the CF chassis kit; here it's the standalone part (~$36.99 on its own, [`chassis_analysis.md`](../FastAzJato4x4/chassis_analysis.md#bulkheads-front--rear)) |
+| Upper brace | **Steel, VG Racing style** | **The OEM upper brace breaks often**, so it's replaced with a steel one. See [`chassis_analysis.md`](chassis_analysis.md) |
 
 > **The honest cheap route:** a plastic chassis plus one alloy front bulkhead covers the part that actually fails, without the carbon kit. It's also the pairing that makes [metal arms risky](../FastAzJato4x4/arm_analysis.md), FLM arms strip a *plastic* bulkhead. Full reasoning, and why this choice makes the [battery bars](battery_analysis.md) unique to this car, in [`chassis_analysis.md`](chassis_analysis.md).
 
@@ -107,25 +108,11 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 
 > **Mounting, bar heights and max pack size live in [`battery_analysis.md`](battery_analysis.md).** Max best fit is **152 × 48 × 44mm**.
 
-Runs **full length 4S packs**, which is where this car and the [FastAzJato4x4](../FastAzJato4x4/battery_analysis.md) split. That car went **shorty hardcase only**, so the two no longer buy to one shared spec.
+Runs **full length 4S packs**, which is where this car and the [FastAzJato4x4](../FastAzJato4x4/battery_analysis.md) split. That car went **shorty hardcase only**, so the two no longer buy to one shared spec. **Soft case or hard case both run here.** Sharing works one way: shorties fit this car too, while the full length packs stay on this one.
 
-**Soft case or hard case, both run here.** No case requirement on this car, unlike the FastAz, which went hardcase-only because of the sand at Meldrum.
+**Four packs run here and all four fit well:** the **Gens Ace Redline 6300** ($107.38, on loan from the FastAz) and the three CNHL packs bought 2026-08-26, **Racing 5200** ($52.51), **Lightning 5500** ($54.46) and **Ultra-Thin 6000** ($71.00). **The HV ones are the better packs.**
 
-**The three CNHL packs bought 2026-08-26 run on this car:** Racing 5200 (soft), Lightning 5500 (soft), Ultra-Thin 6000 (hardcase).
-
-**IR check on the Racing 5200** (HOTA T6, mid-charge): 2.3 / 2.2 / 2.3 / 2.1 mΩ per cell, ~2.23mΩ avg. Using the [E-Revo IR-to-True-C method](../ERevo_1.0/battery_analysis.md#c-ratings-and-internal-resistance) (`max A = sag ÷ IR`, `true C = max A ÷ Ah`), that's roughly **26-43C true** (0.3V/0.5V sag) against the **90C printed on the label**. Charger reads LiHV-4S(4.35V), so this pack is **HV**. Informational only, the CNHL packs aren't in the shared cycle tracker.
-
-<p align="center"><img src="src/electronics_cnhl_racing_5200_90c.jpg" width="500"><br><em>CNHL Racing 90C 5200mAh, per-cell IR mid-charge</em></p>
-
-**IR check on the Ultra-Thin 6000** (HOTA T6, charge done 100%): 4.5 / 4.3 / 4.6 mΩ per cell (4th cell didn't register), ~4.47mΩ avg. Same method: roughly **11-19C true** against the **120C printed on the label**. Also reads LiHV-4S(4.35V) on the charger, so both CNHL packs photographed so far are **HV**, not standard voltage. The third pack in this order, the Lightning 5500, hasn't been photographed yet, so its voltage class is unconfirmed. Informational only.
-
-<p align="center"><img src="src/electronics_cnhl_ultrathin_6000_120c.jpg" width="500"><br><em>CNHL Ultra-Thin 120C 6000mAh, 15.2V, per-cell IR at 100% charge</em></p>
-
-**Gens Ace Redline 2.0 4S HV 6300mAh 140C** also runs here — full-length (139 × 47 × 37mm, 452g), not a shorty, so it never fit the FastAzJato4x4's shorty-only spec but works well on this car. Bought 2025-10-22 for $107.38 (see [`FastAzJato4x4/battery_analysis.md`](../FastAzJato4x4/battery_analysis.md) for full specs and price history). Currently on loan/testing here; may just become Mike's outright since it works well and this build doesn't run long 4S packs.
-
-**Sharing still works one way:** shorties fit this car as well, so anything bought to the FastAz spec can run here, while the full length packs stay on this one.
-
-Height is the one real constraint, and **44mm is the stock ceiling**, not the 35mm quoted here before. 35mm is just one setting (the 7426X bar in the upper hole, low orientation); the same bar flipped over gives **44mm**. This car runs a **3D printed battery bar**, and **a 47mm shorty goes in regardless**, since the printed bar flexes over the last 3mm and a shorty sits in the middle of the tray rather than out at the sides where the clearance is tight. Full geometry, both stock bars and the max pack size in [`battery_analysis.md`](battery_analysis.md).
+Height is the one real constraint and **44mm is the stock ceiling**. A **47mm shorty still goes in**, because the printed bar flexes over the last 3mm and a shorty sits mid-tray where there is most room. Pack specs, the IR checks and the bar geometry are in [`battery_analysis.md`](battery_analysis.md#the-packs).
 
 ---
 
