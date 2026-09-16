@@ -50,13 +50,27 @@
 | **Traxxas TRA9046 rear wing mount** | **$7.00 / set** | What nearly every non-Jato donor needs to carry a wing |
 | ⭐ **Rear tower, option A:** keep the donor's **Slash rear tower** and make a **small aluminum plate** on top to interface the wing | **$0**, easy | **It's where the shock mounts that matters.** The Slash tower puts the rear shocks **forward of the rear bumper line**, closer to the middle of the car, which **moves weight forward** into the nose bias this build wants, and takes them out of the crash path. The plate is a simple flat piece, the [Meelobee technique](aero_analysis.md#wing-mount-comparison). **Free, and the better handling answer** |
 | **Rear tower, option B:** buy the **Traxxas 9034 rear tower** (Jato 4x4) | **$6.00 / tower** | Taller and bolt-on with no plate to make, but the **9034 hangs the shocks further back**, adding tail weight and cutting the nose bias. Simplicity at the cost of handling |
-| **Shocks, Traxxas GTR XX-Long 7462-GRAY** | **$22.97 / set of 4** | ⚠️ **The one people forget.** A Jato donor comes with the GTR XX-Longs, or Pro-Lines on some trims. Other 4x4s don't, so budget a used set |
+| **Shocks, Traxxas GTR XX-Long 7462-GRAY** | **$22.97 / set of 4** | ⚠️ **The one people forget.** A Jato donor comes with the GTR XX-Longs, or Pro-Lines on some trims. Other 4x4s don't, so budget a used set. **$22.97 is the Jenny's RC take-off price on record** (set of 4, springs and oil in them); they're pulled from new models so stock comes and goes, **budget up to ~$30**. Buying new instead is about **$48 for four without springs**, which is why the take-offs are the play |
 | **Traxxas TRA9050 rear carriers** | **$6.00 / pair** | Only on trims without EHD rears. Tammies or any local shop, hinge pins and screws included |
 | **MAX10 G2 + 3665SD combo** | **$127.00 / combo** | Only if the donor isn't already 4S. Older and brushed trims aren't |
 | **Bearings** | — | A Slash 4x4 is 1/10 class, so its bearings are **smaller than the Jato's 1/8-class set** ([`bearings_reference.md`](bearings_reference.md)). Check what transfers instead of assuming |
 | **Body** | — | You get that car's body, not a Jato one, so the free body and wing above don't apply |
 
 **Worked example, the cheap end: a $100 HCG Slash**, brushed, needing rear carriers. Keep its rear tower, make the plate, add the front tower, wing mount, a used GTR set and the combo: **~$729**. That's this car's speed out of something most people scroll straight past.
+
+### Buy the cheapest Jato you can find
+
+**A Jato 4x4 is still the ideal donor, and you want the cheapest one on the listing page.** Here's the thing most buyers get backwards: **the condition of the arms, hubs and OEM axles doesn't matter at all**, because every one of them is replaced on this list. A car with a smashed front end, bent axles and chewed hub carriers is **a bargain, not a risk** — you were binning those parts anyway.
+
+**And they're sellable.** The take-offs in the [table below](#what-comes-off-the-donor-and-doesnt-go-back-on) are worth real money on eBay, so a chunk of the $200 comes back. Broken arms won't sell, but good OEM axles, hubs, bulkheads and the servo will.
+
+**What actually matters when you're looking:**
+
+- **The electronics work** — ESC, motor and radio are the most expensive things the donor gives you
+- **The diffs and gearbox are intact** — those carry straight over
+- **The bearings aren't shot** — you're keeping nearly all of them
+
+Everything else is negotiable, so don't pay for cosmetics or a clean front end.
 
 **Or buy new.** A **base model Jato 4x4 is about $325 new**, $125 over a good used one, for an undamaged car with a warranty and no previous owner's crashes in it. ⚠️ **Check the trim before counting on that number:** if it's the **BL-2S (90154-4)** that's a **2S** brushless system, so add the [MAX10 G2 + 3665SD combo](esc_analysis.md) at **$127** to get the 4S power this build assumes, landing near **$912**. If the $325 car is already 4S-capable, it's **~$785** and nothing else on this list changes.
 
