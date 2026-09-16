@@ -14,12 +14,13 @@
 
 <p align="center">
   <b>A custom 4S electric buggy built on a Traxxas Jato 4x4.</b><br>
-  Carbon-fiber LCG chassis, FLM extended arms, Hot Bodies D8 big bores and a Hobbywing MAX10 G2 + 3665SD 2400KV, all under an OG Jato 3.3 shell. Built to soak up the ruts at Meldrum Bar.
+  Carbon-fiber LCG chassis, FLM extended arms, Hot Bodies D8 big bores and a Hobbywing MAX10 G2 + 3665SD 2400KV, all under an OG Jato 3.3 shell. Built to soak up the ruts at Meldrum Bar.<br>
+  <b>We call the stance the <i>stretched GSX-R ricer hot boy look</i></b> 😎 — extended arms out back, chrome on all four corners.
 </p>
 
 <p align="center">
   <img src="src/overview_fastazjato_imex_slicks_side.jpg" width="270">&nbsp;<img src="src/overview_fastazjato_front_detail.jpg" width="270">&nbsp;<img src="src/overview_fastazjato_rear_drivetrain.jpg" width="270"><br>
-  <em>The stretched look on the IMEX rally slicks · front bumper and steering · rear shocks and CVDs</em>
+  <em>The stretched GSX-R ricer hot boy look, on the IMEX rally slicks · front bumper and steering · rear shocks and CVDs</em>
 </p>
 
 ---
@@ -82,7 +83,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 - **Geared for punch, not top speed.** 16T pinion (FDR 3.38) on the 3665SD 2400KV keeps it punchy and cooler on a technical, rough track where you rarely hold full throttle.
 - **Built to survive crashes.** Metal arms that bend instead of snap, alloy hubs on Tekno stubs (Integy C-hubs + GPM XO-1 blocks up front, Raptor R carriers out back), and a **minimal skid plate at the rear** so a bad landing lets me throttle out instead of digging in and cartwheeling. Up front is the **RPM 81042 wide bumper**, which sounds like the opposite but isn't: **it sits far enough forward that touching it means the car is already too nose down**, and it shouldn't ever get that vertical while racing. In normal driving nothing reaches it, and in a real frontal hit it takes the load instead of the diff.
 - **Body:** the OG Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. Its own integrated wing means no separate buggy wing or mount.
-- **Wheels:** IMEX 1/8th Rally chrome rims, bought purely because they're baller, and yes I paid extra. The chrome ricer look plus the stretched stance from the extended arms makes it look like an extended-swingarm GSX-R. It looks great and still performs well. Right now they wear the $3.87 Mitsubishi-tread 26013 tires with blue race foams. The glued rally slicks they came with (the glue had gone on the old rims) were great on track and fun to drift, but not for racing.
+- **Wheels:** IMEX 1/8th Rally chrome rims, bought purely because they're baller, and yes I paid extra. The chrome ricer look plus the stretched stance from the extended arms makes it look like an extended-swingarm GSX-R, which is why we call it **the stretched GSX-R ricer hot boy look**. It looks great and still performs well. Right now they wear the $3.87 Mitsubishi-tread 26013 tires with blue race foams. The glued rally slicks they came with (the glue had gone on the old rims) were great on track and fun to drift, but not for racing.
 
 ---
 
@@ -252,7 +253,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 **This car got expensive because I wanted it to be cool, not because it needed to be.** None of these were rational, all of them were fun, and pretending otherwise would make this a worse build log. If something was baller, I needed it.
 
-- **IMEX chrome rims ($39.98).** Bought purely because they're baller. The HSP set is the same swirl rim with tires already on for less. **The ricer chrome plus the stretched stance from the extended arms makes it look like an extended-swingarm GSX-R**, which is the entire justification, and it's enough.
+- **IMEX chrome rims ($39.98).** Bought purely because they're baller. The HSP set is the same swirl rim with tires already on for less. **The ricer chrome plus the stretched stance from the extended arms gives it the *stretched GSX-R ricer hot boy look*** — extended-swingarm energy on a buggy. That's the entire justification, and it's enough.
 - **Gens Ace Redline 6000 shorty ($92.26).** **Nobody needs a battery this expensive**, and the [Fido Fi58130 at $55](battery_analysis.md) does the same job. **But the shorty isn't pure vanity:** shorty 4S packs are **4S2P**, eight cells with two paralleled per series group, where a full-length pack is 4S1P with four. **Two cells in parallel roughly halve internal resistance**, so it's effectively two batteries in there sharing the load — less sag under power and an honest C-rating in use rather than a sticker one. Over-bought, but it does something.
 - **The RX box ($3.91).** It's a knock-off battery box holding a receiver. It costs four dollars. It's baller, so I needed it. That's the whole reasoning. 😄
 - **CF rear tower ($33.29).** Light and stiff, and it looks the part, but the plastic tower is $6 and takes the same hits.
