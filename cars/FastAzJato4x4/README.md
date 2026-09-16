@@ -1,31 +1,45 @@
-<h1 align="center">FastAzJato4x4 · the "Super Jato"</h1>
-
 <p align="center">
-  <img src="src/overview_fastazjato_dirt_tires.jpg" width="720"><br>
-  <em>IMEX chrome rims on the $3.87 Mitsubishi-tread tires with blue race foams</em>
+  <img src="src/web_banner_chrome.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="Status" src="https://img.shields.io/badge/status-built%20%26%20running-2ea44f?style=for-the-badge">
-  <img alt="Power" src="https://img.shields.io/badge/power-4S%20LiPo-d7263d?style=for-the-badge">
-  <img alt="Weight" src="https://img.shields.io/badge/weight-2.868%20kg-444?style=for-the-badge">
-  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24881-444?style=for-the-badge">
+  <a href="#at-a-glance"><img src="https://img.shields.io/badge/%E2%96%B8%20THE%20RIDE-000000?style=flat-square&labelColor=c0c0c0&color=1a1a1a"></a>
+  <a href="BOM.md"><img src="https://img.shields.io/badge/%E2%96%B8%20PARTS%20%2B%20PRICES-000000?style=flat-square&labelColor=c0c0c0&color=1a1a1a"></a>
+  <a href="BOM_barebones.md"><img src="https://img.shields.io/badge/%E2%96%B8%20BUILD%20IT%20CHEAP-000000?style=flat-square&labelColor=c0c0c0&color=1a1a1a"></a>
+  <a href="#building-it-cheaper"><img src="https://img.shields.io/badge/%E2%96%B8%20THE%20FUN%20TAX-000000?style=flat-square&labelColor=c0c0c0&color=1a1a1a"></a>
+  <a href="#deep-dives"><img src="https://img.shields.io/badge/%E2%96%B8%20TECH%20DOCS-000000?style=flat-square&labelColor=c0c0c0&color=1a1a1a"></a>
 </p>
 
 <p align="center">
-  <b>A custom 4S electric buggy built on a Traxxas Jato 4x4.</b><br>
-  Carbon-fiber LCG chassis, FLM extended arms, Hot Bodies D8 big bores and a Hobbywing MAX10 G2 + 3665SD 2400KV, all under an OG Jato 3.3 shell. Built to soak up the ruts at Meldrum Bar.<br>
-  <b>We call the stance the <i>stretched GSX-R ricer hot boy look</i></b> 😎 — extended arms out back, chrome on all four corners.
+  <b>~*~ LOW MILES, LIGHTLY CLAPPED ~*~</b><br>
+  <b>NO LOWBALLERS, I KNOW WHAT I GOT</b><br>
+  <b><i>"IF IT WAS BALLER, I NEEDED IT."</i></b>
+</p>
+
+<p align="center">
+  <img alt="4S" src="https://img.shields.io/badge/4S-LIPO-d7263d?style=for-the-badge">
+  <img alt="KV" src="https://img.shields.io/badge/2400-KV-000000?style=for-the-badge">
+  <img alt="Weight" src="https://img.shields.io/badge/2.87-KG-444444?style=for-the-badge">
+  <img alt="Swaybars" src="https://img.shields.io/badge/SWAYBARS-NONE-c0c0c0?style=for-the-badge">
+  <img alt="Cost" src="https://img.shields.io/badge/BUILT%20FOR-%24881-2ea44f?style=for-the-badge">
+</p>
+
+<p align="center">
+  <b>AN &#39;07 NITRO SHELL OVER A 4S ELECTRIC BUGGY.</b><br>
+  Carbon chassis. Chrome deep dish. $3.87 tires.<br>
+  Built to get landed on by 1/5 scale cars and keep going.<br>
+  <b>THE STANCE:</b> <i>the stretched GSX-R ricer hot boy look</i> &#128526;
 </p>
 
 <p align="center">
   <img src="src/overview_fastazjato_imex_slicks_side.jpg" width="270">&nbsp;<img src="src/overview_fastazjato_front_detail.jpg" width="270">&nbsp;<img src="src/overview_fastazjato_rear_drivetrain.jpg" width="270"><br>
-  <em>The stretched GSX-R ricer hot boy look, on the IMEX rally slicks · front bumper and steering · rear shocks and CVDs</em>
+  <em>Stretched on the IMEX slicks &middot; front bumper and steering &middot; rear shocks and CVDs</em>
 </p>
 
----
+<p align="center"><img src="src/web_divider_chrome.png" width="100%"></p>
 
-## At a Glance
+
+## AT A GLANCE
 
 | Area | Setup |
 |---|---|
@@ -43,25 +57,25 @@
 | 💰 **Build cost** | ~$881 for the car, ~$1,115 with the battery and radio, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
-## Table of Contents
+## TABLE OF CONTENTS
 
-- ⚖️ [Weight](#weight)
-- 🏁 [Track & Setup Philosophy](#track--setup-philosophy)
-- 🌀 [Suspension](#suspension)
-- ⚙️ [Drivetrain](#drivetrain)
-- 🔌 [Electronics](#electronics)
-- 🎯 [Steering](#steering)
-- 🛞 [Aero & Body](#aero--body)
-- 🛡️ [Bumpers](#bumpers)
-- 📚 [Deep Dives](#deep-dives)
-- 🧾 [Parts List](#parts-list)
-- 💸 [Building It Cheaper](#building-it-cheaper)
-- 🖨️ [3D Models](#3d-models)
-- ✅ [TODO / Notes](#todo--notes)
+- ⚖️ [WEIGHT](#weight)
+- 🏁 [TRACK & SETUP PHILOSOPHY](#track--setup-philosophy)
+- 🌀 [SUSPENSION](#suspension)
+- ⚙️ [DRIVETRAIN](#drivetrain)
+- 🔌 [ELECTRONICS](#electronics)
+- 🎯 [STEERING](#steering)
+- 🛞 [AERO & BODY](#aero--body)
+- 🛡️ [BUMPERS](#bumpers)
+- 📚 [DEEP DIVES](#deep-dives)
+- 🧾 [PARTS LIST](#parts-list)
+- 💸 [BUILDING IT CHEAPER](#building-it-cheaper)
+- 🖨️ [3D MODELS](#3d-models)
+- ✅ [TODO / NOTES](#todo--notes)
 
 ---
 
-## Weight
+## WEIGHT
 
 **Fully loaded, all up: 2.868 kg (6.32 lb)**, weighed in pieces on one pan (everything that goes on the car, battery included).
 
@@ -71,23 +85,24 @@ Component weights measured so far, all of them in the analysis docs: body shell 
 
 ---
 
-## Track & Setup Philosophy
+## TRACK & SETUP PHILOSOPHY
 
 I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Gladstone, OR), a really blown-out dirt track: deep ruts, choppy braking bumps, dry loose dirt over a hard base. It's **casual / fun racing now** (transponder-timed racing was discontinued), so **no personal transponder is needed**. That surface drives the whole setup. It rewards compliance and forgiveness over outright top speed, so the car is built to soak up the rough and stay planted.
 
 - **Official races are banned there as of Aug 2026.** Organised racing at the park got shut down, so what's left is informal running. The setup philosophy below doesn't change, the track and the way people drive it are the same, there's just no formal event to build for.
-- **When it does run, it's open class and no rules.** Everything is fair game in the same heat: buggies, truggies, and 1/5 and monster class like X-Maxx, XRT and the Teknos. Nobody is trying to wreck anybody, but **racing is rubbing**, and with that spread of sizes on one track **landing on someone, or getting landed on, is normal**. A 1/5 or an X-Maxx coming down on this truck is a different kind of load than a crash into dirt. It's most of why durability decides parts here ahead of outright performance.
+- **When it does run, it's open class and no rules.** Everything is fair game in the same heat: buggies, truggies, and 1/5 and monster class like X-Maxx, XRT and the Teknos. Nobody is trying to wreck anybody, but **racing is rubbing**, and with that spread of sizes on one track **landing on someone, or getting landed on, is normal**. A 1/5 or an X-Maxx coming down on this truck is a different kind of load than a crash into dirt, and it's most of why durability gets weighed at all here.
+- **Being straight about it though: this build sacrifices some durability for performance.** The carbon chassis is stiffer and lighter than flexy plastic but less forgiving, the extended arms put more leverage through every part they touch, and the wider hubs add scrub. Those are performance calls, and each one costs a little toughness.
 - **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 50wt rear / 37.5wt front (down from an earlier 45wt/60wt), the rear still the firmer of the two to control squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
 - **Wide track for stability.** FLM26800 extended arms stretch the track width about 10mm per side, which calms the car over rough ground and adds droop.
 - **Diffs tuned for a loose surface.** 30k front to calm torque steer, 10k greased rear for drive off the corner, 100k center (Traxxas TRA5130) to hold drive stability.
 - **Geared for punch, not top speed.** 16T pinion (FDR 3.38) on the 3665SD 2400KV keeps it punchy and cooler on a technical, rough track where you rarely hold full throttle.
-- **Built to survive crashes.** Metal arms that bend instead of snap, alloy hubs on Tekno stubs (Integy C-hubs + GPM XO-1 blocks up front, Raptor R carriers out back), and a **minimal skid plate at the rear** so a bad landing lets me throttle out instead of digging in and cartwheeling. Up front is the **RPM 81042 wide bumper**, which sounds like the opposite but isn't: **it sits far enough forward that touching it means the car is already too nose down**, and it shouldn't ever get that vertical while racing. In normal driving nothing reaches it, and in a real frontal hit it takes the load instead of the diff.
+- **It survives crashes, but that isn't what it was built for.** The car was set up to go fast and it **gave up some durability to get there** — it's just turned out very strong anyway. The parts picked to last carry the ones that weren't: metal arms that bend instead of snap, alloy hubs on Tekno stubs (Integy C-hubs + GPM XO-1 blocks up front, Raptor R carriers out back), and a **minimal skid plate at the rear** so a bad landing lets me throttle out instead of digging in and cartwheeling. Up front is the **RPM 81042 wide bumper**, which sounds like the opposite but isn't: **it sits far enough forward that touching it means the car is already too nose down**, and it shouldn't ever get that vertical while racing. In normal driving nothing reaches it, and in a real frontal hit it takes the load instead of the diff.
 - **Body:** the OG Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. Its own integrated wing means no separate buggy wing or mount.
 - **Wheels:** IMEX 1/8th Rally chrome rims, bought purely because they're baller, and yes I paid extra. The chrome ricer look plus the stretched stance from the extended arms makes it look like an extended-swingarm GSX-R, which is why we call it **the stretched GSX-R ricer hot boy look**. It looks great and still performs well. Right now they wear the $3.87 Mitsubishi-tread 26013 tires with blue race foams. The glued rally slicks they came with (the glue had gone on the old rims) were great on track and fun to drift, but not for racing.
 
 ---
 
-## Suspension
+## SUSPENSION
 
 <p align="center">
   <img src="src/suspension_hb_d8_shocks_used_set.jpg" width="190">&nbsp;<img src="src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="190">&nbsp;<img src="src/suspension_shock_tower_traxxas_stock_front_9033.jpg" width="190">&nbsp;<img src="src/suspension_shock_tower_gmaxx_cf.jpg" width="190"><br>
@@ -106,7 +121,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 
 ---
 
-## Drivetrain
+## DRIVETRAIN
 
 <p align="center">
   <img src="src/drivetrain_aliexpress_knockoff_slash4x4_steel_diff.png" width="250">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" width="250">&nbsp;<img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="250"><br>
@@ -129,7 +144,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 
 ---
 
-## Electronics
+## ELECTRONICS
 
 <p align="center">
   <img src="src/electronics_hobbywing_ezrun_max10_g2_hw30102603.jpg" width="190">&nbsp;<img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" width="190">&nbsp;<img src="src/electronics_gensace_redline2_4s_6000_140c.png" width="190">&nbsp;<img src="src/electronics_flysky_nb4_radio.jpg" width="190"><br>
@@ -147,7 +162,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 
 ---
 
-## Steering
+## STEERING
 
 <p align="center">
   <img src="src/steering_ptk_9752tgd_servo_dimensions.jpg" width="150">&nbsp;<img src="src/steering_gpm_aluminum_bell_crank_6845x.jpg" width="150">&nbsp;<img src="../K939/src/suspension_integy_caster_block_c26402purple.jpg" width="150">&nbsp;<img src="src/suspension_gpm_xo1_alloy_front_knuckle.jpg" width="150">&nbsp;<img src="src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg" width="150"><br>
@@ -165,7 +180,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 
 ---
 
-## Aero & Body
+## AERO & BODY
 
 <p align="center">
   <img src="src/body_traxxas_jato33_red_5511a.jpg" width="190">&nbsp;<img src="src/aero_imex_rally_chrome_wheels.png" width="190">&nbsp;<img src="src/aero_generic_tires_mitsubishi_26013.jpg" width="190">&nbsp;<img src="src/aero_closed_cell_foams_blue.jpg" width="190"><br>
@@ -182,7 +197,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 
 ---
 
-## Bumpers
+## BUMPERS
 
 <p align="center">
   <img src="src/bumpers_rpm_wide_front_81042_black.webp" height="220">&nbsp;<img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" height="220"><br>
@@ -196,7 +211,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 
 ---
 
-## Deep Dives
+## DEEP DIVES
 
 Every part choice above was decided in its own analysis doc.
 
@@ -212,13 +227,13 @@ Every part choice above was decided in its own analysis doc.
 
 ---
 
-## Parts List
+## PARTS LIST
 
 Every part on the car, with prices, sources and subtotals, lives in **[`BOM.md`](BOM.md)**. It opens with a photo collage of the build.
 
 ---
 
-## Building It Cheaper
+## BUILDING IT CHEAPER
 
 This car got expensive because I bought the fun, gimmicky stuff. **About $146 of it comes off without changing how the car drives**, and some of the expensive picks genuinely earn their place.
 
@@ -238,7 +253,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 **Optional, only if you don't care about the look:** a generic AliExpress 1/8 buggy shell runs ~$25 against the $34.47 Jato 3.3 take-off, so **~$9 more**. The OG shell is most of this car's character, so it stays.
 
-### Don't cheap out on these
+### DON'T CHEAP OUT ON THESE
 
 - **CF chassis kit ($73.17), non-negotiable.** It **comes with the aluminum bulkheads**, so it replaces a separate bulkhead buy (Powerhobby alone is $36.99). Cheaper up front than building the same thing out of a stock chassis plus bulkheads, [`chassis_analysis.md`](chassis_analysis.md).
 - **FLM26800 arms ($51.46).** The extra ~10mm of track per side is a handling change, not a looks change, [`arm_analysis.md`](arm_analysis.md).
@@ -249,7 +264,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 - **Blue closed-cell race foams ($8.08).** Worth it, but the foams that come in the HSP wheels are only **marginally** worse, so that's a fair place to save.
 - **PTK 9752TG-D servo ($19.65).** Already the budget pick, and it matches a $130 ProTek at 7.4V.
 
-### The fun tax, and the bad decisions I'd make again
+### THE FUN TAX, AND THE BAD DECISIONS I'D MAKE AGAIN
 
 **This car got expensive because I wanted it to be cool, not because it needed to be.** None of these were rational, all of them were fun, and pretending otherwise would make this a worse build log. If something was baller, I needed it.
 
@@ -261,7 +276,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 **The honest summary:** strip every one of these and the car is [about $146 cheaper](#building-it-cheaper) and drives nearly the same. That's what the [bare-bones BOM](BOM_barebones.md) is for. This one is the version I actually wanted to own.
 
-## 3D Models
+## 3D MODELS
 
 > STL files live in [`3d-models/`](3d-models/), with the **editable STEP** next to each body part. Print settings, materials and the screws that go with them are in [`aero_analysis.md`](aero_analysis.md#3d-printed-body-mounts).
 
@@ -275,9 +290,33 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 | `JatoE_Wing_Mount.stl` | Wing mount, printed. Not fitted, since the Jato 3.3 shell carries its own integrated wing | Spare / for a buggy body |
 | Custom front-end shroud / wing mount + Rustler bumper integration | Cosmetic shroud that integrates the Rustler 4x4 front bumper (better crash protection, ugly stock) into a clean wing mount. Discussed in [`bumper_analysis.md`](bumper_analysis.md#notes) | Idea / TODO |
 
-## TODO / Notes
+## TODO / NOTES
+
+<p align="center"><img src="src/web_under_construction.gif" width="380"></p>
 
 - [x] Rear Tekno 5580 stubs + aftermarket 17mm hubs
 - [x] Bearings costed out: **$7.21** for the car's 18, bought by size in 10-packs, [`bearings_reference.md`](bearings_reference.md#what-the-bearings-cost)
 - [x] Motor locked in: Hobbywing 3665SD G3 2400KV
 - [x] Full-car build photos
+
+<p align="center"><img src="src/web_divider_chrome.png" width="100%"></p>
+
+<p align="center">
+  <img src="src/web_hitcounter.png" width="240"><br>
+  <b>YOU ARE VISITOR #0042069</b><br>
+  <sub>BEST VIEWED IN 1024&times;768 &middot; HAND-CODED IN NOTEPAD &middot; NO FLASH REQUIRED</sub>
+</p>
+
+<p align="center">
+  <b>~*~ THE CHEAPAZ WEBRING ~*~</b><br>
+  <a href="../ERevo_1.0/README.md">E-REVO 1.0</a> &middot;
+  <a href="../Jato4x4_Mike/README.md">MIKE&#39;S JATO</a> &middot;
+  <a href="../K939/README.md">K939</a> &middot;
+  <a href="../MugenMBX8T_Eco/README.md">MUGEN MBX8T</a> &middot;
+  <a href="../Rlaarlo_OmniTerminator/README.md">OMNI-TERMINATOR</a> &middot;
+  <a href="../104001_104002/README.md">104001 / 104002</a>
+</p>
+
+<p align="center">
+  <a href="https://www.ebay.com/usr/cheapa-zhobbies"><b>&#9733; SIGN THE GUESTBOOK / BUY MY PARTS &#9733;</b></a>
+</p>
