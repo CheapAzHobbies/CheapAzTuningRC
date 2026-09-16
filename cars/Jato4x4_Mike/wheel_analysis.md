@@ -4,7 +4,7 @@
 >
 > ⚠️ **It puts the car outside ROAR width limits.** Fine here, this is a bash car. The FastAz runs the same tire on standard-width rims specifically to stay legal.
 
-<p align="center"><img src="../FastAzJato4x4/src/aero_redspider_wheels.jpg" width="380">&nbsp;<img src="../FastAzJato4x4/src/aero_redspider_wheels_r305_white.jpg" width="380"><br><em>The RedSpider tire, shared with the FastAz. The rim underneath it is what differs</em></p>
+<p align="center"><img src="../FastAzJato4x4/src/aero_redspider_wheels_r305_white.jpg" width="600"><br><em>RedSpider <strong>R305</strong>, the white set. Note this car runs the RedSpider <strong>tire</strong> on wider Traxxas Jato rims, not the R305 rim</em></p>
 
 ---
 
