@@ -25,6 +25,7 @@
 
 | Requirement | Type | Why |
 |---|---|---|
+| **Must be baller** | **Must** | **The one section on this car where looks outrank function, and the only honest way to explain what got picked.** A [JConcepts P2](#body-comparison) is the better body by every technical measure: direct fit, race-proven, no cutting. It lost to a **used nitro shell off a 2007 truck** because that shell stands out from every buggy on the track and the P2 doesn't. Same logic bought the chrome rims. **If it doesn't look baller it doesn't go on the car**, and the rest of this table is negotiable around that |
 | **Fits chosen rear shock tower** | May | The Jato 3.3 shell runs an integrated wing, so nothing has to bolt to the tower today. Kept as a preference because **the option to convert back to a Jato wing** is worth holding, and it's the reason the rear runs carbon rather than a $6 Slash tower that won't take the Jato wing mount ([`shock_tower_analysis.md`](shock_tower_analysis.md)) |
 | **Holds wing through normal flights / crashes** | May | Only applies if a separate wing goes back on. The current shell's wing is part of the body, so there's nothing to shake loose |
 | **Cheap / replaceable** | May | Wings break. Easy to source replacements matters more than premium build |
