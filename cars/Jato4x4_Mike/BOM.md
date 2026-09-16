@@ -85,7 +85,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|---|---|---|
 | **GPM aluminum bell crank** | 1 | [LEDGER](../../LEDGER.md) #72 | **$20.00 each** | [Steering](README.md#steering) |
 | **ACER M4 × 60 titanium turnbuckles**<br><sub>Note: $5.99 each, were the planned FastAzJato steering links</sub> | 1 | ACER Racing, order #581093 | **$11.98 / pair** | [Steering](README.md#steering) |
-| **PTK servo**<br><sub>Note: bulk 8-pack rate. 🚧 model recalled as 9750, the FastAz documents a 9752TG-D at the same rate. Replaced a JX CLS6322HV that lost its centre. The ledger's other PTK entries are different servos</sub> | 1 | Bulk 8-pack | **$19.65 each** | [Servo](servo_analysis.md) |
+| **PTK 9752TG-D servo**<br><sub>Note: PTK 9752TG-D, bulk 8-pack rate, same servo as the FastAz. Replaced a JX CLS6322HV that lost its centre. The ledger's other PTK entries are different servos</sub> | 1 | Bulk 8-pack | **$19.65 each** | [Servo](servo_analysis.md) |
 | **GPM servo horn** | 1 | 🚧 not recorded | **🚧** | [Servo](servo_analysis.md) |
 | **Spring steel servo tie rod**<br><sub>Note: same as the FastAz</sub> | 1 | 🚧 not recorded | **🚧** | [Servo](servo_analysis.md) |
 
@@ -135,7 +135,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | **Shocks, towers, wing** | The three parts that turn a Slash into a Jato, so they are the conversion cost |
 | **Radio** | FlySky NB4 gen 1 with the FGr4S V2, same as the FastAz, but no price recorded |
 | **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
-| ~~Servo~~ | **Resolved:** a PTK at $19.65. 🚧 only the model number is still open |
+| ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |
 | **Bare Jato rims, shock oils, Tekno stubs** | Small money, but they round the list out. The 17mm hexes are no longer a gap: they are the aftermarket E-Revo hubs at $8.36 |
 
 ---

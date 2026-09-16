@@ -1,12 +1,12 @@
 # Servo Selection — Jato4x4_Mike
 
-> **Running: a PTK servo, about $19.65** as part of a bulk 8-pack. ⚠️ **Model not pinned down: recalled as the PTK 9750**, while the [FastAz](../FastAzJato4x4/servo_analysis.md) documents a **PTK 9752TG-D** at the same bulk rate. 🚧 confirm off the servo case. It replaced a **JX CLS6322HV (EcoBoost branding)** that **started losing its centre**.
+> **Running: the PTK 9752TG-D**, about **$19.65** as part of a bulk 8-pack. Same servo the [FastAzJato4x4](../FastAzJato4x4/servo_analysis.md) runs. It replaced a **JX CLS6322HV (EcoBoost branding)** that **started losing its centre**.
 >
 > **Full comparison and the cross-brand table:** [FastAzJato4x4 servo analysis](../FastAzJato4x4/servo_analysis.md#servo-comparison).
 
 | Item | Spec |
 |---|---|
-| **Servo** | **PTK**, 🚧 **9750 or 9752TG-D**, digital coreless metal gear, low profile |
+| **Servo** | **PTK 9752TG-D**, digital coreless metal gear, low profile, 2S LiPo ready |
 | **Horn** | **GPM servo horn** |
 | **Servo tie rod** | **Spring steel**, same as the FastAz |
 | **Price** | **~$19.65**, bulk 8-pack rate |
