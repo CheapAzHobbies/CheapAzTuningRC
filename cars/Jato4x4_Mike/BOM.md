@@ -133,7 +133,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | **Radio** | FlySky NB4 gen 1 with the FGr4S V2, same as the FastAz, but no price recorded |
 | **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
 | **Servo** | Two PTK servos on the ledger, neither confirmed to this car |
-| **Bare Jato rims, TRA6469 hexes, shock oils** | Small money, but they round the list out |
+| **Bare Jato rims, shock oils, Tekno stubs** | Small money, but they round the list out. The 17mm hexes are no longer a gap: they are the aftermarket E-Revo hubs at $8.36 |
 
 ---
 

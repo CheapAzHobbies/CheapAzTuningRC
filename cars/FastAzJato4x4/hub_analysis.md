@@ -122,7 +122,7 @@ The inner bearing's ID has to match the axle, which is why the two axle systems 
 > - **Running: AliExpress aftermarket 17mm splined wheel hubs (E-Revo 1.0 fit), black, all four corners, $8.36.** Each corner gets a hub, a 17mm nut and a pin, with the pin held by the M2 set screw into the Tekno stub. The set's barrel nuts aren't needed on Tekno stubs (a wrench comes in the set too). Every hub sits **2-3mm wider** than the Tekno hex it replaced, so the track gains width at each corner.
 > - **Aftermarket, E-Revo 1.0 fit only.** Not Traxxas parts. They're made to fit the E-Revo 1.0 (not the 2.0 or other generations) and are **known to fit the Jato 4x4 and Slash 4x4**. **24mm tall × 20mm across, 6mm bore, M2 set screw.**
 > - **Stubs stay Tekno M6:** front **TKR1654-17** (sold with its own hex, which now sits unused), rear **Tekno 5580** bought bare ($16.90 / pair), so the **TKR5570-17 kit isn't needed**.
-> - **Traxxas TRA6469** (17mm splined aluminum, 5.9g) is on **Mike's car**, not this build.
+> - **Traxxas TRA6469** (17mm splined aluminum, 5.9g) is **in hand as an alternative**, not fitted. ⚠️ It was previously noted as being on [Mike's car](../Jato4x4_Mike/hub_analysis.md#17mm-wheel-hexes); that is wrong, **his car runs the same aftermarket E-Revo hexes this one does**, on the same Tekno stubs.
 
 <p align="center"><img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" width="300">&nbsp;<img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_red.png" width="300"><br><em>Running: AliExpress aftermarket 17mm splined hubs (E-Revo 1.0 fit) in black ($8.36, all four corners) · the same hub in red</em></p>
 

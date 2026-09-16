@@ -59,9 +59,7 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 
 ## 17mm wheel hexes
 
-**Running: the aftermarket E-Revo 1.0 fit 17mm splined hubs, $8.36 for all four corners, shaved down.** Same hex the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md#17mm-wheel-hubs-hexes) runs, on the same **Tekno stubs**, so the axle end of both cars is identical.
-
-⚠️ **The FastAz doc still says the TRA6469 is the hex on this car.** That is stale; it is the aftermarket E-Revo hub here. This is the other half of this car's bearing decision. Running the **bare 10×18×5** in the hub leaves no room for a full-thickness hex, so **the hexes give up the 1mm, not the carriers**.
+**Running: the aftermarket E-Revo 1.0 fit 17mm splined hubs, $8.36 for all four corners, shaved down.** Same hex the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md#17mm-wheel-hubs-hexes) runs, on the same **Tekno stubs**, so the axle end of both cars is identical. This is the other half of this car's bearing decision. Running the **bare 10×18×5** in the hub leaves no room for a full-thickness hex, so **the hexes give up the 1mm, not the carriers**.
 
 | Requirement | Type | Why |
 |---|---|---|
