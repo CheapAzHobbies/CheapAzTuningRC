@@ -34,20 +34,29 @@
 |---|---|---|---|---|
 | **Running Traxxas Jato 4x4 VXL, 90386-4**<br><sub>Note: the 4S model, bought used and running. Supplies the bearings, diffs, gearbox housings, shock towers, GTR shocks, body, wing, wing mount, radio and the 4S brushless system. **$200-250 is the market**, above that they don't sell</sub> | 1 | Used, private sale | **$200.00 each** | [Bearings](bearings_reference.md) |
 
-**A Slash 4x4 works too, and it's the cheap way in.** The [CF chassis kit](chassis_analysis.md) is a **Slash 4x4 VXL (TRA6808) pattern**, and this build is already half Slash anyway: the diffs are knock-off Slash 4x4, the CVDs are TRA6851R / TRA6852R clones, and the **TRA6881 / TRA6880 gearbox housings are the Slash 4x4 / Jato 4x4 family part**. A Slash donor fits this list natively rather than in spite of it, and they're far more common used than Jatos.
+### Any Traxxas 4x4 can be the donor
 
-**Even an old HCG Slash 4x4 does the job, and those go for $50-150.** The high-center-of-gravity chassis is the usual reason to avoid one, and **here it doesn't matter at all, because the stock chassis gets binned for the CF plate either way**. You're buying it for the drivetrain, not the chassis.
+**Slash 4x4, Jato 4x4, Rustler 4x4, Hoss, Rally — as long as it's a 4x4, it works.** They're the same family this build already draws from: the [CF chassis kit](chassis_analysis.md) is a **Slash 4x4 VXL (TRA6808) pattern**, the diffs are knock-off Slash 4x4, the CVDs are **TRA6851R / TRA6852R** clones, and the **TRA6881 / TRA6880 gearbox housings are the Slash 4x4 / Jato 4x4 family part**. A non-Jato donor fits this list natively rather than in spite of it, and Slashes and Rustlers are far more common used than Jatos.
 
-**What a Slash donor changes:**
+**Even an old HCG Slash works, and those go for $50-150.** The high center of gravity is the usual reason to avoid one, and **it's irrelevant here, because the stock chassis gets binned for the CF plate either way.** You're buying the car for its drivetrain.
 
-| | |
-|---|---|
-| **Rear hubs** | May need EHD rear carriers depending on trim. **TRA9050 is $6.00 a pair** from Tammies or any local shop, hinge pins and screws included. Nothing at all on a trim that already has them |
-| **Power** | An older or brushed Slash isn't 4S. Add the [MAX10 G2 + 3665SD combo](esc_analysis.md) at **$127** for the power this build assumes |
-| **Bearings** | A Slash 4x4 is 1/10 class, so its bearings are **smaller than the Jato's 1/8-class set** ([`bearings_reference.md`](bearings_reference.md)). Check what actually transfers instead of assuming the whole set does |
-| **Body** | You get a Slash truck body, not a Jato one, so the free body and wing above don't apply |
+### What a non-Jato donor costs you
 
-**Roughly: a $100 HCG Slash plus the $127 combo and $6 of carriers lands near $694**, in the same range as the $200 Jato route but on a donor that's much easier to find cheap. Go lower on the donor and it drops below the Jato path outright.
+**Mostly just the rear wing mount and the towers.** The Jato **front** tower is the pick, because it's **taller and works well**. At the **rear**, the donor's own Slash tower may be the better choice, and not just the cheaper one — see the two options below.
+
+| Add | Cost | Why |
+|---|---|---|
+| **Traxxas 9033 front tower** (Jato 4x4) | **$6.00 / tower** | Taller than the Slash front tower and proven on this build |
+| **Traxxas TRA9046 rear wing mount** | **$7.00 / set** | What nearly every non-Jato donor needs to carry a wing |
+| ⭐ **Rear tower, option A:** keep the donor's **Slash rear tower** and make a **small aluminum plate** on top to interface the wing | **$0**, easy | **It's where the shock mounts that matters.** The Slash tower puts the rear shocks **forward of the rear bumper line**, closer to the middle of the car, which **moves weight forward** into the nose bias this build wants, and takes them out of the crash path. The plate is a simple flat piece, the [Meelobee technique](aero_analysis.md#wing-mount-comparison). **Free, and the better handling answer** |
+| **Rear tower, option B:** buy the **Traxxas 9034 rear tower** (Jato 4x4) | **$6.00 / tower** | Taller and bolt-on with no plate to make, but the **9034 hangs the shocks further back**, adding tail weight and cutting the nose bias. Simplicity at the cost of handling |
+| **Shocks, Traxxas GTR XX-Long 7462-GRAY** | **$22.97 / set of 4** | ⚠️ **The one people forget.** A Jato donor comes with the GTR XX-Longs, or Pro-Lines on some trims. Other 4x4s don't, so budget a used set |
+| **Traxxas TRA9050 rear carriers** | **$6.00 / pair** | Only on trims without EHD rears. Tammies or any local shop, hinge pins and screws included |
+| **MAX10 G2 + 3665SD combo** | **$127.00 / combo** | Only if the donor isn't already 4S. Older and brushed trims aren't |
+| **Bearings** | — | A Slash 4x4 is 1/10 class, so its bearings are **smaller than the Jato's 1/8-class set** ([`bearings_reference.md`](bearings_reference.md)). Check what transfers instead of assuming |
+| **Body** | — | You get that car's body, not a Jato one, so the free body and wing above don't apply |
+
+**Worked example, the cheap end: a $100 HCG Slash**, brushed, needing rear carriers. Keep its rear tower, make the plate, add the front tower, wing mount, a used GTR set and the combo: **~$729**. That's this car's speed out of something most people scroll straight past.
 
 **Or buy new.** A **base model Jato 4x4 is about $325 new**, $125 over a good used one, for an undamaged car with a warranty and no previous owner's crashes in it. ⚠️ **Check the trim before counting on that number:** if it's the **BL-2S (90154-4)** that's a **2S** brushless system, so add the [MAX10 G2 + 3665SD combo](esc_analysis.md) at **$127** to get the 4S power this build assumes, landing near **$912**. If the $325 car is already 4S-capable, it's **~$785** and nothing else on this list changes.
 
