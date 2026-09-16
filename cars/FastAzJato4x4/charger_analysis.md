@@ -2,6 +2,8 @@
 
 > **I love the small single portables, that's what I actually run, the SKYRC B6neo, HOTA T6, and the little ToolkitRC.** Tiny, cheap, do everything, and I'd rather carry a couple of these than one big charger (see [why](#notes)). **The single-channel portables on hand are all modern smart chargers that do LiHV** (needed for the [Gens Ace HV pack](battery_analysis.md)) and all good options. The **SKYRC B6ACneo** is the grab-and-go (AC built in, no PSU); the DC ones run off any 12-24V supply / USB-C PD source. At 4S 5200-6300, charge at ~1C (5-6A), any of them handles it easily. The **duo** and **quad** sections below (plus the big top-tier singles) are **reference/comparison** — a friend's duals, some top-shelf units, and poor-value quads — but the small singles are still my pick.
 
+<p align="center"><img src="src/overview_chargers_collage.jpg" width="900"><br><em>All 28 chargers compared below, roughly in table order: the picks up front, then the rest of the singles, the duals, and the quads. The parallel board is in the tables but not here, since it isn't a charger</em></p>
+
 ---
 
 ## Chargers, by channel count
