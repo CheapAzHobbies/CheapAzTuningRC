@@ -36,6 +36,12 @@
   <em>Stretched on the IMEX slicks &middot; front bumper and steering &middot; rear shocks and CVDs</em>
 </p>
 
+<p align="center">
+  <img src="src/overview_fastazjato_dirt_tires.jpg" width="720"><br>
+  <b>&#9656; CURRENT OFFROAD SETUP &#9662;</b><br>
+  <em>IMEX chrome rims on the $3.87 Mitsubishi-tread 26013 tires with blue race foams &mdash; what it actually races on</em>
+</p>
+
 <p align="center"><img src="src/web_divider_chrome.png" width="100%"></p>
 
 
