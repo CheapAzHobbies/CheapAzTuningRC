@@ -282,6 +282,8 @@ When you start a **new part category**, define its field order once (add a short
 - **Wings:** Part · Material · Size · Fits · Weight · Price
 - **Motor cooling (heatsink/fan):** Heatsink · Fans · Suits · Footprint · Fan max RPM · Cable · Weight · Price
 - **Battery hold-down bars:** Part · Embossed · Lower hole (22mm) · Upper hole (37mm) · Thickness · Span · Weight · Price
+- **Battery straps / retainers:** Part · Type · Material · Fits · Colors · Includes · Weight · Price
+  - *Use this for anything that holds the pack down which is **not** a bar across the posts (velcro straps, alloy strap anchors, retainer plates). `Type` matters because listings blur them: the GPM TJ0126 is sold as an "alloy retainer" but is actually **two alloy strap anchors plus a velcro strap**, not a rigid bar. Say which it is.*
   - *Stock Traxxas bars are **embossed with two numbers, one per flip orientation**, and the holder post has two hole positions, so one part yields four clearances. Record the embossed pair and the resulting clearance in **each** hole rather than a single height, or the figure reads as a fixed spec when it is really one of four settings.*
 - *(add new categories here as they are created)*
 
