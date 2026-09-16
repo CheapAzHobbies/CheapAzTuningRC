@@ -2,7 +2,7 @@
 
 > **Running: Castle Creations 1412 3200KV on an 11T 32P pinion and 54T spur, through a Castle Mamba X 6S.** The motor is the same one the [FastAzJato4x4](../FastAzJato4x4/motor_analysis.md#castle-creations-1412-3200kv--in-hand) has in hand, so its specs are not repeated here. **What is unique to this car is the gearing, and the finding that came out of it.**
 >
-> **Gearing for the power band beat chasing the smallest pinion**, which overturned the assumption the build started with. ⚠️ **The write-up below was recorded at 12T; the car now runs 11T**, so whether it moved or the 12T was a slip is 🚧 unconfirmed.
+> **Gearing for the power band beat chasing the smallest pinion**, which overturned the assumption the build started with. **The write-up below was recorded at 12T, and the car has since moved to 11T.** The finding stands as reached; the gearing simply came down one tooth after it.
 
 <p align="center"><img src="../FastAzJato4x4/src/electronics_castle_1412_3200kv.jpg" width="500"><br><em>Castle Creations 1412 3200KV, shared with the FastAz. Full specs in that doc</em></p>
 
@@ -30,9 +30,9 @@
 | Item | Spec |
 |---|---|
 | **Motor** | **Castle Creations 1412 3200KV** (specs in the [FastAz doc](../FastAzJato4x4/motor_analysis.md#castle-creations-1412-3200kv--in-hand)) |
-| **Pinion** | **11T 32P** (the finding above was recorded at 12T) |
+| **Pinion** | **11T 32P** (was 12T when the finding above was made) |
 | **Spur** | **54T** |
-| **ESC** | **Castle Mamba X**, 6S. Specs in the [FastAz ESC analysis](../FastAzJato4x4/esc_analysis.md#esc-comparison): 2-6S, 8A adjustable BEC, SmartSense, waterproof, 101g, ~$190, and Castle **officially supports the 1412** on it |
+| **ESC** | **Castle Mamba X SCT**, bought as a combo with this motor (**010-0155-13**). ⚠️ **4S max with this motor**, see [`esc_analysis.md`](esc_analysis.md) |
 | **Cooling** | N/A 🚧 not recorded |
 
 ---
@@ -41,7 +41,11 @@
 
 **Bearings replaced ~2026-09-06, first run on them 2026-09-12.**
 
-Tracked by **weekend run count** rather than pack count, since this car has no battery cycle tracker, in [`maintenance/README.md`](../../maintenance/README.md). **The goal is catching the next replacement before they blow rather than after.**
+---
+
+## Price History
+
+The motor was not bought on its own. It came in the **010-0155-13 combo** with the Mamba X SCT, so the receipt and the RMA replacement are in [`esc_analysis.md`](esc_analysis.md#price-history).
 
 ---
 

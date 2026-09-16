@@ -18,12 +18,12 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Steering](#steering) | $31.98 |
 | [Wheels & Tires](#wheels--tires) | $28.18 |
 | [Body & Aero](#body--aero) | $36.00 |
-| [Electronics](#electronics) | $94.00 |
+| [Electronics](#electronics) | $198.71 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$732.93** |
-| **Car only, without batteries** | **$447.58** |
+| **Total recorded** | **$837.64** |
+| **Car only, without batteries** | **$552.29** |
 
-> **What the total is missing:** the donor, the shocks, the towers, the wing, the ESC, the radio, the spur and pinion, and the 17mm hexes. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
+> **What the total is missing:** the donor, the shocks, the towers, the wing, the radio, the spur and pinion, and the 17mm hexes. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -102,8 +102,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Castle Creations 1412 3200KV motor**<br><sub>Note: price is the non-warranty RMA replacement. Bearings replaced 2026-09-06</sub> | 1 | Castle Creations | **$94.00 each** | [Motor](motor_analysis.md) |
-| **Castle Mamba X ESC, 6S**<br><sub>Note: runs the 1412 3200KV, which Castle officially supports on it. 🚧 price not recorded, listed around $190</sub> | 1 | 🚧 not recorded | **🚧** | [Motor](motor_analysis.md) |
+| **Castle Mamba X SCT + 1412-3200KV 5mm combo**<br><sub>Note: sensored, 25.2V waterproof ESC and the motor sold as one part, **010-0155-13**. $198.71 plus $12.78 shipping, $211.49 the order, 2025-03-19, educational discount applied, bought by Mike directly. A later non-warranty RMA motor cost **$94.00** ([LEDGER](../../LEDGER.md) #83), not counted here since it replaced this motor rather than adding one</sub> | 1 | Castle Creations, order STD0000000137021 | **$198.71 / combo** | [ESC](esc_analysis.md) |
 | **Radio + receiver** | 1 | 🚧 not recorded | **🚧** | [Electronics](README.md#electronics) |
 | **Motor cooling fan**<br><sub>Note: ⚠️ two metal fans at $6 each are on Mike's ledger, but cooling is not recorded on this car, so they may be for something else</sub> | 🚧 | 🚧 unconfirmed | **🚧** | [Motor](motor_analysis.md) |
 
@@ -127,7 +126,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 |---|---|
 | **The running Slash 4x4 donor** | The single biggest line. Without it the total is parts-only |
 | **Shocks, towers, wing** | The three parts that turn a Slash into a Jato, so they are the conversion cost |
-| **Radio** | Not documented anywhere for this car, not just unpriced. The ESC is now known (Mamba X 6S), just unpriced |
+| **Radio** | Not documented anywhere for this car, not just unpriced |
 | **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
 | **Servo** | Two PTK servos on the ledger, neither confirmed to this car |
 | **Bare Jato rims, TRA6469 hexes, shock oils** | Small money, but they round the list out |
