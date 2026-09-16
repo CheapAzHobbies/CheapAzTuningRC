@@ -362,7 +362,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 <p align="center"><img src="src/web_under_construction.gif" width="380"></p>
 
-**STILL ON THE BENCH:** measure the bore on an alloy big-bore shock (nobody lists it), record the TQ/TQi rebuild bearing sizes, catch the Jenny's RC GTR restock, and confirm which trim the $325 new base Jato actually is. Full list in [`CHECKLIST.md`](CHECKLIST.md).
+**STILL ON THE BENCH:** measure the bore on an alloy big-bore shock (nobody lists it), record the TQ/TQi rebuild bearing sizes, and confirm which trim the $325 new base Jato actually is. Full list in [`CHECKLIST.md`](CHECKLIST.md).
 
 - [x] Rear Tekno 5580 stubs + aftermarket 17mm hubs
 - [x] Bearings costed out: **$7.21** for the car's 18, bought by size in 10-packs, [`bearings_reference.md`](bearings_reference.md#what-the-bearings-cost)
