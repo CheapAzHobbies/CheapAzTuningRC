@@ -79,8 +79,8 @@
 | 🎯 **Steering** | PTK 9752TG-D servo, GPM 6845X alloy bell crank, Integy purple C-hubs + GPM XO-1 front blocks, Raptor R rear carriers |
 | 🏁 **Body** | Traxxas Jato 3.3 red (5511A) with its own integrated wing |
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
-| 🔧 **Wheel cost** | ~$52 up front (rims + tires + foams), ~$4 per tire change after that |
-| ⚖️ **Weight** | 2.868 kg all up |
+| 🔧 **Wheel cost** | ~$57 up front (rims + tires + foams + the glue that mounts them), ~$4 per tire change after that |
+| ⚖️ **Weight** | **~2.76 kg** as it runs today. The 2.868 kg weigh-in was on the heavier Zeee pack, see [Weight](#weight) |
 | 💰 **Build cost** | ~$881 for the car, ~$1,115 with the battery and radio, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
@@ -175,7 +175,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Stubs | Tekno M6: front **TKR1654-17**, rear **5580** (bought bare) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | 17mm hubs | **AliExpress aftermarket 17mm splined hubs (E-Revo 1.0 fit)**, black, all four corners | $8.36, 2-3mm wider per corner, [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hubs-hexes) |
 | Gearbox housings | Traxxas TRA6881 front / TRA6880 rear | $4 each, [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
-| Bearings | Hub bearings fitted; full sealed kit still open | [`bearings_reference.md`](bearings_reference.md) |
+| Bearings | **18 sealed ball bearings, $7.21 for the car's set** (bought by size in 10-packs) + 4 TRA3775 Oilite bushings at the bell crank | Hub corners run 10×15×4 in a printed 18→15mm sleeve, [`bearings_reference.md`](bearings_reference.md#what-the-bearings-cost) |
 
 > ### &#128296; TECH TIP &middot; THE 18 &rarr; 15 SLEEVE
 >
@@ -219,7 +219,9 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Front C-hubs | **Integy C26402PURPLE** billet alloy, purple | $13.62, originally bought for the K939, [`hub_analysis.md`](hub_analysis.md) |
 | Front steering blocks | **GPM XO-1 alloy knuckle** | $19.16, XO-1 bearing geometry suits the Tekno M6 stubs, [`hub_analysis.md`](hub_analysis.md) |
 | Rear carriers | **Traxxas Raptor R Ultimate alloy (9065)** | From the $68.73 Raptor R set, [`hub_analysis.md`](hub_analysis.md) |
-| Tie rods + camber links | **ACER titanium M4x60** rods (6) + RPM long rod ends (white 80511) + Traxxas hollow balls, ~61mm (96mm c-t-c) | [`tie_rod_analysis.md`](tie_rod_analysis.md) |
+| Tie rods + camber links | **ACER titanium M4x60** rods (6) + RPM long rod ends (white 80511) + Traxxas hollow balls, ~61mm (96mm c-t-c) | **3.7 g per rod, 22.2 g for all six.** $5.99 each, [`tie_rod_analysis.md`](tie_rod_analysis.md) |
+| Rod ends (hollow balls) | **Traxxas TRA5525** | $9.00 / pack of 12, [`tie_rod_analysis.md`](tie_rod_analysis.md#rod-ends-the-plastic) |
+| Servo link + horn | **GPM RUS416026ST-S** link + 25T alloy horn, 6pc set | Servo horn to bell crank, $7.61, [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
 
 ---
 
@@ -237,6 +239,8 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Rims | **IMEX IMX7893 1/8 Rally chrome** (17mm hex) | Bought for the look. A bit narrower than standard, so standard 1/8 tires go on with some finesse. The glued rally slicks came off: fun to drift, not for racing, [`wheel_analysis.md`](wheel_analysis.md#rims-bare-wheels) |
 | Tires | **Kforce Mitsubishi-tread 26013** (110 × 43mm, natural rubber, 35°), set of 4 | $3.87 shipped. Softer, but very durable once worn in, [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
 | Foam inserts | Blue closed-cell race foams, reusable | Keeps it planted, less rim slap, [`wheel_analysis.md`](wheel_analysis.md#foam-inserts) |
+| Tire glue | **HFT high-strength super glue**, SKU 68345 | $4.99 / 10-pack. ⚠️ **Thin liquid, not the gel** — the thin stuff wicks into the bead, [`wheel_analysis.md`](wheel_analysis.md) |
+| Body clips | **AJRC 50 pcs silver** R-clips | $2.21 the pack, 1/5 to 1/16 universal, [`aero_analysis.md`](aero_analysis.md#3d-printed-body-mounts) |
 
 > ### &#128296; TECH TIP &middot; GLUE THE BEAD, NOT THE GEL
 >
