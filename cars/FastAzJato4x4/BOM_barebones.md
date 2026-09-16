@@ -1,10 +1,10 @@
 # Bare-Bones BOM — FastAzJato4x4
 
-**Buy a running Jato 4x4 for $200, then spend ~$449 turning it into this car.** Total **~$649**, against ~$1,110 for the real build.
+**Buy a running Jato 4x4 for $200, then spend ~$460 turning it into this car.** Total **~$660**, against ~$1,110 for the real build.
 
 > This is not the car in [`BOM.md`](BOM.md). That one is the actual build, personal touches and bad decisions included. **This is the cheapest honest route to the same speed**, and it starts from a used 4S truck instead of a box of parts. Every price is a real one from the full BOM or its analysis docs, except the pinion and the battery, which are current retail and linked below.
 
-**The starting point:** a **running Jato 4x4 VXL (90386-4, the 4S model) for $200**. That comes with the bearings, the diffs, the gearbox housings, the shock towers, the GTR shocks, the body, the wing and its mount, the radio and a working 4S brushless system. **You keep all of it.** What you replace is what makes the car fast and what makes it survive.
+**The starting point:** a **running Jato 4x4 VXL (90386-4, the 4S model) for $200**. **$200-250 is the real range** — anything priced above that sits unsold, so don't pay it. That comes with the bearings, the diffs, the gearbox housings, the shock towers, the GTR shocks, the body, the wing and its mount, the radio and a working 4S brushless system. **You keep all of it.** What you replace is what makes the car fast and what makes it survive.
 
 ## Cost Summary
 
@@ -13,16 +13,18 @@
 | [Donor Car](#donor-car) | $200.00 |
 | [Chassis](#chassis) | $73.17 |
 | [Suspension](#suspension) | $51.46 |
-| [Hubs & Axles](#hubs--axles) | $79.27 |
+| [Hubs & Axles](#hubs--axles) | $81.11 |
 | [Drivetrain](#drivetrain) | $57.10 |
 | [Steering](#steering) | $84.53 |
 | [Electronics](#electronics) | $77.64 |
 | [Wheels](#wheels) | $25.45 |
-| [Aero & Body](#aero--body) | $0.00 |
-| **Total** | **~$649** |
-| **Without the battery** | **~$591** |
+| [Aero & Body](#aero--body) | $10.00 |
+| **Total** | **~$660** |
+| **Without the battery** | **~$602** |
 
-**The radio, the ESC, the motor and every bearing come with the donor**, which is why this lands near half the full build.
+**The radio, the ESC, the motor and nearly every bearing come with the donor**, which is why this lands near half the full build. **At the top of the donor range ($250) it's ~$710.**
+
+**If you own a printer this drops to ~$651**, since the $10 of printing is about $1 of filament when it's your machine and your time.
 
 ---
 
@@ -30,7 +32,11 @@
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Running Traxxas Jato 4x4 VXL, 90386-4**<br><sub>Note: the 4S model, bought used and running. Supplies the bearings, diffs, gearbox housings, shock towers, GTR shocks, body, wing, wing mount, radio and the 4S brushless system</sub> | 1 | Used, private sale | **$200.00 each** | [Bearings](bearings_reference.md) |
+| **Running Traxxas Jato 4x4 VXL, 90386-4**<br><sub>Note: the 4S model, bought used and running. Supplies the bearings, diffs, gearbox housings, shock towers, GTR shocks, body, wing, wing mount, radio and the 4S brushless system. **$200-250 is the market**, above that they don't sell</sub> | 1 | Used, private sale | **$200.00 each** | [Bearings](bearings_reference.md) |
+
+**A Slash 4x4 works too.** The [CF chassis kit](chassis_analysis.md) is a **Slash 4x4 VXL (TRA6808) pattern**, so a Slash 4x4 donor drops onto it natively rather than in spite of it. **The variable is the rear hubs:** depending on the trim you may need to buy EHD rear carriers, and stock **TRA9050** EHD plastic is **$6.00 a pair** at Traxxas (about $6.99 at dealers), hinge pins and screws included. On a trim that already has them, it's a straight swap and costs nothing. Slashes are also more common used than Jatos, so the donor is easier to find.
+
+**Or buy new.** A **base model Jato 4x4 is about $325 new**, $125 over a good used one, for an undamaged car with a warranty and no previous owner's crashes in it. ⚠️ **Check the trim before counting on that number:** if it's the **BL-2S (90154-4)** that's a **2S** brushless system, so add the [MAX10 G2 + 3665SD combo](esc_analysis.md) at **$127** to get the 4S power this build assumes, landing near **$912**. If the $325 car is already 4S-capable, it's **~$785** and nothing else on this list changes.
 
 ## Chassis
 
@@ -58,7 +64,7 @@
 | **Aftermarket 17mm splined wheel hubs, E-Revo 1.0 fit**<br><sub>Note: black, 2-3mm wider per corner. Replaces the donor's stock 17mm hexes, which go unused</sub> | 1 | AliExpress | **$8.36 / set of 4** | [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes) |
 | **Tekno TKR1654-17 front stubs**<br><sub>Note: the M6 stub the long-axle build needs</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **Tekno 5580 rear stubs**<br><sub>Note: bare stubs beat the $25.95 TKR5570-17 kit, whose hexes go unused anyway</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| **10×15×4 sealed bearings, 4 off**<br><sub>Note: the only bearings you buy. The donor's are 12×18×4, and the Tekno stub conversion changes the four hub corners to 10×15×4 in a sleeve. $0.31 each</sub> | 4 | AliExpress | **$0.31 each** | [Bearings](bearings_reference.md#what-the-bearings-cost) |
+| **10×15×4 sealed bearings, 6700-2RS**<br><sub>Note: the only bearings you buy. The donor's are 12×18×4, and the Tekno stub conversion changes the four hub corners to 10×15×4 in a sleeve. They sell in 10-packs, so the four you need come with six spares</sub> | 1 | AliExpress | **$3.08 / pack of 10** | [Bearings](bearings_reference.md#what-the-bearings-cost) |
 | **3D-printed 18 → 15mm bearing sleeves**<br><sub>Note: printed at home, drops the 10×15×4 into the 18mm hub pocket. Super glue on the outer face of the ring only, then press in</sub> | 1 | DIY | **$0** | [Bearings](bearings_reference.md) |
 
 ## Drivetrain
@@ -102,12 +108,12 @@
 
 ## Aero & Body
 
-**Free.** The donor's body, wing and wing mount all carry over, and the wing mount works because the donor's rear tower is the one it bolts to.
+**The body, wing and wing mount all carry over free**, and the wing mount works because the donor's rear tower is the one it bolts to. The only cost here is the printing.
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Stock Jato 4x4 body + wing + TRA9046 wing mount** | 1 | Donor car | **$0** | [Body](aero_analysis.md#body-comparison) |
-| **3D-printed body mounts + posts, front + rear**<br><sub>Note: still needed, the CF chassis has no clipless support. Mounts in TPU, posts in PETG, two posts at each end</sub> | 1 | DIY | **$0** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
+| **3D-printed body mounts + posts, front + rear**<br><sub>Note: still needed, the CF chassis has no clipless support. Mounts in TPU, posts in PETG, two posts at each end. **~$10 at a local print shop; about $1 of filament if the printer is yours**, which is why this is the one line that depends on who you are</sub> | 1 | Local print shop / DIY | **$10.00 / set** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 
 ---
 

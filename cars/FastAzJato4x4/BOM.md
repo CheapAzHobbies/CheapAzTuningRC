@@ -2,7 +2,7 @@
 
 Everything on the car, nothing that isn't. **Qty** is how much of the product was bought, **Price** is what it cost and what that covers, and anything else sits in a small note under the part. The reasoning behind each pick is in the linked doc.
 
-> **This is not the cheapest way to build a car this fast.** It's a good base with my personal touches bolted on and a few bad decisions I paid for. The **[bare-bones BOM](BOM_barebones.md)** is the cheap version: start from a **$200 running Jato 4x4** and spend ~$449 on the parts that matter, for about **$649 all in**. **This list isn't the final spec for this car either**. It's here so you can see what it actually took, if you want something just as quick. The money that can come back off is in [Building It Cheaper](README.md#building-it-cheaper).
+> **This is not the cheapest way to build a car this fast.** It's a good base with my personal touches bolted on and a few bad decisions I paid for. The **[bare-bones BOM](BOM_barebones.md)** is the cheap version: start from a **$200 running Jato 4x4** and spend ~$460 on the parts that matter, for about **$660 all in**. **This list isn't the final spec for this car either**. It's here so you can see what it actually took, if you want something just as quick. The money that can come back off is in [Building It Cheaper](README.md#building-it-cheaper).
 
 <p align="center"><img src="src/overview_fastazjato_parts_collage.jpg" width="900"><br><em>Most of the parts on the car. A few have no photo yet, so the tables below are the full list.</em></p>
 
