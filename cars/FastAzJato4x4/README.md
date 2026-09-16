@@ -124,7 +124,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 - **When it does run, it's open class and no rules.** Everything is fair game in the same heat: buggies, truggies, and 1/5 and monster class like X-Maxx, XRT and the Teknos. Nobody is trying to wreck anybody, but **racing is rubbing**, and with that spread of sizes on one track **landing on someone, or getting landed on, is normal**. A 1/5 or an X-Maxx coming down on this truck is a different kind of load than a crash into dirt, and it's most of why durability gets weighed at all here.
 - **Being straight about it though: this build sacrifices some durability for performance.** The carbon chassis is stiffer and lighter than flexy plastic but less forgiving, the extended arms put more leverage through every part they touch, and the wider hubs add scrub. Those are performance calls, and each one costs a little toughness.
 <p align="center">
-  <b><i>&ldquo;RACING IS RUBBING &mdash; AND WITH X-MAXX AND 1/5 SCALE IN THE SAME HEAT,<br>GETTING LANDED ON IS NORMAL.&rdquo;</i></b>
+  <b><i>&ldquo;RACING IS RUBBING.<br>GETTING RAILED BY AN X-MAXX IS JUST ANOTHER SUNDAY.&rdquo;</i></b>
 </p>
 
 - **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 50wt rear / 37.5wt front (down from an earlier 45wt/60wt), the rear still the firmer of the two to control squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
