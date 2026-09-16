@@ -1,8 +1,10 @@
 # Bare-Bones BOM — FastAzJato4x4
 
-**Buy a running Jato 4x4 for $200, then spend ~$460 turning it into this car.** Total **~$660**, against ~$1,110 for the real build.
+**Buy a running Jato 4x4 for $200, then spend ~$465 turning it into this car.** Total **~$665**, against ~$1,115 for the real build.
 
 > This is not the car in [`BOM.md`](BOM.md). That one is the actual build, personal touches and bad decisions included. **This is the cheapest honest route to the same speed**, and it starts from a used 4S truck instead of a box of parts. Every price is a real one from the full BOM or its analysis docs, except the pinion and the battery, which are current retail and linked below.
+
+<p align="center"><img src="src/overview_barebones_parts_collage.jpg" width="900"><br><em>The bare-bones parts list. Most of what you buy, plus the stock pieces the donor hands you.</em></p>
 
 **The starting point:** a **running Jato 4x4 VXL (90386-4, the 4S model) for $200**. **$200-250 is the real range** — anything priced above that sits unsold, so don't pay it. That comes with the bearings, the diffs, the gearbox housings, the shock towers, the GTR shocks, the body, the wing and its mount, the radio and a working 4S brushless system. **You keep all of it.** What you replace is what makes the car fast and what makes it survive.
 
@@ -12,19 +14,19 @@
 |---|---|
 | [Donor Car](#donor-car) | $200.00 |
 | [Chassis](#chassis) | $73.17 |
+| [Drivetrain](#drivetrain) | $97.07 |
 | [Suspension](#suspension) | $51.46 |
-| [Hubs & Axles](#hubs--axles) | $81.11 |
-| [Drivetrain](#drivetrain) | $57.10 |
+| [Hubs & Carriers](#hubs--carriers) | $41.14 |
 | [Steering](#steering) | $84.53 |
+| [Wheels & Tires](#wheels--tires) | $30.44 |
+| [Body & Aero](#body--aero) | $10.00 |
 | [Electronics](#electronics) | $77.64 |
-| [Wheels](#wheels) | $25.45 |
-| [Aero & Body](#aero--body) | $10.00 |
-| **Total** | **~$660** |
-| **Without the battery** | **~$602** |
+| **Total** | **~$665** |
+| **Without the battery** | **~$607** |
 
-**The radio, the ESC, the motor and nearly every bearing come with the donor**, which is why this lands near half the full build. **At the top of the donor range ($250) it's ~$710.**
+**The radio, the ESC, the motor and nearly every bearing come with the donor**, which is why this lands near half the full build. **At the top of the donor range ($250) it's ~$715.**
 
-**If you own a printer this drops to ~$651**, since the $10 of printing is about $1 of filament when it's your machine and your time.
+**If you own a printer this drops to ~$656**, since the $10 of printing is about $1 of filament when it's your machine and your time.
 
 ---
 
@@ -56,7 +58,7 @@
 | **Bearings** | — | A Slash 4x4 is 1/10 class, so its bearings are **smaller than the Jato's 1/8-class set** ([`bearings_reference.md`](bearings_reference.md)). Check what transfers instead of assuming |
 | **Body** | — | You get that car's body, not a Jato one, so the free body and wing above don't apply |
 
-**Worked example, the cheap end: a $100 HCG Slash**, brushed, needing rear carriers. Keep its rear tower, make the plate, add the front tower, wing mount, a used GTR set and the combo: **~$729**. That's this car's speed out of something most people scroll straight past.
+**Worked example, the cheap end: a $100 HCG Slash**, brushed, needing rear carriers. Keep its rear tower, make the plate, add the front tower, wing mount, a used GTR set and the combo: **~$734**. That's this car's speed out of something most people scroll straight past.
 
 ### Buy the cheapest Jato you can find
 
@@ -78,13 +80,13 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 
 | New donor | Car | Build total | |
 |---|---|---|---|
-| **4S model on a holiday sale** | **$399** | **~$859** | ⭐ **The one to wait for** |
-| **Base model + the 4S combo** | $325 + **$127** = $452 | ~$912 | The base is **2S**, so it needs the [MAX10 G2 + 3665SD combo](esc_analysis.md) to reach 4S |
-| **4S model at full retail** | $549 | ~$1,009 | Only ~$100 under the real build, at which point buy the real spec |
+| **4S model on a holiday sale** | **$399** | **~$864** | ⭐ **The one to wait for** |
+| **Base model + the 4S combo** | $325 + **$127** = $452 | ~$917 | The base is **2S**, so it needs the [MAX10 G2 + 3665SD combo](esc_analysis.md) to reach 4S |
+| **4S model at full retail** | $549 | ~$1,014 | Only ~$100 under the real build, at which point buy the real spec |
 
 **Don't buy the base model to upgrade it.** $325 plus the $127 combo is **$452**, while the 4S car on a holiday sale is **$399** — **$53 cheaper, already 4S, and the combo money stays in your pocket.** The base only makes sense if you find one well under $325 or you want the MAX10 anyway.
 
-**At full retail, new stops being the cheap route.** $549 puts the build at ~$1,009 against ~$1,110 for the car as actually built, so you'd be paying nearly full price for a lesser spec. **Used at $200-250, or a sale car at $399. Those are the two that make sense.**
+**At full retail, new stops being the cheap route.** $549 puts the build at ~$1,014 against ~$1,115 for the car as actually built, so you'd be paying nearly full price for a lesser spec. **Used at $200-250, or a sale car at $399. Those are the two that make sense.**
 
 ## Chassis
 
@@ -92,6 +94,19 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 |---|---|---|---|---|
 | **Carbon fiber chassis kit, Slash 4x4 VXL TRA6808 pattern**<br><sub>Note: non-negotiable, and it **includes the aluminum bulkheads**, so the donor's front and rear bulkheads come straight off. Buying bulkheads separately is $36.99 for the Powerhobby front alone</sub> | 1 | AliExpress, RCTOYFUN | **$73.17 / kit** | [Chassis](chassis_analysis.md) |
 | **Front + rear bulkhead tie bars**<br><sub>Note: DIY from scrap aluminum instead of Traxxas 6823</sub> | 2 | DIY | **$0** | [Chassis](chassis_analysis.md#notes) |
+
+## Drivetrain
+
+**Diffs, gearbox housings and the center shaft all stay.** Only the four corner driveshafts get replaced, because the extended arms need the length and the stock shafts won't reach. **The axles live here, not with the hubs.**
+
+| Part | Qty | Source | Price | Doc |
+|---|---|---|---|---|
+| **Steel CV driveshafts, front + rear, knock-off TRA6851R / TRA6852R**<br><sub>Note: replaces all four donor driveshafts, which won't reach the extended arms</sub> | 1 | AliExpress, FengS Store | **$21.10 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
+| **Traxxas TRA6752 long output shafts**<br><sub>Note: the knock-off set's own shafts are too short to use</sub> | 4 | Nitro Hobbies | **$8.00 each** | [Driveshafts](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
+| **Tekno TKR1654-17 front stubs**<br><sub>Note: the M6 stub the long-axle build needs</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| **Tekno 5580 rear stubs**<br><sub>Note: bare stubs beat the $25.95 TKR5570-17 kit, whose hexes go unused anyway</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
+| **Traxxas TRA6484X hardened steel pinion, 11T mod 1.0**<br><sub>Note: geared down from stock to 10-11T so it runs cool **without a fan**. 5mm bore for the Velineon shaft, set screw included</sub> | 1 | AMain | **$4.00 each** | [Motor](motor_analysis.md) |
+| **10×15×4 sealed bearings, 6700-2RS**<br><sub>Note: the only bearings you buy. The donor's are 12×18×4, and the Tekno stub conversion changes the four hub corners to 10×15×4 in a sleeve. They sell in 10-packs, so the four you need come with six spares</sub> | 1 | AliExpress | **$3.08 / pack of 10** | [Bearings](bearings_reference.md#what-the-bearings-cost) |
 
 ## Suspension
 
@@ -101,7 +116,7 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 |---|---|---|---|---|
 | **FLM26800 extended arms**<br><sub>Note: don't cheap out. The extra ~10mm of track per side is a handling change, not a looks change, and it's why the donor's arms and swaybars come off</sub> | 2 | FLM | **$25.73 / pair** | [Arms](arm_analysis.md) |
 
-## Hubs & Axles
+## Hubs & Carriers
 
 **Front gets the upgrade, rear stays stock plastic.** The rear sees almost no stress, so the donor's plastic carriers are kept and the money goes to the front, where things break.
 
@@ -110,20 +125,7 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 | **Integy C26402PURPLE billet C-hubs**<br><sub>Note: pre-EHD plastic-style C-hub, which is what makes it fit the XO-1 steering blocks</sub> | 1 | eBay, jontobitt1118 | **$13.62 / pair** | [Hubs](hub_analysis.md) |
 | **GPM XO-1 alloy steering blocks** | 1 | GPM | **$19.16 / pair** | [Hubs](hub_analysis.md) |
 | **Aftermarket 17mm splined wheel hubs, E-Revo 1.0 fit**<br><sub>Note: black, 2-3mm wider per corner. Replaces the donor's stock 17mm hexes, which go unused</sub> | 1 | AliExpress | **$8.36 / set of 4** | [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes) |
-| **Tekno TKR1654-17 front stubs**<br><sub>Note: the M6 stub the long-axle build needs</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| **Tekno 5580 rear stubs**<br><sub>Note: bare stubs beat the $25.95 TKR5570-17 kit, whose hexes go unused anyway</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| **10×15×4 sealed bearings, 6700-2RS**<br><sub>Note: the only bearings you buy. The donor's are 12×18×4, and the Tekno stub conversion changes the four hub corners to 10×15×4 in a sleeve. They sell in 10-packs, so the four you need come with six spares</sub> | 1 | AliExpress | **$3.08 / pack of 10** | [Bearings](bearings_reference.md#what-the-bearings-cost) |
 | **3D-printed 18 → 15mm bearing sleeves**<br><sub>Note: printed at home, STL in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [Fitting the sleeve](bearings_reference.md#fitting-the-sleeve) |
-
-## Drivetrain
-
-**Diffs, gearbox housings and the center shaft all stay.** Only the four corner driveshafts get replaced, because the extended arms need the length and the stock shafts won't reach.
-
-| Part | Qty | Source | Price | Doc |
-|---|---|---|---|---|
-| **Steel CV driveshafts, front + rear, knock-off TRA6851R / TRA6852R**<br><sub>Note: replaces all four donor driveshafts, which won't reach the extended arms</sub> | 1 | AliExpress, FengS Store | **$21.10 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
-| **Traxxas TRA6752 long output shafts**<br><sub>Note: the knock-off set's own shafts are too short to use</sub> | 4 | Nitro Hobbies | **$8.00 each** | [Driveshafts](driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build) |
-| **Traxxas TRA6484X hardened steel pinion, 11T mod 1.0**<br><sub>Note: geared down from stock to 10-11T so it runs cool **without a fan**. 5mm bore for the Velineon shaft, set screw included</sub> | 1 | AMain | **$4.00 each** | [Motor](motor_analysis.md) |
 
 ## Steering
 
@@ -138,6 +140,22 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 | **RPM 80511 long rod ends, white**<br><sub>Note: white has been discontinued since about 2022, but nobody buys white so it's usually cheaper</sub> | 1 | Tammies Hobbies | **$7.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
 | **Traxxas TRA5525 rod ends**<br><sub>Note: for the hollow balls</sub> | 1 | Traxxas | **$9.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
 
+## Wheels & Tires
+
+| Part | Qty | Source | Price | Doc |
+|---|---|---|---|---|
+| **HSP-style 1/8 buggy wheels + tires, 112 × 43mm (86B-801 black / 86W-801 white)**<br><sub>Note: tires and foams already mounted, so one line covers rims, tires and inserts. List $32.26, about $25.45 with coupons stacked. The donor's 1/10 3.0" wheels don't fit the 17mm hubs</sub> | 1 | AliExpress | **$25.45 / set of 4** | [Wheels](wheel_analysis.md) |
+| **HFT high-strength super glue, 10-pack, SKU 68345**<br><sub>Note: glues the tires to the rims. ⚠️ **Thin liquid, not the gel** — the thin stuff wicks into the bead, the gel sits on top and doesn't</sub> | 1 | Harbor Freight, SKU 68345 | **$4.99 / pack of 10** | [Tires](wheel_analysis.md) |
+
+## Body & Aero
+
+**The body, wing and wing mount all carry over free**, and the wing mount works because the donor's rear tower is the one it bolts to. The only cost here is the printing.
+
+| Part | Qty | Source | Price | Doc |
+|---|---|---|---|---|
+| **Stock Jato 4x4 body + wing + TRA9046 wing mount** | 1 | Donor car | **$0** | [Body](aero_analysis.md#body-comparison) |
+| **3D-printed body mounts + posts, front + rear**<br><sub>Note: still needed, the CF chassis has no clipless support. **~$10 at a local print shop; about $1 of filament if the printer is yours**, which is why this is the one line that depends on who you are</sub> | 1 | Local print shop / DIY | **$10.00 / set** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
+
 ## Electronics
 
 **The ESC, motor and radio all come with the donor.** The only electronics you buy are the servo and a battery.
@@ -148,23 +166,6 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 | **Ovonic 4S 14.8V 6500mAh 120C hardcase**<br><sub>Note: **full length** (138 × 46 × 50mm), so it runs on the **stock battery posts**, no shorty tray needed. Sold as a 2-pack, so that's ~$29 a pack and you get a spare</sub> | 1 | Ovonic US | **$57.99 / 2-pack** | [Battery](battery_analysis.md) |
 | **Traxxas TQ / TQi radio**<br><sub>Note: comes with the donor, so the radio line is free</sub> | 1 | Donor car | **$0** | [Radios](../../controllers/README.md) |
 | **Receiver, mounted on the upper brace**<br><sub>Note: no RX box. The donor's receiver sits on top of the upper brace</sub> | 1 | Donor car | **$0** | [RX box](radio_analysis.md#rx-box-and-how-its-mounted) |
-
-## Wheels
-
-| Part | Qty | Source | Price | Doc |
-|---|---|---|---|---|
-| **HSP-style 1/8 buggy wheels + tires, 112 × 43mm (86B-801 black / 86W-801 white)**<br><sub>Note: tires and foams already mounted, so one line covers rims, tires and inserts. List $32.26, about $25.45 with coupons stacked. The donor's 1/10 3.0" wheels don't fit the 17mm hubs</sub> | 1 | AliExpress | **$25.45 / set of 4** | [Wheels](wheel_analysis.md) |
-
-## Aero & Body
-
-**The body, wing and wing mount all carry over free**, and the wing mount works because the donor's rear tower is the one it bolts to. The only cost here is the printing.
-
-| Part | Qty | Source | Price | Doc |
-|---|---|---|---|---|
-| **Stock Jato 4x4 body + wing + TRA9046 wing mount** | 1 | Donor car | **$0** | [Body](aero_analysis.md#body-comparison) |
-| **3D-printed body mounts + posts, front + rear**<br><sub>Note: still needed, the CF chassis has no clipless support. **~$10 at a local print shop; about $1 of filament if the printer is yours**, which is why this is the one line that depends on who you are</sub> | 1 | Local print shop / DIY | **$10.00 / set** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
-
----
 
 ## What comes off the donor and doesn't go back on
 

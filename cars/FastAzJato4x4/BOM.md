@@ -2,7 +2,7 @@
 
 Everything on the car, nothing that isn't. **Qty** is how much of the product was bought, **Price** is what it cost and what that covers, and anything else sits in a small note under the part. The reasoning behind each pick is in the linked doc.
 
-> **This is not the cheapest way to build a car this fast.** It's a good base with my personal touches bolted on and a few bad decisions I paid for. The **[bare-bones BOM](BOM_barebones.md)** is the cheap version: start from a **$200 running Jato 4x4** and spend ~$460 on the parts that matter, for about **$660 all in**. **This list isn't the final spec for this car either**. It's here so you can see what it actually took, if you want something just as quick. The money that can come back off is in [Building It Cheaper](README.md#building-it-cheaper).
+> **This is not the cheapest way to build a car this fast.** It's a good base with my personal touches bolted on and a few bad decisions I paid for. The **[bare-bones BOM](BOM_barebones.md)** is the cheap version: start from a **$200 running Jato 4x4** and spend ~$465 on the parts that matter, for about **$665 all in**. **This list isn't the final spec for this car either**. It's here so you can see what it actually took, if you want something just as quick. The money that can come back off is in [Building It Cheaper](README.md#building-it-cheaper).
 
 <p align="center"><img src="src/overview_fastazjato_parts_collage.jpg" width="900"><br><em>Most of the parts on the car. A few have no photo yet, so the tables below are the full list.</em></p>
 
@@ -10,28 +10,27 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 
 | Section | Subtotal |
 |---|---|
-| [Electronics](#electronics) | $383.73 |
+| [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
 | [Drivetrain](#drivetrain) | $172.00 |
 | [Suspension](#suspension) | $180.71 |
-| [Hubs](#hubs) | $109.87 |
+| [Hubs & Carriers](#hubs--carriers) | $109.87 |
 | [Steering](#steering) | $84.53 |
-| [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
-| [Aero & Body](#aero--body) | $36.68 |
-| [Wheels](#wheels) | $51.93 |
-| **Total** | **~$1,110** |
-| **Car only, without the battery and radio** | **~$876** |
+| [Wheels & Tires](#wheels--tires) | $56.92 |
+| [Body & Aero](#body--aero) | $36.68 |
+| [Electronics](#electronics) | $383.73 |
+| **Total** | **~$1,115** |
+| **Car only, without the battery and radio** | **~$881** |
 
 ---
 
-## Electronics
+## Chassis & Bumpers
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **HobbyWing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo, 38020343** | 1 | Hobbywing direct | **$127.00 / combo** | [ESC](esc_analysis.md), [Motor](motor_analysis.md) |
-| **PTK 9752TG-D servo** | 1 | AliExpress, PTK Servo Store | **$19.65 each** | [Servo](servo_analysis.md) |
-| **Gens Ace Redline 2.0 4S HV 6000mAh 140C shorty, GEA60004S14S**<br><sub>Note: 410 g</sub> | 1 | eBay, mugrc-store | **$92.26 each** | [Battery](battery_analysis.md) |
-| **FlySky Noble NB4 radio**<br><sub>Note: running the FGr4S V2 receiver</sub> | 1 | AliExpress, Hi-Goeswell | **$140.91 each** | [Radio](radio_analysis.md) |
-| **Receiver box**<br><sub>Note: knock-off clear blue Slash 4x4 LCG battery box, used for the RX. $3.34 for 2 pcs, $3.91 with fees</sub> | 1 | AliExpress, Goodluck RC Store | **$3.91 / pair** | [RX box](radio_analysis.md#rx-box-and-how-its-mounted) |
+| **Carbon fiber chassis kit, Slash 4x4 VXL TRA6808 pattern** | 1 | AliExpress, RCTOYFUN | **$73.17 / kit** | [Chassis](chassis_analysis.md) |
+| **Front + rear bulkhead tie bars**<br><sub>Note: DIY from scrap aluminum instead of Traxxas 6823. The front is filed to clear the arm, which may not be needed once FLM updates the arms</sub> | 2 | DIY | **$0** | [Chassis](chassis_analysis.md#notes) |
+| **RPM 81042 wide front bumper, black**<br><sub>Note: gifted by Mike. The price is retail and still counts in the total, so the build cost reflects what it takes to buy one</sub> | 1 | Mike (gift) | **$9.95 each** | [Bumpers](bumper_analysis.md) |
+| **Traxxas TRA9044 skid plates**<br><sub>Note: front + rear set, rear only used</sub> | 1 | Tammies Hobbies | **$7.00 / set** | [Bumpers](bumper_analysis.md) |
 
 ## Drivetrain
 
@@ -65,7 +64,7 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | **HB Racing HBS67410 shock standoffs**<br><sub>Note: rear CF tower</sub> | 1 | AMain | **$3.99 / pair** | [Standoffs](shock_analysis.md#shock-standoffs--mounting) |
 | **Traxxas wheelie bar shoulder screws, TRA4976**<br><sub>Note: front upper shock mounts. These came off a free TRA5472 wheelie bar; TRA4976 (wheels + axles) is the cheapest way to buy the same screw</sub> | 1 | Free wheelie bar | **$0**, rebuy **$4 / set of 2** | [Shoulder screws](shock_tower_analysis.md#front-shock-mounting-wheelie-bar-shoulder-screws) |
 
-## Hubs
+## Hubs & Carriers
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
@@ -86,16 +85,16 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | **RPM 80511 long rod ends, white**<br><sub>Note: white has been discontinued since about 2022, but nobody buys white so it's usually cheaper than the black or blue</sub> | 1 | Tammies Hobbies | **$7.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
 | **Traxxas TRA5525 rod ends**<br><sub>Note: for the hollow balls</sub> | 1 | Traxxas | **$9.00 / pack of 12** | [Tie rods](tie_rod_analysis.md#rod-ends-the-plastic) |
 
-## Chassis & Bumpers
+## Wheels & Tires
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Carbon fiber chassis kit, Slash 4x4 VXL TRA6808 pattern** | 1 | AliExpress, RCTOYFUN | **$73.17 / kit** | [Chassis](chassis_analysis.md) |
-| **Front + rear bulkhead tie bars**<br><sub>Note: DIY from scrap aluminum instead of Traxxas 6823. The front is filed to clear the arm, which may not be needed once FLM updates the arms</sub> | 2 | DIY | **$0** | [Chassis](chassis_analysis.md#notes) |
-| **RPM 81042 wide front bumper, black**<br><sub>Note: gifted by Mike. The price is retail and still counts in the total, so the build cost reflects what it takes to buy one</sub> | 1 | Mike (gift) | **$9.95 each** | [Bumpers](bumper_analysis.md) |
-| **Traxxas TRA9044 skid plates**<br><sub>Note: front + rear set, rear only used</sub> | 1 | Tammies Hobbies | **$7.00 / set** | [Bumpers](bumper_analysis.md) |
+| **IMEX IMX7893 1/8 Rally chrome rims**<br><sub>Note: list price, glued rally slicks removed</sub> | 2 | IMEX Model Company | **$19.99 / pair** | [Rims](wheel_analysis.md#rims-bare-wheels) |
+| **Kforce 26013 1/8 buggy tires, Mitsubishi-logo tread**<br><sub>Note: 110 × 43mm, natural rubber 35°. The seller also calls it triangle tread, practice compound</sub> | 1 | AliExpress | **$3.87 / set of 4** | [Tires](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
+| **Closed-cell foam inserts, blue** | 1 | AliExpress | **$8.08 / set of 4** | [Foams](wheel_analysis.md#foam-inserts) |
+| **HFT high-strength super glue, 10-pack, SKU 68345**<br><sub>Note: glues the tires to the rims. ⚠️ **Thin liquid, not the gel** — the thin stuff wicks into the bead, the gel sits on top and doesn't</sub> | 1 | Harbor Freight, SKU 68345 | **$4.99 / pack of 10** | [Tires](wheel_analysis.md) |
 
-## Aero & Body
+## Body & Aero
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
@@ -103,10 +102,12 @@ Everything on the car, nothing that isn't. **Qty** is how much of the product wa
 | **3D-printed body mounts + posts, front + rear**<br><sub>Note: printed at home, STL + editable STEP in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 | **AJRC body clips, 50 pcs silver**<br><sub>Note: 1/5 to 1/16 R-clips, listed $6.31, paid $2.21 on sale. 50 of them is a lifetime supply</sub> | 1 | AliExpress, AJRC Official Store | **$2.21 / pack of 50** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 
-## Wheels
+## Electronics
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **IMEX IMX7893 1/8 Rally chrome rims**<br><sub>Note: list price, glued rally slicks removed</sub> | 2 | IMEX Model Company | **$19.99 / pair** | [Rims](wheel_analysis.md#rims-bare-wheels) |
-| **Kforce 26013 1/8 buggy tires, Mitsubishi-logo tread**<br><sub>Note: 110 × 43mm, natural rubber 35°. The seller also calls it triangle tread, practice compound</sub> | 1 | AliExpress | **$3.87 / set of 4** | [Tires](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
-| **Closed-cell foam inserts, blue** | 1 | AliExpress | **$8.08 / set of 4** | [Foams](wheel_analysis.md#foam-inserts) |
+| **HobbyWing EZRun MAX10 G2 140A + 3665SD G3 2400KV combo, 38020343** | 1 | Hobbywing direct | **$127.00 / combo** | [ESC](esc_analysis.md), [Motor](motor_analysis.md) |
+| **PTK 9752TG-D servo** | 1 | AliExpress, PTK Servo Store | **$19.65 each** | [Servo](servo_analysis.md) |
+| **Gens Ace Redline 2.0 4S HV 6000mAh 140C shorty, GEA60004S14S**<br><sub>Note: 410 g</sub> | 1 | eBay, mugrc-store | **$92.26 each** | [Battery](battery_analysis.md) |
+| **FlySky Noble NB4 radio**<br><sub>Note: running the FGr4S V2 receiver</sub> | 1 | AliExpress, Hi-Goeswell | **$140.91 each** | [Radio](radio_analysis.md) |
+| **Receiver box**<br><sub>Note: knock-off clear blue Slash 4x4 LCG battery box, used for the RX. $3.34 for 2 pcs, $3.91 with fees</sub> | 1 | AliExpress, Goodluck RC Store | **$3.91 / pair** | [RX box](radio_analysis.md#rx-box-and-how-its-mounted) |

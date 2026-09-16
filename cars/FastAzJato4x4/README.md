@@ -9,7 +9,7 @@
   <img alt="Status" src="https://img.shields.io/badge/status-built%20%26%20running-2ea44f?style=for-the-badge">
   <img alt="Power" src="https://img.shields.io/badge/power-4S%20LiPo-d7263d?style=for-the-badge">
   <img alt="Weight" src="https://img.shields.io/badge/weight-2.868%20kg-444?style=for-the-badge">
-  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24876-444?style=for-the-badge">
+  <img alt="Build cost" src="https://img.shields.io/badge/build-~%24881-444?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
 | 🔧 **Wheel cost** | ~$52 up front (rims + tires + foams), ~$4 per tire change after that |
 | ⚖️ **Weight** | 2.868 kg all up |
-| 💰 **Build cost** | ~$876 for the car, ~$1,110 with the battery and radio, see [`BOM.md`](BOM.md) |
+| 💰 **Build cost** | ~$881 for the car, ~$1,115 with the battery and radio, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
 ## Table of Contents
@@ -229,9 +229,9 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 | IMEX chrome rims + Kforce tires + blue race foams | $51.93 | HSP-style swirl wheels, tires **and** foams already on, [`wheel_analysis.md`](wheel_analysis.md) | ~$25.45 | **~$26.48** |
 | **Total** | | | | **~$146** |
 
-**That lands the same car near ~$964 all in, or ~$823 without the radio**, against ~$1,110 as built.
+**That lands the same car near ~$969 all in, or ~$828 without the radio**, against ~$1,115 as built.
 
-> **Taken all the way, that's the [bare-bones BOM](BOM_barebones.md): ~$660.** Buy a **running Jato 4x4 VXL for $200** (the market is $200-250) and spend ~$460 on the parts that actually matter — CF chassis, FLM arms, front alloy hubs, titanium rods, the long-axle conversion and a servo. The donor's ESC, motor, radio, bearings, diffs, shocks, towers, body and wing all stay on the car.
+> **Taken all the way, that's the [bare-bones BOM](BOM_barebones.md): ~$665.** Buy a **running Jato 4x4 VXL for $200** (the market is $200-250) and spend ~$465 on the parts that actually matter — CF chassis, FLM arms, front alloy hubs, titanium rods, the long-axle conversion and a servo. The donor's ESC, motor, radio, bearings, diffs, shocks, towers, body and wing all stay on the car.
 
 **Rear stubs, confirmed:** buying the **bare rear stubs at $16.90 a pair** beats the $25.95 TKR5570-17 kit, whose hexes go unused since the car runs the $8.36 aftermarket 17mm hubs. **Saves $9.05.**
 
