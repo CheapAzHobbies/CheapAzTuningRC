@@ -115,7 +115,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **CNHL Ultra-Thin Racing LiHV 4S 6000mAh 120C** | 1 | ChinaHobbyLine, order #20269753705 | **$71.00 each** | [Packs](battery_analysis.md#the-packs) |
 | **CNHL Lightning LiHV 4S 5500mAh 120C** | 1 | ChinaHobbyLine, order #20269753705 | **$54.46 each** | [Packs](battery_analysis.md#the-packs) |
 | **CNHL Racing Series 4S 5200mAh 90C** | 1 | ChinaHobbyLine, order #20269753705 | **$52.51 each** | [Packs](battery_analysis.md#the-packs) |
-| **3D printed battery bar**<br><sub>Note: what actually holds the pack down. Flexes enough to clear a 47mm pack against a 44mm ceiling</sub> | 1 | Printed in house | **$0** (filament) | [Retention](battery_analysis.md#holding-the-pack-down) |
+| **3D printed battery bar**<br><sub>Note: what actually holds the pack down. Flexes enough to clear a 47mm pack against a 44mm ceiling</sub> | 1 | Printed in house | **$0** (filament) | [Retention](battery_mount_analysis.md#holding-the-pack-down) |
 
 ---
 
@@ -139,4 +139,4 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 - **Prices are what was paid**, taken from the linked analysis docs and the [LEDGER](../../LEDGER.md). Where a price is the FastAz purchase of the same item rather than Mike's own receipt, the row says so.
 - **The ledger is Mike's whole account, not this car.** It also covers boats, planes and micro servos, so only lines explicitly tied to the Jato or Slash are used here. The two ambiguous ones (a second PTK servo, the metal fans) are flagged rather than counted.
 - **Retired parts are not listed.** The Lighthouse alloy front set ($24.67) broke and came off, so it sits in [`hub_analysis.md`](hub_analysis.md#price-history) rather than here.
-- **Strap alternatives are not listed either.** The car runs the printed bar; the [Hot Racing and GPM kits](battery_analysis.md#holding-the-pack-down) are options, not parts on the car.
+- **Strap alternatives are not listed either.** The car runs the printed bar; the [Hot Racing and GPM kits](battery_mount_analysis.md#holding-the-pack-down) are options, not parts on the car.

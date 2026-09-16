@@ -106,7 +106,7 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 
 ## Batteries
 
-> **All of it lives in [`battery_analysis.md`](battery_analysis.md):** the retainers and bar heights, the max pack size, the four packs and the IR checks.
+> **Two docs:** [`battery_analysis.md`](battery_analysis.md) for the packs and the IR checks, [`battery_mount_analysis.md`](battery_mount_analysis.md) for the retainers, bar heights and max pack size.
 
 ⚠️ **Low-voltage cutoff: 3.5V per cell.** HV packs stay punchy right to the end, so nothing warns you that they're nearly done.
 
