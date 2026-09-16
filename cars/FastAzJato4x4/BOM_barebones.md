@@ -34,7 +34,20 @@
 |---|---|---|---|---|
 | **Running Traxxas Jato 4x4 VXL, 90386-4**<br><sub>Note: the 4S model, bought used and running. Supplies the bearings, diffs, gearbox housings, shock towers, GTR shocks, body, wing, wing mount, radio and the 4S brushless system. **$200-250 is the market**, above that they don't sell</sub> | 1 | Used, private sale | **$200.00 each** | [Bearings](bearings_reference.md) |
 
-**A Slash 4x4 works too.** The [CF chassis kit](chassis_analysis.md) is a **Slash 4x4 VXL (TRA6808) pattern**, so a Slash 4x4 donor drops onto it natively rather than in spite of it. **The variable is the rear hubs:** depending on the trim you may need to buy EHD rear carriers, and stock **TRA9050** EHD plastic is **$6.00 a pair** at Traxxas (about $6.99 at dealers), hinge pins and screws included. On a trim that already has them, it's a straight swap and costs nothing. Slashes are also more common used than Jatos, so the donor is easier to find.
+**A Slash 4x4 works too, and it's the cheap way in.** The [CF chassis kit](chassis_analysis.md) is a **Slash 4x4 VXL (TRA6808) pattern**, and this build is already half Slash anyway: the diffs are knock-off Slash 4x4, the CVDs are TRA6851R / TRA6852R clones, and the **TRA6881 / TRA6880 gearbox housings are the Slash 4x4 / Jato 4x4 family part**. A Slash donor fits this list natively rather than in spite of it, and they're far more common used than Jatos.
+
+**Even an old HCG Slash 4x4 does the job, and those go for $50-150.** The high-center-of-gravity chassis is the usual reason to avoid one, and **here it doesn't matter at all, because the stock chassis gets binned for the CF plate either way**. You're buying it for the drivetrain, not the chassis.
+
+**What a Slash donor changes:**
+
+| | |
+|---|---|
+| **Rear hubs** | May need EHD rear carriers depending on trim. **TRA9050 is $6.00 a pair** from Tammies or any local shop, hinge pins and screws included. Nothing at all on a trim that already has them |
+| **Power** | An older or brushed Slash isn't 4S. Add the [MAX10 G2 + 3665SD combo](esc_analysis.md) at **$127** for the power this build assumes |
+| **Bearings** | A Slash 4x4 is 1/10 class, so its bearings are **smaller than the Jato's 1/8-class set** ([`bearings_reference.md`](bearings_reference.md)). Check what actually transfers instead of assuming the whole set does |
+| **Body** | You get a Slash truck body, not a Jato one, so the free body and wing above don't apply |
+
+**Roughly: a $100 HCG Slash plus the $127 combo and $6 of carriers lands near $694**, in the same range as the $200 Jato route but on a donor that's much easier to find cheap. Go lower on the donor and it drops below the Jato path outright.
 
 **Or buy new.** A **base model Jato 4x4 is about $325 new**, $125 over a good used one, for an undamaged car with a warranty and no previous owner's crashes in it. ⚠️ **Check the trim before counting on that number:** if it's the **BL-2S (90154-4)** that's a **2S** brushless system, so add the [MAX10 G2 + 3665SD combo](esc_analysis.md) at **$127** to get the 4S power this build assumes, landing near **$912**. If the $325 car is already 4S-capable, it's **~$785** and nothing else on this list changes.
 
