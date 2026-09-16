@@ -1,8 +1,8 @@
 # Motor Selection — Jato4x4_Mike
 
-> **Running: Castle Creations 1412 3200KV on a 12T 32P pinion and 54T spur.** The motor is the same one the [FastAzJato4x4](../FastAzJato4x4/motor_analysis.md#castle-creations-1412-3200kv--in-hand) has in hand, so its specs are not repeated here. **What is unique to this car is the gearing, and the finding that came out of it.**
+> **Running: Castle Creations 1412 3200KV on an 11T 32P pinion and 54T spur, through a Castle Mamba X 6S.** The motor is the same one the [FastAzJato4x4](../FastAzJato4x4/motor_analysis.md#castle-creations-1412-3200kv--in-hand) has in hand, so its specs are not repeated here. **What is unique to this car is the gearing, and the finding that came out of it.**
 >
-> **12T on a 54T spur is the keeper combo**, and it overturned the assumption the build started with.
+> **Gearing for the power band beat chasing the smallest pinion**, which overturned the assumption the build started with. ⚠️ **The write-up below was recorded at 12T; the car now runs 11T**, so whether it moved or the 12T was a slip is 🚧 unconfirmed.
 
 <p align="center"><img src="../FastAzJato4x4/src/electronics_castle_1412_3200kv.jpg" width="500"><br><em>Castle Creations 1412 3200KV, shared with the FastAz. Full specs in that doc</em></p>
 
@@ -30,8 +30,9 @@
 | Item | Spec |
 |---|---|
 | **Motor** | **Castle Creations 1412 3200KV** (specs in the [FastAz doc](../FastAzJato4x4/motor_analysis.md#castle-creations-1412-3200kv--in-hand)) |
-| **Pinion** | **12T 32P** |
+| **Pinion** | **11T 32P** (the finding above was recorded at 12T) |
 | **Spur** | **54T** |
+| **ESC** | **Castle Mamba X**, 6S. Specs in the [FastAz ESC analysis](../FastAzJato4x4/esc_analysis.md#esc-comparison): 2-6S, 8A adjustable BEC, SmartSense, waterproof, 101g, ~$190, and Castle **officially supports the 1412** on it |
 | **Cooling** | N/A 🚧 not recorded |
 
 ---

@@ -54,7 +54,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Traxxas TRA5135 10k diff oil**<br><sub>Note: rear, run greased. Same caveat as above</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
 | **54T spur gear** | 1 | 🚧 not recorded | **🚧** | [Drivetrain](README.md#drivetrain) |
-| **12T 32P pinion** | 1 | 🚧 not recorded | **🚧** | [Motor](motor_analysis.md) |
+| **11T 32P pinion** | 1 | 🚧 not recorded | **🚧** | [Motor](motor_analysis.md) |
 
 ## Suspension
 
@@ -103,7 +103,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Castle Creations 1412 3200KV motor**<br><sub>Note: price is the non-warranty RMA replacement. Bearings replaced 2026-09-06</sub> | 1 | Castle Creations | **$94.00 each** | [Motor](motor_analysis.md) |
-| **ESC** | 1 | 🚧 not recorded | **🚧** | [Motor](motor_analysis.md) |
+| **Castle Mamba X ESC, 6S**<br><sub>Note: runs the 1412 3200KV, which Castle officially supports on it. 🚧 price not recorded, listed around $190</sub> | 1 | 🚧 not recorded | **🚧** | [Motor](motor_analysis.md) |
 | **Radio + receiver** | 1 | 🚧 not recorded | **🚧** | [Electronics](README.md#electronics) |
 | **Motor cooling fan**<br><sub>Note: ⚠️ two metal fans at $6 each are on Mike's ledger, but cooling is not recorded on this car, so they may be for something else</sub> | 🚧 | 🚧 unconfirmed | **🚧** | [Motor](motor_analysis.md) |
 
@@ -127,8 +127,8 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 |---|---|
 | **The running Slash 4x4 donor** | The single biggest line. Without it the total is parts-only |
 | **Shocks, towers, wing** | The three parts that turn a Slash into a Jato, so they are the conversion cost |
-| **ESC and radio** | Not documented anywhere for this car, not just unpriced |
-| **Spur and pinion** | The 54T / 12T combo is the car's best tuning finding, and it has no cost |
+| **Radio** | Not documented anywhere for this car, not just unpriced. The ESC is now known (Mamba X 6S), just unpriced |
+| **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
 | **Servo** | Two PTK servos on the ledger, neither confirmed to this car |
 | **Bare Jato rims, TRA6469 hexes, shock oils** | Small money, but they round the list out |
 

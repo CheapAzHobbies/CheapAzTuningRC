@@ -83,7 +83,7 @@
 
 | Position | Part |
 |----------|------|
-| Pinion | **12T 32P** |
+| Pinion | **11T 32P** |
 | Spur | **54T** |
 
 ### Custom Axles (shared with FastAzJato4x4)
@@ -139,6 +139,7 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 | Component | Part |
 |-----------|------|
 | Motor | **Castle Creations 1412 3200KV** |
+| ESC | **Castle Mamba X**, 6S. Officially supports the 1412, see [FastAz](../FastAzJato4x4/esc_analysis.md#esc-comparison) |
 
 **Motor bearing service tracking:** bearings replaced ~2026-09-06, first run on them 2026-09-12. Tracked by weekend run count (no battery tracker for this car) in [`maintenance/README.md`](../../maintenance/README.md), the goal is catching the next replacement before they blow rather than after.
 
@@ -148,7 +149,7 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 
 ## Tuning Notes
 
-**12T 32P pinion on a 54T spur + Castle 1412 3200KV is the keeper combo.**
+**Gearing for the power band, not the smallest pinion, is the finding.** ⚠️ It was recorded at **12T**; the car now runs **11T**.
 
 Original intuition was that **higher RPM** = better air control, so chasing the smallest pinion was the obvious move. Real-world finding: **torque matters as much as RPM**, gearing for the **power-band sweet spot** (12T here, not the tiniest pinion) makes mid-air corrections feel just as responsive as the high-RPM theory promised, *and* keeps the motor cooler because it's neither lugging nor screaming.
 
