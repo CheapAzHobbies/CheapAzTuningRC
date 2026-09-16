@@ -57,7 +57,7 @@
 | ~~LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm~~ (black) | **Broke**, retired | 25.5 g bare · 36.4 g w/ hardware |
 | ~~LIGHT HOUSE Aluminum Front Hub/Knuckle Arm~~ (black) | **Broke**, retired | 22.4 g bare · 34.9 g w/ hardware |
 
-> **Why the change:** the Lighthouse front C-hub and carrier broke, so Mike moved onto a **MonsterKingz metal set (front + rear) bought off the FastAzJato4x4 for $50** (2026-09-07). He runs the alloy steering block with the **stock plastic C-hub** up front for now, and the plan is to **shave the MonsterKingz rear hub down** so it looks like a Raptor R alloy hub for less money. That's the set demoted from the FastAzJato4x4 for being too fat and heavy, see [`LEDGER.md`](../../LEDGER.md).
+> **Why the change:** the Lighthouse front C-hub and carrier broke, so Mike moved onto a **MonsterKingz metal set (front + rear) bought off the FastAzJato4x4 for $50** (2026-09-07). **To be fair to the part, it didn't fail stock:** he'd **filed the hinge pocket at the bottom for more droop**, which took material out exactly where the C-hub carries load. **Too much droop turned out to be bad anyway**, so the mod cost him the hub and gained nothing. He runs the alloy steering block with the **stock plastic C-hub** up front for now, and the plan is to **shave the MonsterKingz rear hub down** so it looks like a Raptor R alloy hub for less money. That's the set demoted from the FastAzJato4x4 for being too fat and heavy, see [`LEDGER.md`](../../LEDGER.md).
 
 > The MonsterKingz alloy also **widens the track 1-2mm per side**, see [`FastAzJato4x4/hub_analysis.md`](../FastAzJato4x4/hub_analysis.md).
 
