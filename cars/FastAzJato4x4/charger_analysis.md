@@ -91,6 +91,33 @@ Smaller extras on hand:
 
 ---
 
+## Series charging, the forbidden method
+
+> ⚠️ **This is the one that burns things.** Charging two 3S packs wired in series as a single 6S is completely doable and I do it, but it asks for competence rather than confidence. Get the balance leads the wrong way round and you **short cells straight through the balance wires** — they're the thinnest wire in the whole setup, so they go first, and nothing in the charger will save you. **If you're not sure, charge the two packs separately.** Nothing is lost but time.
+
+<p align="center"><img src="../ERevo_1.0/src/electronics_hoovo_3s_4200_ir_check.jpg" width="440"><br><em>Two HOOVO 4200 3S packs in series as 6S on the B6neo, through an XH series adaptor board. The charger reads all six cells (8/7/7/6/8/8 mΩ, Σ 44 mΩ), which is the confirmation you're looking for before starting</em></p>
+
+**The rule that matters, and it's the whole trick:**
+
+> **Follow the black wire.** The pack whose **black main lead** goes to the charger's **negative** is the bottom of the string, so **that pack is cells 1, 2, 3.** The other pack — the one whose red main runs to the charger's positive — is **cells 4, 5, 6.** The balance plugs have to go into the adaptor in that same order, because **the balance taps must follow the power path.**
+
+**Use a series balance adaptor board**, like the XH one in the photo. It merges the two 3S plugs into a single 6S plug and, more importantly, **the board enforces the cell order for you** so there's nothing to get creative about. Freehanding it with loose leads is how people get this wrong.
+
+**Before you connect anything:**
+
+- **Both packs must match** — same cell count, same capacity, same chemistry, and ideally similar age and IR.
+- **Same state of charge.** Check them individually first and get them within about **0.05 V per cell** of each other. Series-charging packs at different levels means one finishes early and the other keeps taking current.
+
+**Before you press start:**
+
+- The charger must report **6S**, not 3S. If it sees 3S, the balance side isn't wired the way you think it is.
+- **All six cell voltages should look plausible and similar.** The screen in that photo is doing exactly this job.
+- **Stop immediately** if a cell reads zero or wildly out, if the count is wrong, or if anything gets warm while idle.
+
+**And the ordinary precautions still apply:** sane charge rate, bag or concrete, don't leave it alone. **The safer alternative is always charging each 3S on its own** — the only thing series buys you is one charge cycle instead of two.
+
+---
+
 ## Notes
 
 - **All the modern ones do LiHV** (the only exception is the vetoed **iMAX B6**, and possibly the Dynamite-badged quad), so the **Gens Ace 15.2V HV pack** charges fine on any recommended charger, just select the LiHV/HV mode, not standard LiPo (LiHV tops at 4.35V/cell vs 4.2V).
