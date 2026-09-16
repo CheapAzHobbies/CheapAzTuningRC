@@ -6,7 +6,7 @@ Not a tuning decision, just the full list of bearings the build needs. The basel
 
 The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10×15×4 in a sleeve**, not a bare 10×18×5. The sleeve fills the hub's 18mm pocket down to 15mm, so a common cheap bearing does the job and **nothing has to be shaved**. The rest is the stock kit.
 
-> **[Mike's Jato](../Jato4x4_Mike/README.md) took the other route:** a **larger bearing straight into the inner wheel hub**, which works but **means shaving down the 17mm hex adapters to clear it**, not the hub carriers. Same problem, two answers. This car sleeves the pocket down, his opens the hub up.
+> **[Mike's Jato](../Jato4x4_Mike/bearings_reference.md) took the other route:** a **larger bearing straight into the inner wheel hub**, which works but **means shaving down the 17mm hex adapters to clear it**, not the hub carriers. Same problem, two answers. This car sleeves the pocket down, his opens the hub up.
 
 | Size (mm) | Qty | Where on this car |
 |---|---|---|
@@ -55,7 +55,7 @@ What you actually spend up front is more, because you're buying packs: the order
 
 **Plus the bushings, $5.00.** The four **TRA3775 Oilite** at the bell crank pivots (see above, they replaced the TRA5114 bearings) are listed apart from the table because they aren't bearings, and they're fitted precisely because a ball bearing fails in that spot. **Everything that spins or pivots on this car therefore comes to $12.21.**
 
-**Not in either number:** the **10×18×5** stainless (S61810ZZ, $14.45 / 10-pack = **$1.45 each**), bought to have the option of [Mike's route](../Jato4x4_Mike/README.md) — the bare big bearing straight into the hub. This car sleeves down to 10×15×4 instead, so those aren't fitted.
+**Not in either number:** the **10×18×5** stainless (S61810ZZ, $14.45 / 10-pack = **$1.45 each**), bought to have the option of [Mike's route](../Jato4x4_Mike/bearings_reference.md) — the bare big bearing straight into the hub. This car sleeves down to 10×15×4 instead, so those aren't fitted.
 
 ---
 
@@ -87,7 +87,7 @@ What you actually spend up front is more, because you're buying packs: the order
 **It comes down to 1mm.** The off-the-shelf answer is a **10×18×5**, but that's **5mm thick against a 4mm pocket**, so 1mm has to come out of something. Three places it can come from, compared in [the table below](#bearings-by-position-all-four-routes):
 
 - **Nothing, if you sleeve instead.** ⭐ **What this car does.** A sleeve, **18mm OD × 15mm ID × 4mm**, fills the pocket down to 15mm and a common **10×15×4** drops in. ✅ **Printed in PETG, fitted, working**, so no lathe needed. Turn it in brass if you'd rather. Press in with green Loctite. 🚧 Save the STL into `3d-models/`.
-- **The 17mm hex adapters.** What [Mike's Jato](../Jato4x4_Mike/README.md) does. Shave them down, run the bigger bearing, nothing to make.
+- **The 17mm hex adapters.** What [Mike's Jato](../Jato4x4_Mike/bearings_reference.md) does. Shave them down, run the bigger bearing, nothing to make.
 - **The carrier's bearing pocket.** 🔵 **Technically the best answer, if you have the tools.** Stock adapters, the bigger bearing, nothing else modified, and the 1mm comes out of the part that can most afford it. **The catch is purely access to tooling:** cutting 1mm out of an alloy carrier and keeping it square wants a lathe or a mill. Off-axis and the bearing sits cocked, which is worse than either other route, so it's the right answer only if you can do it properly. Most people can't, which is why the adapters get shaved on Mike's car instead.
 
 Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**, and the front/rear hubs are **Traxxas Raptor R Ultimate EHD alloy** (same 6×12×4 / 12×18×4 EHD bearing sizes as the kit).

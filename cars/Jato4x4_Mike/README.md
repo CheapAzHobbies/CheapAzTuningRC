@@ -63,21 +63,7 @@
 | ~~LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm~~ (black) | **Broke**, retired | 25.5 g bare · 36.4 g w/ hardware |
 | ~~LIGHT HOUSE Aluminum Front Hub/Knuckle Arm~~ (black) | **Broke**, retired | 22.4 g bare · 34.9 g w/ hardware |
 
-> **Why the change:** the Lighthouse front C-hub and carrier broke, so Mike moved onto a **MonsterKingz metal set (front + rear) bought off the FastAzJato4x4 for $50** (2026-09-07). **To be fair to the part, it didn't fail stock:** he'd **filed the hinge pocket at the bottom for more droop**, which took material out exactly where the C-hub carries load. **Too much droop turned out to be bad anyway**, so the mod cost him the hub and gained nothing. He runs the alloy steering block with the **stock plastic C-hub** up front for now, and the plan is to **shave the MonsterKingz rear hub down** so it looks like a Raptor R alloy hub for less money. That's the set demoted from the FastAzJato4x4 for being too fat and heavy, see [`LEDGER.md`](../../LEDGER.md).
-
-> The MonsterKingz alloy also **widens the track 1-2mm per side**, see [`FastAzJato4x4/hub_analysis.md`](../FastAzJato4x4/hub_analysis.md).
-
-### Weighed-in photos
-
-<p align="center">
-  <img src="src/steering_lighthouse_aluminum_knuckle_bare_weight.jpg" width="380">&nbsp;<img src="src/steering_lighthouse_aluminum_knuckle_with_hardware_weight.jpg" width="380"><br>
-  <em>Knuckles bare: 22.4 g · Knuckles + hardware kit: 34.9 g</em>
-</p>
-
-<p align="center">
-  <img src="src/steering_lighthouse_aluminum_c_hub_bare_weight.jpg" width="380">&nbsp;<img src="src/steering_lighthouse_aluminum_c_hub_with_hardware_weight.jpg" width="380"><br>
-  <em>C-hubs bare: 25.5 g · C-hubs + hardware kit: 36.4 g</em>
-</p>
+> **Why the change:** the Lighthouse front C-hub and carrier broke, so Mike moved onto a **MonsterKingz metal set bought off the FastAzJato4x4 for $50** (2026-09-07). **It didn't fail stock**, he'd filed the hinge pocket for droop. Full write-up, the measured Lighthouse weights, the shaved 17mm hexes and the planned rear shave are all in [`hub_analysis.md`](hub_analysis.md).
 
 ---
 
@@ -101,7 +87,7 @@
 
 ### Custom Axles (shared with FastAzJato4x4)
 
-> **Bearings:** this car runs a **bare 10×18×5 in the hub**, which needed the **17mm hex adapters shaved down** to fit, not the hub carriers. The FastAz solves the same problem with a sleeve instead. **Both end up on the same 10×18×5** — the difference is only which part gives up the 1mm. All four routes, including stock BL-2S, are compared in [`FastAzJato4x4/bearings_reference.md`](../FastAzJato4x4/bearings_reference.md#bearings-by-position-all-four-routes).
+> **Bearings:** this car runs a **bare 10×18×5 in the hub**, which needed the **17mm hex adapters shaved down** to fit, not the hub carriers. The FastAz solves the same problem with a sleeve and a 10×15×4 instead, so only the hub position differs. Full list, costs and the route comparison in [`bearings_reference.md`](bearings_reference.md).
 
 Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is dialed on an **adjustable threaded prototype** first, then the **final axles are welded** to that length (simpler, tools on hand, a fresh set is cheap to remake). **Shorter axle = front.** Full build write-up and the rejected join methods are in [`FastAzJato4x4/driveshaft_analysis.md`](../FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip).
 
