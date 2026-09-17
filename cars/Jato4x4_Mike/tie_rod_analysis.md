@@ -4,8 +4,12 @@
 >
 > **Full comparison:** [FastAzJato4x4 tie rod analysis](../FastAzJato4x4/tie_rod_analysis.md).
 
+<div align="center">
+
 | Item | Spec |
 |---|---|
 | **Turnbuckles** | **ACER Racing M4 × 60mm titanium**, ×2 |
 | **Price** | **$11.98 / pair** (ACER order #581093) |
 | **Rod ends** | 🚧 not recorded |
+
+</div>

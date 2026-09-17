@@ -12,6 +12,8 @@
 
 ## What's running
 
+<div align="center">
+
 | Item | Spec |
 |---|---|
 | **Part** | **010-0155-13**, Mamba X SCT + 1412-3200KV 5mm combo |
@@ -22,15 +24,21 @@
 | **Cells run** | **4S**, the combo's ceiling |
 | **Cutoff** | **3.5V per cell**, see [`battery_analysis.md`](battery_analysis.md) |
 
+</div>
+
 ---
 
 ## Specs worth having to hand
 
 > *Spec format: Cells · Current (A) · BEC · Sensored · Waterproof · Weight · Price*
 
+<div align="center">
+
 | Part | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **Castle Mamba X SCT + 1412-3200KV combo (010-0155-13)** — *running* | **Cells:** ESC **2S-6S (25.2V)**, but **4S max with this motor**<br>**Current (A):** not published by Castle; community reports **100+ A peaks**<br>**BEC:** **8A peak, adjustable** 5.5 / 6.0 / 7.5 / 8.0V, default 5.5V<br>**Sensored:** yes, **SmartSense**, plus sensorless and sensored-only modes<br>**Waterproof:** yes, CNC aluminum case potted in epoxy. ⚠️ **the 30mm fan is not waterproof and must come off for wet running**<br>**Weight:** **101g** ESC with wires, **265.4g** motor<br>**Price:** **$198.71** paid (list $360.90, currently $221.21 at 26% off) | Pro: **One part, factory matched**, so no sensor adapter and no KV guesswork. **ROAR and RECON G6 certified**, data logging, aux-wire on-the-fly adjustment, transmitter programming for cutoff and drag brake. Rugged potted case that also sheds heat<br><br>Con: ⚠️ **4S is the ceiling and this car runs 4S**, so gearing and temperatures matter. **Castle publishes no continuous amp rating.** Castle Link USB or B-LINK is a separate purchase to program it | <img src="src/electronics_castle_mamba_x_sct_1412_3200kv_combo_010-0155-13.jpg" width="500"> |
+
+</div>
 
 **ESC dimensions:** 54.4 × 35.2 × 30.0mm, **4.0mm female bullets** to the motor. Battery connector is not included; Castle recommend a 70A+ connector.
 
@@ -50,8 +58,12 @@
 
 ## Price History
 
+<div align="center">
+
 | Date | Price | Discount Path | Notes |
 |---|---|---|---|
 | 2025-03-19 | **$198.71** ✅ **purchased** | Educational discount (EDUDISC) | Combo **010-0155-13**. $12.78 shipping, **$211.49** the order. Castle order STD0000000137021, invoice STDINV000165036. Paid by Mike directly |
 | 🚧 date not recorded | **$94.00** | Non-warranty RMA | Replacement 1412 3200KV motor ([LEDGER](../../LEDGER.md) #83). Replaced the combo's motor rather than adding one, so it is not counted in the [BOM](BOM.md#electronics) |
 | current listing | $221.21 | 26% off | List $360.90. For reference only, not paid |
+
+</div>

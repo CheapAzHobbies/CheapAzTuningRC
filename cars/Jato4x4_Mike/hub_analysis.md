@@ -21,6 +21,8 @@
 
 ## Key Requirements
 
+<div align="center">
+
 | Requirement | Type | Why |
 |---|---|---|
 | **Metal front steering block** | Must | The front knuckle takes the hits and plastic gives up there first |
@@ -29,11 +31,15 @@
 | **Rear can stay plastic** | May | The rear sees almost no load, so alloy back there is mostly wasted weight |
 | **Cheap** | May | This is the budget car of the pair. A part that costs more than it saves is the wrong part |
 
+</div>
+
 ---
 
 ## Comparison
 
 > *Spec format: Type · Material · Bearing sizes · Hex · Fits · Pivot/Hardware · Brand · Colors · Toe · Warranty · Includes · Weight · Price*
+
+<div align="center">
 
 | Part | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
@@ -42,6 +48,8 @@
 | ⭐ **Rear carriers, stock plastic EHD (TRA9050)** — *running at the rear* | **Type:** Rear stub axle carriers<br>**Material:** glass-filled nylon (EHD)<br>**Bearing sizes:** EHD, 12×18×4 / 6×12×4 (this car runs **10×18×5** in the hub)<br>**Hex:** N/A<br>**Fits:** EHD geometry, native<br>**Pivot/Hardware:** **3×41mm hinge pins (2) + 3×20mm screws (2)**, included<br>**Brand:** Traxxas<br>**Colors:** **black 9050 · gray 9050-GRAY · orange 9050T · green 9050G · red 9050R · blue 9050X**, all the same price<br>**Toe:** none built in<br>**Warranty:** N/A<br>**Includes:** L + R carriers + hinge pins + screws<br>**Weight:** N/A 🚧 not weighed<br>**Price:** **$6.00 / pair** (came on the donor, so nothing was spent here) | Pro: **The rear barely sees load**, so plastic is genuinely the right call here, not a compromise. Lightest option and already fitted<br><br>Con: No camber-link tuning holes and no built-in toe. Does not have the slim alloy look the front now has. ⚠️ **Traxxas state these fit the 9080-series upgrade kit only and do not fit standard suspension parts**, so they are not a general Slash/Jato spare | <img src="src/suspension_traxxas_rear_stub_axle_carriers_9050_black.jpg" width="110">&nbsp;<img src="src/suspension_traxxas_rear_stub_axle_carriers_9050_gray.jpg" width="110">&nbsp;<img src="src/suspension_traxxas_rear_stub_axle_carriers_9050t_orange.jpg" width="110">&nbsp;<img src="src/suspension_traxxas_rear_stub_axle_carriers_9050g_green.jpg" width="110">&nbsp;<img src="src/suspension_traxxas_rear_stub_axle_carriers_9050r_red.jpg" width="110">&nbsp;<img src="src/suspension_traxxas_rear_stub_axle_carriers_9050x_blue.jpg" width="110"><br><em>black 9050 · gray · orange 9050T · green 9050G · red 9050R · blue 9050X</em> |
 | 🔵 **Rear carrier, MonsterKingz alloy, shaved** — *planned* | **Type:** Rear stub axle carrier from the same 4-piece set<br>**Material:** 7075 aluminum<br>**Bearing sizes:** EHD, 12×18×4 / 6×12×4<br>**Hex:** N/A<br>**Fits:** EHD geometry<br>**Pivot/Hardware:** brass bushings included<br>**Brand:** G-Maxx (MonsterKingz)<br>**Colors:** as the set<br>**Toe:** N/A<br>**Warranty:** N/A<br>**Includes:** in the set already bought<br>**Weight:** N/A 🚧 weigh before and after shaving<br>**Price:** $0, already in the set | Pro: **Already owned, so the Raptor R look costs only time.** EHD rears are over-built with the axle supported both sides, so there is real material to remove without weakening anything that matters<br><br>Con: **Permanent**, and the set is the heavy one to begin with. Worth weighing before and after, since the point is the slim look and the weight saving, and neither is proven yet | <img src="../FastAzJato4x4/src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg" width="500"> |
 | ❌ ~~**Front C-hub + steering block, Lighthouse alloy**~~ — *broke, retired* | **Type:** Front C-hub + steering block, EHD style, front only<br>**Material:** aluminum, grey/black<br>**Bearing sizes:** EHD, 6×12×4 + 12×18×4<br>**Hex:** N/A<br>**Fits:** listed for Traxxas Jato 1/8 4x4 BL-2S<br>**Pivot/Hardware:** brass bushings included<br>**Brand:** Lighthouse<br>**Colors:** black<br>**Toe:** N/A<br>**Warranty:** free returns within 90 days<br>**Includes:** EHD bearings + brass bushings<br>**Weight:** **C-hubs 25.5 g bare / 36.4 g with hardware · knuckles 22.4 g bare / 34.9 g with hardware**, so **47.9 g for a bare front set** (measured, see [below](#weighed-in-photos))<br>**Price:** **$29.71** the pair of items, **$24.67 paid** | Pro: **Buys exactly the front and nothing else**, which is the cheapest way into an alloy front at about $25. Came with brass bushings. **The only hub set on either car with real measured weights**<br><br>Con: **It broke.** ⚠️ **But not on its own merits:** the hinge pocket at the bottom had been **filed out for more droop**, which removes material exactly where the C-hub carries load. **Too much droop turned out to be bad anyway**, so the modification cost the part and gained nothing. Unmodified it is **untested, not disproven** | <img src="../FastAzJato4x4/src/suspension_lighthouse_alloy_front_chub_steering.jpg" width="250">&nbsp;<img src="../FastAzJato4x4/src/suspension_lighthouse_alloy_front_chub.jpg" width="250"><br><em>steering block · C-hub (with brass bushings)</em> |
+
+</div>
 
 ---
 
@@ -61,11 +69,15 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 
 **Running: the aftermarket E-Revo 1.0 fit 17mm splined hubs, $8.36 for all four corners, shaved down.** Same hex the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md#17mm-wheel-hubs-hexes) runs, on the same **Tekno stubs**, so the axle end of both cars is identical. This is the other half of this car's bearing decision. Running the **bare 10×18×5** in the hub leaves no room for a full-thickness hex, so **the hexes give up the 1mm, not the carriers**.
 
+<div align="center">
+
 | Requirement | Type | Why |
 |---|---|---|
 | **17mm hex** | Must | The wheels are 17mm |
 | **Survives being shaved** | Must | This car takes its 1mm out of the hex, so the hex has to have material to give |
 | **Cheap and replaceable** | May | A shaved part is a consumable, and the cut is permanent |
+
+</div>
 
 <p align="center"><img src="../FastAzJato4x4/src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" width="300">&nbsp;<img src="../FastAzJato4x4/src/drivetrain_erevo_17mm_splined_wheel_hubs_dimensions.png" width="300"><br><em>The aftermarket E-Revo 1.0 fit 17mm splined hubs, $8.36 the set of four · 24mm tall × 20mm across, 6mm bore, M2 set screw</em></p>
 
@@ -75,10 +87,14 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 
 ## Price History
 
+<div align="center">
+
 | Date | Price | Discount Path | Notes |
 |---|---|---|---|
 | 2026-09-07 | **$50.00** ✅ **purchased** | Internal sale | MonsterKingz / G-Maxx 7075 alloy hub set (front + rear), bought off the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md) where it cost $46.80. See [`LEDGER.md`](../../LEDGER.md) |
 | 2026-05-19 | **$24.67** ✅ purchased | $5.04 off a $29.71 subtotal | Lighthouse alloy front C-hub ($15.29) + front knuckle ($14.42), one order **#8210896333264866**, AliExpress LIGHT HOUSE 188527 Store. Free returns within 90 days. **Since broken** |
+
+</div>
 
 ---
 

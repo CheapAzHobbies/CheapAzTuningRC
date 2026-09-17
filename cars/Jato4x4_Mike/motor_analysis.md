@@ -14,6 +14,8 @@
 
 **What actually happened: torque matters as much as RPM.** Gearing for the **power-band sweet spot** (12T here, not the tiniest pinion available) made mid-air corrections feel just as responsive as the high-RPM theory promised, **and** kept the motor cooler because it is neither lugging nor screaming.
 
+<div align="center">
+
 | Observation | Result |
 |---|---|
 | **Motor temperature** | **Noticeably cooler** than the previous taller gearing |
@@ -21,11 +23,15 @@
 | **Sound** | Higher than ever before, the motor is getting into its happy RPM range |
 | **Overall feel** | Car feels lighter and faster, less effort everywhere, sharper throttle response |
 
+</div>
+
 > **Why this matters beyond this car.** It is the empirical data point that **pinion sizing is not purely a top-speed equation**. Gearing for the power-band sweet spot beat gearing for theoretical max RPM, on the same motor. The FastAz cites this when picking its own pinion. Tooth options in the [FastAz pinion reference](../FastAzJato4x4/motor_analysis.md#pinion-reference-32p).
 
 ---
 
 ## Setup
+
+<div align="center">
 
 | Item | Spec |
 |---|---|
@@ -34,6 +40,8 @@
 | **Spur** | **54T** |
 | **ESC** | **Castle Mamba X SCT**, bought as a combo with this motor (**010-0155-13**). ⚠️ **4S max with this motor**, see [`esc_analysis.md`](esc_analysis.md) |
 | **Cooling** | N/A 🚧 not recorded |
+
+</div>
 
 ---
 

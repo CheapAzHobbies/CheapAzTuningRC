@@ -4,7 +4,11 @@
 >
 > **The options, if that ever changes:** [FastAzJato4x4 sway bar analysis](../FastAzJato4x4/swaybar_analysis.md).
 
+<div align="center">
+
 | Item | Spec |
 |---|---|
 | **Front** | **None fitted** |
 | **Rear** | **None fitted** |
+
+</div>

@@ -10,6 +10,8 @@ Not a tuning decision, just the list of bearings this car runs. The baseline is 
 
 The hub corners run a **bare 10×18×5**, which is 5mm thick against a 4mm pocket, so **1mm has to come out of something**. On this car it comes out of the **17mm hex adapters**, which get shaved down. **The hub carriers themselves stay stock.**
 
+<div align="center">
+
 | Size (mm) | Qty | Where on this car |
 |---|---|---|
 | **10×18×5** ⚙️ | 4 | **Hub / axle corners, bare, direct into the EHD pocket. The mod** |
@@ -19,6 +21,8 @@ The hub corners run a **bare 10×18×5**, which is 5mm thick against a 4mm pocke
 | **8×16×5** | 2 | Diff inputs, one front one rear |
 | **5×8×2.5** | 4 | Steering bellcrank (**TRA5114**, kept as bearings on this car) |
 | **5×11×4** | 1 | Centre / slipper |
+
+</div>
 
 **Total: 22 bearings**, across **7 distinct sizes**. **The motor carries its own bearings on top of these**, see [the motor bearing](#the-motor-bearing-s605zz).
 
@@ -30,11 +34,15 @@ The hub corners run a **bare 10×18×5**, which is 5mm thick against a 4mm pocke
 
 Three places the 1mm can come from, and this car picked the second:
 
+<div align="center">
+
 | Route | What gets cut | Reversible | Who runs it |
 |---|---|---|---|
 | **Sleeve the pocket down** | Nothing, you make an 18→15mm sleeve | ✅ yes | [FastAzJato4x4](../FastAzJato4x4/bearings_reference.md) |
 | ⭐ **Shave the 17mm hex adapters** | The adapters | ❌ no | **This car** |
 | **Deepen the carrier pocket** | 1mm off the carrier, needs a lathe or mill | ❌ no | Nobody, tooling |
+
+</div>
 
 **The argument for this route is that there is nothing to make.** No sleeve to print or turn, no press fit to get square. Buy the bearing, shave the adapters, done. The cost is that **the cut is permanent** and the adapters are the part you sacrifice.
 
@@ -48,6 +56,8 @@ Three places the 1mm can come from, and this car picked the second:
 
 The one part that makes this car's route work, and the one bearing here that is **not** rubber sealed.
 
+<div align="center">
+
 | Field | Value |
 |---|---|
 | **Part** | **S61810ZZ**, 10×18×5mm |
@@ -60,15 +70,21 @@ The one part that makes this car's route work, and the one bearing here that is 
 | **Price paid** | **$14.45 / 10-pack** = **$1.45 each** |
 | **Listed now** | **$20.55 / lot**, or **$14.88 / lot** at 3+ lots |
 
+</div>
+
 <p align="center"><img src="src/suspension_bearing_s61810zz_10x18x5.jpg" width="420"><br><em>S61810ZZ 10×18×5, stainless, double metal shield. Listing photo, watermarked <strong>RAIN &amp; DEW</strong> though the store is Speed Bearing Store, so the store is not the brand</em></p>
 
 > ⚠️ **ZZ is a metal shield, not a rubber seal.** Every other bearing on these cars is **2RS** rubber sealed, chosen specifically to keep grit and water out for offroad running. **The hub corners are the most exposed position on the car**, and they are the one place running the lesser seal. Worth watching, and worth buying the 2RS version of this size if one turns up.
 
 ### What it costs
 
+<div align="center">
+
 | Size (mm) | On the car | Unit price | Line cost | Source |
 |---|---|---|---|---|
 | **10×18×5** (S61810ZZ, stainless) | 4 | **$1.45** | **$5.80** | $14.45 / 10-pack paid |
+
+</div>
 
 **The hub bearings are the expensive four on this car** at $1.45 each, against **$0.21 to $0.79** for every other size on the [FastAz list](../FastAzJato4x4/bearings_reference.md#what-the-bearings-cost). That is the real price of this route: about **$4.60 more** than the four sleeved 10×15×4 would cost, plus the permanently shaved adapters, in exchange for having nothing to fabricate.
 
@@ -82,6 +98,8 @@ The one part that makes this car's route work, and the one bearing here that is 
 
 <p align="center"><img src="src/electronics_bearing_s605zz_5x14x5.jpg" width="420"><br><em>S605ZZ 5×14×5, double metal shield. Same <strong>RAIN &amp; DEW</strong> brand as the hub bearing, bought from a different store</em></p>
 
+<div align="center">
+
 | Field | Value |
 |---|---|
 | **Part** | **S605ZZ**, 5×14×5mm |
@@ -93,6 +111,8 @@ The one part that makes this car's route work, and the one bearing here that is 
 | **Sold as** | 10 pcs per lot |
 | **Source** | AliExpress, **Bearing Solution Store**, brand **raindew** |
 | **Price** | **$17.06 / 10-pack** = **$1.71 each**, list $17.89 |
+
+</div>
 
 > ⭐ **ABEC-9 over stock, and the reason is life rather than speed.** **The stock Castle bearings work, they just burn up quickly.** These last longer in the same motor. ABEC is a precision grade and not a durability rating, so the real gain is the **stainless and the flush shielding**, which leaves dirt and water much less of a way in. **Keeping the motor cool still matters**, the bearing is not a substitute for that.
 
@@ -108,6 +128,8 @@ The one part that makes this car's route work, and the one bearing here that is 
 
 Since **a bearing position does not disappear when you change what sits in it**, every route totals 22. Only the hub corners differ.
 
+<div align="center">
+
 | Position | Stock BL-2S | This car (Mike's) | FastAzJato4x4 |
 |:---|:---:|:---:|:---:|
 | **Hub / axle** | **12×18×4** ×4 | **10×18×5** ×4 **direct** | **10×15×4** ×4 in an **18 × 15 × 4mm sleeve** |
@@ -122,6 +144,8 @@ Since **a bearing position does not disappear when you change what sits in it**,
 | Steering bellcrank | 5×8×2.5 ×4 (TRA5114) | 5×8×2.5 ×4 (TRA5114) | **TRA3775 Oilite bushings ×4** |
 | Centre / slipper | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 |
 | **Total** | **22** | **22** | **22** (18 bearings + 4 bushings) |
+
+</div>
 
 <p align="center"><img src="../FastAzJato4x4/src/suspension_bearing_tra5117_6x12x4.jpg" height="150">&nbsp;<img src="../FastAzJato4x4/src/suspension_bearing_tra5119_10x15x4.jpg" height="150">&nbsp;<img src="../FastAzJato4x4/src/suspension_bearing_tra5120_12x18x4.jpg" height="150">&nbsp;<img src="src/suspension_bearing_s61810zz_10x18x5.jpg" height="150"><br><em>TRA5117 6×12×4 · TRA5119 10×15×4 · TRA5120A 12×18×4 · S61810ZZ 10×18×5, this car's hub bearing</em></p>
 

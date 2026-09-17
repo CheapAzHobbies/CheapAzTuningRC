@@ -8,6 +8,8 @@
 >
 > **Full build write-up and the rejected join methods:** [FastAzJato4x4 driveshaft analysis](../FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip).
 
+<div align="center">
+
 | Item | Spec | Price |
 |---|---|---|
 | **Axle donor** | Knock-off E-Revo CVD 5451R set, cut and shortened | **$18.75 / set** |
@@ -17,3 +19,5 @@
 | **Centre driveshaft** | **Traxxas TRA6855**, 6061-T6 aluminium, one piece, **215mm**, with its own hardware | 🚧 price not recorded |
 | **Stubs** | **Tekno**, front **TKR1654-17**, rear **5580**, same as the FastAz | 🚧 price not recorded |
 | **17mm hexes** | Aftermarket **E-Revo 1.0 fit splined hubs**, shaved to clear the big bearing | **$8.36 / set of 4** |
+
+</div>

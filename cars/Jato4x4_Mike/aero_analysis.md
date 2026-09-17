@@ -12,11 +12,15 @@
 
 ## What's fitted
 
+<div align="center">
+
 | Item | Part | Price |
 |---|---|---|
 | **Body** | **Traxxas 9060-BLUE**, pre-painted polycarbonate, the red and blue scheme | **$36.00 paid**, lists ~$43 |
 | **Wing** | **Traxxas 9517X**, blue rear wing **with hardware** | **$16.00 paid**, full price at Tammies Hobbies |
 | **Wing mounts** | **Traxxas 9046**, Jato 4x4 wing mounts, left and right | **$7.00 paid**, full price at Tammies Hobbies |
+
+</div>
 
 > **Two shops, and that is the whole price difference.** Mike bought **the wing and the mounts together from Tammies Hobbies, both at full price**, so **$16.00 + $7.00 = $23.00** for the aero. The **body came from Jenny's RC**, where a **$43** blue arrived against a **$36** green order, which was a shipping mistake rather than a discount.
 >

@@ -6,12 +6,16 @@
 >
 > **Full comparison, including the $19 centre diff teardown:** [FastAzJato4x4 differential analysis](../FastAzJato4x4/differential_analysis.md#center-diff-teardown).
 
+<div align="center">
+
 | Position | Spec | Price |
 |---|---|---|
 | **Centre diff** | **Metal**, Traxxas 6780-style | **$18.80** |
 | **Front oil** | **30k**, Traxxas TRA5136 | $7.50 / bottle |
 | **Centre oil** | **100k**, Traxxas TRA5130 | $8.00 / bottle |
 | **Rear** | **Dynamite DYNE4201 blue marine grease**, no oil | **$12.00 / can** |
+
+</div>
 
 ---
 
@@ -21,10 +25,14 @@
 
 ⚠️ **Grease and oil get filled completely differently, and carrying the oil habit over to grease is how a diff gets wrecked.**
 
+<div align="center">
+
 | Fill | How much | Why |
 |---|---|---|
 | **Oil**, front and centre | **Half full, no more** | A brim-full plastic housing bursts once the oil heats and expands |
 | **Grease**, the rear here | **A light coating, never packed** | Packing it solid binds the gears together, so the diff drags and heats instead of differentiating |
+
+</div>
 
 **Why grease works here.** It is a lithium complex with **anti-sling technology**, so it stays on the gear faces rather than being flung off, and it **resists water contamination**. On a rear diff that wants steady drive off the corner instead of free rotation, a light film behaves like a very heavy oil that will not weep past a tired seal.
 

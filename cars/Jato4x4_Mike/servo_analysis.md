@@ -4,6 +4,8 @@
 >
 > **Full comparison and the cross-brand table:** [FastAzJato4x4 servo analysis](../FastAzJato4x4/servo_analysis.md#servo-comparison).
 
+<div align="center">
+
 | Item | Spec |
 |---|---|
 | **Servo** | **PTK 9752TG-D**, digital coreless metal gear, low profile, 2S LiPo ready |
@@ -13,6 +15,8 @@
 | **Replaced** | **JX CLS6322HV**, EcoBoost branding, retired for centring drift |
 | **Bell crank** | GPM aluminum, see [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md) |
 | **Servo saver** | None. The alloy bell crank effectively welds the OEM saver into a fixed coupling anyway |
+
+</div>
 
 ## Why it was swapped
 

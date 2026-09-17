@@ -12,11 +12,15 @@
 
 ## What's fitted
 
+<div align="center">
+
 | Item | Part | Price |
 |---|---|---|
 | **Front arms** | **FLM26800**, 6061 aluminum CNC, Made in USA | **$25.73 / pair**, FLM July sale |
 | **Rear arms** | **FLM26800**, the same part again, so the car is extended at all four corners | 🚧 second pair not recorded |
 | **Guards** | **None fitted.** The [Rustler TRA6736 front bumper](bumper_analysis.md) already covers the front | **$0** |
+
+</div>
 
 > 🚧 **Only one pair is on the books.** [LEDGER](../../LEDGER.md) #85 records **one** FLM26800 pair at **$25.73**, Mike's share of a 4-pair bulk order (#4658). Running them front **and** rear takes **two** pairs, so **the second pair has no receipt in this repo**. The [BOM](BOM.md#suspension) counts only the recorded pair rather than guessing at a second $25.73.
 
@@ -48,9 +52,13 @@ All of these share the **TRA3655 hinge pin and mount pattern**, so any of them b
 
 ## Price History
 
+<div align="center">
+
 | Date | Price | Discount Path | Notes |
 |---|---|---|---|
 | 2026-07-02 | **$25.73 / pair** ✅ **purchased** | **FLM July 1st sale, 25% off** ($30 to $22.50/pair before shipping) | One pair from a 4-pair bulk order, FLM order #4658, $102.90 the order. Booked to Mike as [LEDGER](../../LEDGER.md) #85. 🚧 **the second pair on this car is not part of that order** and has no receipt. Annual sale, see [`Deals/flm_july_sale_2026.md`](../../Deals/flm_july_sale_2026.md) |
+
+</div>
 
 ---
 

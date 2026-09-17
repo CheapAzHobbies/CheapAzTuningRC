@@ -10,17 +10,23 @@
 
 ## Key Requirements
 
+<div align="center">
+
 | Requirement | Type | Why |
 |---|---|---|
 | **17mm hex** | Must | The car runs 17mm hexes (shaved, see [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hexes)) |
 | **Widens the track** | Must | The wide stance is the point of this setup, and it measurably improved stability and corner grip |
 | **ROAR legal** | ❌ Not a requirement | Explicitly given up on this car. The FastAz carries that constraint instead |
 
+</div>
+
 ---
 
 ## The wide-track trick
 
 **Take the RedSpider tires and mount them on Traxxas Jato 4x4 rims instead of standard-width ones.** The Traxxas rim is wider, so each wheel sits further out and the track grows noticeably.
+
+<div align="center">
 
 | | This car | [FastAzJato4x4](../FastAzJato4x4/wheel_analysis.md) |
 |---|---|---|
@@ -29,6 +35,8 @@
 | **Foam** | **Blue race foams** | 🚧 not recorded |
 | **Track** | **Much wider** | Stock width |
 | **ROAR legal** | ❌ no | ✅ yes, deliberately |
+
+</div>
 
 **Result: more stability and more corner grip.** It worked well enough that it is the setup this car keeps.
 
@@ -42,9 +50,13 @@
 >
 > *Price convention: per **set of 4**.*
 
+<div align="center">
+
 | Wheel / Tire | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **RedSpider tires on Traxxas Jato 4x4 rims** — *running* | **Part:** tire **RedSpider**; rim **Traxxas 9070-WHT**; **blue race foams** between them<br>**Type:** 1/8 off-road<br>**Tread:** RedSpider<br>**Compound:** see [FastAz](../FastAzJato4x4/wheel_analysis.md#tires-tire-only-mount-on-your-own-rims)<br>**Dia:** N/A<br>**Width:** **wider than standard, this is the point**<br>**Rim:** **Traxxas 9070-WHT**, Jato 4x4 VXL 3.0" dished, white<br>**Hex:** 17mm<br>**Weight:** N/A 🚧 not weighed<br>**Foam:** N/A<br>**Pre-glued:** mounted in house<br>**Price:** N/A | Pro: **The wide stance is the best handling change on this car**, more stability and more corner grip, using a rim you may already own. Costs nothing if the Traxxas rims are already in the box<br><br>Con: **Outside ROAR width**, so it is a bash-only setup. Takes **~7 packs to wear in** before it is at its best. Wider track adds scrub | <img src="../FastAzJato4x4/src/aero_redspider_wheels.jpg" width="250">&nbsp;<img src="../FastAzJato4x4/src/aero_redspider_wheels_r306.jpg" width="250"><br><em>RedSpider, the shared tire</em> |
+
+</div>
 
 ---
 

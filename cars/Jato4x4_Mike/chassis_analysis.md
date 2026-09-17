@@ -12,6 +12,8 @@
 
 ## Key Requirements
 
+<div align="center">
+
 | Requirement | Type | Why |
 |---|---|---|
 | **Survives the front bulkhead load** | Must | The front is where bulkheads get loaded and where the plastic one gives up |
@@ -20,17 +22,23 @@
 | **Costs as close to nothing as possible** | Must | This is the budget half of the pair. The whole point is not buying a carbon kit |
 | **Keeps the stock battery tray** | May | The tray and hold-down posts are moulded in, and this car uses them (see [`battery_mount_analysis.md`](battery_mount_analysis.md)) |
 
+</div>
+
 ---
 
 ## Comparison
 
 > *Spec format: Material · CG · Fits · Includes · Weight · Price*
 
+<div align="center">
+
 | Chassis | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **Traxxas 7422 LCG plastic chassis** — *running* | **Material:** composite nylon<br>**CG:** **LCG** (low centre of gravity)<br>**Fits:** Slash 4x4 / Jato 4x4 **LCG** pattern<br>**Includes:** battery tray + moulded hold-down posts<br>**Weight:** N/A 🚧 not weighed<br>**Price:** **$20.00** ([LEDGER](../../LEDGER.md) #80) | Pro: **$20 and plastic flexes instead of cracking.** This is the chassis the Jato 4x4 ships with anyway. Keeps the moulded battery tray and hold-down posts, which is what makes the [bar system](battery_mount_analysis.md) work<br><br>Con: Flexes more than carbon, and the **front bulkhead area is the known failure point**, which is why the alloy bulkhead goes on. Heavier than a CF deck | <img src="../FastAzJato4x4/src/chassis_traxxas_oem_lcg_tra7422.jpg" width="500"> |
 | ⭐ **Powerhobby aluminum front bulkhead** — *running* | **Material:** aluminum<br>**CG:** N/A<br>**Fits:** Jato 4x4 / Slash 4x4 front<br>**Includes:** bulkhead only<br>**Weight:** N/A 🚧 not weighed<br>**Price:** **~$36.99** standalone | Pro: **Covers the one part that actually breaks** without buying a chassis. On the FastAz this came bundled with the CF kit; here it is the standalone part. **It is what makes metal arms survivable** on a plastic chassis<br><br>Con: The only part on this car that had to be bought for the chassis. ~$36.99 is a real chunk of a budget build | <img src="../FastAzJato4x4/src/chassis_powerhobby_alu_front_bulkhead.jpg" width="500"> |
 | 🚫 ~~**AliExpress CF LCG chassis**~~ — *the FastAz route, not taken* | **Material:** carbon fiber<br>**CG:** low (LCG)<br>**Fits:** Slash 4x4 pattern<br>**Includes:** aluminium battery holder + straps, front bulkhead<br>**Weight:** see [FastAz](../FastAzJato4x4/chassis_analysis.md#chassis-comparison)<br>**Price:** see [FastAz](../FastAzJato4x4/chassis_analysis.md#price-history) | Pro: Lower CG, stiffer, and its aluminium holder and straps **remove the battery height limit entirely**. Bundles the front bulkhead<br><br>Con: **Costs money this build is not spending**, and carbon cracks where plastic flexes. Loses the moulded tray, so none of this car's [bar geometry](battery_mount_analysis.md) would apply | <img src="../FastAzJato4x4/src/chassis_aliexpress_cf_slash_4x4.png" width="500"> |
+
+</div>
 
 ---
 
@@ -48,6 +56,8 @@ The centre brace spans the tub and bolts to a **brace mount** at each end. Every
 
 > *Spec format: Material · CG · Fits · Includes · Weight · Price*
 
+<div align="center">
+
 | Brace | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
 | ⭐ **Traxxas 9024, plastic T-bar centre stiffener** — *recommended* | **Material:** moulded plastic<br>**CG:** low mass, sits centre<br>**Fits:** Jato 4x4 / LCG tub<br>**Includes:** brace only (mounts are 9025)<br>**Weight:** N/A 🚧 not weighed<br>**Price:** **$6.00** | Pro: **The pick, and it is the cheapest thing here.** A bit more durable in practice than the metal versions, and **it will not break the brace mounts**, so the cheap part fails before the expensive one. Adds almost no weight<br><br>Con: Looks plainer than anodised alloy. Not as stiff as steel, which is the point rather than a flaw | <img src="src/chassis_traxxas_tbar_center_stiffener_9024.jpg" width="500"> |
@@ -57,17 +67,23 @@ The centre brace spans the tub and bolts to a **brace mount** at each end. Every
 | 🚫 ~~**Traxxas 6730, aluminum chassis brace kit**~~ — *HCG, wrong chassis* | **Material:** anodised aluminum<br>**CG:** N/A<br>**Fits:** ⚠️ **HCG chassis**, not this car<br>**Includes:** **brace + mounts + hardware**<br>**Weight:** N/A<br>**Price:** **$24.95** (6730A / 6730R / 6730X / 6730G) | Pro: **The only kit here that bundles its mounts**, unlike the Jato OE brace which needs 9025 separately. Four colours<br><br>Con: **HCG only, so it cannot go on this LCG car.** Listed so nobody orders it by mistake | <img src="src/chassis_traxxas_chassis_brace_kit_6730a_orange.jpg" width="120">&nbsp;<img src="src/chassis_traxxas_chassis_brace_kit_6730r_red.jpg" width="120">&nbsp;<img src="src/chassis_traxxas_chassis_brace_kit_6730x_blue.jpg" width="120">&nbsp;<img src="src/chassis_traxxas_chassis_brace_kit_6730g_green.jpg" width="120"><br><em>6730A orange · 6730R red · 6730X blue · 6730G green</em> |
 | ❌ ~~**Carbon fiber upper brace + alloy mount**~~ — *would not run it* | **Material:** carbon fiber plate + alloy mount block<br>**CG:** sits high over the battery<br>**Fits:** Slash 4x4<br>**Includes:** CF plate + one alloy mount + screws<br>**Weight:** N/A<br>**Price:** ~**$17.83** | Pro: Lightest of the metal-alternative braces, and it looks the part<br><br>Con: **Supports the chassis the least, because it is not tied to the bulkhead.** Both ends land on the tub and a bolt-on alloy block rather than the structure that actually takes the load, so it braces the least stiff path. **Would not run it** | <img src="src/chassis_cf_upper_brace.jpg" width="250">&nbsp;<img src="src/chassis_cf_upper_brace_installed.jpg" width="250"><br><em>the kit · installed, ends landing on the tub and block, not the bulkhead</em> |
 
+</div>
+
 > The **front shock tower brace (TRA9061, $39.95)** is a different part and lives in the [FastAz shock tower analysis](../FastAzJato4x4/shock_tower_analysis.md#related-tower-bracing-optional), where it is vetoed for adding aluminum weight high up on a tower that rarely breaks.
 
 ---
 
 ## Price History
 
+<div align="center">
+
 | Date | Price | Discount Path | Notes |
 |---|---|---|---|
 | 🚧 date not recorded | **$18.99** | Free shipping | VG Racing steel LCG chassis brace, eBay seller **vgracing**, item 396188510700. ⚠️ LCG only |
 | 2026-04-28 | **$36.99** | — | Powerhobby aluminum front bulkhead, see [FastAz](../FastAzJato4x4/chassis_analysis.md#bulkheads-front--rear) |
 | 🚧 checkpoint 6/25 | **$20.00** | — | Traxxas 7422 LCG chassis, [LEDGER](../../LEDGER.md) #80. A 7477 LCG spur gear cover ($3.00, #79) went with it |
+
+</div>
 
 **Chassis side of the car: $75.98.**
 

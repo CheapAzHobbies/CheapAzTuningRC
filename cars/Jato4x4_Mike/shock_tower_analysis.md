@@ -4,11 +4,15 @@
 >
 > **Full comparison:** [FastAzJato4x4 shock tower analysis](../FastAzJato4x4/shock_tower_analysis.md).
 
+<div align="center">
+
 | Item | Spec |
 |---|---|
 | **Rear tower** | **Traxxas TRA9034**, Jato 4x4, glass-filled nylon. Shocks mount rearward |
 | **Front tower** | 🚧 not recorded. The Jato front is **TRA9033**, same $6, and it has **integrated shock cap protection** the Slash towers lack |
 | **Price** | **$6.00** for the rear |
+
+</div>
 
 > **Why the mounting position matters.** A **Slash 4x4** shock mount sits further forward and **extends the car by about 5mm** over the Jato arrangement, so tower choice changes wheelbase as well as shock angle. That is recorded in the [FastAz arm analysis](../FastAzJato4x4/arm_analysis.md), and it is worth knowing before mixing Slash and Jato parts.
 
