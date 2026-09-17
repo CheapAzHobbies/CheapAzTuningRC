@@ -171,10 +171,24 @@ The on-track observations, the service tracking and the full write-up are in [`m
 
 ---
 
+## Analysis Docs
+
+Each one is a summary of **what is fitted**, with a link out to the [FastAzJato4x4](../FastAzJato4x4/README.md) doc for the full comparison.
+
+| | | | | |
+|---|---|---|---|---|
+| [Shocks](shock_analysis.md) | [Diffs](differential_analysis.md) | [ESC](esc_analysis.md) | [Chassis](chassis_analysis.md) | [BOM](BOM.md) |
+| [Shock towers](shock_tower_analysis.md) | [Driveshafts](driveshaft_analysis.md) | [Motor](motor_analysis.md) | [Body & aero](aero_analysis.md) | [Bumpers](bumper_analysis.md) |
+| [Arms](arm_analysis.md) | [Gearbox housings](gearbox_housing_analysis.md) | [Battery packs](battery_analysis.md) | [Wheels](wheel_analysis.md) | [Connectors](connector_reference.md) |
+| [Swaybars](swaybar_analysis.md) | [17mm hexes](hub_analysis.md#17mm-wheel-hexes) | [Battery mounting](battery_mount_analysis.md) | [Bell crank](steering_bell_crank_analysis.md) | [Charger](charger_analysis.md) |
+| [Hubs](hub_analysis.md) | [Bearings](bearings_reference.md) | [Radio](radio_analysis.md) | [Tie rods](tie_rod_analysis.md) | [Servo](servo_analysis.md) |
+
+---
+
 ## TODO / Notes
 
-- [x] Chassis confirmed: **stock plastic + Powerhobby alloy front bulkhead**
+- [x] Chassis confirmed: **Traxxas 7422 LCG + Powerhobby alloy front bulkhead + steel centre brace**
+- [x] Electronics and drivetrain recorded: Mamba X SCT + 1412 combo, 11T/54T, TRA6855 centre shaft, stock housings
+- [x] Arm setup confirmed against the FastAz: **FLM26800**, and the Slash-vs-Jato shock mount costs ~5mm of wheelbase
 - [ ] Weigh the car (no all-up figure recorded yet)
-- [ ] Confirm the arm setup vs the FastAzJato4x4
-- [ ] Add electronics + drivetrain details
-- [ ] Add photos
+- [ ] Add photos of the car itself, most shots here are of parts
