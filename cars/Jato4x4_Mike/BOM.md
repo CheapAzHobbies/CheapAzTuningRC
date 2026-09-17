@@ -17,13 +17,13 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
 | [Steering](#steering) | $51.63 |
 | [Wheels & Tires](#wheels--tires) | $36.54 |
-| [Body & Aero](#body--aero) | $52.00 |
+| [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $198.71 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$904.65** |
-| **Car only, without batteries** | **$619.30** |
+| **Total recorded** | **$911.65** |
+| **Car only, without batteries** | **$626.30** |
 
-> **What the total is missing:** the donor, the shocks, the radio, the spur and pinion, the Tekno stubs, and the 9046 wing mounts, which list at $7.00 but have no receipt. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
+> **What the total is missing:** the donor, the shocks, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -103,8 +103,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Traxxas 9060-BLUE body**<br><sub>Note: the red and blue scheme. A green was ordered and **Jenny's RC shipped this instead**. Kept, so the $36.00 receipt is this body, and the blue lists around $43</sub> | 1 | Jenny's RC, [LEDGER](../../LEDGER.md) #90 | **$36.00 each** | [Aero](aero_analysis.md) |
-| **Traxxas 9517X blue rear wing**<br><sub>Note: ships with hardware. One of the three parts that make this a Jato rather than a Slash. Full price. ⚠️ the FastAz's $13.79 bought the wing **and** the 9046 mount together from Jenny's RC, so it is not a wing-only price to compare against</sub> | 1 | Tammies Hobbies | **$16.00 each** | [Aero](aero_analysis.md) |
-| **Traxxas 9046 Jato 4x4 wing mounts**<br><sub>Note: left and right. **$7.00 list**, 🚧 source and paid not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Aero](aero_analysis.md) |
+| **Traxxas 9517X blue rear wing**<br><sub>Note: ships with hardware. One of the three parts that make this a Jato rather than a Slash. Full price. The FastAz paid $13.79 for this wing and the 9046 mount as one Jenny's RC combo, against $23.00 for the pair here</sub> | 1 | Tammies Hobbies | **$16.00 each** | [Aero](aero_analysis.md) |
+| **Traxxas 9046 Jato 4x4 wing mounts**<br><sub>Note: left and right, bought alongside the wing at full price</sub> | 1 | Tammies Hobbies | **$7.00 / pair** | [Aero](aero_analysis.md) |
 
 ## Electronics
 
@@ -133,7 +133,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | Missing | Why it matters |
 |---|---|
 | **The running Slash 4x4 donor** | The single biggest line. Without it the total is parts-only |
-| **Shocks, towers, wing** | The three parts that turn a Slash into a Jato, so they are the conversion cost |
+| **Shocks, and the front tower** | What is left of the conversion cost. The rear tower ($6.00) and the wing ($16.00) are both recorded now |
 | **Radio** | FlySky NB4 gen 1 with the FGr4S V2, same as the FastAz, but no price recorded |
 | **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
 | ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |

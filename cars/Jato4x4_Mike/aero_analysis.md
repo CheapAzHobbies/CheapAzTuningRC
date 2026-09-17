@@ -16,11 +16,11 @@
 |---|---|---|
 | **Body** | **Traxxas 9060-BLUE**, pre-painted polycarbonate, the red and blue scheme | **$36.00 paid**, lists ~$43 |
 | **Wing** | **Traxxas 9517X**, blue rear wing **with hardware** | **$16.00 paid**, full price at Tammies Hobbies |
-| **Wing mounts** | **Traxxas 9046**, Jato 4x4 wing mounts, left and right | **$7.00 list**, 🚧 source and paid not recorded |
+| **Wing mounts** | **Traxxas 9046**, Jato 4x4 wing mounts, left and right | **$7.00 paid**, full price at Tammies Hobbies |
 
-> **Two shops, and that is the whole price difference.** Mike bought the **wing from Tammies Hobbies at full price**, so its **$16.00** is a real cost. The **body came from Jenny's RC**, where a **$43** blue arrived against a **$36** green order, which was a shipping mistake rather than a discount.
+> **Two shops, and that is the whole price difference.** Mike bought **the wing and the mounts together from Tammies Hobbies, both at full price**, so **$16.00 + $7.00 = $23.00** for the aero. The **body came from Jenny's RC**, where a **$43** blue arrived against a **$36** green order, which was a shipping mistake rather than a discount.
 >
-> ⚠️ **The FastAz figure is not comparable.** That car paid **$13.79 from Jenny's RC for the wing *and* the 9046 mount together**, a combo, against Mike's **$16.00 for the wing alone**. **Jenny's is materially cheaper for these parts**, which is worth knowing before reordering, but the two numbers do not line up part for part.
+> ⚠️ **The same two parts cost $13.79 at Jenny's RC.** That is what the [FastAz](../FastAzJato4x4/aero_analysis.md) paid for the **9517 wing and 9046 mount as one combo**, against **$23.00** here. Like for like, **Jenny's was $9.21 cheaper on the pair**, about **40% off what Tammies charged**, which is worth knowing before reordering.
 
 ---
 
@@ -30,6 +30,8 @@ All six are the same wing at **$16.00 list**, and every one **ships with hardwar
 
 <p align="center"><img src="src/aero_traxxas_jato4x4_rear_wing_9517x_blue.jpg" width="150">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517_black.jpg" width="150">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517a_white.jpg" width="150">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517t_orange.jpg" width="150">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517r_red.jpg" width="150">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517g_green.jpg" width="150"><br><em><strong>9517X blue, fitted</strong> · 9517 black · 9517A white · 9517T orange · 9517R red · 9517G green</em></p>
 
+<div align="center">
+
 | Part | Colour | Price |
 |---|---|---|
 | ⭐ **9517X** | **Blue**, fitted here | $16.00 |
@@ -38,6 +40,8 @@ All six are the same wing at **$16.00 list**, and every one **ships with hardwar
 | **9517T** | Orange | $16.00 |
 | **9517R** | Red | $16.00 |
 | **9517G** | Green | $16.00 |
+
+</div>
 
 > ⚠️ **Plain `9517` is the black one, not a generic part number.** Ordering "9517" gets you black, so the colour suffix matters. The FastAz doc also files a 9517 image as a **Sledge** wing, which is the same number described a different way.
 
@@ -59,5 +63,4 @@ The **9060 series is pre-painted and ready to mount**, no trimming. Mike's is th
 - **The mounts bolt straight to the Jato rear tower.** Running a separate wing on a *Slash* tower instead needs the Meelobee plate technique, which the [FastAz doc](../FastAzJato4x4/aero_analysis.md) documents. Not relevant here, since this car runs the [Jato 9034 rear tower](shock_tower_analysis.md).
 - **The clipless body issue does not apply here.** The FastAz warns its CF chassis cannot use the clipless latch the 9018 / 9060 bodies rely on. This car keeps the **stock plastic tub**, so the OEM body mounts as intended.
 - **The wing ships with its hardware**, so the list price is the whole job apart from the mounts.
-- **The wing was bought at full price**, $16.00 from Tammies. The [FastAz](../FastAzJato4x4/aero_analysis.md) got **the wing and the 9046 mount together for $13.79 from Jenny's RC**, so **buying both from Jenny's would have cost less than the wing alone did here**.
-- 🚧 **The wing mounts have no receipt**, only the $7.00 list, so they are named in the [BOM](BOM.md#body--aero) but not counted.
+- **Both aero parts came from Tammies at full price**, $16.00 for the wing and $7.00 for the mounts, **$23.00 the pair**. The [FastAz](../FastAzJato4x4/aero_analysis.md) paid **$13.79 for that same pair as a Jenny's RC combo**, so buying the combo would have **saved $9.21**.
