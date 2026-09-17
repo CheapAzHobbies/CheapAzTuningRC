@@ -1,10 +1,10 @@
 # Radio / Receiver Selection — Jato 4EP
 
-> **Running: the FlySky Noble NB4, gen 1, with the FGr4S V2 receiver. Same radio and receiver as the [FastAzJato4x4](../FastAzJato4x4/radio_analysis.md), both on gen 1 handsets**, so there is nothing separate to choose here.
+> **Running: the FlySky Noble NB4, gen 1, with the FGr4S V2 receiver. Same radio and receiver as the [Jato 4SS](../Jato4SS/radio_analysis.md), both on gen 1 handsets**, so there is nothing separate to choose here.
 >
-> **Full comparison:** [FastAzJato4x4 radio analysis](../FastAzJato4x4/radio_analysis.md#comparison).
+> **Full comparison:** [Jato 4SS radio analysis](../Jato4SS/radio_analysis.md#comparison).
 
-<p align="center"><img src="../FastAzJato4x4/src/electronics_flysky_nb4_radio.jpg" width="380"><br><em>The <strong>FlySky Noble NB4</strong>, gen 1 handset, running the small <strong>FGr4S V2</strong> receiver. <strong>$140.91</strong>, the same as the FastAz paid</em></p>
+<p align="center"><img src="../Jato4SS/src/electronics_flysky_nb4_radio.jpg" width="380"><br><em>The <strong>FlySky Noble NB4</strong>, gen 1 handset, running the small <strong>FGr4S V2</strong> receiver. <strong>$140.91</strong>, the same as the 4SS paid</em></p>
 
 <div align="center">
 
@@ -16,4 +16,4 @@
 
 </div>
 
-**Mike paid the same as the FastAz, $140.91**, against a **$175.09** list. 🚧 **The purchase date is not recorded**, and how the receiver is mounted is not either. The FastAz mounts its RX in a waterproof box, see [that doc](../FastAzJato4x4/radio_analysis.md#rx-box-and-how-its-mounted).
+**Mike paid the same as the 4SS, $140.91**, against a **$175.09** list. 🚧 **The purchase date is not recorded**, and how the receiver is mounted is not either. The 4SS mounts its RX in a waterproof box, see [that doc](../Jato4SS/radio_analysis.md#rx-box-and-how-its-mounted).

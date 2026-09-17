@@ -1,4 +1,4 @@
-# Bumper Selection — FastAzJato4x4
+# Bumper Selection — Jato 4SS
 
 > **Front: RPM 81042 Wide Front Bumper ($9.95, black), running. Rear: the TRA9044 skid plate ($7 for the front+rear set), the only rear plate that covers the tongue.** The RPM replaces the stock front skid plate outright and carries the mount points for the stock upper bumper if it ever goes back on. ⚠️ **It is technically worse for nose recovery**, since it protrudes and can catch on a nose-down landing. **That is accepted on purpose here, for the OG Jato look.** [Mike's Rustler front](../Jato4EP/bumper_analysis.md) sits higher and has more clearance if recovery ever matters more than the look. Original reasoning for the 9044 set, which still holds for the rear: Sold as a single front+rear set, same part the K939 build already uses. Minimal-profile and dirt-cheap. Counterintuitive logic: gives almost no real impact protection, but **if the nose or tail hits the ground hard enough to matter, the car is going to cartwheel anyway**. A minimal bumper means the chassis end doesn't dig in, gives a chance to **throttle up and recover from a bad landing** instead of pivoting end-over.
 >

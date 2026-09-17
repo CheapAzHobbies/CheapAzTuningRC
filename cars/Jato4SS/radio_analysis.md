@@ -1,4 +1,4 @@
-# Radio / Receiver Selection — FastAzJato4x4
+# Radio / Receiver Selection — Jato 4SS
 
 > **Chosen: FlySky Noble NB4 transmitter + FlySky FGr4S V2 receiver, in hand.** A color-touchscreen 4-channel surface radio (AFHDS 3) with telemetry and model memory. The NB4 **ships with two receivers (FGR4 + the small FGR4S)**; running the **small FGR4S V2**. Paid **$140.91** (list $175.09). This is what's running the car, not a shortlist.
 
@@ -39,7 +39,7 @@
 
 **It also saves weight while protecting the RX.** A dedicated receiver box is heavier than this, and the alternative of wrapping the receiver in foam and tape protects it less. A $3 shell that keeps dirt and moisture off the FGr4S, mounts on existing holes and adds almost nothing to the car is doing three jobs at once.
 
-<p align="center"><img src="src/electronics_waterproof_receiver_box_slash4x4.jpg" height="257">&nbsp;<img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" height="257"><br><em>The box itself: 55 × 35mm outer, 48mm inner, 32mm deep, 18 g · mounted at an angle in the front battery stopper slots, battery strapped centred alongside</em></p>
+<p align="center"><img src="src/electronics_waterproof_receiver_box_slash4x4.jpg" height="257">&nbsp;<img src="src/overview_jato4ss_rx_box_battery_layout.jpeg" height="257"><br><em>The box itself: 55 × 35mm outer, 48mm inner, 32mm deep, 18 g · mounted at an angle in the front battery stopper slots, battery strapped centred alongside</em></p>
 
 **Consequence for the battery:** the box occupies the battery side of the deck, so the pack has to sit centred and the space for it is fixed. That is what forces a **shorty**, and the reasoning lives in [`battery_analysis.md`](battery_analysis.md#chassis-layout-and-shortlist).
 

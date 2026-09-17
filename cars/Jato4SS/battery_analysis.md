@@ -1,4 +1,4 @@
-# Battery Selection — FastAzJato4x4
+# Battery Selection — Jato 4SS
 
 > **Chosen: Gens Ace Redline 2.0 4S HV 6000mAh**, a pair bought 2026-08-31 at $92.26 each. The spec this car buys to is a **4S hardcase shorty**, and on that shortlist the Gens Ace is both the lightest at **410g** and among the cheapest, which is the combination that decides it. **The Redline is already strapped into the chassis**, so this one is settled rather than pending.
 
@@ -37,7 +37,7 @@
 
 **This car runs the [AliExpress CF LCG chassis](chassis_analysis.md) with its aluminium battery holder and straps, so height is effectively not a limit.** A strapped pack on a CF deck isn't boxed in by a moulded tray the way a stock truck is. Every candidate here measures 47 to 50.5mm tall and the 47mm HCL-HP already went in, so height isn't what decides a pack on this car. **Body clearance is fine too**, a 47mm pack fits under the stock Jato 4x4 body, so there is no need to trade capacity for a shorter case to get the shell on.
 
-<p align="center"><img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="600"><br><em>The layout that sets the battery rule: RX box (clear blue) sits on the battery side, Redline shorty strapped centred on the CF deck. Box details in <a href="radio_analysis.md#rx-box-and-how-its-mounted">radio_analysis.md</a></em></p>
+<p align="center"><img src="src/overview_jato4ss_rx_box_battery_layout.jpeg" width="600"><br><em>The layout that sets the battery rule: RX box (clear blue) sits on the battery side, Redline shorty strapped centred on the CF deck. Box details in <a href="radio_analysis.md#rx-box-and-how-its-mounted">radio_analysis.md</a></em></p>
 
 **Length is the real constraint, and it comes from the RX box.** The receiver box sits on the battery side of this chassis, as in the photo above, and the pack has to sit centred. **There is physically room for a full length pack**, so this is not a clearance problem. The problem is where that length forces the mass to sit: with the box taking its space, a 138 to 160mm brick ends up well rearward, and this car is **already tail heavy from the rear motor** (the same reason it runs [heavier rear shock oil](shock_analysis.md)). That would make it strongly rear biased. **A slightly longer shorty is fine**, the 106mm ones included, since they still sit centred. The rule is against a full length pack, not against every extra millimetre.
 

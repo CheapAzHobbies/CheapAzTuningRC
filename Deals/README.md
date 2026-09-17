@@ -2,7 +2,7 @@
 
 Single home for all price tracking, coupon codes, and sale events that aren't tied to one specific car.
 
-> **Car-specific** part prices (e.g. the FastAzJato4x4 chassis) live in that car's `<part>_analysis.md` Price History section, **cross-linked here** when a coupon code from this folder was the path to the price.
+> **Car-specific** part prices (e.g. the Jato 4SS chassis) live in that car's `<part>_analysis.md` Price History section, **cross-linked here** when a coupon code from this folder was the path to the price.
 
 ---
 
@@ -23,7 +23,7 @@ Single home for all price tracking, coupon codes, and sale events that aren't ti
 
 - **Generic part deal** (servo / ESC / battery / connector / wire — not tied to one car) → relevant `<category>.md` in this folder
 - **Coupon code** (sitewide promo like SSUS14, FAVEDEAL20) → `aliexpress_codes.md` (or a future `ebay_codes.md`)
-- **Car-specific part purchase** (the chassis for FastAzJato4x4, the motor for K939) → that car's `<part>_analysis.md` Price History — link back here if a code from this folder helped
+- **Car-specific part purchase** (the chassis for Jato 4SS, the motor for K939) → that car's `<part>_analysis.md` Price History — link back here if a code from this folder helped
 - **One-time sale event** (brand-wide promo, e.g. Castle Memorial Day) → new `brand_sale-name_year.md` file
 
 ---

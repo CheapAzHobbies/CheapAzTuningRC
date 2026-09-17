@@ -1,4 +1,4 @@
-# Hub Selection — FastAzJato4x4
+# Hub Selection — Jato 4SS
 
 > Covers the carriers themselves. The **17mm hexes the wheels mount to** moved in with the stubs that gate them, see [`driveshaft_analysis.md`](driveshaft_analysis.md#17mm-wheel-hexes).
 >

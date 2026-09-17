@@ -1,4 +1,4 @@
-# Shock Tower Selection — FastAzJato4x4
+# Shock Tower Selection — Jato 4SS
 
 > **Chosen: stock Traxxas composite #9033 front, G-Maxx carbon fibre rear.** Not the full CF set. This car is tail heavy, so the front keeps the tougher, simpler plastic tower and the rear sheds what it can. The carbon rear is there because it **takes the Jato wing mount and keeps the shock positioning**, which the $6 Slash rear towers don't. On a Jato 3.3 shell that doesn't matter, and either Slash tower is fine for about $12 all in.
 

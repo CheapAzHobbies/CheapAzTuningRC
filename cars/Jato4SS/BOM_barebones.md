@@ -1,4 +1,4 @@
-# Bare-Bones BOM — FastAzJato4x4
+# Bare-Bones BOM — Jato 4SS
 
 **Buy a running Jato 4x4 for $200, then spend ~$465 turning it into this car.** Total **~$665**, against ~$1,115 for the real build.
 

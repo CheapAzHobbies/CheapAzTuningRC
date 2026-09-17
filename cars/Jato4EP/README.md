@@ -20,7 +20,7 @@
 
 </div>
 
-> **Jato 4EP, the Jato 4×4 Experimental Prototype.** Owned and driven by **Micheal Ritchie**, and the bench the [FastAzJato4x4](../FastAzJato4x4/README.md) was developed on (that build is co-developed with him). The name is the job: this is where a setting gets tried before it is trusted. Setup notes recorded here for reference and cross-build tuning.
+> **Jato 4EP, the Jato 4×4 Experimental Prototype.** Owned and driven by **Micheal Ritchie**, and the bench the [Jato 4SS](../Jato4SS/README.md) was developed on (that build is co-developed with him). The name is the job: this is where a setting gets tried before it is trusted. Setup notes recorded here for reference and cross-build tuning.
 
 ---
 
@@ -54,7 +54,7 @@
 
 **Base Car:** started as a **running Traxxas Slash 4x4**, built up to Jato 4x4 spec.
 
-> **This is the car the [FastAzJato4x4](../FastAzJato4x4/README.md) was born out of.** Mike's Jato came first and the R&D happened here: the diff and shock oils, the pistons and the custom axle build were all worked out on this car, together, and the FastAz inherited the answers. So where the two docs agree, **this is the origin and that one is the copy**, worth knowing when the settings look identical.
+> **This is the car the [Jato 4SS](../Jato4SS/README.md) was born out of.** Mike's Jato came first and the R&D happened here: the diff and shock oils, the pistons and the custom axle build were all worked out on this car, together, and the 4SS inherited the answers. So where the two docs agree, **this is the origin and that one is the copy**, worth knowing when the settings look identical.
 >
 > The two have since diverged. This car keeps the **plastic chassis**, runs **different hubs**, and solves the hub-bearing problem the opposite way (bigger bearing, shaved hexes, rather than a sleeve). Those differences are the interesting part and are called out section by section below.
 >
@@ -77,9 +77,9 @@
 
 </div>
 
-> **Same spec as the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil), and this car is where it was arrived at**, the two were tuned together, starting here. Rear heavier than front because the motor sits at the back and the car is tail-heavy for a 1/8.
+> **Same spec as the [Jato 4SS](../Jato4SS/shock_analysis.md#setup-spec-springs--pistons--oil), and this car is where it was arrived at**, the two were tuned together, starting here. Rear heavier than front because the motor sits at the back and the car is tail-heavy for a 1/8.
 >
-> 🔧 **If the rear packs, drop it to 47.5wt** (Associated FT, 613 cSt), one small step down from the 50wt in it now. This car's rear piston is the more restrictive **6 × 1.2**, so it is likelier to pack than the FastAz. See [`shock_analysis.md`](shock_analysis.md#if-the-rear-packs).
+> 🔧 **If the rear packs, drop it to 47.5wt** (Associated FT, 613 cSt), one small step down from the 50wt in it now. This car's rear piston is the more restrictive **6 × 1.2**, so it is likelier to pack than the 4SS. See [`shock_analysis.md`](shock_analysis.md#if-the-rear-packs).
 
 ### Pistons
 
@@ -112,7 +112,7 @@
 
 </div>
 
-> **Why the change:** the Lighthouse front C-hub and carrier broke, so Mike moved onto a **MonsterKingz metal set bought off the FastAzJato4x4 for $50** (2026-09-07). **It didn't fail stock**, he'd filed the hinge pocket for droop. Full write-up, the measured Lighthouse weights and the planned rear shave are all in [`hub_analysis.md`](hub_analysis.md). The **shaved 17mm hexes** now live with the stubs that gate them, in [`driveshaft_analysis.md`](driveshaft_analysis.md#17mm-wheel-hexes).
+> **Why the change:** the Lighthouse front C-hub and carrier broke, so Mike moved onto a **MonsterKingz metal set bought off the Jato 4SS for $50** (2026-09-07). **It didn't fail stock**, he'd filed the hinge pocket for droop. Full write-up, the measured Lighthouse weights and the planned rear shave are all in [`hub_analysis.md`](hub_analysis.md). The **shaved 17mm hexes** now live with the stubs that gate them, in [`driveshaft_analysis.md`](driveshaft_analysis.md#17mm-wheel-hexes).
 
 ---
 
@@ -124,13 +124,13 @@
 
 | Component | Part | Notes |
 |:---|:---|:---|
-| Chassis | **Traxxas 7422 LCG plastic** ($20) | **The big divergence from the [FastAzJato4x4](../FastAzJato4x4/chassis_analysis.md), which went carbon fiber.** Plastic flexes rather than cracking. ⚠️ **It's the LCG chassis, so LCG-only parts are what fit** |
-| Front bulkhead | **Powerhobby aluminum** | The front is where bulkheads get loaded and where the plastic one gives up. On the FastAz this came bundled with the CF chassis kit; here it's the standalone part (~$36.99 on its own, [`chassis_analysis.md`](../FastAzJato4x4/chassis_analysis.md#bulkheads-front--rear)) |
+| Chassis | **Traxxas 7422 LCG plastic** ($20) | **The big divergence from the [Jato 4SS](../Jato4SS/chassis_analysis.md), which went carbon fiber.** Plastic flexes rather than cracking. ⚠️ **It's the LCG chassis, so LCG-only parts are what fit** |
+| Front bulkhead | **Powerhobby aluminum** | The front is where bulkheads get loaded and where the plastic one gives up. On the 4SS this came bundled with the CF chassis kit; here it's the standalone part (~$36.99 on its own, [`chassis_analysis.md`](../Jato4SS/chassis_analysis.md#bulkheads-front--rear)) |
 | Centre brace | **Steel, VG-style** ($18.99) | **The Slash came with no brace**, so this was added, not replaced (the *Jato* OE brace is the one that breaks). ⚠️ **LCG only, won't fit HCG.** Cheaper pick is the **$6 plastic 9024**, see [`chassis_analysis.md`](chassis_analysis.md#chassis-bracing) |
 
 </div>
 
-> **The honest cheap route:** a plastic chassis plus one alloy front bulkhead covers the part that actually fails, without the carbon kit. It's also the pairing that makes [metal arms risky](../FastAzJato4x4/arm_analysis.md), FLM arms strip a *plastic* bulkhead. Full reasoning, and why this choice makes the [battery mounting](battery_mount_analysis.md) unique to this car, in [`chassis_analysis.md`](chassis_analysis.md).
+> **The honest cheap route:** a plastic chassis plus one alloy front bulkhead covers the part that actually fails, without the carbon kit. It's also the pairing that makes [metal arms risky](../Jato4SS/arm_analysis.md), FLM arms strip a *plastic* bulkhead. Full reasoning, and why this choice makes the [battery mounting](battery_mount_analysis.md) unique to this car, in [`chassis_analysis.md`](chassis_analysis.md).
 
 ---
 
@@ -147,15 +147,15 @@
 
 </div>
 
-### Custom Axles (shared with FastAzJato4x4)
+### Custom Axles (shared with Jato 4SS)
 
-> **Bearings:** this car runs a **bare 10×18×5 in the hub**, which needed the **17mm hex adapters shaved down** to fit, not the hub carriers. The FastAz solves the same problem with a sleeve and a 10×15×4 instead, so only the hub position differs. Full list, costs and the route comparison in [`bearings_reference.md`](bearings_reference.md).
+> **Bearings:** this car runs a **bare 10×18×5 in the hub**, which needed the **17mm hex adapters shaved down** to fit, not the hub carriers. The 4SS solves the same problem with a sleeve and a 10×15×4 instead, so only the hub position differs. Full list, costs and the route comparison in [`bearings_reference.md`](bearings_reference.md).
 
-Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (TRA6851R + TRA6852R clones) on **TRA6752 long output shafts at all four corners**, with **Tekno stubs**. **The axles are basically the Jato 4x4 part**, so they bolt straight in with **no cutting, welding or joining**. Full assembly and costs in [`FastAzJato4x4/driveshaft_analysis.md`](../FastAzJato4x4/driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
+Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (TRA6851R + TRA6852R clones) on **TRA6752 long output shafts at all four corners**, with **Tekno stubs**. **The axles are basically the Jato 4x4 part**, so they bolt straight in with **no cutting, welding or joining**. Full assembly and costs in [`Jato4SS/driveshaft_analysis.md`](../Jato4SS/driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 
 ### Diff Oil
 
-> **This car is where the setup came from.** Mike's Jato was the first of the two, and the oils were tuned here together before the [FastAzJato4x4](../FastAzJato4x4/differential_analysis.md) inherited them. **The front and centre match on both cars, but the rear does not**, since this one is greased rather than oiled.
+> **This car is where the setup came from.** Mike's Jato was the first of the two, and the oils were tuned here together before the [Jato 4SS](../Jato4SS/differential_analysis.md) inherited them. **The front and centre match on both cars, but the rear does not**, since this one is greased rather than oiled.
 
 <div align="center">
 
@@ -195,7 +195,7 @@ Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (
 
 </div>
 
-> **Wide-track trick:** RedSpider tires mounted on the wider **Traxxas Jato 4x4 rims**, which pushes the wheels out and **widens the stance by a lot**. More stability and corner grip, at the cost of being **outside ROAR width**. The FastAz runs the same tire on standard rims to stay legal. Also note these take **~7 packs to wear in**. Full write-up in [`wheel_analysis.md`](wheel_analysis.md).
+> **Wide-track trick:** RedSpider tires mounted on the wider **Traxxas Jato 4x4 rims**, which pushes the wheels out and **widens the stance by a lot**. More stability and corner grip, at the cost of being **outside ROAR width**. The 4SS runs the same tire on standard rims to stay legal. Also note these take **~7 packs to wear in**. Full write-up in [`wheel_analysis.md`](wheel_analysis.md).
 
 ---
 
@@ -242,7 +242,7 @@ Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (
 
 Original intuition was that **higher RPM** = better air control, so chasing the smallest pinion was the obvious move. Real-world finding: **torque matters as much as RPM**, gearing for the **power-band sweet spot** (12T here, not the tiniest pinion) makes mid-air corrections feel just as responsive as the high-RPM theory promised, *and* keeps the motor cooler because it's neither lugging nor screaming.
 
-The on-track observations, the service tracking and the full write-up are in [`esc_motor_analysis.md`](esc_motor_analysis.md). It's also the empirical data point behind the FastAzJato4x4 pinion decision: pinion sizing is **not** purely a top-speed equation.
+The on-track observations, the service tracking and the full write-up are in [`esc_motor_analysis.md`](esc_motor_analysis.md). It's also the empirical data point behind the Jato 4SS pinion decision: pinion sizing is **not** purely a top-speed equation.
 
 ---
 
@@ -254,7 +254,7 @@ The on-track observations, the service tracking and the full write-up are in [`e
 
 | Date | Part | Qty | Total | Source |
 |:---|:---|:---|:---|:---|
-| 2026-09-07 | MonsterKingz / G-Maxx 7075 alloy hub set (front + rear) | 1 set | $50.00 | Bought off the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md) |
+| 2026-09-07 | MonsterKingz / G-Maxx 7075 alloy hub set (front + rear) | 1 set | $50.00 | Bought off the [Jato 4SS](../Jato4SS/hub_analysis.md) |
 | 2026-05-19 | LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S (black) | 1 | $15.29 | AliExpress, LIGHT HOUSE 188527 Store |
 | 2026-05-19 | LIGHT HOUSE Aluminum Front Hub/Knuckle Arm for Traxxas Jato 4x4 BL-2S (black) | 1 | $14.42 | AliExpress, LIGHT HOUSE 188527 Store |
 
@@ -270,7 +270,7 @@ The on-track observations, the service tracking and the full write-up are in [`e
 
 ## Analysis Docs
 
-Each one is a summary of **what is fitted**, with a link out to the [FastAzJato4x4](../FastAzJato4x4/README.md) doc for the full comparison.
+Each one is a summary of **what is fitted**, with a link out to the [Jato 4SS](../Jato4SS/README.md) doc for the full comparison.
 
 <div align="center">
 
@@ -292,7 +292,7 @@ Each one is a summary of **what is fitted**, with a link out to the [FastAzJato4
 
 - [x] Chassis confirmed: **Traxxas 7422 LCG + Powerhobby alloy front bulkhead + steel centre brace**
 - [x] Electronics and drivetrain recorded: Mamba X SCT + 1412 combo, 11T/54T, TRA6855 centre shaft, stock housings
-- [x] Arm setup confirmed against the FastAz: **FLM26800**, and the Slash-vs-Jato shock mount costs ~5mm of wheelbase
+- [x] Arm setup confirmed against the 4SS: **FLM26800**, and the Slash-vs-Jato shock mount costs ~5mm of wheelbase
 - [ ] Weigh the car (no all-up figure recorded yet)
 - [ ] Add photos of the car itself, most shots here are of parts
 
@@ -301,6 +301,6 @@ Each one is a summary of **what is fitted**, with a link out to the [FastAzJato4
 <div align="center">
 
 <sub><b>THE 4EP GAZETTE</b> · Published irregularly from the bench · All prices as paid, all weights as measured<br>
-Sister publication: <a href="../FastAzJato4x4/README.md">The FastAz Jato 4x4</a> · Accounts settled in the <a href="../../LEDGER.md">LEDGER</a></sub>
+Sister publication: <a href="../Jato4SS/README.md">The 4SS Jato 4x4</a> · Accounts settled in the <a href="../../LEDGER.md">LEDGER</a></sub>
 
 </div>

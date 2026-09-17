@@ -1,4 +1,4 @@
-# Sway Bar Selection — FastAzJato4x4
+# Sway Bar Selection — Jato 4SS
 
 > **Chosen: no sway bars.** This track works better without them, the loose, rough dirt surface rewards independent wheel compliance (mechanical grip + bump absorption) over the flatter cornering a bar buys you. Sway bars trade away suspension compliance for less body roll, and on this track that trade isn't worth it. Lighter and simpler with nothing extra to break. Easy to bolt on later if the track changes.
 

@@ -1,10 +1,10 @@
 # Suspension Arm Selection — Jato 4EP
 
-> **Running: FLM26800 extended arms at both ends.** 6061 aluminum, **101.6mm hole to hole against 92mm for the stock TRA3655**, so each arm pushes the wheel out about **9.6mm per side**. Same arm the [FastAz](../FastAzJato4x4/arm_analysis.md) runs, same part front and rear.
+> **Running: FLM26800 extended arms at both ends.** 6061 aluminum, **101.6mm hole to hole against 92mm for the stock TRA3655**, so each arm pushes the wheel out about **9.6mm per side**. Same arm the [4SS](../Jato4SS/arm_analysis.md) runs, same part front and rear.
 >
-> **Full comparison of every arm that fits:** [FastAzJato4x4 arm analysis](../FastAzJato4x4/arm_analysis.md#arm-comparison).
+> **Full comparison of every arm that fits:** [Jato 4SS arm analysis](../Jato4SS/arm_analysis.md#arm-comparison).
 
-<p align="center"><img src="../FastAzJato4x4/src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="300"><br><em><strong>FLM26800</strong> extended arms, 6061 aluminum, front and rear</em></p>
+<p align="center"><img src="../Jato4SS/src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="300"><br><em><strong>FLM26800</strong> extended arms, 6061 aluminum, front and rear</em></p>
 
 ---
 
@@ -27,7 +27,7 @@
 
 All of these share the **TRA3655 hinge pin and mount pattern**, so any of them bolt on. Only the FLM changes track width. Mike runs the **FLM26800**.
 
-<p align="center"><img src="../FastAzJato4x4/src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" height="120">&nbsp;<img src="../FastAzJato4x4/src/suspension_traxxas_slash4x4_oem_arms_tra3655x.jpg" height="120">&nbsp;<img src="../FastAzJato4x4/src/suspension_traxxas_hd_arms_tra3655-blk.jpg" height="120">&nbsp;<img src="../FastAzJato4x4/src/suspension_traxxas_oem_original_arms_tra3655.jpg" height="120">&nbsp;<img src="../FastAzJato4x4/src/suspension_traxxas_slash4x4_hd_arms_tra3655r.jpg" height="120">&nbsp;<img src="../FastAzJato4x4/src/suspension_proline_protrac_arms_pro6082-01.jpg" height="120">&nbsp;<img src="../FastAzJato4x4/src/suspension_rpm_arms_rpm80702.jpg" height="120"><br><em><strong>FLM26800, fitted</strong> · TRA3655X · TRA3655-BLK · TRA3655 · TRA3655R · PRO6082-01 · RPM80702</em></p>
+<p align="center"><img src="../Jato4SS/src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" height="120">&nbsp;<img src="../Jato4SS/src/suspension_traxxas_slash4x4_oem_arms_tra3655x.jpg" height="120">&nbsp;<img src="../Jato4SS/src/suspension_traxxas_hd_arms_tra3655-blk.jpg" height="120">&nbsp;<img src="../Jato4SS/src/suspension_traxxas_oem_original_arms_tra3655.jpg" height="120">&nbsp;<img src="../Jato4SS/src/suspension_traxxas_slash4x4_hd_arms_tra3655r.jpg" height="120">&nbsp;<img src="../Jato4SS/src/suspension_proline_protrac_arms_pro6082-01.jpg" height="120">&nbsp;<img src="../Jato4SS/src/suspension_rpm_arms_rpm80702.jpg" height="120"><br><em><strong>FLM26800, fitted</strong> · TRA3655X · TRA3655-BLK · TRA3655 · TRA3655R · PRO6082-01 · RPM80702</em></p>
 
 <div align="center">
 
@@ -68,4 +68,4 @@ All of these share the **TRA3655 hinge pin and mount pattern**, so any of them b
 - **Track width, not wheelbase.** Longer arms move the wheel outboard, which is track. Wheelbase is front axle to rear axle and no arm changes it. The giveaway is that the gain is quoted **per side**, and that the [axles had to get longer](driveshaft_analysis.md), since axle length is a lateral measurement.
 - **The 5mm wheelbase note does not apply to this car.** A *Slash 4x4* shock mount sits further forward and stretches the car about 5mm over the Jato arrangement. Mike runs the **Jato TRA9034 rear tower**, so he has the Jato geometry and not that extra 5mm. See [`shock_tower_analysis.md`](shock_tower_analysis.md).
 - **Arms are the intended fuse.** They bend rather than snap, get pounded back to shape, and the car keeps running. Bend one back three times and it has already beaten a cheaper arm that shatters.
-- **No arm guards on this car.** The FastAz runs [TRA6732 / TRA6733 guards](../FastAzJato4x4/arm_analysis.md#shock-guards) because it has no front bumper. Mike does, the **Rustler TRA6736**, so the front shocks and arms are already covered. See [`bumper_analysis.md`](bumper_analysis.md).
+- **No arm guards on this car.** The 4SS runs [TRA6732 / TRA6733 guards](../Jato4SS/arm_analysis.md#shock-guards) because it has no front bumper. Mike does, the **Rustler TRA6736**, so the front shocks and arms are already covered. See [`bumper_analysis.md`](bumper_analysis.md).

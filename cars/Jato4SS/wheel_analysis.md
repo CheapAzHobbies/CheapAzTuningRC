@@ -1,4 +1,4 @@
-# Wheel & Tire Selection — FastAzJato4x4
+# Wheel & Tire Selection — Jato 4SS
 
 > **Running: IMEX 1/8th Rally chrome rims (IMX7893) with the $3.87 Mitsubishi-tread 26013 tires and the blue closed-cell race foams.** The IMEX rims came with glued rally slicks, but the rims are old and the glue had deteriorated. The slicks worked really well on track and were fun to drift, but not for racing, so they came off. **Heads up: the race tires here are soft and non-belted, so mind the RPM.** An aggressive trigger rips non-belted tires (even AKA / Pro-Line / JConcepts), not just the cheap ones, so ease into the throttle. The 26013 is softer, but worn in and stretched slowly it turns very durable.
 >

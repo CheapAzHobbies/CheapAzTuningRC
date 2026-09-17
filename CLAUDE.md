@@ -55,7 +55,7 @@ When the user shares a price/coupon, route it to the right place inside `Deals/`
 - **Servo price** → `Deals/servos.md`. Same grouped-by-model structure.
 - **ESC price** → `Deals/escs.md`. Same structure.
 - **AliExpress coupon code** (sitewide promo like SSUS14) → `Deals/aliexpress_codes.md`. Active-sale table sorted by % off descending.
-- **Car-specific part price** (the chassis for FastAzJato4x4, the motor for K939) → that part's `<part>_analysis.md` Price History section. Cross-link to the relevant `Deals/<file>.md` if a code there helped.
+- **Car-specific part price** (the chassis for Jato 4SS, the motor for K939) → that part's `<part>_analysis.md` Price History section. Cross-link to the relevant `Deals/<file>.md` if a code there helped.
 - **One-time sale event** (brand-wide, e.g. Castle Memorial Day) → new `Deals/brand_sale-name_year.md`.
 
 If a new generic-part category comes up (connectors, wire, bearings, etc.) and a deal isn't a one-off, create `Deals/<category>.md` following the same structure.
@@ -98,7 +98,7 @@ New info from the user **overrides** existing values in the README, even if the 
 
 ## Cars belonging to others
 
-The user's friend Mike has related builds (FastAzJato4x4 is co-developed with him). Mike's cars get their own folder under `cars/` (e.g. `cars/Jato4EP/`) with a note linking back to the related user build.
+The user's friend Mike has related builds (Jato 4SS is co-developed with him). Mike's cars get their own folder under `cars/` (e.g. `cars/Jato4EP/`) with a note linking back to the related user build.
 
 ## Battery tracker conventions (`batteries/README.md`)
 

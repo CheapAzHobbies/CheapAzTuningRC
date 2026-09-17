@@ -1,12 +1,12 @@
 # Shock Selection — Jato 4EP
 
-> **Running: HPI Apache C1 big bores, 16mm bore, 97mm.** Same shock the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md) runs **internally**, but that car uses the **metal Hot Bodies D8** bodies while this one is on the **plastic C1**. Shaft, piston interface, internal volume and external dimensions are identical, so **every part interchanges** and only the body material differs.
+> **Running: HPI Apache C1 big bores, 16mm bore, 97mm.** Same shock the [Jato 4SS](../Jato4SS/shock_analysis.md) runs **internally**, but that car uses the **metal Hot Bodies D8** bodies while this one is on the **plastic C1**. Shaft, piston interface, internal volume and external dimensions are identical, so **every part interchanges** and only the body material differs.
 >
-> **Same springs and the same oil as the FastAz.** The one real difference is the piston.
+> **Same springs and the same oil as the 4SS.** The one real difference is the piston.
 >
-> **Full comparison, spring charts and the plastic vs metal argument:** [FastAzJato4x4 shock analysis](../FastAzJato4x4/shock_analysis.md#plastic-vs-metal-body-trade-off).
+> **Full comparison, spring charts and the plastic vs metal argument:** [Jato 4SS shock analysis](../Jato4SS/shock_analysis.md#plastic-vs-metal-body-trade-off).
 
-<p align="center"><img src="../FastAzJato4x4/src/suspension_hpi_shocks_apache_c1_107365.jpg" height="150">&nbsp;<img src="../FastAzJato4x4/src/suspension_losi_shock_oil_37-5wt_tlr74030.jpg" height="150">&nbsp;<img src="../FastAzJato4x4/src/suspension_associated_shock_fluid_50wt_asc5480.jpg" height="150"><br><em>What's fitted: <strong>HPI Apache C1</strong> 16mm big bores · <strong>Losi TLR74030 37.5wt</strong> in the front · <strong>Associated 5480 FT 50wt</strong> in the rear</em></p>
+<p align="center"><img src="../Jato4SS/src/suspension_hpi_shocks_apache_c1_107365.jpg" height="150">&nbsp;<img src="../Jato4SS/src/suspension_losi_shock_oil_37-5wt_tlr74030.jpg" height="150">&nbsp;<img src="../Jato4SS/src/suspension_associated_shock_fluid_50wt_asc5480.jpg" height="150"><br><em>What's fitted: <strong>HPI Apache C1</strong> 16mm big bores · <strong>Losi TLR74030 37.5wt</strong> in the front · <strong>Associated 5480 FT 50wt</strong> in the rear</em></p>
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ⚠️ **Stay in Associated for this step.** **TLR does not make a 47.5wt at all**, and the two brands split badly at this end of the range: Associated 50wt is **640 cSt** against TLR 50wt at **710 cSt**, nearly a full step apart. If only TLR is on the shelf, **TLR 45wt (610 cSt) is the near equivalent** of Associated 47.5wt (613 cSt). Full chart in the [shock oil supertable](../ERevo_1.0/shock_analysis.md#shock-oil-supertable--wt--cst-across-brands-up-to-5000-cst).
 
-> **Why this car and not the other.** The rear piston here is **6 hole × 1.2mm**, where the [FastAz](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil) runs **6 × 1.4mm**. Smaller holes restrict flow more, which is exactly what makes a shock pack, so **the same 50wt oil is doing a harder job in this car's rear** than in that one's.
+> **Why this car and not the other.** The rear piston here is **6 hole × 1.2mm**, where the [4SS](../Jato4SS/shock_analysis.md#setup-spec-springs--pistons--oil) runs **6 × 1.4mm**. Smaller holes restrict flow more, which is exactly what makes a shock pack, so **the same 50wt oil is doing a harder job in this car's rear** than in that one's.
 
 🚧 The Associated 47.5wt part number is not recorded.
 
@@ -48,7 +48,7 @@
 |---|---|
 | **Shocks** | **HPI Apache C1**, part **107365**, 16mm bore, 97mm shaft, plastic body |
 | **Price** | 🚧 not recorded |
-| **Spares** | Bodies, seals and caps interchange with the Hot Bodies D8, see the [FastAz spares table](../FastAzJato4x4/shock_analysis.md#replacement-parts-shock-bodies) |
+| **Spares** | Bodies, seals and caps interchange with the Hot Bodies D8, see the [4SS spares table](../Jato4SS/shock_analysis.md#replacement-parts-shock-bodies) |
 
 </div>
 

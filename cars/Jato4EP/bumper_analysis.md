@@ -1,14 +1,14 @@
 # Bumper Selection — Jato 4EP
 
-> **Running the Traxxas TRA6736 Rustler 4x4 front bumper with the TRA9044 rear skid.** The front is where this car and the [FastAzJato4x4](../FastAzJato4x4/bumper_analysis.md) go separate ways; that one runs the **RPM 81042 wide front**. Both cars run the same 9044 at the rear.
+> **Running the Traxxas TRA6736 Rustler 4x4 front bumper with the TRA9044 rear skid.** The front is where this car and the [Jato 4SS](../Jato4SS/bumper_analysis.md) go separate ways; that one runs the **RPM 81042 wide front**. Both cars run the same 9044 at the rear.
 >
 > ⚠️ **The bumpers hold the arm hinge pins in their bores.** Take them off and the pins walk out, the arms come loose, and the car is done. They're structural hardware, so every version of this build has had them.
 >
-> **Both bumpers look good.** The FastAz runs the RPM because it gives that car the **OG Jato** look, and it pays for that with slightly worse nose recovery. Mike's Rustler front **sits higher and clears more ground**, which is the practical difference between the two.
+> **Both bumpers look good.** The 4SS runs the RPM because it gives that car the **OG Jato** look, and it pays for that with slightly worse nose recovery. Mike's Rustler front **sits higher and clears more ground**, which is the practical difference between the two.
 >
-> **Full comparison of every bumper that fits:** [FastAzJato4x4 bumper analysis](../FastAzJato4x4/bumper_analysis.md#bumper-options).
+> **Full comparison of every bumper that fits:** [Jato 4SS bumper analysis](../Jato4SS/bumper_analysis.md#bumper-options).
 
-<p align="center"><img src="../FastAzJato4x4/src/bumpers_traxxas_rustler_4x4_front_6736.jpg" height="240">&nbsp;<img src="../FastAzJato4x4/src/bumpers_traxxas_skid_plates_tra9044.jpg" height="240"><br><em>What's fitted: <strong>TRA6736</strong> Rustler 4x4 front bumper and support · <strong>TRA9044</strong> skid plates, the rear half only</em></p>
+<p align="center"><img src="../Jato4SS/src/bumpers_traxxas_rustler_4x4_front_6736.jpg" height="240">&nbsp;<img src="../Jato4SS/src/bumpers_traxxas_skid_plates_tra9044.jpg" height="240"><br><em>What's fitted: <strong>TRA6736</strong> Rustler 4x4 front bumper and support · <strong>TRA9044</strong> skid plates, the rear half only</em></p>
 
 ---
 
@@ -37,14 +37,14 @@
 
 All of these bolt to the same Slash 4x4 and Jato 4x4 mount pattern. Mike runs the **TRA6736**.
 
-<p align="center"><img src="../FastAzJato4x4/src/bumpers_traxxas_rustler_4x4_front_6736.jpg" height="115">&nbsp;<img src="../FastAzJato4x4/src/bumpers_rpm_wide_front_81042_black.webp" height="115">&nbsp;<img src="../FastAzJato4x4/src/bumpers_traxxas_rustler_4x4_front_rear_6736_6737.jpg" height="115">&nbsp;<img src="../FastAzJato4x4/src/bumpers_traxxas_slash_4x4_front_tra6835.jpg" height="115">&nbsp;<img src="../FastAzJato4x4/src/bumpers_traxxas_rustler_4x4_front_led_6797.jpg" height="115">&nbsp;<img src="../FastAzJato4x4/src/bumpers_traxxas_rustler_4x4_front_led_support_6736x.jpg" height="115"><br><em><strong>TRA6736, fitted</strong> · RPM 81042 · TRA6736 + 6737 pair · TRA6835 · TRA6797 LED · TRA6736X LED</em></p>
+<p align="center"><img src="../Jato4SS/src/bumpers_traxxas_rustler_4x4_front_6736.jpg" height="115">&nbsp;<img src="../Jato4SS/src/bumpers_rpm_wide_front_81042_black.webp" height="115">&nbsp;<img src="../Jato4SS/src/bumpers_traxxas_rustler_4x4_front_rear_6736_6737.jpg" height="115">&nbsp;<img src="../Jato4SS/src/bumpers_traxxas_slash_4x4_front_tra6835.jpg" height="115">&nbsp;<img src="../Jato4SS/src/bumpers_traxxas_rustler_4x4_front_led_6797.jpg" height="115">&nbsp;<img src="../Jato4SS/src/bumpers_traxxas_rustler_4x4_front_led_support_6736x.jpg" height="115"><br><em><strong>TRA6736, fitted</strong> · RPM 81042 · TRA6736 + 6737 pair · TRA6835 · TRA6797 LED · TRA6736X LED</em></p>
 
 <div align="center">
 
 | Part | Bumper | Price |
 |:---|:---|:---|
 | ⭐ **TRA6736** | Rustler 4x4 front with support, fitted here. **Shields the front shocks** | **$6.00** |
-| 🔵 **RPM 81042** | What the FastAz runs, picked there for the **OG Jato look**. Flexible composite that springs back into shape. Sits lower and gives up some nose recovery | $9.95 |
+| 🔵 **RPM 81042** | What the 4SS runs, picked there for the **OG Jato look**. Flexible composite that springs back into shape. Sits lower and gives up some nose recovery | $9.95 |
 | 🔵 **TRA6736 + TRA6737** | The front and rear Rustler pair, the route if a rear bumper ever goes on | ~$5 |
 | 🔵 **TRA6835** | Slash 4x4 front, **the most protective OEM option here**, with a face wide enough to catch the ground and pitch the car over | ~$8 |
 | ❌ ~~**TRA6797**~~ | The same Rustler front **with LEDs built in**. Needs the **TRA6588** power supply on top | $14.95 |
@@ -61,8 +61,8 @@ All of these bolt to the same Slash 4x4 and Jato 4x4 mount pattern. Mike runs th
 ## Notes
 
 - **Hinge-pin retention is what locks bumpers into the [BOM](BOM.md#chassis--bracing).** They hold the arm hinge pins in their bores on this chassis family, so running without them ends the day. They weigh almost nothing anyway.
-- **This bumper shields the front shocks, so the car skips arm guards.** The FastAz runs TRA6732 and TRA6733 guards because its front sits open. See [`arm_analysis.md`](arm_analysis.md).
-- **Half the 9044 set sits spare.** Only the rear plate goes on, same as the FastAz. It's still the cheapest route to that plate, since Traxxas sells it only in the pair.
+- **This bumper shields the front shocks, so the car skips arm guards.** The 4SS runs TRA6732 and TRA6733 guards because its front sits open. See [`arm_analysis.md`](arm_analysis.md).
+- **Half the 9044 set sits spare.** Only the rear plate goes on, same as the 4SS. It's still the cheapest route to that plate, since Traxxas sells it only in the pair.
 - **A bigger front bumper costs you recovery.** The TRA6835 protects more, and its wide face catches the ground on a nose-first landing and pitches the car end over before you can power out. The Rustler front shields the shocks behind a narrower face.
 - **These parts wear from ground contact as much as from crashes**, so cheap matters more than tough. The [extended arms](arm_analysis.md) are the intended fuse here, and they bend before the chassis is in danger.
 - **TRA6737 is the matching Rustler rear** if a rear bumper ever goes on.

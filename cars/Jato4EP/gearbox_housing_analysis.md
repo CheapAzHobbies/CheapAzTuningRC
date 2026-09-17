@@ -1,8 +1,8 @@
 # Gearbox Housing Selection — Jato 4EP
 
-> **Running: the stock Traxxas plastic housings, front and rear.** Nothing was changed here, which is the same conclusion the [FastAzJato4x4](../FastAzJato4x4/gearbox_housing_analysis.md) reached.
+> **Running: the stock Traxxas plastic housings, front and rear.** Nothing was changed here, which is the same conclusion the [Jato 4SS](../Jato4SS/gearbox_housing_analysis.md) reached.
 >
-> **Full comparison, including why aluminium is not worth it:** [FastAzJato4x4 gearbox housing analysis](../FastAzJato4x4/gearbox_housing_analysis.md#why-aluminum-isnt-worth-it-on-this-build).
+> **Full comparison, including why aluminium is not worth it:** [Jato 4SS gearbox housing analysis](../Jato4SS/gearbox_housing_analysis.md#why-aluminum-isnt-worth-it-on-this-build).
 
 <div align="center">
 

@@ -147,7 +147,7 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | | **Checkpoint: -$178.26 → Mike owes ≈ $178.26** | −$69.28 + #91 + #92 + #93 + #94 |
 | 95 | +$100.00 | Mike fixed my real car (non-RC repair), paid $100 cash (2026-09-07) |
 | | **Checkpoint: -$78.26 → Mike owes ≈ $78.26** | −$178.26 + #95 |
-| 96 | -$50.00 | Mike bought the MonsterKingz hub set (in-hand, demoted — see [hub_analysis.md](cars/FastAzJato4x4/hub_analysis.md)) from me for $50 (2026-09-07) |
+| 96 | -$50.00 | Mike bought the MonsterKingz hub set (in-hand, demoted — see [hub_analysis.md](cars/Jato4SS/hub_analysis.md)) from me for $50 (2026-09-07) |
 | | **➡️ Current: -$128.26 → Mike owes ≈ $128.26** | −$78.26 + #96 |
 
 ### Flags to resolve
@@ -195,9 +195,9 @@ My own purchases (parts, cars, supplies).
 
 | Date | Item | Source | Cost | For (car) | Status | Notes |
 |------|------|--------|------|-----------|--------|-------|
-| 2026-06-01 | Axle driveshafts | | $21.10 | FastAzJato4x4 | Purchased | E-Revo CVDs |
+| 2026-06-01 | Axle driveshafts | | $21.10 | Jato 4SS | Purchased | E-Revo CVDs |
 | 2026-05-16 | Metal center diff (Traxxas 6780-style, Slash/Hoss/Rustler 4x4) | TangEmpire (order 8211762212584866) | $18.80 | resold to Mike | Sold | At cost to Mike — see Mike's account #81 |
-| 2025-09-23 | E-Revo CVD 5451R (chopped for custom axles) | Pretty GEM (order 8204620880264866) | $18.75 | Mike's Slash custom axles | Purchased | Cut + rejoined to length — see [driveshaft_analysis](cars/FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) — booked to Mike's account #84 |
+| 2025-09-23 | E-Revo CVD 5451R (chopped for custom axles) | Pretty GEM (order 8204620880264866) | $18.75 | Mike's Slash custom axles | Purchased | Cut + rejoined to length — see [driveshaft_analysis](cars/Jato4SS/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) — booked to Mike's account #84 |
 | — | M6 × 30 mm 304-SS hex standoff (5 pc) — axle joiner | CLOXY Hardware | $4.36 | Mike's Slash custom axles | Purchased | The hex coupling that joins the two chopped CVD ends |
-| 2026-07-02 | FLM26800 Extended Arms — bulk order, 4 pairs (Slash/Jato 4x4 fitment), order #4658 | FLM | $102.90 ($25.725/pair) | 1 pair → Mike's Jato 4x4 (booked #85); remainder → FastAzJato4x4 / spares | Purchased | **FLM July 1st sale, 25% off** — see [`Deals/flm_july_sale_2026.md`](Deals/flm_july_sale_2026.md), check again next July. Mike's pair booked to his account #85 at $25.73 |
-| 2026-07-19 | ACER titanium turnbuckles — 4× M5×64 ($7.99 ea) + 2× M4×60 ($5.99 ea) | ACER Racing (order #581093) | $41.75 (GR40 −$2.19, free ship) | 4× M5×64 → FastAzJato4x4 camber links; 2× M4×60 → resold to Mike (were the planned FastAzJato steering links) | Purchased | 2× M4×60 booked to Mike's account #86 |
+| 2026-07-02 | FLM26800 Extended Arms — bulk order, 4 pairs (Slash/Jato 4x4 fitment), order #4658 | FLM | $102.90 ($25.725/pair) | 1 pair → Mike's Jato 4x4 (booked #85); remainder → Jato 4SS / spares | Purchased | **FLM July 1st sale, 25% off** — see [`Deals/flm_july_sale_2026.md`](Deals/flm_july_sale_2026.md), check again next July. Mike's pair booked to his account #85 at $25.73 |
+| 2026-07-19 | ACER titanium turnbuckles — 4× M5×64 ($7.99 ea) + 2× M4×60 ($5.99 ea) | ACER Racing (order #581093) | $41.75 (GR40 −$2.19, free ship) | 4× M5×64 → Jato 4SS camber links; 2× M4×60 → resold to Mike (were the planned Jato 4SS steering links) | Purchased | 2× M4×60 booked to Mike's account #86 |

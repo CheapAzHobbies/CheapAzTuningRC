@@ -1,5 +1,5 @@
 """
-Brushless motor acceleration sim for FastAzJato4x4.
+Brushless motor acceleration sim for Jato 4SS.
 
 Question: Castle 1412 3200KV (15T pinion) vs Castle 1415 2400KV (20T pinion),
 geared to roughly the same top speed on 4S. Which accelerates faster?
@@ -11,7 +11,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 # ---- vehicle constants ----
-MASS_LB = 6.5             # FastAzJato4x4 with battery, lbs
+MASS_LB = 6.5             # Jato 4SS with battery, lbs
 MASS_KG = MASS_LB * 0.4536
 WHEEL_DIAM_MM = 90        # ~3.5" tires
 WHEEL_R = (WHEEL_DIAM_MM / 1000) / 2
@@ -147,8 +147,8 @@ ax.set_title("Motor RPM")
 ax.legend(loc="lower right", fontsize=9)
 ax.grid(True, alpha=0.3)
 
-fig.suptitle(f"FastAzJato4x4 motor sim — 4S {V_BATT}V, {MASS_LB} lb, ESC limit {I_LIMIT}A", fontsize=13)
+fig.suptitle(f"Jato 4SS motor sim — 4S {V_BATT}V, {MASS_LB} lb, ESC limit {I_LIMIT}A", fontsize=13)
 fig.tight_layout()
-out = "/home/user/CheapAzTuningRC/cars/FastAzJato4x4/src/motor_sim_4s_acceleration.png"
+out = "/home/user/CheapAzTuningRC/cars/Jato4SS/src/motor_sim_4s_acceleration.png"
 fig.savefig(out, dpi=110)
 print(f"\nplot saved -> {out}")

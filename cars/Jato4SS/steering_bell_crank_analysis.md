@@ -1,4 +1,4 @@
-# Steering Bell Crank Selection — FastAzJato4x4
+# Steering Bell Crank Selection — Jato 4SS
 
 > **Chosen: GPM aluminum bell crank (6845X), $19.98, in hand.** GPM and Integy alloy cranks use **brass / oil-sintered bushings** at the secondary joints, though **the four main pivots come as ball bearings and want swapping** (TRA3775). Bushings last basically forever: the cheap bushing wears, never the aluminum, and you just drop in a fresh bushing. The bell crank is a "doesn't-have-to-be-premium" part anyway, the bigger steering wins come from the servo, not the crank.
 
@@ -59,7 +59,7 @@
 
 | Date | Price | Discount Path | Notes |
 |------|-------|---------------|-------|
-| 2025-08-24 | **$7.69** ✅ **purchased** | Listed price | Order #24-13486-84641 from eBay seller **gottshall5896**. Delivered 2025-08-30. Title: "Traxxas Oilite Bushings 5x8x2.5mm Bandit Stampede Rustler Steering Posts 3775". Pack of 12 bushings. Already in hand for the FastAzJato build |
+| 2025-08-24 | **$7.69** ✅ **purchased** | Listed price | Order #24-13486-84641 from eBay seller **gottshall5896**. Delivered 2025-08-30. Title: "Traxxas Oilite Bushings 5x8x2.5mm Bandit Stampede Rustler Steering Posts 3775". Pack of 12 bushings. Already in hand for the Jato 4SS build |
 
 <p align="center"><img src="src/steering_traxxas_tra3775_oilite_bushing.jpg" width="500"><br><em>Traxxas #3775, Oilite bushings 5×8×2.5mm, 12 per pack</em></p>
 

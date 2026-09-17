@@ -31,7 +31,7 @@ All recorded deals, grouped by model (alphabetical), newest first within each gr
 
 ### CNHL 4S packs (ChinaHobbyLine)
 
-Bought as a set of three for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_analysis.md) — one of each candidate, to settle by testing rather than by spec sheet. **`WELCOME` took ~2.75% off each line** (first-order code), and **shipping is free over $159**, which the three packs cleared on their own.
+Bought as a set of three for the [Jato 4SS](../cars/Jato4SS/battery_analysis.md) — one of each candidate, to settle by testing rather than by spec sheet. **`WELCOME` took ~2.75% off each line** (first-order code), and **shipping is free over $159**, which the three packs cleared on their own.
 
 | Date | Pack | Qty | Paid | List | Coupon | Source |
 |------|------|-----|------|------|--------|--------|
@@ -49,7 +49,7 @@ Bought as a set of three for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_a
 
 ### Gens Ace Redline 2.0 6000mAh 4S HV 140C (hardcase, 5.0mm bullet)
 
-Competition HV hardcase, part **GEA60004S14S**. Bought as a 2-pack for the [FastAzJato4x4](../cars/FastAzJato4x4/battery_analysis.md), run independently rather than wired as a series-matched pair (that's an E-Revo-only setup) — cycle counts should still stay close since both run in the same car.
+Competition HV hardcase, part **GEA60004S14S**. Bought as a 2-pack for the [Jato 4SS](../cars/Jato4SS/battery_analysis.md), run independently rather than wired as a series-matched pair (that's an E-Revo-only setup) — cycle counts should still stay close since both run in the same car.
 
 | Date | Qty | Total | $/pack | Coupon | Source |
 |------|-----|-------|--------|--------|--------|
@@ -60,7 +60,7 @@ Competition HV hardcase, part **GEA60004S14S**. Bought as a 2-pack for the [Fast
 
 ### Gens Ace Redline 2.0 6300mAh 4S HV 140C (hardcase, 5.0mm bullet)
 
-Single pack (not a pair), separate from the 6000mAh pair above, "in hand" per [`FastAzJato4x4/battery_analysis.md`](../cars/FastAzJato4x4/battery_analysis.md) — heavier (452g) but higher capacity.
+Single pack (not a pair), separate from the 6000mAh pair above, "in hand" per [`Jato4SS/battery_analysis.md`](../cars/Jato4SS/battery_analysis.md) — heavier (452g) but higher capacity.
 
 | Date | Qty | Total | $/pack | Coupon | Source |
 |------|-----|-------|--------|--------|--------|

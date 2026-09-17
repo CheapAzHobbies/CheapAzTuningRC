@@ -243,6 +243,6 @@ Both the limit straps (85 mm / 90 mm) fit the E-Revo 1.0 and 2.0, so they're kep
 
 ## Notes
 
-- **D8 = Apache C1.** The metal Hot Bodies D8 (HBS67296) and the plastic HPI Apache C1 are the same shock; the Wltoys A929 is a budget knock-off of the C1. Bodies and most internals interchange — see the [FastAzJato4x4 shock analysis](../FastAzJato4x4/shock_analysis.md) for the full big-bore parts breakdown (spare bodies, maintenance sets, spring charts).
-- **Plastic, same as the Jato.** Both this build and the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md) run the **plastic Apache C1 for weight** — here it works because the **inboard shocks are shielded from crash abuse**. The metal D8 is the runner-up if a plastic body ever fails.
+- **D8 = Apache C1.** The metal Hot Bodies D8 (HBS67296) and the plastic HPI Apache C1 are the same shock; the Wltoys A929 is a budget knock-off of the C1. Bodies and most internals interchange — see the [Jato 4SS shock analysis](../Jato4SS/shock_analysis.md) for the full big-bore parts breakdown (spare bodies, maintenance sets, spring charts).
+- **Plastic, same as the Jato.** Both this build and the [Jato 4SS](../Jato4SS/shock_analysis.md) run the **plastic Apache C1 for weight** — here it works because the **inboard shocks are shielded from crash abuse**. The metal D8 is the runner-up if a plastic body ever fails.
 - **Rebuild on condition, not schedule** — service a shock only when it leaks or breaks.

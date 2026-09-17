@@ -1,4 +1,4 @@
-# Driveshaft Selection — FastAzJato4x4
+# Driveshaft Selection — Jato 4SS
 
 > **Chosen: Tekno M6 stub axle build, matched to the stock 5mm diffs.**
 > - **Stubs: Tekno M6 17mm front (TKR1654-17) + bare Tekno 5580 rear stubs**, **✅ confirmed a perfect fit** in the rear hubs. The wheels mount on **AliExpress aftermarket 17mm hubs (E-Revo 1.0 fit)** at all four corners, see [17mm hubs](#17mm-wheel-hexes).

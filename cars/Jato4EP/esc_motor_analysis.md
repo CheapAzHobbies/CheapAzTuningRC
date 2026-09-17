@@ -6,7 +6,7 @@
 >
 > ⚙️ **The gearing finding came from this car**, and it overturned the assumption the build started with. See [The gearing finding](#the-gearing-finding).
 >
-> **The full comparisons are not repeated here.** The ESC options live in the [FastAzJato4x4 ESC analysis](../FastAzJato4x4/esc_analysis.md#esc-comparison), and the motor theory in its [motor analysis](../FastAzJato4x4/motor_analysis.md#castle-creations-1412-3200kv--in-hand).
+> **The full comparisons are not repeated here.** The ESC options live in the [Jato 4SS ESC analysis](../Jato4SS/esc_analysis.md#esc-comparison), and the motor theory in its [motor analysis](../Jato4SS/motor_analysis.md#castle-creations-1412-3200kv--in-hand).
 
 <p align="center"><img src="src/electronics_castle_mamba_x_sct_1412_3200kv_combo_010-0155-13.jpg" width="500"><br><em>Mamba X SCT ESC and 1412-3200KV 5mm sensored motor, sold as one part, combo <strong>010-0155-13</strong></em></p>
 
@@ -50,7 +50,7 @@
 
 > **The write-up above was recorded at 12T, and the car has since moved to 11T.** The finding stands as reached; the gearing simply came down one tooth after it.
 
-> **Why this matters beyond this car.** It is the empirical data point that **pinion sizing is not purely a top-speed equation**. Gearing for the power-band sweet spot beat gearing for theoretical max RPM, on the same motor. The FastAz cites this when picking its own pinion. Tooth options in the [FastAz pinion reference](../FastAzJato4x4/motor_analysis.md#pinion-reference-32p).
+> **Why this matters beyond this car.** It is the empirical data point that **pinion sizing is not purely a top-speed equation**. Gearing for the power-band sweet spot beat gearing for theoretical max RPM, on the same motor. The 4SS cites this when picking its own pinion. Tooth options in the [4SS pinion reference](../Jato4SS/motor_analysis.md#pinion-reference-32p).
 
 ---
 
@@ -86,7 +86,7 @@
 
 **Running: the Surpass Hobby 36mm dual-fan heatsink in blue, with the plastic fans it ships with swapped out for two 30mm metal ones.** The 1412 runs hot on 4S, which is the whole reason the cooling is on there.
 
-⚠️ **This is a divergence from the [FastAzJato4x4](../FastAzJato4x4/motor_analysis.md#related-motor-cooling-optional)**, which looked at this exact part and passed on it. That car's motor shortlist runs cool enough on 4S to need no cooling at all, so the 63g was not worth paying. This car already has the 1412, so the fan is the cheaper answer than a new motor.
+⚠️ **This is a divergence from the [Jato 4SS](../Jato4SS/motor_analysis.md#related-motor-cooling-optional)**, which looked at this exact part and passed on it. That car's motor shortlist runs cool enough on 4S to need no cooling at all, so the 63g was not worth paying. This car already has the 1412, so the fan is the cheaper answer than a new motor.
 
 <p align="center"><img src="src/electronics_surpass_hobby_fan_heatsink_range.png" height="230">&nbsp;<img src="src/electronics_metal_cooling_fans_25_to_50mm.png" height="230"><br><em>The Surpass range, where <strong>the 36mm dual is the one fitted here</strong>, in blue · the CNC metal fans that replace the plastic pair, <strong>30mm</strong> for this heatsink</em></p>
 
@@ -131,10 +131,10 @@
 
 ## Notes
 
-- ⚠️ **The 4S limit is the thing to remember.** The Mamba X on its own is a 6S controller, which is how the [FastAz doc](../FastAzJato4x4/esc_analysis.md#esc-comparison) lists it, but **the bundled 1412 caps the combo at 4S**. Both statements are correct and cover different scopes.
-- **This is the origin of the pinion reasoning on both cars.** Mike's Jato came first, so the power-band conclusion was reached here and the FastAz inherited it.
+- ⚠️ **The 4S limit is the thing to remember.** The Mamba X on its own is a 6S controller, which is how the [4SS doc](../Jato4SS/esc_analysis.md#esc-comparison) lists it, but **the bundled 1412 caps the combo at 4S**. Both statements are correct and cover different scopes.
+- **This is the origin of the pinion reasoning on both cars.** Mike's Jato came first, so the power-band conclusion was reached here and the 4SS inherited it.
 - **Castle rate the combo to 6.5 lb vehicle weight.** 🚧 **This car has never been weighed**, so whether it is inside that is unknown. Worth knowing given it also runs at the 4S ceiling.
 - **Remove the cooling fan before running wet.** The ESC is potted and waterproof, the fan is not.
 - **Programming needs extra hardware.** Six common settings, cutoff voltage included, can be set from the transmitter, but full access needs the Castle Link USB kit or the B-LINK Bluetooth adapter, both sold separately.
-- **The combo was bought outright.** The alternatives, and why the FastAz went a different way on both the ESC and the motor, are in [that car's ESC analysis](../FastAzJato4x4/esc_analysis.md) and [motor analysis](../FastAzJato4x4/motor_analysis.md).
+- **The combo was bought outright.** The alternatives, and why the 4SS went a different way on both the ESC and the motor, are in [that car's ESC analysis](../Jato4SS/esc_analysis.md) and [motor analysis](../Jato4SS/motor_analysis.md).
 - **🚧 No temperatures were logged.** "Noticeably cooler" is subjective. A logged temp before and after would turn the best finding on this car into a hard number.

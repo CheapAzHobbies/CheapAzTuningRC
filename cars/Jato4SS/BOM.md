@@ -1,4 +1,4 @@
-# Bill of Materials — FastAzJato4x4
+# Bill of Materials — Jato 4SS
 
 Everything that's actually on the car, and nothing that isn't. **Qty** is how many of that product I bought, **Price** is what it cost me and what that price covers, and anything else worth knowing sits in a small note under the part. If you want to know *why* a part is here, the linked doc has the whole argument.
 
@@ -6,7 +6,7 @@ Everything that's actually on the car, and nothing that isn't. **Qty** is how ma
 >
 > This isn't the final spec for this car either. It's simply what it took to get here, receipts and all. **Where the money comes back off** is in [Building It Cheaper](README.md#building-it-cheaper), and **what I blew it on anyway** is in [the fun tax](README.md#the-fun-tax-and-the-bad-decisions-id-make-again).
 
-<p align="center"><img src="src/overview_fastazjato_parts_collage.jpg" width="900"><br><em>Most of the parts on the car. A few have no photo yet, so the tables below are the full list.</em></p>
+<p align="center"><img src="src/overview_jato4ss_parts_collage.jpg" width="900"><br><em>Most of the parts on the car. A few have no photo yet, so the tables below are the full list.</em></p>
 
 ## Cost Summary
 

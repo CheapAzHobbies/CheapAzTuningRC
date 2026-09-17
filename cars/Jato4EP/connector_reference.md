@@ -1,8 +1,8 @@
 # Connectors Reference — Jato 4EP
 
-> **EC5 is the main connection.** The [FastAz](../FastAzJato4x4/connector_reference.md) runs **5mm bullets** instead, so the two cars do not share a plug and moving a pack between them needs an adapter. Neither is the better choice, an EC5 is a pair of 5mm bullets in a housing. Three connector types are on this car in total, which is one more than ideal. A list of what is fitted.
+> **EC5 is the main connection.** The [4SS](../Jato4SS/connector_reference.md) runs **5mm bullets** instead, so the two cars do not share a plug and moving a pack between them needs an adapter. Neither is the better choice, an EC5 is a pair of 5mm bullets in a housing. Three connector types are on this car in total, which is one more than ideal. A list of what is fitted.
 >
-> **The standing rules on which connectors are worth running:** [FastAzJato4x4 connectors reference](../FastAzJato4x4/connector_reference.md).
+> **The standing rules on which connectors are worth running:** [Jato 4SS connectors reference](../Jato4SS/connector_reference.md).
 
 <p align="center"><img src="src/electronics_cnhl_connector_comparison_ec5_ic5_xt90.jpg" width="600"><br><em>CNHL's own comparison graphic. <strong>EC5 is the one this car runs</strong>, shown in the middle. IC5 and XT90 are here because the graphic includes them, and neither is on the car</em></p>
 

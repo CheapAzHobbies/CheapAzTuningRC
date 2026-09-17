@@ -1,4 +1,4 @@
-# FastAzJato4x4 — Build Analysis Checklist
+# Jato 4SS — Build Analysis Checklist
 
 Working tracker of which part analyses are done, in progress, or still to write.
 Each item becomes a `<part>_analysis.md` following the format in [`CLAUDE.md`](../../CLAUDE.md).

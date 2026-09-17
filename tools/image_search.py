@@ -21,14 +21,14 @@ Usage:
 
     # SEARCH MODE: specify output + count + filename prefix
     python tools/image_search.py search "Tekin Pro4 HD 2500KV" \\
-        --out cars/FastAzJato4x4/src --prefix electronics_tekin_pro4_hd_2500kv --count 3
+        --out cars/Jato4SS/src --prefix electronics_tekin_pro4_hd_2500kv --count 3
 
     # URL MODE: download URLs listed in a text file
     python tools/image_search.py urls urls.txt --out /tmp/picks --prefix castle_1415
 
     # URL MODE: read URLs from stdin
     echo "https://example.com/foo.jpg" | python tools/image_search.py urls - \\
-        --out cars/FastAzJato4x4/src --prefix electronics_castle_1415_2400kv
+        --out cars/Jato4SS/src --prefix electronics_castle_1415_2400kv
 
 Recommended workflow when SEARCH mode is rate-limited:
     1. Open the manufacturer / retailer product page in a browser

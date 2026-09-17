@@ -1,4 +1,4 @@
-# Shock Selection — FastAzJato4x4
+# Shock Selection — Jato 4SS
 
 > **Chosen: Hot Bodies D8 metal big bore front + rear (HBS67296)**, the metal-bodied 97mm **16mm big-bore** shock. A **used set of 4 is already in hand** (buy-new ~$57.99, discontinued). The **HBS67296 (metal D8), Apache C1 (#107365), and Wltoys A929 (A929-14) are the same shock internally, a three-way tie at the top.** Plastic is what I'd generally run (cheaper, lighter, and plenty tough); I'm on the metal set only because I already own it and don't want to buy more shocks, and the metal body also shrugs off impacts that crack plastic. The plastic C1 / A929 stay as identical-internal backups. **Springs: white 59gf front, grey 52gf rear**, this car is **lighter than the K939**, so it wants the softer rear. The metal shocks mount on **HB HBS67410 standoffs, two pairs needed** (4 standoffs, 1 per shock; both purchased packs go on the car, none spare). See [shock standoffs](#shock-standoffs--mounting).
 >
@@ -35,7 +35,7 @@
 
 | Requirement | Type | Why |
 |---|---|---|
-| **97mm big-bore class** | Must | Matches the FastAzJato4x4 ride height + arm geometry; smaller shocks don't have the travel |
+| **97mm big-bore class** | Must | Matches the Jato 4SS ride height + arm geometry; smaller shocks don't have the travel |
 | **Threaded body for adjustable preload** | Must | Setup tunability is the whole point of an aftermarket shock |
 | **Standard pistons + shaft** | Must | Common spares + tunable pistons available off the shelf |
 | **Rebuildable** | Must | Must come apart to service, but rebuild only when one leaks or breaks, no fixed schedule |
@@ -87,7 +87,7 @@ The standoff is the pivot post the shock eyelet rides on where the shock bolts t
 
 ## Setup Spec (Springs / Pistons / Oil)
 
-This is the target tuning, based on the K939 build, but the FastAzJato4x4 is **lighter than the K939**, so it wants the **softer rear** (the grey 52gf) for grip and compliance under less weight.
+This is the target tuning, based on the K939 build, but the Jato 4SS is **lighter than the K939**, so it wants the **softer rear** (the grey 52gf) for grip and compliance under less weight.
 
 | Position | Spring | Piston | Oil |
 |---|---|---|---|
@@ -170,7 +170,7 @@ The Apache C1 (plastic) and Hot Bodies D8 (metal) are **the same shock internall
 - **Losi 8IGHT (LOSA5417) fitment, two ways:** the full set has **slightly shorter fronts**, so to run the whole set you need the **original Slash 4x4 tower**. The simpler path is to **buy two of the rear shocks and run rears at both ends with the Jato towers**, the **rear tower height is the same across all rear-tower variants**, so any rear tower mounts them at the same height. Note LOSA5417 is currently unobtanium.
 - **"XXL" / "XX-Long" = long travel, not big bore.** The XX-Long designation refers to the shock's **travel / length** (longer shaft + body), which is independent of bore diameter. A shock can be XX-Long but small-bore, the GTR (13mm) and 2662 (10mm) both are. Don't read "XX-Long" as "big bore."
 - **Bore size is why the C1/D8 win over the GTR:** the Apache C1 / D8 are **16mm bore**, the Traxxas GTR XX-Long is **13mm**. The bigger bore holds more oil, which makes the C1/D8 **significantly more plush and consistent**, the GTR is a good, in-production aluminum shock, but it can't match the big-bore damping. The GTR's edge is availability (the D8 is discontinued) and a PTFE/TiN-slick, in-stock OEM option.
-- The K939 build uses Apache C1 (plastic) and has not had a body-cracking problem in ~~years~~ many packs, the FastAzJato4x4 *might* be fine on plastic too. The trigger to swap to metal D8 would be **first cracked body**, not pre-emptive optimization.
+- The K939 build uses Apache C1 (plastic) and has not had a body-cracking problem in ~~years~~ many packs, the Jato 4SS *might* be fine on plastic too. The trigger to swap to metal D8 would be **first cracked body**, not pre-emptive optimization.
 - **Shock tower geometry interacts with shock survival**, see the [aero analysis cascade](aero_analysis.md#shock-tower-compatibility-cascade). The "shocks at the back of the car" geometry from the OEM Jato wing mount + #9034 stock tower is the root cause of past shock body damage. **The fix on this build is the special combo: a Slash 4x4 rear tower (old *or* new version) + the metal plate + the OEM Jato 4x4 wing mount**, it corrects the geometry so the plastic shocks survive, which is cheaper insurance than upgrading to metal bodies (or the STRC backflash kit).
 - **Cross-brand oil chart lives in the E-Revo file.** "wt" isn't standardized between brands, see the [shock-oil supertable](../ERevo_1.0/shock_analysis.md#shock-oil-supertable--wt--cst-across-brands-up-to-5000-cst) for published wt ↔ cSt for Associated and TLR. Relevant here: **37.5wt is 463 cSt (Associated) / 468 cSt (TLR)**, so the front bottle is brand-agnostic, but at **50wt the brands split**, Associated 640 cSt vs TLR 710 cSt, nearly a full step apart. The rear runs **Associated 5480 50wt (650 cSt on the bottle)**, so match that brand when refilling.
 - **Oil weight is climate-dependent**, silicone shock oil thickens in cold weather. The 37.5wt front / 50wt rear target assumes mild conditions; bump down 5wt per side if running in cold.

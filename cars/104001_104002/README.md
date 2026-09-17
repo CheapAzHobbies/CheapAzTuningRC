@@ -97,7 +97,7 @@ TBD
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Servo | **PTK 9752TG-D Low-Profile Metal-Gear Digital (2S LiPo-ready)** | Currently in service in both cars — performing well, no BEC brownouts with the Fire Phoenix ESC. See [`cars/FastAzJato4x4/servo_analysis.md`](../FastAzJato4x4/servo_analysis.md) for full spec comparison and longevity tracking |
+| Servo | **PTK 9752TG-D Low-Profile Metal-Gear Digital (2S LiPo-ready)** | Currently in service in both cars — performing well, no BEC brownouts with the Fire Phoenix ESC. See [`cars/Jato4SS/servo_analysis.md`](../Jato4SS/servo_analysis.md) for full spec comparison and longevity tracking |
 
 ---
 

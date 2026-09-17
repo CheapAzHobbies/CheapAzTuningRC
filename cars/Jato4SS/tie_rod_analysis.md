@@ -1,4 +1,4 @@
-# Tie Rod & Camber Link Selection — FastAzJato4x4
+# Tie Rod & Camber Link Selection — Jato 4SS
 
 > **The link that survives is an assembly of three parts: an ACER titanium M4x60 turnbuckle rod, RPM long rod ends, and Traxxas hollow pivot balls.** All six links on the car (2 front tie rods, 2 front camber, 2 rear camber) are M4 and use the same ~61mm rod (measured tip to tip of the bare rod, not hole-to-hole; ~96mm center-to-center once assembled), so one build covers the whole car.
 >

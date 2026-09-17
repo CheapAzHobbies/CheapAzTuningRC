@@ -1,4 +1,4 @@
-# Connectors Reference — FastAzJato4x4
+# Connectors Reference — Jato 4SS
 
 Which battery/ESC connectors are worth running, and which to avoid. Not a tuning call, just a standing rule so the [mixed battery fleet](battery_analysis.md) all ends up on good plugs.
 

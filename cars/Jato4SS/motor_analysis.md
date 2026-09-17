@@ -1,4 +1,4 @@
-# Motor Selection — FastAzJato4x4
+# Motor Selection — Jato 4SS
 
 > **Build context:** the Jato 4x4 isn't really a 1/10, it's basically a **1/8 buggy** in chassis size and intended duty. Manufacturer "1/10 SCT" recommendations under-spec for this car.
 >
@@ -52,7 +52,7 @@
 | Requirement | Type | Why |
 |---|---|---|
 | **4S LiPo support** | Must | Build runs 4S, motor has to handle 16.8V without burning windings |
-| **36mm can, ≤70mm overall length** | Must | Physical fit in the FastAzJato4x4 motor mount. 42mm cans technically fit but make the car **fat, heavy, and sluggish**, same goes for anything over ~70mm long. **Exception**: a 40-42mm motor would be considered if it's actually *lighter* than the 36mm options (currently no 40mm+ candidate is, they're all heavier) |
+| **36mm can, ≤70mm overall length** | Must | Physical fit in the Jato 4SS motor mount. 42mm cans technically fit but make the car **fat, heavy, and sluggish**, same goes for anything over ~70mm long. **Exception**: a 40-42mm motor would be considered if it's actually *lighter* than the 36mm options (currently no 40mm+ candidate is, they're all heavier) |
 | **2100–3200KV** | Must | Target range for 4S on a 1/10-class chassis. Below 2100 = sluggish; above 3200 = too hot on 4S even with a fan |
 | **Sensored** | Must | Smooth starts, no cogging, low-speed control on the chosen Fire Phoenix ESC |
 | **Standard sensor connector (JST-ZH or Castle native)** | Must | Fire Phoenix uses JST-ZH; proprietary Hobbywing G3 plugs require a $-and-cable adapter |
@@ -92,7 +92,7 @@
 | 🚫 ~~HobbyWing EZRun 3665SD G3 4000KV~~ (#30402608) | **Type:** Sensored brushless (IP67, modular detachable; R = 0.00495Ω, no-load 8.2A)<br>**KV:** 4000<br>**Cells:** 2-3S max<br>**Can:** 37mm × 65.8mm<br>**Shaft:** 5mm × 16.5mm<br>**Sensored:** Yes (proprietary G3 plug)<br>**Poles/Slots:** 4-pole<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** Front 5×16×5 / rear 5×11×5<br>**Rebuildable:** Yes (modular)<br>**Weight:** 297.2g<br>**Price:** ~$70 (MSRP $120) | Pro: Highest top-end of the 3665 line, IP67, modular, 4-pole<br><br>Con: **2-3S max, fails the 4S Must;** highest no-load current (8.2A) = runs hottest of the three. Proprietary G3 plug | <img src="src/electronics_hobbywing_ezrun_3665sd_g3.jpg" width="500"><br><em>shared photo, physically identical motor</em> |
 | 🚫 ~~HobbyWing XeRun 3660SD G3 3200KV~~ | **Type:** Sensored brushless (competition-grade XeRun line)<br>**KV:** 3200<br>**Cells:** 3S max<br>**Can:** ~36mm × 60mm<br>**Shaft:** N/A<br>**Sensored:** Yes (JST-ZH)<br>**Poles/Slots:** N/A<br>**Rotor:** N/A<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 230g<br>**Price:** ~$100 (MSRP $140) | Pro: Lighter than EZRun 3665, competition-grade racing line<br><br>Con: **3S max, fails the 4S Must** | <img src="src/electronics_hobbywing_xerun_3660sd_g3.jpg" width="500"> |
 | 🚫 ~~Castle Creations 1515 V2 2200KV~~ (#060-0093-00) | **Type:** Sensored brushless (true 1/8 scale; Kevlar-wrapped rotor, 180°C magnets, 10 AWG silicone wire)<br>**KV:** 2200<br>**Cells:** 2-6S<br>**Can:** 40mm × 75.4mm (41.4mm with fins)<br>**Shaft:** N/A<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Kevlar-wrapped<br>**Max RPM:** N/A<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** Yes (explicit gold-plated solder tabs)<br>**Weight:** 426g with wires (380g without)<br>**Price:** $195.95 (list $239.75) | Pro: True 1/8 scale, runs 6S, rebuildable, **explicit gold-plated solder tabs**, Kevlar-wrapped rotor, 180°C-rated magnets, 10 AWG silicone wire<br><br>Con: **40mm × 75.4mm, fails BOTH the 36mm can Must and the ≤70mm length Must.** 426g is overkill for a 1/10 build; Castle explicitly targets 1/8 buggies / truggies and 1/10 monster trucks up to 15 lb | <img src="src/electronics_castle_1515_v2_2200kv.jpg" width="500"> |
-| 🚫 ~~Castle Creations 1406 2280KV~~ (#060-0069-00) | **Type:** Sensored brushless (smallest 14-series; Recon G6 Certified)<br>**KV:** 2280<br>**Cells:** 2-4S<br>**Can:** 36mm × 49.5mm (smallest 14-series)<br>**Shaft:** 15mm × 1/8"<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 100,000 (vs 75k for 1412/1415)<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 197g (lightest in the comparison)<br>**Price:** $104.95 (list $128.45) | Pro: Cheapest 14-series, lightest at 197g, 4S native, 36mm × 49.5mm fits the size Musts comfortably, very high 100k max RPM, Recon G6 certified<br><br>Con: **Castle officially rates max vehicle weight at only 5 lb for racing / aggressive driving** (8 lb for low-speed / crawling). The FastAzJato4x4 is ~6-7 lb minimum with battery, **over Castle's racing weight limit, will burn up under sustained 4S loads**. The 0.6" magnet length means much less copper and iron than the 1412/1415, so thermal mass is way lower. Castle targets 1406 at 1/10 rock crawlers, trail rigs, touring cars, lighter stadium trucks | <img src="src/electronics_castle_1406_2280kv.png" width="500"> |
+| 🚫 ~~Castle Creations 1406 2280KV~~ (#060-0069-00) | **Type:** Sensored brushless (smallest 14-series; Recon G6 Certified)<br>**KV:** 2280<br>**Cells:** 2-4S<br>**Can:** 36mm × 49.5mm (smallest 14-series)<br>**Shaft:** 15mm × 1/8"<br>**Sensored:** Yes (SmartSense / sensored / sensorless)<br>**Poles/Slots:** N/A<br>**Rotor:** Not published<br>**Max RPM:** 100,000 (vs 75k for 1412/1415)<br>**Max temp:** N/A<br>**Bearings:** N/A<br>**Rebuildable:** N/A<br>**Weight:** 197g (lightest in the comparison)<br>**Price:** $104.95 (list $128.45) | Pro: Cheapest 14-series, lightest at 197g, 4S native, 36mm × 49.5mm fits the size Musts comfortably, very high 100k max RPM, Recon G6 certified<br><br>Con: **Castle officially rates max vehicle weight at only 5 lb for racing / aggressive driving** (8 lb for low-speed / crawling). The Jato 4SS is ~6-7 lb minimum with battery, **over Castle's racing weight limit, will burn up under sustained 4S loads**. The 0.6" magnet length means much less copper and iron than the 1412/1415, so thermal mass is way lower. Castle targets 1406 at 1/10 rock crawlers, trail rigs, touring cars, lighter stadium trucks | <img src="src/electronics_castle_1406_2280kv.png" width="500"> |
 
 > **Why the 3200KV / 4000KV cap at 3S (verified, heat).** Higher KV spins faster per volt, so on 4S a 3200/4000KV hits very high RPM and draws **more current**, the no-load current alone climbs 2400KV **5.2A** → 3200KV **7.1A** → 4000KV **8.2A**. Heat loss is **I²R**, so more current = more heat. Heat then **raises copper resistance** (~0.4%/°C), making *more* heat (a runaway loop), and can **demagnetize the rotor magnets**, which paradoxically *raises* KV so it chases even higher RPM, while torque and efficiency drop. Net effects: the motor "falls off" when hot, **bearings and the ESC get stressed** (heat expansion + higher current). So HW rates the high-KV winds to 3S and only the **2400KV to 4S**. You *can* run a 3200KV on 4S, but heat is exactly the failure mode, it's not a hard wall, it's a thermal one.
 >
@@ -196,7 +196,7 @@ Per simulation timestep (1 millisecond):
 - Subtract aerodynamic drag (`½ × ρ × Cd·A × v²`) and rolling resistance → net force
 - Acceleration = net force / mass; integrate to get next speed
 
-Inputs (matched to the FastAzJato4x4):
+Inputs (matched to the Jato 4SS):
 - 4S nominal voltage: **14.8 V**
 - Vehicle mass with battery: **6.5 lb / 2.95 kg**
 - Wheel diameter: 90 mm (~3.5")
@@ -258,10 +258,10 @@ The script is at [`sim/motor_acceleration_sim.py`](sim/motor_acceleration_sim.py
 
 ```bash
 pip install numpy matplotlib
-python3 cars/FastAzJato4x4/sim/motor_acceleration_sim.py
+python3 cars/Jato4SS/sim/motor_acceleration_sim.py
 ```
 
-It'll print the table and save a fresh chart to `cars/FastAzJato4x4/src/motor_sim_4s_acceleration.png`. Tweak the `MOTORS`, `MASS_LB`, `WHEEL_DIAM_MM`, or `I_LIMIT` constants at the top to model your own setup.
+It'll print the table and save a fresh chart to `cars/Jato4SS/src/motor_sim_4s_acceleration.png`. Tweak the `MOTORS`, `MASS_LB`, `WHEEL_DIAM_MM`, or `I_LIMIT` constants at the top to model your own setup.
 
 ---
 
@@ -300,7 +300,7 @@ Manufacturers spec a **max RPM** to keep you safely under the wrap's limit. Cast
 
 The 4-banger analogy extends to the car. **High-revving small engines work best in lightweight cars**, the S2000, MX-5, NSX. Put a screaming high-revving four-pot in a heavy SUV and it stays out of its powerband and dies. Put a big V8 with all that crank leverage in an MX-5 and you can't put the power down.
 
-The Jato 4x4 platform happens to be **lighter than typical 1/8 CF race chassis** (Tekno, Mugen, etc., which are designed for the heft of true 1/8-scale buggies). So the FastAzJato4x4 isn't carrying around the mass that justifies a bigger V8-style motor. A small high-revving motor in a light chassis is the matched pairing, exactly the same logic as why a sport coupe outruns a muscle car on a twisty track.
+The Jato 4x4 platform happens to be **lighter than typical 1/8 CF race chassis** (Tekno, Mugen, etc., which are designed for the heft of true 1/8-scale buggies). So the Jato 4SS isn't carrying around the mass that justifies a bigger V8-style motor. A small high-revving motor in a light chassis is the matched pairing, exactly the same logic as why a sport coupe outruns a muscle car on a twisty track.
 
 ### Speed-run community validation
 
@@ -386,7 +386,7 @@ The original target was 3200KV, same as the Slash 4x4. In practice the Castle 14
 | **3000KV** | Borderline | Works but needs cooldown breaks and conservative gearing |
 | **3200KV** | **Super pipey**, runs hot | Sudden / peaky power delivery, lots of top end. Generally needs a fan on 4S. What's currently in the in-hand Castle 1412 |
 
-The FastAzJato4x4 is lighter than a true 1/8 buggy, so **2400KV is at or just above the community-preferred range** for this weight class. A 1412 3200KV running hot on 4S isn't a setup problem, it's a physics problem. Dropping to 2400KV with G3 / 4-pole 12-slot laminations eliminates the eddy-current losses driving the heat, and a fan becomes unnecessary.
+The Jato 4SS is lighter than a true 1/8 buggy, so **2400KV is at or just above the community-preferred range** for this weight class. A 1412 3200KV running hot on 4S isn't a setup problem, it's a physics problem. Dropping to 2400KV with G3 / 4-pole 12-slot laminations eliminates the eddy-current losses driving the heat, and a fan becomes unnecessary.
 
 ### Open question: 2400KV vs 3200KV geared to the same top speed — which accelerates faster?
 

@@ -1,10 +1,10 @@
-# Bearings Reference — FastAzJato4x4
+# Bearings Reference — Jato 4SS
 
 Not a tuning decision, just the full list of bearings the build needs. The baseline matches the **Traxxas Jato 4x4 BL-2s (90154-4) complete bearing kit**, it's a 1/8-class platform, so bigger bearings than a Slash 4x4. Run sealed (rubber-shielded) bearings throughout for offroad. Two tables below: the **OG stock-kit baseline**, and the **as-built list for this car** with the axle mod applied.
 
 ## This car, as built (modded)
 
-The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10×15×4 in a sleeve**, not a bare 10×18×5. The sleeve fills the hub's 18mm pocket down to 15mm, so a common cheap bearing does the job and **nothing has to be shaved**. The rest is the stock kit.
+The actual bearing list running on Jato 4SS: the hub axle bearings are **10×15×4 in a sleeve**, not a bare 10×18×5. The sleeve fills the hub's 18mm pocket down to 15mm, so a common cheap bearing does the job and **nothing has to be shaved**. The rest is the stock kit.
 
 > **[Mike's Jato](../Jato4EP/bearings_reference.md) took the other route:** a **larger bearing straight into the inner wheel hub**, which works but **means shaving down the 17mm hex adapters to clear it**, not the hub carriers. Same problem, two answers. This car sleeves the pocket down, his opens the hub up.
 
@@ -98,7 +98,7 @@ Everything else follows the baseline: diffs are back to **stock Jato 4x4 (5mm)**
 
 The hub bearing is the only position that differs. Since **a bearing position doesn't disappear when you change what sits in it**, **every route totals 22**. Only the size in the hub corners changes, and on this car the bellcrank four are bushings rather than bearings.
 
-| Position | Stock BL-2S | This car (FastAz) | Mike's Jato | Pocket deepened 🔵 |
+| Position | Stock BL-2S | This car (4SS) | Mike's Jato | Pocket deepened 🔵 |
 |:---|:---:|:---:|:---:|:---:|
 | **Hub / axle** | **12×18×4** ×4 | **10×15×4** ×4 in an **18 × 15 × 4mm sleeve** | **10×18×5** ×4 **direct** | **10×18×5** ×4 **direct** |
 | What it costs | nothing, it's stock | printing or turning a sleeve, **18mm OD × 15mm ID × 4mm** | **shaving down the 17mm hex adapters** | **1mm off the carrier's bearing pocket**, needs a lathe or mill |

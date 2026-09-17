@@ -1,4 +1,4 @@
-# Gearbox Housing Selection — FastAzJato4x4
+# Gearbox Housing Selection — Jato 4SS
 
 > **Leaning toward: stock Traxxas plastic gearbox housings (front + rear)**, the [chosen AliExpress CF chassis](chassis_analysis.md) already includes a metal skid plate / brace that protects the diffs from below, so the aluminum-housing "diff protection" upgrade is largely redundant. Stock plastic is light, cheap, and sacrificial in crashes. OEM part numbers: **TRA6881 (front) + TRA6880 (rear), $4 each**, two halves per set. Knock-off clones (Wltoys K939, Remo Hobby / HQ727, same car, two brands) are **vetoed**: they cost the same or more than the $4 OEM (the K939 runs ~$8/end), so there's nothing to save by going off-brand.
 

@@ -1,4 +1,4 @@
-# Differential Selection — FastAzJato4x4
+# Differential Selection — Jato 4SS
 
 > **Chosen:**
 > - **Front & rear diffs: AliExpress knock-off Slash 4x4 steel diffs (5mm), ~$15.26 for the pair.** Strong steel, come assembled with the I-bar brace, and 5mm matches the **Slash 4x4-pattern CVDs on Tekno M6 stubs** (see [`driveshaft_analysis.md`](driveshaft_analysis.md)). The stock Jato 4x4 diff is the native-fit fallback; the 6mm E-Revo 1.0 diffs (owned) are spares.

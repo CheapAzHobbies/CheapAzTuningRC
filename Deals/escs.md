@@ -19,11 +19,11 @@ Price tracking for ESCs — generic parts used across multiple builds.
 
 ### Hobbywing EZRun MAX10 G2 140A ESC + 3665 G3 2400KV (4-pole) combo (38020343)
 
-ESC + motor combo, **2–4S**, IP67. 4-pole 2400KV motor (torque). **For the FastAzJato.**
+ESC + motor combo, **2–4S**, IP67. 4-pole 2400KV motor (torque). **For the Jato 4SS.**
 
 | Date | Price | Coupon / Path | Source | Notes |
 |------|-------|---------------|--------|-------|
-| Jun 25, 2026 | **$127.00** | coupon code | Hobbywing North America (direct) | ✅ **purchased**. List $149.99 → **$127.00**. The 4-pole torque path (vs a 2-pole V10) for the 2S/4S FastAzJato |
+| Jun 25, 2026 | **$127.00** | coupon code | Hobbywing North America (direct) | ✅ **purchased**. List $149.99 → **$127.00**. The 4-pole torque path (vs a 2-pole V10) for the 2S/4S Jato 4SS |
 
 ### Hobbywing EZRun MAX8 G2S ESC + 4278SD G2R 2250KV combo (HWI38010607)
 

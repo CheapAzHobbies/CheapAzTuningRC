@@ -39,12 +39,12 @@
 </p>
 
 <p align="center">
-  <img src="src/overview_fastazjato_imex_slicks_side.jpg" height="243">&nbsp;<img src="src/overview_fastazjato_front_detail.jpg" height="243">&nbsp;<img src="src/overview_fastazjato_rear_drivetrain.jpg" height="243"><br>
+  <img src="src/overview_jato4ss_imex_slicks_side.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_front_detail.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_rear_drivetrain.jpg" height="243"><br>
   <em>Stretched on the IMEX slicks &middot; front bumper and steering &middot; rear shocks and CVDs</em>
 </p>
 
 <p align="center">
-  <img src="src/overview_fastazjato_dirt_tires.jpg" width="720"><br>
+  <img src="src/overview_jato4ss_dirt_tires.jpg" width="720"><br>
   <b>&#9656; CURRENT OFFROAD SETUP &#9662;</b><br>
   <em>IMEX chrome rims on the $3.87 Mitsubishi-tread 26013 tires with blue race foams &mdash; what it actually races on</em>
 </p>
@@ -106,7 +106,7 @@
 
 **Fully loaded, all up: 2.868 kg (6.32 lb)**, weighed in pieces on one pan (everything that goes on the car, battery included).
 
-<p align="center"><img src="src/overview_fastazjato_total_weight.jpeg" width="500"><br><em>2.868 kg on the WeighMax, the complete car weighed in pieces</em></p>
+<p align="center"><img src="src/overview_jato4ss_total_weight.jpeg" width="500"><br><em>2.868 kg on the WeighMax, the complete car weighed in pieces</em></p>
 
 Component weights measured so far, all of them in the analysis docs: body shell **160 g** ([`aero_analysis.md`](aero_analysis.md)), CF chassis kit **357.2 g** ([`chassis_analysis.md`](chassis_analysis.md)), MAX10 G2 ESC, 3665SD motor, Zeee 5200 pack **518 g** ([`battery_analysis.md`](battery_analysis.md)). The 2.868 kg weigh-in was on that Zeee; the Gens Ace Redline 6000 now on the car is **410 g**, so it runs about **2.76 kg** all up. The battery alone is about **18% of the all-up weight**, which is why the [pack choice](battery_analysis.md) is judged on grams before capacity.
 
@@ -201,7 +201,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Battery | **Gens Ace Redline 2.0 4S HV 6000mAh 140C**, shorty hardcase | 410 g; the spec is a 4S hardcase shorty, [`battery_analysis.md`](battery_analysis.md) |
 | Radio / receiver | **FlySky Noble NB4** TX + **FGr4S V2** RX | [`radio_analysis.md`](radio_analysis.md) |
 
-<p align="center"><img src="src/overview_fastazjato_rx_box_battery_layout.jpeg" width="500"><br><em>Receiver box and battery layout</em></p>
+<p align="center"><img src="src/overview_jato4ss_rx_box_battery_layout.jpeg" width="500"><br><em>Receiver box and battery layout</em></p>
 
 ---
 
