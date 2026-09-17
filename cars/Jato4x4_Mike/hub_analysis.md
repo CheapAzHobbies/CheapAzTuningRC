@@ -67,7 +67,7 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 
 ## 17mm wheel hexes
 
-**Running: the aftermarket E-Revo 1.0 fit 17mm splined hubs, $8.36 for all four corners, shaved down.** Same hex the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md#17mm-wheel-hubs-hexes) runs, on the same **Tekno stubs**, so the axle end of both cars is identical. This is the other half of this car's bearing decision. Running the **bare 10×18×5** in the hub leaves no room for a full-thickness hex, so **the hexes give up the 1mm, not the carriers**.
+**Running: the Traxxas 6469 17mm splined aluminium hubs, $20.00 for all four corners, shaved down.** ⚠️ **This is a divergence from the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md#17mm-wheel-hubs-hexes)**, which runs the cheaper aftermarket E-Revo fit hexes at **$8.36**. Both sit on the same **Tekno stubs**, so only the hex itself differs. This is the other half of this car's bearing decision. Running the **bare 10×18×5** in the hub leaves no room for a full-thickness hex, so **the hexes give up the 1mm, not the carriers**.
 
 <div align="center">
 
@@ -79,7 +79,7 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 
 </div>
 
-<p align="center"><img src="../FastAzJato4x4/src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" width="300">&nbsp;<img src="../FastAzJato4x4/src/drivetrain_erevo_17mm_splined_wheel_hubs_dimensions.png" width="300"><br><em>The aftermarket E-Revo 1.0 fit 17mm splined hubs, $8.36 the set of four · 24mm tall × 20mm across, 6mm bore, M2 set screw</em></p>
+<p align="center"><img src="src/drivetrain_traxxas_17mm_splined_wheel_hubs_6469.jpg" width="360"><br><em><strong>Traxxas 6469</strong>, 17mm blue anodised 6061-T6 splined hubs and nuts, set of four with 4×13mm threadlocked screw pins, <strong>$20.00</strong>. Listed for <strong>6mm axles</strong>, which is exactly the Tekno 5580 stub end</em></p>
 
 > ⚠️ **Shaving is what buys the bigger bearing here**, and the FastAz notes a **pin-through** hex tolerates thinning better than a solid screw-pin one. Worth knowing before cutting a fresh set.
 

@@ -2,7 +2,7 @@
 
 > **Running: knock-off Slash / Jato 4x4 HD steel CV driveshafts**, TRA6851R and TRA6852R clones, on **TRA6752 long output shafts at all four corners**. **The axles are basically the Jato 4x4 part**, so they bolt straight in: **no cutting, no welding and no joiner.** Same build as the [FastAzJato4x4](../FastAzJato4x4/driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 >
-> **Same axle build as the FastAz, including the Tekno stubs and the aftermarket E-Revo 17mm hexes.** The **centre shaft is the difference**: that car runs the **Jato 4x4 BL-2S take-off shaft (7455, $2.49)**, plastic, bought cheap because it bundled a pinion and bearings. This car runs the **aluminium TRA6855** instead.
+> **Same axle build as the FastAz, including the Tekno stubs.** **Two parts differ.** The **centre shaft**: that car runs the **Jato 4x4 BL-2S take-off shaft (7455, $2.49)**, plastic, bought cheap because it bundled a pinion and bearings, where this car runs the **aluminium 6855**. And the **17mm hexes**, where this car runs **Traxxas 6469** rather than the cheaper aftermarket set.
 >
 > ⚠️ **TRA6755 is not the same part.** That is the Rustler shaft at 189mm; the Slash / Jato one is **TRA6855 at 214mm**.
 >
@@ -23,7 +23,7 @@
 | **Hub bearing** | Bare **10×18×5**, hexes shaved to clear it, see [`bearings_reference.md`](bearings_reference.md) | $1.45 each |
 | **Centre driveshaft** | **Traxxas 6855-BLUE**, 6061-T6 aluminium, one piece, **214mm**, with its own hardware | **$10.00**, Tammies Hobbies |
 | **Stubs** | **Tekno**, front **TKR1654-17**, rear **5580**, same as the FastAz | **$19.99 + $16.90 / pair** |
-| **17mm hexes** | Aftermarket **E-Revo 1.0 fit splined hubs**, shaved to clear the big bearing | **$8.36 / set of 4** |
+| **17mm hexes** | **Traxxas 6469**, blue anodised 6061-T6 splined hubs and nuts, shaved to clear the big bearing | **$20.00 / set of 4** |
 
 </div>
 

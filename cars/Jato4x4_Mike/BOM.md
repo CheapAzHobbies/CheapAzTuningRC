@@ -16,12 +16,12 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Suspension](#suspension) | $31.73 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
 | [Steering](#steering) | $51.63 |
-| [Wheels & Tires](#wheels--tires) | $36.54 |
+| [Wheels & Tires](#wheels--tires) | $48.18 |
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $200.42 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$941.64** |
-| **Car only, without batteries** | **$656.29** |
+| **Total recorded** | **$953.28** |
+| **Car only, without batteries** | **$667.93** |
 
 > **What the total is missing:** the donor, the shocks, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
@@ -96,7 +96,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **RED SPIDER 17mm hex wheels + tires**<br><sub>Note: the tires run on wider Traxxas Jato rims instead, which is the wide-track trick</sub> | 1 | [LEDGER](../../LEDGER.md) #77 | **$20.10 / set of 4** | [Wheels](wheel_analysis.md) |
 | **Blue race foams**<br><sub>Note: sit between the 9070-WHT rim and the RedSpider tire. ⚠️ 🚧 two foam lines on the ledger, #76 "4pc 1/8 RC foam inserts" at $8.08 and #59 "race tire foams" at $6.39, so which one these are is unconfirmed</sub> | 1 | [LEDGER](../../LEDGER.md) #76 | **$8.08 / set of 4** | [Wheels](wheel_analysis.md) |
 | **Traxxas 9070-WHT rims**<br><sub>Note: Jato 4x4 VXL 3.0" dished, white, 17mm hex. What the RedSpider tires are mounted on. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Wheels](wheel_analysis.md) |
-| **Aftermarket 17mm splined hexes, E-Revo 1.0 fit**<br><sub>Note: shaved down to clear the bare 10×18×5. Same hex the FastAz runs</sub> | 1 | AliExpress | **$8.36 / set of 4** | [Hexes](hub_analysis.md#17mm-wheel-hexes) |
+| **Traxxas 6469 17mm splined wheel hubs + nuts**<br><sub>Note: blue anodised 6061-T6, set of 4 with threadlocked screw pins, listed for 6mm axles. **Shaved down** to clear the bare 10×18×5. ⚠️ the FastAz runs cheaper aftermarket hexes instead</sub> | 1 | Traxxas | **$20.00 / set of 4** | [Hexes](hub_analysis.md#17mm-wheel-hexes) |
 
 ## Body & Aero
 
@@ -139,7 +139,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | **Radio** | FlySky NB4 gen 1 with the FGr4S V2, same as the FastAz, but no price recorded |
 | **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
 | ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |
-| **Bare Jato rims and shock oils** | Small money, but they round the list out. The 17mm hexes are no longer a gap: they are the aftermarket E-Revo hubs at $8.36 |
+| **Bare Jato rims and shock oils** | Small money, but they round the list out. The 17mm hexes are no longer a gap: they are the Traxxas 6469 at $20.00 |
 
 ---
 
