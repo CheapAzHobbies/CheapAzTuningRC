@@ -1,25 +1,54 @@
-# Traxxas Jato 4x4 — Mike's
+<div align="center">
+
+# T H E · J A T O · G A Z E T T E
+
+**MIKE'S TRAXXAS JATO 4X4** · GARAGE EDITION · PRINTED ON THE BENCH SINCE 2026
+
+`VOL. I . . . . . No. 1 . . . . . THURSDAY, SEPTEMBER 17, 2026 . . . . . PRICE 25¢`
+
+</div>
+
+---
+
+<div align="center">
+
+## SLASH DONOR REBUILT TO JATO SPEC; RIVAL CAR BORN ON SAME BENCH
+
+### *Towers, shocks and a wing were all it took · Faster car followed, but this one came first*
+
+<sub><b>BY THE GARAGE DESK</b> · Special to the CheapAz Tuning Wire</sub>
+
+</div>
 
 > Mike's car. Related to but not the same as the [FastAzJato4x4](../FastAzJato4x4/README.md) build (which is co-developed with Mike). Setup notes recorded here for reference and cross-build tuning.
 
 ---
 
-## Table of Contents
+<div align="center">
 
-- [Car Overview](#car-overview)
-- [Suspension](#suspension)
-- [Steering](#steering)
-- [Chassis](#chassis)
-- [Drivetrain](#drivetrain)
-- [Batteries](#batteries)
-- [Wheels & Tires](#wheels--tires)
-- [Aero & Body](#aero--body)
-- [Electronics](#electronics)
-- [Tuning Notes](#tuning-notes)
-- [Parts Purchased](#parts-purchased)
-- [TODO / Notes](#todo--notes)
+**· INSIDE THIS ISSUE ·**
+
+</div>
+
+| Page | Section | The story |
+|:---:|---|---|
+| **A1** | [Car Overview](#car-overview) | Slash donor, Jato spec, and why this one is the original |
+| **A2** | [Suspension](#suspension) | Oils and pistons, tuned here first |
+| **A3** | [Steering](#steering) | An alloy knuckle on a plastic C-hub, and the part that broke |
+| **A4** | [Chassis](#chassis) | Plastic and proud, with one alloy bulkhead |
+| **B1** | [Drivetrain](#drivetrain) | Shared axles, greased rear diff |
+| **B2** | [Batteries](#batteries) | Four packs, and the cutoff that matters |
+| **B3** | [Wheels & Tires](#wheels--tires) | The wide-track trick |
+| **B4** | [Aero & Body](#aero--body) | Green, and billed elsewhere |
+| **C1** | [Electronics](#electronics) | Castle combo and the bearing count |
+| **C2** | [Tuning Notes](#tuning-notes) | **OPINION:** the pinion finding |
+| **D1** | [Parts Purchased](#parts-purchased) | Classifieds |
+| **D2** | [Analysis Docs](#analysis-docs) | Our regular columns |
+| **D3** | [TODO / Notes](#todo--notes) | Coming next issue |
 
 ---
+
+<div align="center"><sub><b>PAGE A1</b> · THE FRONT PAGE</sub></div>
 
 ## Car Overview
 
@@ -32,6 +61,8 @@
 > **On the Slash vs Jato question: it started as a running Slash 4x4**, and that origin is the build. **The two are the same platform**, so the donor carries straight over. What makes it a Jato 4x4 is the **towers, shocks and wing**, which are the parts that actually differ between them. Anyone pricing this build should start from a running Slash 4x4 and budget those three.
 
 ---
+
+<div align="center"><sub><b>PAGE A2</b> · SUSPENSION DESK</sub></div>
 
 ## Suspension
 
@@ -55,7 +86,11 @@
 
 ---
 
+<div align="center"><sub><b>PAGE A3</b> · STEERING DESK</sub></div>
+
 ## Steering
+
+<div align="center"><sub><i>"IT DIDN'T FAIL STOCK" · Filed hinge pocket blamed in C-hub failure</i></sub></div>
 
 | Component | Part | Weight (pair) |
 |-----------|------|---------------|
@@ -65,9 +100,11 @@
 | ~~LIGHT HOUSE Aluminum Front C Hub/Knuckle Arm~~ (black) | **Broke**, retired | 25.5 g bare · 36.4 g w/ hardware |
 | ~~LIGHT HOUSE Aluminum Front Hub/Knuckle Arm~~ (black) | **Broke**, retired | 22.4 g bare · 34.9 g w/ hardware |
 
-> **Why the change:** the Lighthouse front C-hub and carrier broke, so Mike moved onto a **MonsterKingz metal set bought off the FastAzJato4x4 for $50** (2026-09-07). **It didn't fail stock**, he'd filed the hinge pocket for droop. Full write-up, the measured Lighthouse weights, the shaved 17mm hexes and the planned rear shave are all in [`hub_analysis.md`](hub_analysis.md).
+> **Why the change:** the Lighthouse front C-hub and carrier broke, so Mike moved onto a **MonsterKingz metal set bought off the FastAzJato4x4 for $50** (2026-09-07). **It didn't fail stock**, he'd filed the hinge pocket for droop. Full write-up, the measured Lighthouse weights and the planned rear shave are all in [`hub_analysis.md`](hub_analysis.md). The **shaved 17mm hexes** now live with the stubs that gate them, in [`driveshaft_analysis.md`](driveshaft_analysis.md#17mm-wheel-hexes).
 
 ---
+
+<div align="center"><sub><b>PAGE A4</b> · CHASSIS DESK</sub></div>
 
 ## Chassis
 
@@ -80,6 +117,8 @@
 > **The honest cheap route:** a plastic chassis plus one alloy front bulkhead covers the part that actually fails, without the carbon kit. It's also the pairing that makes [metal arms risky](../FastAzJato4x4/arm_analysis.md), FLM arms strip a *plastic* bulkhead. Full reasoning, and why this choice makes the [battery mounting](battery_mount_analysis.md) unique to this car, in [`chassis_analysis.md`](chassis_analysis.md).
 
 ---
+
+<div align="center"><sub><b>PAGE B1</b> · DRIVETRAIN DESK</sub></div>
 
 ## Drivetrain
 
@@ -106,6 +145,8 @@ Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (
 
 ---
 
+<div align="center"><sub><b>PAGE B2</b> · POWER DESK</sub></div>
+
 ## Batteries
 
 > **Two docs:** [`battery_analysis.md`](battery_analysis.md) for the packs and the IR checks, [`battery_mount_analysis.md`](battery_mount_analysis.md) for the retainers, bar heights and max pack size.
@@ -115,6 +156,8 @@ Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (
 **Max pack 152 × 48 × 44mm**, full length 4S, soft or hard case. **Four packs run here**, the Gens Ace Redline 6300 and three CNHL, and **the HV ones are the better packs**. Prices are in [`BOM.md`](BOM.md#batteries). **Likely moving to hardcase** so grit stops chafing the soft packs.
 
 ---
+
+<div align="center"><sub><b>PAGE B3</b> · TIRE DESK</sub></div>
 
 ## Wheels & Tires
 
@@ -128,6 +171,8 @@ Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (
 
 ---
 
+<div align="center"><sub><b>PAGE B4</b> · BODY SHOP</sub></div>
+
 ## Aero & Body
 
 | Component | Part | Notes |
@@ -135,6 +180,8 @@ Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (
 | Body / shell | Traxxas Jato 4x4 body, green (exact SKU TBD) | $36.00, paid for by me, tracked in [`/LEDGER.md`](../../LEDGER.md), not here |
 
 ---
+
+<div align="center"><sub><b>PAGE C1</b> · ELECTRONICS DESK</sub></div>
 
 ## Electronics
 
@@ -145,11 +192,15 @@ Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (
 
 **Motor bearing service tracking:** bearings replaced ~2026-09-06, first run on them 2026-09-12, **4 battery packs run since**. Running **S605ZZ 5×14×5 ABEC-9** rather than the stock bearings, which work but burn up quickly ([`bearings_reference.md`](bearings_reference.md#the-motor-bearing-s605zz)). Counted by packs in [`maintenance/README.md`](../../maintenance/README.md), the goal is catching the next replacement before they blow rather than after.
 
-> Motor, gearing and the power-band finding are written up in [`esc_motor_analysis.md`](esc_motor_analysis.md).
+> Motor, gearing and the power-band finding are written up in [`esc_motor_analysis.md`](esc_motor_analysis.md). **EC5 is the main battery connection**, with everything fitted listed in [`connector_reference.md`](connector_reference.md).
 
 ---
 
+<div align="center"><sub><b>PAGE C2</b> · OPINION</sub></div>
+
 ## Tuning Notes
+
+<div align="center"><sub><i>FROM THE DRIVER'S SEAT · The smallest pinion was the wrong target all along</i></sub></div>
 
 **Gearing for the power band, not the smallest pinion, is the finding.** It was reached at **12T**; the car has since come down to **11T**.
 
@@ -158,6 +209,8 @@ Original intuition was that **higher RPM** = better air control, so chasing the 
 The on-track observations, the service tracking and the full write-up are in [`esc_motor_analysis.md`](esc_motor_analysis.md). It's also the empirical data point behind the FastAzJato4x4 pinion decision: pinion sizing is **not** purely a top-speed equation.
 
 ---
+
+<div align="center"><sub><b>PAGE D1</b> · CLASSIFIEDS</sub></div>
 
 ## Parts Purchased
 
@@ -173,6 +226,8 @@ The on-track observations, the service tracking and the full write-up are in [`e
 
 ---
 
+<div align="center"><sub><b>PAGE D2</b> · OUR REGULAR COLUMNS</sub></div>
+
 ## Analysis Docs
 
 Each one is a summary of **what is fitted**, with a link out to the [FastAzJato4x4](../FastAzJato4x4/README.md) doc for the full comparison.
@@ -187,6 +242,8 @@ Each one is a summary of **what is fitted**, with a link out to the [FastAzJato4
 
 ---
 
+<div align="center"><sub><b>PAGE D3</b> · COMING IN NEXT WEEK'S EDITION</sub></div>
+
 ## TODO / Notes
 
 - [x] Chassis confirmed: **Traxxas 7422 LCG + Powerhobby alloy front bulkhead + steel centre brace**
@@ -194,3 +251,12 @@ Each one is a summary of **what is fitted**, with a link out to the [FastAzJato4
 - [x] Arm setup confirmed against the FastAz: **FLM26800**, and the Slash-vs-Jato shock mount costs ~5mm of wheelbase
 - [ ] Weigh the car (no all-up figure recorded yet)
 - [ ] Add photos of the car itself, most shots here are of parts
+
+---
+
+<div align="center">
+
+<sub><b>THE JATO GAZETTE</b> · Published irregularly from the bench · All prices as paid, all weights as measured<br>
+Sister publication: <a href="../FastAzJato4x4/README.md">The FastAz Jato 4x4</a> · Accounts settled in the <a href="../../LEDGER.md">LEDGER</a></sub>
+
+</div>
