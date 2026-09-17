@@ -2,11 +2,9 @@
 
 > **Running: FLM26800 extended arms at both ends.** 6061 aluminum, **101.6mm hole to hole against 92mm for the stock TRA3655**, so each arm pushes the wheel out about **9.6mm per side**. Same arm the [FastAz](../FastAzJato4x4/arm_analysis.md) runs, same part front and rear.
 >
-> ⚠️ **Metal arms need the alloy front bulkhead.** FLM arms strip a *plastic* bulkhead, and this car runs a **plastic chassis**, so the [Powerhobby alloy front](chassis_analysis.md) is what makes them survivable. On this build the two parts are a package, not separate choices.
->
 > **Full comparison of every arm that fits:** [FastAzJato4x4 arm analysis](../FastAzJato4x4/arm_analysis.md#arm-comparison).
 
-<p align="center"><img src="../FastAzJato4x4/src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" height="300">&nbsp;<img src="../FastAzJato4x4/src/chassis_powerhobby_alu_front_bulkhead.jpg" height="300"><br><em>What's fitted: <strong>FLM26800</strong> extended arms, front and rear · the <strong>Powerhobby alloy front bulkhead</strong> they require on a plastic chassis</em></p>
+<p align="center"><img src="../FastAzJato4x4/src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" width="300"><br><em><strong>FLM26800</strong> extended arms, 6061 aluminum, front and rear</em></p>
 
 ---
 
@@ -47,7 +45,7 @@ All of these share the **TRA3655 hinge pin and mount pattern**, so any of them b
 
 > **Stiffest to floppiest:** FLM26800 aluminum, then TRA3655X, TRA3655, TRA3655-BLK, and RPM last. Stiffer steers sharper, flexier survives better, which is the whole trade.
 >
-> ⚙️ **Metal arms are usually looked down on, and here they are the only option.** If you want the extra track width there is nothing else left: the nylon **PRO6082-01** reached the same **+10mm** and is **discontinued**, so the FLM is what remains. **The metal is a consequence of chasing track width, not a preference for metal.**
+> ⚙️ **Metal arms are usually looked down on, and here they are the only option.** If you want the extra track width there is nothing else left: the nylon **PRO6082-01** reached the same **+10mm** and is **discontinued**, so the FLM is what remains. **The metal follows from chasing track width.**
 
 ---
 
@@ -66,7 +64,7 @@ All of these share the **TRA3655 hinge pin and mount pattern**, so any of them b
 ## Notes
 
 - **Running them at both ends is what forces the long axles.** Nothing off the shelf reaches +9.6mm per side, so all four corners run the custom axle: **TRA6752 long output shafts** ($32.00 / set of 4) with **Tekno stubs**, front TKR1654-17 and rear 5580, on chopped E-Revo CVDs. That cost belongs to the arms as much as to the [driveshafts](driveshaft_analysis.md).
-- **Metal arms require the alloy front bulkhead.** FLM arms strip a plastic bulkhead, and this car's chassis is plastic, so the **Powerhobby alloy front** is the part that makes the whole arm choice work. See [`chassis_analysis.md`](chassis_analysis.md).
+- **Why metal arms survive on this car, and how to make them survive on yours.** Aluminum arms pass impact straight through to whatever holds the hinge pins, and a plastic bulkhead strips under that. Three things make the combination durable here. The **alloy front bulkhead** takes the load the plastic one loses to, and it is the one part you have to buy; this car uses the Powerhobby, covered in [`chassis_analysis.md`](chassis_analysis.md). The **arms bend instead of shattering**, so a hard hit ends with pliers rather than a parts order. And the **[RPM rod ends](tie_rod_analysis.md)** are the cheapest thing in the link, so they give way first and keep the hit away from the arm, the hub and the bulkhead. Get those three right and metal arms hold up fine.
 - **Track width, not wheelbase.** Longer arms move the wheel outboard, which is track. Wheelbase is front axle to rear axle and no arm changes it. The giveaway is that the gain is quoted **per side**, and that the [axles had to get longer](driveshaft_analysis.md), since axle length is a lateral measurement.
 - **The 5mm wheelbase note does not apply to this car.** A *Slash 4x4* shock mount sits further forward and stretches the car about 5mm over the Jato arrangement. Mike runs the **Jato TRA9034 rear tower**, so he has the Jato geometry and not that extra 5mm. See [`shock_tower_analysis.md`](shock_tower_analysis.md).
 - **Arms are the intended fuse.** They bend rather than snap, get pounded back to shape, and the car keeps running. Bend one back three times and it has already beaten a cheaper arm that shatters.
