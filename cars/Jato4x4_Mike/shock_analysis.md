@@ -13,6 +13,25 @@
 
 > ⚙️ **The drilled piston is this car's own tweak.** Four holes stay at **1.4mm**, two are opened to **1.5mm**, so the front piston flows slightly more than a stock 1.4 without going to a full 1.5. 🚧 Which end it was tuned against, and why two rather than three, is not recorded.
 
+---
+
+## If the rear packs
+
+**Packing is the shock failing to recover between hits.** Through a rough section the rear rides progressively lower, because the oil cannot get back through the piston fast enough before the next hit lands, so the car squats and gives up drive. The cure is to let oil move faster, either through bigger piston holes or thinner oil, and **thinner oil is the easier one to try**.
+
+| Rear oil | cSt | When |
+|---|---|---|
+| **50wt**, Associated 5480 FT | **640** | ✅ **Running now** |
+| **47.5wt**, Associated FT | **613** | 🔧 **Go here if it packs**, one step down, roughly 4% thinner |
+
+⚠️ **Stay in Associated for this step.** **TLR does not make a 47.5wt at all**, and the two brands split badly at this end of the range: Associated 50wt is **640 cSt** against TLR 50wt at **710 cSt**, nearly a full step apart. If only TLR is on the shelf, **TLR 45wt (610 cSt) is the near equivalent** of Associated 47.5wt (613 cSt). Full chart in the [shock oil supertable](../ERevo_1.0/shock_analysis.md#shock-oil-supertable--wt--cst-across-brands-up-to-5000-cst).
+
+> **Why this car and not the other.** The rear piston here is **6 hole × 1.2mm**, where the [FastAz](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil) runs **6 × 1.4mm**. Smaller holes restrict flow more, which is exactly what makes a shock pack, so **the same 50wt oil is doing a harder job in this car's rear** than in that one's.
+
+🚧 The Associated 47.5wt part number is not recorded.
+
+---
+
 | Item | Spec |
 |---|---|
 | **Shocks** | **HPI Apache C1**, part **107365**, 16mm bore, 97mm shaft, plastic body |

@@ -125,7 +125,7 @@ I run at the top of the oil range on purpose: **heavier oil is significantly mor
 | 40 | 500 | 516 | +16 | 500 · **Jato front (running)** |
 | 42.5 | 538 | — | — | ~540 |
 | 45 | 575 | 610 | **+35** | ~600 |
-| 47.5 | 613 | — | — | ~600 |
+| 47.5 | **613** | — | — | ~600 · **Mike's Jato rear, the step down if it packs** |
 | **50** | **640** | **710** | **+70** | ~650-700 · **Jato rear (running, Associated 5480)** · Mike's Jato rear |
 | 55 | 725 | 760 | +35 | ~750 |
 | 60 | 800 | 810 | +10 | 800 |

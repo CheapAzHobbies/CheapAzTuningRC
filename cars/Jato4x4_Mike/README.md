@@ -43,6 +43,8 @@
 | Rear | **50wt** (Associated 5480 FT, 650 cSt) |
 
 > **Same spec as the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md#setup-spec-springs--pistons--oil), and this car is where it was arrived at**, the two were tuned together, starting here. Rear heavier than front because the motor sits at the back and the car is tail-heavy for a 1/8.
+>
+> 🔧 **If the rear packs, drop it to 47.5wt** (Associated FT, 613 cSt), one small step down from the 50wt in it now. This car's rear piston is the more restrictive **6 × 1.2**, so it is likelier to pack than the FastAz. See [`shock_analysis.md`](shock_analysis.md#if-the-rear-packs).
 
 ### Pistons
 
