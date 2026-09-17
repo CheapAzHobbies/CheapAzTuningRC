@@ -114,6 +114,8 @@ The one part that makes this car's route work, and the one bearing here that is 
 
 </div>
 
+⚠️ **This bearing is unique to this car, because the motor is.** The [FastAz](../FastAzJato4x4/motor_analysis.md) runs a **Hobbywing EZRun 3665SD G3 2400KV** out of a MAX10 G2 combo, a different motor on different bearings, so nothing in this section carries across to that build the way the chassis sizes do.
+
 > ⭐ **ABEC-9 over stock, and the reason is life rather than speed.** **The stock Castle bearings work, they just burn up quickly.** These last longer in the same motor. ABEC is a precision grade and not a durability rating, so the real gain is the **stainless and the flush shielding**, which leaves dirt and water much less of a way in. **Keeping the motor cool still matters**, the bearing is not a substitute for that.
 
 ⚠️ **Castle does not publish the 1412's bearing sizes.** The [FastAz motor table](../FastAzJato4x4/motor_analysis.md) records Castle's as *"NMB, size not published"*, so **5×14×5 comes from fitting one, not from a spec sheet**. For scale, the Tekin Pro4 in that same table runs **5×14×5 front with 5×11×5 rear**, so a motor of this class usually takes two different sizes. 🚧 **The 1412's rear bearing size is not recorded here**, only the 5×14×5.

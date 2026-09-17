@@ -18,10 +18,10 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Steering](#steering) | $51.63 |
 | [Wheels & Tires](#wheels--tires) | $36.54 |
 | [Body & Aero](#body--aero) | $59.00 |
-| [Electronics](#electronics) | $198.71 |
+| [Electronics](#electronics) | $200.42 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$916.15** |
-| **Car only, without batteries** | **$630.80** |
+| **Total recorded** | **$917.86** |
+| **Car only, without batteries** | **$632.51** |
 
 > **What the total is missing:** the donor, the shocks, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
@@ -111,6 +111,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Castle Mamba X SCT + 1412-3200KV 5mm combo**<br><sub>Note: sensored, 25.2V waterproof ESC and the motor sold as one part, **010-0155-13**. $198.71 plus $12.78 shipping, $211.49 the order, 2025-03-19, educational discount applied, bought by Mike directly. A later non-warranty RMA motor cost **$94.00** ([LEDGER](../../LEDGER.md) #83), not counted here since it replaced this motor rather than adding one</sub> | 1 | Castle Creations, order STD0000000137021 | **$198.71 / combo** | [ESC](esc_analysis.md) |
+| **S605ZZ 5×14×5 ABEC-9 stainless bearings**<br><sub>Note: the motor bearing for the Castle 1412, bought as a 10-pack at $17.06. ⚠️ **unique to this car**, since the FastAz runs a different motor. 🚧 the 1412's other bearing is a different size and is not recorded</sub> | 1 | AliExpress, Bearing Solution Store | **$1.71 each** | [Bearings](bearings_reference.md#the-motor-bearing-s605zz) |
 | **Radio + receiver** | 1 | 🚧 not recorded | **🚧** | [Electronics](README.md#electronics) |
 | **Motor cooling fan**<br><sub>Note: ⚠️ two metal fans at $6 each are on Mike's ledger, but cooling is not recorded on this car, so they may be for something else</sub> | 🚧 | 🚧 unconfirmed | **🚧** | [Motor](motor_analysis.md) |
 
