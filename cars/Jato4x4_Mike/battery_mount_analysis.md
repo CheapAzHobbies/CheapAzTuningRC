@@ -101,6 +101,8 @@ Two ways to do it, a **bar across the stock posts** or a **strap**. They are alt
 
 </div>
 
+> **Which side is which.** **Length** runs front to back along the chassis, the long axis with the leads at one end. **Width** runs across the car. **Height** is tray floor to pack top, the one the bar has to clear. Turning a pack on its side swaps width and height, so an over-tall pack is worth measuring twice before you rule it out.
+
 The notesheet also sketches the tray opening itself at **165 × 50mm**, which is the raw space before a bar goes on.
 
 > ⚠️ **152mm is the span measured at full height.** The bar curves up towards each end, so **a low pack fits under the curve and can run longer**. The 160mm Racing 5200 goes in at 37mm tall, and a straight bar takes it without trouble. **Treat 152 × 48 × 44 as the safe box for a tall pack**, and check the curve yourself if the pack is long but low.
@@ -124,5 +126,6 @@ Every dimension on this page is transcribed from Mike's handwritten sheet. It is
 
 - **Every pack this car owns clears the stock bar.** The four in [`battery_analysis.md`](battery_analysis.md) stand 37, 37, 31 and 37mm tall against the 7426X ceiling of **44mm**, so the stock bar handles the whole fleet and the printed bar is headroom for a taller pack later.
 - **Two parts, eight settings.** Between the two bars and the two retainer holes there are eight combinations from 20mm to 44mm. **Before buying a taller bar, try flipping the one you have or moving it to the other hole.**
-- **Measure the pack, not the label.** Everything here carries **±1.5mm**, so a setting within 1.5mm of a pack's height is a maybe, not a yes.
+- **Measure the pack, not the label.** Everything here carries **±1.5mm**, so treat a setting within 1.5mm of a pack's height as a maybe. ⚠️ **Listings get width and height backwards**, the [Gens Ace Redline](battery_analysis.md#notes) among them, so a pack can read 10mm taller on paper than it measures.
+- **A pack that is too tall may fit on its side.** Rotating swaps width for height, so a tall narrow pack can come in under the bar as a wide low one. Check it against the **48mm** tray width before writing a pack off on height.
 - **The "Traxxas OE strap" is the plastic bar on its retainers**, listed above. A plain generic strap is $2 to $4 ([LEDGER](../../LEDGER.md) #39, #40) if you want one anyway.
