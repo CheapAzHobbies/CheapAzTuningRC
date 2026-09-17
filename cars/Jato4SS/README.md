@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <b>JATO 4SS</b> &#183; <b>4WD SUPER SPORT</b> &#183; AKA <b>THE SUPER JATO</b>
+</p>
+
+<p align="center">
   <b>VOL. 1 &middot; ISSUE 01 &middot; PROJECT CAR FEATURE &middot; MELDRUM BAR, OR</b><br>
   <b>&#9733; EXCLUSIVE:</b> $881 BUILD TAKES ON 1/5 SCALE &nbsp;&#9642;&nbsp;
   <b>INSIDE:</b> EVERY RECEIPT &nbsp;&#9642;&nbsp;
