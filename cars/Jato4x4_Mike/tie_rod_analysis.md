@@ -10,6 +10,6 @@
 |---|---|
 | **Turnbuckles** | **ACER Racing M4 × 60mm titanium**, ×2 |
 | **Price** | **$11.98 / pair** (ACER order #581093) |
-| **Rod ends** | 🚧 not recorded |
+| **Rod ends** | **RPM long rod ends, white (80511).** Colour is cosmetic, the black **80512** and blue **80515** are the same part |
 
 </div>

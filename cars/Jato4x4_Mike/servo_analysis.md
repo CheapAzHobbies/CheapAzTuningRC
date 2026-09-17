@@ -4,6 +4,8 @@
 >
 > **Full comparison and the cross-brand table:** [FastAzJato4x4 servo analysis](../FastAzJato4x4/servo_analysis.md#servo-comparison).
 
+<p align="center"><img src="../FastAzJato4x4/src/steering_ptk_9752tgd_servo_dimensions.jpg" height="200">&nbsp;<img src="../FastAzJato4x4/src/steering_ptk_9752tgd_servo_spec_sheet.jpg" height="200">&nbsp;<img src="../FastAzJato4x4/src/steering_gpm_servo_horn_link_rus416026st-s_weight.jpg" height="200"><br><em>What's fitted: the <strong>PTK 9752TG-D</strong>, its dimensions and spec sheet · the <strong>GPM servo horn</strong> it drives</em></p>
+
 <div align="center">
 
 | Item | Spec |
@@ -23,6 +25,8 @@
 **The JX did not break, it drifted.** Its failure mode is **electrical, not mechanical**: the pot and centring circuit wander, so the servo **quivers at centre under no load** and cannot settle at neutral. On this car it reached the point of **having a hard time centring**, which is what triggered the switch.
 
 **The gears never stripped.** That is the awkward part of this failure: a stripped gear lets you limp home, while a drifting centre leaves the car undrivable with everything apparently intact.
+
+<p align="center"><img src="../FastAzJato4x4/src/steering_jx_cls6322hv_servo_weight.jpg" width="380"><br><em>The retired <strong>JX CLS6322HV</strong>, EcoBoost branding. It came off for centring drift with its gears still perfectly good</em></p>
 
 > **This car is where that failure was observed.** The JX centring write-up in the [FastAz servo doc](../FastAzJato4x4/servo_analysis.md#notes) is describing what happened here, not on that car.
 

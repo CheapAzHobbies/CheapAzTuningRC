@@ -4,6 +4,8 @@
 >
 > **Full comparison:** [FastAzJato4x4 shock tower analysis](../FastAzJato4x4/shock_tower_analysis.md).
 
+<p align="center"><img src="../FastAzJato4x4/src/shock_tower_traxxas_jato4x4_rear_spring_backside.jpg" width="500"><br><em>The <strong>Jato 4x4 rear tower</strong> fitted, shocks mounted at the back of the car rather than mid-chassis. That rearward position is the geometry difference, and it is also why the shocks sit in the crash path</em></p>
+
 <div align="center">
 
 | Item | Spec |

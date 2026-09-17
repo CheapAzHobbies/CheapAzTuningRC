@@ -6,6 +6,8 @@
 >
 > **Full comparison, spring charts and the plastic vs metal argument:** [FastAzJato4x4 shock analysis](../FastAzJato4x4/shock_analysis.md#plastic-vs-metal-body-trade-off).
 
+<p align="center"><img src="../FastAzJato4x4/src/suspension_hpi_shocks_apache_c1_107365.jpg" height="150">&nbsp;<img src="../FastAzJato4x4/src/suspension_losi_shock_oil_37-5wt_tlr74030.jpg" height="150">&nbsp;<img src="../FastAzJato4x4/src/suspension_associated_shock_fluid_50wt_asc5480.jpg" height="150"><br><em>What's fitted: <strong>HPI Apache C1</strong> 16mm big bores · <strong>Losi TLR74030 37.5wt</strong> in the front · <strong>Associated 5480 FT 50wt</strong> in the rear</em></p>
+
 <div align="center">
 
 | Position | Oil | Spring | Piston |
