@@ -13,7 +13,6 @@
 - [Key Requirements](#key-requirements) — what the front has to survive
 - [Comparison](#comparison) — what runs, what is planned, what broke
 - [Weighed-in photos](#weighed-in-photos) — the Lighthouse measurements
-- [17mm wheel hexes](#17mm-wheel-hexes) — the shaved aftermarket E-Revo hubs
 - [Price History](#price-history)
 - [Notes](#notes)
 
@@ -62,28 +61,6 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 <p align="center"><img src="src/steering_lighthouse_aluminum_c_hub_bare_weight.jpg" width="380">&nbsp;<img src="src/steering_lighthouse_aluminum_c_hub_with_hardware_weight.jpg" width="380"><br><em>C-hubs bare: 25.5 g · C-hubs + hardware kit: 36.4 g</em></p>
 
 > For context, the FastAz measured its **Integy C26402PURPLE C-hubs at 27.7 g the pair**, only **2.2 g** over these. **Weight is not what separates front alloy hubs**, so pick on price, fit and what survives.
-
----
-
-## 17mm wheel hexes
-
-**Running: the Traxxas 6469 17mm splined aluminium hubs, $20.00 for all four corners, shaved down.** ⚠️ **This is a divergence from the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md#17mm-wheel-hubs-hexes)**, which runs the cheaper aftermarket E-Revo fit hexes at **$8.36**. Both sit on the same **Tekno stubs**, so only the hex itself differs. This is the other half of this car's bearing decision. Running the **bare 10×18×5** in the hub leaves no room for a full-thickness hex, so **the hexes give up the 1mm, not the carriers**.
-
-<div align="center">
-
-| Requirement | Type | Why |
-|---|---|---|
-| **17mm hex** | Must | The wheels are 17mm |
-| **Survives being shaved** | Must | This car takes its 1mm out of the hex, so the hex has to have material to give |
-| **Cheap and replaceable** | May | A shaved part is a consumable, and the cut is permanent |
-
-</div>
-
-<p align="center"><img src="src/drivetrain_traxxas_17mm_splined_wheel_hubs_6469.jpg" height="200">&nbsp;<img src="../FastAzJato4x4/src/drivetrain_traxxas_wheel_hub_17mm_tra6469_weight.jpg" height="200"><br><em><strong>Traxxas 6469</strong>, 17mm blue anodised 6061-T6 splined hubs and nuts, set of four with 4×13mm threadlocked screw pins, <strong>$20.00</strong>. Listed for <strong>6mm axles</strong>, which is exactly the Tekno 5580 stub end · on the scale at <strong>5.9 g</strong> a hub, so <strong>23.6 g</strong> for all four</em></p>
-
-> ⚠️ **Shaving is what buys the bigger bearing here**, and the FastAz notes a **pin-through** hex tolerates thinning better than a solid screw-pin one. Worth knowing before cutting a fresh set.
-
----
 
 ## Price History
 

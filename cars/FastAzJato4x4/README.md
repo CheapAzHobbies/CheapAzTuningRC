@@ -173,7 +173,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Center driveshaft | Jato 4x4 BL-2S take-off shaft (7455) | $2.49, [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | Axle CVDs | Knock-off Slash 4x4 HD steel CV driveshafts, front + rear (TRA6851R / TRA6852R clones, 5mm) + **4× TRA6752 long output shafts** | [`driveshaft_analysis.md`](driveshaft_analysis.md) |
 | Stubs | Tekno M6: front **TKR1654-17**, rear **5580** (bought bare) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
-| 17mm hubs | **AliExpress aftermarket 17mm splined hubs (E-Revo 1.0 fit)**, black, all four corners | $8.36, 2-3mm wider per corner, [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hubs-hexes) |
+| 17mm hubs | **AliExpress aftermarket 17mm splined hubs (E-Revo 1.0 fit)**, black, all four corners | $8.36, 2-3mm wider per corner, [`hub_analysis.md`](driveshaft_analysis.md#17mm-wheel-hexes) |
 | Gearbox housings | Traxxas TRA6881 front / TRA6880 rear | $4 each, [`gearbox_housing_analysis.md`](gearbox_housing_analysis.md) |
 | Bearings | **18 sealed ball bearings, $7.21 for the car's set** (bought by size in 10-packs) + 4 TRA3775 Oilite bushings at the bell crank | Hub corners run 10×15×4 in a printed 18→15mm sleeve, [`bearings_reference.md`](bearings_reference.md#what-the-bearings-cost) |
 
@@ -274,7 +274,7 @@ Every part choice above was decided in its own analysis doc.
 | [Shocks](shock_analysis.md) | [Diffs](differential_analysis.md) | [ESC](esc_analysis.md) | [Chassis](chassis_analysis.md) | [BOM](BOM.md) |
 | [Shock towers](shock_tower_analysis.md) | [Driveshafts](driveshaft_analysis.md) | [Motor](motor_analysis.md) | [Body & aero](aero_analysis.md) | [Checklist](CHECKLIST.md) |
 | [Arms](arm_analysis.md) | [Gearbox housings](gearbox_housing_analysis.md) | [Battery](battery_analysis.md) | [Bumpers](bumper_analysis.md) | |
-| [Swaybars](swaybar_analysis.md) | [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes) | [Charger](charger_analysis.md) | [Wheels](wheel_analysis.md) | |
+| [Swaybars](swaybar_analysis.md) | [17mm hubs](driveshaft_analysis.md#17mm-wheel-hexes) | [Charger](charger_analysis.md) | [Wheels](wheel_analysis.md) | |
 | [Hubs](hub_analysis.md) | [Bearings](bearings_reference.md) | [Radio](radio_analysis.md) | [Bell crank](steering_bell_crank_analysis.md) | |
 | | | [Servo](servo_analysis.md) | [Tie rods](tie_rod_analysis.md) | |
 | | | [Connectors](connector_reference.md) | | |

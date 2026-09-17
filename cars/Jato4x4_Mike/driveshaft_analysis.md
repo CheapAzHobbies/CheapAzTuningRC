@@ -52,10 +52,31 @@
 
 ---
 
+## 17mm wheel hexes
+
+**Running: the Traxxas 6469 17mm splined aluminium hubs, $20.00 for all four corners, shaved down.** ⚠️ **This is a divergence from the [FastAzJato4x4](../FastAzJato4x4/driveshaft_analysis.md#17mm-wheel-hexes)**, which runs the cheaper aftermarket E-Revo fit hexes at **$8.36**. Both sit on the same **Tekno stubs**, so only the hex itself differs. This is the other half of this car's bearing decision. Running the **bare 10×18×5** in the hub leaves no room for a full-thickness hex, so **the hexes give up the 1mm, not the carriers**.
+
+<div align="center">
+
+| Requirement | Type | Why |
+|---|---|---|
+| **17mm hex** | Must | The wheels are 17mm |
+| **Survives being shaved** | Must | This car takes its 1mm out of the hex, so the hex has to have material to give |
+| **Cheap and replaceable** | May | A shaved part is a consumable, and the cut is permanent |
+
+</div>
+
+<p align="center"><img src="src/drivetrain_traxxas_17mm_splined_wheel_hubs_6469.jpg" height="200">&nbsp;<img src="../FastAzJato4x4/src/drivetrain_traxxas_wheel_hub_17mm_tra6469_weight.jpg" height="200"><br><em><strong>Traxxas 6469</strong>, 17mm blue anodised 6061-T6 splined hubs and nuts, set of four with 4×13mm threadlocked screw pins, <strong>$20.00</strong>. Listed for <strong>6mm axles</strong>, which is exactly the Tekno 5580 stub end · on the scale at <strong>5.9 g</strong> a hub, so <strong>23.6 g</strong> for all four</em></p>
+
+> ⚠️ **Shaving is what buys the bigger bearing here**, and the FastAz notes a **pin-through** hex tolerates thinning better than a solid screw-pin one. Worth knowing before cutting a fresh set.
+
+---
+---
+
 ## Notes
 
 - **The alloy shaft is the upgrade, and it is a cheap one.** $10.00 against the $2.49 plastic take-off the FastAz runs. **Internal splines onto the drive assembly inputs** are what remove driveline play, which is the actual reason to fit it rather than the anodising.
 - ⚠️ **Do not order TRA6755.** It is the **Rustler** shaft at **189mm**, 25mm short of what this car needs. The Slash and Jato part is the **214mm 6855**.
 - **The axles are shared with the FastAz, the centre shaft is not.** Everything from the CVD donor to the Tekno stubs and the shaved hexes is the same on both cars, so [that doc](../FastAzJato4x4/driveshaft_analysis.md) covers the build for both.
-- **The hexes are the sacrificial part.** They get shaved to clear the bare 10×18×5 in the hub, which is this car's bearing route. See [`bearings_reference.md`](bearings_reference.md) and [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hexes).
+- **The hexes are the sacrificial part.** They get shaved to clear the bare 10×18×5 in the hub, which is this car's bearing route. See [`bearings_reference.md`](bearings_reference.md) and [`hub_analysis.md`](#17mm-wheel-hexes).
 - 🚧 **The chopped E-Revo route was bought and abandoned.** A **knock-off E-Revo CVD 5451R set ($18.75**, Pretty GEM, [LEDGER](../../LEDGER.md) #84) and an **M6 × 30mm hex standoff joiner ($4.36**, CLOXY) were bought to cut and rejoin custom axles. **The car runs the bolt-in CV set instead**, so neither part is on it and neither is counted in the [BOM](BOM.md#drivetrain). **$23.11 spent on a route not taken.**

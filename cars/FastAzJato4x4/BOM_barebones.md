@@ -124,7 +124,7 @@ Nobody's crashed it, the warranty is intact, and you skip the hunt. Three ways i
 |---|---|---|---|---|
 | **Integy C26402PURPLE billet C-hubs**<br><sub>Note: pre-EHD plastic-style C-hub, which is what makes it fit the XO-1 steering blocks</sub> | 1 | eBay, jontobitt1118 | **$13.62 / pair** | [Hubs](hub_analysis.md) |
 | **GPM XO-1 alloy steering blocks** | 1 | GPM | **$19.16 / pair** | [Hubs](hub_analysis.md) |
-| **Aftermarket 17mm splined wheel hubs, E-Revo 1.0 fit**<br><sub>Note: black, 2-3mm wider per corner. Replaces the donor's stock 17mm hexes, which go unused</sub> | 1 | AliExpress | **$8.36 / set of 4** | [17mm hubs](hub_analysis.md#17mm-wheel-hubs-hexes) |
+| **Aftermarket 17mm splined wheel hubs, E-Revo 1.0 fit**<br><sub>Note: black, 2-3mm wider per corner. Replaces the donor's stock 17mm hexes, which go unused</sub> | 1 | AliExpress | **$8.36 / set of 4** | [17mm hubs](driveshaft_analysis.md#17mm-wheel-hexes) |
 | **3D-printed 18 → 15mm bearing sleeves**<br><sub>Note: printed at home, STL in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [Fitting the sleeve](bearings_reference.md#fitting-the-sleeve) |
 
 ## Steering

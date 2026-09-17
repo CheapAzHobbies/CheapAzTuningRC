@@ -14,7 +14,7 @@
 
 | Requirement | Type | Why |
 |---|---|---|
-| **17mm hex** | Must | The car runs 17mm hexes (shaved, see [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hexes)) |
+| **17mm hex** | Must | The car runs 17mm hexes (shaved, see [`hub_analysis.md`](driveshaft_analysis.md#17mm-wheel-hexes)) |
 | **Widens the track** | Must | The wide stance is the point of this setup, and it measurably improved stability and corner grip |
 | **ROAR legal** | ❌ Not a requirement | Explicitly given up on this car. The FastAz carries that constraint instead |
 

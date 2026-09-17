@@ -96,7 +96,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **RED SPIDER 17mm hex wheels + tires**<br><sub>Note: the tires run on wider Traxxas Jato rims instead, which is the wide-track trick</sub> | 1 | [LEDGER](../../LEDGER.md) #77 | **$20.10 / set of 4** | [Wheels](wheel_analysis.md) |
 | **Blue race foams**<br><sub>Note: sit between the 9070-WHT rim and the RedSpider tire. ⚠️ 🚧 two foam lines on the ledger, #76 "4pc 1/8 RC foam inserts" at $8.08 and #59 "race tire foams" at $6.39, so which one these are is unconfirmed</sub> | 1 | [LEDGER](../../LEDGER.md) #76 | **$8.08 / set of 4** | [Wheels](wheel_analysis.md) |
 | **Traxxas 9070-WHT rims**<br><sub>Note: Jato 4x4 VXL 3.0" dished, white, 17mm hex. What the RedSpider tires are mounted on. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Wheels](wheel_analysis.md) |
-| **Traxxas 6469 17mm splined wheel hubs + nuts**<br><sub>Note: blue anodised 6061-T6, set of 4 with threadlocked screw pins, listed for 6mm axles. **Shaved down** to clear the bare 10×18×5. ⚠️ the FastAz runs cheaper aftermarket hexes instead</sub> | 1 | Traxxas | **$20.00 / set of 4** | [Hexes](hub_analysis.md#17mm-wheel-hexes) |
+| **Traxxas 6469 17mm splined wheel hubs + nuts**<br><sub>Note: blue anodised 6061-T6, set of 4 with threadlocked screw pins, listed for 6mm axles. **Shaved down** to clear the bare 10×18×5. ⚠️ the FastAz runs cheaper aftermarket hexes instead</sub> | 1 | Traxxas | **$20.00 / set of 4** | [Hexes](driveshaft_analysis.md#17mm-wheel-hexes) |
 
 ## Body & Aero
 
