@@ -28,7 +28,7 @@
 | **No integrated front LEDs** | Must | Front bumper takes direct hits, LEDs in the bumper get destroyed immediately. Lights belong elsewhere, not in the impact zone |
 | **Retains the hinge pins** | Must | **The Traxxas bumpers on this chassis family hold the front and rear hinge pins in their bores.** No bumper = pins migrate = arms come loose = car is dead. This is a hard mechanical requirement, not a crash-protection one |
 | **Bolts to the CF chassis bumper mount holes** | Must | The chassis is Slash 4x4 pattern, bumpers must match those mount points |
-| **Cheap** | Must | Bumpers double as skid plates on this build, they wear through use, not just crashes. Cheap = guilt-free replacement |
+| **Cheap** | Must | These parts **are** the skid plates, so they wear through use and not just crashes. Cheap = guilt-free replacement |
 | **Doesn't put shocks in the crash path** | May | Already broke an HPI Vorza 97mm shock on a rear-end hit with the back-side-shock geometry, but tbh that crash was kind of a freak accident, not a routine failure mode. Worth avoiding if cheap to design around, but not a hard requirement |
 | **Absorbs impact, doesn't transfer to chassis** | May | Nice for chassis longevity, but the extended FLM arms are the primary fuse, they bend before real chassis damage occurs. This is a "nice to have" not a hard requirement |
 | **Survives most crashes intact** | May | Cheap to replace either way, but fewer trips to the workbench is nice |
@@ -79,6 +79,7 @@ The OEM TRA9044 set already covers the rear. These are options if you want to up
 
 ## Notes
 
+- **Bumper and skid plate are the same part under two names.** They mount in the same places and do the same job, and **the only real difference is how effective each one is**, with some barely doing anything. That is why bumpers and skid plates are compared in the same tables here instead of being split into separate classes.
 - **Hinge-pin retention is the hard requirement.** The Traxxas Slash 4x4 / Jato 4x4 family of bumpers includes integrated retainers that hold the front and rear arm hinge pins in their bores. **Skipping the bumpers is not viable**, pins walk out, arms come loose, car dies. This is the Must that locks bumpers into the BOM regardless of any crash-protection argument.
 - **Recovery-focused logic on the front bumper:** a Jato 4x4 hitting nose-first hard enough to need a bumper is already in a bad landing. The bumper's job here isn't to absorb the impact, it's to **not catch the ground and trigger a cartwheel** before you can power out of it. Smaller bumper = less ground contact = better chance to throttle through and save the run.
 - **Why no premium / aftermarket bumpers:** the extended FLM arms bend before real chassis damage occurs, the chassis is not disposable, it's protected. Spending $40-60 on premium bumpers on top of that is upside-down value.

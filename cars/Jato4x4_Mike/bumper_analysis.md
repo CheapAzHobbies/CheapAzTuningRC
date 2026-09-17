@@ -14,13 +14,15 @@
 
 ## What's fitted
 
+> **Bumper and skid plate are the same part under two names.** They bolt to the same places and do the same job, taking ground contact and impacts at one end of the car. **The only real difference is how much any given one actually does**, and some of them do very little. So the labels below are positions, not two different classes of part.
+
 <div align="center">
 
 | Item | Part | Price |
 |---|---|---|
 | **Front bumper** | **Traxxas TRA6736**, Rustler 4x4 front **+ support**, glass-filled nylon | **$6.00 each** |
 | **Rear skid** | **Traxxas TRA9044**, sold as a front + rear set, **only the rear is used** | **$7.00 / set** |
-| **Front skid** | **None needed.** The Rustler bumper **doubles as the front skid**, so the 9044 front plate goes unused | included in the set |
+| **Front skid** | **The Rustler bumper is the front skid**, so the 9044 front plate goes unused | included in the set |
 | **Rear bumper** | **There isn't one, and none is wanted.** The rear skid **is** the rear bumper here | included in the set |
 
 </div>
@@ -60,5 +62,5 @@ All of these bolt to the same Slash 4x4 / Jato 4x4 mount pattern. Mike runs the 
 - **This bumper is why the car needs no arm guards.** The FastAz runs TRA6732 / TRA6733 guards because it has no front bumper covering the front shocks. The Rustler front does that job here, so there is nothing to add. See [`arm_analysis.md`](arm_analysis.md).
 - **Half the 9044 set is spare.** Only the rear plate is used, and the front plate sits in the box, the same as on the FastAz. It is still the cheapest way to get that rear plate, since it is not sold on its own.
 - **Bigger is not automatically better up front.** The TRA6835 protects more, and that is exactly its problem: a large front profile **catches the ground on a nose-first landing and pitches the car end over** before you can power out of it. The Rustler front is the compromise, real shock protection without a face wide enough to dig in.
-- **The bumpers double as skid plates, which is why they wear.** The Rustler front here and the RPM on the FastAz both take ground contact, not just crashes, so cheap matters more than tough. The [extended arms](arm_analysis.md) are the intended fuse on this car, and they bend before the chassis is in danger.
+- **Bumper and skid plate are the same category of part**, which is why they wear from ground contact rather than only from crashes. The Rustler front here and the RPM on the FastAz are both doing the skid job, so cheap matters more than tough. The [extended arms](arm_analysis.md) are the intended fuse on this car, and they bend before the chassis is in danger.
 - **There is no separate rear bumper, and none is wanted.** The rear skid does that job. It does not really protect anything any more, but **most of the damage happens up front**, so the rear does not need to. The matching Rustler rear is **TRA6737** if one is ever added.
