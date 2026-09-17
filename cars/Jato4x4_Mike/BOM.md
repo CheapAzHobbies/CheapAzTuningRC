@@ -18,10 +18,10 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Steering](#steering) | $51.63 |
 | [Wheels & Tires](#wheels--tires) | $48.18 |
 | [Body & Aero](#body--aero) | $59.00 |
-| [Electronics](#electronics) | $200.42 |
+| [Electronics](#electronics) | $341.33 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$953.28** |
-| **Car only, without batteries** | **$667.93** |
+| **Total recorded** | **$1094.19** |
+| **Car only, without batteries** | **$808.84** |
 
 > **What the total is missing:** the donor, the shocks, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
@@ -112,7 +112,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|---|---|---|
 | **Castle Mamba X SCT + 1412-3200KV 5mm combo**<br><sub>Note: sensored, 25.2V waterproof ESC and the motor sold as one part, **010-0155-13**. $198.71 plus $12.78 shipping, $211.49 the order, 2025-03-19, educational discount applied, bought by Mike directly. A later non-warranty RMA motor cost **$94.00** ([LEDGER](../../LEDGER.md) #83), not counted here since it replaced this motor rather than adding one</sub> | 1 | Castle Creations, order STD0000000137021 | **$198.71 / combo** | [ESC](esc_analysis.md) |
 | **S605ZZ 5×14×5 ABEC-9 stainless bearings**<br><sub>Note: the motor bearing for the Castle 1412, bought as a 10-pack at $17.06. ⚠️ **unique to this car**, since the FastAz runs a different motor. 🚧 the 1412's other bearing is a different size and is not recorded</sub> | 1 | AliExpress, Bearing Solution Store | **$1.71 each** | [Bearings](bearings_reference.md#the-motor-bearing-s605zz) |
-| **Radio + receiver** | 1 | 🚧 not recorded | **🚧** | [Electronics](README.md#electronics) |
+| **FlySky Noble NB4 radio + FGr4S V2 receiver**<br><sub>Note: gen 1 handset, same radio and same price as the FastAz. List is $175.09</sub> | 1 | AliExpress, Hi-Goeswell | **$140.91 each** | [Radio](radio_analysis.md) |
 | **Motor cooling fan**<br><sub>Note: ⚠️ two metal fans at $6 each are on Mike's ledger, but cooling is not recorded on this car, so they may be for something else</sub> | 🚧 | 🚧 unconfirmed | **🚧** | [Motor](motor_analysis.md) |
 
 ## Batteries
@@ -136,7 +136,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | **The running Slash 4x4 donor** | The single biggest line. Without it the total is parts-only |
 | **Shocks, and the front tower** | What is left of the conversion cost. The rear tower ($6.00) and the wing ($16.00) are both recorded now |
 | **The second FLM26800 pair** | The car runs extended arms front **and** rear, but only one pair is booked ([LEDGER](../../LEDGER.md) #85). Likely another ~$25.73 |
-| **Radio** | FlySky NB4 gen 1 with the FGr4S V2, same as the FastAz, but no price recorded |
+| ~~Radio~~ | **Resolved:** FlySky NB4 with the FGr4S V2 at $140.91, the same as the FastAz |
 | **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
 | ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |
 | **Bare Jato rims and shock oils** | Small money, but they round the list out. The 17mm hexes are no longer a gap: they are the Traxxas 6469 at $20.00 |
