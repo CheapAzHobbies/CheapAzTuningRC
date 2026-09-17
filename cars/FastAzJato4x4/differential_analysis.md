@@ -170,16 +170,18 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 ## Front & Rear Diff Oil
 
-**Running: 30k front, 10k greased rear.** Both ends are far heavier than the old 7k / 5k target. The thick front calms torque steer on a 4S car, and the greased rear holds drive off the corner instead of spinning up on the blown-out dirt.
+**Running: 30k oil up front, and grease in the rear instead of oil.** The front is far heavier than the old 7k target, which calms torque steer on a 4S car, and the greased rear holds drive off the corner instead of spinning up on the blown-out dirt.
+
+⚠️ **Grease goes in as a light film, never packed solid.** Packing a diff binds the gears together so it drags and heats instead of differentiating. The full oil versus grease fill rule is written up on [Mike's car](../Jato4x4_Mike/differential_analysis.md#the-rear-runs-grease-not-oil), which runs the same arrangement.
 
 | Diff | Weight | Tuning |
 |---|---|---|
 | **Front** | **30k wt** (Traxxas **TRA5136**, $7.50) | Lighter = more turn-in on the slickest days; heavier = calmer still if it torque-steers or plows |
-| **Rear** | **10k wt, greased** (Traxxas **TRA5135**, $7.50) | Heavier or more grease = more drive off the corner; lighter = more rear rotation if it pushes |
+| **Rear** | **Grease, not oil.** 🚧 which grease is not recorded | More grease = more drive off the corner; less = more rear rotation if it pushes. **A light film, never packed** |
 
-<p align="center"><img src="src/drivetrain_traxxas_diff_oil_30k_tra5136.jpg" width="280">&nbsp;<img src="src/drivetrain_traxxas_diff_oil_10k_tra5135.jpg" width="280"><br><em>Front: Traxxas 30k (TRA5136) · Rear: Traxxas 10k (TRA5135), run greased. $7.50 each at Tammies Hobbies</em></p>
+<p align="center"><img src="src/drivetrain_traxxas_diff_oil_30k_tra5136.jpg" width="280">&nbsp;<img src="src/drivetrain_traxxas_diff_oil_10k_tra5135.jpg" width="280"><br><em>Front: Traxxas 30k (TRA5136), what the front diff actually runs · Traxxas 10k (TRA5135), bought but <strong>not what is in the rear</strong>, since the rear is greased. $7.50 each at Tammies Hobbies</em></p>
 
-> The [E-Revo](../ERevo_1.0/README.md) runs the same **30k** front. [Mike's Jato](../Jato4x4_Mike/README.md#diff-oil) is still on the older **7k / 5k** target, so the two cars have diverged.
+> The [E-Revo](../ERevo_1.0/README.md) runs the same **30k** front. [Mike's Jato](../Jato4x4_Mike/README.md#diff-oil) runs **30k front, 100k centre and a greased rear**, the same approach as here, and it is the car these settings were worked out on in the first place.
 
 ---
 
