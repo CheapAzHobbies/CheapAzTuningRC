@@ -82,6 +82,37 @@
 
 ---
 
+## Motor cooling
+
+**Running: the Surpass Hobby 36mm dual-fan heatsink in blue, with the plastic fans it ships with swapped out for two 30mm metal ones.** The 1412 runs hot on 4S, which is the whole reason the cooling is on there.
+
+⚠️ **This is a divergence from the [FastAzJato4x4](../FastAzJato4x4/motor_analysis.md#related-motor-cooling-optional)**, which looked at this exact part and passed on it. That car's motor shortlist runs cool enough on 4S to need no cooling at all, so the 63g was not worth paying. This car already has the 1412, so the fan is the cheaper answer than a new motor.
+
+<p align="center"><img src="src/electronics_surpass_hobby_fan_heatsink_range.png" height="230">&nbsp;<img src="src/electronics_metal_cooling_fans_25_to_50mm.png" height="230"><br><em>The Surpass range, where <strong>the 36mm dual is the one fitted here</strong>, in blue · the CNC metal fans that replace the plastic pair, <strong>30mm</strong> for this heatsink</em></p>
+
+<div align="center">
+
+| Item | Spec |
+|:---|:---|
+| **Heatsink** | **Surpass Hobby 36mm dual-fan**, blue, T6 aluminium frame with a graphite fan cover |
+| **Fans** | **2 × 30mm metal**, bought separately, replacing the plastic pair in the box |
+| **Suits** | 36mm can 540 / 550 motors, which is what the **Castle 1412** is |
+| **Footprint** | 60.2 × 47 × 34.3mm |
+| **Fan max RPM** | 28,000 at 8.4V |
+| **Cable** | 263mm extension, included |
+| **Weight** | **~63 g** all in, 37g of heatsink and cable plus 26.3g of metal fans |
+| **Price** | **$12.00 / pair** of fans at $6.00 each, AliExpress. 🚧 what Mike paid for the heatsink is not recorded |
+
+</div>
+
+> ⚠️ **Order the 36mm, not the 28/29mm.** The small one is built for 380/390 motors and will not clamp a 36mm can. Surpass stamp the sizes on the fin block, **540** for the 36mm and **380** for the 28/29mm, which is the quickest way to tell them apart in a listing photo. The blue below is the **28/29mm** dual, so it is the right colour and the wrong size.
+>
+> **Metal fans cost about the same as plastic and last longer.** That is the whole argument for them. **Every fan dies eventually**, so they are a wear part, not a fix.
+
+<p align="center"><img src="src/electronics_surpass_hobby_fan_heatsink_28_29mm_dual_blue.png" width="300"><br><em>The <strong>28/29mm</strong> dual in blue, stamped <strong>380-L</strong>. Same colour as the fitted part, one size down, so do not order this one for a 1412</em></p>
+
+---
+
 ## Price History
 
 <div align="center">

@@ -18,10 +18,10 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Steering](#steering) | $51.63 |
 | [Wheels & Tires](#wheels--tires) | $48.18 |
 | [Body & Aero](#body--aero) | $59.00 |
-| [Electronics](#electronics) | $341.33 |
+| [Electronics](#electronics) | $353.33 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$1141.02** |
-| **Car only, without batteries** | **$855.67** |
+| **Total recorded** | **$1153.02** |
+| **Car only, without batteries** | **$867.67** |
 
 > **What the total is missing:** the donor, the shocks and their oils, and the spur and pinion. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
@@ -113,7 +113,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Castle Mamba X SCT + 1412-3200KV 5mm combo**<br><sub>Note: sensored, 25.2V waterproof ESC and the motor sold as one part, **010-0155-13**. $198.71 plus $12.78 shipping, $211.49 the order, 2025-03-19, educational discount applied, bought by Mike directly. A later non-warranty RMA motor cost **$94.00** ([LEDGER](../../LEDGER.md) #83), not counted here since it replaced this motor rather than adding one</sub> | 1 | Castle Creations, order STD0000000137021 | **$198.71 / combo** | [ESC](esc_motor_analysis.md) |
 | **S605ZZ 5×14×5 ABEC-9 stainless bearings**<br><sub>Note: the motor bearing for the Castle 1412, bought as a 10-pack at $17.06. ⚠️ **unique to this car**, since the FastAz runs a different motor. 🚧 the 1412's other bearing is a different size and is not recorded</sub> | 1 | AliExpress, Bearing Solution Store | **$1.71 each** | [Bearings](bearings_reference.md#the-motor-bearing-s605zz) |
 | **FlySky Noble NB4 radio + FGr4S V2 receiver**<br><sub>Note: gen 1 handset, same radio and same price as the FastAz. List is $175.09</sub> | 1 | AliExpress, Hi-Goeswell | **$140.91 each** | [Radio](radio_analysis.md) |
-| **Motor cooling fan**<br><sub>Note: ⚠️ two metal fans at $6 each are on Mike's ledger, but cooling is not recorded on this car, so they may be for something else</sub> | 🚧 | 🚧 unconfirmed | **🚧** | [Motor](esc_motor_analysis.md) |
+| **Surpass Hobby 36mm dual-fan motor heatsink**<br><sub>Note: blue, T6 aluminium, sized for the 36mm can on the Castle 1412. Ships with plastic fans, which were swapped out. 🚧 what Mike paid is not recorded</sub> | 1 | AliExpress | **🚧** | [Cooling](esc_motor_analysis.md#motor-cooling) |
+| **30mm metal cooling fans**<br><sub>Note: replace the plastic fans in the Surpass heatsink. Metal costs about the same and lasts longer, though every fan dies eventually</sub> | 2 | AliExpress, [LEDGER](../../LEDGER.md) | **$6.00 each** | [Cooling](esc_motor_analysis.md#motor-cooling) |
 
 ## Batteries
 
