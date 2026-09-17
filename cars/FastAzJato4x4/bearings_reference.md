@@ -26,7 +26,7 @@ The actual bearing list running on FastAzJato4x4: the hub axle bearings are **10
 
 ## Fitting the sleeve
 
-Printed at home, **18mm OD × 15mm ID × 4mm**, one per hub corner. STL in [`3d-models/`](3d-models/).
+Printed at home, **18mm OD × 15mm ID × 4mm**, one per hub corner. **Model:** [`TRA_EHD_Bearing_Adapter_18_to_15mm.stl`](3d-models/TRA_EHD_Bearing_Adapter_18_to_15mm.stl), with the editable [`.step`](3d-models/TRA_EHD_Bearing_Adapter_18_to_15mm.step) beside it.
 
 - **A touch of super glue on the outer face of the ring only**, never in the bore. The bore has to stay clean for the bearing to seat square.
 - **Press it into the hub's 18mm pocket**, then the **10×15×4** drops straight into the sleeve.
@@ -86,7 +86,7 @@ What you actually spend up front is more, because you're buying packs: the order
 
 **It comes down to 1mm.** The off-the-shelf answer is a **10×18×5**, but that's **5mm thick against a 4mm pocket**, so 1mm has to come out of something. Three places it can come from, compared in [the table below](#bearings-by-position-all-four-routes):
 
-- **Nothing, if you sleeve instead.** ⭐ **What this car does.** A sleeve, **18mm OD × 15mm ID × 4mm**, fills the pocket down to 15mm and a common **10×15×4** drops in. ✅ **Printed in PETG, fitted, working**, so no lathe needed. Turn it in brass if you'd rather. Press in with green Loctite. 🚧 Save the STL into `3d-models/`.
+- **Nothing, if you sleeve instead.** ⭐ **What this car does.** A sleeve, **18mm OD × 15mm ID × 4mm**, fills the pocket down to 15mm and a common **10×15×4** drops in. ✅ **Printed in PETG, fitted, working**, so no lathe needed. Turn it in brass if you'd rather. Press in with green Loctite. **The model is now in the repo:** [`TRA_EHD_Bearing_Adapter_18_to_15mm.stl`](3d-models/TRA_EHD_Bearing_Adapter_18_to_15mm.stl), with the editable STEP beside it.
 - **The 17mm hex adapters.** What [Mike's Jato](../Jato4x4_Mike/bearings_reference.md) does. Shave them down, run the bigger bearing, nothing to make.
 - **The carrier's bearing pocket.** 🔵 **Technically the best answer, if you have the tools.** Stock adapters, the bigger bearing, nothing else modified, and the 1mm comes out of the part that can most afford it. **The catch is purely access to tooling:** cutting 1mm out of an alloy carrier and keeping it square wants a lathe or a mill. Off-axis and the bearing sits cocked, which is worse than either other route, so it's the right answer only if you can do it properly. Most people can't, which is why the adapters get shaved on Mike's car instead.
 

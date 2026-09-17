@@ -38,7 +38,7 @@ Three places the 1mm can come from, and this car picked the second:
 
 | Route | What gets cut | Reversible | Who runs it |
 |---|---|---|---|
-| **Sleeve the pocket down** | Nothing, you make an 18→15mm sleeve | ✅ yes | [FastAzJato4x4](../FastAzJato4x4/bearings_reference.md) |
+| **Sleeve the pocket down** | Nothing, you print an 18→15mm sleeve ([model](../FastAzJato4x4/3d-models/TRA_EHD_Bearing_Adapter_18_to_15mm.stl)) | ✅ yes | [FastAzJato4x4](../FastAzJato4x4/bearings_reference.md) |
 | ⭐ **Shave the 17mm hex adapters** | The adapters | ❌ no | **This car** |
 | **Deepen the carrier pocket** | 1mm off the carrier, needs a lathe or mill | ❌ no | Nobody, tooling |
 
