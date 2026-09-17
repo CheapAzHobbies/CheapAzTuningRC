@@ -103,7 +103,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Traxxas 9060-BLUE body**<br><sub>Note: the red and blue scheme. A green was ordered and **Jenny's RC shipped this instead**. Kept, so the $36.00 receipt is this body, and the blue lists around $43</sub> | 1 | Jenny's RC, [LEDGER](../../LEDGER.md) #90 | **$36.00 each** | [Aero](aero_analysis.md) |
-| **Traxxas 9517X blue rear wing**<br><sub>Note: ships with hardware. One of the three parts that make this a Jato rather than a Slash. Full price, and the FastAz got a 9517 for $13.79</sub> | 1 | Tammies Hobbies | **$16.00 each** | [Aero](aero_analysis.md) |
+| **Traxxas 9517X blue rear wing**<br><sub>Note: ships with hardware. One of the three parts that make this a Jato rather than a Slash. Full price. ⚠️ the FastAz's $13.79 bought the wing **and** the 9046 mount together from Jenny's RC, so it is not a wing-only price to compare against</sub> | 1 | Tammies Hobbies | **$16.00 each** | [Aero](aero_analysis.md) |
 | **Traxxas 9046 Jato 4x4 wing mounts**<br><sub>Note: left and right. **$7.00 list**, 🚧 source and paid not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Aero](aero_analysis.md) |
 
 ## Electronics
