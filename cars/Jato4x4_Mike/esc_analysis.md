@@ -35,7 +35,7 @@
 <div align="center">
 
 | Part | Spec | Pros / Cons | Photo / Link |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | ⭐ **Castle Mamba X SCT + 1412-3200KV combo (010-0155-13)** — *running* | **Cells:** ESC **2S-6S (25.2V)**, but **4S max with this motor**<br>**Current (A):** not published by Castle; community reports **100+ A peaks**<br>**BEC:** **8A peak, adjustable** 5.5 / 6.0 / 7.5 / 8.0V, default 5.5V<br>**Sensored:** yes, **SmartSense**, plus sensorless and sensored-only modes<br>**Waterproof:** yes, CNC aluminum case potted in epoxy. ⚠️ **the 30mm fan is not waterproof and must come off for wet running**<br>**Weight:** **101g** ESC with wires, **265.4g** motor<br>**Price:** **$198.71** paid (list $360.90, currently $221.21 at 26% off) | Pro: **One part, factory matched**, so no sensor adapter and no KV guesswork. **ROAR and RECON G6 certified**, data logging, aux-wire on-the-fly adjustment, transmitter programming for cutoff and drag brake. Rugged potted case that also sheds heat<br><br>Con: ⚠️ **4S is the ceiling and this car runs 4S**, so gearing and temperatures matter. **Castle publishes no continuous amp rating.** Castle Link USB or B-LINK is a separate purchase to program it | <img src="src/electronics_castle_mamba_x_sct_1412_3200kv_combo_010-0155-13.jpg" width="500"> |
 
 </div>
