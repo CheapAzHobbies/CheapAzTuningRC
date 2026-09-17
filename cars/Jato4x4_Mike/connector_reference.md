@@ -1,6 +1,6 @@
 # Connectors Reference — Jato4x4_Mike
 
-> **EC5 is the main connection**, the same as the [FastAz](../FastAzJato4x4/connector_reference.md), so the two cars match on the plug that matters. Three connector types are on the car in total, which is one more than ideal. A list of what is fitted.
+> **EC5 is the main connection.** The [FastAz](../FastAzJato4x4/connector_reference.md) runs **5mm bullets** instead, so the two cars do not share a plug and moving a pack between them needs an adapter. Neither is the better choice, an EC5 is a pair of 5mm bullets in a housing. Three connector types are on this car in total, which is one more than ideal. A list of what is fitted.
 >
 > **The standing rules on which connectors are worth running:** [FastAzJato4x4 connectors reference](../FastAzJato4x4/connector_reference.md).
 
