@@ -143,7 +143,7 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 | Motor | **Castle Creations 1412 3200KV** |
 | ESC | **Castle Mamba X SCT**, combo **010-0155-13** with the motor, $198.71. ⚠️ **4S max with this motor**, see [`esc_analysis.md`](esc_analysis.md) |
 
-**Motor bearing service tracking:** bearings replaced ~2026-09-06, first run on them 2026-09-12. Tracked by weekend run count (no battery tracker for this car) in [`maintenance/README.md`](../../maintenance/README.md), the goal is catching the next replacement before they blow rather than after.
+**Motor bearing service tracking:** bearings replaced ~2026-09-06, first run on them 2026-09-12, **4 battery packs run since**. Running **S605ZZ 5×14×5 ABEC-9** rather than the stock bearings, which work but burn up quickly ([`bearings_reference.md`](bearings_reference.md#the-motor-bearing-s605zz)). Counted by packs in [`maintenance/README.md`](../../maintenance/README.md), the goal is catching the next replacement before they blow rather than after.
 
 > Motor, gearing and the power-band finding are written up in [`motor_analysis.md`](motor_analysis.md).
 

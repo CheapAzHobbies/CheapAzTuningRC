@@ -20,7 +20,7 @@ The hub corners run a **bare 10×18×5**, which is 5mm thick against a 4mm pocke
 | **5×8×2.5** | 4 | Steering bellcrank (**TRA5114**, kept as bearings on this car) |
 | **5×11×4** | 1 | Centre / slipper |
 
-**Total: 22 bearings**, across **7 distinct sizes**.
+**Total: 22 bearings**, across **7 distinct sizes**. **The motor carries its own bearings on top of these**, see [the motor bearing](#the-motor-bearing-s605zz).
 
 > **Note the bellcrank difference.** The FastAz swapped its four **TRA5114** bellcrank bearings for **TRA3775 Oilite bushings**, because a bellcrank only rocks through a small arc and the balls dig into one spot instead of rolling onto fresh metal. **This car still runs the bearings there**, so it is a known future failure point rather than a solved one.
 
@@ -73,6 +73,34 @@ The one part that makes this car's route work, and the one bearing here that is 
 **The hub bearings are the expensive four on this car** at $1.45 each, against **$0.21 to $0.79** for every other size on the [FastAz list](../FastAzJato4x4/bearings_reference.md#what-the-bearings-cost). That is the real price of this route: about **$4.60 more** than the four sleeved 10×15×4 would cost, plus the permanently shaved adapters, in exchange for having nothing to fabricate.
 
 🚧 The remaining sizes on this car have not been costed separately. They match the FastAz sizes, so the [FastAz cost table](../FastAzJato4x4/bearings_reference.md#what-the-bearings-cost) is the closest figure until this car's own orders are logged.
+
+---
+
+## The motor bearing (S605ZZ)
+
+**The 22 above are chassis bearings. The motor has its own, and on this car they are the ones that actually wear out.**
+
+<p align="center"><img src="src/electronics_bearing_s605zz_5x14x5.jpg" width="420"><br><em>S605ZZ 5×14×5, double metal shield. Same <strong>RAIN &amp; DEW</strong> brand as the hub bearing, bought from a different store</em></p>
+
+| Field | Value |
+|---|---|
+| **Part** | **S605ZZ**, 5×14×5mm |
+| **Fits** | Castle Creations **1412 3200KV**, established by fitting one |
+| **Material** | ⚠️ **the listing contradicts itself**, the title and overview say **stainless SUS440**, the spec table says **bearing steel** |
+| **Precision** | **ABEC-9** |
+| **Seal** | **Double metal shield (ZZ)** |
+| **Lubrication** | Pre-greased |
+| **Sold as** | 10 pcs per lot |
+| **Source** | AliExpress, **Bearing Solution Store**, brand **raindew** |
+| **Price** | **$17.06 / 10-pack** = **$1.71 each**, list $17.89 |
+
+> ⭐ **ABEC-9 over stock, and the reason is life rather than speed.** **The stock Castle bearings work, they just burn up quickly.** These last longer in the same motor. ABEC is a precision grade and not a durability rating, so the real gain is the **stainless and the flush shielding**, which leaves dirt and water much less of a way in. **Keeping the motor cool still matters**, the bearing is not a substitute for that.
+
+⚠️ **Castle does not publish the 1412's bearing sizes.** The [FastAz motor table](../FastAzJato4x4/motor_analysis.md) records Castle's as *"NMB, size not published"*, so **5×14×5 comes from fitting one, not from a spec sheet**. For scale, the Tekin Pro4 in that same table runs **5×14×5 front with 5×11×5 rear**, so a motor of this class usually takes two different sizes. 🚧 **The 1412's rear bearing size is not recorded here**, only the 5×14×5.
+
+⚠️ **A failed bearing does not stay a bearing problem.** The motor itself effectively lasts forever, the bearings do not, and **when one lets go it takes the rotor with it**. That turns a **$1.71** part into a **whole replacement motor**. Mike has already paid **$94.00** for a non-warranty RMA 1412 ([LEDGER](../../LEDGER.md) #83), though 🚧 the cause of that one is not recorded. **This is exactly why the packs get counted**: catching a bearing before it fails is the difference between a $1.71 job and a $94 one.
+
+**How long they last is still an open question.** They went in **~2026-09-06**, first run **2026-09-12**, and the car has run **4 battery packs** on them since. The count is logged in [`maintenance/README.md`](../../maintenance/README.md) until a set actually wears out and turns this into a real interval. See [`motor_analysis.md`](motor_analysis.md#motor-bearing-service).
 
 ---
 
