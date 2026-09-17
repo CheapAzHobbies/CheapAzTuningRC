@@ -2,7 +2,7 @@
 
 # T H E · 4 E P · G A Z E T T E
 
-**JATO 4×4 EXPERIMENTAL PROTOTYPE** · MIKE'S CAR · PRINTED ON THE BENCH SINCE 2026
+**JATO 4×4 EXPERIMENTAL PROTOTYPE** · OWNER: MICHEAL RITCHIE · PRINTED ON THE BENCH SINCE 2026
 
 `VOL. I . . . . . No. 1 . . . . . THURSDAY, SEPTEMBER 17, 2026 . . . . . PRICE 25¢`
 
@@ -20,7 +20,7 @@
 
 </div>
 
-> **Jato 4EP, the Jato 4×4 Experimental Prototype.** Mike's car, and the bench the [FastAzJato4x4](../FastAzJato4x4/README.md) was developed on (that build is co-developed with Mike). The name is the job: this is where a setting gets tried before it is trusted. Setup notes recorded here for reference and cross-build tuning.
+> **Jato 4EP, the Jato 4×4 Experimental Prototype.** Owned and driven by **Micheal Ritchie**, and the bench the [FastAzJato4x4](../FastAzJato4x4/README.md) was developed on (that build is co-developed with him). The name is the job: this is where a setting gets tried before it is trusted. Setup notes recorded here for reference and cross-build tuning.
 
 ---
 

@@ -15,7 +15,7 @@ Build logs, part lists, setup notes, 3D models, and battery trackers for all my 
 | Traxxas E-Revo 1.0 | [ERevo_1.0](cars/ERevo_1.0/README.md) | 1515 2200KV — WIP |
 | Rlaarlo Omni-Terminator | [Rlaarlo_OmniTerminator](cars/Rlaarlo_OmniTerminator/README.md) | 1/10 4WD brushless MT — mostly stock; driveline is the weak point |
 | FastAzJato4x4 | [FastAzJato4x4](cars/FastAzJato4x4/README.md) | The "Super Jato": custom 4S E-buggy on a Jato 4x4, CF chassis, FLM arms, HB D8 big bores, MAX10 G2 + 3665SD 2400KV |
-| Traxxas Jato 4x4 (Mike's) | [Jato 4EP](cars/Jato4EP/README.md) | Jato 4×4 Experimental Prototype. Mike's car, and the build the FastAzJato4x4 was derived from |
+| Traxxas Jato 4x4 (Mike's) | [Jato 4EP](cars/Jato4EP/README.md) | Jato 4×4 Experimental Prototype. Owned by Micheal Ritchie, and the build the FastAzJato4x4 was derived from |
 | Mugen Seiki MBX8 truggy (Eco) | [MugenMBX8T_Eco](cars/MugenMBX8T_Eco/README.md) | 1/8 electric MBX8 converted to truggy — evaluating used lot ([value analysis](cars/MugenMBX8T_Eco/lot_analysis.md)) |
 
 ## Shared
