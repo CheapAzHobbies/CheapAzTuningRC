@@ -15,10 +15,10 @@
 | Item | Part | Price |
 |---|---|---|
 | **Body** | **Traxxas 9060-BLUE**, pre-painted polycarbonate, the red and blue scheme | **$36.00 paid**, lists ~$43 |
-| **Wing** | **Traxxas 9517X**, blue rear wing **with hardware** | **$16.00 list**, 🚧 paid not recorded |
-| **Wing mounts** | **Traxxas 9046**, Jato 4x4 wing mounts, left and right | **$7.00 list**, 🚧 paid not recorded |
+| **Wing** | **Traxxas 9517X**, blue rear wing **with hardware** | **$16.00 paid**, full price at Tammies Hobbies |
+| **Wing mounts** | **Traxxas 9046**, Jato 4x4 wing mounts, left and right | **$7.00 list**, 🚧 source and paid not recorded |
 
-> ⚠️ **Every price on this page is the Traxxas list, not what was paid.** These came from **Jenny's RC**, who discount, so the real figures are lower and are not recorded. The FastAz paying **$13.79** for a TRA9517 against a **$16.00** list is the same effect, and the body is the clearest case: a **$43** blue shipped against a **$36** green order, also from Jenny's RC.
+> **Two different shops, two different stories.** The **wing came from Tammies Hobbies at full price**, so its $16.00 is a real cost. The **body came from Jenny's RC**, where a **$43** blue arrived against a **$36** green order, so that one landed under list by accident rather than discount. The FastAz paid **$13.79** for a 9517, so the wing can be had for less than Mike paid.
 
 ---
 
@@ -57,4 +57,5 @@ The **9060 series is pre-painted and ready to mount**, no trimming. Mike's is th
 - **The mounts bolt straight to the Jato rear tower.** Running a separate wing on a *Slash* tower instead needs the Meelobee plate technique, which the [FastAz doc](../FastAzJato4x4/aero_analysis.md) documents. Not relevant here, since this car runs the [Jato 9034 rear tower](shock_tower_analysis.md).
 - **The clipless body issue does not apply here.** The FastAz warns its CF chassis cannot use the clipless latch the 9018 / 9060 bodies rely on. This car keeps the **stock plastic tub**, so the OEM body mounts as intended.
 - **The wing ships with its hardware**, so the list price is the whole job apart from the mounts.
-- **Jenny's RC is the source for the Traxxas parts here**, and they sell below list, so treat every figure on this page as a ceiling rather than a cost.
+- **The wing was bought at full price.** $16.00 from Tammies, where the FastAz got a 9517 for **$13.79**, so it is worth shopping around before reordering.
+- 🚧 **The wing mounts have no receipt**, only the $7.00 list, so they are named in the [BOM](BOM.md#body--aero) but not counted.
