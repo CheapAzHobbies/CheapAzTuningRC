@@ -13,7 +13,7 @@ The hub corners run a **bare 10×18×5**, which is 5mm thick against a 4mm pocke
 <div align="center">
 
 | Size (mm) | Qty | Where on this car |
-|:---|:---|:---|
+|---|---|---|
 | **10×18×5** ⚙️ | 4 | **Hub / axle corners, bare, direct into the EHD pocket. The mod** |
 | **6×12×4** | 6 | Steering blocks (front), axle carriers (rear) |
 | **10×15×4** | 4 | Diff outdrives |
@@ -37,7 +37,7 @@ Three places the 1mm can come from, and this car picked the second:
 <div align="center">
 
 | Route | What gets cut | Reversible | Who runs it |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | **Sleeve the pocket down** | Nothing, you print an 18→15mm sleeve ([model](../FastAzJato4x4/3d-models/TRA_EHD_Bearing_Adapter_18_to_15mm.stl)) | ✅ yes | [FastAzJato4x4](../FastAzJato4x4/bearings_reference.md) |
 | ⭐ **Shave the 17mm hex adapters** | The adapters | ❌ no | **This car** |
 | **Deepen the carrier pocket** | 1mm off the carrier, needs a lathe or mill | ❌ no | Nobody, tooling |
@@ -59,7 +59,7 @@ The one part that makes this car's route work, and the one bearing here that is 
 <div align="center">
 
 | Field | Value |
-|:---|:---|
+|---|---|
 | **Part** | **S61810ZZ**, 10×18×5mm |
 | **Material** | Stainless steel |
 | **Precision** | **ABEC-9** |
@@ -81,7 +81,7 @@ The one part that makes this car's route work, and the one bearing here that is 
 <div align="center">
 
 | Size (mm) | On the car | Unit price | Line cost | Source |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | **10×18×5** (S61810ZZ, stainless) | 4 | **$1.45** | **$5.80** | $14.45 / 10-pack paid |
 
 </div>
@@ -101,7 +101,7 @@ The one part that makes this car's route work, and the one bearing here that is 
 <div align="center">
 
 | Field | Value |
-|:---|:---|
+|---|---|
 | **Part** | **S605ZZ**, 5×14×5mm |
 | **Fits** | Castle Creations **1412 3200KV**, established by fitting one |
 | **Material** | ⚠️ **the listing contradicts itself**, the title and overview say **stainless SUS440**, the spec table says **bearing steel** |
@@ -133,7 +133,7 @@ Since **a bearing position does not disappear when you change what sits in it**,
 <div align="center">
 
 | Position | Stock BL-2S | This car (Mike's) | FastAzJato4x4 |
-|:---|:---:|:---:|:---:|
+|---|---|---|---|
 | **Hub / axle** | **12×18×4** ×4 | **10×18×5** ×4 **direct** | **10×15×4** ×4 in an **18 × 15 × 4mm sleeve** |
 | What it costs | nothing, it's stock | **shaving the 17mm hex adapters** | printing or turning a sleeve |
 | Bearing availability | common | **standard size, just not an RC one** | **already in the parts box** |

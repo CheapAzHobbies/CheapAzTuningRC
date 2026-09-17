@@ -78,7 +78,7 @@ The centre brace spans the tub and bolts to a **brace mount** at each end. Every
 <div align="center">
 
 | Date | Price | Discount Path | Notes |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 🚧 date not recorded | **$18.99** | Free shipping | VG Racing steel LCG chassis brace, eBay seller **vgracing**, item 396188510700. ⚠️ LCG only |
 | 2026-04-28 | **$36.99** | — | Powerhobby aluminum front bulkhead, see [FastAz](../FastAzJato4x4/chassis_analysis.md#bulkheads-front--rear) |
 | 🚧 checkpoint 6/25 | **$20.00** | — | Traxxas 7422 LCG chassis, [LEDGER](../../LEDGER.md) #80. A 7477 LCG spur gear cover ($3.00, #79) went with it |

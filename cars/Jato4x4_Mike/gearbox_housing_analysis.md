@@ -7,7 +7,7 @@
 <div align="center">
 
 | Item | Spec |
-|:---|:---|
+|---|---|
 | **Front** | **Traxxas TRA6881**, glass-filled nylon, two halves, **20.0g** |
 | **Rear** | **Traxxas TRA6880**, glass-filled nylon, two halves, **20.0g** |
 | **Price** | **$4.00 / set** |

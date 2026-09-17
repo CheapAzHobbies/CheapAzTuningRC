@@ -63,7 +63,7 @@ Measured on the HOTA T6, using the [E-Revo IR-to-True-C method](../ERevo_1.0/bat
 <div align="center">
 
 | Pack | Per-cell IR | Average | True C | Label |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | **CNHL Racing 5200** (mid-charge) | 2.3 / 2.2 / 2.3 / 2.1 mΩ | **~2.23mΩ** | **~26-43C** | 90C |
 | **CNHL Ultra-Thin 6000** (100% charge) | 4.5 / 4.3 / 4.6 / 4.5 mΩ | **~4.48mΩ** | **~11-19C** | 120C |
 

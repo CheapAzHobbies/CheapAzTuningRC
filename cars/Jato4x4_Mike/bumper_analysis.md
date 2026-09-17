@@ -19,7 +19,7 @@
 <div align="center">
 
 | Item | Part | Price |
-|:---|:---|:---|
+|---|---|---|
 | **Front bumper** | **Traxxas TRA6736**, Rustler 4x4 front **+ support**, glass-filled nylon | **$6.00 each** |
 | **Rear skid** | **Traxxas TRA9044**, sold as a front + rear set, **only the rear is used** | **$7.00 / set** |
 | **Front skid** | **The Rustler bumper is the front skid**, so the 9044 front plate goes unused | included in the set |

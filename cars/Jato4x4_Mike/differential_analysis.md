@@ -11,7 +11,7 @@
 <div align="center">
 
 | Position | Spec | Price |
-|:---|:---|:---|
+|---|---|---|
 | **Centre diff** | **Metal**, Traxxas 6780-style | **$18.80** |
 | **Front oil** | **30k**, Traxxas TRA5136 | $7.50 / bottle |
 | **Centre oil** | **100k**, Traxxas TRA5130 | $8.00 / bottle |
@@ -42,7 +42,7 @@
 <div align="center">
 
 | Fill | How much | Why |
-|:---|:---|:---|
+|---|---|---|
 | **Oil**, front and centre | **Half full, no more** | A brim-full plastic housing bursts once the oil heats and expands |
 | **Grease**, the rear here | **A light coating, never packed** | Packing it solid binds the gears together, so the diff drags and heats instead of differentiating |
 

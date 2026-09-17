@@ -15,7 +15,7 @@
 <div align="center">
 
 | Item | Part | Price |
-|:---|:---|:---|
+|---|---|---|
 | **Body** | **Traxxas 9060-BLUE**, pre-painted polycarbonate, the red and blue scheme | **$36.00 paid**, lists ~$43 |
 | **Wing** | **Traxxas 9517X**, blue rear wing **with hardware** | **$16.00 paid**, full price at Tammies Hobbies |
 | **Wing mounts** | **Traxxas 9046**, Jato 4x4 wing mounts, left and right | **$7.00 paid**, full price at Tammies Hobbies |
@@ -37,7 +37,7 @@ All six are the same wing at **$16.00 list**, and every one **ships with hardwar
 <div align="center">
 
 | Part | Colour | Price |
-|:---|:---|:---|
+|---|---|---|
 | ⭐ **9517X** | **Blue**, fitted here | $16.00 |
 | **9517** | Black | $16.00 |
 | **9517A** | White | $16.00 |

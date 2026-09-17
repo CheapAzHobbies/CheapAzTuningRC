@@ -24,7 +24,7 @@
 <div align="center">
 
 | Requirement | Type | Why |
-|:---|:---|:---|
+|---|---|---|
 | **Metal front steering block** | Must | The front knuckle takes the hits and plastic gives up there first |
 | **EHD geometry** | Must | The car is EHD throughout, and the three carrier generations do not interchange |
 | **Takes the 10×18×5 hub bearing** | Must | This car runs the bare big bearing, so the pocket has to accept it (see [`bearings_reference.md`](bearings_reference.md)) |
@@ -72,7 +72,7 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 <div align="center">
 
 | Requirement | Type | Why |
-|:---|:---|:---|
+|---|---|---|
 | **17mm hex** | Must | The wheels are 17mm |
 | **Survives being shaved** | Must | This car takes its 1mm out of the hex, so the hex has to have material to give |
 | **Cheap and replaceable** | May | A shaved part is a consumable, and the cut is permanent |

@@ -43,7 +43,7 @@
 <div align="center">
 
 | Hole | Height to chassis floor | Note |
-|:---|:---|:---|
+|---|---|---|
 | **Lower** | **22mm** | The low mount, as supplied on the BL2S cars |
 | **Upper** | **37mm** | **15mm above the lower hole**, the tall mount used on the 4S cars |
 
@@ -94,7 +94,7 @@ Two ways to do it, a **bar across the stock posts** or a **strap**. They are alt
 <div align="center">
 
 | Dimension | Limit | Set by |
-|:---|:---|:---|
+|---|---|---|
 | **Length** | **152mm** | The bar's inner span |
 | **Width** | **48mm** | Tray width |
 | **Height** | **44mm** | The 7426X in the upper hole, high orientation, the tallest stock setting |

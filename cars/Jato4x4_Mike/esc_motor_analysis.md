@@ -17,7 +17,7 @@
 <div align="center">
 
 | Item | Spec |
-|:---|:---|
+|---|---|
 | **Part** | **010-0155-13**, Mamba X SCT + 1412-3200KV 5mm combo |
 | **ESC** | Castle **Mamba X**, 2S-6S (25.2V), sensored / sensorless / SmartSense |
 | **Motor** | Castle **1412-3200KV**, 5mm shaft, 4-pole 12-slot sensored |
@@ -40,7 +40,7 @@
 <div align="center">
 
 | Observation | Result |
-|:---|:---|
+|---|---|
 | **Motor temperature** | **Noticeably cooler** than the previous taller gearing |
 | **Power band** | **Lands where it is useful**, more usable thrust across the whole throttle rather than only at the top |
 | **Sound** | Higher than ever before, the motor is getting into its happy RPM range |
