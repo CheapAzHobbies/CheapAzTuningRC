@@ -65,7 +65,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **FLM26800 extended arms**<br><sub>Note: Slash / Jato 4x4 fitment, **two pairs, front and rear**, both at the FLM July sale rate. The first is his share of the 4-pair bulk order #4658; 🚧 the second has no separate receipt but went at the same $25.73</sub> | 2 | FLM, order #4658 | **$25.73 / pair** | [Arms](arm_analysis.md) |
+| **FLM26800 extended arms**<br><sub>Note: Slash / Jato 4x4 fitment, **two pairs, front and rear, both out of the FLM July sale at $25.73**. The first is his share of the 4-pair bulk order #4658. 🚧 only the first pair is booked to the ledger</sub> | 2 | FLM, order #4658 | **$25.73 / pair** | [Arms](arm_analysis.md) |
 | **HPI Apache C1 big bore shocks**<br><sub>Note: part **107365**, 16mm bore, 97mm, plastic body. Internally identical to the Hot Bodies D8 the FastAz runs. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shocks](shock_analysis.md) |
 | **Traxxas TRA9034 Jato 4x4 rear shock tower**<br><sub>Note: puts the shocks at the back rather than mid-chassis. Front tower 🚧 not recorded, the Jato front is TRA9033 at the same price</sub> | 1 | Traxxas | **$6.00 each** | [Towers](shock_tower_analysis.md) |
 | **Losi TLR74030 37.5wt shock oil**<br><sub>Note: front. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shock oil](README.md#shock-oil) |

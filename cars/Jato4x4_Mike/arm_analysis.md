@@ -19,7 +19,7 @@
 
 </div>
 
-> **Two pairs, both at the July sale rate.** Running them front **and** rear takes **two** pairs, so the arms cost **$51.46** in total. [LEDGER](../../LEDGER.md) #85 records the first at **$25.73**, Mike's share of the 4-pair bulk order (#4658). 🚧 **The second pair has no separate receipt in this repo**, but it went at the same **$25.73**, so the [BOM](BOM.md#suspension) counts both.
+> **Two pairs, both out of the same FLM July sale.** Running them front **and** rear takes **two** pairs, so the arms cost **$51.46** in total. [LEDGER](../../LEDGER.md) #85 books the first at **$25.73**, Mike's share of the 4-pair bulk order (#4658). The rear pair came off that same sale at the same price. 🚧 **Only the first pair is on the ledger**, so the [BOM](BOM.md#suspension) counts both at that rate.
 
 ---
 
@@ -55,7 +55,7 @@ All of these share the **TRA3655 hinge pin and mount pattern**, so any of them b
 
 | Date | Price | Discount Path | Notes |
 |:---|:---|:---|:---|
-| 2026-07-02 | **$25.73 / pair** ✅ **purchased** | **FLM July 1st sale, 25% off** ($30 to $22.50/pair before shipping) | One pair from a 4-pair bulk order, FLM order #4658, $102.90 the order. Booked to Mike as [LEDGER](../../LEDGER.md) #85. 🚧 **the second pair on this car is not part of that order** and has no separate receipt, though it went at the same $25.73 sale rate. Annual sale, see [`Deals/flm_july_sale_2026.md`](../../Deals/flm_july_sale_2026.md) |
+| 2026-07-02 | **$25.73 / pair** ✅ **purchased** | **FLM July 1st sale, 25% off** ($30 to $22.50/pair before shipping) | One pair from a 4-pair bulk order, FLM order #4658, $102.90 the order. Booked to Mike as [LEDGER](../../LEDGER.md) #85. **The rear pair came out of the same July sale at the same $25.73.** 🚧 Whether it was billed on #4658 or bought separately is unrecorded. Annual sale, see [`Deals/flm_july_sale_2026.md`](../../Deals/flm_july_sale_2026.md) |
 
 </div>
 
