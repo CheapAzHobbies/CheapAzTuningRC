@@ -19,7 +19,7 @@
 <div align="center">
 
 | Item | Part | Price |
-|---|---|---|
+|:---|:---|:---|
 | **Front bumper** | **Traxxas TRA6736**, Rustler 4x4 front **+ support**, glass-filled nylon | **$6.00 each** |
 | **Rear skid** | **Traxxas TRA9044**, sold as a front + rear set, **only the rear is used** | **$7.00 / set** |
 | **Front skid** | **The Rustler bumper is the front skid**, so the 9044 front plate goes unused | included in the set |
@@ -42,7 +42,7 @@ All of these bolt to the same Slash 4x4 / Jato 4x4 mount pattern. Mike runs the 
 <div align="center">
 
 | Part | Bumper | Price |
-|---|---|---|
+|:---|:---|:---|
 | ⭐ **TRA6736** | Rustler 4x4 front **+ support**, fitted here. **Guards the front shocks** | **$6.00** |
 | 🔵 **RPM 81042** | **What the FastAz runs**, picked there for the **OG Jato look**. Flexible composite that returns to shape, but **technically worse for nose recovery** and lower than this one | $9.95 |
 | 🔵 **TRA6736 + TRA6737** | The front and rear Rustler pair, the route if the rear bumper ever gets added | ~$5 |

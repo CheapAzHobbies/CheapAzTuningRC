@@ -7,7 +7,7 @@
 <div align="center">
 
 | Where | Connector | Note |
-|---|---|---|
+|:---|:---|:---|
 | **CNHL packs** | **EC5**, 10AWG | The three CNHL packs all use it |
 | **Gens Ace 6300** | **5.0mm bullet** | The odd one out, needs adapting to match the rest |
 | **ESC to motor** | **4.0mm Castle bullets** | Factory fitted on the [combo](esc_motor_analysis.md), nothing to choose |

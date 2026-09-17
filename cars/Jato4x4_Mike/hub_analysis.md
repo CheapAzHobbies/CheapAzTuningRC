@@ -24,7 +24,7 @@
 <div align="center">
 
 | Requirement | Type | Why |
-|---|---|---|
+|:---|:---|:---|
 | **Metal front steering block** | Must | The front knuckle takes the hits and plastic gives up there first |
 | **EHD geometry** | Must | The car is EHD throughout, and the three carrier generations do not interchange |
 | **Takes the 10×18×5 hub bearing** | Must | This car runs the bare big bearing, so the pocket has to accept it (see [`bearings_reference.md`](bearings_reference.md)) |
@@ -72,7 +72,7 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 <div align="center">
 
 | Requirement | Type | Why |
-|---|---|---|
+|:---|:---|:---|
 | **17mm hex** | Must | The wheels are 17mm |
 | **Survives being shaved** | Must | This car takes its 1mm out of the hex, so the hex has to have material to give |
 | **Cheap and replaceable** | May | A shaved part is a consumable, and the cut is permanent |
@@ -90,7 +90,7 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 <div align="center">
 
 | Date | Price | Discount Path | Notes |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | 2026-09-07 | **$50.00** ✅ **purchased** | Internal sale | MonsterKingz / G-Maxx 7075 alloy hub set (front + rear), bought off the [FastAzJato4x4](../FastAzJato4x4/hub_analysis.md) where it cost $46.80. See [`LEDGER.md`](../../LEDGER.md) |
 | 2026-05-19 | **$24.67** ✅ purchased | $5.04 off a $29.71 subtotal | Lighthouse alloy front C-hub ($15.29) + front knuckle ($14.42), one order **#8210896333264866**, AliExpress LIGHT HOUSE 188527 Store. Free returns within 90 days. **Since broken** |
 

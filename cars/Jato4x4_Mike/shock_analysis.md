@@ -11,7 +11,7 @@
 <div align="center">
 
 | Position | Oil | Spring | Piston |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | **Front** | **37.5wt**, Losi TLR74030 (468 cSt) | White 59gf (HB #67454, 76mm), stock C1 / D8 spec | ⚙️ **6 hole × 1.4, with two holes opened to 1.5** |
 | **Rear** | **50wt**, Associated 5480 FT (650 cSt) | Grey 52gf, stock C1 / D8 spec | 6 hole × 1.2 |
 
@@ -28,7 +28,7 @@
 <div align="center">
 
 | Rear oil | cSt | When |
-|---|---|---|
+|:---|:---|:---|
 | **50wt**, Associated 5480 FT | **640** | ✅ **Running now** |
 | **47.5wt**, Associated FT | **613** | 🔧 **Go here if it packs**, one step down, roughly 4% thinner |
 
@@ -45,7 +45,7 @@
 <div align="center">
 
 | Item | Spec |
-|---|---|
+|:---|:---|
 | **Shocks** | **HPI Apache C1**, part **107365**, 16mm bore, 97mm shaft, plastic body |
 | **Price** | 🚧 not recorded |
 | **Spares** | Bodies, seals and caps interchange with the Hot Bodies D8, see the [FastAz spares table](../FastAzJato4x4/shock_analysis.md#replacement-parts-shock-bodies) |

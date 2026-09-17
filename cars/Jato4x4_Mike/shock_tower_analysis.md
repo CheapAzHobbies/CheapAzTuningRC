@@ -9,7 +9,7 @@
 <div align="center">
 
 | Item | Spec |
-|---|---|
+|:---|:---|
 | **Rear tower** | **Traxxas TRA9034**, Jato 4x4, glass-filled nylon. Shocks mount rearward |
 | **Front tower** | 🚧 not recorded. The Jato front is **TRA9033**, same $6, and it has **integrated shock cap protection** the Slash towers lack |
 | **Price** | **$6.00** for the rear |

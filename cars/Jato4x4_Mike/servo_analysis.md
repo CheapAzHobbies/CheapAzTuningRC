@@ -9,7 +9,7 @@
 <div align="center">
 
 | Item | Spec |
-|---|---|
+|:---|:---|
 | **Servo** | **PTK 9752TG-D**, digital coreless metal gear, low profile, 2S LiPo ready |
 | **Horn** | **GPM servo horn** |
 | **Servo tie rod** | **Spring steel**, same as the FastAz |

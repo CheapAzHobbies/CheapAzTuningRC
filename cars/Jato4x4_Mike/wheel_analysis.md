@@ -13,7 +13,7 @@
 <div align="center">
 
 | Requirement | Type | Why |
-|---|---|---|
+|:---|:---|:---|
 | **17mm hex** | Must | The car runs 17mm hexes (shaved, see [`hub_analysis.md`](hub_analysis.md#17mm-wheel-hexes)) |
 | **Widens the track** | Must | The wide stance is the point of this setup, and it measurably improved stability and corner grip |
 | **ROAR legal** | ❌ Not a requirement | Explicitly given up on this car. The FastAz carries that constraint instead |
@@ -29,7 +29,7 @@
 <div align="center">
 
 | | This car | [FastAzJato4x4](../FastAzJato4x4/wheel_analysis.md) |
-|---|---|---|
+|:---|:---|:---|
 | **Tire** | RedSpider | RedSpider (same) |
 | **Rim** | **Traxxas 9070-WHT**, Jato 4x4 VXL 3.0" dished | Standard-width rims |
 | **Foam** | **Blue closed-cell race foams**, $8.08 / set of 4 | **The same foams**, $8.08 |
