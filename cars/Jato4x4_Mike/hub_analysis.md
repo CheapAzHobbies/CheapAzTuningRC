@@ -79,7 +79,7 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 
 </div>
 
-<p align="center"><img src="src/drivetrain_traxxas_17mm_splined_wheel_hubs_6469.jpg" width="360"><br><em><strong>Traxxas 6469</strong>, 17mm blue anodised 6061-T6 splined hubs and nuts, set of four with 4×13mm threadlocked screw pins, <strong>$20.00</strong>. Listed for <strong>6mm axles</strong>, which is exactly the Tekno 5580 stub end</em></p>
+<p align="center"><img src="src/drivetrain_traxxas_17mm_splined_wheel_hubs_6469.jpg" height="200">&nbsp;<img src="../FastAzJato4x4/src/drivetrain_traxxas_wheel_hub_17mm_tra6469_weight.jpg" height="200"><br><em><strong>Traxxas 6469</strong>, 17mm blue anodised 6061-T6 splined hubs and nuts, set of four with 4×13mm threadlocked screw pins, <strong>$20.00</strong>. Listed for <strong>6mm axles</strong>, which is exactly the Tekno 5580 stub end · on the scale at <strong>5.9 g</strong> a hub, so <strong>23.6 g</strong> for all four</em></p>
 
 > ⚠️ **Shaving is what buys the bigger bearing here**, and the FastAz notes a **pin-through** hex tolerates thinning better than a solid screw-pin one. Worth knowing before cutting a fresh set.
 
