@@ -92,7 +92,7 @@
 
 > **Bearings:** this car runs a **bare 10×18×5 in the hub**, which needed the **17mm hex adapters shaved down** to fit, not the hub carriers. The FastAz solves the same problem with a sleeve and a 10×15×4 instead, so only the hub position differs. Full list, costs and the route comparison in [`bearings_reference.md`](bearings_reference.md).
 
-Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is dialed on an **adjustable threaded prototype** first, then the **final axles are welded** to that length (simpler, tools on hand, a fresh set is cheap to remake). **Shorter axle = front.** Full build write-up and the rejected join methods are in [`FastAzJato4x4/driveshaft_analysis.md`](../FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip).
+Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (TRA6851R + TRA6852R clones) on **TRA6752 long output shafts at all four corners**, with **Tekno stubs**. **The axles are basically the Jato 4x4 part**, so they bolt straight in with **no cutting, welding or joining**. Full assembly and costs in [`FastAzJato4x4/driveshaft_analysis.md`](../FastAzJato4x4/driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 
 ### Diff Oil
 

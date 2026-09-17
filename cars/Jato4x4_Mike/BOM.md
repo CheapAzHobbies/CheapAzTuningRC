@@ -12,7 +12,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|
 | [Donor Car](#donor-car) | 🚧 not recorded |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
-| [Drivetrain](#drivetrain) | $152.30 |
+| [Drivetrain](#drivetrain) | $129.19 |
 | [Suspension](#suspension) | $31.73 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
 | [Steering](#steering) | $51.63 |
@@ -20,8 +20,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $200.42 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$964.75** |
-| **Car only, without batteries** | **$679.40** |
+| **Total recorded** | **$941.64** |
+| **Car only, without batteries** | **$656.29** |
 
 > **What the total is missing:** the donor, the shocks, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
@@ -49,10 +49,9 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Metal centre diff, Traxxas 6780-style** | 1 | AliExpress, TangEmpire | **$18.80 each** | [Diffs](../FastAzJato4x4/differential_analysis.md#center-diff) |
-| **Knock-off E-Revo CVD 5451R axle set**<br><sub>Note: cut and shortened into the custom axles shared with the FastAz</sub> | 1 | AliExpress, Pretty GEM | **$18.75 / set** | [Driveshafts](../FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) |
-| **M6 × 30mm 304-SS hex standoff**<br><sub>Note: the coupling that joins the two chopped CVD ends</sub> | 1 | CLOXY Hardware | **$4.36 / 5 pc** | [Driveshafts](../FastAzJato4x4/driveshaft_analysis.md) |
+| **Knock-off Slash / Jato 4x4 HD steel CV set**<br><sub>Note: TRA6851R + TRA6852R clones, the same set the FastAz runs, bolt-in with no cutting. 🚧 his own receipt is not recorded, the FastAz paid $21.10 / set of 4</sub> | 1 | 🚧 not recorded | **🚧** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas 6752 long output shafts** | 1 | [LEDGER](../../LEDGER.md) #87 | **$32.00 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
-| **Traxxas TRA6855 aluminium centre driveshaft**<br><sub>Note: 6061-T6, one piece, **214mm**, includes the centre bearing bushing. ⚠️ TRA6755 is the 189mm Rustler shaft, wrong fit. ⚠️ every 6855 carries a colour suffix, there is no bare part number. **Mike runs 6855-BLUE**, which is currently out of stock at Traxxas</sub> | 1 | Tammies Hobbies | **$10.00 each** | [Driveshafts](driveshaft_analysis.md) |
+| **Traxxas TRA6855 aluminium centre driveshaft**<br><sub>Note: 6061-T6, one piece, **214mm**, includes the centre bearing bushing. ⚠️ TRA6755 is the 189mm Rustler shaft, wrong fit. ⚠️ every 6855 carries a colour suffix, there is no bare part number. **Mike runs 6855-BLUE**</sub> | 1 | Tammies Hobbies | **$10.00 each** | [Driveshafts](driveshaft_analysis.md) |
 | **Tekno TKR1654-17 front stubs**<br><sub>Note: same part, price and seller as the FastAz</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Driveshafts](driveshaft_analysis.md) |
 | **Tekno 5580 rear stubs**<br><sub>Note: his pair out of the FastAz's 2-pair order, $33.80 for both, so $16.90 each</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA5136 30k diff oil**<br><sub>Note: front. 🚧 price is the FastAz purchase of the same bottle; whether Mike bought his own is not recorded</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
