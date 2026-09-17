@@ -65,7 +65,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **FLM26800 extended arms**<br><sub>Note: Slash / Jato 4x4 fitment, his share of a 4-pair bulk order at $25.725/pair, FLM July sale</sub> | 1 | FLM, order #4658 | **$25.73 / pair** | [Arms](../FastAzJato4x4/arm_analysis.md) |
+| **FLM26800 extended arms**<br><sub>Note: Slash / Jato 4x4 fitment, his share of a 4-pair bulk order at $25.725/pair, FLM July sale. ⚠️ **the car runs these front and rear, which takes two pairs**, and only this one is on the books</sub> | 1 | FLM, order #4658 | **$25.73 / pair** | [Arms](arm_analysis.md) |
 | **HPI Apache C1 big bore shocks**<br><sub>Note: part **107365**, 16mm bore, 97mm, plastic body. Internally identical to the Hot Bodies D8 the FastAz runs. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shocks](shock_analysis.md) |
 | **Traxxas TRA9034 Jato 4x4 rear shock tower**<br><sub>Note: puts the shocks at the back rather than mid-chassis. Front tower 🚧 not recorded, the Jato front is TRA9033 at the same price</sub> | 1 | Traxxas | **$6.00 each** | [Towers](shock_tower_analysis.md) |
 | **Losi TLR74030 37.5wt shock oil**<br><sub>Note: front. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shock oil](README.md#shock-oil) |
@@ -134,6 +134,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 |---|---|
 | **The running Slash 4x4 donor** | The single biggest line. Without it the total is parts-only |
 | **Shocks, and the front tower** | What is left of the conversion cost. The rear tower ($6.00) and the wing ($16.00) are both recorded now |
+| **The second FLM26800 pair** | The car runs extended arms front **and** rear, but only one pair is booked ([LEDGER](../../LEDGER.md) #85). Likely another ~$25.73 |
 | **Radio** | FlySky NB4 gen 1 with the FGr4S V2, same as the FastAz, but no price recorded |
 | **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
 | ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |
