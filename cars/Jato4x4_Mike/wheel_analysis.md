@@ -64,4 +64,4 @@
 
 - **The tire is shared, the rim is not.** For compound, sizes and the rest of the RedSpider analysis, use the [FastAz wheel doc](../FastAzJato4x4/wheel_analysis.md#tires-tire-only-mount-on-your-own-rims). Only the rim pairing and its consequences are recorded here.
 - **Width is already stacked on this car.** The wide rims come on top of the **1-2mm per side** the [MonsterKingz hubs](hub_analysis.md) add. Worth counting before adding any more.
-- **🚧 Nothing here is measured.** No track width figure, no tire weight, no rim weight. The wide-track claim is a felt result, not a number, which is worth fixing since it is this car's signature setup.
+- 🚧 **The measurements are still missing.** No track width figure, no tire weight, no rim weight. The wide-track claim is a felt result, not a number, which is worth fixing since it is this car's signature setup.

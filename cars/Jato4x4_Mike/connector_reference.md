@@ -1,6 +1,6 @@
 # Connectors Reference — Jato4x4_Mike
 
-> **EC5 is the main connection**, the same as the [FastAz](../FastAzJato4x4/connector_reference.md), so the two cars match on the plug that matters. Three connector types are on the car in total, which is one more than ideal. Not a tuning decision, just what is fitted.
+> **EC5 is the main connection**, the same as the [FastAz](../FastAzJato4x4/connector_reference.md), so the two cars match on the plug that matters. Three connector types are on the car in total, which is one more than ideal. A list of what is fitted.
 >
 > **The standing rules on which connectors are worth running:** [FastAzJato4x4 connectors reference](../FastAzJato4x4/connector_reference.md).
 

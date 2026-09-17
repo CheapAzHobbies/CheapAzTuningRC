@@ -29,7 +29,7 @@
 
 ⚙️ **The stock pin is stepped down, and it shears at the step.** Mike replaced it with a **plain 2.8mm × 7mm pin, full length, no step**, and that is now what both cars run. **7mm is the right length**, where the stock **6.85mm** sits just slightly short.
 
-**The alloy housing is not a weak point here.** The bearings either side carry the load, so the metal lasts well and holds oil better than expected. The parts that actually fail are the pin, and the rear output shaft, which [needs shaving](../FastAzJato4x4/differential_analysis.md#center-diff-teardown) to fit.
+**The alloy housing holds up well here.** The bearings either side carry the load, so the metal lasts well and holds oil better than expected. The parts that actually fail are the pin, and the rear output shaft, which [needs shaving](../FastAzJato4x4/differential_analysis.md#center-diff-teardown) to fit.
 
 ---
 

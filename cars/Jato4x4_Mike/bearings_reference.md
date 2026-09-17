@@ -1,6 +1,6 @@
 # Bearings Reference — Jato4x4_Mike
 
-Not a tuning decision, just the list of bearings this car runs. The baseline is the **Traxxas Jato 4x4 BL-2s (90154-4)** kit, same as the [FastAzJato4x4](../FastAzJato4x4/bearings_reference.md), because both are the same 1/8-class platform. Run sealed (rubber-shielded, **2RS**) bearings throughout for offroad, **with one exception on this car**: the four hub bearings are **ZZ metal-shielded**, see [the hub bearing](#the-hub-bearing-s61810zz).
+A list of the bearings this car runs. The baseline is the **Traxxas Jato 4x4 BL-2s (90154-4)** kit, same as the [FastAzJato4x4](../FastAzJato4x4/bearings_reference.md), because both are the same 1/8-class platform. Run sealed (rubber-shielded, **2RS**) bearings throughout for offroad, **with one exception on this car**: the four hub bearings are **ZZ metal-shielded**, see [the hub bearing](#the-hub-bearing-s61810zz).
 
 > **This car and the FastAz split at exactly one position, the hub.** Both run custom axles that need a **10mm ID** where the EHD hubs came with a **12×18×4**. This car **opens the hub up** and drops a bare **10×18×5** straight in. The FastAz **fills the pocket down** with a sleeve and runs a **10×15×4**. Same problem, two answers.
 
@@ -46,9 +46,9 @@ Three places the 1mm can come from, and this car picked the second:
 
 **The argument for this route is that there is nothing to make.** No sleeve to print or turn, no press fit to get square. Buy the bearing, shave the adapters, done. The cost is that **the cut is permanent** and the adapters are the part you sacrifice.
 
-**The argument against** is that **10×18×5 is the harder bearing to source.** It is a completely standard size, it is just not one RC cars use, so it comes from a bearing supplier rather than with a hobby order. The FastAz route reuses a **10×15×4** that is already in the parts box for the diff outdrives.
+**The argument against** is that **10×18×5 is the harder bearing to source.** It is a completely standard size that RC cars rarely use, so it comes from a bearing supplier rather than with a hobby order. The FastAz route reuses a **10×15×4** that is already in the parts box for the diff outdrives.
 
-> ⚠️ **Deepening the carrier pocket is technically the best answer** and is bearing-identical to this car, since both end up on the **10×18×5**. It is not used here only because keeping a 1mm cut square in an alloy carrier wants a lathe or mill, and off-axis is worse than either other route.
+> ⚠️ **Deepening the carrier pocket is technically the best answer** and is bearing-identical to this car, since both end up on the **10×18×5**. It stays unused here because keeping a 1mm cut square in an alloy carrier wants a lathe or mill, and off-axis is worse than either other route.
 
 ---
 
@@ -116,7 +116,7 @@ The one part that makes this car's route work, and the one bearing here that is 
 
 ⚠️ **This bearing is unique to this car, because the motor is.** The [FastAz](../FastAzJato4x4/motor_analysis.md) runs a **Hobbywing EZRun 3665SD G3 2400KV** out of a MAX10 G2 combo, a different motor on different bearings, so nothing in this section carries across to that build the way the chassis sizes do.
 
-> ⭐ **ABEC-9 over stock, and the reason is life rather than speed.** **The stock Castle bearings work, they just burn up quickly.** These last longer in the same motor. ABEC is a precision grade and not a durability rating, so the real gain is the **stainless and the flush shielding**, which leaves dirt and water much less of a way in. **Keeping the motor cool still matters**, the bearing is not a substitute for that.
+> ⭐ **ABEC-9 over stock, and the reason is life rather than speed.** **The stock Castle bearings work, they just burn up quickly.** These last longer in the same motor. ABEC is a precision grade and not a durability rating, so the real gain is the **stainless and the flush shielding**, which leaves dirt and water much less of a way in. **Keeping the motor cool still matters** on top of the bearing choice.
 
 ⚠️ **Castle does not publish the 1412's bearing sizes.** The [FastAz motor table](../FastAzJato4x4/motor_analysis.md) records Castle's as *"NMB, size not published"*, so **5×14×5 comes from fitting one, not from a spec sheet**. For scale, the Tekin Pro4 in that same table runs **5×14×5 front with 5×11×5 rear**, so a motor of this class usually takes two different sizes. 🚧 **The 1412's rear bearing size is not recorded here**, only the 5×14×5.
 

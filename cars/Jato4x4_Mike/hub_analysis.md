@@ -100,7 +100,7 @@ The Lighthouse front set is the only alloy front on either car with measured wei
 
 ## Notes
 
-- **Why the front is half plastic.** The alloy C-hub broke, so the front runs an **alloy knuckle on a plastic C-hub**. That is not a downgrade so much as putting the metal where the knuckle needs it, with the C-hub left sacrificial and cheap to replace.
+- **Why the front is half plastic.** The alloy C-hub broke, so the front runs an **alloy knuckle on a plastic C-hub**. That puts the metal where the knuckle needs it, with the C-hub left sacrificial and cheap to replace.
 - **The Lighthouse failure is a modification lesson, not a part review.** Filing the hinge pocket for droop removed material exactly where the C-hub is loaded, and **too much droop was bad anyway**. Both lessons cost one hub. Do not read it as "Lighthouse is weak".
 - **Track width is already wide here.** The MonsterKingz set adds **1-2mm per side** on a car that also runs the [wide-rim tire trick](README.md#wheels--tires). This car is outside ROAR width and does not care, which is the opposite of the FastAz.
 - **The rear shave is the next job, and it should be weighed.** The whole point is the slim Raptor R look for none of the money, but until the carrier is weighed before and after, the weight claim is unproven.

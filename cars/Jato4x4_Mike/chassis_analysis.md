@@ -50,7 +50,7 @@ The centre brace spans the tub and bolts to a **brace mount** at each end. Every
 
 <p align="center"><img src="src/chassis_vg_racing_steel_upper_brace.jpg" height="200">&nbsp;<img src="src/chassis_vg_racing_steel_upper_brace_red.jpg" height="200">&nbsp;<img src="src/chassis_vg_racing_steel_upper_brace_green.jpg" height="200">&nbsp;<img src="src/chassis_vg_racing_steel_upper_brace_blue.jpg" height="200"><br><em>The steel VG-style brace, the one running on this car, in black, red, green and blue</em></p>
 
-> ⚠️ **Buy the mounts with it.** The **Jato OE brace does not include the brace mounts**, they are Traxxas **9025** at **$7.00** on top. The HCG **6730** kit is the exception, it bundles its mounts. Budget the mounts unless you already have good ones.
+> ⚠️ **Buy the mounts with it.** The **Jato OE brace needs its brace mounts separately**, Traxxas **9025** at **$7.00** on top. The HCG **6730** kit is the exception, it bundles its mounts. Budget the mounts unless you already have good ones.
 
 > ⚠️ **The Slash 4x4 came with no brace at all.** That matters here because [this car started as a running Slash](README.md#car-overview), so there was never an OE brace on it to replace, it was **added**. The brace that "breaks often" is the **Jato** OE part, not a Slash one. **If you build this from a Slash donor, treat the brace as a required purchase rather than an upgrade**, and check whether the **9025 mounts** are even on the car before assuming you only need the bar.
 
@@ -96,6 +96,6 @@ The centre brace spans the tub and bolts to a **brace mount** at each end. Every
 - **Start from a running Slash 4x4.** It is the same platform, so the chassis, bulkheads and brace all transfer. Only the **towers, shocks and wing** have to be bought to make it a Jato 4x4, which is the cheapest route onto this platform.
 - **The brace is an addition on this car, not a replacement.** The **Slash 4x4 shipped without one**, so the donor arrived with nothing to swap out. On a Jato it is a replacement, because that OE brace breaks. Either way you buy one.
 - **Fitted is not the same as recommended.** This car runs the **steel** brace; the recommendation is the **$6 plastic 9024**, because the plastic gives up before the **9025 mounts** do. Steel protects the chassis and loads the mounts instead.
-- **The bulkhead is not optional if metal arms go on.** FLM arms strip a plastic bulkhead, which is exactly why the alloy front matters here. See the [FastAz arm analysis](../FastAzJato4x4/arm_analysis.md).
+- **Metal arms require the alloy bulkhead.** FLM arms strip a plastic bulkhead, which is exactly why the alloy front matters here. See the [FastAz arm analysis](../FastAzJato4x4/arm_analysis.md).
 - **This decision propagates.** The moulded tray and hold-down posts are chassis features, so the [battery bar geometry](battery_mount_analysis.md) is unique to this car and does not transfer to the FastAz in either direction.
-- **Nothing here is weighed yet.** Neither the stock chassis nor the bulkhead has a figure, so the weight case against carbon is currently reasoning rather than measurement.
+- **The weights are still missing.** Neither the stock chassis nor the bulkhead has a figure, so the weight case against carbon is currently reasoning rather than measurement.

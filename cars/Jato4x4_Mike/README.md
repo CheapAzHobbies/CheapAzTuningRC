@@ -29,7 +29,7 @@
 >
 > The two have since diverged. This car keeps the **plastic chassis**, runs **different hubs**, and solves the hub-bearing problem the opposite way (bigger bearing, shaved hexes, rather than a sleeve). Those differences are the interesting part and are called out section by section below.
 >
-> **On the Slash vs Jato question: it started as a running Slash 4x4**, and that is not a correction to make, it is the build. **The two are the same platform**, so the donor carries straight over. What makes it a Jato 4x4 is the **towers, shocks and wing**, which are the parts that actually differ between them. Anyone pricing this build should start from a running Slash 4x4 and budget those three.
+> **On the Slash vs Jato question: it started as a running Slash 4x4**, and that origin is the build. **The two are the same platform**, so the donor carries straight over. What makes it a Jato 4x4 is the **towers, shocks and wing**, which are the parts that actually differ between them. Anyone pricing this build should start from a running Slash 4x4 and budget those three.
 
 ---
 

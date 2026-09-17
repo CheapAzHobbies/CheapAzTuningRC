@@ -46,7 +46,7 @@
 
 </div>
 
-> ⚠️ **There is no plain "6855" to order.** Every one of them carries a colour suffix, so **the bare part number will not get you a shaft**, the same trap as the [9517 wing](aero_analysis.md#wing-colours). **Orange is the odd one out again**, listed as **6855X**-ORNG rather than 6855-ORNG, so it is one character away from the others.
+> ⚠️ **Every 6855 carries a colour suffix.** Order the bare part number and you get nothing, the same trap as the [9517 wing](aero_analysis.md#wing-colours). **Orange is the odd one out again**, listed as **6855X**-ORNG rather than 6855-ORNG, so it is one character away from the others.
 >
 > **Mike runs the blue.** Bought from **Tammies Hobbies for $10.00**, which is list price, so there was nothing lost by not shopping around.
 

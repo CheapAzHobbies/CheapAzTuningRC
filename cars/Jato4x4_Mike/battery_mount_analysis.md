@@ -103,7 +103,7 @@ Two ways to do it, a **bar across the stock posts** or a **strap**. They are alt
 
 The notesheet also sketches the tray opening itself at **165 × 50mm**, which is the raw space before a bar goes on.
 
-> ⚠️ **152mm is not a hard length limit, it is the span at full height.** The bar curves up towards each end, so **a low pack fits under the curve and can run longer**. The 160mm Racing 5200 goes in at 37mm tall, and a straight bar takes it without trouble. **Treat 152 × 48 × 44 as the safe box for a tall pack**, and check the curve yourself if the pack is long but low.
+> ⚠️ **152mm is the span measured at full height.** The bar curves up towards each end, so **a low pack fits under the curve and can run longer**. The 160mm Racing 5200 goes in at 37mm tall, and a straight bar takes it without trouble. **Treat 152 × 48 × 44 as the safe box for a tall pack**, and check the curve yourself if the pack is long but low.
 
 ---
 
@@ -125,4 +125,4 @@ Every dimension on this page is transcribed from Mike's handwritten sheet. It is
 - **Every pack this car owns clears the stock bar.** The four in [`battery_analysis.md`](battery_analysis.md) stand 37, 37, 31 and 37mm tall against the 7426X ceiling of **44mm**, so the stock bar handles the whole fleet and the printed bar is headroom for a taller pack later.
 - **Two parts, eight settings.** Between the two bars and the two retainer holes there are eight combinations from 20mm to 44mm. **Before buying a taller bar, try flipping the one you have or moving it to the other hole.**
 - **Measure the pack, not the label.** Everything here carries **±1.5mm**, so a setting within 1.5mm of a pack's height is a maybe, not a yes.
-- **There is no separate "Traxxas OE strap" to buy.** The OE arrangement *is* the plastic bar on its retainers, listed above. A plain generic strap is $2 to $4 ([LEDGER](../../LEDGER.md) #39, #40) if you want one anyway.
+- **The "Traxxas OE strap" is the plastic bar on its retainers**, listed above. A plain generic strap is $2 to $4 ([LEDGER](../../LEDGER.md) #39, #40) if you want one anyway.

@@ -2,7 +2,7 @@
 
 > **Running: the Castle Mamba X SCT + 1412-3200KV 5mm combo, part 010-0155-13**, bought **2025-03-19 for $198.71**. **ESC and motor are one part**, which is why they share a doc: the sensor harness, the bullets and the KV are all factory paired, so there was never anything to match up.
 >
-> ⚠️ **The ESC is 2S to 6S, but this combo is 4S maximum**, because the bundled **1412-3200KV motor is rated 2-4S**. Castle's own wording: *"4s maximum with included 1412-3200kv motor"*, and 4S only **"with very conservative gearing and keep a close eye on temperatures."** **This car runs 4S**, so it sits at the ceiling, and the **11T pinion is that conservative gearing**. **4S is not merely what the motor allows**, it is also the right cell count for this car, see [Why 4S](battery_analysis.md#why-4s).
+> ⚠️ **The ESC is 2S to 6S, but this combo is 4S maximum**, because the bundled **1412-3200KV motor is rated 2-4S**. Castle's own wording: *"4s maximum with included 1412-3200kv motor"*, and 4S only **"with very conservative gearing and keep a close eye on temperatures."** **This car runs 4S**, so it sits at the ceiling, and the **11T pinion is that conservative gearing**. **4S is also the right cell count for this car**, see [Why 4S](battery_analysis.md#why-4s).
 >
 > ⚙️ **The gearing finding came from this car**, and it overturned the assumption the build started with. See [The gearing finding](#the-gearing-finding).
 >
@@ -100,10 +100,10 @@
 
 ## Notes
 
-- ⚠️ **The 4S limit is the thing to remember.** The Mamba X on its own is a 6S controller, which is how the [FastAz doc](../FastAzJato4x4/esc_analysis.md#esc-comparison) lists it, but **the bundled 1412 caps the combo at 4S**. Both statements are correct, they are just about different scopes.
+- ⚠️ **The 4S limit is the thing to remember.** The Mamba X on its own is a 6S controller, which is how the [FastAz doc](../FastAzJato4x4/esc_analysis.md#esc-comparison) lists it, but **the bundled 1412 caps the combo at 4S**. Both statements are correct and cover different scopes.
 - **This is the origin of the pinion reasoning on both cars.** Mike's Jato came first, so the power-band conclusion was reached here and the FastAz inherited it.
 - **Castle rate the combo to 6.5 lb vehicle weight.** 🚧 **This car has never been weighed**, so whether it is inside that is unknown. Worth knowing given it also runs at the 4S ceiling.
 - **Remove the cooling fan before running wet.** The ESC is potted and waterproof, the fan is not.
 - **Programming needs extra hardware.** Six common settings, cutoff voltage included, can be set from the transmitter, but full access needs the Castle Link USB kit or the B-LINK Bluetooth adapter, both sold separately.
-- **Nothing here was a selection process.** The combo was bought outright, so there is no comparison to run. The alternatives, and why the FastAz went a different way on both the ESC and the motor, are in [that car's ESC analysis](../FastAzJato4x4/esc_analysis.md) and [motor analysis](../FastAzJato4x4/motor_analysis.md).
+- **The combo was bought outright.** The alternatives, and why the FastAz went a different way on both the ESC and the motor, are in [that car's ESC analysis](../FastAzJato4x4/esc_analysis.md) and [motor analysis](../FastAzJato4x4/motor_analysis.md).
 - **🚧 No temperatures were logged.** "Noticeably cooler" is subjective. A logged temp before and after would turn the best finding on this car into a hard number.

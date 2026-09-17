@@ -27,7 +27,7 @@
 
 ## Why 4S
 
-**4S is not a compromise here, it is the class standard**, and it wins against the cell counts either side of it.
+**4S is the class standard here**, and it wins against the cell counts either side of it.
 
 <div align="center">
 
@@ -101,6 +101,6 @@ Measured on the HOTA T6, using the [E-Revo IR-to-True-C method](../ERevo_1.0/bat
 ## Notes
 
 - **Sharing works one way.** Shorties fit this car too, so anything bought to the FastAz spec runs here, while the full length packs stay on this one.
-- ⚠️ **Low-voltage cutoff: 3.5V per cell, and the HV discharge curve is the reason.** These packs run **more linearly**, so they keep enough punch to drive normally right to the end. **There is no soft-feeling warning that the pack is nearly done**, which is exactly what makes over-discharging easy, and a hard cutoff is the only thing that catches it.
+- ⚠️ **Low-voltage cutoff: 3.5V per cell, and the HV discharge curve is the reason.** These packs run **more linearly**, so they keep enough punch to drive normally right to the end. **The pack feels strong right to the end**, which is exactly what makes over-discharging easy, and a hard cutoff is the only thing that catches it.
 - **3.5V costs almost no run time.** In practice the pack is coming off at **3.6 to 3.8V** anyway, and **most of the usable run sits above 3.6V**, so the cutoff lands just under where the pack has already stopped being worth driving. Applies to the standard packs too. The HV ones charge to 4.35V a cell rather than 4.2V, so the top of the range moves but the floor does not.
-- **Hardcase is the likely direction.** Two of the four packs here are soft case, and soft packs are what chafe: grit works into the tray and wears the shrink wrap. **Moving to hardcase, the CNHL hardpack being the obvious one, would remove that worry entirely.** It is the same reasoning that pushed the [FastAzJato4x4](../FastAzJato4x4/battery_analysis.md) to hardcase-only for the sand at Meldrum, so this car would just be catching up.
+- **Hardcase is the likely direction.** Two of the four packs here are soft case, and soft packs are what chafe: grit works into the tray and wears the shrink wrap. **Moving to hardcase, the CNHL hardpack being the obvious one, would remove that worry entirely.** It is the same reasoning that pushed the [FastAzJato4x4](../FastAzJato4x4/battery_analysis.md) to hardcase-only for the sand at Meldrum, so this car would be catching up.
