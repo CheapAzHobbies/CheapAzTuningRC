@@ -10,8 +10,8 @@
 > **Now a fallback (spares):** E-Revo 1.0 CVDs chopped to fit (keyed sleeve + Loctite 680) in the [comparison](#axle-wheel-driveshaft-comparison), only relevant again if the diff plan moves back to the E-Revo 1.0 (6mm).
 
 <p align="center">
-  <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" height="148">&nbsp;<img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" height="148">&nbsp;<img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" height="148">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" height="148">&nbsp;<img src="src/drivetrain_traxxas_jato4x4_center_shaft_7455.webp" height="148"><br>
-  <em>Chosen axle build: knock-off Slash 4x4 HD steel CV driveshafts, front + rear · TKR1654-17 front 17mm M6 stub · TKR5570-17 rear kit (5580 stub + hexes) · TRA6752 long output shaft (×4, all corners) · Jato 4x4 BL-2S center shaft (7455)</em>
+  <img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" height="130">&nbsp;<img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" height="130">&nbsp;<img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" height="130">&nbsp;<img src="src/drivetrain_traxxas_output_shaft_6752_long.jpg" height="130">&nbsp;<img src="src/drivetrain_traxxas_jato4x4_center_shaft_7455.webp" height="130">&nbsp;<img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" height="130"><br>
+  <em>Chosen axle build: knock-off Slash 4x4 HD steel CV driveshafts, front + rear · TKR1654-17 front 17mm M6 stub · TKR5570-17 rear kit (5580 stub + hexes) · TRA6752 long output shaft (×4, all corners) · Jato 4x4 BL-2S center shaft (7455) · AliExpress 17mm splined hubs, E-Revo 1.0 fit, black, $8.36 the set of four</em>
 </p>
 
 ---
