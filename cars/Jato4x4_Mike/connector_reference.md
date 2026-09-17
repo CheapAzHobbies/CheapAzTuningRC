@@ -4,6 +4,8 @@
 >
 > **The standing rules on which connectors are worth running:** [FastAzJato4x4 connectors reference](../FastAzJato4x4/connector_reference.md).
 
+<p align="center"><img src="src/electronics_cnhl_connector_comparison_ec5_ic5_xt90.jpg" width="600"><br><em>CNHL's own comparison graphic. <strong>EC5 is the one this car runs</strong>, shown in the middle. IC5 and XT90 are here because the graphic includes them, and neither is on the car</em></p>
+
 <div align="center">
 
 | Where | Connector | Note |
