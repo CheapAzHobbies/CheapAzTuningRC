@@ -4,10 +4,14 @@
 >
 > **Full comparison, plus power supplies and the series-charging method:** [FastAzJato4x4 charger analysis](../FastAzJato4x4/charger_analysis.md).
 
+<div align="center">
+
 | Item | Spec |
 |---|---|
 | **Charger** | **HOTA T6** |
 | **Used for** | Charging, and the per-cell IR checks in [`battery_analysis.md`](battery_analysis.md) |
 | **Must handle** | **LiHV**, since the packs here charge to 4.35V a cell |
+
+</div>
 
 🚧 **Price, purchase date and the power supply behind it are not recorded.**
