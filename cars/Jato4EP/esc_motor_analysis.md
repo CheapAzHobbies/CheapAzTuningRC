@@ -1,4 +1,4 @@
-# ESC, Motor & Gearing — Jato4x4_Mike
+# ESC, Motor & Gearing — Jato 4EP
 
 > **Running: the Castle Mamba X SCT + 1412-3200KV 5mm combo, part 010-0155-13**, bought **2025-03-19 for $198.71**. **ESC and motor are one part**, which is why they share a doc: the sensor harness, the bullets and the KV are all factory paired, so there was never anything to match up.
 >

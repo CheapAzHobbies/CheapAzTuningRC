@@ -1,4 +1,4 @@
-# Bumper Selection — Jato4x4_Mike
+# Bumper Selection — Jato 4EP
 
 > **Running the Traxxas TRA6736 Rustler 4x4 front bumper with the TRA9044 rear skid.** The front is where this car and the [FastAzJato4x4](../FastAzJato4x4/bumper_analysis.md) go separate ways; that one runs the **RPM 81042 wide front**. Both cars run the same 9044 at the rear.
 >

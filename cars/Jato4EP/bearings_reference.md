@@ -1,4 +1,4 @@
-# Bearings Reference — Jato4x4_Mike
+# Bearings Reference — Jato 4EP
 
 A list of the bearings this car runs. The baseline is the **Traxxas Jato 4x4 BL-2s (90154-4)** kit, same as the [FastAzJato4x4](../FastAzJato4x4/bearings_reference.md), because both are the same 1/8-class platform. Run sealed (rubber-shielded, **2RS**) bearings throughout for offroad, **with one exception on this car**: the four hub bearings are **ZZ metal-shielded**, see [the hub bearing](#the-hub-bearing-s61810zz).
 

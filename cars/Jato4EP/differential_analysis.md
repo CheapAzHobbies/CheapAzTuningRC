@@ -1,4 +1,4 @@
-# Differential Selection — Jato4x4_Mike
+# Differential Selection — Jato 4EP
 
 > **Running: a metal centre diff, 30k front, 100k centre, and a rear that runs grease instead of oil.** The front and centre oils were tuned on this car first and the [FastAzJato4x4](../FastAzJato4x4/differential_analysis.md) inherited them, so this is the origin rather than the copy. **The rear is where the two cars part company**, since this one runs **Dynamite blue marine grease**.
 >

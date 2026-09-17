@@ -1,4 +1,4 @@
-# Hub Selection — Jato4x4_Mike
+# Hub Selection — Jato 4EP
 
 > **Running: stock plastic EHD C-hubs with MonsterKingz 7075 alloy steering blocks up front, stock plastic EHD carriers at the rear.** The front is a deliberate split, alloy where the knuckle needs it and cheap plastic for the C-hub, because the alloy C-hub that was here **broke**. The **Lighthouse alloy front** is retired, but **it did not fail on its own merits**, so it is written up below rather than dismissed. Next job is **shaving the MonsterKingz rear carrier down** for the slim Raptor R look at a fraction of Raptor R money.
 >

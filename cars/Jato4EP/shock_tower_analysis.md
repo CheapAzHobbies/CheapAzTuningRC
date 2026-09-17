@@ -1,4 +1,4 @@
-# Shock Tower Selection — Jato4x4_Mike
+# Shock Tower Selection — Jato 4EP
 
 > **Running the Jato 4x4 rear tower, which puts the rear shocks at the back of the car rather than mid-chassis.** That is a real geometry difference, and it is **one of the three parts that turn a Slash 4x4 into a Jato**, along with the shocks and the wing.
 >

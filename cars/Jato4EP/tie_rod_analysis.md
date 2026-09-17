@@ -1,4 +1,4 @@
-# Tie Rod & Camber Link Selection — Jato4x4_Mike
+# Tie Rod & Camber Link Selection — Jato 4EP
 
 > **Running: ACER Racing M4 × 60mm titanium turnbuckles**, two of them at $5.99 each, **$11.98 the pair**. They were originally bought as the FastAz steering links and moved here.
 >

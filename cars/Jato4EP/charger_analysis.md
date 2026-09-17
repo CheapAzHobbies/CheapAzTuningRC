@@ -1,4 +1,4 @@
-# Charger Selection — Jato4x4_Mike
+# Charger Selection — Jato 4EP
 
 > **Using a HOTA T6.** It is what the [pack IR checks](battery_analysis.md) were measured on, and what reads the CNHL packs as LiHV.
 >

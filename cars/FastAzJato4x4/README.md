@@ -384,7 +384,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 <p align="center">
   <b>~*~ THE CHEAPAZ WEBRING ~*~</b><br>
   <a href="../ERevo_1.0/README.md">E-REVO 1.0</a> &middot;
-  <a href="../Jato4x4_Mike/README.md">MIKE&#39;S JATO</a> &middot;
+  <a href="../Jato4EP/README.md">MIKE&#39;S JATO</a> &middot;
   <a href="../K939/README.md">K939</a> &middot;
   <a href="../MugenMBX8T_Eco/README.md">MUGEN MBX8T</a> &middot;
   <a href="../Rlaarlo_OmniTerminator/README.md">OMNI-TERMINATOR</a> &middot;

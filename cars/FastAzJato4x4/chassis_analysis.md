@@ -43,7 +43,7 @@
 
 ## Bulkheads (Front + Rear)
 
-The **CF chassis kit ships with aluminum front + rear bulkheads**, so the FastAzJato runs those, no separate purchase. The options below are reference, mostly for a **plastic-LCG chassis** path (like [Mike's Jato](../Jato4x4_Mike/README.md)). **All fit the LCG chassis only** (Traxxas 7422 / 7422A), not the standard / HCG chassis.
+The **CF chassis kit ships with aluminum front + rear bulkheads**, so the FastAzJato runs those, no separate purchase. The options below are reference, mostly for a **plastic-LCG chassis** path (like [Mike's Jato](../Jato4EP/README.md)). **All fit the LCG chassis only** (Traxxas 7422 / 7422A), not the standard / HCG chassis.
 
 > ⚠️ **Do not use a Rustler-specific front bulkhead, it is physically shorter than the Slash / Jato one.** A part listed as multi-fit Slash/Rustler/Jato is fine, but a Rustler-only bulkhead comes up short.
 

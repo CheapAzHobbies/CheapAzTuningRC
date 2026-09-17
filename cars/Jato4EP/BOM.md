@@ -1,4 +1,4 @@
-# Bill of Materials — Jato4x4_Mike
+# Bill of Materials — Jato 4EP
 
 Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how many of that product was bought, **Price** is what it cost and what that price covers, and anything else worth knowing sits in a small note under the part. If you want to know *why* a part is here, the linked doc has the argument.
 

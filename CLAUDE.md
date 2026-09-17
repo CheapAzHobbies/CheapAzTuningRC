@@ -98,7 +98,7 @@ New info from the user **overrides** existing values in the README, even if the 
 
 ## Cars belonging to others
 
-The user's friend Mike has related builds (FastAzJato4x4 is co-developed with him). Mike's cars get their own folder under `cars/` (e.g. `cars/Jato4x4_Mike/`) with a note linking back to the related user build.
+The user's friend Mike has related builds (FastAzJato4x4 is co-developed with him). Mike's cars get their own folder under `cars/` (e.g. `cars/Jato4EP/`) with a note linking back to the related user build.
 
 ## Battery tracker conventions (`batteries/README.md`)
 

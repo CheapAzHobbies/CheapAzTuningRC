@@ -1,4 +1,4 @@
-# Gearbox Housing Selection — Jato4x4_Mike
+# Gearbox Housing Selection — Jato 4EP
 
 > **Running: the stock Traxxas plastic housings, front and rear.** Nothing was changed here, which is the same conclusion the [FastAzJato4x4](../FastAzJato4x4/gearbox_housing_analysis.md) reached.
 >

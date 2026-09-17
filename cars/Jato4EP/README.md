@@ -1,8 +1,8 @@
 <div align="center">
 
-# T H E · J A T O · G A Z E T T E
+# T H E · 4 E P · G A Z E T T E
 
-**MIKE'S TRAXXAS JATO 4X4** · GARAGE EDITION · PRINTED ON THE BENCH SINCE 2026
+**JATO 4×4 EXPERIMENTAL PROTOTYPE** · MIKE'S CAR · PRINTED ON THE BENCH SINCE 2026
 
 `VOL. I . . . . . No. 1 . . . . . THURSDAY, SEPTEMBER 17, 2026 . . . . . PRICE 25¢`
 
@@ -20,7 +20,7 @@
 
 </div>
 
-> Mike's car. Related to but not the same as the [FastAzJato4x4](../FastAzJato4x4/README.md) build (which is co-developed with Mike). Setup notes recorded here for reference and cross-build tuning.
+> **Jato 4EP, the Jato 4×4 Experimental Prototype.** Mike's car, and the bench the [FastAzJato4x4](../FastAzJato4x4/README.md) was developed on (that build is co-developed with Mike). The name is the job: this is where a setting gets tried before it is trusted. Setup notes recorded here for reference and cross-build tuning.
 
 ---
 
@@ -256,7 +256,7 @@ Each one is a summary of **what is fitted**, with a link out to the [FastAzJato4
 
 <div align="center">
 
-<sub><b>THE JATO GAZETTE</b> · Published irregularly from the bench · All prices as paid, all weights as measured<br>
+<sub><b>THE 4EP GAZETTE</b> · Published irregularly from the bench · All prices as paid, all weights as measured<br>
 Sister publication: <a href="../FastAzJato4x4/README.md">The FastAz Jato 4x4</a> · Accounts settled in the <a href="../../LEDGER.md">LEDGER</a></sub>
 
 </div>

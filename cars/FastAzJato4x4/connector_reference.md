@@ -11,7 +11,7 @@ Which battery/ESC connectors are worth running, and which to avoid. Not a tuning
 | Connector | Rating (RC use) | Verdict | Notes |
 |---|---|---|---|
 | **5mm bullets** | high current | ⭐ **running** | What this car is on. Bare pins, so insulate/heatshrink them yourself. **Less common** than EC5/XT, which is the only real cost |
-| **EC5** | high (~120A), 5mm-bullet based | 🟢 good | A 5mm bullet inside a self-insulating housing, so it is the same contact with the shell done for you. What [Mike's Jato](../Jato4x4_Mike/connector_reference.md) runs |
+| **EC5** | high (~120A), 5mm-bullet based | 🟢 good | A 5mm bullet inside a self-insulating housing, so it is the same contact with the shell done for you. What [Mike's Jato](../Jato4EP/connector_reference.md) runs |
 | **XT90** | high (~90A+) | 🟢 good | Big, plenty for the 140A ESC. **XT90-S** anti-spark version kills the plug-in spark on 4S |
 | **XT60** | ~60A+ (plenty for a car) | 🟢 good | **What the HobbyWing MAX10 G2 shipped with.** Compact, handles the bursty car current; anti-spark XT60E exists |
 | **3mm bullets** | high current | 🔵 fine (smaller) | Same idea as the 5mm, less contact area. Fine, but there is no reason to go down a size here |

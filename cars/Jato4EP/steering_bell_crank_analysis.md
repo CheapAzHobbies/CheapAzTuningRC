@@ -1,4 +1,4 @@
-# Steering Bell Crank Selection — Jato4x4_Mike
+# Steering Bell Crank Selection — Jato 4EP
 
 > **Running: the GPM aluminum bell crank, $20.00.** Replaces the stock plastic assembly.
 >

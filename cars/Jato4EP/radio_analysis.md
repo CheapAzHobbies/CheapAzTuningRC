@@ -1,4 +1,4 @@
-# Radio / Receiver Selection — Jato4x4_Mike
+# Radio / Receiver Selection — Jato 4EP
 
 > **Running: the FlySky Noble NB4, gen 1, with the FGr4S V2 receiver. Same radio and receiver as the [FastAzJato4x4](../FastAzJato4x4/radio_analysis.md), both on gen 1 handsets**, so there is nothing separate to choose here.
 >

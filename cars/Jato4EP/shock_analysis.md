@@ -1,4 +1,4 @@
-# Shock Selection — Jato4x4_Mike
+# Shock Selection — Jato 4EP
 
 > **Running: HPI Apache C1 big bores, 16mm bore, 97mm.** Same shock the [FastAzJato4x4](../FastAzJato4x4/shock_analysis.md) runs **internally**, but that car uses the **metal Hot Bodies D8** bodies while this one is on the **plastic C1**. Shaft, piston interface, internal volume and external dimensions are identical, so **every part interchanges** and only the body material differs.
 >

@@ -1,4 +1,4 @@
-# Suspension Arm Selection — Jato4x4_Mike
+# Suspension Arm Selection — Jato 4EP
 
 > **Running: FLM26800 extended arms at both ends.** 6061 aluminum, **101.6mm hole to hole against 92mm for the stock TRA3655**, so each arm pushes the wheel out about **9.6mm per side**. Same arm the [FastAz](../FastAzJato4x4/arm_analysis.md) runs, same part front and rear.
 >

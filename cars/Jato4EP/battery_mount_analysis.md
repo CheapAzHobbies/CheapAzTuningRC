@@ -1,4 +1,4 @@
-# Battery Mount Selection — Jato4x4_Mike
+# Battery Mount Selection — Jato 4EP
 
 > **Running both the stock Traxxas hold-down and a 3D printed bar, whichever suits the pack going in.** The stock bars top out at **44mm** of clearance, which covers every pack this car owns today. The printed one flexes past that, so it carries the headroom for anything taller. Straps are the alternative and are compared alongside the bars below.
 >

@@ -1,4 +1,4 @@
-# Driveshaft Selection — Jato4x4_Mike
+# Driveshaft Selection — Jato 4EP
 
 > **Running: knock-off Slash / Jato 4x4 HD steel CV driveshafts**, TRA6851R and TRA6852R clones, on **TRA6752 long output shafts at all four corners**. **The axles are basically the Jato 4x4 part**, so they bolt straight in: **no cutting, no welding and no joiner.** Same build as the [FastAzJato4x4](../FastAzJato4x4/driveshaft_analysis.md#2wd-long-cvds--6752-output-shafts-cheap-long-axle-build).
 >

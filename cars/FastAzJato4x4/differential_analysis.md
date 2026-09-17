@@ -125,7 +125,7 @@ A slipper clutch replaces the center diff entirely. Vetoed here because it doesn
 
 The spider pins are **stepped down** partway along their length, and that step is exactly where they shear. My guess is the step is there to flex slightly and fake an LSD-style progressive response, but for a part you have to repair in the field it is a bad trade.
 
-**The fix came from [Mike's car](../Jato4x4_Mike/differential_analysis.md), which broke one first: a solid 2.8mm × 7mm pin, full length, no step-down.** 7mm is the right length for these pins. The stock stepped pin measures **6.85mm**, which is ever so slightly too short on top of being weaker. A plain solid pin is stronger, cheaper, and easier to source than the original.
+**The fix came from [Mike's car](../Jato4EP/differential_analysis.md), which broke one first: a solid 2.8mm × 7mm pin, full length, no step-down.** 7mm is the right length for these pins. The stock stepped pin measures **6.85mm**, which is ever so slightly too short on top of being weaker. A plain solid pin is stronger, cheaper, and easier to source than the original.
 
 <p align="center"><img src="src/drivetrain_aliexpress_center_diff_pin_broken_vs_good.jpg" width="500">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_pin_step_down.jpg" width="500"><br><em>One sheared pin next to a good one · the step-down that causes it, clearly visible on the upper pin</em></p>
 
@@ -172,7 +172,7 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 **Running: 30k oil up front, and grease in the rear instead of oil.** The front is far heavier than the old 7k target, which calms torque steer on a 4S car, and the greased rear holds drive off the corner instead of spinning up on the blown-out dirt.
 
-⚠️ **Grease goes in as a light film, never packed solid.** Packing a diff binds the gears together so it drags and heats instead of differentiating. The full oil versus grease fill rule is written up on [Mike's car](../Jato4x4_Mike/differential_analysis.md#the-rear-runs-grease-not-oil), which runs the same arrangement.
+⚠️ **Grease goes in as a light film, never packed solid.** Packing a diff binds the gears together so it drags and heats instead of differentiating. The full oil versus grease fill rule is written up on [Mike's car](../Jato4EP/differential_analysis.md#the-rear-runs-grease-not-oil), which runs the same arrangement.
 
 | Diff | Weight | Tuning |
 |---|---|---|
@@ -181,7 +181,7 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 <p align="center"><img src="src/drivetrain_traxxas_diff_oil_30k_tra5136.jpg" width="280">&nbsp;<img src="src/drivetrain_traxxas_diff_oil_10k_tra5135.jpg" width="280"><br><em>Front: Traxxas 30k (TRA5136), what the front diff actually runs · Traxxas 10k (TRA5135), bought but <strong>not what is in the rear</strong>, since the rear is greased. $7.50 each at Tammies Hobbies</em></p>
 
-> The [E-Revo](../ERevo_1.0/README.md) runs the same **30k** front. [Mike's Jato](../Jato4x4_Mike/README.md#diff-oil) runs **30k front, 100k centre and a greased rear**, the same approach as here, and it is the car these settings were worked out on in the first place.
+> The [E-Revo](../ERevo_1.0/README.md) runs the same **30k** front. [Mike's Jato](../Jato4EP/README.md#diff-oil) runs **30k front, 100k centre and a greased rear**, the same approach as here, and it is the car these settings were worked out on in the first place.
 
 ---
 

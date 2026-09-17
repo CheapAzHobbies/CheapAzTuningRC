@@ -1,4 +1,4 @@
-# Servo Selection — Jato4x4_Mike
+# Servo Selection — Jato 4EP
 
 > **Running: the PTK 9752TG-D**, about **$19.65** as part of a bulk 8-pack. Same servo the [FastAzJato4x4](../FastAzJato4x4/servo_analysis.md) runs. It replaced a **JX CLS6322HV (EcoBoost branding)** that **started losing its centre**.
 >

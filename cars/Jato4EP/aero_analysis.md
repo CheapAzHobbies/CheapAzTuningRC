@@ -1,4 +1,4 @@
-# Aero (Wing, Mount + Body) Selection — Jato4x4_Mike
+# Aero (Wing, Mount + Body) Selection — Jato 4EP
 
 > **Running: the Traxxas 9060-BLUE body with the 9517X blue rear wing on 9046 wing mounts.** The wing and mounts are **two of the three parts that turn a Slash 4x4 into a Jato**, along with the [rear tower](shock_tower_analysis.md).
 >

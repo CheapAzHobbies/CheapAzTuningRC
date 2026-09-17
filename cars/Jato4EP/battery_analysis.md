@@ -1,4 +1,4 @@
-# Battery Selection — Jato4x4_Mike
+# Battery Selection — Jato 4EP
 
 > ⚠️ **Set the low-voltage cutoff to 3.5V per cell.** HV packs discharge linearly enough that they **still feel strong when nearly empty**, so nothing warns you and the cutoff is the only thing catching it. It costs almost no run time, see [Notes](#notes). (**14.0V across a 4S**, derived, since ESCs are configured per cell.)
 >

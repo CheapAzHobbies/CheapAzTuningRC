@@ -1,4 +1,4 @@
-# Wheel & Tire Selection — Jato4x4_Mike
+# Wheel & Tire Selection — Jato 4EP
 
 > **Running: a three-part stack, Traxxas 9070-WHT rims + blue race foams + RedSpider tires.** The tire is the same one the [FastAzJato4x4](../FastAzJato4x4/wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) runs, so the tire itself is not re-analysed here. **What is unique to this car is the rim it is mounted on.** Putting RedSpider rubber on the wider Traxxas rims pushes the wheels out and **widens the track by a lot**, which is the single best handling change made to this car.
 >
