@@ -2,7 +2,7 @@
 
 > ⚠️ **Set the low-voltage cutoff to 3.5V per cell.** HV packs discharge linearly enough that they **still feel strong when nearly empty**, so nothing warns you and the cutoff is the only thing catching it. It costs almost no run time, see [Notes](#notes). (**14.0V across a 4S**, derived, since ESCs are configured per cell.)
 >
-> ⚠️ **4S is the ceiling, not a preference.** The [Castle 1412 in the combo](esc_motor_analysis.md) is rated **2-4S**, and Castle only allow 4S with conservative gearing and an eye on temperatures. Nothing above 4S goes in this car.
+> ⚠️ **4S is both the ceiling and the right call.** The [Castle 1412 in the combo](esc_motor_analysis.md) is rated **2-4S**, and Castle only allow 4S with conservative gearing and an eye on temperatures, so nothing above 4S goes in this car anyway. **But 4S is what you would pick here even without that limit**, see [Why 4S](#why-4s).
 >
 > **Four packs run here and all four fit. The HV ones are the better packs.** Two read oversize against the **152 × 48 × 44mm** envelope and still go in, because **length trades against height**.
 >
@@ -22,6 +22,25 @@
 | **HV cells** | May | **The HV packs are the better ones here**, more top speed and less sag. Not a hard requirement, the standard packs still run |
 
 </div>
+
+---
+
+## Why 4S
+
+**4S is not a compromise here, it is the class standard**, and it wins against the cell counts either side of it.
+
+<div align="center">
+
+| Instead of 4S | What it costs you |
+|:---|:---|
+| **6S** | **Less capacity and more weight** for the same pack. You pay in grams and run time for voltage this car cannot use anyway |
+| **3S** | **Works, but pulls more current for the same power.** Watts are volts times amps, so dropping the volts means raising the amps, which puts more heat through the ESC, the motor and the wiring for the same result |
+
+</div>
+
+**The other half of it is support.** **4S is what 1/8 buggies run**, and it is the normal racing class, so **pack choice, availability and pricing are all at their best there**. Stepping either side of 4S narrows the shelf you can buy from.
+
+**It is also about where the drivetrain gives up.** 4S is roughly as much as this drivetrain takes before the extra power starts costing parts, so it **balances performance against breaking things** instead of chasing the biggest number.
 
 ---
 

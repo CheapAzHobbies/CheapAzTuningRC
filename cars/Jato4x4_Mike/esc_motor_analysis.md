@@ -2,7 +2,7 @@
 
 > **Running: the Castle Mamba X SCT + 1412-3200KV 5mm combo, part 010-0155-13**, bought **2025-03-19 for $198.71**. **ESC and motor are one part**, which is why they share a doc: the sensor harness, the bullets and the KV are all factory paired, so there was never anything to match up.
 >
-> ⚠️ **The ESC is 2S to 6S, but this combo is 4S maximum**, because the bundled **1412-3200KV motor is rated 2-4S**. Castle's own wording: *"4s maximum with included 1412-3200kv motor"*, and 4S only **"with very conservative gearing and keep a close eye on temperatures."** **This car runs 4S**, so it sits at the ceiling, and the **11T pinion is that conservative gearing**.
+> ⚠️ **The ESC is 2S to 6S, but this combo is 4S maximum**, because the bundled **1412-3200KV motor is rated 2-4S**. Castle's own wording: *"4s maximum with included 1412-3200kv motor"*, and 4S only **"with very conservative gearing and keep a close eye on temperatures."** **This car runs 4S**, so it sits at the ceiling, and the **11T pinion is that conservative gearing**. **4S is not merely what the motor allows**, it is also the right cell count for this car, see [Why 4S](battery_analysis.md#why-4s).
 >
 > ⚙️ **The gearing finding came from this car**, and it overturned the assumption the build started with. See [The gearing finding](#the-gearing-finding).
 >
