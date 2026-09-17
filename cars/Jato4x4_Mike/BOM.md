@@ -12,7 +12,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|
 | [Donor Car](#donor-car) | 🚧 not recorded |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
-| [Drivetrain](#drivetrain) | $100.91 |
+| [Drivetrain](#drivetrain) | $105.41 |
 | [Suspension](#suspension) | $31.73 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
 | [Steering](#steering) | $51.63 |
@@ -20,8 +20,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $198.71 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$911.65** |
-| **Car only, without batteries** | **$626.30** |
+| **Total recorded** | **$916.15** |
+| **Car only, without batteries** | **$630.80** |
 
 > **What the total is missing:** the donor, the shocks, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
@@ -56,7 +56,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Tekno stubs, TKR1654-17 front + 5580 rear**<br><sub>Note: same stubs as the FastAz. 🚧 price not recorded for this car</sub> | 1 | 🚧 not recorded | **🚧** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA5136 30k diff oil**<br><sub>Note: front. 🚧 price is the FastAz purchase of the same bottle; whether Mike bought his own is not recorded</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
-| **Traxxas TRA5135 10k diff oil**<br><sub>Note: rear, run greased. Same caveat as above</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
+| **Dynamite DYNE4201 marine grease**<br><sub>Note: the rear diff runs this **instead of** oil. 5 oz can, lithium complex with anti-sling</sub> | 1 | Amazon | **$12.00 / can** | [Diffs](differential_analysis.md) |
 | **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>Note: glass-filled nylon, 20.0g each, unchanged from stock</sub> | 1 | Traxxas | **$4.00 / set** | [Housings](gearbox_housing_analysis.md) |
 | **54T spur gear** | 1 | 🚧 not recorded | **🚧** | [Drivetrain](README.md#drivetrain) |
 | **11T 32P pinion** | 1 | 🚧 not recorded | **🚧** | [Motor](motor_analysis.md) |

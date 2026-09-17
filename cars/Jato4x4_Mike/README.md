@@ -94,13 +94,13 @@ Both Jatos run **custom axles built from chopped E-Revo 1.0 CVDs**. Length is di
 
 ### Diff Oil
 
-> **This car is where the setup came from.** Mike's Jato was the first of the two, and the oils were tuned here together before the [FastAzJato4x4](../FastAzJato4x4/differential_analysis.md) inherited them. Both cars run the same spec.
+> **This car is where the setup came from.** Mike's Jato was the first of the two, and the oils were tuned here together before the [FastAzJato4x4](../FastAzJato4x4/differential_analysis.md) inherited them. **The front and centre match on both cars, but the rear does not**, since this one is greased rather than oiled.
 
 | Diff | Weight | Note |
 |---|---|---|
 | **Front** | **30k** (Traxxas TRA5136) | Calms torque steer on the heavy 4S car |
 | **Center** | **100k** (Traxxas TRA5130) | Holds drive stability |
-| **Rear** | **10k, run greased** (Traxxas TRA5135) | Drive off the corner |
+| **Rear** | **Blue grease, no oil** (Dynamite DYNE4201) | Drive off the corner. **Light coat, never packed**, see [`differential_analysis.md`](differential_analysis.md) |
 
 ---
 
