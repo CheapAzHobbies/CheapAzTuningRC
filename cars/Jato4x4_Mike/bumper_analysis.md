@@ -4,7 +4,7 @@
 >
 > ⚠️ **Bumpers are not optional here, and crash protection is not the reason.** The Traxxas bumpers on this chassis family **retain the front and rear hinge pins in their bores**. Take them off and the pins walk out, the arms come loose and the car is done. That makes them a mechanical requirement, not an upgrade, so there was never a version of this car without them.
 >
-> **Mike took the protection, the FastAz took the looks.** That car weighed this exact part and passed on it, in its own words the Rustler front **"crushes on protection but loses on looks"**. It **does not extend past the wheels** either way, so it stays recovery friendly.
+> **This is not a looks versus protection trade, both cars look good.** The FastAz runs the **RPM 81042 Jato 4x4 wide front** because it makes that car look like the **OG Jato**, and that choice is **technically worse for nose recovery**, accepted on purpose because it is a hot boy car. **The real difference is clearance: Mike's Rustler front sits higher**, so this car has more of it.
 >
 > **Full comparison of every bumper that fits:** [FastAzJato4x4 bumper analysis](../FastAzJato4x4/bumper_analysis.md#bumper-options).
 
@@ -20,12 +20,14 @@
 |---|---|---|
 | **Front bumper** | **Traxxas TRA6736**, Rustler 4x4 front **+ support**, glass-filled nylon | **$6.00 each** |
 | **Rear skid** | **Traxxas TRA9044**, sold as a front + rear set, **only the rear is used** | **$7.00 / set** |
-| **Front skid** | **None.** The 9044 front plate goes unused, since the Rustler bumper covers the front | included in the set |
-| **Rear bumper** | 🚧 not recorded. The matching Rustler rear is **TRA6737** | 🚧 |
+| **Front skid** | **None needed.** The Rustler bumper **doubles as the front skid**, so the 9044 front plate goes unused | included in the set |
+| **Rear bumper** | **There isn't one, and none is wanted.** The rear skid **is** the rear bumper here | included in the set |
 
 </div>
 
 > **The 9044 rear is the only rear plate that covers the tongue.** Every other option wraps the edges of the rear end and leaves the tongue exposed, and **the tongue is what drags on a bad landing**. That single detail is what decides the rear on both cars, which is why they agree here and nowhere else in this doc.
+>
+> **It is not really protecting anything any more, and that is fine.** **Most of the damage happens up front**, so the rear only has to skid, not take hits. That is why there is no separate rear bumper and why nobody is shopping for one.
 
 ---
 
@@ -40,7 +42,7 @@ All of these bolt to the same Slash 4x4 / Jato 4x4 mount pattern. Mike runs the 
 | Part | Bumper | Price |
 |---|---|---|
 | ⭐ **TRA6736** | Rustler 4x4 front **+ support**, fitted here. **Guards the front shocks** | **$6.00** |
-| 🔵 **RPM 81042** | **What the FastAz runs.** Wide flexible composite that returns to shape | $9.95 |
+| 🔵 **RPM 81042** | **What the FastAz runs**, picked there for the **OG Jato look**. Flexible composite that returns to shape, but **technically worse for nose recovery** and lower than this one | $9.95 |
 | 🔵 **TRA6736 + TRA6737** | The front and rear Rustler pair, the route if the rear bumper ever gets added | ~$5 |
 | 🔵 **TRA6835** | Slash 4x4 front, **the most protective OEM option**, but big enough to catch the ground and pitch the car over | ~$8 |
 | ❌ ~~**TRA6797**~~ | Rustler front **with LEDs**, and the front is exactly where lights get destroyed | $14.95 |
@@ -58,5 +60,5 @@ All of these bolt to the same Slash 4x4 / Jato 4x4 mount pattern. Mike runs the 
 - **This bumper is why the car needs no arm guards.** The FastAz runs TRA6732 / TRA6733 guards because it has no front bumper covering the front shocks. The Rustler front does that job here, so there is nothing to add. See [`arm_analysis.md`](arm_analysis.md).
 - **Half the 9044 set is spare.** Only the rear plate is used, and the front plate sits in the box, the same as on the FastAz. It is still the cheapest way to get that rear plate, since it is not sold on its own.
 - **Bigger is not automatically better up front.** The TRA6835 protects more, and that is exactly its problem: a large front profile **catches the ground on a nose-first landing and pitches the car end over** before you can power out of it. The Rustler front is the compromise, real shock protection without a face wide enough to dig in.
-- **Bumpers are consumables.** They wear from ground contact, not just crashes, so cheap matters more than tough here. The [extended arms](arm_analysis.md) are the intended fuse on this car, and they bend before the chassis is in danger.
-- 🚧 **No rear bumper is recorded**, only the rear skid. If one goes on, **TRA6737** is the matching Rustler part.
+- **The bumpers double as skid plates, which is why they wear.** The Rustler front here and the RPM on the FastAz both take ground contact, not just crashes, so cheap matters more than tough. The [extended arms](arm_analysis.md) are the intended fuse on this car, and they bend before the chassis is in danger.
+- **There is no separate rear bumper, and none is wanted.** The rear skid does that job. It does not really protect anything any more, but **most of the damage happens up front**, so the rear does not need to. The matching Rustler rear is **TRA6737** if one is ever added.

@@ -1,10 +1,10 @@
 # Bumper Selection — FastAzJato4x4
 
-> **Front: RPM 81042 Wide Front Bumper ($9.95, black), running. Rear: the TRA9044 skid plate ($7 for the front+rear set), the only rear plate that covers the tongue.** The RPM replaces the stock front skid plate outright and carries the mount points for the stock upper bumper if it ever goes back on. **It doesn't fight the throttle-out philosophy** even though it protrudes: it sits far enough forward that **contacting it means the car is already too nose down**, which shouldn't happen while racing. Normal driving never reaches it. Original reasoning for the 9044 set, which still holds for the rear: Sold as a single front+rear set, same part the K939 build already uses. Minimal-profile and dirt-cheap. Counterintuitive logic: gives almost no real impact protection, but **if the nose or tail hits the ground hard enough to matter, the car is going to cartwheel anyway**. A minimal bumper means the chassis end doesn't dig in, gives a chance to **throttle up and recover from a bad landing** instead of pivoting end-over.
+> **Front: RPM 81042 Wide Front Bumper ($9.95, black), running. Rear: the TRA9044 skid plate ($7 for the front+rear set), the only rear plate that covers the tongue.** The RPM replaces the stock front skid plate outright and carries the mount points for the stock upper bumper if it ever goes back on. ⚠️ **It is technically worse for nose recovery**, since it protrudes and can catch on a nose-down landing. **That is accepted on purpose here, for the OG Jato look.** [Mike's Rustler front](../Jato4x4_Mike/bumper_analysis.md) sits higher and has more clearance if recovery ever matters more than the look. Original reasoning for the 9044 set, which still holds for the rear: Sold as a single front+rear set, same part the K939 build already uses. Minimal-profile and dirt-cheap. Counterintuitive logic: gives almost no real impact protection, but **if the nose or tail hits the ground hard enough to matter, the car is going to cartwheel anyway**. A minimal bumper means the chassis end doesn't dig in, gives a chance to **throttle up and recover from a bad landing** instead of pivoting end-over.
 >
 > **You can't skip the bumpers entirely.** **The Traxxas bumpers retain the hinge pins on this chassis family**, without a bumper, the hinge pins migrate out of their bores and the arms come loose. Skipping them isn't a weight-saving option, it's a mechanical failure. They barely save any weight anyway.
 >
-> **Tempting front alternative: Rustler 4x4 front bumper (Traxxas TRA5435)**, slightly larger, doesn't extend past the wheels (or close to it), so it's still recovery-friendly. The blocker is **it's ugly**. Possible solve: **design a custom front wing mount / cosmetic shroud that integrates the Rustler bumper** so it looks intentional rather than retrofitted.
+> **Front alternative: the Rustler 4x4 front bumper (TRA6736)**, slightly larger, doesn't extend past the wheels (or close to it), and **it gives more ground clearance**, which is exactly why [Mike's car](../Jato4x4_Mike/bumper_analysis.md) runs it. **Both bumpers look good, so this was never a looks call**: the RPM stays here because it suits the **OG Jato** look this car is going for.
 
 <p align="center">
   <img src="src/bumpers_rpm_wide_front_81042_black.webp" height="440">&nbsp;<img src="src/bumpers_traxxas_skid_plates_tra9044.jpg" height="440"><br>
@@ -33,7 +33,7 @@
 | **Absorbs impact, doesn't transfer to chassis** | May | Nice for chassis longevity, but the extended FLM arms are the primary fuse, they bend before real chassis damage occurs. This is a "nice to have" not a hard requirement |
 | **Survives most crashes intact** | May | Cheap to replace either way, but fewer trips to the workbench is nice |
 | **Lightweight** | May | Bumpers sit low on the chassis (not the worst place for weight), and skipping them isn't viable for mechanical reasons anyway, small lever to optimize |
-| **Looks intentional** | May | Cosmetics. Rustler front bumper crushes on protection but loses on looks, drives the custom-shroud idea |
+| **Looks intentional** | May | Cosmetics. **This car is going for the OG Jato look**, which is what picks the RPM 81042 over the equally good looking Rustler front |
 
 ---
 
