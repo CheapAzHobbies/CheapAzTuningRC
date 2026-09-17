@@ -122,7 +122,7 @@ The one part that makes this car's route work, and the one bearing here that is 
 
 ⚠️ **A failed bearing does not stay a bearing problem.** The motor itself effectively lasts forever, the bearings do not, and **when one lets go it takes the rotor with it**. That turns a **$1.71** part into a **whole replacement motor**. Mike has already paid **$94.00** for a non-warranty RMA 1412 ([LEDGER](../../LEDGER.md) #83), though 🚧 the cause of that one is not recorded. **This is exactly why the packs get counted**: catching a bearing before it fails is the difference between a $1.71 job and a $94 one.
 
-**How long they last is still an open question.** They went in **~2026-09-06**, first run **2026-09-12**, and the car has run **4 battery packs** on them since. The count is logged in [`maintenance/README.md`](../../maintenance/README.md) until a set actually wears out and turns this into a real interval. See [`motor_analysis.md`](motor_analysis.md#motor-bearing-service).
+**How long they last is still an open question.** They went in **~2026-09-06**, first run **2026-09-12**, and the car has run **4 battery packs** on them since. The count is logged in [`maintenance/README.md`](../../maintenance/README.md) until a set actually wears out and turns this into a real interval. See [`esc_motor_analysis.md`](esc_motor_analysis.md#motor-bearing-service).
 
 ---
 

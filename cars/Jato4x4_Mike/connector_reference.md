@@ -10,7 +10,7 @@
 |---|---|---|
 | **CNHL packs** | **EC5**, 10AWG | The three CNHL packs all use it |
 | **Gens Ace 6300** | **5.0mm bullet** | The odd one out, needs adapting to match the rest |
-| **ESC to motor** | **4.0mm Castle bullets** | Factory fitted on the [combo](esc_analysis.md), nothing to choose |
+| **ESC to motor** | **4.0mm Castle bullets** | Factory fitted on the [combo](esc_motor_analysis.md), nothing to choose |
 | **ESC to battery** | **EC5**, the main connection | Matches the CNHL packs, so most of the fleet plugs straight in. Castle ship the Mamba X bare and recommend **70A+**, and EC5 is good for roughly **120A** |
 
 </div>

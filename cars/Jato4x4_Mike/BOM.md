@@ -23,7 +23,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Total recorded** | **$1094.19** |
 | **Car only, without batteries** | **$808.84** |
 
-> **What the total is missing:** the donor, the shocks, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
+> **What the total is missing:** the donor, the shocks and their oils, the spur and pinion, the CV axle set, and the second FLM arm pair. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -59,7 +59,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Dynamite DYNE4201 marine grease**<br><sub>Note: the rear diff runs this **instead of** oil. 5 oz can, lithium complex with anti-sling</sub> | 1 | Amazon | **$12.00 / can** | [Diffs](differential_analysis.md) |
 | **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>Note: glass-filled nylon, 20.0g each, unchanged from stock</sub> | 1 | Traxxas | **$4.00 / set** | [Housings](gearbox_housing_analysis.md) |
 | **54T spur gear** | 1 | 🚧 not recorded | **🚧** | [Drivetrain](README.md#drivetrain) |
-| **11T 32P pinion** | 1 | 🚧 not recorded | **🚧** | [Motor](motor_analysis.md) |
+| **11T 32P pinion** | 1 | 🚧 not recorded | **🚧** | [Motor](esc_motor_analysis.md) |
 
 ## Suspension
 
@@ -110,10 +110,10 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Castle Mamba X SCT + 1412-3200KV 5mm combo**<br><sub>Note: sensored, 25.2V waterproof ESC and the motor sold as one part, **010-0155-13**. $198.71 plus $12.78 shipping, $211.49 the order, 2025-03-19, educational discount applied, bought by Mike directly. A later non-warranty RMA motor cost **$94.00** ([LEDGER](../../LEDGER.md) #83), not counted here since it replaced this motor rather than adding one</sub> | 1 | Castle Creations, order STD0000000137021 | **$198.71 / combo** | [ESC](esc_analysis.md) |
+| **Castle Mamba X SCT + 1412-3200KV 5mm combo**<br><sub>Note: sensored, 25.2V waterproof ESC and the motor sold as one part, **010-0155-13**. $198.71 plus $12.78 shipping, $211.49 the order, 2025-03-19, educational discount applied, bought by Mike directly. A later non-warranty RMA motor cost **$94.00** ([LEDGER](../../LEDGER.md) #83), not counted here since it replaced this motor rather than adding one</sub> | 1 | Castle Creations, order STD0000000137021 | **$198.71 / combo** | [ESC](esc_motor_analysis.md) |
 | **S605ZZ 5×14×5 ABEC-9 stainless bearings**<br><sub>Note: the motor bearing for the Castle 1412, bought as a 10-pack at $17.06. ⚠️ **unique to this car**, since the FastAz runs a different motor. 🚧 the 1412's other bearing is a different size and is not recorded</sub> | 1 | AliExpress, Bearing Solution Store | **$1.71 each** | [Bearings](bearings_reference.md#the-motor-bearing-s605zz) |
 | **FlySky Noble NB4 radio + FGr4S V2 receiver**<br><sub>Note: gen 1 handset, same radio and same price as the FastAz. List is $175.09</sub> | 1 | AliExpress, Hi-Goeswell | **$140.91 each** | [Radio](radio_analysis.md) |
-| **Motor cooling fan**<br><sub>Note: ⚠️ two metal fans at $6 each are on Mike's ledger, but cooling is not recorded on this car, so they may be for something else</sub> | 🚧 | 🚧 unconfirmed | **🚧** | [Motor](motor_analysis.md) |
+| **Motor cooling fan**<br><sub>Note: ⚠️ two metal fans at $6 each are on Mike's ledger, but cooling is not recorded on this car, so they may be for something else</sub> | 🚧 | 🚧 unconfirmed | **🚧** | [Motor](esc_motor_analysis.md) |
 
 ## Batteries
 

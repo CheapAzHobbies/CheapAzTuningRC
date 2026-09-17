@@ -2,7 +2,7 @@
 
 > ⚠️ **Set the low-voltage cutoff to 3.5V per cell.** HV packs discharge linearly enough that they **still feel strong when nearly empty**, so nothing warns you and the cutoff is the only thing catching it. It costs almost no run time, see [Notes](#notes). (**14.0V across a 4S**, derived, since ESCs are configured per cell.)
 >
-> ⚠️ **4S is the ceiling, not a preference.** The [Castle 1412 in the combo](esc_analysis.md) is rated **2-4S**, and Castle only allow 4S with conservative gearing and an eye on temperatures. Nothing above 4S goes in this car.
+> ⚠️ **4S is the ceiling, not a preference.** The [Castle 1412 in the combo](esc_motor_analysis.md) is rated **2-4S**, and Castle only allow 4S with conservative gearing and an eye on temperatures. Nothing above 4S goes in this car.
 >
 > **Four packs run here and all four fit. The HV ones are the better packs.** Two read oversize against the **152 × 48 × 44mm** envelope and still go in, because **length trades against height**.
 >

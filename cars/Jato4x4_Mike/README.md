@@ -141,11 +141,11 @@ Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (
 | Component | Part |
 |-----------|------|
 | Motor | **Castle Creations 1412 3200KV** |
-| ESC | **Castle Mamba X SCT**, combo **010-0155-13** with the motor, $198.71. ⚠️ **4S max with this motor**, see [`esc_analysis.md`](esc_analysis.md) |
+| ESC | **Castle Mamba X SCT**, combo **010-0155-13** with the motor, $198.71. ⚠️ **4S max with this motor**, see [`esc_motor_analysis.md`](esc_motor_analysis.md) |
 
 **Motor bearing service tracking:** bearings replaced ~2026-09-06, first run on them 2026-09-12, **4 battery packs run since**. Running **S605ZZ 5×14×5 ABEC-9** rather than the stock bearings, which work but burn up quickly ([`bearings_reference.md`](bearings_reference.md#the-motor-bearing-s605zz)). Counted by packs in [`maintenance/README.md`](../../maintenance/README.md), the goal is catching the next replacement before they blow rather than after.
 
-> Motor, gearing and the power-band finding are written up in [`motor_analysis.md`](motor_analysis.md).
+> Motor, gearing and the power-band finding are written up in [`esc_motor_analysis.md`](esc_motor_analysis.md).
 
 ---
 
@@ -155,7 +155,7 @@ Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (
 
 Original intuition was that **higher RPM** = better air control, so chasing the smallest pinion was the obvious move. Real-world finding: **torque matters as much as RPM**, gearing for the **power-band sweet spot** (12T here, not the tiniest pinion) makes mid-air corrections feel just as responsive as the high-RPM theory promised, *and* keeps the motor cooler because it's neither lugging nor screaming.
 
-The on-track observations, the service tracking and the full write-up are in [`motor_analysis.md`](motor_analysis.md). It's also the empirical data point behind the FastAzJato4x4 pinion decision: pinion sizing is **not** purely a top-speed equation.
+The on-track observations, the service tracking and the full write-up are in [`esc_motor_analysis.md`](esc_motor_analysis.md). It's also the empirical data point behind the FastAzJato4x4 pinion decision: pinion sizing is **not** purely a top-speed equation.
 
 ---
 
@@ -179,8 +179,8 @@ Each one is a summary of **what is fitted**, with a link out to the [FastAzJato4
 
 | | | | | |
 |---|---|---|---|---|
-| [Shocks](shock_analysis.md) | [Diffs](differential_analysis.md) | [ESC](esc_analysis.md) | [Chassis](chassis_analysis.md) | [BOM](BOM.md) |
-| [Shock towers](shock_tower_analysis.md) | [Driveshafts](driveshaft_analysis.md) | [Motor](motor_analysis.md) | [Body & aero](aero_analysis.md) | [Bumpers](bumper_analysis.md) |
+| [Shocks](shock_analysis.md) | [Diffs](differential_analysis.md) | [ESC, motor & gearing](esc_motor_analysis.md) | [Chassis](chassis_analysis.md) | [BOM](BOM.md) |
+| [Shock towers](shock_tower_analysis.md) | [Driveshafts](driveshaft_analysis.md) | — | [Body & aero](aero_analysis.md) | [Bumpers](bumper_analysis.md) |
 | [Arms](arm_analysis.md) | [Gearbox housings](gearbox_housing_analysis.md) | [Battery packs](battery_analysis.md) | [Wheels](wheel_analysis.md) | [Connectors](connector_reference.md) |
 | — | [17mm hexes](hub_analysis.md#17mm-wheel-hexes) | [Battery mounting](battery_mount_analysis.md) | [Bell crank](steering_bell_crank_analysis.md) | [Charger](charger_analysis.md) |
 | [Hubs](hub_analysis.md) | [Bearings](bearings_reference.md) | [Radio](radio_analysis.md) | [Tie rods](tie_rod_analysis.md) | [Servo](servo_analysis.md) |
