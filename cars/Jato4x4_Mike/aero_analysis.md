@@ -1,13 +1,60 @@
 # Aero (Wing, Mount + Body) Selection — Jato4x4_Mike
 
-> **Running: the Traxxas Jato body in red and blue, $36.00.**
+> **Running: the Traxxas 9060-BLUE body with the 9517X blue rear wing on 9046 wing mounts.** The wing and mounts are **two of the three parts that turn a Slash 4x4 into a Jato**, along with the [rear tower](shock_tower_analysis.md).
 >
-> **Not the colour that was ordered.** [LEDGER](../../LEDGER.md) #90 is a **green** Jato 4x4 body at **$36.00** (2026-08-22), but **Jenny's RC shipped the wrong one** and the red and blue arrived instead. It stayed on the car, so the receipt and the part are the same purchase, just not the same colour. **The mistake went in their favour:** the red and blue is normally one of the **$43** options, so a $43 body arrived against a $36 order.
+> **The body is not the colour that was ordered.** [LEDGER](../../LEDGER.md) #90 is a **green** Jato 4x4 body at **$36.00** (2026-08-22), but **Jenny's RC shipped the 9060-BLUE instead**. It was kept, so the receipt and the part are the same purchase. **The mistake went in their favour**, since the blue lists around **$43**.
 >
 > **Full comparison of bodies, wings and mounts:** [FastAzJato4x4 aero analysis](../FastAzJato4x4/aero_analysis.md).
 
-| Item | Spec | Price |
+<p align="center"><img src="../FastAzJato4x4/src/body_traxxas_jato4x4_9060blue.jpg" height="200">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517x_blue.jpg" height="200">&nbsp;<img src="src/aero_traxxas_jato4x4_wing_mounts_9046.jpg" height="200"><br><em>What's fitted: <strong>9060-BLUE</strong> body · <strong>9517X</strong> blue rear wing · <strong>9046</strong> Jato 4x4 wing mounts</em></p>
+
+---
+
+## What's fitted
+
+| Item | Part | Price |
 |---|---|---|
-| **Body** | Traxxas Jato, **red and blue**, shipped in error against a green order. 🚧 exact SKU not confirmed | **$36.00 paid** ([LEDGER](../../LEDGER.md) #90). Lists around $43 |
-| **Wing** | **Traxxas TRA9517**, Jato 4x4 / Sledge, in **blue**. One of the three parts that make this a Jato rather than a Slash. 🚧 colour SKU suffix not confirmed | 🚧 price not recorded |
-| **Wing mount** | 🚧 not recorded | 🚧 |
+| **Body** | **Traxxas 9060-BLUE**, pre-painted polycarbonate, the red and blue scheme | **$36.00 paid**, lists ~$43 |
+| **Wing** | **Traxxas 9517X**, blue rear wing **with hardware** | **$16.00 list**, 🚧 paid not recorded |
+| **Wing mounts** | **Traxxas 9046**, Jato 4x4 wing mounts, left and right | **$7.00 list**, 🚧 paid not recorded |
+
+> ⚠️ **Every price on this page is the Traxxas list, not what was paid.** These came from **Jenny's RC**, who discount, so the real figures are lower and are not recorded. The FastAz paying **$13.79** for a TRA9517 against a **$16.00** list is the same effect, and the body is the clearest case: a **$43** blue shipped against a **$36** green order, also from Jenny's RC.
+
+---
+
+## Wing colours
+
+All six are the same wing at **$16.00 list**, and every one **ships with hardware**. Mike runs the **9517X blue**.
+
+<p align="center"><img src="src/aero_traxxas_jato4x4_rear_wing_9517x_blue.jpg" width="150">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517_black.jpg" width="150">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517a_white.jpg" width="150">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517t_orange.jpg" width="150">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517r_red.jpg" width="150">&nbsp;<img src="src/aero_traxxas_jato4x4_rear_wing_9517g_green.jpg" width="150"><br><em><strong>9517X blue, fitted</strong> · 9517 black · 9517A white · 9517T orange · 9517R red · 9517G green</em></p>
+
+| Part | Colour | Price |
+|---|---|---|
+| ⭐ **9517X** | **Blue**, fitted here | $16.00 |
+| **9517** | Black | $16.00 |
+| **9517A** | White | $16.00 |
+| **9517T** | Orange | $16.00 |
+| **9517R** | Red | $16.00 |
+| **9517G** | Green | $16.00 |
+
+> ⚠️ **Plain `9517` is the black one, not a generic part number.** Ordering "9517" gets you black, so the colour suffix matters. The FastAz doc also files a 9517 image as a **Sledge** wing, which is the same number described a different way.
+
+---
+
+## Body colours
+
+The **9060 series is pre-painted and ready to mount**, no trimming. Mike's is the blue.
+
+<p align="center"><img src="../FastAzJato4x4/src/body_traxxas_jato4x4_9060blue.jpg" width="220">&nbsp;<img src="../FastAzJato4x4/src/body_traxxas_jato4x4_9060green.jpg" width="220">&nbsp;<img src="../FastAzJato4x4/src/body_traxxas_jato4x4_9060orange.jpg" width="220">&nbsp;<img src="../FastAzJato4x4/src/body_traxxas_jato4x4_9060pink.jpg" width="220"><br><em><strong>9060-BLUE, fitted</strong> · 9060-GRN · 9060-ORNG · 9060-PINK</em></p>
+
+**The other OEM route is the 9018 series**, same shell in a different graphics scheme, plus **9018X / 9060X ProGraphix** if you want to spray your own colour. Those are compared in the [FastAz body table](../FastAzJato4x4/aero_analysis.md#body-comparison).
+
+---
+
+## Notes
+
+- **This is the stock Jato aero, and that is the point.** The wing and mounts are part of what makes the car a Jato rather than a Slash, so there was nothing to choose: the conversion needs them.
+- **The mounts bolt straight to the Jato rear tower.** Running a separate wing on a *Slash* tower instead needs the Meelobee plate technique, which the [FastAz doc](../FastAzJato4x4/aero_analysis.md) documents. Not relevant here, since this car runs the [Jato 9034 rear tower](shock_tower_analysis.md).
+- **The clipless body issue does not apply here.** The FastAz warns its CF chassis cannot use the clipless latch the 9018 / 9060 bodies rely on. This car keeps the **stock plastic tub**, so the OEM body mounts as intended.
+- **The wing ships with its hardware**, so the list price is the whole job apart from the mounts.
+- **Jenny's RC is the source for the Traxxas parts here**, and they sell below list, so treat every figure on this page as a ceiling rather than a cost.

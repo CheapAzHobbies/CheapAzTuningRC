@@ -23,7 +23,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Total recorded** | **$888.65** |
 | **Car only, without batteries** | **$603.30** |
 
-> **What the total is missing:** the donor, the shocks, the wing, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
+> **What the total is missing:** the donor, the shocks, the radio, the spur and pinion, the Tekno stubs, and the wing and mounts, which came from Jenny's RC at an unrecorded discount off $16.00 and $7.00. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -102,8 +102,9 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Traxxas Jato body, red and blue**<br><sub>Note: a green one was ordered and **Jenny's RC shipped this instead**. Kept, so the $36.00 receipt is this body. Lists around $43. 🚧 SKU not confirmed</sub> | 1 | Jenny's RC, [LEDGER](../../LEDGER.md) #90 | **$36.00 each** | [Aero](aero_analysis.md) |
-| **Traxxas TRA9517 wing**<br><sub>Note: Jato 4x4 / Sledge. One of the three parts that make this a Jato rather than a Slash. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Aero](aero_analysis.md) |
+| **Traxxas 9060-BLUE body**<br><sub>Note: the red and blue scheme. A green was ordered and **Jenny's RC shipped this instead**. Kept, so the $36.00 receipt is this body, and the blue lists around $43</sub> | 1 | Jenny's RC, [LEDGER](../../LEDGER.md) #90 | **$36.00 each** | [Aero](aero_analysis.md) |
+| **Traxxas 9517X blue rear wing**<br><sub>Note: ships with hardware. One of the three parts that make this a Jato rather than a Slash. **$16.00 list**, bought from Jenny's RC who discount, so 🚧 paid not recorded</sub> | 1 | Jenny's RC | **🚧** | [Aero](aero_analysis.md) |
+| **Traxxas 9046 Jato 4x4 wing mounts**<br><sub>Note: left and right. **$7.00 list**, 🚧 paid not recorded</sub> | 1 | Jenny's RC | **🚧** | [Aero](aero_analysis.md) |
 
 ## Electronics
 
