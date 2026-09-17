@@ -17,12 +17,11 @@
 | Item | Part | Price |
 |---|---|---|
 | **Front arms** | **FLM26800**, 6061 aluminum CNC, Made in USA | **$25.73 / pair**, FLM July sale |
-| **Rear arms** | **FLM26800**, the same part again, so the car is extended at all four corners | 🚧 second pair not recorded |
-| **Guards** | **None fitted.** The [Rustler TRA6736 front bumper](bumper_analysis.md) already covers the front | **$0** |
+| **Rear arms** | **FLM26800**, the same part again, so the car is extended at all four corners | **$25.73 / pair**, the same July sale rate |
 
 </div>
 
-> 🚧 **Only one pair is on the books.** [LEDGER](../../LEDGER.md) #85 records **one** FLM26800 pair at **$25.73**, Mike's share of a 4-pair bulk order (#4658). Running them front **and** rear takes **two** pairs, so **the second pair has no receipt in this repo**. The [BOM](BOM.md#suspension) counts only the recorded pair rather than guessing at a second $25.73.
+> **Two pairs, both at the July sale rate.** Running them front **and** rear takes **two** pairs, so the arms cost **$51.46** in total. [LEDGER](../../LEDGER.md) #85 records the first at **$25.73**, Mike's share of the 4-pair bulk order (#4658). 🚧 **The second pair has no separate receipt in this repo**, but it went at the same **$25.73**, so the [BOM](BOM.md#suspension) counts both.
 
 ---
 
@@ -42,11 +41,13 @@ All of these share the **TRA3655 hinge pin and mount pattern**, so any of them b
 | 🔵 **TRA3655** | Stock length, original nylon | $9.99 / pair |
 | 🚫 ~~**TRA3655R**~~ | Stock length HD, **discontinued** | $12.00 / pair |
 | 🚫 ~~**PRO6082-01**~~ | ProTrac nylon, same +10mm, **discontinued** | $13.75 / pair |
-| ❌ ~~**RPM80702**~~ | Stock length, **warps just sitting in storage** | N/A |
+| ❌ ~~**RPM80702**~~ | Stock length, **warps just sitting in storage** | $11.99 / pair |
 
 </div>
 
 > **Stiffest to floppiest:** FLM26800 aluminum, then TRA3655X, TRA3655, TRA3655-BLK, and RPM last. Stiffer steers sharper, flexier survives better, which is the whole trade.
+>
+> ⚙️ **Metal arms are usually looked down on, and here they are the only option.** If you want the extra track width there is nothing else left: the nylon **PRO6082-01** reached the same **+10mm** and is **discontinued**, so the FLM is what remains. **The metal is a consequence of chasing track width, not a preference for metal.**
 
 ---
 
@@ -56,7 +57,7 @@ All of these share the **TRA3655 hinge pin and mount pattern**, so any of them b
 
 | Date | Price | Discount Path | Notes |
 |:---|:---|:---|:---|
-| 2026-07-02 | **$25.73 / pair** ✅ **purchased** | **FLM July 1st sale, 25% off** ($30 to $22.50/pair before shipping) | One pair from a 4-pair bulk order, FLM order #4658, $102.90 the order. Booked to Mike as [LEDGER](../../LEDGER.md) #85. 🚧 **the second pair on this car is not part of that order** and has no receipt. Annual sale, see [`Deals/flm_july_sale_2026.md`](../../Deals/flm_july_sale_2026.md) |
+| 2026-07-02 | **$25.73 / pair** ✅ **purchased** | **FLM July 1st sale, 25% off** ($30 to $22.50/pair before shipping) | One pair from a 4-pair bulk order, FLM order #4658, $102.90 the order. Booked to Mike as [LEDGER](../../LEDGER.md) #85. 🚧 **the second pair on this car is not part of that order** and has no separate receipt, though it went at the same $25.73 sale rate. Annual sale, see [`Deals/flm_july_sale_2026.md`](../../Deals/flm_july_sale_2026.md) |
 
 </div>
 

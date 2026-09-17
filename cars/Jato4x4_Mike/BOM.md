@@ -13,17 +13,17 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Donor Car](#donor-car) | 🚧 not recorded |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
 | [Drivetrain](#drivetrain) | $129.19 |
-| [Suspension](#suspension) | $31.73 |
+| [Suspension](#suspension) | $57.46 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
 | [Steering](#steering) | $51.63 |
 | [Wheels & Tires](#wheels--tires) | $48.18 |
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $341.33 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$1094.19** |
-| **Car only, without batteries** | **$808.84** |
+| **Total recorded** | **$1119.92** |
+| **Car only, without batteries** | **$834.57** |
 
-> **What the total is missing:** the donor, the shocks and their oils, the spur and pinion, the CV axle set, and the second FLM arm pair. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
+> **What the total is missing:** the donor, the shocks and their oils, the spur and pinion, and the CV axle set. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -65,7 +65,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **FLM26800 extended arms**<br><sub>Note: Slash / Jato 4x4 fitment, his share of a 4-pair bulk order at $25.725/pair, FLM July sale. ⚠️ **the car runs these front and rear, which takes two pairs**, and only this one is on the books</sub> | 1 | FLM, order #4658 | **$25.73 / pair** | [Arms](arm_analysis.md) |
+| **FLM26800 extended arms**<br><sub>Note: Slash / Jato 4x4 fitment, **two pairs, front and rear**, both at the FLM July sale rate. The first is his share of the 4-pair bulk order #4658; 🚧 the second has no separate receipt but went at the same $25.73</sub> | 2 | FLM, order #4658 | **$25.73 / pair** | [Arms](arm_analysis.md) |
 | **HPI Apache C1 big bore shocks**<br><sub>Note: part **107365**, 16mm bore, 97mm, plastic body. Internally identical to the Hot Bodies D8 the FastAz runs. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shocks](shock_analysis.md) |
 | **Traxxas TRA9034 Jato 4x4 rear shock tower**<br><sub>Note: puts the shocks at the back rather than mid-chassis. Front tower 🚧 not recorded, the Jato front is TRA9033 at the same price</sub> | 1 | Traxxas | **$6.00 each** | [Towers](shock_tower_analysis.md) |
 | **Losi TLR74030 37.5wt shock oil**<br><sub>Note: front. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shock oil](README.md#shock-oil) |
