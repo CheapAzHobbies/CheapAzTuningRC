@@ -44,7 +44,7 @@
 
 ## Chassis bracing
 
-The centre brace spans the tub and bolts to a **brace mount** at each end. Every option below is the **same functional part in a different material**, so this is a material choice, not a parts list.
+The centre brace spans the tub and bolts to a **brace mount** at each end. Every option below is the **same functional part in a different material**, so treat this as a material choice rather than a parts list.
 
 > **Running here: the steel VG-style brace.** **Recommended: the $6 plastic Traxxas 9024.** Those are deliberately different answers. The plastic one is **a bit more durable in practice and, crucially, it will not break the brace mounts.** Steel wins the brace and loses the mount behind it, which is the more expensive half.
 
@@ -52,7 +52,7 @@ The centre brace spans the tub and bolts to a **brace mount** at each end. Every
 
 > ⚠️ **Buy the mounts with it.** The **Jato OE brace needs its brace mounts separately**, Traxxas **9025** at **$7.00** on top. The HCG **6730** kit is the exception, it bundles its mounts. Budget the mounts unless you already have good ones.
 
-> ⚠️ **The Slash 4x4 came with no brace at all.** That matters here because [this car started as a running Slash](README.md#car-overview), so there was never an OE brace on it to replace, it was **added**. The brace that "breaks often" is the **Jato** OE part, not a Slash one. **If you build this from a Slash donor, treat the brace as a required purchase rather than an upgrade**, and check whether the **9025 mounts** are even on the car before assuming you only need the bar.
+> ⚠️ **The Slash 4x4 came with no brace at all.** That matters here because [this car started as a running Slash](README.md#car-overview), so there was never an OE brace on it to replace, it was **added**. The brace that "breaks often" is the **Jato** OE part; the Slash shipped bare. **If you build this from a Slash donor, treat the brace as a required purchase rather than an upgrade**, and check whether the **9025 mounts** are even on the car before assuming you only need the bar.
 
 > *Spec format: Material · CG · Fits · Includes · Weight · Price*
 
@@ -92,9 +92,10 @@ The centre brace spans the tub and bolts to a **brace mount** at each end. Every
 ## Notes
 
 - ⚠️ **This car is LCG, and that constrains what fits.** The VG Racing brace is **LCG only and will not fit HCG**, and the [LCG bulkheads](../FastAzJato4x4/chassis_analysis.md#bulkheads-front--rear) are the same. Confirmed three ways: the **7422 LCG chassis** and the **7477 LCG spur cover** in the [LEDGER](../../LEDGER.md), and the brace fitting at all. **Check LCG vs HCG before ordering anything for this chassis.**
+- **The LCG part numbers worth having to hand.** The tub is **7422** (or **7422A**), the front bulkhead is **7430X**, the rear is **7429**, and **7421** is the full conversion kit if you are coming from a standard chassis. Bulkheads are **$6.00** each. ⚠️ **The HCG equivalents are different parts**, front **6830X** and rear **6829**, also $6.00, and **the two families never interchange**. Both are sold as "front bulkhead", so order by number rather than name. The full table is in the [FastAz bulkhead section](../FastAzJato4x4/chassis_analysis.md#bulkheads-front--rear). 🚧 Both bulkheads on this car came with the donor, so these are reference numbers rather than purchases.
 - **Plastic plus two steel/alloy parts is the honest cheap route.** The **front bulkhead** and the **upper brace** are the two things that actually break, so those are the two things bought. Everything else stays stock. Anyone pricing a Jato build should look at this before a carbon kit.
 - **Start from a running Slash 4x4.** It is the same platform, so the chassis, bulkheads and brace all transfer. Only the **towers, shocks and wing** have to be bought to make it a Jato 4x4, which is the cheapest route onto this platform.
-- **The brace is an addition on this car, not a replacement.** The **Slash 4x4 shipped without one**, so the donor arrived with nothing to swap out. On a Jato it is a replacement, because that OE brace breaks. Either way you buy one.
+- **The brace is an addition on this car.** The **Slash 4x4 shipped without one**, so the donor arrived with nothing to swap out. On a Jato it is a replacement, because that OE brace breaks. Either way you buy one.
 - **Fitted is not the same as recommended.** This car runs the **steel** brace; the recommendation is the **$6 plastic 9024**, because the plastic gives up before the **9025 mounts** do. Steel protects the chassis and loads the mounts instead.
 - **Metal arms require the alloy bulkhead.** FLM arms strip a plastic bulkhead, which is exactly why the alloy front matters here. See the [FastAz arm analysis](../FastAzJato4x4/arm_analysis.md).
 - **This decision propagates.** The moulded tray and hold-down posts are chassis features, so the [battery bar geometry](battery_mount_analysis.md) is unique to this car and does not transfer to the FastAz in either direction.
