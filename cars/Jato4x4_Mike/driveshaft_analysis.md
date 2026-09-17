@@ -18,7 +18,7 @@
 
 | Item | Spec | Price |
 |---|---|---|
-| **CV driveshafts** | Knock-off **Slash / Jato 4x4 HD steel CV** set, TRA6851R + TRA6852R clones | 🚧 not recorded here, the FastAz paid **$21.10 / set of 4** |
+| **CV driveshafts** | Knock-off **Slash / Jato 4x4 HD steel CV** set, TRA6851R + TRA6852R clones | **$21.10 / set of 4** |
 | **Output shafts** | Traxxas 6752 long | **$32.00 / set of 4** |
 | **Hub bearing** | Bare **10×18×5**, hexes shaved to clear it, see [`bearings_reference.md`](bearings_reference.md) | $1.45 each |
 | **Centre driveshaft** | **Traxxas 6855-BLUE**, 6061-T6 aluminium, one piece, **214mm**, with its own hardware | **$10.00**, Tammies Hobbies |
