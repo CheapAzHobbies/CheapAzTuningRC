@@ -47,12 +47,14 @@ All of these bolt to the same Slash 4x4 and Jato 4x4 mount pattern. Mike runs th
 | 🔵 **RPM 81042** | What the FastAz runs, picked there for the **OG Jato look**. Flexible composite that springs back into shape. Sits lower and gives up some nose recovery | $9.95 |
 | 🔵 **TRA6736 + TRA6737** | The front and rear Rustler pair, the route if a rear bumper ever goes on | ~$5 |
 | 🔵 **TRA6835** | Slash 4x4 front, **the most protective OEM option here**, with a face wide enough to catch the ground and pitch the car over | ~$8 |
-| ❌ ~~**TRA6797**~~ | Rustler front with **LEDs mounted where the hits land** | $14.95 |
-| ❌ ~~**TRA6736X**~~ | The LED bumper and support version, one character from the part you want | $10.00 |
+| ❌ ~~**TRA6797**~~ | The same Rustler front **with LEDs built in**. Needs the **TRA6588** power supply on top | $14.95 |
+| ❌ ~~**TRA6736X**~~ | LED bumper **and** support, and it takes the **6795** light kit. One character from the part you want | $10.00 |
 
 </div>
 
-> ⚠️ **TRA6736X is the LED version of TRA6736.** The front takes direct hits and lights mounted there break early, which rules both LED parts out.
+> 💡 **The same bumper comes with lights if you want them.** **TRA6797** is the Rustler front with LEDs at **$14.95**, and it needs the **TRA6588** power supply on top. **TRA6736X** is the LED bumper and support at **$10.00**, and it takes the **6795** light kit. Both bolt up the same as the plain one.
+>
+> ⚠️ **They are off this car for one reason: the front is where the hits land**, and lights mounted there break early. Worth knowing before you spend the extra, and worth watching the part number either way, since **TRA6736X sits one character from the TRA6736** you probably meant to order.
 
 ---
 
