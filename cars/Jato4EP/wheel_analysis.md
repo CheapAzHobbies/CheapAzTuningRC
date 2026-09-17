@@ -40,6 +40,10 @@
 
 **Result: more stability and more corner grip.** It worked well enough that it is the setup this car keeps.
 
+<p align="center"><img src="src/overview_jato4ep_vs_stock_jato_track_width.jpg" width="600"><br><em>This car on top, <strong>Henry's basically stock Jato underneath</strong>. The gap is close to <strong>a whole wheel width per side</strong>, which is what the wide rim buys</em></p>
+
+> **A stock car parked next to it is the clearest evidence there is.** It still is not a measurement, so the 🚧 below stands, but it does show the change is obvious rather than imagined.
+
 > **Wear-in matters, do not judge them fresh.** These RedSpider tires take about **7 battery packs of running** to fully wear in before they reach their best grip. A fresh set feels worse than a worn one.
 
 ---

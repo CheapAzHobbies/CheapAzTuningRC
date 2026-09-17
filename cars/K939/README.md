@@ -28,6 +28,19 @@ Twin motor, roughly equivalent to a Slash 4x4 HCG platform.
 
 ---
 
+<p align="center"><img src="src/overview_k939_current.jpg" width="600"><br><em>The K939 as it runs now</em></p>
+
+### The 2018 build
+
+**Same car, seven years earlier**, on a Pro-Line Bronco short course body with the older electronics still in it. Worth keeping because it shows what changed and what was learned.
+
+<p align="center"><img src="src/overview_k939_2018_proline_bronco_body.jpg" height="190">&nbsp;<img src="src/electronics_k939_twin_motor_closeup.jpg" height="190">&nbsp;<img src="src/overview_k939_2018_tub_electronics.jpg" height="190">&nbsp;<img src="src/overview_k939_stock_shocks_bg_racing_springs.jpg" height="190"><br><em>Pro-Line Bronco body · the twin motors up close · the tub with everything in it, both ESCs visible · stock shocks on BG Racing springs</em></p>
+
+- **Twin motors and twin ESCs**, which is the one thing that has not changed.
+- **Steering was the JX Ecoboost, the 21kg one.** The cross-brand comparison lives in [`servos/README.md`](../../servos/README.md).
+- **The radio was a FlySky GT3B**, the first controller I owned.
+- ⚠️ **Stock shocks on BG Racing springs, and that was a mistake.** At the time I thought a heavier spring simply meant a better one. It was mostly running on the street back then, which is the only reason it did not feel as bad as it was. Spring rate is matched to the car and the surface, not ranked.
+
 ## Track & Setup Philosophy
 
 **Track:** Meldrum Bar Park  

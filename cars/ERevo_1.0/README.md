@@ -30,6 +30,8 @@
 
 ---
 
+<p align="center"><img src="src/overview_erevo_current.jpg" height="230">&nbsp;<img src="src/overview_erevo_og_body_mismatched_tires.jpg" height="230"><br><em>Current state · an earlier patched up run on the <strong>original Revo body, painted by hand</strong>, wearing <strong>two mismatched wheels</strong>, one black and one green on a different tread, after a rough day</em></p>
+
 ## Track & Setup Philosophy
 
 Set up for **Meldrum Bar Park** — an **unkept, loose, dusty, low-grip dirt track** (not groomed; only the ramps and potholes get fixed now and then, and it can turn **grippy when wet**) where this E-Revo is **actively raced**, plus occasional **beach** running. Part choices favor **durability over light weight**, with **corrosion resistance** for the beach days: stainless steel rods, plastic rod ends, alloy rockers that don't crack, and heavy shock oil for consistent damping. Rinse and dry after beach runs to keep salt out of the bearings. **Tire choice for this low-grip surface is in [`tire_analysis.md`](tire_analysis.md).**
@@ -130,6 +132,8 @@ Moved to the motor doc. See [`esc_motor_analysis.md` → Gearing](esc_motor_anal
 **Body posts:** **Traxxas 8614 clipless body posts, front & rear** (E-Revo VXL BL) — **in hand** ($5, PowerHobby). Bought to run clipless mounting on an OG-style body.
 
 ---
+
+<p align="center"><img src="src/aero_erevo_wing_mount_drill_points.jpg" width="420"><br><em>Where the holes go for the wing mount</em></p>
 
 ## Tires & Wheels
 

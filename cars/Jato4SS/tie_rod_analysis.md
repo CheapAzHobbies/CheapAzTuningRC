@@ -123,6 +123,26 @@ Already chosen and in hand: **GPM RUS416026ST-S ($7.61),** spring-steel turnbuck
 - **Center-to-center is set by the rod ends, not the rod.** Thread the RPM rod ends in/out to hit the ~96mm and the target toe (front) / camber (front + rear). The bare rod length just has to be in the right ballpark, which 60mm is.
 - **RPM long rod ends add reach** so the assembled center-to-center covers the wider FLM front track (+9.6mm/side, see [`arm_analysis.md`](arm_analysis.md#notes)) without the ends threaded out to their limit.
 
+### Measured, on the stock links
+
+**These are the numbers the rod choice came from.** Three stock links were measured twice each, once as a bare rod and once assembled ball to ball, which is what turned "~61mm / ~96mm" from a Traxxas spec into something checked.
+
+<p align="center"><img src="src/steering_camber_link_measurements_collage.jpg" width="700"><br><em>Top row, the bare rods. Bottom row, the same links assembled. Columns are <strong>ST Link</strong> · <strong>CAM Link</strong> · <strong>ST Link 2</strong></em></p>
+
+<div align="center">
+
+| Link | Bare rod, tip to tip | Assembled, ball to ball |
+|:---|:---|:---|
+| **ST Link** | **60.93mm** | **97.57mm** |
+| **CAM Link** | **60.92mm** | **88.36mm** |
+| **ST Link 2** | **60.83mm** | **93.92mm** |
+
+</div>
+
+> **This is the proof that one rod length covers all six.** The three bare rods land within **0.1mm** of each other at ~60.9mm, while assembled they spread over **9mm**. The rod is the same part every time and the rod ends absorb the difference, exactly as the table above claims. It is also why **M4x60 titanium drops straight in**: 60mm sits inside a spread the ends already cover.
+>
+> ⚠️ **Overall length was measured too and then thrown out.** Tip to tip on an assembled link read about **10mm longer** than ball to ball on all three, because it includes the rod end bodies past the pivots. That number sets nothing on the car, so only the two columns above are kept.
+
 ---
 
 ## Price History
