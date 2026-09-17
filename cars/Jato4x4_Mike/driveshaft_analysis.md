@@ -22,8 +22,8 @@
 | **Joiner** | M6 × 30mm 304-SS hex standoff | **$4.36 / 5 pc** |
 | **Output shafts** | Traxxas 6752 long | **$32.00 / set of 4** |
 | **Hub bearing** | Bare **10×18×5**, hexes shaved to clear it, see [`bearings_reference.md`](bearings_reference.md) | $1.45 each |
-| **Centre driveshaft** | **Traxxas TRA6855**, 6061-T6 aluminium, one piece, **214mm**, with its own hardware | **$10.00 list**, 🚧 paid not recorded |
-| **Stubs** | **Tekno**, front **TKR1654-17**, rear **5580**, same as the FastAz | 🚧 price not recorded |
+| **Centre driveshaft** | **Traxxas 6855-BLUE**, 6061-T6 aluminium, one piece, **214mm**, with its own hardware | **$10.00**, Tammies Hobbies |
+| **Stubs** | **Tekno**, front **TKR1654-17**, rear **5580**, same as the FastAz | **$19.99 + $16.90 / pair** |
 | **17mm hexes** | Aftermarket **E-Revo 1.0 fit splined hubs**, shaved to clear the big bearing | **$8.36 / set of 4** |
 
 </div>
@@ -34,14 +34,14 @@
 
 **This is the one drivetrain part where the two cars genuinely differ.** The FastAz runs a **plastic 7455 take-off** it got for $2.49; this car runs the **alloy 6855**. One piece of **6061-T6**, **214mm**, with **internal splines that fit straight onto the front and rear drive assembly input shafts**, which is what takes the play out of the driveline. **The centre bearing bushing is included**, so there is nothing else to buy.
 
-<p align="center"><img src="src/drivetrain_traxxas_center_driveshaft_6855_red.jpg" width="150">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855_blue.jpg" width="150">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855_green.jpg" width="150">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855x_orange.jpg" width="150"><br><em>6855-RED · 6855-BLUE · 6855-GRN · 6855X-ORNG</em></p>
+<p align="center"><img src="src/drivetrain_traxxas_center_driveshaft_6855_red.jpg" width="150">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855_blue.jpg" width="150">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855_green.jpg" width="150">&nbsp;<img src="src/drivetrain_traxxas_center_driveshaft_6855x_orange.jpg" width="150"><br><em>6855-RED · <strong>6855-BLUE, fitted</strong> · 6855-GRN · 6855X-ORNG</em></p>
 
 <div align="center">
 
 | Part | Colour | Price |
 |---|---|---|
+| ⭐ **6855-BLUE** | **Blue, fitted here.** ⚠️ currently **out of stock** at Traxxas | **$10.00 paid** |
 | **6855-RED** | Red | $10.00 |
-| **6855-BLUE** | Blue, ⚠️ **out of stock** | $10.00 |
 | **6855-GRN** | Green | $10.00 |
 | **6855X-ORNG** | Orange, ⚠️ **note the different prefix** | $10.00 |
 
@@ -49,7 +49,7 @@
 
 > ⚠️ **There is no plain "6855" to order.** Every one of them carries a colour suffix, so **the bare part number will not get you a shaft**, the same trap as the [9517 wing](aero_analysis.md#wing-colours). **Orange is the odd one out again**, listed as **6855X**-ORNG rather than 6855-ORNG, so it is one character away from the others.
 >
-> 🚧 **Which colour is on this car is not recorded**, only that it is the alloy 6855. The **$10.00 is the Traxxas list price**, not a receipt, so the [BOM](BOM.md#drivetrain) does not count it.
+> **Mike runs the blue.** Bought from **Tammies Hobbies for $10.00**, which is list price, so there was nothing lost by not shopping around. ⚠️ **6855-BLUE is the one colour currently out of stock at Traxxas**, so replacing it may mean taking a different colour.
 
 ---
 

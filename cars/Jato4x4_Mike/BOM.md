@@ -12,7 +12,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|
 | [Donor Car](#donor-car) | 🚧 not recorded |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
-| [Drivetrain](#drivetrain) | $105.41 |
+| [Drivetrain](#drivetrain) | $152.30 |
 | [Suspension](#suspension) | $31.73 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
 | [Steering](#steering) | $51.63 |
@@ -20,8 +20,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $200.42 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$917.86** |
-| **Car only, without batteries** | **$632.51** |
+| **Total recorded** | **$964.75** |
+| **Car only, without batteries** | **$679.40** |
 
 > **What the total is missing:** the donor, the shocks, the radio, the spur and pinion, and the Tekno stubs. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
 
@@ -52,8 +52,9 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Knock-off E-Revo CVD 5451R axle set**<br><sub>Note: cut and shortened into the custom axles shared with the FastAz</sub> | 1 | AliExpress, Pretty GEM | **$18.75 / set** | [Driveshafts](../FastAzJato4x4/driveshaft_analysis.md#shortening--joining-e-revo-cvds-custom-axles-wip) |
 | **M6 × 30mm 304-SS hex standoff**<br><sub>Note: the coupling that joins the two chopped CVD ends</sub> | 1 | CLOXY Hardware | **$4.36 / 5 pc** | [Driveshafts](../FastAzJato4x4/driveshaft_analysis.md) |
 | **Traxxas 6752 long output shafts** | 1 | [LEDGER](../../LEDGER.md) #87 | **$32.00 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
-| **Traxxas TRA6855 aluminium centre driveshaft**<br><sub>Note: 6061-T6, one piece, **214mm**, includes the centre bearing bushing. ⚠️ TRA6755 is the 189mm Rustler shaft, wrong fit. ⚠️ every 6855 carries a colour suffix, there is no bare part number. **$10.00 list**, 🚧 paid not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Driveshafts](driveshaft_analysis.md) |
-| **Tekno stubs, TKR1654-17 front + 5580 rear**<br><sub>Note: same stubs as the FastAz. 🚧 price not recorded for this car</sub> | 1 | 🚧 not recorded | **🚧** | [Driveshafts](driveshaft_analysis.md) |
+| **Traxxas TRA6855 aluminium centre driveshaft**<br><sub>Note: 6061-T6, one piece, **214mm**, includes the centre bearing bushing. ⚠️ TRA6755 is the 189mm Rustler shaft, wrong fit. ⚠️ every 6855 carries a colour suffix, there is no bare part number. **Mike runs 6855-BLUE**, which is currently out of stock at Traxxas</sub> | 1 | Tammies Hobbies | **$10.00 each** | [Driveshafts](driveshaft_analysis.md) |
+| **Tekno TKR1654-17 front stubs**<br><sub>Note: same part and price as the FastAz. 🚧 whether he ordered separately is not recorded</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Driveshafts](driveshaft_analysis.md) |
+| **Tekno 5580 rear stubs**<br><sub>Note: his pair out of the FastAz's 2-pair order, $33.80 for both, so $16.90 each</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA5136 30k diff oil**<br><sub>Note: front. 🚧 price is the FastAz purchase of the same bottle; whether Mike bought his own is not recorded</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Dynamite DYNE4201 marine grease**<br><sub>Note: the rear diff runs this **instead of** oil. 5 oz can, lithium complex with anti-sling</sub> | 1 | Amazon | **$12.00 / can** | [Diffs](differential_analysis.md) |
@@ -139,7 +140,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | **Radio** | FlySky NB4 gen 1 with the FGr4S V2, same as the FastAz, but no price recorded |
 | **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
 | ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |
-| **Bare Jato rims, shock oils, Tekno stubs** | Small money, but they round the list out. The 17mm hexes are no longer a gap: they are the aftermarket E-Revo hubs at $8.36 |
+| **Bare Jato rims and shock oils** | Small money, but they round the list out. The 17mm hexes are no longer a gap: they are the aftermarket E-Revo hubs at $8.36 |
 
 ---
 
