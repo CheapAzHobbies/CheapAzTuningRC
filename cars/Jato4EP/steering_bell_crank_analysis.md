@@ -4,7 +4,7 @@
 >
 > **Full comparison, including why the FastAz swapped its bellcrank bearings for Oilite bushings:** [FastAzJato4x4 bell crank analysis](../FastAzJato4x4/steering_bell_crank_analysis.md).
 
-<p align="center"><img src="../FastAzJato4x4/src/steering_gpm_aluminum_bell_crank_6845x.jpg" height="200">&nbsp;<img src="../FastAzJato4x4/src/steering_traxxas_stock_bell_crank_tra6845x.jpg" height="200"><br><em><strong>GPM aluminum bell crank, fitted</strong> · the stock Traxxas TRA6845X plastic assembly it replaced</em></p>
+<p align="center"><img src="../FastAzJato4x4/src/steering_gpm_aluminum_bell_crank_6845x.jpg" width="448"><br><em><strong>GPM aluminum bell crank</strong>, fitted in place of the stock Traxxas assembly</em></p>
 
 <div align="center">
 
