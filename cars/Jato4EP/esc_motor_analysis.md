@@ -12,6 +12,18 @@
 
 ---
 
+## Table of Contents
+
+- [What's running](#whats-running) — the Mamba X SCT combo as fitted
+- [The gearing finding](#the-gearing-finding) — torque vs RPM for air control, and the power-band pinion
+- [Specs worth having to hand](#specs-worth-having-to-hand) — ESC and motor numbers
+- [Motor bearing service](#motor-bearing-service) — two bearings every service
+- [Motor cooling](#motor-cooling) — the dual metal fan heatsink
+- [Price History](#price-history) — what was paid and when
+- [Notes](#notes)
+
+---
+
 ## What's running
 
 <div align="center">

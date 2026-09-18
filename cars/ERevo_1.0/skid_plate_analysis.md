@@ -1,4 +1,4 @@
-# Skid Plate Analysis — E-Revo 1.0
+# Skid Plate Selection — E-Revo 1.0
 
 > **Decision: Traxxas 5337 Skid Plate Set, Revo (plastic, front + rear).** Replaces the NEW ENRON metal set, both ends of which have now failed: front bent on first hit, rear wore through after ~4 months. Plastic is a cheap wear item — no need for metal here.
 
@@ -6,12 +6,25 @@
 
 ## Table of Contents
 
+- [Key Requirements](#key-requirements)
+- [Damping fixed the wear rate, 2026-08](#damping-fixed-the-wear-rate-2026-08)
 - [Why switch from metal to plastic](#why-switch-from-metal-to-plastic)
 - [Traxxas 5337 — what you get](#traxxas-5337--what-you-get)
 - [Installation notes](#installation-notes)
 - [Price & sourcing](#price--sourcing)
 - [Alternatives considered](#alternatives-considered)
 - [Notes](#notes)
+
+---
+
+## Key Requirements
+
+| Requirement | Type | Why |
+|---|---|---|
+| **Fits the Revo 1.0, front + rear** | Must | Both ends need a plate |
+| **Flexes instead of bending** | Must | The metal front bent on the first hard hit and stopped protecting |
+| **Cheap to replace** | Must | Skid plates are a wear item |
+| **Light** | May | Less weight, though it is chassis-mounted |
 
 ---
 
@@ -82,9 +95,9 @@ I was running a **NEW ENRON Aluminum #5337 metal skid plate** (purchased $18.64,
 
 | Option | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ❌ ~~**NEW ENRON Aluminum #5337 (metal)**~~ | **Type:** aluminum skid plate set<br>**Material:** aluminum<br>**Position:** front + rear<br>**Fits:** Revo / E-Revo<br>**Includes:** front + rear<br>**Weight:** N/A<br>**Price:** $18.64 (purchased May 10, 2026) | Pro: Looks tough, feels protective<br><br>Con: **Both ends failed.** Front **bent permanently on the first hard hit**. Rear didn't bend but **wore through after ~4 months (~121 days)**, retired 2026-09-08. Heavier and more expensive than plastic for a shorter service life | <img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="250"><br><em>Bent NEW ENRON Aluminum #5337 front skid plate</em><br><br><img src="src/bumper_new_enron_5337_skid_plate_metal_set.png" width="250"><br><em>NEW ENRON Aluminum Front & Rear Skid Plate #5337 (silver)</em> |
-| ❌ ~~**RPM skid plate**~~ | **Type:** RPM nylon skid plate<br>**Material:** nylon<br>**Position:** N/A<br>**Fits:** Revo / E-Revo<br>**Includes:** N/A<br>**Weight:** N/A<br>**Price:** N/A | Pro: RPM makes tough nylon parts<br><br>Con: **Not available for Revo** (RPM doesn't make a Revo skid plate) | — |
 | ⭐ **Traxxas 5337 (plastic)** — *chosen* | **Type:** plastic skid plate set<br>**Material:** nylon / plastic<br>**Position:** front + rear<br>**Fits:** Revo 1.0, 2.0, 3.3<br>**Includes:** front + rear<br>**Weight:** N/A<br>**Price:** ~$8 / set | Pro: Cheap, flexible, includes both front + rear, easy to replace<br><br>Con: None for this use case | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="250"><br>🚧 save as `src/bumpers_traxxas_5337_skid_plate_plastic.jpg` |
+| ❌ ~~**NEW ENRON Aluminum #5337 (metal)**~~ | **Type:** aluminum skid plate set<br>**Material:** aluminum<br>**Position:** front + rear<br>**Fits:** Revo / E-Revo<br>**Includes:** front + rear<br>**Weight:** N/A<br>**Price:** $18.64 (purchased May 10, 2026) | Pro: Looks tough, feels protective<br><br>Con: **Both ends failed.** Front **bent permanently on the first hard hit**. Rear didn't bend but **wore through after ~4 months (~121 days)**, retired 2026-09-08. Heavier and more expensive than plastic for a shorter service life | <img src="src/bumper_traxxas_5337_skid_plate_bent_metal_IMG_2126.jpg" width="250"><br><em>Bent NEW ENRON Aluminum #5337 front skid plate</em><br><br><img src="src/bumper_new_enron_5337_skid_plate_metal_set.png" width="250"><br><em>NEW ENRON Aluminum Front & Rear Skid Plate #5337 (silver)</em> |
+| ❌ ~~**RPM skid plate**~~ | **Type:** RPM nylon skid plate<br>**Material:** nylon<br>**Position:** N/A<br>**Fits:** Revo / E-Revo<br>**Includes:** N/A<br>**Weight:** N/A<br>**Price:** N/A | Pro: RPM makes tough nylon parts<br><br>Con: **Not available for Revo** (RPM doesn't make a Revo skid plate) | <img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/bumper_rpm_skid_plate.jpg` |
 
 ---
 
