@@ -20,7 +20,7 @@
 
 </div>
 
-**The Jato 4EP is not a car you can buy.** It started as a **totally clapped out Traxxas Slash 4x4, bought off Facebook for $100** sometime before 2018, and it has been rebuilt part by part into a 4S Jato 4x4. Nearly every setting on it was worked out here first and then handed to its faster sibling, the [Jato 4SS](../Jato4SS/README.md). **This is the original and that one is the copy.** What follows is what is fitted, what it cost, and the handful of changes that actually mattered.
+**The Jato 4EP is not a car you can buy.** It started as a **totally clapped out Traxxas Slash 4x4, bought off Facebook for $100** sometime before 2018, and it has been rebuilt part by part into a 4S Jato 4x4. **4EP is the 4 Wheel Engineering Prototype**, and the name is the job: nearly every setting was worked out here first, then handed on. **The [Jato 4SS](../Jato4SS/README.md) is its successor**, a faster car built on answers this one found. This is where the work happened; that is where it ended up. What follows is what is fitted, what it cost, and the handful of changes that actually mattered.
 
 <p align="center"><img src="src/overview_jato4ep_vs_stock_jato_track_width.jpg" width="620"><br><em><strong>This car on top, a basically stock Jato underneath.</strong> Close to a whole wheel width per side, which is the single best change made to it</em></p>
 

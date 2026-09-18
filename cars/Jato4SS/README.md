@@ -43,6 +43,13 @@
 </p>
 
 <p align="center">
+  <b>&#9656; THE SUCCESSOR TO THE <a href="../Jato4EP/README.md">JATO 4EP</a> &#9662;</b><br>
+  <i>The 4EP is the <b>4 Wheel Engineering Prototype</b>, Mike's car, and it came first.<br>
+  The diff and shock oils, the pistons and the custom axle build were all proven there,<br>
+  then carried over here. This car is the answer; that one is where the work happened.</i>
+</p>
+
+<p align="center">
   <img src="src/overview_jato4ss_imex_slicks_side.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_front_detail.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_rear_drivetrain.jpg" height="243"><br>
   <em>Stretched on the IMEX slicks &middot; front bumper and steering &middot; rear shocks and CVDs</em>
 </p>
