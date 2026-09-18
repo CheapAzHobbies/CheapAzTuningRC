@@ -4,6 +4,8 @@ A list of the bearings this car runs. The baseline is the **Traxxas Jato 4x4 BL-
 
 > **This car and the 4SS split at exactly one position, the hub.** Both run custom axles that need a **10mm ID** where the EHD hubs came with a **12×18×4**. This car **opens the hub up** and drops a bare **10×18×5** straight in. The 4SS **fills the pocket down** with a sleeve and runs a **10×15×4**. Same problem, two answers.
 
+<p align="center"><img src="src/reference_bearing_sizes_collage.jpg" width="860"><br><em>Every size on the car, smallest first. <strong>10×18×5 is the mod</strong>, dropped bare into the EHD pocket instead of sleeved · <strong>5×14×5 is the motor bearing</strong>, the only one that wears out often · <strong>5×8×2.5 runs the bellcrank</strong>, <strong>8×16×5 the diff inputs</strong></em></p>
+
 ---
 
 ## This car, as built
@@ -23,8 +25,6 @@ The hub corners run a **bare 10×18×5**, which is 5mm thick against a 4mm pocke
 | **5×11×4** | 1 | Centre / slipper |
 
 </div>
-
-<p align="center"><img src="src/reference_bearing_sizes_collage.jpg" width="820"><br><em>All eight sizes this car runs, smallest first. <strong>10×18×5 is the mod</strong>, dropped bare into the EHD pocket instead of sleeved · <strong>5×14×5 is the motor bearing</strong>, the only one that wears out often · <strong>5×8×2.5 runs the bellcrank</strong> and <strong>8×16×5 the diff inputs</strong></em></p>
 
 **Total: 22 bearings**, across **7 distinct sizes**. **The motor carries its own bearings on top of these**, see [the motor bearing](#the-motor-bearing-s605zz).
 
