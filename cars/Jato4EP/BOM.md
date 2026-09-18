@@ -91,7 +91,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|---|---|---|
 | **MonsterKingz / G-Maxx 7075 alloy hub set**<br><sub>Note: front + rear set, bought off the Jato 4SS. Only the front steering blocks run; the rear carrier is the one to shave</sub> | 1 | [Jato 4SS](../Jato4SS/hub_analysis.md) | **$50.00 / set** | [Hubs](hub_analysis.md) |
 | **Traxxas TRA9050 rear stub axle carriers**<br><sub>Note: EHD, glass-filled nylon. **Bought, not inherited:** the donor was a **pre-EHD** car, so none of the EHD suspension came with it</sub> | 1 | Traxxas | **$6.00 / pair** | [Hubs](hub_analysis.md) |
-| **Traxxas TRA9032 front caster blocks (C-hubs)**<br><sub>Note: EHD plastic, the sacrificial half of the front. **Bought for the same reason as the rears.** 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Hubs](hub_analysis.md) |
+| **Traxxas TRA9032 front caster blocks (C-hubs)**<br><sub>Note: EHD plastic, the sacrificial half of the front. **Bought for the same reason as the rears**, since the donor was pre-EHD. 🚧 **no price is recorded anywhere in the repo**; the nearest figure is the 9050 rears at $6.00 / pair</sub> | 1 | 🚧 not recorded | **🚧** | [Hubs](hub_analysis.md) |
 | **S61810ZZ 10×18×5 stainless bearings**<br><sub>Note: the hub corners, bare, no sleeve. Bought as a 10-pack at $14.45, four used</sub> | 4 | AliExpress, Speed Bearing Store | **$1.45 each** | [Bearings](bearings_reference.md#the-hub-bearing-s61810zz) |
 
 ## Steering
