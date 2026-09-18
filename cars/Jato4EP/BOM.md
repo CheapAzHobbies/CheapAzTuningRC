@@ -138,7 +138,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **CNHL Ultra-Thin Racing LiHV 4S 6000mAh 120C** | 1 | ChinaHobbyLine, order #20269753705 | **$71.00 each** | [Packs](battery_analysis.md#the-packs) |
 | **CNHL Lightning LiHV 4S 5500mAh 120C** | 1 | ChinaHobbyLine, order #20269753705 | **$54.46 each** | [Packs](battery_analysis.md#the-packs) |
 | **CNHL Racing Series 4S 5200mAh 90C** | 1 | ChinaHobbyLine, order #20269753705 | **$52.51 each** | [Packs](battery_analysis.md#the-packs) |
-| **3D printed battery bar**<br><sub>Note: what actually holds the pack down. Flexes enough to clear a 47mm pack against a 44mm ceiling</sub> | 1 | Printed in house | **$0** (filament) | [Retention](battery_mount_analysis.md#holding-the-pack-down) |
+| **3D printed battery bar**<br><sub>Note: what actually holds the pack down. Flexes enough to clear a 47mm pack against a 44mm ceiling. Design is [Printables model 305527](https://www.printables.com/model/305527-traxxas-slash-4x4-lcg-xl-battery-hold-down), printed in house</sub> | 1 | Printables 305527 | **$0** (filament) | [Retention](battery_mount_analysis.md#holding-the-pack-down) |
 
 ---
 
