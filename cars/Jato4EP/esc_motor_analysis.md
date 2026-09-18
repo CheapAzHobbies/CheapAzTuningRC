@@ -80,6 +80,8 @@
 
 **Running the S605ZZ 5×14×5 ABEC-9** rather than the stock Castle bearings. **The stock ones work, they just burn up quickly**, and these last longer in the same motor. Full spec, price and the sourcing caveat in [`bearings_reference.md`](bearings_reference.md#the-motor-bearing-s605zz).
 
+⚠️ **This motor has already been lost once to a neglected bearing.** The bearing was left to fail repeatedly, the rotor scraped, the **Kevlar wrap around the magnets gave way**, and the rotor let go and locked the motor. It cost a **$94.00 non-warranty RMA**. That is the reason the pack count below is tracked at all.
+
 🚧 **How many packs a set lasts is still unknown.** The count is logged in [`maintenance/README.md`](../../maintenance/README.md) and keeps climbing until a set wears out, which is what turns this into a real replacement interval instead of a guess.
 
 ---
