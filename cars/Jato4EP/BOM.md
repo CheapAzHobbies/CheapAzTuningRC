@@ -4,13 +4,13 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 > **Start here: a running Traxxas Slash 4x4.** Slash 4x4 and Jato 4x4 are the **same platform**, so the donor carries straight over. What makes it a Jato is the **towers, shocks and wing**. That is the cheap way onto this platform, and it is what this car did.
 >
-> ⚠️ **This list is incomplete on purpose.** Everything below is a price actually recorded in the repo or the [LEDGER](../../LEDGER.md). Parts marked **🚧** are on the car but have no receipt logged, so they are listed without a price rather than guessed at. **The donor itself has no recorded price**, so the totals are parts-only.
+> ⚠️ **This list is incomplete on purpose.** Everything below is a price actually recorded in the repo or the [LEDGER](../../LEDGER.md). Parts marked **🚧** are on the car but have no receipt logged, so they are listed without a price rather than guessed at. **The donor is priced now too**, at $100.00, so the total below is a whole car number rather than parts only.
 
 ## Cost Summary
 
 | Section | Subtotal |
 |---|---|
-| [Donor Car](#donor-car) | 🚧 not recorded |
+| [Donor Car](#donor-car) | $100.00 |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
 | [Drivetrain](#drivetrain) | $150.29 |
 | [Suspension](#suspension) | $57.46 |
@@ -20,10 +20,10 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $353.33 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$1153.02** |
-| **Car only, without batteries** | **$867.67** |
+| **Total recorded** | **$1253.02** |
+| **Car only, without batteries** | **$967.67** |
 
-> **What the total is missing:** the donor, the shocks and their oils, and the spur and pinion. Add those and this climbs a fair way. See [What's still unpriced](#whats-still-unpriced).
+> **What the total is missing:** the shocks and their oils, and the spur and pinion. Add those and this climbs a little further. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -31,7 +31,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Running Traxxas Slash 4x4**<br><sub>Note: same platform as the Jato 4x4, so everything carries over. 🚧 purchase price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Overview](README.md#car-overview) |
+| **Running Traxxas Slash 4x4**<br><sub>Note: same platform as the Jato 4x4, so everything carries over. Bought **totally clapped out** for $100, **sometime before 2018**, so the exact date is not recorded</sub> | 1 | Facebook | **$100.00 each** | [Overview](README.md#car-overview) |
 
 ## Chassis & Bracing
 
@@ -134,7 +134,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 
 | Missing | Why it matters |
 |---|---|
-| **The running Slash 4x4 donor** | The single biggest line. Without it the total is parts-only |
+| ~~The running Slash 4x4 donor~~ | **Resolved:** a clapped out Slash 4x4 off Facebook for **$100.00**, sometime before 2018 |
 | **Shocks, and the front tower** | What is left of the conversion cost. The rear tower ($6.00) and the wing ($16.00) are both recorded now |
 | **The second FLM26800 pair** | The car runs extended arms front **and** rear, but only one pair is booked ([LEDGER](../../LEDGER.md) #85). Likely another ~$25.73 |
 | ~~Radio~~ | **Resolved:** FlySky NB4 with the FGr4S V2 at $140.91, the same as the 4SS |
