@@ -22,10 +22,12 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $363.95 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$1394.38** |
-| **Car only, without batteries** | **$1109.03** |
+| ⭐ **What the car cost** | **$1109.03** |
+| Total if you count the batteries | $1394.38 |
 
 > **What came free:** the **54T spur**, the **stock EHD C-hub and rear carriers**, and the **stock gearbox housings** all arrived on the donor and are priced $0. ⚠️ **This list is probably not complete**, see [What came with the car](#what-came-with-the-car).
+>
+> ⭐ **The car cost is $1109.03, and it leaves the batteries out on purpose.** Packs are [fleet items](../../batteries/README.md) that move between cars, and the Gens Ace 6300 in the list is on loan from the [Jato 4SS](../Jato4SS/README.md), so charging them to this build would overstate what the car actually took. The $1394.38 line is there only if you want the all in figure.
 >
 > **Nothing is open now.** Every row either carries a price or is marked as having come with the car. See [What's still unpriced](#whats-still-unpriced).
 
