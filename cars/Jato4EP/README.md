@@ -1,14 +1,14 @@
-<div align="center">
+<p align="center"><img src="src/web_banner_vintage.png" width="100%"></p>
 
-# ▌ R A D I O   C O N T R O L L E D   C A R   C R A P T I O N ▐
+<p align="center">
+<img src="https://img.shields.io/badge/4S-LIPO-a22e26?style=for-the-badge&labelColor=2b3a55">
+<img src="https://img.shields.io/badge/3200-KV-2b3a55?style=for-the-badge&labelColor=2b3a55">
+<img src="https://img.shields.io/badge/GEARING-11T%20%2F%2054T-b78624?style=for-the-badge&labelColor=2b3a55">
+<img src="https://img.shields.io/badge/BUILD-%241006.74-5c6e3a?style=for-the-badge&labelColor=2b3a55">
+<img src="https://img.shields.io/badge/DONOR-%24100-8a6a3a?style=for-the-badge&labelColor=2b3a55">
+</p>
 
-**RACING · TUNING · TECH · COMMUNITY** &nbsp;&nbsp;·&nbsp;&nbsp; ALL THE ACTION, NONE OF THE BUDGET
-
-`VOL. 1 . . . No. 1 . . . SEPTEMBER 2026 . . . BEAVERTON, OR . . . PRICE 25¢`
-
-</div>
-
----
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 <p align="center"><img src="src/overview_jato4ep_vs_stock_jato_track_width.jpg" width="100%"><br><em><strong>This car on top, a basically stock Jato underneath.</strong> Close to a whole wheel width per side, which is the single best change made to it</em></p>
 
-<p align="center"><img src="https://placehold.co/620x300/eee/333?text=HERO+PHOTO+OF+THE+CAR+NEEDED" width="100%"><br>🚧 save as <code>src/overview_jato4ep_full_hero.jpg</code></p>
+<p align="center"><img src="src/web_spec_panel_vintage.png" width="100%"><br>🚧 save as <code>src/overview_jato4ep_full_hero.jpg</code></p>
 
 > ⚠️ **The donor was pre-EHD and LCG.** The LCG tub saved nothing, but pre-EHD cost real money: **every EHD suspension part on this car was bought**, because none of it fits a pre-EHD chassis. Full accounting in [`BOM.md`](BOM.md).
 
@@ -57,7 +57,7 @@
 </tr>
 </table>
 
----
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
 <div align="center"><h3>&#9612; TOP TUNING UPGRADES &#9616;</h3></div>
 
@@ -78,7 +78,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 </tr>
 </table>
 
----
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
 <table>
 <tr>
@@ -110,9 +110,13 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 </tr>
 </table>
 
----
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
-<div align="center"><h3>▌ DRIVETRAIN ▐</h3></div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center"><h3>&#9612; DRIVETRAIN &#9616;</h3></div>
 
 ## Drivetrain
 
@@ -147,9 +151,10 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 
 <p align="center"><img src="src/drivetrain_dynamite_marine_grease_dyne4201.jpg" width="320"><br><em>The rear runs <strong>grease instead of oil</strong>, which is this car's own divergence from the 4SS</em></p>
 
----
+</td>
+<td width="50%" valign="top">
 
-<div align="center"><h3>▌ SUSPENSION ▐</h3></div>
+<div align="center"><h3>&#9612; SUSPENSION &#9616;</h3></div>
 
 ## Suspension
 
@@ -177,9 +182,17 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 
 **Arms are FLM26800 at both ends**, 6061 aluminium, +9.6mm per arm, **$51.46** for the two pairs. Full write up in [`arm_analysis.md`](arm_analysis.md).
 
----
+</td>
+</tr>
+</table>
 
-<div align="center"><h3>▌ STEERING ▐</h3></div>
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center"><h3>&#9612; STEERING &#9616;</h3></div>
 
 ## Steering
 
@@ -203,9 +216,10 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 >
 > ⚠️ **The Lighthouse set did not fail on its own merits.** The hinge pocket had been **filed out for droop**, which removes material exactly where the C-hub carries load, and **too much droop turned out to be bad anyway**. Two lessons, one broken hub. Full write up in [`hub_analysis.md`](hub_analysis.md).
 
----
+</td>
+<td width="50%" valign="top">
 
-<div align="center"><h3>▌ CHASSIS ▐</h3></div>
+<div align="center"><h3>&#9612; CHASSIS &#9616;</h3></div>
 
 ## Chassis
 
@@ -221,9 +235,17 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 
 > **The honest cheap route:** a plastic chassis plus one alloy front bulkhead covers the part that actually fails, without the carbon kit. It is also the pairing that makes [metal arms risky](../Jato4SS/arm_analysis.md), since FLM arms strip a *plastic* bulkhead.
 
----
+</td>
+</tr>
+</table>
 
-<div align="center"><h3>▌ WHEELS &amp; TIRES ▐</h3></div>
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center"><h3>&#9612; WHEELS &amp; TIRES &#9616;</h3></div>
 
 ## Wheels & Tires
 
@@ -239,9 +261,10 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 
 > **Wear in matters, do not judge them fresh.** These take about **7 battery packs** to come up to full grip. A fresh set feels worse than a worn one.
 
----
+</td>
+<td width="50%" valign="top">
 
-<div align="center"><h3>▌ BODY SHOP ▐</h3></div>
+<div align="center"><h3>&#9612; BODY SHOP &#9616;</h3></div>
 
 ## Aero & Body
 
@@ -259,9 +282,17 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 
 > **The body is the wrong colour, and that turned out fine.** A **green** one was ordered and **Jenny's RC shipped the blue instead**. It was kept, the mistake went in his favour since the blue lists around **$43** against the **$36.00** paid, and **honestly the wrong body looks better than the one ordered**.
 
----
+</td>
+</tr>
+</table>
 
-<div align="center"><h3>▌ ELECTRONICS ▐</h3></div>
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center"><h3>&#9612; ELECTRONICS &#9616;</h3></div>
 
 ## Electronics
 
@@ -281,9 +312,10 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 
 > ⚠️ **4S is the ceiling and this car sits on it.** The Mamba X alone is a 6S controller, but the bundled 1412 caps the combo at 4S, which is exactly why the 11T pinion counts as conservative gearing.
 
----
+</td>
+<td width="50%" valign="top">
 
-<div align="center"><h3>▌ BATTERIES ▐</h3></div>
+<div align="center"><h3>&#9612; BATTERIES &#9616;</h3></div>
 
 ## Batteries
 
@@ -293,7 +325,13 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 
 <p align="center"><img src="src/electronics_cnhl_ultrathin_6000_120c.jpg" height="175">&nbsp;<img src="src/electronics_battery_bar_3d_printed.jpg" height="175"><br><em>CNHL Ultra-Thin 6000 120C · the <strong>printed battery bar</strong> that actually holds the pack down</em></p>
 
----
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
 <table>
 <tr>
@@ -324,7 +362,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 </tr>
 </table>
 
----
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
 <div align="center"><h3>▌ THE INDEX ▐</h3></div>
 
@@ -344,7 +382,7 @@ Each one summarises **what is fitted**, with a link out to the [Jato 4SS](../Jat
 
 </div>
 
----
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
 <div align="center"><h3>▌ COMING NEXT ISSUE ▐</h3></div>
 
@@ -357,7 +395,7 @@ Each one summarises **what is fitted**, with a link out to the [Jato 4SS](../Jat
 - [ ] **A proper hero photo of the car itself.** Most shots here are of parts
 - [ ] Price the **TRA9032 front C-hubs**, the last unpriced row on the [BOM](BOM.md)
 
----
+<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
 <div align="center">
 
