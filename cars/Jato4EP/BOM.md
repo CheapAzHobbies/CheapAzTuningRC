@@ -63,8 +63,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Traxxas TRA5136 30k diff oil**<br><sub>Note: front. 🚧 price is the 4SS purchase of the same bottle; whether Mike bought his own is not recorded</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Dynamite DYNE4201 marine grease**<br><sub>Note: the rear diff runs this **instead of** oil. 5 oz can, lithium complex with anti-sling</sub> | 1 | Amazon | **$12.00 / can** | [Diffs](differential_analysis.md) |
-| **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>Note: glass-filled nylon, 20.0g each, **unchanged from stock**, so they arrived on the donor. List price is $4.00 / set if you ever do need to buy them</sub> | 1 | Came with the car | **$0** | [Housings](gearbox_housing_analysis.md) |
-| **54T spur gear**<br><sub>Note: arrived on the donor, so nothing was spent</sub> | 1 | Came with the car | **$0** | [Drivetrain](README.md#drivetrain) |
+| **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>**Replacement: $4.00 / set.** Glass-filled nylon, 20.0g each, unchanged from stock, so they arrived on the donor</sub> | 1 | Came with the car | **$0** | [Housings](gearbox_housing_analysis.md) |
+| **54T spur gear**<br><sub>**Replacement: 🚧 not recorded.** Arrived on the donor, so nothing was spent</sub> | 1 | Came with the car | **$0** | [Drivetrain](README.md#drivetrain) |
 | **11T 32P pinion**<br><sub>Note: Surpass Hobby. This is the tooth count the [gearing finding](esc_motor_analysis.md#the-gearing-finding) landed on</sub> | 1 | AliExpress, Surpass Hobby | **$2.43 each** | [Motor](esc_motor_analysis.md) |
 
 ## Suspension
@@ -147,7 +147,9 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **54T spur gear** | Arrived on the donor | 🚧 not recorded |
 | **Stock gearbox housings (TRA6881 / TRA6880)** | Recorded as unchanged from stock | **$4.00 / set** |
 
-**The right hand column is deliberate.** Knowing a part came free is only half the story; the other half is what it would cost to replace when it breaks, which is what you actually want when planning a rebuild.
+**The right hand column is the point of this section.** A part that came free still costs money the day it breaks, and these are wear parts, so the replacement price is worth knowing even though it never touches the car's cost. **Each free row carries its replacement price in the part note as well**, so you do not have to come back here to find it.
+
+⭐ **The rule: price recorded, cost excluded.** A `Came with the car` row is priced **$0** in the Price column, so it cannot inflate the build total, while the replacement figure sits in the note where it is useful and harmless.
 
 **Bought, even though they look like parts a donor would supply:**
 
