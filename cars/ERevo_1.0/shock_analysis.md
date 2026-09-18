@@ -52,6 +52,7 @@
 | Date | Price | Discount Path | Notes |
 |---|---|---|---|
 | 2025-06-02 | **$97.41** ✅ **purchased** | Listed price | **4 sets** of HPI **107365**, eBay **whiterosehobbies**, order **19-13141-49737**, delivered 2025-06-07. **Two sets are this car** ($48.70), the other two went on [Mike's Jato 4EP](../Jato4EP/shock_analysis.md). Return window closed 2025-07-07 |
+| 2025-06-15 | **$55.96** ✅ **purchased** | Free ground shipping over $50 | **8 custom Acxess spring designs, 2 of each**, order **TSS100027066**, thespringstore.com. Covers every rate in the [spring chart](#springs) except the Yellow 2.8. No tax, no shipping |
 
 ---
 
@@ -176,24 +177,28 @@ Sources: [Associated FT shock fluid listings](https://www.associatedelectrics.co
 
 **Use Acxess Springs** ([acxesspring.com](https://www.acxesspring.com/)) — I bought mine from [thespringstore.com](https://www.thespringstore.com/). The chart below maps each Acxess spring to its **equivalent GTR spring color and rate** (rates copied from the original GTR shock table). Mix and match by rate. Assume **~60 mm length** unless noted.
 
-| Equiv GTR color | Rate (N/mm) | Acxess industrial part # |
-|---|---|---|
-| Yellow | 2.8 | PC077-938-7000-MW-2333-CG-N-IN |
-| White | 2.9 | PC085-975-7630-SST-2335-C-N-IN |
-| Orange / Green | 3.3 | PC085-975-7630-MW-2335-C-N-IN |
-| ⭐ **Gold** *(my front)* | **3.73** (63.5 mm) | PC092-975-9000-MW-2500-CG-N-IN |
-| ⭐ **Tan** *(my rear)* | **4.0** | PC085-975-6630-MW-2335-C-N-IN |
-| Black | 4.5 | PC096-975-8000-SST-2346-C-N-IN |
-| Silver / Pink | 5.2 | PC096-975-8000-MW-2346-C-N-IN |
-| Blue | 5.9 | PC105-1014-8000-SST-2355-C-N-IN |
-| Purple | 6.2 (63.5 mm) | PC112-1010-10800-MW-2500-CG-N-IN |
+| Equiv GTR color | Rate (N/mm) | Acxess industrial part # | Price each |
+|---|---|---|---|
+| Yellow | 2.8 | PC077-938-7000-MW-2333-CG-N-IN | 🚧 **the one rate not bought** |
+| White | 2.9 | PC085-975-7630-SST-2335-C-N-IN | $2.97 |
+| Orange / Green | 3.3 | PC085-975-7630-MW-2335-C-N-IN | $2.24 |
+| ⭐ **Gold** *(my front)* | **3.73** (63.5 mm) | PC092-975-9000-MW-2500-CG-N-IN | **$3.61** |
+| ⭐ **Tan** *(my rear)* | **4.0** | PC085-975-6630-MW-2335-C-N-IN | **$2.15** |
+| Black | 4.5 | PC096-975-8000-SST-2346-C-N-IN | $3.41 |
+| Silver / Pink | 5.2 | PC096-975-8000-MW-2346-C-N-IN | $2.54 |
+| Blue | 5.9 | PC105-1014-8000-SST-2355-C-N-IN | $4.12 |
+| Purple | 6.2 (63.5 mm) | PC112-1010-10800-MW-2500-CG-N-IN | $6.94 |
+
+> ⚠️ **The GTR colours are a rate reference, not a shopping list.** The chart exists so you can pick by a number you already know. **You cannot actually fit the OEM GTR springs**, because these are bigger big bore shocks and the stock springs are sized for the smaller GTR body. The colour is there to tell you what rate you are asking for, nothing more.
+>
+> **Two of every rate were bought, eight designs, $55.96 the lot.** Every row above is in hand except the Yellow. 🚧 A photo of the conversion table exists but is not filed yet.
 
 - **My setup:** **Gold front / Tan rear.**
 - **General rule: softer front, stiffer rear.** Pick a front color, then go one step up the chart for the rear — e.g. **Silver front → Blue rear**.
 
 ### ⚠️ Spring length — go 50–55 mm, not 60 mm
 
-**Big issue with the springs I recommend:** don't run the **60 mm** springs shown in the kit picture. They *will* wear in and eventually settle to near-perfect ride height with the right droop — but you should just start with **50–55 mm** springs. Anything **shorter than ~55 mm** is about perfect: it nearly covers the whole shock body and looks clean. (I already spent ~$55 on the 60–63 mm springs, so I'm running those for now.)
+**Big issue with the springs I recommend:** don't run the **60 mm** springs shown in the kit picture. They *will* wear in and eventually settle to near-perfect ride height with the right droop — but you should just start with **50–55 mm** springs. Anything **shorter than ~55 mm** is about perfect: it nearly covers the whole shock body and looks clean. (I already spent **$55.96** on the 60 to 63 mm springs, so I am running those for now.)
 
 ---
 
