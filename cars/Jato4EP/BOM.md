@@ -16,20 +16,20 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
 | [Drivetrain](#drivetrain) | $148.72 |
 | [Suspension](#suspension) | $143.89 |
-| [Hubs & Carriers](#hubs--carriers) | $55.80 |
+| [Hubs & Carriers](#hubs--carriers) | $61.80 |
 | [Steering](#steering) | $83.20 |
 | [Wheels & Tires](#wheels--tires) | $62.49 |
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $365.66 |
 | [Batteries](#batteries) | $285.35 |
-| ⭐ **What the car cost** | **$1110.74** |
-| Total if you count the batteries | $1396.09 |
+| ⭐ **What the car cost** | **$1116.74** |
+| Total if you count the batteries | $1402.09 |
 
-> **What came free:** the **54T spur**, the **stock EHD C-hub and rear carriers**, and the **stock gearbox housings** all arrived on the donor and are priced $0. ⚠️ **This list is probably not complete**, see [What came with the car](#what-came-with-the-car).
+> **What came free:** the **54T spur** and the **stock gearbox housings** arrived on the donor and are priced $0. ⚠️ **The EHD hubs did not**, the donor predates EHD. ⚠️ **This list is probably not complete**, see [What came with the car](#what-came-with-the-car).
 >
-> ⭐ **The car cost is $1109.03, and it leaves the batteries out on purpose.** Packs are [fleet items](../../batteries/README.md) that move between cars, and the Gens Ace 6300 in the list is on loan from the [Jato 4SS](../Jato4SS/README.md), so charging them to this build would overstate what the car actually took. The $1394.38 line is there only if you want the all in figure.
+> ⭐ **The car cost leaves the batteries out on purpose.** Packs are [fleet items](../../batteries/README.md) that move between cars, and the Gens Ace 6300 in the list is on loan from the [Jato 4SS](../Jato4SS/README.md), so charging them to this build would overstate what the car actually took. The $1394.38 line is there only if you want the all in figure.
 >
-> **Nothing is open now.** Every row either carries a price or is marked as having come with the car. See [What's still unpriced](#whats-still-unpriced).
+> **One line is open:** what the TRA9032 front C-hubs cost. Every other row carries a price or is marked as having come with the car. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -84,7 +84,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **MonsterKingz / G-Maxx 7075 alloy hub set**<br><sub>Note: front + rear set, bought off the Jato 4SS. Only the front steering blocks run; the rear carrier is the one to shave</sub> | 1 | [Jato 4SS](../Jato4SS/hub_analysis.md) | **$50.00 / set** | [Hubs](hub_analysis.md) |
-| **Stock plastic EHD C-hub (TRA9032) + rear carriers (TRA9050)**<br><sub>Note: arrived on the donor, so nothing was spent</sub> | 1 | Came with the car | **$0** | [Hubs](hub_analysis.md) |
+| **Traxxas TRA9050 rear stub axle carriers**<br><sub>Note: EHD, glass-filled nylon. **Bought, not inherited:** the donor was a **pre-EHD** car, so none of the EHD suspension came with it</sub> | 1 | Traxxas | **$6.00 / pair** | [Hubs](hub_analysis.md) |
+| **Traxxas TRA9032 front caster blocks (C-hubs)**<br><sub>Note: EHD plastic, the sacrificial half of the front. **Bought for the same reason as the rears.** 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Hubs](hub_analysis.md) |
 | **S61810ZZ 10×18×5 stainless bearings**<br><sub>Note: the hub corners, bare, no sleeve. Bought as a 10-pack at $14.45, four used</sub> | 4 | AliExpress, Speed Bearing Store | **$1.45 each** | [Bearings](bearings_reference.md#the-hub-bearing-s61810zz) |
 
 ## Steering
@@ -137,14 +138,13 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 ## What came with the car
 
-**The donor was a running Slash 4x4 and it was already LCG**, so a lot of what is on this build arrived with it rather than being bought. Those rows are marked **`Came with the car`** and priced **$0**.
+**The donor was a running Slash 4x4 and it was already LCG**, so some of what is on this build arrived with it rather than being bought. ⚠️ **It was also a pre-EHD car**, so none of the EHD suspension carried over. Every EHD part on this build was bought, which is a bigger slice of the cost than the LCG tub saves. Those rows are marked **`Came with the car`** and priced **$0**.
 
 **Confirmed donor parts:**
 
 | Part | Why it is free | What it would cost to buy |
 |:---|:---|:---|
 | **54T spur gear** | Arrived on the donor | 🚧 not recorded |
-| **Stock EHD C-hub (TRA9032) + rear carriers (TRA9050)** | Arrived on the donor | **$6.00 / pair** for the 9050 rears |
 | **Stock gearbox housings (TRA6881 / TRA6880)** | Recorded as unchanged from stock | **$4.00 / set** |
 
 **The right hand column is deliberate.** Knowing a part came free is only half the story; the other half is what it would cost to replace when it breaks, which is what you actually want when planning a rebuild.
@@ -175,6 +175,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |
 | ~~Bare Jato rims~~ | **Resolved:** **$8.00 / pair** from Tammies, two pairs |
 | ~~The Surpass motor heatsink~~ | **Resolved:** **$10.62**, with the two **$6.00** metal fans on top, so **$22.62** for the whole cooling rig |
+| **The TRA9032 front C-hubs** | Reopened: the donor was **pre-EHD**, so these were bought rather than inherited, and the price is not recorded |
 
 ---
 
