@@ -47,9 +47,21 @@
 | Item | Spec |
 |---|---|
 | **Shocks** | **HPI Apache C1**, part **107365**, 16mm bore, 97mm shaft, plastic body |
-| **Price** | 🚧 not recorded |
+| **Price** | **$48.70**, two sets at **$24.35 / set of 2** |
 | **Spares** | Bodies, seals and caps interchange with the Hot Bodies D8, see the [4SS spares table](../Jato4SS/shock_analysis.md#replacement-parts-shock-bodies) |
 
 </div>
+
+## Price History
+
+<div align="center">
+
+| Date | Price | Discount Path | Notes |
+|:---|:---|:---|:---|
+| 2025-06-02 | **$97.41** ✅ **purchased** | Listed price | **4 sets** of HPI **107365**, eBay **whiterosehobbies**, order **19-13141-49737**, delivered 2025-06-07. **Two sets are this car** ($48.70), the other two went on the [E-Revo 1.0](../ERevo_1.0/shock_analysis.md). Return window closed 2025-07-07 |
+
+</div>
+
+---
 
 **Rear tower matters here:** the shocks mount at the **back** of the car, not mid-chassis, because this car runs the Jato 4x4 rear tower. See [`shock_tower_analysis.md`](shock_tower_analysis.md).

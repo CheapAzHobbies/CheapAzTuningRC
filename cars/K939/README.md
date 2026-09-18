@@ -59,7 +59,7 @@ Front running Hot Bodies D8 shocks.
 | Position | Spring | Notes |
 |----------|--------|-------|
 | Front | White (included with Apache C1) | Stock Apache C1 spring |
-| Rear | Grey 52gf (Hot Bodies 67453) | 76mm, softer for bump compliance |
+| Rear | **White, the same spring as the front** | **The twin motor layout puts weight at both ends**, so the rear does not want the softer spring a single rear motor car would use |
 
 ### Pistons
 
@@ -129,8 +129,8 @@ None — removed for Meldrum Bar Park conditions.
 | Part # | Description | Category | Cost | Source | Photo |
 |--------|-------------|----------|------|--------|-------|
 | K939 | Wltoys K939 1/10 4WD 2.4G Electric RC Short Course RTR | Base Car | $137.70 (inc. shipping) | Alibaba (Aug 2019) | ![](src/base_wltoys_car_k939_alibaba.png) |
-| HPI 107365 | Big Bore Sport Shock Set Apache C1 (97mm, 2pcs) x2 sets | Suspension | $39.98 ($19.99 ea) | Amazon — Hobby-Sports | ![](src/suspension_hpi_shocks_apache_c1_107365.jpg) |
-| HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2) | Suspension | $11.75 | eBay — power_hobby | ![](src/suspension_hb_springs_52gf_grey_hb67453.jpg) |
+| HPI 107365 | Big Bore Sport Shock Set Apache C1 (97mm, 2pcs) x2 sets | Suspension | $41.98 ($20.99 ea) | eBay, aflores01 (order 22-10839-42798, Nov 27 2023) + Amazon | ![](src/suspension_hpi_shocks_apache_c1_107365.jpg) |
+| HB 67453 | Hot Bodies Big Bore Shock Spring 76mm 52gf Gray (2), **bought but not fitted**, this car runs the same white spring at both ends | Suspension | $11.75 | eBay, power_hobby | ![](src/suspension_hb_springs_52gf_grey_hb67453.jpg) |
 | TKR6851X / TKR6852X | Tekno RC M6 Front & Rear Driveshafts & Steering Block Set (x2 kits) | Drivetrain | $83.75 (gifted by sister) | PowerHobby | ![](src/drivetrain_tekno_driveshafts_hubs_tkr6851x_tkr6852x.jpg) |
 | TKR1654-17 | Tekno RC 17mm M6 Hub Adapter Driveshaft Slash/Stampede (set of 2) | Drivetrain | $46.30 ($23.15 ea) | eBay — qliquid_rc | ![](src/drivetrain_tekno_hub_adapter_tkr1654-17.jpg) |
 | TRA6814 | Traxxas Slash 4x4 Pre-Built Center Differential Kit — nylon construction, sealed, currently running 500k wt oil, 2S LiPo/NiMH rated. **Note: cheaper to buy individual parts and build yourself.** | Drivetrain | $38.99 | Tammies | ![](src/drivetrain_traxxas_center_diff_tra6814.jpg) |
