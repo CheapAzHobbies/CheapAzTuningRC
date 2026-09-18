@@ -12,7 +12,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|
 | [Donor Car](#donor-car) | $100.00 |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
-| [Drivetrain](#drivetrain) | $150.29 |
+| [Drivetrain](#drivetrain) | $152.72 |
 | [Suspension](#suspension) | $57.46 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
 | [Steering](#steering) | $51.63 |
@@ -20,10 +20,10 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $353.33 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$1253.02** |
-| **Car only, without batteries** | **$967.67** |
+| **Total recorded** | **$1255.45** |
+| **Car only, without batteries** | **$970.10** |
 
-> **What the total is missing:** the shocks and their oils, and the spur and pinion. Add those and this climbs a little further. See [What's still unpriced](#whats-still-unpriced).
+> **What the total is missing:** the shocks and their oils. Add those and this climbs a little further. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -58,8 +58,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Dynamite DYNE4201 marine grease**<br><sub>Note: the rear diff runs this **instead of** oil. 5 oz can, lithium complex with anti-sling</sub> | 1 | Amazon | **$12.00 / can** | [Diffs](differential_analysis.md) |
 | **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>Note: glass-filled nylon, 20.0g each, unchanged from stock</sub> | 1 | Traxxas | **$4.00 / set** | [Housings](gearbox_housing_analysis.md) |
-| **54T spur gear** | 1 | 🚧 not recorded | **🚧** | [Drivetrain](README.md#drivetrain) |
-| **11T 32P pinion** | 1 | 🚧 not recorded | **🚧** | [Motor](esc_motor_analysis.md) |
+| **54T spur gear**<br><sub>Note: came with the donor car, so nothing was spent</sub> | 1 | Donor car | **$0** | [Drivetrain](README.md#drivetrain) |
+| **11T 32P pinion**<br><sub>Note: Surpass Hobby. This is the tooth count the [gearing finding](esc_motor_analysis.md#the-gearing-finding) landed on</sub> | 1 | AliExpress, Surpass Hobby | **$2.43 each** | [Motor](esc_motor_analysis.md) |
 
 ## Suspension
 
@@ -138,7 +138,7 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | **Shocks, and the front tower** | What is left of the conversion cost. The rear tower ($6.00) and the wing ($16.00) are both recorded now |
 | **The second FLM26800 pair** | The car runs extended arms front **and** rear, but only one pair is booked ([LEDGER](../../LEDGER.md) #85). Likely another ~$25.73 |
 | ~~Radio~~ | **Resolved:** FlySky NB4 with the FGr4S V2 at $140.91, the same as the 4SS |
-| **Spur and pinion** | The 54T / 11T combo is what runs, and it has no cost recorded |
+| ~~Spur and pinion~~ | **Resolved:** the 11T pinion is a **$2.43** Surpass Hobby part off AliExpress, and the 54T spur came with the donor |
 | ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |
 | **Bare Jato rims and shock oils** | Small money, but they round the list out. The 17mm hexes are no longer a gap: they are the Traxxas 6469 at $20.00 |
 

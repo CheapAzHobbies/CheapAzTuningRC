@@ -52,7 +52,7 @@
 
 ## Car Overview
 
-**Base Car:** started as a **running Traxxas Slash 4x4**, built up to Jato 4x4 spec.
+**Base Car:** started as a **running Traxxas Slash 4x4**, built up to Jato 4x4 spec, and it was **bought totally clapped out off Facebook for $100** sometime before 2018.
 
 > **This is the car the [Jato 4SS](../Jato4SS/README.md) was born out of.** Mike's Jato came first and the R&D happened here: the diff and shock oils, the pistons and the custom axle build were all worked out on this car, together, and the 4SS inherited the answers. So where the two docs agree, **this is the origin and that one is the copy**, worth knowing when the settings look identical.
 >
