@@ -49,6 +49,7 @@
 | Item | Spec |
 |---|---|
 | **Shocks** | **HPI Apache C1**, part **107365**, 16mm bore, 97mm shaft, plastic body |
+| **Target length** | **Roughly 100mm eye to eye.** The 97mm figure above is **shaft length**, which is a different measurement |
 | **Price** | **$48.70**, two sets at **$24.35 / set of 2** |
 | **Spares** | Bodies, seals and caps interchange with the Hot Bodies D8, see the [4SS spares table](../Jato4SS/shock_analysis.md#replacement-parts-shock-bodies) |
 
@@ -66,5 +67,7 @@
 </div>
 
 ---
+
+> ⚠️ **97mm is shaft length, not eye to eye.** The two get confused constantly, and anything bought on the wrong one (springs, shafts, bodies) will not fit. **The goal on this car is about 100mm eye to eye.** 🚧 That is the target rather than a caliper reading, and the [4SS](../Jato4SS/shock_analysis.md) still lists its eye to eye as unmeasured.
 
 **Rear tower matters here:** the shocks mount at the **back** of the car, not mid-chassis, because this car runs the Jato 4x4 rear tower. See [`shock_tower_analysis.md`](shock_tower_analysis.md).
