@@ -14,7 +14,7 @@ Which battery/ESC connectors are worth running, and which to avoid. Not a tuning
 | **EC5** | high (~120A), 5mm-bullet based | 🟢 good | A 5mm bullet inside a self-insulating housing, so it is the same contact with the shell done for you. What [Mike's Jato](../Jato4EP/connector_reference.md) runs | <img src="src/electronics_connector_ec5.jpg" width="150"> |
 | **XT90** | high (~90A+) | 🟢 good | Big, plenty for the 140A ESC. **XT90-S** anti-spark version kills the plug-in spark on 4S | <img src="src/electronics_connector_xt90.jpg" width="150"> |
 | **XT60** | ~60A+ (plenty for a car) | 🟢 good | **What the HobbyWing MAX10 G2 shipped with.** Compact, handles the bursty car current; anti-spark XT60E exists | <img src="src/electronics_connector_xt60.jpg" width="150"> |
-| **4mm bullets** | high current | 🔵 fine (smaller) | **What Castle fit ESC to motor** on [Mike's 4EP](../Jato4EP/connector_reference.md). Solid walled with slits, which is the construction that lasts | <img src="src/electronics_connector_4mm_bullets.jpg" width="150"> |
+| **4mm bullets** | high current | 🔵 fine (smaller) | **Sometimes used for both the battery connection and ESC to motor.** Fitted ESC to motor on [Mike's 4EP](../Jato4EP/connector_reference.md). Solid walled with slits, which is the construction that lasts | <img src="src/electronics_connector_4mm_bullets.jpg" width="150"> |
 | ~~**Deans (T-plug)**~~ | — | ❌ **avoid** | **Burn up, corrode (black gunk), and melt.** Often go intermittent, doesn't conduct even when plugged in | <img src="src/electronics_connector_deans_tplug.jpg" width="150"> |
 | ~~**Tamiya**~~ | — | ❌ **avoid** | High resistance, same failure mode as Deans, the worst of the lot | <img src="src/electronics_connector_deans_tplug.jpg" width="150"> |
 

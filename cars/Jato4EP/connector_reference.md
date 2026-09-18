@@ -12,7 +12,7 @@
 |:---|:---|:---|:---|
 | **CNHL packs** | **EC5**, 10AWG | The three CNHL packs all use it | <img src="../Jato4SS/src/electronics_connector_ec5.jpg" width="130"> |
 | **Gens Ace 6300** | **5.0mm bullet** | The odd one out, needs adapting to match the rest | <img src="../Jato4SS/src/electronics_connector_5mm_bullets.jpg" width="130"> |
-| **ESC to motor** | **4.0mm Castle bullets** | Factory fitted on the [combo](esc_motor_analysis.md), nothing to choose | <img src="../Jato4SS/src/electronics_connector_4mm_bullets.jpg" width="130"> |
+| **ESC to motor** | **Standard 4mm bullets** | Factory fitted on the [combo](esc_motor_analysis.md). Standard 4mm, so any 4mm bullet replaces them | <img src="../Jato4SS/src/electronics_connector_4mm_bullets.jpg" width="130"> |
 | **ESC to battery** | **EC5**, the main connection | Matches the CNHL packs, so most of the fleet plugs straight in. Castle ship the Mamba X bare and recommend **70A+**, and EC5 is good for roughly **120A** | <img src="../Jato4SS/src/electronics_connector_ec5.jpg" width="130"> |
 
 </div>
