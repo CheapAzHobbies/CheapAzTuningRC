@@ -20,83 +20,95 @@
 
 </div>
 
-**The Jato 4EP is not a car you can buy.** It started as a **Traxxas Slash 4x4, bought off Facebook for $100** sometime before 2018, and it has been rebuilt part by part into a 4S Jato 4x4. **4EP is the 4 Wheel Engineering Prototype**, and the name is the job: nearly every setting was worked out here first, then handed on. **The [Jato 4SS](../Jato4SS/README.md) is its successor**, a faster car built on answers this one found. This is where the work happened; that is where it ended up. What follows is what is fitted, what it cost, and the handful of changes that actually mattered.
+<table>
+<tr>
+<td width="46%" valign="top">
 
-<p align="center"><img src="src/overview_jato4ep_vs_stock_jato_track_width.jpg" width="620"><br><em><strong>This car on top, a basically stock Jato underneath.</strong> Close to a whole wheel width per side, which is the single best change made to it</em></p>
-
----
-
-<div align="center"><h3>▌ THE BASICS ▐</h3></div>
+<h3>&#9612; THE BASICS &#9616;</h3>
 
 ## Car Overview
 
-<div align="center">
+**The Jato 4EP is not a car you can buy.** It started as a **Traxxas Slash 4x4, bought off Facebook for $100** sometime before 2018, and it has been rebuilt part by part into a 4S Jato 4x4. **4EP is the 4 Wheel Engineering Prototype**, and the name is the job: nearly every setting was worked out here first, then handed on. **The [Jato 4SS](../Jato4SS/README.md) is its successor**, a faster car built on answers this one found.
 
 | | |
 |:---|:---|
-| **Platform** | Traxxas Jato 4x4, built from a Slash 4x4 donor |
-| **Donor** | **$100**, clapped out, off Facebook, before 2018 |
-| **Motor** | Castle **1412-3200KV**, 4 pole, 12 slot, sensored |
-| **ESC** | Castle **Mamba X SCT**, combo **010-0155-13** |
-| **Battery** | **4S**, LiPo or LiHV, 3.5V per cell cutoff |
-| **Gearing** | **11T 32P** pinion, **54T** spur |
-| **Chassis** | Traxxas **7422 LCG** plastic, alloy front bulkhead |
+| **Platform** | Jato 4x4, from a Slash 4x4 donor |
+| **Donor** | **$100**, off Facebook, before 2018 |
+| **Motor** | Castle **1412-3200KV** sensored |
+| **ESC** | Castle **Mamba X SCT**, **010-0155-13** |
+| **Battery** | **4S**, 3.5V per cell cutoff |
+| **Gearing** | **11T 32P** on a **54T** spur |
+| **Chassis** | Traxxas **7422 LCG**, alloy front bulkhead |
 | **Scale** | 1/10 platform on 1/8 power |
 | **Type** | Bash and race, dirt and beach |
 
-</div>
+*What makes it a Jato rather than a Slash: the towers, the shocks and the wing. Anyone pricing this build should start there.*
 
-> **What makes it a Jato rather than a Slash: the towers, the shocks and the wing.** The two are the same platform, so a Slash donor carries straight over and those three parts are the conversion. Anyone pricing this build should start there.
->
+</td>
+<td width="54%" valign="top">
+
+<p align="center"><img src="src/overview_jato4ep_vs_stock_jato_track_width.jpg" width="100%"><br><em><strong>This car on top, a basically stock Jato underneath.</strong> Close to a whole wheel width per side, which is the single best change made to it</em></p>
+
+<p align="center"><img src="https://placehold.co/620x300/eee/333?text=HERO+PHOTO+OF+THE+CAR+NEEDED" width="100%"><br>🚧 save as <code>src/overview_jato4ep_full_hero.jpg</code></p>
+
 > ⚠️ **The donor was pre-EHD and LCG.** The LCG tub saved nothing, but pre-EHD cost real money: **every EHD suspension part on this car was bought**, because none of it fits a pre-EHD chassis. Full accounting in [`BOM.md`](BOM.md).
 
-<p align="center"><img src="https://placehold.co/620x380/eee/333?text=HERO+PHOTO+OF+THE+CAR+NEEDED" width="560"><br>🚧 save as <code>src/overview_jato4ep_full_hero.jpg</code>. Most shots here are of parts, not the car</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center"><h3>▌ TOP TUNING UPGRADES ▐</h3></div>
+<div align="center"><h3>&#9612; TOP TUNING UPGRADES &#9616;</h3></div>
 
-### 1. GEARING
-
-**The finding that overturned the plan.** Going in, the assumption was that higher RPM means better air control, so the smallest pinion looked obvious. Wrong. **Torque matters as much as RPM.** Gearing for the power band sweet spot made mid air corrections feel just as sharp *and* kept the motor cooler, because it is neither lugging nor screaming. Reached at **12T**, now running **11T**.
-
-<p align="center"><img src="https://placehold.co/460x300/eee/333?text=PINION+PHOTO+NEEDED" width="420"><br>🚧 save as <code>src/drivetrain_pinion_11t_32p.jpg</code></p>
-
-### 2. MOTOR COOLING
-
-**The 1412 runs hot on 4S, so it wears a fan.** Surpass Hobby **36mm dual fan heatsink** in blue, with the plastic fans it ships with swapped for **two 30mm metal ones**. Metal costs about the same and lasts longer, though every fan dies eventually. **$22.62 for the whole rig.**
-
-<p align="center"><img src="src/electronics_surpass_hobby_fan_heatsink_range.png" height="185">&nbsp;<img src="src/electronics_metal_cooling_fans_25_to_50mm.png" height="185"><br><em>The Surpass range, the <strong>36mm dual</strong> is the one fitted · the CNC metal fans that replace the plastic pair</em></p>
-
-### 3. SHOCK TUNING
-
-**HPI Apache C1 big bores, 16mm bore, 97mm.** The same shock the 4SS runs internally, but on plastic bodies rather than metal. **37.5wt front, 50wt rear**, because the motor sits at the back and the car is tail heavy for a 1/8.
-
-<p align="center"><img src="../Jato4SS/src/suspension_hpi_shocks_apache_c1_107365.jpg" height="180">&nbsp;<img src="src/suspension_hb_springs_52gf_grey_hb67453.jpg" height="180"><br><em>HPI Apache C1 <strong>107365</strong> · the <strong>HB67453 grey 52gf</strong> rear springs, 76mm</em></p>
-
-### 4. WHEELS &amp; TIRES
-
-**The wide track trick, and the best change on the car.** RedSpider tires mounted on the wider **Traxxas Jato 4x4 rims** instead of standard ones. Each wheel sits further out and the stance grows a lot. More stability, more corner grip. ⚠️ **Outside ROAR width**, which is fine on a bash car.
-
-<p align="center"><img src="../Jato4SS/src/aero_redspider_wheels.jpg" height="180">&nbsp;<img src="src/drivetrain_traxxas_17mm_splined_wheel_hubs_6469.jpg" height="180"><br><em>RedSpider, the shared tire · <strong>Traxxas 6469</strong> 17mm hexes, shaved to clear the big bearing</em></p>
+<table>
+<tr>
+<td width="25%" valign="top"><b>1. GEARING</b><br><br>
+The finding that overturned the plan. Higher RPM was assumed to mean better air control, so the smallest pinion looked obvious. <b>Torque matters as much as RPM.</b> Gearing for the power band made mid air corrections just as sharp <i>and</i> kept the motor cooler. Reached at <b>12T</b>, now <b>11T</b>.
+<p align="center"><img src="https://placehold.co/300x200/eee/333?text=PINION+PHOTO" width="100%"><br><sub>🚧 <code>src/drivetrain_pinion_11t_32p.jpg</code></sub></p></td>
+<td width="25%" valign="top"><b>2. MOTOR COOLING</b><br><br>
+The 1412 runs hot on 4S, so it wears a fan. Surpass <b>36mm dual fan heatsink</b> in blue, with the plastic fans swapped for <b>two 30mm metal ones</b>. Metal costs about the same and lasts longer, though every fan dies eventually. <b>$22.62</b> the rig.
+<p align="center"><img src="src/electronics_surpass_hobby_fan_heatsink_range.png" width="100%"><br><sub>the 36mm dual is the one fitted</sub></p></td>
+<td width="25%" valign="top"><b>3. SHOCK TUNING</b><br><br>
+<b>HPI Apache C1</b> big bores, 16mm bore, 97mm shaft, target <b>100mm eye to eye</b>. <b>37.5wt front, 50wt rear</b>, because the motor sits at the back and the car is tail heavy for a 1/8.
+<p align="center"><img src="../Jato4SS/src/suspension_hpi_shocks_apache_c1_107365.jpg" width="100%"><br><sub>Apache C1 107365</sub></p></td>
+<td width="25%" valign="top"><b>4. WHEELS &amp; TIRES</b><br><br>
+The wide track trick, and the best change on the car. RedSpider tires on the wider <b>Traxxas Jato 4x4 rims</b>. Each wheel sits further out and the stance grows a lot. ⚠️ <b>Outside ROAR width</b>, fine on a bash car.
+<p align="center"><img src="../Jato4SS/src/aero_redspider_wheels.jpg" width="100%"><br><sub>RedSpider, the shared tire</sub></p></td>
+</tr>
+</table>
 
 ---
 
-<div align="center"><h3>▌ PERFORMANCE PARTS ▐</h3></div>
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<div align="center"><h3>&#9612; PERFORMANCE PARTS &#9616;</h3></div>
 
 <div align="center">
-
-<img src="../Jato4SS/src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" height="150">&nbsp;<img src="../Jato4SS/src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg" height="150">&nbsp;<img src="../Jato4SS/src/drivetrain_tekno_5580_stub_axle.jpg" height="150">
-
-<sub><b>FLM26800 extended arms</b>, front and rear, $51.46 &nbsp;·&nbsp; <b>MonsterKingz 7075 alloy</b> front knuckles, $50.00 &nbsp;·&nbsp; <b>Tekno 5580</b> rear stubs, $16.90 the pair</sub>
-
-<br>
-
-<img src="../Jato4SS/src/steering_gpm_aluminum_bell_crank_6845x.jpg" height="150">&nbsp;<img src="../Jato4SS/src/steering_acer_titanium_turnbuckle_m4x60.jpg" height="150">&nbsp;<img src="src/chassis_vg_racing_steel_upper_brace.jpg" height="150">
-
-<sub><b>GPM alloy bell crank</b>, $20.00 &nbsp;·&nbsp; <b>ACER titanium M4x60</b>, six links, $35.94 &nbsp;·&nbsp; <b>Steel VG-style brace</b>, $18.99, LCG only</sub>
-
+<img src="../Jato4SS/src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" height="120">&nbsp;<img src="../Jato4SS/src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg" height="120">&nbsp;<img src="../Jato4SS/src/drivetrain_tekno_5580_stub_axle.jpg" height="120">
+<br><sub><b>FLM26800 arms</b>, $51.46 &nbsp;·&nbsp; <b>MonsterKingz alloy</b> knuckles, $50.00 &nbsp;·&nbsp; <b>Tekno 5580</b> stubs, $16.90</sub>
+<br><br>
+<img src="../Jato4SS/src/steering_gpm_aluminum_bell_crank_6845x.jpg" height="120">&nbsp;<img src="../Jato4SS/src/steering_acer_titanium_turnbuckle_m4x60.jpg" height="120">&nbsp;<img src="src/chassis_vg_racing_steel_upper_brace.jpg" height="120">
+<br><sub><b>GPM bell crank</b>, $20.00 &nbsp;·&nbsp; <b>ACER titanium</b>, six links, $35.94 &nbsp;·&nbsp; <b>Steel VG brace</b>, $18.99</sub>
 </div>
+
+</td>
+<td width="42%" valign="top">
+
+<div align="center"><h3>&#9612; TUNING TIPS &#9616;</h3></div>
+
+- **Keep it cool.** The motor lasts effectively forever, the bearings do not, and **when one lets go it takes the rotor with it**. **A service is two bearings, the same size at both ends, $3.42.**
+- **Count packs, not months.** Bearings went in **2026-09-06**, **4 packs** on them since. Logged in [`maintenance/README.md`](../../maintenance/README.md).
+- **Grease the rear diff, do not fill it.** A **light coat**, never packed.
+- **Do not over-tighten.** Let the suspension move freely and avoid binding.
+- **Shave the hex, not the carrier.** The bare 10×18×5 leaves no room for a full thickness hex.
+- **Respect the cutoff.** HV buys top speed, but nothing tells you when an HV pack is done.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -283,44 +295,34 @@
 
 ---
 
-<div align="center"><h3>▌ TUNING TIPS ▐</h3></div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Keep it cool.** The motor lasts effectively forever, the bearings do not, and **when one lets go it takes the rotor with it**. That turns a $1.71 part into a whole motor. **A service is two bearings, the same size at both ends, $3.42.**
-- **Count packs, not months.** Bearings went in **2026-09-06**, first run **2026-09-12**, **4 packs** on them since. Logged in [`maintenance/README.md`](../../maintenance/README.md).
-- **Grease the rear diff, do not fill it.** A **light coat** of Dynamite blue, never packed. Packing it defeats the point.
-- **Do not over-tighten.** Let the suspension move freely and avoid binding.
-- **Shave the hex, not the carrier.** Running the bare 10×18×5 leaves no room for a full thickness hex, so **the hexes give up the 1mm**.
-- **Use a good pack, and respect the cutoff.** HV buys top speed, but nothing tells you when an HV pack is done.
-
----
-
-<div align="center"><h3>▌ GEARING GUIDE (QUICK REFERENCE) ▐</h3></div>
-
-<div align="center">
+<div align="center"><h3>&#9612; GEARING GUIDE &#9616;</h3></div>
 
 | Pinion (T) | Spur (T) | Result |
 |:---|:---|:---|
 | **11** | 54 | ⭐ **Running now.** Conservative, which the 4S ceiling wants |
-| **12** | 54 | **Where the finding was reached.** Power band sweet spot, cooler motor |
-| Smaller | 54 | The original instinct, and the wrong target. More RPM, less usable thrust |
+| **12** | 54 | **Where the finding was reached.** Power band sweet spot |
+| Smaller | 54 | The original instinct, and the wrong target |
 
-</div>
+<sub>*Gearing varies with motor and conditions. Check mesh and temperature. Full write up in [`esc_motor_analysis.md`](esc_motor_analysis.md#the-gearing-finding).*</sub>
 
-<sub>*Note: gearing varies with motor and conditions. Check mesh and temperature. Full write up in [`esc_motor_analysis.md`](esc_motor_analysis.md#the-gearing-finding).*</sub>
+</td>
+<td width="50%" valign="top">
 
----
+<div align="center"><h3>&#9612; FINAL THOUGHTS &#9616;</h3></div>
 
-<div align="center"><h3>▌ FINAL THOUGHTS ▐</h3></div>
-
-**A $100 clapped out Slash turned into this for $1006.74 of parts.** The donor sits outside that figure and so do the batteries, because packs move between cars. All in, counting both, it is **$1392.09**.
+**A $100 Slash turned into this for $1006.74 of parts.** The donor sits outside that figure and so do the batteries, because packs move between cars. All in, counting both, it is **$1392.09**.
 
 **The lesson worth taking is the gearing one.** Pinion sizing is not purely a top speed equation, and that conclusion was reached on this car before the 4SS ever turned a wheel. The rest is unglamorous: grease the rear, count your packs, and shave the cheap part rather than the expensive one.
 
-<div align="center">
+<div align="center"><h3>SAME PLATFORM. DIFFERENT ANSWERS.</h3></div>
 
-### SAME PLATFORM. DIFFERENT ANSWERS.
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
