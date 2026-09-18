@@ -59,7 +59,7 @@
 
 <p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
-<div align="center"><h3>TOP TUNING UPGRADES</h3></div>
+<div align="center"><h3>$\textcolor{B02E26}{\textsf{TOP TUNING UPGRADES}}$</h3></div>
 
 <table>
 <tr>
@@ -116,7 +116,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 <tr>
 <td width="50%" valign="top">
 
-<div align="center"><h3>DRIVETRAIN</h3></div>
+<div align="center"><h3>$\textcolor{2B3A55}{\textsf{DRIVETRAIN}}$</h3></div>
 
 ## Drivetrain
 
@@ -156,7 +156,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 </td>
 <td width="50%" valign="top">
 
-<div align="center"><h3>SUSPENSION</h3></div>
+<div align="center"><h3>$\textcolor{2B3A55}{\textsf{SUSPENSION}}$</h3></div>
 
 ## Suspension
 
