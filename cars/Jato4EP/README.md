@@ -24,7 +24,7 @@
 <tr>
 <td width="46%" valign="top">
 
-<h3>&#9612; THE BASICS &#9616;</h3>
+<h3>THE BASICS</h3>
 
 ## Car Overview
 
@@ -59,13 +59,13 @@
 
 <p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
-<div align="center"><h3>&#9612; TOP TUNING UPGRADES &#9616;</h3></div>
+<div align="center"><h3>TOP TUNING UPGRADES</h3></div>
 
 <table>
 <tr>
 <td width="25%" valign="top"><b>1. GEARING</b><br><br>
 The finding that overturned the plan. Higher RPM was assumed to mean better air control, so the smallest pinion looked obvious. <b>Torque matters as much as RPM.</b> Gearing for the power band made mid air corrections just as sharp <i>and</i> kept the motor cooler. Reached at <b>12T</b>, now <b>11T</b>, a <b>Robinson Racing 8611</b> in extra hard blackened steel, <b>$10.99</b>.
-<p align="center"><img src="src/drivetrain_robinson_racing_pinion_11t_32p_8611.jpg" width="100%"><br><sub><b>Robinson Racing 8611</b>, extra hard blackened steel</sub></p>
+<p align="center"><img src="src/drivetrain_robinson_racing_pinion_11t_32p_8611.jpg" width="100%"><br><sub><b>Robinson Racing 8611</b>, extra hard blackened steel</sub></p></td>
 <td width="25%" valign="top"><b>2. MOTOR COOLING</b><br><br>
 The 1412 runs hot on 4S, so it wears a fan. Surpass <b>36mm dual fan heatsink</b> in blue, with the plastic fans swapped for <b>two 30mm metal ones</b>. Metal costs about the same and lasts longer, though every fan dies eventually. <b>$22.62</b> the rig.
 <p align="center"><img src="src/electronics_surpass_hobby_fan_heatsink_range.png" width="100%"><br><sub>the 36mm dual is the one fitted</sub></p></td>
@@ -84,7 +84,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 <tr>
 <td width="58%" valign="top">
 
-<div align="center"><h3>&#9612; PERFORMANCE PARTS &#9616;</h3></div>
+<div align="center"><h3>PERFORMANCE PARTS</h3></div>
 
 <div align="center">
 <img src="../Jato4SS/src/suspension_flm_rustler_rear_extended_arms_flm26800.jpg" height="120">&nbsp;<img src="../Jato4SS/src/suspension_monsterkingz_alloy_uprights_jato4x4.jpg" height="120">&nbsp;<img src="../Jato4SS/src/drivetrain_tekno_5580_stub_axle.jpg" height="120">
@@ -97,7 +97,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 </td>
 <td width="42%" valign="top">
 
-<div align="center"><h3>&#9612; TUNING TIPS &#9616;</h3></div>
+<div align="center"><h3>TUNING TIPS</h3></div>
 
 - **Keep it cool.** The motor lasts effectively forever, the bearings do not, and **when one lets go it takes the rotor with it**. **A service is two bearings, the same size at both ends, $3.42.**
 - **Count packs, not months.** Bearings went in **2026-09-06**, **4 packs** on them since. Logged in [`maintenance/README.md`](../../maintenance/README.md).
@@ -116,7 +116,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 <tr>
 <td width="50%" valign="top">
 
-<div align="center"><h3>&#9612; DRIVETRAIN &#9616;</h3></div>
+<div align="center"><h3>DRIVETRAIN</h3></div>
 
 ## Drivetrain
 
@@ -149,12 +149,14 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 
 </div>
 
+<p align="center"><img src="../Jato4SS/src/drivetrain_traxxas_diff_oil_30k_tra5136.jpg" height="110">&nbsp;<img src="../Jato4SS/src/drivetrain_traxxas_diff_oil_100k_tra5130.jpg" height="110">&nbsp;<img src="src/drivetrain_dynamite_marine_grease_dyne4201.jpg" height="110"><br><sub><b>30k</b> front · <b>100k</b> centre · <b>DYNE4201</b> grease in the rear</sub></p>
+
 <p align="center"><img src="src/drivetrain_dynamite_marine_grease_dyne4201.jpg" width="320"><br><em>The rear runs <strong>grease instead of oil</strong>, which is this car's own divergence from the 4SS</em></p>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center"><h3>&#9612; SUSPENSION &#9616;</h3></div>
+<div align="center"><h3>SUSPENSION</h3></div>
 
 ## Suspension
 
@@ -192,7 +194,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 <tr>
 <td width="50%" valign="top">
 
-<div align="center"><h3>&#9612; STEERING &#9616;</h3></div>
+<div align="center"><h3>STEERING</h3></div>
 
 ## Steering
 
@@ -219,7 +221,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 </td>
 <td width="50%" valign="top">
 
-<div align="center"><h3>&#9612; CHASSIS &#9616;</h3></div>
+<div align="center"><h3>CHASSIS</h3></div>
 
 ## Chassis
 
@@ -245,7 +247,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 <tr>
 <td width="50%" valign="top">
 
-<div align="center"><h3>&#9612; WHEELS &amp; TIRES &#9616;</h3></div>
+<div align="center"><h3>WHEELS &amp; TIRES</h3></div>
 
 ## Wheels & Tires
 
@@ -264,7 +266,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 </td>
 <td width="50%" valign="top">
 
-<div align="center"><h3>&#9612; BODY SHOP &#9616;</h3></div>
+<div align="center"><h3>BODY SHOP</h3></div>
 
 ## Aero & Body
 
@@ -292,7 +294,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 <tr>
 <td width="50%" valign="top">
 
-<div align="center"><h3>&#9612; ELECTRONICS &#9616;</h3></div>
+<div align="center"><h3>ELECTRONICS</h3></div>
 
 ## Electronics
 
@@ -315,7 +317,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 </td>
 <td width="50%" valign="top">
 
-<div align="center"><h3>&#9612; BATTERIES &#9616;</h3></div>
+<div align="center"><h3>BATTERIES</h3></div>
 
 ## Batteries
 
@@ -324,9 +326,6 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 **Max pack 152 × 48 × 44mm**, full length 4S, soft or hard case. **Four packs run here**, the Gens Ace Redline 6300 and three CNHL, and **the HV ones are the better packs**. Likely moving to hardcase so grit stops chafing the soft ones.
 
 <p align="center"><img src="src/electronics_cnhl_ultrathin_6000_120c.jpg" height="175">&nbsp;<img src="src/electronics_battery_bar_3d_printed.jpg" height="175"><br><em>CNHL Ultra-Thin 6000 120C · the <strong>printed battery bar</strong> that actually holds the pack down</em></p>
-
-<p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
-
 </td>
 </tr>
 </table>
@@ -337,7 +336,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 <tr>
 <td width="50%" valign="top">
 
-<div align="center"><h3>&#9612; GEARING GUIDE &#9616;</h3></div>
+<div align="center"><h3>GEARING GUIDE</h3></div>
 
 | Pinion (T) | Spur (T) | Result |
 |:---|:---|:---|
@@ -350,7 +349,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 </td>
 <td width="50%" valign="top">
 
-<div align="center"><h3>&#9612; FINAL THOUGHTS &#9616;</h3></div>
+<div align="center"><h3>FINAL THOUGHTS</h3></div>
 
 **A $100 Slash turned into this for $1006.74 of parts.** The donor sits outside that figure and so do the batteries, because packs move between cars. All in, counting both, it is **$1392.09**.
 
@@ -364,7 +363,7 @@ The wide track trick, and the best change on the car. RedSpider tires on the wid
 
 <p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
-<div align="center"><h3>▌ THE INDEX ▐</h3></div>
+<div align="center"><h3>THE INDEX</h3></div>
 
 ## Analysis Docs
 
@@ -384,7 +383,7 @@ Each one summarises **what is fitted**, with a link out to the [Jato 4SS](../Jat
 
 <p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
-<div align="center"><h3>▌ COMING NEXT ISSUE ▐</h3></div>
+<div align="center"><h3>COMING NEXT ISSUE</h3></div>
 
 ## TODO / Notes
 
