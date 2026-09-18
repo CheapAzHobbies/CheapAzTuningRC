@@ -94,7 +94,9 @@ The one part that makes this car's route work, and the one bearing here that is 
 
 ## The motor bearing (S605ZZ)
 
-**The 22 above are chassis bearings. The motor has its own, and on this car they are the ones that actually wear out.**
+**The 22 above are chassis bearings. The motor has its own two, and on this car they are the ones that actually wear out.**
+
+> ⚠️ **A service is two bearings, not one.** That doubles the real cost of a service to **$3.42** and halves how far a 10-pack goes. 🚧 **Whether both ends take the same S605ZZ is not confirmed.** Castle do not publish the sizes, and 5×14×5 came from fitting one, so the second could differ. Buying a 10-pack of a single size suggests they match, but that is not proof.
 
 <p align="center"><img src="src/electronics_bearing_s605zz_5x14x5.jpg" width="420"><br><em>S605ZZ 5×14×5, double metal shield. Same <strong>RAIN &amp; DEW</strong> brand as the hub bearing, bought from a different store</em></p>
 
@@ -103,6 +105,7 @@ The one part that makes this car's route work, and the one bearing here that is 
 | Field | Value |
 |---|---|
 | **Part** | **S605ZZ**, 5×14×5mm |
+| **How many** | **2 per motor**, and **a service replaces both** |
 | **Fits** | Castle Creations **1412 3200KV**, established by fitting one |
 | **Material** | ⚠️ **the listing contradicts itself**, the title and overview say **stainless SUS440**, the spec table says **bearing steel** |
 | **Precision** | **ABEC-9** |
@@ -110,7 +113,7 @@ The one part that makes this car's route work, and the one bearing here that is 
 | **Lubrication** | Pre-greased |
 | **Sold as** | 10 pcs per lot |
 | **Source** | AliExpress, **Bearing Solution Store**, brand **raindew** |
-| **Price** | **$17.06 / 10-pack** = **$1.71 each**, list $17.89 |
+| **Price** | **$17.06 / 10-pack** = **$1.71 each**, so **$3.42 a service** and the pack covers **five services** |
 
 </div>
 

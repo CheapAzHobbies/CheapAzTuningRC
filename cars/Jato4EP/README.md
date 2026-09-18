@@ -226,7 +226,7 @@ Both Jatos run the same **knock-off Slash / Jato 4x4 HD steel CV driveshafts** (
 
 </div>
 
-**Motor bearing service tracking:** bearings replaced ~2026-09-06, first run on them 2026-09-12, **4 battery packs run since**. Running **S605ZZ 5×14×5 ABEC-9** rather than the stock bearings, which work but burn up quickly ([`bearings_reference.md`](bearings_reference.md#the-motor-bearing-s605zz)). Counted by packs in [`maintenance/README.md`](../../maintenance/README.md), the goal is catching the next replacement before they blow rather than after.
+**Motor bearing service tracking:** bearings replaced ~2026-09-06, first run on them 2026-09-12, **4 battery packs run since**. Running **S605ZZ 5×14×5 ABEC-9** rather than the stock bearings, which work but burn up quickly. **The motor takes two, and a service replaces both** ([`bearings_reference.md`](bearings_reference.md#the-motor-bearing-s605zz)). Counted by packs in [`maintenance/README.md`](../../maintenance/README.md), the goal is catching the next replacement before they blow rather than after.
 
 > Motor, gearing and the power-band finding are written up in [`esc_motor_analysis.md`](esc_motor_analysis.md). **EC5 is the main battery connection**, with everything fitted listed in [`connector_reference.md`](connector_reference.md).
 
