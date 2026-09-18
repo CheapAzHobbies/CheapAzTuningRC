@@ -2,6 +2,9 @@
 
 > **Running: ACER Racing M4 × 60mm titanium turnbuckles**, **six of them at $5.99 each, $35.94 the set**. They are sold individually, not in pairs, and the 4SS runs the same six.
 >
+>
+> **The length reference is the Traxxas 3645**, a **96mm center to center** adjustable steel toe link on a **61mm** rod, **$8.50 / pair** assembled with rod ends and hollow balls. The measurements behind the 61mm figure were taken on those, see [the 4SS measurements](../Jato4SS/tie_rod_analysis.md#measured-on-traxxas-3645-toe-links).
+
 > **Full comparison:** [Jato 4SS tie rod analysis](../Jato4SS/tie_rod_analysis.md).
 
 <p align="center"><img src="../Jato4SS/src/steering_acer_titanium_turnbuckle_m4x60.jpg" height="220">&nbsp;<img src="../Jato4SS/src/steering_rpm_long_rod_ends_white_80511.jpg" height="220"><br><em>What the link is made of: <strong>ACER Racing M4 × 60mm titanium turnbuckle</strong> · <strong>RPM long rod ends in white (80511)</strong></em></p>
