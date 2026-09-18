@@ -126,7 +126,7 @@
 
 </div>
 
-**The motor has no separate receipt.** It arrived in the combo, so the purchase and the RMA replacement above cover both halves.
+**The motor has no separate receipt.** It arrived in the combo, so the single purchase above covers both halves.
 
 ---
 
