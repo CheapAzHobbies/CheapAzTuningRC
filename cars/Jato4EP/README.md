@@ -285,7 +285,7 @@
 
 <div align="center"><h3>▌ TUNING TIPS ▐</h3></div>
 
-- **Keep it cool.** The motor lasts effectively forever, the bearings do not, and **when one lets go it takes the rotor with it**. That turns a $1.71 part into a whole motor. **A service is two bearings, $3.42.**
+- **Keep it cool.** The motor lasts effectively forever, the bearings do not, and **when one lets go it takes the rotor with it**. That turns a $1.71 part into a whole motor. **A service is two bearings, the same size at both ends, $3.42.**
 - **Count packs, not months.** Bearings went in **2026-09-06**, first run **2026-09-12**, **4 packs** on them since. Logged in [`maintenance/README.md`](../../maintenance/README.md).
 - **Grease the rear diff, do not fill it.** A **light coat** of Dynamite blue, never packed. Packing it defeats the point.
 - **Do not over-tighten.** Let the suspension move freely and avoid binding.

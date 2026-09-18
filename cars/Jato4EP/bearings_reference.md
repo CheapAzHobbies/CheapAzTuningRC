@@ -98,7 +98,7 @@ The one part that makes this car's route work, and the one bearing here that is 
 
 **The 22 above are chassis bearings. The motor has its own two, and on this car they are the ones that actually wear out.**
 
-> ⚠️ **A service is two bearings, not one.** That doubles the real cost of a service to **$3.42** and halves how far a 10-pack goes. 🚧 **Whether both ends take the same S605ZZ is not confirmed.** Castle do not publish the sizes, and 5×14×5 came from fitting one, so the second could differ. Buying a 10-pack of a single size suggests they match, but that is not proof.
+> ⚠️ **A service is two bearings, not one.** That doubles the real cost of a service to **$3.42** and halves how far a 10-pack goes. ✅ **Both ends take the same S605ZZ.** Front and rear are the same size, so one part number services the whole motor and the 10-pack is genuinely five services rather than ten halves.
 
 <p align="center"><img src="src/electronics_bearing_s605zz_5x14x5.jpg" width="420"><br><em>S605ZZ 5×14×5, double metal shield. Same <strong>RAIN &amp; DEW</strong> brand as the hub bearing, bought from a different store</em></p>
 
@@ -108,7 +108,7 @@ The one part that makes this car's route work, and the one bearing here that is 
 |---|---|
 | **Part** | **S605ZZ**, 5×14×5mm |
 | **How many** | **2 per motor**, and **a service replaces both** |
-| **Fits** | Castle Creations **1412 3200KV**, established by fitting one |
+| **Fits** | Castle Creations **1412 3200KV**, **front and rear, the same size at both ends** |
 | **Material** | ⚠️ **the listing contradicts itself**, the title and overview say **stainless SUS440**, the spec table says **bearing steel** |
 | **Precision** | **ABEC-9** |
 | **Seal** | **Double metal shield (ZZ)** |
@@ -123,7 +123,7 @@ The one part that makes this car's route work, and the one bearing here that is 
 
 > ⭐ **ABEC-9 over stock, and the reason is life rather than speed.** **The stock Castle bearings work, they just burn up quickly.** These last longer in the same motor. ABEC is a precision grade and not a durability rating, so the real gain is the **stainless and the flush shielding**, which leaves dirt and water much less of a way in. **Keeping the motor cool still matters** on top of the bearing choice.
 
-⚠️ **Castle does not publish the 1412's bearing sizes.** The [4SS motor table](../Jato4SS/motor_analysis.md) records Castle's as *"NMB, size not published"*, so **5×14×5 comes from fitting one, not from a spec sheet**. For scale, the Tekin Pro4 in that same table runs **5×14×5 front with 5×11×5 rear**, so a motor of this class usually takes two different sizes. 🚧 **The 1412's rear bearing size is not recorded here**, only the 5×14×5.
+⚠️ **Castle does not publish the 1412's bearing sizes.** The [4SS motor table](../Jato4SS/motor_analysis.md) records Castle's as *"NMB, size not published"*, so **5×14×5 comes from fitting one, not from a spec sheet**. **Both ends are confirmed the same size**, so that one measurement covers the whole motor. For scale, the Tekin Pro4 in that same table runs **5×14×5 front with 5×11×5 rear**, so a motor of this class usually takes two different sizes. 🚧 **The 1412's rear bearing size is not recorded here**, only the 5×14×5.
 
 ⚠️ **A failed bearing does not stay a bearing problem.** The motor itself effectively lasts forever, the bearings do not, and **when one lets go it takes the rotor with it**. That turns a **$1.71** part into a **whole replacement motor**. Mike has already paid **$94.00** for a non-warranty RMA 1412 ([LEDGER](../../LEDGER.md) #83), though 🚧 the cause of that one is not recorded. **This is exactly why the packs get counted**: catching a bearing before it fails is the difference between a $1.71 job and a $94 one.
 

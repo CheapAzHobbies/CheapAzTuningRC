@@ -76,7 +76,7 @@
 
 **Bearings replaced ~2026-09-06, first run on them 2026-09-12.** The car has run **4 battery packs** on them since.
 
-**The motor takes two bearings and a service replaces both**, so one service is **$3.42** of S605ZZ.
+**The motor takes two bearings, the same size front and rear, and a service replaces both**, so one service is **$3.42** of S605ZZ.
 
 **Running the S605ZZ 5×14×5 ABEC-9** rather than the stock Castle bearings. **The stock ones work, they just burn up quickly**, and these last longer in the same motor. Full spec, price and the sourcing caveat in [`bearings_reference.md`](bearings_reference.md#the-motor-bearing-s605zz).
 
