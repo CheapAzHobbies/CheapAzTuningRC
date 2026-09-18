@@ -1,8 +1,8 @@
 <div align="center">
 
-# ▌ R C   C A R   N E W S ▐
+# ▌ R A D I O   C O N T R O L L E D   C A R   C R A P T I O N ▐
 
-**RACING · TUNING · TECH · COMMUNITY** &nbsp;&nbsp;·&nbsp;&nbsp; REAL CARS. REAL PEOPLE. REAL RC.
+**RACING · TUNING · TECH · COMMUNITY** &nbsp;&nbsp;·&nbsp;&nbsp; ALL THE ACTION, NONE OF THE BUDGET
 
 `VOL. 1 . . . No. 1 . . . SEPTEMBER 2026 . . . BEAVERTON, OR . . . PRICE 25¢`
 
@@ -361,7 +361,7 @@ Each one summarises **what is fitted**, with a link out to the [Jato 4SS](../Jat
 
 <div align="center">
 
-<sub><b>RC CAR NEWS</b> · Published irregularly from the bench · All prices as paid, all weights as measured<br>
+<sub><b>RADIO CONTROLLED CAR CRAPTION</b> · Published irregularly from the bench · All prices as paid, all weights as measured<br>
 Sister publication: <a href="../Jato4SS/README.md">Jato 4SS, the Super Jato</a> · Accounts settled in the <a href="../../LEDGER.md">LEDGER</a></sub>
 
 </div>
