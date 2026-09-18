@@ -122,7 +122,6 @@
 | Date | Price | Discount Path | Notes |
 |:---|:---|:---|:---|
 | 2025-03-19 | **$198.71** ✅ **purchased** | Educational discount (EDUDISC) | Combo **010-0155-13**. $12.78 shipping, **$211.49** the order. Castle order STD0000000137021, invoice STDINV000165036. Paid by Mike directly |
-| 🚧 date not recorded | **$94.00** | Non-warranty RMA | Replacement 1412 3200KV motor ([LEDGER](../../LEDGER.md) #83). Replaced the combo's motor rather than adding one, so it is not counted in the [BOM](BOM.md#electronics) |
 | current listing | $221.21 | 26% off | List $360.90. For reference only, not paid |
 
 </div>
