@@ -19,7 +19,7 @@
 
 </div>
 
-> **Two pairs, both out of the same FLM July sale.** Running them front **and** rear takes **two** pairs, so the arms cost **$51.46** in total. [LEDGER](../../LEDGER.md) #85 books the first at **$25.73**, Mike's share of the 4-pair bulk order (#4658). The rear pair came off that same sale at the same price. 🚧 **Only the first pair is on the ledger**, so the [BOM](BOM.md#suspension) counts both at that rate.
+> **Two pairs, both out of the same FLM July sale.** Running them front **and** rear takes **two** pairs, so the arms cost **$51.46** in total at **$25.73** a pair. The rear pair came off that same sale at the same price.
 
 ---
 

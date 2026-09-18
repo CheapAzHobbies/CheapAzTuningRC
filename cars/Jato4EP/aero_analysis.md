@@ -2,7 +2,7 @@
 
 > **Running: the Traxxas 9060-BLUE body with the 9517X blue rear wing on 9046 wing mounts.** The wing and mounts are **two of the three parts that turn a Slash 4x4 into a Jato**, along with the [rear tower](shock_tower_analysis.md).
 >
-> **The body is not the colour that was ordered.** [LEDGER](../../LEDGER.md) #90 is a **green** Jato 4x4 body at **$36.00** (2026-08-22), but **Jenny's RC shipped the 9060-BLUE instead**. It was kept, so the receipt and the part are the same purchase. **The mistake went in their favour**, since the blue lists around **$43**.
+> **The body is not the colour that was ordered.** A **green** Jato 4x4 body was ordered at **$36.00** (2026-08-22), but **Jenny's RC shipped the 9060-BLUE instead**. It was kept, so the receipt and the part are the same purchase. The mistake went in his favour, since the blue lists around **$43**, and **the wrong body honestly looks better than the one that was ordered**.
 >
 > **Full comparison of bodies, wings and mounts:** [Jato 4SS aero analysis](../Jato4SS/aero_analysis.md).
 
