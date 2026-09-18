@@ -36,7 +36,7 @@
 
 </div>
 
-⚠️ **Stay in Associated for this step.** **TLR does not make a 47.5wt at all**, and the two brands split badly at this end of the range: Associated 50wt is **640 cSt** against TLR 50wt at **710 cSt**, nearly a full step apart. If only TLR is on the shelf, **TLR 45wt (610 cSt) is the near equivalent** of Associated 47.5wt (613 cSt). Full chart in the [shock oil supertable](../ERevo_1.0/shock_analysis.md#shock-oil-supertable--wt--cst-across-brands-up-to-5000-cst).
+⚠️ **Stay in Associated for this step.** **TLR does not make a 47.5wt at all**, and the two brands split badly at this end of the range: Associated 50wt is **640 cSt** against TLR 50wt at **710 cSt**, nearly a full step apart. If only TLR is on the shelf, **TLR 45wt (610 cSt) is the near equivalent** of Associated 47.5wt (613 cSt). Full chart in the [shock oil supertable](../ERevo_1.0/shock_analysis.md#shock-oil-supertable-wt--cst-across-brands-up-to-5000-cst).
 
 > **Why this car and not the other.** The rear piston here is **6 hole × 1.2mm**, where the [4SS](../Jato4SS/shock_analysis.md#setup-spec-springs--pistons--oil) runs **6 × 1.4mm**. Smaller holes restrict flow more, which is exactly what makes a shock pack, so **the same 50wt oil is doing a harder job in this car's rear** than in that one's.
 

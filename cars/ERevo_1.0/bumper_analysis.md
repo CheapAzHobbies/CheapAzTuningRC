@@ -1,8 +1,8 @@
 # Bumper Selection — E-Revo 1.0
 
-> **Front: Traxxas 5335 silver nylon bumper + mount. Rear: none.** The truck came (as a gift) with a junk **blue metal front bumper** that **bent the moment it hit anything** and added pointless nose weight, so it's gone. The **nylon 5335** is light, **flexes instead of bending**, looks good, and actually helps the truck **cartwheel cleanly** instead of digging in. I run the tougher **RPM 80802 mount** under it, so a tweaked mount is a **$5 part** instead of a whole new set. **No rear bumper at all** — it protects nothing, and there's already a metal bulkhead back there.
+> **Front: Traxxas 5335 silver nylon bumper + mount. Rear: none.** The truck came (as a gift) with a junk **blue metal front bumper** that **bent the moment it hit anything** and added pointless nose weight, so it's gone. The **nylon 5335** is light, **flexes instead of bending**, looks good, and actually helps the truck **cartwheel cleanly** instead of digging in. I run the tougher **RPM 80802 mount** under it, so a tweaked mount is a **$5 part** instead of a whole new set. **No rear bumper at all**. It protects nothing, and there's already a metal bulkhead back there.
 
-<p align="center"><img src="src/bumper_traxxas_nylon_front_bumper_mount_5335.jpg" width="600"><br><em>Traxxas 5335 — silver nylon front bumper + black nylon mount (with mounting screws)</em></p>
+<p align="center"><img src="src/bumper_traxxas_nylon_front_bumper_mount_5335.jpg" width="600"><br><em>Traxxas 5335: silver nylon front bumper + black nylon mount (with mounting screws)</em></p>
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## Notes
 
-- **Front bumper is mostly aesthetic.** On these trucks the front bumper takes a lot of abuse but **rarely actually breaks** — owners mostly swap it to make the truck look fresh (clean it up for photos). So the priority is light + good-looking, not bombproof.
+- **Front bumper is mostly aesthetic.** On these trucks the front bumper takes a lot of abuse but **rarely actually breaks**; owners mostly swap it to make the truck look fresh (clean it up for photos). So the priority is light + good-looking, not bombproof.
 - **Why nylon over metal.** The metal bumper that came with the car **bent on the first impact** and stayed bent, plus it hung weight off the nose. Nylon flexes and springs back, weighs less, and is cheaper to replace.
 - **It helps the truck cartwheel.** A light, rounded front bumper lets the truck **tumble/cartwheel** over an impact instead of catching and tweaking suspension parts. So it's not purely cosmetic.
 - **Cheap-piece strategy.** Running the **RPM 80802 mount** under the nylon bar means the part most likely to tweak (the mount) is a **$5 standalone replacement**, not a $10 full set.
