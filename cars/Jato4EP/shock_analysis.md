@@ -12,12 +12,14 @@
 
 | Position | Oil | Spring | Piston |
 |---|---|---|---|
-| **Front** | **37.5wt**, Losi TLR74030 (468 cSt) | White 59gf (HB #67454, 76mm), stock C1 / D8 spec | ⚙️ **6 hole × 1.4, with two holes opened to 1.5** |
-| **Rear** | **50wt**, Associated 5480 FT (650 cSt) | Grey 52gf, **HB67453**, 76mm, stock C1 / D8 spec | 6 hole × 1.2 |
+| **Front** | **37.5wt**, Losi TLR74030 (468 cSt) | **Stock white 59gf** (HB #67454, 76mm), the spring the C1 shipped with, so nothing was spent | ⚙️ **6 hole × 1.4, with two holes opened to 1.5** |
+| **Rear** | **50wt**, Associated 5480 FT (650 cSt) | Grey 52gf, **HB67453**, 76mm, **bought**, $11.75 the pair | 6 hole × 1.2 |
 
 </div>
 
 > ⚙️ **The drilled piston is this car's own tweak.** Four holes stay at **1.4mm**, two are opened to **1.5mm**, so the front piston flows slightly more than a stock 1.4 without going to a full 1.5. 🚧 Which end it was tuned against, and why two rather than three, is not recorded.
+
+<p align="center"><img src="src/suspension_hb_springs_52gf_grey_hb67453.jpg" width="420"><br><em>The <strong>HB67453 grey 52gf</strong> rears, 76mm. <strong>The fronts are the stock white 59gf</strong> that came with the shocks, so only the rears were bought</em></p>
 
 ---
 
@@ -59,7 +61,7 @@
 | Date | Price | Discount Path | Notes |
 |:---|:---|:---|:---|
 | 2025-06-02 | **$97.41** ✅ **purchased** | Listed price | **4 sets** of HPI **107365**, eBay **whiterosehobbies**, order **19-13141-49737**, delivered 2025-06-07. **Two sets are this car** ($48.70), the other two went on the [E-Revo 1.0](../ERevo_1.0/shock_analysis.md). Return window closed 2025-07-07 |
-| 2026-05-19 | **$23.49** ✅ **purchased** | Listed price | **2 packs** of Hot Bodies **67453** grey 52gf 76mm (Vorza D8S), order **14-14653-12511**, delivered 2026-05-22. **One pack is this car's rear** ($11.75), the second is a spare. 🚧 a photo of these exists but is not filed yet |
+| 2026-05-19 | **$23.49** ✅ **purchased** | Listed price | **2 packs** of Hot Bodies **67453** grey 52gf 76mm (Vorza D8S), order **14-14653-12511**, delivered 2026-05-22. **One pack is this car's rear** ($11.75), the second is a spare. |
 
 </div>
 

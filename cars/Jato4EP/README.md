@@ -158,7 +158,7 @@
 
 | Position | Piston | Spring |
 |:---|:---|:---|
-| **Front** | ⚙️ **6 hole × 1.4**, two holes opened to 1.5 | White 59gf |
+| **Front** | ⚙️ **6 hole × 1.4**, two holes opened to 1.5 | **Stock white 59gf** |
 | **Rear** | 6 hole × 1.2 | Grey 52gf, **HB67453** |
 
 </div>
