@@ -2,6 +2,8 @@
 
 > **Chosen: FlySky Noble NB4 transmitter + FlySky FGr4S V2 receiver, in hand.** A color-touchscreen 4-channel surface radio (AFHDS 3) with telemetry and model memory. The NB4 **ships with two receivers (FGR4 + the small FGR4S)**; running the **small FGR4S V2**. Paid **$140.91** (list $175.09). This is what's running the car, not a shortlist.
 
+<p align="center"><img src="src/electronics_flysky_nb4_radio.jpg" width="500"><br><em>FlySky Noble NB4 with the FGr4S V2 receiver</em></p>
+
 ---
 
 ## Key Requirements
