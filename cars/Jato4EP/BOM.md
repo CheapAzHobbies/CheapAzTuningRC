@@ -17,17 +17,17 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Drivetrain](#drivetrain) | $148.72 |
 | [Suspension](#suspension) | $143.89 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
-| [Steering](#steering) | $51.63 |
-| [Wheels & Tires](#wheels--tires) | $48.18 |
+| [Steering](#steering) | $83.20 |
+| [Wheels & Tires](#wheels--tires) | $62.49 |
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $353.33 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$1337.88** |
-| **Car only, without batteries** | **$1052.53** |
+| **Total recorded** | **$1383.76** |
+| **Car only, without batteries** | **$1098.41** |
 
 > **What came free:** the **54T spur**, the **stock EHD C-hub and rear carriers**, and the **stock gearbox housings** all arrived on the donor and are priced $0. ⚠️ **This list is probably not complete**, see [What came with the car](#what-came-with-the-car).
 >
-> **What the total is missing:** only the bare Jato rims now. See [What's still unpriced](#whats-still-unpriced).
+> **One line is still open:** what Mike paid for the Surpass heatsink. Every other row carries a price or is marked as having come with the car. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -90,18 +90,17 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **GPM aluminum bell crank** | 1 | [LEDGER](../../LEDGER.md) #72 | **$20.00 each** | [Steering](README.md#steering) |
-| **ACER M4 × 60 titanium turnbuckles**<br><sub>Note: $5.99 each, were the planned Jato 4SS steering links</sub> | 1 | ACER Racing, order #581093 | **$11.98 / pair** | [Steering](README.md#steering) |
+| **ACER Racing titanium M4x60 turnbuckles**<br><sub>Note: **six of them**, sold individually rather than in pairs. Same part and same price as the 4SS, which also runs six</sub> | 6 | ACER Racing, order #581093 | **$5.99 each** | [Steering](README.md#steering) |
 | **PTK 9752TG-D servo**<br><sub>Note: PTK 9752TG-D, bulk 8-pack rate, same servo as the 4SS. Replaced a JX CLS6322HV that lost its centre. The ledger's other PTK entries are different servos</sub> | 1 | Bulk 8-pack | **$19.65 each** | [Servo](servo_analysis.md) |
-| **GPM servo horn** | 1 | 🚧 not recorded | **🚧** | [Servo](servo_analysis.md) |
-| **Spring steel servo tie rod**<br><sub>Note: same as the 4SS</sub> | 1 | 🚧 not recorded | **🚧** | [Servo](servo_analysis.md) |
+| **GPM RUS416026ST-S servo link + 25T alloy horn**<br><sub>Note: **the spring steel tie rod and the servo horn come in one package**, 6pc set, 8.0g. Same part and price as the 4SS</sub> | 1 | GPM | **$7.61 / set** | [Servo](servo_analysis.md) |
 
 ## Wheels & Tires
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **RED SPIDER 17mm hex wheels + tires**<br><sub>Note: the tires run on wider Traxxas Jato rims instead, which is the wide-track trick</sub> | 1 | [LEDGER](../../LEDGER.md) #77 | **$20.10 / set of 4** | [Wheels](wheel_analysis.md) |
-| **Blue race foams**<br><sub>Note: sit between the 9070-WHT rim and the RedSpider tire. ⚠️ 🚧 two foam lines on the ledger, #76 "4pc 1/8 RC foam inserts" at $8.08 and #59 "race tire foams" at $6.39, so which one these are is unconfirmed</sub> | 1 | [LEDGER](../../LEDGER.md) #76 | **$8.08 / set of 4** | [Wheels](wheel_analysis.md) |
-| **Traxxas 9070-WHT rims**<br><sub>Note: Jato 4x4 VXL 3.0" dished, white, 17mm hex. What the RedSpider tires are mounted on. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Wheels](wheel_analysis.md) |
+| **Blue race foams**<br><sub>Note: sit between the 9070-WHT rim and the RedSpider tire. **[LEDGER](../../LEDGER.md) #59, the $6.39 "race tire foams"**, which was the better price at the time. The #76 line at $8.08 is a different purchase</sub> | 1 | [LEDGER](../../LEDGER.md) #59 | **$6.39 / set of 4** | [Wheels](wheel_analysis.md) |
+| **Traxxas 9070-WHT rims**<br><sub>Note: Jato 4x4 VXL 3.0" dished, white, 17mm hex. **Two pairs for the four corners.** The wider rim is the whole wide-track trick</sub> | 2 | Tammies Hobbies | **$8.00 / pair** | [Wheels](wheel_analysis.md) |
 | **Traxxas 6469 17mm splined wheel hubs + nuts**<br><sub>Note: blue anodised 6061-T6, set of 4 with threadlocked screw pins, listed for 6mm axles. **Shaved down** to clear the bare 10×18×5. ⚠️ the 4SS runs cheaper aftermarket hexes instead</sub> | 1 | Traxxas | **$20.00 / set of 4** | [Hexes](driveshaft_analysis.md#17mm-wheel-hexes) |
 
 ## Body & Aero
@@ -172,7 +171,8 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | ~~Radio~~ | **Resolved:** FlySky NB4 with the FGr4S V2 at $140.91, the same as the 4SS |
 | ~~Spur and pinion~~ | **Resolved:** the 11T pinion is a **$2.43** Surpass Hobby part off AliExpress, and the 54T spur came with the donor |
 | ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |
-| **Bare Jato rims** | The last small gap. ~~Shock oils~~ are **resolved** at **$9.99 / bottle** each, and the 17mm hexes are the Traxxas 6469 at $20.00 |
+| ~~Bare Jato rims~~ | **Resolved:** **$8.00 / pair** from Tammies, two pairs |
+| **The Surpass motor heatsink** | The last unpriced row. The **$6.00 metal fans** that go in it are booked, but what the heatsink itself cost is not recorded |
 
 ---
 

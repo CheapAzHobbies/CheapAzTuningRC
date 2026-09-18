@@ -1,6 +1,6 @@
 # Tie Rod & Camber Link Selection — Jato 4EP
 
-> **Running: ACER Racing M4 × 60mm titanium turnbuckles**, two of them at $5.99 each, **$11.98 the pair**. They were originally bought as the 4SS steering links and moved here.
+> **Running: ACER Racing M4 × 60mm titanium turnbuckles**, **six of them at $5.99 each, $35.94 the set**. They are sold individually, not in pairs, and the 4SS runs the same six.
 >
 > **Full comparison:** [Jato 4SS tie rod analysis](../Jato4SS/tie_rod_analysis.md).
 
@@ -12,8 +12,8 @@
 
 | Item | Spec |
 |---|---|
-| **Turnbuckles** | **ACER Racing M4 × 60mm titanium**, ×2 |
-| **Price** | **$11.98 / pair** (ACER order #581093) |
+| **Turnbuckles** | **ACER Racing M4 × 60mm titanium**, ×6 |
+| **Price** | **$5.99 each**, **$35.94** for all six (ACER order #581093) |
 | **Rod ends** | **RPM long rod ends, white (80511).** Colour is cosmetic, the black **80512** and blue **80515** are the same part |
 
 </div>
