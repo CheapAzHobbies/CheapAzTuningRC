@@ -8,7 +8,7 @@
 >
 > **Full comparison of every bumper that fits:** [Jato 4SS bumper analysis](../Jato4SS/bumper_analysis.md#bumper-options).
 
-<p align="center"><img src="../Jato4SS/src/bumpers_traxxas_rustler_4x4_front_6736.jpg" height="240">&nbsp;<img src="../Jato4SS/src/bumpers_traxxas_skid_plates_tra9044.jpg" height="240"><br><em>What's fitted: <strong>TRA6736</strong> Rustler 4x4 front bumper and support · <strong>TRA9044</strong> skid plates, the rear half only</em></p>
+<p align="center"><img src="../Jato4SS/src/bumpers_traxxas_rustler_4x4_front_6736.jpg" height="240">&nbsp;<img src="src/bumpers_traxxas_skid_plates_tra9044_front_unused.jpg" height="240"><br><em>What's fitted: <strong>TRA6736</strong> Rustler 4x4 front bumper and support · <strong>TRA9044</strong> skid plates, the rear half only</em></p>
 
 ---
 

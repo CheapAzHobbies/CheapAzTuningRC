@@ -24,6 +24,8 @@ The hub corners run a **bare 10×18×5**, which is 5mm thick against a 4mm pocke
 
 </div>
 
+<p align="center"><img src="src/reference_bearing_sizes_collage.jpg" width="700"><br><em>The sizes this car runs, smallest first. <strong>10×18×5 is the mod</strong>, dropped bare into the EHD pocket instead of sleeved · <strong>5×14×5 is the motor bearing</strong>, and the only one that wears out often. 🚧 <strong>8×16×5 and 5×8×2.5 are not pictured</strong></em></p>
+
 **Total: 22 bearings**, across **7 distinct sizes**. **The motor carries its own bearings on top of these**, see [the motor bearing](#the-motor-bearing-s605zz).
 
 > **Note the bellcrank difference.** The 4SS swapped its four **TRA5114** bellcrank bearings for **TRA3775 Oilite bushings**, because a bellcrank only rocks through a small arc and the balls dig into one spot instead of rolling onto fresh metal. **This car still runs the bearings there**, so it is a known future failure point rather than a solved one.
