@@ -3,7 +3,7 @@
 > **Running: ACER Racing M4 × 60mm titanium turnbuckles**, **six of them at $5.99 each, $35.94 the set**. They are sold individually, not in pairs, and the 4SS runs the same six.
 >
 >
-> **The length reference is the Traxxas 3645**, a **96mm center to center** adjustable steel toe link on a **61mm** rod, **$8.50 / pair** assembled with rod ends and hollow balls. The measurements behind the 61mm figure were taken on those, see [the 4SS measurements](../Jato4SS/tie_rod_analysis.md#measured-on-traxxas-3645-toe-links).
+> **The length reference is the Traxxas 3645**, a **96mm center to center** adjustable steel toe link on a **61mm** rod, **$8.50 / pair** assembled with rod ends and hollow balls. The measurements behind the 61mm figure were taken on those, see [the 4SS measurements](../Jato4SS/tie_rod_analysis.md#measured-on-traxxas-3645-toe-links). **Those links were replaced for bending and snapping**, and the titanium set fails better: **the rod end blows rather than the rod**, so a broken link is a wrench job instead of digging a snapped stub out of a rod end.
 
 > **Full comparison:** [Jato 4SS tie rod analysis](../Jato4SS/tie_rod_analysis.md).
 
