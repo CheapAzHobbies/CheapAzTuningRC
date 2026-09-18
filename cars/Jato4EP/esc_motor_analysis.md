@@ -6,7 +6,7 @@
 >
 > ⚙️ **The gearing finding came from this car**, and it overturned the assumption the build started with. See [The gearing finding](#the-gearing-finding).
 >
-> **The full comparisons are not repeated here.** The ESC options live in the [Jato 4SS ESC analysis](../Jato4SS/esc_analysis.md#esc-comparison), and the motor theory in its [motor analysis](../Jato4SS/motor_analysis.md#castle-creations-1412-3200kv--in-hand).
+> **The full comparisons are not repeated here.** The ESC options live in the [Jato 4SS ESC analysis](../Jato4SS/esc_analysis.md#esc-comparison), and the motor theory in its [motor analysis](../Jato4SS/motor_analysis.md#castle-creations-1412-3200kv-in-hand).
 
 <p align="center"><img src="src/electronics_castle_mamba_x_sct_1412_3200kv_combo_010-0155-13.jpg" width="500"><br><em>Mamba X SCT ESC and 1412-3200KV 5mm sensored motor, sold as one part, combo <strong>010-0155-13</strong></em></p>
 

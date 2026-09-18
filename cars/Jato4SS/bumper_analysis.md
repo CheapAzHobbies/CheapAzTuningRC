@@ -39,7 +39,7 @@
 
 ## Bumper Options
 
-### OEM set — front + rear together (the leading default)
+### OEM set: front + rear together (the leading default)
 
 > *Spec format: Type · Material · Position · Fits · Includes · Weight · Price*
 

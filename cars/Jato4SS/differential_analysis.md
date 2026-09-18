@@ -88,7 +88,7 @@ That makes the **native Jato 4x4 stock diff** the correct pick again, cheapest, 
 | 🔵 **TRA6780R, Pro-Built Center Diff** | **Part:** TRA6780R<br>**Housing:** plastic (black)<br>**Spur:** steel 50T 32-pitch (integrated)<br>**Oil:** 20m (pre-filled)<br>**Weight:** N/A<br>**Fits:** Hoss / Slash / Stampede / Rustler 4x4<br>**Price:** $60.00 | Pro: Plastic housing. Pre-built, sealed, $60. 50T spur<br><br>Con: Integrated steel spur kills the plastic-fuse failure mode. Outdrive size TBD, verify 6mm | <img src="src/drivetrain_traxxas_pro_built_center_diff_tra6780r.jpg" width="500"> |
 | ❌ ~~**TRA6780, Complete Center 4X4 Diff Kit (alum housing + steel 54T spur)**~~ | **Part:** TRA6780 (Autramodel.cz)<br>**Housing:** aluminum<br>**Spur:** steel 54T (integrated)<br>**Oil:** N/A<br>**Weight:** **137g** (0.137 kg) measured<br>**Fits:** Hoss / Slash / Stampede / Rustler 4x4<br>**Price:** $69.95 | Pro: Complete bolt-in unit, alum housing + steel spur is durable on paper<br><br>Con: **Tons of unneeded rotational weight**, heavy alum housing + steel spur add spinning mass right in the driveline. **Aluminum housing augers out** (wears oblong) faster than plastic and holds fluid worse. Steel spur kills the plastic-fuse failure mode. **$69.95**, same alum+steel design as the ~$20 AliExpress unit, just 3.5× the price | <img src="src/drivetrain_traxxas_complete_center_diff_tra6780.jpg" width="500"> |
 
-### Slipper Clutch (alternative to center diff — vetoed)
+### Slipper Clutch (alternative to center diff, vetoed)
 
 A slipper clutch replaces the center diff entirely. Vetoed here because it doesn't suit this build's surface.
 

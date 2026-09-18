@@ -64,7 +64,7 @@
 
 ## Detailed Notes
 
-### HobbyWing EZRun MAX10 G2 140A — Chosen (matched 3665 G3 motor combo)
+### HobbyWing EZRun MAX10 G2 140A: Chosen (matched 3665 G3 motor combo)
 
 - Dimensions: 53 × 39.5 × 37.2mm
 - BEC: 6V or 7.4V @ 5A (switch-mode)
@@ -78,7 +78,7 @@
 - **What people typically run this kit in:** 1/10 **4×4 monster trucks / heavier 4WD trucks** (Arrma Granite / Big Rock / Typhon, Traxxas Stampede / Rustler / Slash 4×4) and light **truggies**. By KV: **2400KV on 4S** = heavier 1/10 4WD MT (the torque/4S config); **3200KV on 2-3S** = 1/10 SCT / all-around; **4000KV on 2-3S** = lighter buggy / on-road / speed. The Jato 4SS is **heavier than the typical 1/10 target**, so the **2400KV/4S** (the kit's heaviest-duty config) is the match, and it sits near the top of what the MAX10 G2 is rated for.
 
 
-### Fire Phoenix XeRun 120A Enhanced (Speed Dragon) — In Hand (spare/fallback)
+### Fire Phoenix XeRun 120A Enhanced (Speed Dragon): In Hand (spare/fallback)
 
 - Chinese market rebrand of the HobbyWing XeRun 120A Enhanced (强化速龙). Not the standard V3.1, that's 2-3S only. The Enhanced version is 2-4S and waterproof.
 - Dimensions: 43 × 36 × 33mm
@@ -89,7 +89,7 @@
 - I confirmed full submersion, not just splash resistant. Surprisingly capable for a $30 ESC.
 - Proven on my car: 4S with 3200KV on Slash 4x4, zero issues. Cost $30 on Temu/AliExpress.
 
-### Castle Mamba X — Candidate
+### Castle Mamba X: Candidate
 
 - Dimensions: 54.4 × 35.2 × 30.0mm
 - BEC: 8A peak, adjustable 5.5 / 6.0 / 7.5 / 8.0V (default 5.5V)
@@ -100,7 +100,7 @@
 - Datalogging, telemetry, ROAR + Recon G6 certified, B-Link compatible
 - MSRP $232, street ~$190
 
-### Castle Mamba Monster X — Candidate
+### Castle Mamba Monster X: Candidate
 
 - 1/8-scale version of the Mamba X
 - Dimensions: 53 × 49 × 36.4mm
@@ -112,7 +112,7 @@
 - Datalogging, telemetry, B-Link compatible
 - MSRP $245, street ~$200
 
-### Castle Copperhead 10 — Candidate (budget)
+### Castle Copperhead 10: Candidate (budget)
 
 - Dimensions: 55.6 × 35.3 × 33.8mm
 - BEC: 6A peak, selectable 5.5 / 7.5V
@@ -125,13 +125,13 @@
 - **I run 2 on the K939, never struggle or thermal**
 - MSRP $177, street ~$145, sale prices as low as ~$95
 
-### HobbyWing XeRun XR8 SCT — Ruled Out (not waterproof)
+### HobbyWing XeRun XR8 SCT: Ruled Out (not waterproof)
 
 - Older model in the XR8 family, superseded by XR8 PRO G3
 - 38.5 × 36 × 30mm; BEC 6V / 3A; burst 760A
 - Would have been the lightest at 91g, irrelevant since not waterproof
 
-### HobbyWing XeRun XR8 PRO G3 — Ruled Out (not waterproof)
+### HobbyWing XeRun XR8 PRO G3: Ruled Out (not waterproof)
 
 - Newest XeRun racing ESC
 - Dimensions: 54.8 × 36.8 × 38.8mm
@@ -142,7 +142,7 @@
 - XeRun racing line, fan powered by BEC, no IP rating, ruled out for waterproof requirement
 - MSRP $210, street ~$150
 
-### HobbyWing EZRun MAX8 G2S — Ruled Out (too heavy)
+### HobbyWing EZRun MAX8 G2S: Ruled Out (too heavy)
 
 - Built for 1/8 trucks and buggies with big motors, overkill for 36mm stator
 - Dimensions: 60 × 48 × 40.5mm
@@ -187,7 +187,7 @@
 A separate direction from the 4S basher build: a **light 2S** car, the nimble underdog on a 4S-dominated track. The track's only rule is **1/8 buggy, 4S max**, so a 2S build is **legal just by being under the cap** (no stock/spec class to conform to, run any motor/timing). The low-grip surface can't put down 4S power anyway, and going 2S **sheds ~200–300 g+** (mostly the smaller battery) ≈ **7–10% off the car**, right where it helps cornering, landings, and driveline life.
 
 **2S powertrain:**
-- **ESC:** Hobbywing **XeRun XR10 Pro-WP** — **2S-only**, 160A/1200A, IP67, JST-ZH sensored (auto-fallback to sensorless), BEC 5–7.4V/5A, 95.6g. Boost/turbo timing + data logging (and a blinky mode if ever wanted, though this track doesn't require it).
+- **ESC:** Hobbywing **XeRun XR10 Pro-WP**: **2S-only**, 160A/1200A, IP67, JST-ZH sensored (auto-fallback to sensorless), BEC 5–7.4V/5A, 95.6g. Boost/turbo timing + data logging (and a blinky mode if ever wanted, though this track doesn't require it).
 - **Motor:** **XeRun V10 8.5T (~4600KV)**, native JST-ZH, no adapter (Castle 4600KV also works). Open class, so KV is your call, go hotter (toward the **5.5T (~5800KV)** ESC limit) for more 2S punch, or stay 8.5T for cooler/torquier.
 - **2S motor limit (this ESC):** Touring ≥4.5T, **Buggy ≥5.5T**, the 8.5T is well within.
 

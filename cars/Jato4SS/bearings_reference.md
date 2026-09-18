@@ -55,11 +55,11 @@ What you actually spend up front is more, because you're buying packs: the order
 
 **Plus the bushings, $5.00.** The four **TRA3775 Oilite** at the bell crank pivots (see above, they replaced the TRA5114 bearings) are listed apart from the table because they aren't bearings, and they're fitted precisely because a ball bearing fails in that spot. **Everything that spins or pivots on this car therefore comes to $12.21.**
 
-**Not in either number:** the **10×18×5** stainless (S61810ZZ, $14.45 / 10-pack = **$1.45 each**), bought to have the option of [Mike's route](../Jato4EP/bearings_reference.md) — the bare big bearing straight into the hub. This car sleeves down to 10×15×4 instead, so those aren't fitted.
+**Not in either number:** the **10×18×5** stainless (S61810ZZ, $14.45 / 10-pack = **$1.45 each**), bought to have the option of [Mike's route](../Jato4EP/bearings_reference.md): the bare big bearing straight into the hub. This car sleeves down to 10×15×4 instead, so those aren't fitted.
 
 ---
 
-## OG — Stock Jato 4x4 BL-2s kit (baseline)
+## OG: Stock Jato 4x4 BL-2s kit (baseline)
 
 | Size (mm) | Qty | Typical location |
 |---|---|---|

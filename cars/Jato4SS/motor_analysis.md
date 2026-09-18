@@ -388,7 +388,7 @@ The original target was 3200KV, same as the Slash 4x4. In practice the Castle 14
 
 The Jato 4SS is lighter than a true 1/8 buggy, so **2400KV is at or just above the community-preferred range** for this weight class. A 1412 3200KV running hot on 4S isn't a setup problem, it's a physics problem. Dropping to 2400KV with G3 / 4-pole 12-slot laminations eliminates the eddy-current losses driving the heat, and a fan becomes unnecessary.
 
-### Open question: 2400KV vs 3200KV geared to the same top speed — which accelerates faster?
+### Open question: 2400KV vs 3200KV geared to the same top speed: which accelerates faster?
 
 If both motors are geared (different pinion) to hit the same top speed:
 - The 3200KV motor uses a smaller pinion (higher gear reduction), gear ratio multiplies torque at the wheels
@@ -414,7 +414,7 @@ Conventional wisdom is mixed:
 
 ## Detailed Notes
 
-### Castle Creations 1412 3200KV — In Hand
+### Castle Creations 1412 3200KV: In Hand
 
 - Already owned, proven on 4S with the Fire Phoenix ESC on the Slash 4x4
 - Castle part **#060-0085-00**; retail **$119.95** (list $146.80)
@@ -431,7 +431,7 @@ Conventional wisdom is mixed:
 - Castle's recommended ESCs for this motor: **Mamba X**, Copperhead 10, Sidewinder 4, Cobra 10, all confirmed in the ESC analysis
 - $0, already in hand
 
-### Castle Creations 1415 2400KV — Candidate (leading)
+### Castle Creations 1415 2400KV: Candidate (leading)
 
 - Castle part **#060-0060-00**; retail **$129.95** (list $159.00)
 - Stator: 1.4" × 1.5" (per Castle naming); **can: 36mm OD × 69.5mm length**, just under the 70mm Must
@@ -451,7 +451,7 @@ Conventional wisdom is mixed:
 - Castle's recommended ESCs: **Mamba X**, Sidewinder 4, Cobra 10, Mamba Max Pro, Copperhead 10. Fire Phoenix is not on the official list but uses standard JST-ZH which connects to the included Castle sensor wire
 - $129.95, additional cost over the in-hand 1412
 
-### HobbyWing EZRun 3665SD G3 2400KV — Vetoed (proprietary connector)
+### HobbyWing EZRun 3665SD G3 2400KV: Vetoed (proprietary connector)
 
 - 36×65mm stator, 305g
 - 4S native with IP64 splash + dust rating, the only Hobbywing option that hits both
@@ -460,27 +460,27 @@ Conventional wisdom is mixed:
 - Adapter cost (~$10) and one more cable in the loom
 - ~$65
 
-### HobbyWing EZRun 3652SD G3 — Ruled Out (3S max)
+### HobbyWing EZRun 3652SD G3: Ruled Out (3S max)
 
 - 36×52mm stator, lightest in the group at 227g
 - G3 laminations, JST-ZH sensor (would pair fine with Fire Phoenix)
 - IP5X dust resistance
 - **3S max cell rating, fails the 4S Must**. Hobbywing winds the 3300KV stator for lower voltage
 
-### HobbyWing EZRun 3665SD G3 3200KV — Ruled Out (3S max + proprietary)
+### HobbyWing EZRun 3665SD G3 3200KV: Ruled Out (3S max + proprietary)
 
 - 36×65mm stator, 305g, IP64
 - **3S max cell rating, fails the 4S Must**. Same problem as the 3652, Hobbywing only winds the 3200KV variant for 3S in the EZRun line
 - Also has the proprietary G3 sensor plug (would have been vetoed even if 4S rated)
 
-### HobbyWing XeRun 3660SD G3 3200KV — Ruled Out (3S max)
+### HobbyWing XeRun 3660SD G3 3200KV: Ruled Out (3S max)
 
 - 36×60mm stator, 230g, lighter than the EZRun 3665
 - JST-ZH sensor connector
 - Competition-grade XeRun line with G3 laminations
 - **3S max cell rating, fails the 4S Must**
 
-### Castle Creations 1515 V2 2200KV — Ruled Out (too big)
+### Castle Creations 1515 V2 2200KV: Ruled Out (too big)
 
 - Castle part **#060-0093-00**; retail **$195.95** (list $239.75)
 - Can: **40mm OD × 75.4mm length** (41.4mm with cooling fins). Stator is 1.5" × 1.5" (38mm × 38mm internal). True 1/8 scale motor

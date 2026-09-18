@@ -162,7 +162,7 @@ Rear stubs purchase: eBay seller mr-retro, **$33.80 for 2 pairs ($16.90/pair)**,
 |---|---|---|---|
 | ⭐ **AliExpress aftermarket 17mm splined wheel hubs (E-Revo 1.0 fit)** — *running, all four corners, black* | **Type:** aftermarket 17mm splined hub + 17mm nut + pin + barrel nut, 2-3mm wider per corner than the Tekno hexes. **24mm tall × 20mm across, 6mm bore, M2 set screw**<br>**Part:** N/A (AliExpress, sold as a "17mm Hex Nuts Adapter Splined Wheel Hubs Extension Combiner" for Traxxas E-Revo / Summit)<br>**Material:** anodized metal (black; also sold in red)<br>**Stub fit:** Tekno M6 stubs, front TKR1654-17 + rear 5580. The hub uses the **set screw into the stub** to hold the pin, which is what makes it work on the Tekno stubs. On a stock E-Revo stub either the set screw or the barrel nut works. Made for the E-Revo 1.0, known to fit the Jato 4x4 and Slash 4x4<br>**Wheel pattern:** 17mm (runs the IMEX rims)<br>**Retention:** 17mm nut + pin held by the M2 set screw into the stub. **No barrel nut needed on Tekno stubs** (it's for the stock E-Revo stub)<br>**Weight:** N/A<br>**Price:** **$8.36** / set of 4 (black) | Pro: **$8.36 for all four corners**, and each hub adds **2-3mm of width**. Nuts, pins, barrel nuts and a wrench are in the set (the barrel nuts sit unused on Tekno stubs)<br><br>Con: **E-Revo 1.0 pattern only**, the 2.0 and other generations don't match. Aftermarket with no part number, just an AliExpress listing | <img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_black.png" width="250">&nbsp;<img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_red.png" width="250"><br><em>black (running) · red</em><br><img src="src/drivetrain_erevo_17mm_splined_wheel_hubs_dimensions.png" width="300"><br><em>24mm tall × 20mm across, 6mm bore, M2 set screw</em> |
 | 🟢 **Tekno OEM 17mm hex** (pin-through) — *comes with the TKR1654-17 stubs, not running* | **Type:** 17mm hex, pin-through<br>**Part:** included in **TKR1654-17** (front M6 adapter kit)<br>**Material:** Aluminum<br>**Stub fit:** Tekno M6 stub, **light filing (~0.2–0.5mm)** to seat<br>**Wheel pattern:** Standard 17mm (non-star; won't take Traxxas star rims)<br>**Retention:** **Cross-pin passes through the hex** (pin-through)<br>**Weight:** N/A (not yet weighed)<br>**Price:** Included in TKR1654-17 (**$19.99/pr** shipped) | Pro: **The pin-through design is the reason it's the pick**, the cross-pin runs through the hex for a more secure hold, and it's **more forgiving if shaved thin** to clear the M6 stub. Already in hand with the front adapter kit, so **no extra buy** for the front (the rear uses the TKR5570-17 kit)<br><br>Con: Not yet photographed/weighed. Still needs the light filing like any 17mm hex on an M6 stub (or run the **XO-1 front carrier** to skip the front filing) | <img src="src/drivetrain_tekno_1654-17_front_hub_adapter.jpg" width="500"> |
-| 🔵 **Tekno SCT410 rear kit (TKR5570-17)** — *not needed, the rear runs bare 5580 stubs + aftermarket E-Revo-fit hubs* | **Type:** SCT410 rear kit: 2 stubs + 2 **17mm hexes** + nuts + cross-pins<br>**Part:** **TKR5570-17** (UPC 815076013560)<br>**Material:** Aluminum<br>**Stub fit:** its own stub (the 5580); front + rear on the SCT410, the **rear** on this Jato build<br>**Wheel pattern:** **Star-drive 17mm — fits BOTH standard 17mm rims (IMEX, RedSpider etc.) AND Traxxas star-pattern rims**<br>**Retention:** 17mm nut + cross-pin (both in the kit)<br>**Weight:** N/A<br>**Price:** **$25.95** (PowerHobby; free shipping if bought direct) | Pro: **One kit is the whole rear: stub + 17mm hexes + nuts + pins**, and the star hexes take **standard 17mm rims and Traxxas star rims**. More versatile than the front non-star hex (which can't take Traxxas rims)<br><br>Con: Still needs **light filing** to seat on the M6 stub, like the front. Pricier than a bare stub, but it bundles the stub, hexes, and hardware | <img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" width="500"> |
+| 🔵 **Tekno SCT410 rear kit (TKR5570-17)** — *not needed, the rear runs bare 5580 stubs + aftermarket E-Revo-fit hubs* | **Type:** SCT410 rear kit: 2 stubs + 2 **17mm hexes** + nuts + cross-pins<br>**Part:** **TKR5570-17** (UPC 815076013560)<br>**Material:** Aluminum<br>**Stub fit:** its own stub (the 5580); front + rear on the SCT410, the **rear** on this Jato build<br>**Wheel pattern:** **Star-drive 17mm, fits BOTH standard 17mm rims (IMEX, RedSpider etc.) AND Traxxas star-pattern rims**<br>**Retention:** 17mm nut + cross-pin (both in the kit)<br>**Weight:** N/A<br>**Price:** **$25.95** (PowerHobby; free shipping if bought direct) | Pro: **One kit is the whole rear: stub + 17mm hexes + nuts + pins**, and the star hexes take **standard 17mm rims and Traxxas star rims**. More versatile than the front non-star hex (which can't take Traxxas rims)<br><br>Con: Still needs **light filing** to seat on the M6 stub, like the front. Pricier than a bare stub, but it bundles the stub, hexes, and hardware | <img src="src/drivetrain_tekno_tkr5570-17_sct410_kit.jpg" width="500"> |
 | 🔵 **Traxxas TRA6469** — *in hand, alternative* | **Type:** 17mm splined hex<br>**Part:** TRA6469<br>**Material:** 6061-T6 aluminum, blue-anodized<br>**Stub fit:** Cut for 6mm axles, **file to the chamfer/bevel edge** to seat on the M6 stub<br>**Wheel pattern:** Standard 17mm<br>**Retention:** Screw pin 4×13mm w/ threadlock<br>**Weight:** **5.9g each** measured<br>**Price:** N/A | Pro: **In hand, genuine Traxxas alloy, weighed at 5.9g.** Standard 17mm, seats after filing to the chamfer/bevel. A fallback front hex (the rear uses the TKR5570-17 kit)<br><br>Con: **Solid screw-pin, not pin-through**, filing it thin is riskier than the Tekno hex, so it's the fallback, not the pick | <img src="src/drivetrain_traxxas_wheel_hub_17mm_tra6469_weight.jpg" width="500"> |
 | 🔵 **Arrma 6S 17mm extended hex adapters (+10mm W193 / +13mm W194)** — *idea only: needs an 8mm to 6mm sleeve, not planned for now* | **Type:** 17mm extended hex hub adapter + 17mm nut + pin + set screw + O-ring, **+10mm or +13mm** wider per corner<br>**Part:** W193 (+10mm) / W194 (+13mm), AliExpress (Shop1103874824 Store)<br>**Material:** Metal, anodized black, blue or red<br>**Stub fit:** Made for Arrma 6S 1/8 (Kraton, Typhon, Outcast) and 1/7 (Infraction, Limitless, Mojave, Felony), **8mm bore**. On the 6mm Tekno M6 stubs it needs a **custom 8mm to 6mm sleeve**, untested<br>**Wheel pattern:** 17mm<br>**Retention:** 17mm nut + pin + set screw (included)<br>**Weight:** N/A<br>**Price:** **$15.74 / set of 4** on sale (list $32.13), $14.95 each for 2+ sets | Pro: **A lot more width than any other hub here**, +10mm or +13mm per corner, versus 2-3mm for the E-Revo-fit hubs. Comes in black, blue and red<br><br>Con: **Needs a sleeve I'd have to make**, 8mm bore to the 6mm stub, and it's untested. **Probably not running it for now:** a narrower car turns faster, traction rolling isn't a problem with this car and tire combo, and extra width adds scrub the wheels have to turn through, which costs performance | <img src="src/drivetrain_arrma_6s_17mm_extended_hex_adapters_10mm_w193_blue.png" width="250">&nbsp;<img src="src/drivetrain_arrma_6s_17mm_extended_hex_adapters_13mm_w194_black.png" width="250">&nbsp;<img src="src/drivetrain_arrma_6s_17mm_extended_hex_adapters_13mm_w194_blue.png" width="250">&nbsp;<img src="src/drivetrain_arrma_6s_17mm_extended_hex_adapters_13mm_w194_red.png" width="250"><br><em>blue +10mm (W193) · black +13mm (W194) · blue +13mm (W194) · red +13mm (W194). Each set: 4 adapters, nuts, pins, set screws, O-rings</em> |
 | ❌ ~~**Traxxas 9085**~~ — *stock on the BL-2S Jato, same flawed design in plastic* | **Type:** 17mm splined hub, OEM composite<br>**Part:** **9085**, set of 4 with spacers (4) and axle pins (4)<br>**Material:** composite plastic<br>**Stub fit:** the same pin-and-retainer design as the alloy 9086. 🚧 Traxxas do not state the axle family on this listing<br>**Wheel pattern:** 17mm splined<br>**Retention:** axle pin plus spacer. ⚠️ **the barrel nuts do not interchange with the alloy hubs**<br>**Weight:** 🚧 not published<br>**Price:** **$8.00 / set of 4** | Pro: **These come on the base Jato 4x4 BL-2S**, so a build starting from that donor already has a set and owes nothing to try them. **A quarter the price of the alloy 9086** if you do buy them, $8.00 against $35.95, and **they reportedly break stubs less often**. The likely reason is that the plastic gives a little instead of passing the whole load into the threaded end, though that is a hypothesis rather than something measured here<br><br>Con: ⚠️ **Hardware does not cross over, and it is not sold separately.** The barrel nuts differ between the composite and alloy hubs, so you cannot mix parts or reuse the nuts when swapping, and **losing a single nut means buying the whole $8.00 set again**. The alloy hubs let you replace one nut on its own, which closes some of the price gap the moment you drop one in the grass. Still the same pin design that loads the stub thread, just more forgiving | <img src="src/drivetrain_traxxas_17mm_composite_hubs_9085.jpg" width="500"> |
@@ -190,7 +190,7 @@ Rear stubs purchase: eBay seller mr-retro, **$33.80 for 2 pairs ($16.90/pair)**,
 
 The knock-off E-Revo 1.0 CVDs run **~$20** and **perform identically to the genuine Traxxas CVDs**, no noticeable difference in real use. Same 6mm diff end, same chopped-to-fit method. For a wear item that gets cut down and rebuilt anyway, the knock-off is the sensible buy.
 
-**They come in two shaft diameters** (same cups/boots/hardware, different mid-shaft), caliper before buying a thread kit. Full thread-kit + sleeve detail in [Knock-off axle diameters](#knock-off-axle-diameters--not-all-the-same-shaft).
+**They come in two shaft diameters** (same cups/boots/hardware, different mid-shaft), caliper before buying a thread kit. Full thread-kit + sleeve detail in [Knock-off axle diameters](#knock-off-axle-diameters-not-all-the-same-shaft).
 
 > *Spec format: Type · Shaft · Diff end · Fits · Weight · Price*
 
@@ -235,7 +235,7 @@ The E-Revo 1.0 CVDs are too long for the Jato, so they get **cut in half and rej
 >
 > **Why 90.5 mm:** the front runs **FLM26800 extended arms (101.6 mm pin-to-pin, ≈102 mm) vs 92 mm stock**, ~10 mm/side wider track, the axle length is sized to that arm. Change arms → re-tune the axle. See [`arm_analysis.md`](arm_analysis.md).
 
-### Off-the-shelf CV option — Traxxas/Tekno part + length map (buy instead of build)
+### Off-the-shelf CV option: Traxxas/Tekno part + length map (buy instead of build)
 
 Instead of cutting E-Revo CVDs, a stock steel CV that's the right length + uses the strong **Tekno M6 stub** is a "buy instead of build" path. The **half shaft is the length-determining part**, Traxxas part numbers confirm which CVDs share a length:
 
@@ -260,7 +260,7 @@ Instead of cutting E-Revo CVDs, a stock steel CV that's the right length + uses 
   <em>Uncut E-Revo CVD: 136.60 mm end-to-end / 132 mm pin-to-hole · Front prototype: 90.5 mm end-to-end / ~85.9 mm pin-to-hole, caliper re-zeroed</em>
 </p>
 
-### Knock-off axle diameters — not all the same shaft
+### Knock-off axle diameters: not all the same shaft
 
 The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardware**, so check the bare mid-shaft with calipers before picking a thread kit. Each needs a different die/tap/hex joiner.
 
@@ -280,7 +280,7 @@ The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardw
 
 > **Sleeve sizing (5.5 mm shaft):** tight fit **~5.6 mm ID** (~0.1 mm gap) → **Loctite 680**; loose **~6 mm ID** (~0.5 mm gap) → **Loctite 660** (gap-fill). Keep the wall thick enough to stay stiff, the OD slim for droop clearance. One piece, no telescoping. Knurl the shaft (the glue's key). Exact buys in the table below.
 
-### Build recipe — 5.5 mm shaft (older AliExpress set)
+### Build recipe: 5.5 mm shaft (older AliExpress set)
 
 > Target: **90.5 mm end-to-end (~85.9 mm pin-to-hole)** final front, **even 45.25 mm halves**. Stronger shaft, but binds on the cup at full droop.
 
@@ -290,7 +290,7 @@ The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardw
 4. **Set length + bond.** Dry-fit to 90.5 mm, then **Loctite 680** (tight fit) or **660** (loose ~0.5 mm sleeve). Scuff, degrease, prime 7649. No pin, no weld.
 5. **Check runout**, let cure fully before running.
 
-### Build recipe — 4.5 mm shaft (newer AliExpress set)
+### Build recipe: 4.5 mm shaft (newer AliExpress set)
 
 > Same **90.5 mm end-to-end (~85.9 mm pin-to-hole) / 45.25 mm even-halves** target. Weaker shaft (~55% of 5.5 mm torsion) but **clears the cup better at full droop**, the reason to run it front.
 
@@ -300,12 +300,12 @@ The AliExpress CVDs come in **two shaft diameters with the same cups/boots/hardw
 4. **Set length + bond.** Screw/slide to 90.5 mm, then **flood with Loctite 680**. Scuff, degrease, prime 7649. **Long overlap matters more here** since the shaft is weaker. No pin, no weld.
 5. **Check runout**, full cure before running.
 
-### Slip fit — smooth vs keyed, and what sleeve to buy
+### Slip fit: smooth vs keyed, and what sleeve to buy
 
 A **slip fit** = shaft slides into the sleeve with a small clearance, the retaining compound fills the gap. Two flavors, **same sleeve** for both:
 
 - **Smooth slip fit**, shaft as-is into the sleeve + 680. Easiest (no tools), but relies **100% on adhesive shear**; a wheel axle's reversing shock torque can peel a smooth bonded joint loose over time.
-- **Keyed slip fit (recommended)** — **hand-crosshatch the shaft ends with a file** (a few diagonal strokes each way) before gluing. The cured 680 bites the grooves and resists rotation. No special tools, doesn't touch the SS sleeve, basically free torsional insurance.
+- **Keyed slip fit (recommended)**: **hand-crosshatch the shaft ends with a file** (a few diagonal strokes each way) before gluing. The cured 680 bites the grooves and resists rotation. No special tools, doesn't touch the SS sleeve, basically free torsional insurance.
 
 > **Why no pin:** the **stainless sleeves can't be drilled with the bits on hand** (SS work-hardens, eats HSS). Keyed slip fit gives the mechanical grip without drilling.
 
@@ -326,7 +326,7 @@ Buying-blind rules:
 - **Stainless sleeve → 7649 primer required** (passive metal, or the anaerobic won't cure).
 - A hand **file-crosshatch** on the shaft turns any of these into a keyed slip fit (no drilling, no reaming).
 
-### Build options — joining the two CVD halves
+### Build options: joining the two CVD halves
 
 > **Chosen: keyed sleeve + Loctite 680, no pin, no weld.** The knurl/thread is the mechanical key that lets glue survive reversing torque. **Stainless sleeve must be primed (7649)** or the 680 won't cure. Struck-through rows = ruled out.
 
