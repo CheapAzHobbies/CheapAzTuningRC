@@ -29,7 +29,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 >
 > ⭐ **The car cost leaves the batteries out on purpose.** Packs are [fleet items](../../batteries/README.md) that move between cars, and the Gens Ace 6300 in the list is on loan from the [Jato 4SS](../Jato4SS/README.md), so charging them to this build would overstate what the car actually took. The $1394.38 line is there only if you want the all in figure.
 >
-> **One line is open:** what the TRA9032 front C-hubs cost. Every other row carries a price or is marked as having come with the car. See [What's still unpriced](#whats-still-unpriced).
+> **One line is open:** what the TRA9032 front C-hubs cost. Every other row carries a price or is marked as having come with the car.
 
 ---
 
@@ -149,33 +149,16 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 **The right hand column is deliberate.** Knowing a part came free is only half the story; the other half is what it would cost to replace when it breaks, which is what you actually want when planning a rebuild.
 
-**Still counted as bought, and worth double checking:**
+**Bought, even though they look like parts a donor would supply:**
 
-| Part | Price | Why it is still counted |
+| Part | Price | Why it was still a purchase |
 |:---|:---|:---|
-| **Traxxas 7422 LCG chassis** | $20.00 | [LEDGER](../../LEDGER.md) #80 books it as a purchase, so it reads as a later replacement rather than the original tub |
+| **Traxxas 7422 LCG chassis** | $20.00 | [LEDGER](../../LEDGER.md) #80 books it, so it reads as a later replacement rather than the original tub |
 | **Traxxas 7477 LCG spur gear cover** | $3.00 | [LEDGER](../../LEDGER.md) #79, bought alongside the chassis above |
 | **Steel centre brace, VG-style** | $18.99 | The Slash shipped with **no brace at all**, so this was added, not replaced |
-| **Traxxas TRA6736 front bumper** | $6.00 | 🚧 list price, no receipt. Could have come with the car |
-| **Traxxas TRA9044 skid plates** | $7.00 | 🚧 list price, no receipt. Could have come with the car |
-
----
-
-## What's still unpriced
-
-Everything here is on the car but has no receipt in the repo. **Fill these in and the total becomes real.**
-
-| Missing | Why it matters |
-|---|---|
-| ~~The running Slash 4x4 donor~~ | **Resolved:** a clapped out Slash 4x4 off Facebook for **$100.00**, sometime before 2018 |
-| ~~The front shock tower~~ | **Resolved:** bought with the rear, **$6.00**. The full Jato conversion is now priced: both towers, the shocks, the wing and the wing mounts |
-| **The second FLM26800 pair** | The car runs extended arms front **and** rear, but only one pair is booked ([LEDGER](../../LEDGER.md) #85). Likely another ~$25.73 |
-| ~~Radio~~ | **Resolved:** FlySky NB4 with the FGr4S V2 at $140.91, the same as the 4SS |
-| ~~Spur and pinion~~ | **Resolved:** the 11T pinion is a **$2.43** Surpass Hobby part off AliExpress, and the 54T spur came with the donor |
-| ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |
-| ~~Bare Jato rims~~ | **Resolved:** **$8.00 / pair** from Tammies, two pairs |
-| ~~The Surpass motor heatsink~~ | **Resolved:** **$10.62**, with the two **$6.00** metal fans on top, so **$22.62** for the whole cooling rig |
-| **The TRA9032 front C-hubs** | Reopened: the donor was **pre-EHD**, so these were bought rather than inherited, and the price is not recorded |
+| **Traxxas TRA6736 front bumper** | $6.00 | ✅ confirmed bought |
+| **Traxxas TRA9044 skid plates** | $7.00 | ✅ confirmed bought |
+| **The whole EHD suspension** | see the rows above | The donor was **pre-EHD**, so none of it carried over |
 
 ---
 
