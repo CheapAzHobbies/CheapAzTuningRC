@@ -14,7 +14,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|
 | [Donor Car](#donor-car) | $100.00 |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
-| [Drivetrain](#drivetrain) | $138.72 |
+| [Drivetrain](#drivetrain) | $147.28 |
 | [Suspension](#suspension) | $143.89 |
 | [Hubs & Carriers](#hubs--carriers) | $61.80 |
 | [Steering](#steering) | $83.20 |
@@ -22,10 +22,10 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $365.66 |
 | [Batteries](#batteries) | $285.35 |
-| ⭐ **What the build cost** | **$1006.74** |
+| ⭐ **What the build cost** | **$1015.30** |
 | The donor car, bought separately | $100.00 |
 | The batteries, shared across the fleet | $285.35 |
-| Everything, all in | $1392.09 |
+| Everything, all in | $1400.65 |
 
 > **What came free:** the **stock gearbox housings** and the **alloy centre driveshaft** arrived on the donor and are priced $0. ⚠️ **The EHD hubs did not**, the donor predates EHD. ⚠️ **This list is probably not complete**, see [What the donor supplied](#what-the-donor-supplied).
 >
@@ -70,7 +70,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Dynamite DYNE4201 marine grease**<br><sub>Note: the rear diff runs this **instead of** oil. 5 oz can, lithium complex with anti-sling</sub> | 1 | Amazon | **$12.00 / can** | [Diffs](differential_analysis.md) |
 | **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>**Replacement: $4.00 / set.** Glass-filled nylon, 20.0g each, unchanged from stock, so they arrived on the donor</sub> | 1 | Came with the car | **$0** | [Housings](gearbox_housing_analysis.md) |
-| **11T 32P pinion**<br><sub>Note: Surpass Hobby. This is the tooth count the [gearing finding](esc_motor_analysis.md#the-gearing-finding) landed on</sub> | 1 | AliExpress, Surpass Hobby | **$2.43 each** | [Motor](esc_motor_analysis.md) |
+| **Robinson Racing 8611 pinion, 32P 11T 5mm**<br><sub>Note: **extra hard blackened steel**, 5mm bore. This is the tooth count the [gearing finding](esc_motor_analysis.md#the-gearing-finding) landed on</sub> | 1 | Tammies Hobbies | **$10.99 each** | [Motor](esc_motor_analysis.md) |
 
 ## Suspension
 

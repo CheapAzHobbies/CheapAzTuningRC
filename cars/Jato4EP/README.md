@@ -64,8 +64,8 @@
 <table>
 <tr>
 <td width="25%" valign="top"><b>1. GEARING</b><br><br>
-The finding that overturned the plan. Higher RPM was assumed to mean better air control, so the smallest pinion looked obvious. <b>Torque matters as much as RPM.</b> Gearing for the power band made mid air corrections just as sharp <i>and</i> kept the motor cooler. Reached at <b>12T</b>, now <b>11T</b>.
-<p align="center"><img src="https://placehold.co/300x200/eee/333?text=PINION+PHOTO" width="100%"><br><sub>🚧 <code>src/drivetrain_pinion_11t_32p.jpg</code></sub></p></td>
+The finding that overturned the plan. Higher RPM was assumed to mean better air control, so the smallest pinion looked obvious. <b>Torque matters as much as RPM.</b> Gearing for the power band made mid air corrections just as sharp <i>and</i> kept the motor cooler. Reached at <b>12T</b>, now <b>11T</b>, a <b>Robinson Racing 8611</b> in extra hard blackened steel, <b>$10.99</b>.
+<p align="center"><img src="src/drivetrain_robinson_racing_pinion_11t_32p_8611.jpg" width="100%"><br><sub><b>Robinson Racing 8611</b>, extra hard blackened steel</sub></p>
 <td width="25%" valign="top"><b>2. MOTOR COOLING</b><br><br>
 The 1412 runs hot on 4S, so it wears a fan. Surpass <b>36mm dual fan heatsink</b> in blue, with the plastic fans swapped for <b>two 30mm metal ones</b>. Metal costs about the same and lasts longer, though every fan dies eventually. <b>$22.62</b> the rig.
 <p align="center"><img src="src/electronics_surpass_hobby_fan_heatsink_range.png" width="100%"><br><sub>the 36mm dual is the one fitted</sub></p></td>
