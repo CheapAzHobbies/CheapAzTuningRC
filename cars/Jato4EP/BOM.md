@@ -15,19 +15,19 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Donor Car](#donor-car) | $100.00 |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
 | [Drivetrain](#drivetrain) | $148.72 |
-| [Suspension](#suspension) | $117.91 |
+| [Suspension](#suspension) | $143.89 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
 | [Steering](#steering) | $51.63 |
 | [Wheels & Tires](#wheels--tires) | $48.18 |
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $353.33 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$1311.90** |
-| **Car only, without batteries** | **$1026.55** |
+| **Total recorded** | **$1337.88** |
+| **Car only, without batteries** | **$1052.53** |
 
 > **What came free:** the **54T spur**, the **stock EHD C-hub and rear carriers**, and the **stock gearbox housings** all arrived on the donor and are priced $0. ⚠️ **This list is probably not complete**, see [What came with the car](#what-came-with-the-car).
 >
-> **What the total is missing:** the shocks and their oils. Add those and this climbs a little further. See [What's still unpriced](#whats-still-unpriced).
+> **What the total is missing:** only the bare Jato rims now. See [What's still unpriced](#whats-still-unpriced).
 
 ---
 
@@ -72,9 +72,10 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **FLM26800 extended arms**<br><sub>Note: Slash / Jato 4x4 fitment, **two pairs, front and rear, both out of the FLM July sale at $25.73**. The first is his share of the 4-pair bulk order #4658. 🚧 only the first pair is booked to the ledger</sub> | 2 | FLM, order #4658 | **$25.73 / pair** | [Arms](arm_analysis.md) |
 | **HPI Apache C1 big bore shocks**<br><sub>Note: part **107365**, 16mm bore, 97mm, plastic body. Internally identical to the Hot Bodies D8 the 4SS runs. **2 of a 4 set order**, $97.41 for all four, the other two went on the [E-Revo 1.0](../ERevo_1.0/shock_analysis.md)</sub> | 2 | eBay, whiterosehobbies | **$24.35 / set of 2** | [Shocks](shock_analysis.md) |
 | **Hot Bodies HB67453 grey 52gf springs**<br><sub>Note: 76mm, the rear pair. **One of two packs** from a $23.49 order (2026-05-19, order **14-14653-12511**); the second pack is a spare and is not on the car</sub> | 1 | eBay | **$11.75 / pair** | [Shocks](shock_analysis.md) |
-| **Traxxas TRA9034 Jato 4x4 rear shock tower**<br><sub>Note: puts the shocks at the back rather than mid-chassis. Front tower 🚧 not recorded, the Jato front is TRA9033 at the same price</sub> | 1 | Traxxas | **$6.00 each** | [Towers](shock_tower_analysis.md) |
-| **Losi TLR74030 37.5wt shock oil**<br><sub>Note: front. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shock oil](README.md#shock-oil) |
-| **Associated 5480 FT 50wt shock oil**<br><sub>Note: rear. 🚧 price not recorded</sub> | 1 | 🚧 not recorded | **🚧** | [Shock oil](README.md#shock-oil) |
+| **Traxxas TRA9034 Jato 4x4 rear shock tower**<br><sub>Note: puts the shocks at the back rather than mid-chassis</sub> | 1 | Traxxas | **$6.00 each** | [Towers](shock_tower_analysis.md) |
+| **Traxxas TRA9033 Jato 4x4 front shock tower**<br><sub>Note: bought alongside the rear tower. One of the three parts that make this a Jato rather than a Slash. List price matches the rear</sub> | 1 | Traxxas | **$6.00 each** | [Towers](shock_tower_analysis.md) |
+| **Losi TLR74030 37.5wt shock oil**<br><sub>Note: front, 468 cSt, 4 oz. **Physically the same bottle the [Jato 4SS](../Jato4SS/BOM.md) runs**, counted here at full price as though it were its own</sub> | 1 | Nitro Hobbies, order #137456 | **$9.99 / bottle** | [Shock oil](README.md#shock-oil) |
+| **Associated 5480 FT 50wt shock oil**<br><sub>Note: rear, 650 cSt, 4 oz. **The same bottle again**, shared with the 4SS and counted at full price here</sub> | 1 | Nitro Hobbies, order #137456 | **$9.99 / bottle** | [Shock oil](README.md#shock-oil) |
 
 ## Hubs & Carriers
 
@@ -139,11 +140,13 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 **Confirmed donor parts:**
 
-| Part | Why it is free |
-|:---|:---|
-| **54T spur gear** | Arrived on the donor |
-| **Stock EHD C-hub (TRA9032) + rear carriers (TRA9050)** | Arrived on the donor |
-| **Stock gearbox housings (TRA6881 / TRA6880)** | Recorded as unchanged from stock |
+| Part | Why it is free | What it would cost to buy |
+|:---|:---|:---|
+| **54T spur gear** | Arrived on the donor | 🚧 not recorded |
+| **Stock EHD C-hub (TRA9032) + rear carriers (TRA9050)** | Arrived on the donor | **$6.00 / pair** for the 9050 rears |
+| **Stock gearbox housings (TRA6881 / TRA6880)** | Recorded as unchanged from stock | **$4.00 / set** |
+
+**The right hand column is deliberate.** Knowing a part came free is only half the story; the other half is what it would cost to replace when it breaks, which is what you actually want when planning a rebuild.
 
 **Still counted as bought, and worth double checking:**
 
@@ -164,12 +167,12 @@ Everything here is on the car but has no receipt in the repo. **Fill these in an
 | Missing | Why it matters |
 |---|---|
 | ~~The running Slash 4x4 donor~~ | **Resolved:** a clapped out Slash 4x4 off Facebook for **$100.00**, sometime before 2018 |
-| **The front shock tower** | What is left of the conversion cost. The shocks ($48.70), the rear tower ($6.00) and the wing ($16.00) are all recorded now |
+| ~~The front shock tower~~ | **Resolved:** bought with the rear, **$6.00**. The full Jato conversion is now priced: both towers, the shocks, the wing and the wing mounts |
 | **The second FLM26800 pair** | The car runs extended arms front **and** rear, but only one pair is booked ([LEDGER](../../LEDGER.md) #85). Likely another ~$25.73 |
 | ~~Radio~~ | **Resolved:** FlySky NB4 with the FGr4S V2 at $140.91, the same as the 4SS |
 | ~~Spur and pinion~~ | **Resolved:** the 11T pinion is a **$2.43** Surpass Hobby part off AliExpress, and the 54T spur came with the donor |
 | ~~Servo~~ | **Resolved:** PTK 9752TG-D at $19.65 |
-| **Bare Jato rims and shock oils** | Small money, but they round the list out. The 17mm hexes are no longer a gap: they are the Traxxas 6469 at $20.00 |
+| **Bare Jato rims** | The last small gap. ~~Shock oils~~ are **resolved** at **$9.99 / bottle** each, and the 17mm hexes are the Traxxas 6469 at $20.00 |
 
 ---
 
