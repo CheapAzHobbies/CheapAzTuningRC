@@ -84,7 +84,7 @@
 
 ## Motor cooling
 
-**Running: the Surpass Hobby 36mm dual-fan heatsink in blue, with the plastic fans it ships with swapped out for two 30mm metal ones.** The 1412 runs hot on 4S, which is the whole reason the cooling is on there.
+**Running: the Surpass Hobby 36mm dual-fan heatsink in blue, with the plastic fans it ships with swapped out for two 30mm metal ones.** The 1412 runs hot on 4S, which is the whole reason the cooling is on there. **The plastic fans it ships with break easily**, which is the whole reason they came out.
 
 ⚠️ **This is a divergence from the [Jato 4SS](../Jato4SS/motor_analysis.md#related-motor-cooling-optional)**, which looked at this exact part and passed on it. That car's motor shortlist runs cool enough on 4S to need no cooling at all, so the 63g was not worth paying. This car already has the 1412, so the fan is the cheaper answer than a new motor.
 
@@ -101,7 +101,7 @@
 | **Fan max RPM** | 28,000 at 8.4V |
 | **Cable** | 263mm extension, included |
 | **Weight** | **~63 g** all in, 37g of heatsink and cable plus 26.3g of metal fans |
-| **Price** | **$12.00 / pair** of fans at $6.00 each, AliExpress. 🚧 what Mike paid for the heatsink is not recorded |
+| **Price** | **$22.62 all in.** The heatsink **$10.62**, plus **$12.00 / pair** of metal fans at **$6.00 each**. Both AliExpress |
 
 </div>
 
