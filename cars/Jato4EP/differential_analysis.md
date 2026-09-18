@@ -4,7 +4,7 @@
 >
 > ⚙️ **The spider-pin fix came from this car.** Mike **broke the metal centre diff first and modded his own fix**: the stock pin is **stepped down** and shears at the step, so he replaced it with a **plain full-length 2.8mm × 7mm pin**. It is written up in the 4SS teardown, but it originated here.
 >
-> **Full comparison, including the $19 centre diff teardown:** [Jato 4SS differential analysis](../Jato4SS/differential_analysis.md#center-diff-teardown).
+> **Full comparison, including the centre diff teardown:** [Jato 4SS differential analysis](../Jato4SS/differential_analysis.md#center-diff-teardown).
 
 <p align="center"><img src="../Jato4SS/src/drivetrain_aliexpress_center_diff_alum_steel.jpg" height="160">&nbsp;<img src="../Jato4SS/src/drivetrain_traxxas_diff_oil_30k_tra5136.jpg" height="160">&nbsp;<img src="../Jato4SS/src/drivetrain_traxxas_diff_oil_100k_tra5130.jpg" height="160">&nbsp;<img src="src/drivetrain_dynamite_marine_grease_dyne4201.jpg" height="160"><br><em>Everything that goes in: the <strong>metal centre diff</strong> · <strong>30k TRA5136</strong> in the front · <strong>100k TRA5130</strong> in the centre · <strong>Dynamite DYNE4201 grease</strong> in the rear</em></p>
 
@@ -12,7 +12,7 @@
 
 | Position | Spec | Price |
 |---|---|---|
-| **Centre diff** | **Metal**, Traxxas 6780-style | **$18.80** |
+| **Centre diff** | **Metal**, Traxxas 6780-style, alloy housing with an **integrated steel 54T spur** | **$18.80** |
 | **Front oil** | **30k**, Traxxas TRA5136 | $7.50 / bottle |
 | **Centre oil** | **100k**, Traxxas TRA5130 | $8.00 / bottle |
 | **Rear** | **Dynamite DYNE4201 blue marine grease**, no oil | **$12.00 / can** |
@@ -23,7 +23,7 @@
 
 ## The centre diff
 
-**Metal, Traxxas 6780-style, $18.80 from AliExpress.** It is the same unit the [4SS teardown](../Jato4SS/differential_analysis.md#center-diff-teardown) pulls apart, and **this is the car that broke one first**.
+**Metal, Traxxas 6780-style, $18.80 from AliExpress.** Alloy housing, and **the 54T spur is steel and integrated into the diff** rather than a separate gear. It is the same unit the [4SS teardown](../Jato4SS/differential_analysis.md#center-diff-teardown) pulls apart, and **this is the car that broke one first**.
 
 <p align="center"><img src="../Jato4SS/src/drivetrain_aliexpress_center_diff_alum_steel.jpg" height="260">&nbsp;<img src="../Jato4SS/src/drivetrain_aliexpress_center_diff_pin_broken_vs_good.jpg" height="260"><br><em>The metal centre diff · <strong>the failure and the fix</strong>, the sheared stock pin beside the plain full-length replacement</em></p>
 

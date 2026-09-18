@@ -60,7 +60,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Metal centre diff, Traxxas 6780-style** | 1 | AliExpress, TangEmpire | **$18.80 each** | [Diffs](../Jato4SS/differential_analysis.md#center-diff) |
+| **Metal centre diff, Traxxas 6780-style**<br><sub>Note: alloy housing with an **integrated steel 54T spur**, so the spur is part of this unit. Listed $20.00, paid $18.80</sub> | 1 | AliExpress, TangEmpire | **$18.80 each** | [Diffs](../Jato4SS/differential_analysis.md#center-diff) |
 | **Knock-off Slash / Jato 4x4 HD steel CV set**<br><sub>Note: TRA6851R + TRA6852R clones, the same set the 4SS runs, bolt-in with no cutting</sub> | 1 | AliExpress, FengS Store | **$21.10 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas 6752 long output shafts** | 1 | [LEDGER](../../LEDGER.md) #87 | **$32.00 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA6855 aluminium centre driveshaft**<br><sub>**Replacement: $10.00** from Tammies Hobbies, which is list price. **Came with the car**, so it costs the build nothing. 6061-T6, one piece, **214mm**, includes the centre bearing bushing. ⚠️ TRA6755 is the 189mm Rustler shaft, wrong fit. ⚠️ every 6855 carries a colour suffix, there is no bare part number. **Mike runs 6855-BLUE**</sub> | 1 | Came with the car | **$0** | [Driveshafts](driveshaft_analysis.md) |
