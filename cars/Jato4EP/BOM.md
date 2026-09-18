@@ -5,6 +5,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 > **Start here: a running Traxxas Slash 4x4.** Slash 4x4 and Jato 4x4 are the **same platform**, so the donor carries straight over. What makes it a Jato is the **towers, shocks and wing**. That is the cheap way onto this platform, and it is what this car did.
 >
 > ⚠️ **This list is incomplete on purpose.** Everything below is a price actually recorded in the repo or the [LEDGER](../../LEDGER.md). Parts marked **🚧** are on the car but have no receipt logged, so they are listed without a price rather than guessed at. **The donor is priced now too**, at $100.00, so the total below is a whole car number rather than parts only.
+>
+> ✅ **Parts that arrived on the donor are marked `Came with the car` and priced `$0`.** The **$100 donor covers them**, so counting them again would inflate the build. They stay listed because they are on the car, they just do not add to the total.
 
 ## Cost Summary
 
@@ -12,7 +14,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|
 | [Donor Car](#donor-car) | $100.00 |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
-| [Drivetrain](#drivetrain) | $152.72 |
+| [Drivetrain](#drivetrain) | $148.72 |
 | [Suspension](#suspension) | $117.91 |
 | [Hubs & Carriers](#hubs--carriers) | $55.80 |
 | [Steering](#steering) | $51.63 |
@@ -20,9 +22,11 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $353.33 |
 | [Batteries](#batteries) | $285.35 |
-| **Total recorded** | **$1315.90** |
-| **Car only, without batteries** | **$1030.55** |
+| **Total recorded** | **$1311.90** |
+| **Car only, without batteries** | **$1026.55** |
 
+> **What came free:** the **54T spur**, the **stock EHD C-hub and rear carriers**, and the **stock gearbox housings** all arrived on the donor and are priced $0. ⚠️ **This list is probably not complete**, see [What came with the car](#what-came-with-the-car).
+>
 > **What the total is missing:** the shocks and their oils. Add those and this climbs a little further. See [What's still unpriced](#whats-still-unpriced).
 
 ---
@@ -57,8 +61,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Traxxas TRA5136 30k diff oil**<br><sub>Note: front. 🚧 price is the 4SS purchase of the same bottle; whether Mike bought his own is not recorded</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Dynamite DYNE4201 marine grease**<br><sub>Note: the rear diff runs this **instead of** oil. 5 oz can, lithium complex with anti-sling</sub> | 1 | Amazon | **$12.00 / can** | [Diffs](differential_analysis.md) |
-| **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>Note: glass-filled nylon, 20.0g each, unchanged from stock</sub> | 1 | Traxxas | **$4.00 / set** | [Housings](gearbox_housing_analysis.md) |
-| **54T spur gear**<br><sub>Note: came with the donor car, so nothing was spent</sub> | 1 | Donor car | **$0** | [Drivetrain](README.md#drivetrain) |
+| **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>Note: glass-filled nylon, 20.0g each, **unchanged from stock**, so they arrived on the donor. List price is $4.00 / set if you ever do need to buy them</sub> | 1 | Came with the car | **$0** | [Housings](gearbox_housing_analysis.md) |
+| **54T spur gear**<br><sub>Note: arrived on the donor, so nothing was spent</sub> | 1 | Came with the car | **$0** | [Drivetrain](README.md#drivetrain) |
 | **11T 32P pinion**<br><sub>Note: Surpass Hobby. This is the tooth count the [gearing finding](esc_motor_analysis.md#the-gearing-finding) landed on</sub> | 1 | AliExpress, Surpass Hobby | **$2.43 each** | [Motor](esc_motor_analysis.md) |
 
 ## Suspension
@@ -77,7 +81,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **MonsterKingz / G-Maxx 7075 alloy hub set**<br><sub>Note: front + rear set, bought off the Jato 4SS. Only the front steering blocks run; the rear carrier is the one to shave</sub> | 1 | [Jato 4SS](../Jato4SS/hub_analysis.md) | **$50.00 / set** | [Hubs](hub_analysis.md) |
-| **Stock plastic EHD C-hub (TRA9032) + rear carriers (TRA9050)**<br><sub>Note: came on the donor, so nothing was spent</sub> | 1 | Donor car | **$0** | [Hubs](hub_analysis.md) |
+| **Stock plastic EHD C-hub (TRA9032) + rear carriers (TRA9050)**<br><sub>Note: arrived on the donor, so nothing was spent</sub> | 1 | Came with the car | **$0** | [Hubs](hub_analysis.md) |
 | **S61810ZZ 10×18×5 stainless bearings**<br><sub>Note: the hub corners, bare, no sleeve. Bought as a 10-pack at $14.45, four used</sub> | 4 | AliExpress, Speed Bearing Store | **$1.45 each** | [Bearings](bearings_reference.md#the-hub-bearing-s61810zz) |
 
 ## Steering
@@ -126,6 +130,30 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **CNHL Lightning LiHV 4S 5500mAh 120C** | 1 | ChinaHobbyLine, order #20269753705 | **$54.46 each** | [Packs](battery_analysis.md#the-packs) |
 | **CNHL Racing Series 4S 5200mAh 90C** | 1 | ChinaHobbyLine, order #20269753705 | **$52.51 each** | [Packs](battery_analysis.md#the-packs) |
 | **3D printed battery bar**<br><sub>Note: what actually holds the pack down. Flexes enough to clear a 47mm pack against a 44mm ceiling</sub> | 1 | Printed in house | **$0** (filament) | [Retention](battery_mount_analysis.md#holding-the-pack-down) |
+
+---
+
+## What came with the car
+
+**The donor was a running Slash 4x4 and it was already LCG**, so a lot of what is on this build arrived with it rather than being bought. Those rows are marked **`Came with the car`** and priced **$0**.
+
+**Confirmed donor parts:**
+
+| Part | Why it is free |
+|:---|:---|
+| **54T spur gear** | Arrived on the donor |
+| **Stock EHD C-hub (TRA9032) + rear carriers (TRA9050)** | Arrived on the donor |
+| **Stock gearbox housings (TRA6881 / TRA6880)** | Recorded as unchanged from stock |
+
+**Still counted as bought, and worth double checking:**
+
+| Part | Price | Why it is still counted |
+|:---|:---|:---|
+| **Traxxas 7422 LCG chassis** | $20.00 | [LEDGER](../../LEDGER.md) #80 books it as a purchase, so it reads as a later replacement rather than the original tub |
+| **Traxxas 7477 LCG spur gear cover** | $3.00 | [LEDGER](../../LEDGER.md) #79, bought alongside the chassis above |
+| **Steel centre brace, VG-style** | $18.99 | The Slash shipped with **no brace at all**, so this was added, not replaced |
+| **Traxxas TRA6736 front bumper** | $6.00 | 🚧 list price, no receipt. Could have come with the car |
+| **Traxxas TRA9044 skid plates** | $7.00 | 🚧 list price, no receipt. Could have come with the car |
 
 ---
 
