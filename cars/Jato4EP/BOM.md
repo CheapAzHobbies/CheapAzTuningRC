@@ -22,12 +22,12 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $365.66 |
 | [Batteries](#batteries) | $285.35 |
-| ⭐ **What the build cost** | **1006.74** |
+| ⭐ **What the build cost** | **$1006.74** |
 | The donor car, bought separately | $100.00 |
 | The batteries, shared across the fleet | $285.35 |
-| Everything, all in | 1392.09 |
+| Everything, all in | $1392.09 |
 
-> **What came free:** the **54T spur** and the **stock gearbox housings** arrived on the donor and are priced $0. ⚠️ **The EHD hubs did not**, the donor predates EHD. ⚠️ **This list is probably not complete**, see [What the donor supplied](#what-the-donor-supplied).
+> **What came free:** the **stock gearbox housings** and the **alloy centre driveshaft** arrived on the donor and are priced $0. ⚠️ **The EHD hubs did not**, the donor predates EHD. ⚠️ **This list is probably not complete**, see [What the donor supplied](#what-the-donor-supplied).
 >
 > ⭐ **The build cost is what was spent turning the donor into this car, and it leaves two things out on purpose.**
 >
@@ -60,7 +60,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Metal centre diff, Traxxas 6780-style**<br><sub>Note: alloy housing with an **integrated steel 54T spur**, so the spur is part of this unit. Listed $20.00, paid $18.80</sub> | 1 | AliExpress, TangEmpire | **$18.80 each** | [Diffs](../Jato4SS/differential_analysis.md#center-diff) |
+| **Metal centre diff, Traxxas 6780-style**<br><sub>Note: **aluminium housing, integrated steel 54T spur.** The spur is part of this unit, so there is no separate spur gear on the car to buy. Listed $20.00, paid $18.80</sub> | 1 | AliExpress, TangEmpire | **$18.80 each** | [Diffs](../Jato4SS/differential_analysis.md#center-diff) |
 | **Knock-off Slash / Jato 4x4 HD steel CV set**<br><sub>Note: TRA6851R + TRA6852R clones, the same set the 4SS runs, bolt-in with no cutting</sub> | 1 | AliExpress, FengS Store | **$21.10 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas 6752 long output shafts** | 1 | [LEDGER](../../LEDGER.md) #87 | **$32.00 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA6855 aluminium centre driveshaft**<br><sub>**Replacement: $10.00** from Tammies Hobbies, which is list price. **Came with the car**, so it costs the build nothing. 6061-T6, one piece, **214mm**, includes the centre bearing bushing. ⚠️ TRA6755 is the 189mm Rustler shaft, wrong fit. ⚠️ every 6855 carries a colour suffix, there is no bare part number. **Mike runs 6855-BLUE**</sub> | 1 | Came with the car | **$0** | [Driveshafts](driveshaft_analysis.md) |
@@ -70,7 +70,6 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
 | **Dynamite DYNE4201 marine grease**<br><sub>Note: the rear diff runs this **instead of** oil. 5 oz can, lithium complex with anti-sling</sub> | 1 | Amazon | **$12.00 / can** | [Diffs](differential_analysis.md) |
 | **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>**Replacement: $4.00 / set.** Glass-filled nylon, 20.0g each, unchanged from stock, so they arrived on the donor</sub> | 1 | Came with the car | **$0** | [Housings](gearbox_housing_analysis.md) |
-| **54T spur gear**<br><sub>**Replacement: 🚧 not recorded.** Arrived on the donor, so nothing was spent</sub> | 1 | Came with the car | **$0** | [Drivetrain](README.md#drivetrain) |
 | **11T 32P pinion**<br><sub>Note: Surpass Hobby. This is the tooth count the [gearing finding](esc_motor_analysis.md#the-gearing-finding) landed on</sub> | 1 | AliExpress, Surpass Hobby | **$2.43 each** | [Motor](esc_motor_analysis.md) |
 
 ## Suspension
@@ -154,7 +153,6 @@ These arrived on the donor and are priced **$0**, so they never touch the build 
 |:---|:---|
 | **Traxxas TRA6855 alloy centre driveshaft** | **$10.00**, Tammies Hobbies |
 | **Stock gearbox housings (TRA6881 / TRA6880)** | **$4.00 / set** |
-| **54T spur gear** | 🚧 not recorded |
 
 ⭐ **The rule: price recorded, cost excluded.** A `Came with the car` row is priced **$0** in the Price column so it cannot inflate the build total, while the replacement figure sits in the note, where it is useful and harmless.
 

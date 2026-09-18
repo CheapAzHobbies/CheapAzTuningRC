@@ -23,7 +23,7 @@
 
 ## The centre diff
 
-**Metal, Traxxas 6780-style, $18.80 from AliExpress.** Alloy housing, and **the 54T spur is steel and integrated into the diff** rather than a separate gear. It is the same unit the [4SS teardown](../Jato4SS/differential_analysis.md#center-diff-teardown) pulls apart, and **this is the car that broke one first**.
+**Metal, Traxxas 6780-style, $18.80 from AliExpress.** **The housing is aluminium and the 54T spur is steel**, integrated into the diff. **There is no separate spur gear on this car**, so a worn spur means replacing the diff unit. It is the same unit the [4SS teardown](../Jato4SS/differential_analysis.md#center-diff-teardown) pulls apart, and **this is the car that broke one first**.
 
 <p align="center"><img src="../Jato4SS/src/drivetrain_aliexpress_center_diff_alum_steel.jpg" height="260">&nbsp;<img src="../Jato4SS/src/drivetrain_aliexpress_center_diff_pin_broken_vs_good.jpg" height="260"><br><em>The metal centre diff · <strong>the failure and the fix</strong>, the sheared stock pin beside the plain full-length replacement</em></p>
 

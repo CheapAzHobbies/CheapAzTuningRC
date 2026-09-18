@@ -109,7 +109,7 @@
 | Position | Part |
 |:---|:---|
 | **Pinion** | **11T 32P** |
-| **Spur** | **54T**, came with the donor |
+| **Spur** | **54T steel**, integrated into the centre diff |
 | **Axles** | Knock-off Slash / Jato 4x4 HD steel CV on **TRA6752 long output shafts**, all four corners |
 | **Stubs** | Tekno **TKR1654-17** front, Tekno **5580** rear |
 | **Centre shaft** | Traxxas **6855-BLUE**, alloy, 214mm, came with the car |

@@ -25,7 +25,7 @@
 | **Spur** | **54T** |
 | **Cells run** | **4S**, the combo's ceiling |
 | **Cutoff** | **3.5V per cell**, see [`battery_analysis.md`](battery_analysis.md) |
-| **Cooling** | N/A 🚧 not recorded |
+| **Cooling** | **Surpass Hobby 36mm dual fan heatsink**, blue aluminium, carrying **two 30mm metal fans** in place of the plastic pair it ships with. **$22.62** all in, see [Motor cooling](#motor-cooling) |
 
 </div>
 
