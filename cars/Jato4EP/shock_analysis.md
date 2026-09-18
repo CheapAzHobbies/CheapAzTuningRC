@@ -13,7 +13,7 @@
 | Position | Oil | Spring | Piston |
 |---|---|---|---|
 | **Front** | **37.5wt**, Losi TLR74030 (468 cSt) | White 59gf (HB #67454, 76mm), stock C1 / D8 spec | ⚙️ **6 hole × 1.4, with two holes opened to 1.5** |
-| **Rear** | **50wt**, Associated 5480 FT (650 cSt) | Grey 52gf, stock C1 / D8 spec | 6 hole × 1.2 |
+| **Rear** | **50wt**, Associated 5480 FT (650 cSt) | Grey 52gf, **HB67453**, 76mm, stock C1 / D8 spec | 6 hole × 1.2 |
 
 </div>
 
@@ -59,6 +59,7 @@
 | Date | Price | Discount Path | Notes |
 |:---|:---|:---|:---|
 | 2025-06-02 | **$97.41** ✅ **purchased** | Listed price | **4 sets** of HPI **107365**, eBay **whiterosehobbies**, order **19-13141-49737**, delivered 2025-06-07. **Two sets are this car** ($48.70), the other two went on the [E-Revo 1.0](../ERevo_1.0/shock_analysis.md). Return window closed 2025-07-07 |
+| 2026-05-19 | **$23.49** ✅ **purchased** | Listed price | **2 packs** of Hot Bodies **67453** grey 52gf 76mm (Vorza D8S), order **14-14653-12511**, delivered 2026-05-22. **One pack is this car's rear** ($11.75), the second is a spare. 🚧 a photo of these exists but is not filed yet |
 
 </div>
 
