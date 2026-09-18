@@ -14,7 +14,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|
 | [Donor Car](#donor-car) | $100.00 |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
-| [Drivetrain](#drivetrain) | $148.72 |
+| [Drivetrain](#drivetrain) | $138.72 |
 | [Suspension](#suspension) | $143.89 |
 | [Hubs & Carriers](#hubs--carriers) | $61.80 |
 | [Steering](#steering) | $83.20 |
@@ -22,12 +22,18 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $365.66 |
 | [Batteries](#batteries) | $285.35 |
-| ⭐ **What the car cost** | **$1116.74** |
-| Total if you count the batteries | $1402.09 |
+| ⭐ **What the build cost** | **1006.74** |
+| The donor car, bought separately | $100.00 |
+| The batteries, shared across the fleet | $285.35 |
+| Everything, all in | 1392.09 |
 
-> **What came free:** the **54T spur** and the **stock gearbox housings** arrived on the donor and are priced $0. ⚠️ **The EHD hubs did not**, the donor predates EHD. ⚠️ **This list is probably not complete**, see [What came with the car](#what-came-with-the-car).
+> **What came free:** the **54T spur** and the **stock gearbox housings** arrived on the donor and are priced $0. ⚠️ **The EHD hubs did not**, the donor predates EHD. ⚠️ **This list is probably not complete**, see [What the donor supplied](#what-the-donor-supplied).
 >
-> ⭐ **The car cost leaves the batteries out on purpose.** Packs are [fleet items](../../batteries/README.md) that move between cars, and the Gens Ace 6300 in the list is on loan from the [Jato 4SS](../Jato4SS/README.md), so charging them to this build would overstate what the car actually took. The $1394.38 line is there only if you want the all in figure.
+> ⭐ **The build cost is what was spent turning the donor into this car, and it leaves two things out on purpose.**
+>
+> **The donor ($100.00)** is a starting point, not a build expense. It is still listed, because what it supplied is the whole reason this list is shaped the way it is. See [What the donor supplied](#what-the-donor-supplied).
+>
+> **The batteries ($285.35)** are [fleet items](../../batteries/README.md) that move between cars, and the Gens Ace 6300 is on loan from the [Jato 4SS](../Jato4SS/README.md), so charging them here would overstate the build.
 >
 > **One line is open:** what the TRA9032 front C-hubs cost. Every other row carries a price or is marked as having come with the car.
 
@@ -57,7 +63,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Metal centre diff, Traxxas 6780-style** | 1 | AliExpress, TangEmpire | **$18.80 each** | [Diffs](../Jato4SS/differential_analysis.md#center-diff) |
 | **Knock-off Slash / Jato 4x4 HD steel CV set**<br><sub>Note: TRA6851R + TRA6852R clones, the same set the 4SS runs, bolt-in with no cutting</sub> | 1 | AliExpress, FengS Store | **$21.10 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas 6752 long output shafts** | 1 | [LEDGER](../../LEDGER.md) #87 | **$32.00 / set of 4** | [Driveshafts](driveshaft_analysis.md) |
-| **Traxxas TRA6855 aluminium centre driveshaft**<br><sub>Note: 6061-T6, one piece, **214mm**, includes the centre bearing bushing. ⚠️ TRA6755 is the 189mm Rustler shaft, wrong fit. ⚠️ every 6855 carries a colour suffix, there is no bare part number. **Mike runs 6855-BLUE**</sub> | 1 | Tammies Hobbies | **$10.00 each** | [Driveshafts](driveshaft_analysis.md) |
+| **Traxxas TRA6855 aluminium centre driveshaft**<br><sub>**Replacement: $10.00** from Tammies Hobbies, which is list price. **Came with the car**, so it costs the build nothing. 6061-T6, one piece, **214mm**, includes the centre bearing bushing. ⚠️ TRA6755 is the 189mm Rustler shaft, wrong fit. ⚠️ every 6855 carries a colour suffix, there is no bare part number. **Mike runs 6855-BLUE**</sub> | 1 | Came with the car | **$0** | [Driveshafts](driveshaft_analysis.md) |
 | **Tekno TKR1654-17 front stubs**<br><sub>Note: same part, price and seller as the 4SS</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Driveshafts](driveshaft_analysis.md) |
 | **Tekno 5580 rear stubs**<br><sub>Note: his pair out of the 4SS's 2-pair order, $33.80 for both, so $16.90 each</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA5136 30k diff oil**<br><sub>Note: front. 🚧 price is the 4SS purchase of the same bottle; whether Mike bought his own is not recorded</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
@@ -136,20 +142,40 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 
 ---
 
-## What came with the car
+## What the donor supplied
 
-**The donor was a running Slash 4x4 and it was already LCG**, so some of what is on this build arrived with it rather than being bought. ⚠️ **It was also a pre-EHD car**, so none of the EHD suspension carried over. Every EHD part on this build was bought, which is a bigger slice of the cost than the LCG tub saves. Those rows are marked **`Came with the car`** and priced **$0**.
+**The $100 bought a complete, running, clapped out Slash 4x4.** A whole car came with it. **It was also pre-EHD and LCG**, and both of those shaped everything that followed.
 
-**Confirmed donor parts:**
+### Still on the car, and free
 
-| Part | Why it is free | What it would cost to buy |
-|:---|:---|:---|
-| **54T spur gear** | Arrived on the donor | 🚧 not recorded |
-| **Stock gearbox housings (TRA6881 / TRA6880)** | Recorded as unchanged from stock | **$4.00 / set** |
+These arrived on the donor and are priced **$0**, so they never touch the build cost. **They are wear parts and they do break**, so the replacement price is recorded next to each.
 
-**The right hand column is the point of this section.** A part that came free still costs money the day it breaks, and these are wear parts, so the replacement price is worth knowing even though it never touches the car's cost. **Each free row carries its replacement price in the part note as well**, so you do not have to come back here to find it.
+| Part | Replacement if it breaks |
+|:---|:---|
+| **Traxxas TRA6855 alloy centre driveshaft** | **$10.00**, Tammies Hobbies |
+| **Stock gearbox housings (TRA6881 / TRA6880)** | **$4.00 / set** |
+| **54T spur gear** | 🚧 not recorded |
 
-⭐ **The rule: price recorded, cost excluded.** A `Came with the car` row is priced **$0** in the Price column, so it cannot inflate the build total, while the replacement figure sits in the note where it is useful and harmless.
+⭐ **The rule: price recorded, cost excluded.** A `Came with the car` row is priced **$0** in the Price column so it cannot inflate the build total, while the replacement figure sits in the note, where it is useful and harmless.
+
+### Came with it, then got replaced
+
+**This is where the build cost went.** The donor was clapped out, so most of what it supplied was worn, broken, or simply the wrong generation.
+
+| What the donor came with | What replaced it |
+|:---|:---|
+| Stock plastic front bulkhead | **Powerhobby alloy**, $36.99 |
+| **No centre brace at all** | **Steel VG-style**, $18.99, an addition rather than a replacement |
+| Stock diffs | **Metal centre diff**, $18.80, plus 30k and 100k oils and a greased rear |
+| Stock driveshafts and stubs | **Knock-off CV set, 6752 shafts, Tekno stubs**, $89.99 together |
+| **Pre-EHD hubs and carriers** | **EHD carriers plus the MonsterKingz alloy front**, since no EHD part fits a pre-EHD car |
+| Stock arms | **FLM26800 extended**, $51.46 for the two pairs |
+| Stock shocks | **HPI Apache C1 big bores**, $48.70 |
+| Slash towers | **Jato 9033 front and 9034 rear**, $12.00 |
+| Stock steering | **GPM bell crank, ACER titanium links, PTK servo**, $83.20 |
+| Stock wheels and tires | **RedSpider on wide Jato rims**, the wide track trick |
+| Slash body | **Traxxas 9060-BLUE Jato body and the 9517X wing** |
+| Whatever electronics were in it | **Castle Mamba X SCT combo and a FlySky NB4**, $339.62 |
 
 **Bought, even though they look like parts a donor would supply:**
 
@@ -157,10 +183,8 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |:---|:---|:---|
 | **Traxxas 7422 LCG chassis** | $20.00 | [LEDGER](../../LEDGER.md) #80 books it, so it reads as a later replacement rather than the original tub |
 | **Traxxas 7477 LCG spur gear cover** | $3.00 | [LEDGER](../../LEDGER.md) #79, bought alongside the chassis above |
-| **Steel centre brace, VG-style** | $18.99 | The Slash shipped with **no brace at all**, so this was added, not replaced |
 | **Traxxas TRA6736 front bumper** | $6.00 | ✅ confirmed bought |
 | **Traxxas TRA9044 skid plates** | $7.00 | ✅ confirmed bought |
-| **The whole EHD suspension** | see the rows above | The donor was **pre-EHD**, so none of it carried over |
 
 ---
 
