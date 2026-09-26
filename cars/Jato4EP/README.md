@@ -185,6 +185,7 @@
 | **Connector** | **EC5**, the main battery connection |
 | **Cooling** | Surpass 36mm dual fan, two 30mm metal fans |
 | **Motor bearings** | **S605ZZ 5×14×5 ABEC-9**, two per service, same size both ends |
+| **Motor mount** | **King Headz alloy, 10×19×5 bearing** — chosen, [not yet bought](motor_mount_analysis.md) |
 
 > ⚠️ **4S is the ceiling and this car sits on it.** The Mamba X alone is 6S, but the bundled 1412 caps the combo at 4S.
 
@@ -223,7 +224,7 @@
 | [Shock towers](shock_tower_analysis.md) | [Driveshafts](driveshaft_analysis.md) | [17mm hexes](driveshaft_analysis.md#17mm-wheel-hexes) | [Body & aero](aero_analysis.md) | [Bumpers](bumper_analysis.md) |
 | [Arms](arm_analysis.md) | [Gearbox housings](gearbox_housing_analysis.md) | [Battery packs](battery_analysis.md) | [Wheels](wheel_analysis.md) | [Connectors](connector_reference.md) |
 | [Hubs](hub_analysis.md) | [Bearings](bearings_reference.md) | [Battery mounting](battery_mount_analysis.md) | [Bell crank](steering_bell_crank_analysis.md) | [Charger](charger_analysis.md) |
-| [Radio](radio_analysis.md) | [Tie rods](tie_rod_analysis.md) | [Servo](servo_analysis.md) | | |
+| [Radio](radio_analysis.md) | [Tie rods](tie_rod_analysis.md) | [Servo](servo_analysis.md) | [Motor mount](motor_mount_analysis.md) | |
 
 <p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 

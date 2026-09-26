@@ -281,6 +281,7 @@ When you start a **new part category**, define its field order once (add a short
 - **Wheel hexes:** Type · Part · Material · Stub fit · Wheel pattern · Retention · Weight · Price
 - **Wings:** Part · Material · Size · Fits · Weight · Price
 - **Motor cooling (heatsink/fan):** Heatsink · Fans · Suits · Footprint · Fan max RPM · Cable · Weight · Price
+- **Motor mounts:** Type · Material · Bearing · Fits · Includes · Weight · Price
 - **Battery hold-down bars:** Part · Embossed · Lower hole (22mm) · Upper hole (37mm) · Thickness · Span · Weight · Price
 - **Battery straps / retainers:** Part · Type · Material · Fits · Colors · Includes · Weight · Price
   - *Use this for anything that holds the pack down which is **not** a bar across the posts (velcro straps, alloy strap anchors, retainer plates). `Type` matters because listings blur them: the GPM TJ0126 is sold as an "alloy retainer" but is actually **two alloy strap anchors plus a velcro strap**, not a rigid bar. Say which it is.*
