@@ -18,10 +18,10 @@ Everything that's actually on the car, and nothing that isn't. **Qty** is how ma
 | [Hubs & Carriers](#hubs--carriers) | $109.87 |
 | [Steering](#steering) | $84.53 |
 | [Wheels & Tires](#wheels--tires) | $56.92 |
-| [Body & Aero](#body--aero) | $36.68 |
+| [Body & Aero](#body--aero) | $50.47 |
 | [Electronics](#electronics) | $383.73 |
-| **Total** | **~$1,115** |
-| **Car only, without the battery and radio** | **~$881** |
+| **Total** | **~$1,128** |
+| **Car only, without the battery and radio** | **~$895** |
 
 ---
 
@@ -100,7 +100,8 @@ Everything that's actually on the car, and nothing that isn't. **Qty** is how ma
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Traxxas Jato 3.3 body, 5511A red**<br><sub>Note: take-off, its own integrated wing means no separate wing</sub> | 1 | Jenny's RC | **$34.47 each** | [Body](aero_analysis.md#body-comparison) |
+| **Traxxas Jato 3.3 body, 5511A red**<br><sub>Note: take-off</sub> | 1 | Jenny's RC | **$34.47 each** | [Body](aero_analysis.md#body-comparison) |
+| **Traxxas TRA9517 wing (Jato 4x4 / Sledge) + TRA9046 mount combo**<br><sub>Note: installed 2026-09-26, replaced the body's integrated wing, mounts direct to the MonsterKingz CF rear tower</sub> | 1 | Jenny's RC | **$13.79 / combo** | [Wing](aero_analysis.md#wing-comparison) |
 | **3D-printed body mounts + posts, front + rear**<br><sub>Note: printed at home, STL + editable STEP in [`3d-models/`](3d-models/)</sub> | 1 | DIY | **$0** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 | **AJRC body clips, 50 pcs silver**<br><sub>Note: 1/5 to 1/16 R-clips, listed $6.31, paid $2.21 on sale. 50 of them is a lifetime supply</sub> | 1 | AliExpress, AJRC Official Store | **$2.21 / pack of 50** | [3D printed mounts](aero_analysis.md#3d-printed-body-mounts) |
 

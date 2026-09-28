@@ -1,10 +1,15 @@
 # Aero (Wing, Mount + Body) Selection — Jato 4SS
 
-> **Chosen: OG Jato 3.3 body (5511A red), with no separate wing or wing mount.** Ditching the buggy wing **and** the TRA9046 Meelobee mount for the Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. The shell runs its **own small integrated wing** and a **smaller / lighter body mount**, so weight comes off up high. The catch: the tall Jato 4x4 front + rear shock towers foul this lower shell, so **clearance holes get cut** to let the towers + shock tops poke through (done cleanly it reads as intentional). **This one is settled**, the truck shell is what the car runs. The **JConcepts P2 (0684)** stays listed as the buggy-body option if the look ever changes, not as a pending decision. The wing and wing-mount sections below cover the two ways a separate wing could come back: converting to a Jato wing, or going to the buggy body.
+> **Chosen: OG Jato 3.3 body (5511A red), now running a separate Traxxas Jato 4x4 / Sledge wing (TRA9517) on the OEM TRA9046 mount.** Installed 2026-09-26. The shell's own small integrated wing wasn't giving enough rear downforce: the car came in nose-heavy off jumps and needed more throttle in the air than wanted. The full Jato wing gets closer to a **neutral, flat flight** (a slight nose-down is fine, just not what the integrated wing was giving), which means the car can be **geared down for sharper throttle response and easier air control** instead of fighting pitch with the throttle. The mount drops straight onto the [MonsterKingz CF rear tower](shock_tower_analysis.md#monsterkingz-g-maxx-carbon-fiber-set-chosen-rear-only) already on the car, no Meelobee plate needed, since that tower was picked specifically to take this mount. The wing, mount and body were all already in hand, this is a install-status flip, not a new purchase.
 
 <p align="center">
-  <img src="src/body_traxxas_jato33_red_5511a.jpg" width="500"><br>
-  <em>Chosen: OG Jato 3.3 body (5511A red), 160 g, its own integrated wing, no separate buggy wing / mount</em>
+  <img src="src/aero_traxxas_jato4ss_tra9517_wing_installed.jpg" width="500">&nbsp;<img src="src/aero_traxxas_jato4ss_tra9517_wing_mount_closeup.jpg" width="500"><br>
+  <em>TRA9517 wing on the TRA9046 mount, installed 2026-09-26 · mount detail, bolted straight to the MonsterKingz CF rear tower</em>
+</p>
+
+<p align="center">
+  <img src="src/body_traxxas_jato33_red_5511a.jpg" width="300"><br>
+  <em>Legacy look: the Jato 3.3 shell's own integrated wing, no separate wing or mount, run until 2026-09-26</em>
 </p>
 
 ---
@@ -26,8 +31,8 @@
 | Requirement | Type | Why |
 |---|---|---|
 | **Must be baller** | **Must** | **The one section on this car where looks outrank function, and the only honest way to explain what got picked.** A [JConcepts P2](#body-comparison) is the better body by every technical measure: direct fit, race-proven, no cutting. It lost to a **used nitro shell off a 2007 truck** because that shell stands out from every buggy on the track and the P2 doesn't. Same logic bought the chrome rims. **If it doesn't look baller it doesn't go on the car**, and the rest of this table is negotiable around that |
-| **Fits chosen rear shock tower** | May | The Jato 3.3 shell runs an integrated wing, so nothing has to bolt to the tower today. Kept as a preference because **the option to convert back to a Jato wing** is worth holding, and it's the reason the rear runs carbon rather than a $6 Slash tower that won't take the Jato wing mount ([`shock_tower_analysis.md`](shock_tower_analysis.md)) |
-| **Holds wing through normal flights / crashes** | May | Only applies if a separate wing goes back on. The current shell's wing is part of the body, so there's nothing to shake loose |
+| **Fits chosen rear shock tower** | Must | The TRA9046 mount now bolts to the rear tower for real. It's why the rear runs carbon rather than a $6 Slash tower that won't take the Jato wing mount ([`shock_tower_analysis.md`](shock_tower_analysis.md)) |
+| **Holds wing through normal flights / crashes** | Must | The separate wing is now on the car, so this is a live requirement, not a hypothetical. Watch the TRA9046 mount hardware after hard landings |
 | **Cheap / replaceable** | May | Wings break. Easy to source replacements matters more than premium build |
 | **Doesn't put shocks in the crash path** | May | Solved rather than accepted. The rear shocks mount ahead of the tower now, so the tower takes the hit first ([`shock_tower_analysis.md`](shock_tower_analysis.md)) |
 
@@ -35,16 +40,16 @@
 
 ## Wing Comparison
 
-> **No separate wing on the current build**, the Jato 3.3 shell's integrated wing does the job. Two paths could bring one back, and each has a different pick below:
+> **Running the TRA9517 now**, as of 2026-09-26. The Jato 3.3 shell's integrated wing wasn't enough rear downforce, the car flew nose-heavy off jumps and ate throttle it shouldn't have needed. The buggy-body path below is unused, only relevant if the body itself ever changes:
 >
-> - **Convert to a Jato wing.** The reason the rear tower is carbon rather than a $6 Slash one, since only the carbon takes the Jato wing mount ([`shock_tower_analysis.md`](shock_tower_analysis.md)). Wing and mount are already in hand.
+> - **Jato wing, running.** The reason the rear tower is carbon rather than a $6 Slash one, since only the carbon takes the Jato wing mount ([`shock_tower_analysis.md`](shock_tower_analysis.md)).
 > - **Go back to a buggy body.** The JConcepts P2 fallback, which needs a buggy wing and mount of its own.
 
 > *Spec format: Part · Material · Size · Fits · Weight · Price*
 
 | Wing | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| 🥈 **Traxxas Jato 4x4 / Sledge wing** — *the Jato conversion path, combo in hand* | **Part:** TRA9517 (Jato 4x4 / Sledge)<br>**Material:** OEM plastic<br>**Size:** N/A<br>**Fits:** Jato 4x4 / Sledge<br>**Weight:** N/A<br>**Price:** **$13.79** ✅ **purchased** (wing + TRA9046 mount combo, Jenny's RC, delivered 2026-07-27) | Pro: Guaranteed OEM fit, no guesswork. Shared part between Jato 4x4 and Sledge. **In hand, got it as the Jenny's RC wing + TRA9046 mount combo**<br><br>Con: Heavier than the AliExpress wing. **Its mount only works on the Jato 4x4 rear towers (or the MonsterKingz rear CF towers)**, no other rear tower carries it. **If I kill this wing, the AliExpress wing drops straight on in its place** | <img src="src/aero_traxxas_jato_4x4_stock_wing_90154.jpg" width="500"><br><img src="src/aero_traxxas_sledge_wing_tra9517.jpg" width="500"><br><em>TRA9517 (Sledge)</em> |
+| ⭐ **Traxxas Jato 4x4 / Sledge wing** — *running, installed 2026-09-26* | **Part:** TRA9517 (Jato 4x4 / Sledge)<br>**Material:** OEM plastic<br>**Size:** N/A<br>**Fits:** Jato 4x4 / Sledge<br>**Weight:** N/A<br>**Price:** **$13.79** ✅ **purchased** (wing + TRA9046 mount combo, Jenny's RC, delivered 2026-07-27) | Pro: Guaranteed OEM fit, no guesswork. Shared part between Jato 4x4 and Sledge. **Fixed the nose-heavy landing problem**, flight is closer to neutral now, which is what let the gearing come down for sharper throttle response<br><br>Con: Heavier than the AliExpress wing. **Its mount only works on the Jato 4x4 rear towers (or the MonsterKingz rear CF towers)**, no other rear tower carries it. **If I kill this wing, the AliExpress wing drops straight on in its place** | <img src="src/aero_traxxas_jato4ss_tra9517_wing_installed.jpg" width="500"><br><img src="src/aero_traxxas_jato_4x4_stock_wing_90154.jpg" width="500"><br><img src="src/aero_traxxas_sledge_wing_tra9517.jpg" width="500"><br><em>installed on the car · Jato 4x4 stock · TRA9517 (Sledge)</em> |
 | 🔵 **Generic AliExpress 1/8 Buggy Tail Wing** — *buggy body path only* | **Part:** N/A (generic)<br>**Material:** nylon<br>**Size:** 213 × 85 × 50mm<br>**Fits:** 1/8 buggy / E-Revo 1.0<br>**Weight:** N/A<br>**Price:** **$2.50–$4** | Pro: Lighter than OEM, grid underside for reamer drilling. Good sacrificial part<br><br>Con: QC on finish varies, doesn't matter since you're drilling it anyway | <img src="src/aero_generic_wing_aliexpress_1-8.jpg" width="500"><br><img src="src/aero_generic_wing_aliexpress_dimensions.jpg" width="500"><br><em>with dimensions</em> |
 
 **AliExpress wing specs (in hand):**
@@ -61,13 +66,13 @@
 
 ## Wing Mount Comparison
 
-> **No mount on the current build**, since there's no separate wing. The OEM Jato mount below is the one held in reserve, and keeping it usable is why the rear tower is carbon.
+> **Running now**, bolted straight to the MonsterKingz CF rear tower already on the car, no Meelobee plate needed since that tower was chosen specifically to take this mount natively.
 
 > *Spec format: Part · Adjustable · Fits · Price*
 
 | Mount | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| 🥈 **OEM Jato 4x4 wing mount** — *held for the Jato conversion* | **Part:** TRA9046<br>**Adjustable:** Angle-adjustable (3D-printed shims)<br>**Fits:** Slash 4x4 Extreme HD tower (via Meelobee plate)<br>**Price:** **$7.00** | Pro: **Via Meelobee technique: mounts to the Slash 4x4 Extreme HD tower using a small aluminum plate on top of the tower**, shocks centered and protected, shock-exposure problem fully solved<br><br>Con: Requires fabricating a small aluminum plate (simple flat piece, not complex) | <img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="500"> |
+| ⭐ **OEM Jato 4x4 wing mount** — *running, direct to the CF rear tower* | **Part:** TRA9046<br>**Adjustable:** Angle-adjustable (3D-printed shims)<br>**Fits:** MonsterKingz CF rear tower (native fit); Slash 4x4 Extreme HD tower (via Meelobee plate, not needed here)<br>**Price:** **$7.00** | Pro: **Bolts direct to the MonsterKingz CF rear tower**, no plate or fabrication needed, that's the entire reason this build runs carbon instead of a $6 Slash tower. Shocks stay centered and protected<br><br>Con: N/A on this build, the Meelobee-plate route is only relevant if the tower ever changes to a Slash-pattern one | <img src="src/aero_traxxas_jato4x4_wing_mounts_tra9046.jpg" width="500"><br><img src="src/aero_traxxas_jato4ss_tra9517_wing_mount_closeup.jpg" width="500"><br><em>as mounted on the car</em> |
 | ❌ ~~**Team Losi 8ight Wing Mount**~~ | **Part:** TLR341005<br>**Adjustable:** Non-adjustable<br>**Fits:** N/A<br>**Price:** $27.99 | Pro: Clean sandwich-plate install<br><br>Con: $27.99, not worth it. Non-adjustable, needs a fabricated plate | <img src="src/aero_losi_8ight_wing_mount_tlr341005.jpg" width="500"> |
 | ❌ ~~**Traxxas Sledge wing mount**~~ | **Part:** TRA9518<br>**Adjustable:** Non-adjustable<br>**Fits:** Pairs with TRA9517<br>**Price:** $6.00 | Pro: Pairs with TRA9517<br><br>Con: Non-adjustable, needs a plate. Metal plate high up, bad for CG | <img src="src/aero_traxxas_sledge_wing_mount_tra9518.jpg" width="500"> |
 | ❌ ~~**HPI Vorza Flux Buggy Wing Mount**~~ | **Part:** #67521<br>**Adjustable:** Likely adjustable<br>**Fits:** stock #9034 rear tower (Jato fit unconfirmed)<br>**Price:** $8.75 | Pro: Likely adjustable, uses stock #9034 rear tower<br><br>Con: Fit to Jato tower unconfirmed | <img src="src/aero_hpi_vorza_flux_wing_mount_67521.jpg" width="500"> |
@@ -77,17 +82,18 @@
 
 ## Shock Tower Compatibility Cascade
 
-> **Not in play today, but it's why the rear tower is what it is.** The Jato 3.3 shell needs no wing mount, so nothing here forces a choice right now. **The MonsterKingz CF rear tower is chosen because it takes the Jato wing mount easily**, which keeps this whole cascade available without another tower swap ([`shock_tower_analysis.md`](shock_tower_analysis.md)). The $6 Slash rear towers don't take it without fabricating a plate, which is the one thing they cost you.
+> **In play now.** The wing is mounted, so this is the live geometry, not a reserved option. **The MonsterKingz CF rear tower was chosen because it takes the Jato wing mount easily**, which is exactly what let the wing go on without another tower swap ([`shock_tower_analysis.md`](shock_tower_analysis.md)). The $6 Slash rear towers don't take it without fabricating a plate, which is the one thing they'd have cost here.
 
 The wing mount choice changes which rear shock tower the build uses, which changes where the rear shocks live, which changes how exposed they are in a rear-end crash. The two paths:
 
 | Wing mount | Required rear tower | Shock position / Crash exposure | Photo |
 |---|---|---|---|
+| ⭐ **OEM Jato 4x4 Wing Mount TRA9046 on the MonsterKingz CF rear tower** — *running* | **MonsterKingz CF rear tower**, native Jato-pattern fit, no plate needed | **Centered**, same protected geometry as the Slash 4x4-style shock layout the CF tower keeps<br><br>**Protected**, shocks forward of the rear bumper line, not in the crash path | <img src="src/aero_traxxas_jato4ss_tra9517_wing_mount_closeup.jpg" width="500"> |
 | **OEM Jato 4x4 Wing Mount TRA9046 via Meelobee technique** | **Slash 4x4 rear tower**, either the EHD TRA9039 or the standard TRA6838, plus a small custom aluminium plate on top | **Centered**, same protected geometry as the Slash 4x4-style tower<br><br>**Protected**, shocks forward of the rear bumper line, not in the crash path | <img src="src/aero_tra9046_meelobee_slash_tower_plate.jpg" width="500"><br><em><a href="https://www.reddit.com/r/Traxxas/comments/1mzllk0/slash_4x4_converted_to_backslash/">Meelobee on r/Traxxas</a></em> |
 | OEM Jato 4x4 Wing Mount TRA9046 on stock Jato #9034 | Stock Jato #9034 | **Simplest install, bolt-on, zero mods required**<br><br>**Back side of the car**, shocks exposed to rear-end impacts. I've cracked shock bodies (HPI Vorza 97mm) this way. Cost of simplicity | <img src="src/shock_tower_traxxas_jato4x4_rear_spring_backside.jpg" width="500"> |
 | ~~STRC ST6808B conversion~~ (Vetoed) | Older Slash 4x4-style rear tower | **Centered**, shocks angled forward, protected<br><br>**Protected**, but at $66.99 for a full kit | <img src="src/shock_tower_strc_slash_conversion_shock_forward.jpg" width="500"> |
 
-**Not the route this build took.** The Meelobee technique puts the TRA9046 on a **Slash 4x4 rear tower**, EHD or standard, using a small aluminium plate on top. It stays here as the documented way to run a separate wing on a Slash tower if the body ever changes. Cheap OEM mount, no forced tower swap to an incompatible system. Also see TRA6838 (non-HD, same $6.00) as an alternative in [shock tower analysis](shock_tower_analysis.md).
+**The route this build actually took: the MonsterKingz CF rear tower, direct fit, no plate.** That's the whole reason the rear runs carbon instead of a $6 Slash tower. The Meelobee technique (TRA9046 on a Slash 4x4 rear tower via a small aluminium plate) stays documented below as the way to run a separate wing if the tower ever changes to a Slash-pattern one. Also see TRA6838 (non-HD, same $6.00) as an alternative in [shock tower analysis](shock_tower_analysis.md).
 
 **Weight bias note:** Slash 4x4 tower geometry positions the rear shocks closer to the center of the car (forward of the rear bumper line). This shifts mass toward the front, ideal for a nose-heavy bias on this build. The stock Jato #9034 geometry pushes shocks rearward, adding tail weight and reducing nose bias. Another reason to prefer the Meelobee technique beyond just shock protection.
 
@@ -144,4 +150,5 @@ The CF chassis has no clipless support, so **the body mounting is printed**. Tha
 - **Red now, orange when this one dies.** The **5511A red** was bought because Jenny's RC had it cheap, not because it was the look. **Orange (5511T) is the more iconic Jato 3.3**, and red is the iconic [E-Revo](../ERevo_1.0/README.md) colour, so keeping the two trucks visually distinct is worth more than both leaning on the same one. No reason to replace a working body over it, so this is the plan for whenever the red one gets wrecked.
 
 - **OG Jato 3.3 body (novelty look):** the genuine part is the **ProGraphix 5511R** (graphics pre-painted, main body clear, you spray any color you want) or the clear **5511**. The factory colors split two ways. **Sold as separate replacement bodies:** **red (5511A)**, **orange (5511T)**, plus **ProGraphix (5511R)** and **clear (5511)**. **RTR-only** (came on the complete **55077-3** truck, no standalone body part #): **blue** and **yellow**, which is why they only turn up as used take-offs. Note the RTR blue and yellow shells are **black-based with blue / yellow graphics**, so the "black" people remember is really the **accent scheme on those, not a solid-black body**; and the yellow here is a *Jato 3.3* (distinct from the green/black *Nitro Revo 3.3*). **Bought the red one** (5511A, delivered 2026-07-27) to try. So "colors" = spray any color on the 5511R, grab a red/orange separate body, or hunt a blue/yellow take-off off a parted-out truck.
-- **Why the OG Jato 3.3 shell won it:** it drops the big buggy wing and uses a smaller, lighter body mount → less weight up high and a cleaner OG stadium-truck silhouette. The catch is the Jato 4x4's **tall front + rear shock towers**, this lower shell sits over them, so you'd cut clearance holes to let the towers + shock tops poke through. Done deliberately (grommeted/flared holes) that can read as an intentional custom look rather than a hack.
+- **Why the OG Jato 3.3 shell won it:** the shell itself, uses a smaller, lighter body mount → less weight up high and a cleaner OG stadium-truck silhouette. The catch is the Jato 4x4's **tall front + rear shock towers**, this lower shell sits over them, so you'd cut clearance holes to let the towers + shock tops poke through. Done deliberately (grommeted/flared holes) that can read as an intentional custom look rather than a hack. **The body choice and the wing choice turned out to be separate decisions**, the shell stayed for the look, the integrated wing didn't stay for the flight behavior.
+- **Why the wing went back on, 2026-09-26.** The Jato 3.3 shell's small integrated wing wasn't giving enough rear downforce: the car landed nose-heavy off jumps, which meant fighting pitch with extra throttle instead of flying it. Bolting the full TRA9517 wing back on gets closer to a **neutral, flat flight** (a slight nose-down is fine, that's not the problem the swap solves). The payoff isn't just smoother landings, a car that isn't fighting for pitch stability in the air can be **geared down for sharper throttle response and easier air control**, since less throttle is being spent just keeping the nose up.

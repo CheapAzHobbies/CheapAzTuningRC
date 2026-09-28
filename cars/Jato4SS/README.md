@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>VOL. 1 &middot; ISSUE 01 &middot; PROJECT CAR FEATURE &middot; MELDRUM BAR, OR</b><br>
-  <b>&#9733; EXCLUSIVE:</b> $881 BUILD TAKES ON 1/5 SCALE &nbsp;&#9642;&nbsp;
+  <b>&#9733; EXCLUSIVE:</b> $895 BUILD TAKES ON 1/5 SCALE &nbsp;&#9642;&nbsp;
   <b>INSIDE:</b> EVERY RECEIPT &nbsp;&#9642;&nbsp;
   <b>PLUS:</b> THE $3.87 TIRE THAT ACTUALLY WORKS
 </p>
@@ -32,7 +32,7 @@
   <img alt="KV" src="https://img.shields.io/badge/2400-KV-000000?style=for-the-badge">
   <img alt="Weight" src="https://img.shields.io/badge/2.87-KG-444444?style=for-the-badge">
   <img alt="Swaybars" src="https://img.shields.io/badge/SWAYBARS-NONE-c0c0c0?style=for-the-badge">
-  <img alt="Cost" src="https://img.shields.io/badge/BUILT%20FOR-%24881-2ea44f?style=for-the-badge">
+  <img alt="Cost" src="https://img.shields.io/badge/BUILT%20FOR-%24895-2ea44f?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 <h2 align="center">BUDGET KING</h2>
 
 <p align="center">
-  <i>We gutted a Traxxas Jato 4x4 down to the gearboxes, spent $881 putting it back together<br>
+  <i>We gutted a Traxxas Jato 4x4 down to the gearboxes, spent $895 putting it back together<br>
   as a 4S electric buggy, and wrapped the whole thing in a 2007 nitro shell and chrome deep dish.<br>
   It races 1/5 scale trucks on a blown-out public dirt track. Here is every part, every price,<br>
   and every bad decision we would happily make again.</i>
@@ -88,11 +88,11 @@
 | 🌀 **Shocks** | Hot Bodies D8 97mm big bore, 37.5wt front / 50wt rear |
 | 🦾 **Arms** | FLM26800 metal extended, about 10mm wider per side |
 | 🎯 **Steering** | PTK 9752TG-D servo, GPM 6845X alloy bell crank, Integy purple C-hubs + GPM XO-1 front blocks, Raptor R rear carriers |
-| 🏁 **Body** | Traxxas Jato 3.3 red (5511A) with its own integrated wing |
+| 🏁 **Body** | Traxxas Jato 3.3 red (5511A), now running a separate TRA9517 wing on the TRA9046 mount |
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
 | 🔧 **Wheel cost** | ~$57 up front (rims + tires + foams + the glue that mounts them), ~$4 per tire change after that |
 | ⚖️ **Weight** | **~2.76 kg** as it runs today. The 2.868 kg weigh-in was on the heavier Zeee pack, see [Weight](#weight) |
-| 💰 **Build cost** | ~$881 for the car, ~$1,115 with the battery and radio, see [`BOM.md`](BOM.md) |
+| 💰 **Build cost** | ~$895 for the car, ~$1,128 with the battery and radio, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
 ## TABLE OF CONTENTS
@@ -143,7 +143,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 - **Diffs tuned for a loose surface.** 30k front to calm torque steer, **a greased rear rather than oil** for drive off the corner, 100k center (Traxxas TRA5130) to hold drive stability.
 - **Geared for punch, not top speed.** 16T pinion (FDR 3.38) on the 3665SD 2400KV keeps it punchy and cooler on a technical, rough track where you rarely hold full throttle.
 - **It survives crashes, but that isn't what it was built for.** The car was set up to go fast and it **gave up some durability to get there** — it's just turned out very strong anyway. The parts picked to last carry the ones that weren't: metal arms that bend instead of snap, alloy hubs on Tekno stubs (Integy C-hubs + GPM XO-1 blocks up front, Raptor R carriers out back), and a **minimal skid plate at the rear** so a bad landing lets me throttle out instead of digging in and cartwheeling. Up front is the **RPM 81042 wide bumper**, which sounds like the opposite but isn't: **it sits far enough forward that touching it means the car is already too nose down**, and it shouldn't ever get that vertical while racing. In normal driving nothing reaches it, and in a real frontal hit it takes the load instead of the diff.
-- **Body:** the OG Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. Its own integrated wing means no separate buggy wing or mount.
+- **Body:** the OG Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. **Now runs a separate TRA9517 wing** on the TRA9046 mount (2026-09-26) since the shell's own small integrated wing flew too nose-heavy, see [`aero_analysis.md`](aero_analysis.md).
 - **Wheels:** IMEX 1/8th Rally chrome rims, bought purely because they're baller, and yes I paid extra. The chrome ricer look plus the stretched stance from the extended arms makes it look like an extended-swingarm GSX-R, which is why we call it **the stretched GSX-R ricer hot boy look**. It looks great and still performs well. Right now they wear the $3.87 Mitsubishi-tread 26013 tires with blue race foams. The glued rally slicks they came with (the glue had gone on the old rims) were great on track and fun to drift, but not for racing.
 
 ---
@@ -246,7 +246,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 | Component | Part | Notes |
 |-----------|------|-------|
 | Body / shell | **Traxxas Jato 3.3 red (5511A)** | $34.47, clearance holes cut for the tall towers, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
-| Wing | The Jato 3.3 shell's own integrated wing | No separate wing or mount, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
+| Wing | **Traxxas Jato 4x4 / Sledge wing (TRA9517)** on the **TRA9046** mount | Installed 2026-09-26, bolts direct to the MonsterKingz CF rear tower. Replaced the shell's own integrated wing, which flew too nose-heavy, [`aero_analysis.md`](aero_analysis.md#wing-comparison) |
 | Rims | **IMEX IMX7893 1/8 Rally chrome** (17mm hex) | Bought for the look. A bit narrower than standard, so standard 1/8 tires go on with some finesse. The glued rally slicks came off: fun to drift, not for racing, [`wheel_analysis.md`](wheel_analysis.md#rims-bare-wheels) |
 | Tires | **Kforce Mitsubishi-tread 26013** (110 × 43mm, natural rubber, 35°), set of 4 | $3.87 shipped. Softer, but very durable once worn in, [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
 | Foam inserts | Blue closed-cell race foams, reusable | Keeps it planted, less rim slap, [`wheel_analysis.md`](wheel_analysis.md#foam-inserts) |
@@ -310,7 +310,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 | IMEX chrome rims + Kforce tires + blue race foams | $51.93 | **HSP-style ricer swirl wheels (~$25.45) or RedSpider R235 / R305 ($18.61)** — either works well, tires **and** foams already on both. The RedSpider set is the most durable full set here, so going cheaper saves more again, [`wheel_analysis.md`](wheel_analysis.md) | ~$25.45 | **~$26.48** |
 | **Total** | | | | **~$146** |
 
-**That lands the same car near ~$969 all in, or ~$828 without the radio**, against ~$1,115 as built.
+**That lands the same car near ~$969 all in, or ~$828 without the radio**, against ~$1,128 as built.
 
 > **Taken all the way, that's the [bare-bones BOM](BOM_barebones.md): ~$665.** Buy a **running Jato 4x4 VXL for $200** (the market is $200-250) and spend ~$465 on the parts that actually matter — CF chassis, FLM arms, front alloy hubs, titanium rods, the long-axle conversion and a servo. The donor's ESC, motor, radio, bearings, diffs, shocks, towers, body and wing all stay on the car.
 
@@ -347,7 +347,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 | Category | Score | The call |
 |---|---|---|
-| **Value** | **9/10** | $881 for a car that runs with 1/5 scale trucks. The [bare-bones build](BOM_barebones.md) does it for **~$665** |
+| **Value** | **9/10** | $895 for a car that runs with 1/5 scale trucks. The [bare-bones build](BOM_barebones.md) does it for **~$665** |
 | **Performance** | **8/10** | 4S, 2400KV, wide track, soft big bores. Geared for punch on a rough track, not for a top-speed number |
 | **Durability** | **7/10** | Gave some away for performance and got lucky. Metal arms, alloy hubs and titanium rods carry the parts that were not chosen to last |
 | **Looks** | **10/10** | Chrome deep dish, OG nitro shell, stretched stance. Objectively correct |
@@ -370,7 +370,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 | `SJato_Front_Body_Post.stl` | Front body post, **PETG**, **2 off**. 20 × 20 × 35 mm | **On the car** |
 | `SJato_Rear_Body_Post.stl` | Rear body post, **PETG**, **2 off**. 20 × 20 × 48 mm | **On the car** |
 | [`TRA_EHD_Bearing_Adapter_18_to_15mm.stl`](3d-models/TRA_EHD_Bearing_Adapter_18_to_15mm.stl) | 18 → 15 mm bearing sleeve, **PETG**, **4 off**, one per hub corner. Drops a common 10×15×4 into the 18 mm hub pocket, so nothing has to be shaved. Glue the outer face of the ring only and press it in, [`bearings_reference.md`](bearings_reference.md#fitting-the-sleeve) | **On the car** |
-| `JatoE_Wing_Mount.stl` | Wing mount, printed. Not fitted, since the Jato 3.3 shell carries its own integrated wing | Spare / for a buggy body |
+| `JatoE_Wing_Mount.stl` | Wing mount, printed. Not fitted, the genuine TRA9046 runs the actual wing instead | Spare / for a buggy body |
 | Custom front-end shroud / wing mount + Rustler bumper integration | Cosmetic shroud that integrates the Rustler 4x4 front bumper into a clean wing mount. Discussed in [`bumper_analysis.md`](bumper_analysis.md#notes) | Idea / TODO |
 
 ## NEXT ISSUE

@@ -129,7 +129,11 @@ Moved to the motor doc. See [`esc_motor_analysis.md` → Gearing](esc_motor_anal
 
 **Body:** Currently on the **original E-Revo body** (OG style, preferred look). Planning the **Traxxas 8612 E-Revo 2.0 "Solar Flare"** pre-painted body — comes painted with decals plus clipless mounts, reinforcement, and roof skid, which works out cheaper than painting an aftermarket 1.0 body and adding the protective bits separately ($79.95). The 2.0 shell wears out, so the plan is to reuse its protective plastic on an OG-style body. Full reasoning in [`body_analysis.md`](body_analysis.md).
 
-**Body posts:** **Traxxas 8614 clipless body posts, front & rear** (E-Revo VXL BL) — **in hand** ($5, PowerHobby). Bought to run clipless mounting on an OG-style body.
+**Body posts:** **Traxxas 8614 clipless body posts, front & rear** (E-Revo VXL BL) — ($5, PowerHobby). Bought to run clipless mounting on an OG-style body.
+
+⚠️ **Rear post failure, upgraded to aluminum.** The plastic 8614 rear post kept breaking right where the single bolt passes through both the chassis and the post itself, and once it goes the body pops loose, which is dangerous at speed. Replaced with an **aluminum rear mount, 🚧 brand/part TBD, 48g measured**.
+
+<p align="center"><img src="src/body_alloy_rear_body_mount_weight.jpg" width="380"><br><em>Aluminum rear body mount, 48g on the scale</em></p>
 
 ---
 
