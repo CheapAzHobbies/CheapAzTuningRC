@@ -50,8 +50,8 @@
 </p>
 
 <p align="center">
-  <img src="src/aero_traxxas_jato4ss_tra9517_wing_mount_closeup.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_front_detail.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_rear_drivetrain.jpg" height="243"><br>
-  <em>TRA9517 wing on the TRA9046 mount &middot; front bumper and steering &middot; rear shocks and CVDs</em>
+  <img src="src/aero_traxxas_jato4ss_tra9517_wing_mount_closeup.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_front_detail.jpg" height="243"><br>
+  <em>TRA9517 wing on the TRA9046 mount &middot; front bumper and steering</em>
 </p>
 
 <p align="center">
