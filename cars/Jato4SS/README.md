@@ -50,14 +50,14 @@
 </p>
 
 <p align="center">
-  <img src="src/overview_jato4ss_imex_slicks_side.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_front_detail.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_rear_drivetrain.jpg" height="243"><br>
-  <em>Stretched on the IMEX slicks &middot; front bumper and steering &middot; rear shocks and CVDs</em>
+  <img src="src/aero_traxxas_jato4ss_tra9517_wing_mount_closeup.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_front_detail.jpg" height="243">&nbsp;<img src="src/overview_jato4ss_rear_drivetrain.jpg" height="243"><br>
+  <em>TRA9517 wing on the TRA9046 mount &middot; front bumper and steering &middot; rear shocks and CVDs</em>
 </p>
 
 <p align="center">
-  <img src="src/overview_jato4ss_dirt_tires.jpg" width="720"><br>
+  <img src="src/aero_traxxas_jato4ss_tra9517_wing_installed.jpg" width="720"><br>
   <b>&#9656; CURRENT OFFROAD SETUP &#9662;</b><br>
-  <em>IMEX chrome rims on the $3.87 Mitsubishi-tread 26013 tires with blue race foams &mdash; what it actually races on</em>
+  <em>IMEX chrome rims on the $3.87 Mitsubishi-tread 26013 tires, now flying the TRA9517 wing &mdash; what it actually races on</em>
 </p>
 
 <p align="center"><img src="src/web_divider_chrome.png" width="100%"></p>
@@ -109,6 +109,7 @@
 - 🧾 [PARTS LIST](#parts-list)
 - 💸 [BUILDING IT CHEAPER](#building-it-cheaper)
 - 🖨️ [3D MODELS](#3d-models)
+- 📸 [GALLERY](#gallery)
 - ✅ [NEXT ISSUE](#next-issue)
 
 ---
@@ -372,6 +373,21 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 | [`TRA_EHD_Bearing_Adapter_18_to_15mm.stl`](3d-models/TRA_EHD_Bearing_Adapter_18_to_15mm.stl) | 18 → 15 mm bearing sleeve, **PETG**, **4 off**, one per hub corner. Drops a common 10×15×4 into the 18 mm hub pocket, so nothing has to be shaved. Glue the outer face of the ring only and press it in, [`bearings_reference.md`](bearings_reference.md#fitting-the-sleeve) | **On the car** |
 | `JatoE_Wing_Mount.stl` | Wing mount, printed. Not fitted, the genuine TRA9046 runs the actual wing instead | Spare / for a buggy body |
 | Custom front-end shroud / wing mount + Rustler bumper integration | Cosmetic shroud that integrates the Rustler 4x4 front bumper into a clean wing mount. Discussed in [`bumper_analysis.md`](bumper_analysis.md#notes) | Idea / TODO |
+
+---
+
+## GALLERY
+
+<p align="center"><i>The car through its major updates and damage, newest first. Not a one-time snapshot &mdash; new rows get appended here as things happen, good or bad.</i></p>
+
+| Date | Update | Photo |
+|---|---|---|
+| 2026-09-27 | **Bent front arm.** Vick collided with the car mid-turn on the track, not a jump impact. Straightened with two crescent wrenches, still driveable, not snapped. First real damage logged against the FLM26800 arms, [`arm_analysis.md`](arm_analysis.md#notes) | <img src="https://placehold.co/260x180/eee/333?text=IMAGE+NEEDED" width="260"><br>🚧 save as `src/suspension_flm26800_bent_arm_20260927.jpg` |
+| 2026-09-26 | **Wing swap.** TRA9517 wing on the TRA9046 mount replaced the Jato 3.3 shell's small integrated wing, fixing nose-heavy landings so the car could gear down for sharper throttle response, [`aero_analysis.md`](aero_analysis.md#wing-comparison) | <img src="src/aero_traxxas_jato4ss_tra9517_wing_installed.jpg" width="260"> |
+| 2026-07-29 | **Hub upgrade.** Traxxas Raptor R Ultimate alloy hubs (genuine slim EHD) replaced the MonsterKingz set, which turned out too fat and heavy. MonsterKingz demoted, then sold to Mike ($50, 2026-09-07), [`hub_analysis.md`](hub_analysis.md#carrier-comparison) | <img src="src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg" width="260"> |
+| 2026-07-27 | **Build complete.** OG Jato 3.3 body (5511A red) went on, running its own small integrated wing, IMEX chrome rims on Kforce tires. The car's original look, before the wing swap above | <img src="src/overview_jato4ss_imex_slicks_side.jpg" width="260"> |
+
+---
 
 ## NEXT ISSUE
 

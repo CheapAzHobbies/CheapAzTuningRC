@@ -131,9 +131,9 @@ Moved to the motor doc. See [`esc_motor_analysis.md` → Gearing](esc_motor_anal
 
 **Body posts:** **Traxxas 8614 clipless body posts, front & rear** (E-Revo VXL BL) — ($5, PowerHobby). Bought to run clipless mounting on an OG-style body.
 
-⚠️ **Rear post failure, upgraded to aluminum.** The plastic 8614 rear post kept breaking right where the single bolt passes through both the chassis and the post itself, and once it goes the body pops loose, which is dangerous at speed. Replaced with an **aluminum rear mount, 🚧 brand/part TBD, 48g measured**.
+⚠️ **Rear post failure, upgraded to aluminum.** The plastic 8614 rear post kept breaking right where the single bolt passes through both the chassis and the post itself, and once it goes the body pops loose, which is dangerous at speed. Replaced with an **Enron aluminum rear mount, 48g measured**.
 
-<p align="center"><img src="src/body_alloy_rear_body_mount_weight.jpg" width="380"><br><em>Aluminum rear body mount, 48g on the scale</em></p>
+<p align="center"><img src="src/body_enron_rear_body_mount_weight.jpg" width="380"><br><em>Enron aluminum rear body mount, 48g on the scale</em></p>
 
 ---
 
