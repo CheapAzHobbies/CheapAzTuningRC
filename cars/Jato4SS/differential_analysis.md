@@ -191,6 +191,8 @@ The spider pins are **stepped down** partway along their length, and that step i
 >
 > **Plastic-spur reference (the TRA3956R 54T, for a plastic center diff):** plastic is a sacrificial failure point, in a bad crash it strips before transferring force to the metal pinion, driveshafts, and gearbox. 54T over 50T/52T: **more teeth spread the load and wear more evenly**, and **54T lands the gearing where we want it.** Cheap to replace.
 
+⚠️ **Field failure, 2026-10-01: the integrated steel 54T spur sheared**, during the Jato 4SS's last run. It's not the sacrificial plastic design this section argues for, it's the metal spur that was supposed to be the accepted tradeoff (see [Center diff](#center-diff) Con), and it broke anyway. Since the spur is integrated into the AliExpress metal center diff, **there's no separate gear to swap, the whole diff unit needs replacing**. 🚧 Whether anything downstream (pinion, CVDs, gearbox housing) also took damage from the shock of it letting go isn't confirmed yet, worth inspecting before putting the car back together.
+
 <p align="center"><img src="src/drivetrain_traxxas_spur_gear_tra3956r_54t.jpg" width="600"><br><em>TRA3956R 54T plastic spur, the plastic-center-diff option (not used; the metal center diff has its own steel spur)</em></p>
 
 ### Spur Gear Requirements
@@ -224,6 +226,7 @@ The spider pins are **stepped down** partway along their length, and that step i
 - **Metal spur = wrong failure mode:** a metal spur that won't strip transfers crash energy directly into the pinion and downstream drivetrain. You save the $3 plastic gear and destroy far more expensive parts.
 - **Tooth count and gear ratio:** all 32P / 0.8M gears are compatible. Choose tooth count based on motor KV and desired top speed vs torque balance. 50T–54T is the standard range for 4S offroad builds.
 - **Slipper vs center diff:** slipper clutch (TRA6878A) works on high-grip surfaces but doesn't handle well on dirt/low-grip tracks, this build is set up for dirt offroad. Center diff (TRA6814) is the correct setup. Use center-diff specific spur gears (TRA6842R, TRA6843R) which seat directly in the center diff housing, not slipper assembly gears.
+- **The theory met reality, 2026-10-01: the steel spur sheared.** This section's whole case for plastic was that a metal spur won't give, it transfers crash energy downstream instead. The integrated steel spur on the running metal center diff did fail, just not by stripping teeth, see the field failure note above. Doesn't flip the plastic-vs-metal argument on its own (one data point), but it's the first real test of the metal spur's durability on this build.
 
 ---
 
