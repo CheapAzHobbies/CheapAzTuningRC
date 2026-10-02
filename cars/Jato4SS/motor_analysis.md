@@ -500,15 +500,16 @@ Conventional wisdom is mixed:
 
 ## Pinion Reference (32P)
 
-Pinion is largely handled: the **AliExpress metal center diff came with 16T, 17T, and 18T pinions (5mm bore)**, all matched to its **integrated steel 54T spur** (the decided spur, see [`differential_analysis.md`](differential_analysis.md#center-diff)). So the only call left is which of the three to run for the MAX10 G2 + 3665SD 2400KV. Reference table below, the three in-hand sizes bolded (FDR is teeth-based, so the ratios hold regardless of 32P vs mod1, just match pitch if you buy more pinions):
+The spur stayed **54T** through the [center diff swap](differential_analysis.md#center-diff) (TRA6814 + separate TRA3956R, same tooth count as the old AliExpress diff's integrated spur), so the FDR math below still holds regardless of which diff is fitted. **Running 14T now**, down from 16T, for even more punch. Reference table below (FDR is teeth-based, so the ratios hold regardless of 32P vs mod1, just match pitch if you buy more pinions):
 
 | Pinion (32P) | FDR with 54T spur | Speed character | Typical motor pairing |
 |---|---|---|---|
+| **14T** ⭐ | **3.86** | **Punchiest, hottest of the bunch** | **⭐ Running now** |
 | 13T | 4.15 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused |
 | 15T | 3.60 | Tame, low motor temp | Castle 1412 3200KV starting point, keeps it cooler |
-| **16T** ⭐ | **3.38** | **Punchy, coolest of the three** | **⭐ Running now** (came with the center diff) |
+| **16T** | **3.38** | **Punchy, coolest of the bolded sizes** | **Previously running, in hand** |
 | **17T** | **3.18** | **Balanced middle** | **In hand, step up here for more top end** |
-| **18T** | **3.00** | **More top end** | **In hand (came with the center diff)** |
+| **18T** | **3.00** | **More top end** | **In hand** |
 | 19T | 2.84 | Faster, more top end | 2400KV with a strong battery |
 | 21T | 2.57 | High-speed bias | 2400KV, speed bias |
 | 23T | 2.35 | Top-end aggressive | 2200KV on light vehicle |
