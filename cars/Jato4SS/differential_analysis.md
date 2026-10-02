@@ -224,7 +224,7 @@ The spider pins are **stepped down** partway along their length, and that step i
 - **Metal spur = wrong failure mode:** a metal spur that won't strip transfers crash energy directly into the pinion and downstream drivetrain. You save the $3 plastic gear and destroy far more expensive parts.
 - **Tooth count and gear ratio:** all 32P / 0.8M gears are compatible. Choose tooth count based on motor KV and desired top speed vs torque balance. 50T–54T is the standard range for 4S offroad builds.
 - **Slipper vs center diff:** slipper clutch (TRA6878A) works on high-grip surfaces but doesn't handle well on dirt/low-grip tracks, this build is set up for dirt offroad. Center diff (TRA6814) is the correct setup. Use center-diff specific spur gears (TRA6842R, TRA6843R) which seat directly in the center diff housing, not slipper assembly gears.
-- **Correction, 2026-10-01: the spur itself didn't fail.** Earlier logged here as a sheared steel spur, but the real cause was a seized chassis-side bearing (part of the center driveshaft bundle, not the diff's own) that knocked the spur out of alignment, not the spur giving up under load, see [the service log](service_analysis.md). Doesn't say anything about plastic vs metal spur durability either way, this wasn't a spur failure.
+- **Correction, 2026-10-01: the spur itself didn't fail.** Earlier logged here as a sheared steel spur, but the real cause was a seized chassis-side bearing (part of the center driveshaft bundle) that knocked the spur out of alignment, not the spur giving up under load, see [the service log](service_analysis.md). Doesn't say anything about plastic vs metal spur durability either way, this wasn't a spur failure.
 
 ---
 
