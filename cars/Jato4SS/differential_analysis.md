@@ -15,7 +15,7 @@
 - [Front & Rear Diff Comparison](#front--rear-diff-comparison)
 - [Alternative Upgrade Parts](#alternative-upgrade-parts)
 - [Center Diff](#center-diff)
-- [Center Diff Teardown](#center-diff-teardown) — inside the $19 winner: 3 spider gears, bearings both sides, and the one pin that breaks
+- [Center Diff Teardown](#center-diff-teardown) — inside the $19 winner: 3 spider gears, bearings both sides, the pin that breaks, and a bearing seizure that cracked the housing
 - [Center Diff Oil](#center-diff-oil)
 - [Front & Rear Diff Oil](#front--rear-diff-oil)
 - [Spur Gear](#spur-gear)
@@ -141,8 +141,16 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 - **Gears are Traxxas-size**, so a standard Traxxas diff gear set rebuilds it. No proprietary spares to chase.
 - **Replace the stepped pins with solid 2.8mm × 7mm pins** on the first rebuild, before one breaks rather than after. The stock pins are 6.85mm, so going to 7mm also picks up the bit of length they were missing.
-- **The housing is not the weak point here.** Because the bearings carry the shafts, the aluminum bores never get augered out the way an unbearinged alloy diff does, and it seals oil better than plastic on top of that. The stepped pin is the part that actually fails.
+- **The housing doesn't wear from unbearinged shaft bores**, since the bearings carry the shafts instead of letting the aluminum bores auger out, and it seals oil better than plastic. That's a different claim from "can't fail," though, see the field failure below: a seized bearing is its own failure path, bore wear was just never it.
 - **Fill half full only**, same rule as any sealed diff. See [Center Diff Oil](#center-diff-oil) for the weight this car runs.
+
+#### Field failure, 2026-10-01: seized bearing cracked the housing
+
+**What actually happened:** one of the output shaft bearings locked up and stopped turning. With the bearing seized, the shaft spun inside it instead of the bearing rotating in its seat, and the friction generated enough heat to melt/damage the housing right at that bearing seat. That let the shaft (and the spur on the end of it) drift out of true alignment, which is what put the **spur at a weird angle** and ultimately **cracked the center diff housing**. The spur itself was never the failure, it was a downstream symptom of the bearing seizing.
+
+⚠️ **The bearing in this diff is a different size than either the MonsterKingz hub bearings or the OEM Traxxas ones already documented on this build** (see [`hub_analysis.md`](hub_analysis.md#carrier-comparison) and [`bearings_reference.md`](bearings_reference.md)). 🚧 Exact size not yet measured, caliper it before ordering a replacement rather than assuming it matches a bearing already in stock.
+
+**Since the spur is integrated into this diff, there's no separate gear to swap, the whole unit needs replacing.** 🚧 Whether anything downstream (pinion, CVDs, gearbox housing) also took damage isn't confirmed, worth inspecting before putting the car back together.
 
 <p align="center"><img src="src/drivetrain_aliexpress_center_diff_assembled_spur.jpg" width="500">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_spur_face_bearing.jpg" width="500"><br><em>Back together, steel 54T spur face · spur face and the center bore bearing</em></p>
 
@@ -191,7 +199,7 @@ The spider pins are **stepped down** partway along their length, and that step i
 >
 > **Plastic-spur reference (the TRA3956R 54T, for a plastic center diff):** plastic is a sacrificial failure point, in a bad crash it strips before transferring force to the metal pinion, driveshafts, and gearbox. 54T over 50T/52T: **more teeth spread the load and wear more evenly**, and **54T lands the gearing where we want it.** Cheap to replace.
 
-⚠️ **Field failure, 2026-10-01: the integrated steel 54T spur sheared**, during the Jato 4SS's last run. It's not the sacrificial plastic design this section argues for, it's the metal spur that was supposed to be the accepted tradeoff (see [Center diff](#center-diff) Con), and it broke anyway. Since the spur is integrated into the AliExpress metal center diff, **there's no separate gear to swap, the whole diff unit needs replacing**. 🚧 Whether anything downstream (pinion, CVDs, gearbox housing) also took damage from the shock of it letting go isn't confirmed yet, worth inspecting before putting the car back together.
+⚠️ **Correction, 2026-10-01: the spur didn't shear on its own, a seized output bearing caused it.** Originally logged here as a sheared spur, but the real chain was a locked-up center diff bearing, see the [Center Diff Teardown](#center-diff-teardown) for the full failure writeup. The spur going to a weird angle was a symptom of that, not an independent failure.
 
 <p align="center"><img src="src/drivetrain_traxxas_spur_gear_tra3956r_54t.jpg" width="600"><br><em>TRA3956R 54T plastic spur, the plastic-center-diff option (not used; the metal center diff has its own steel spur)</em></p>
 
@@ -226,7 +234,7 @@ The spider pins are **stepped down** partway along their length, and that step i
 - **Metal spur = wrong failure mode:** a metal spur that won't strip transfers crash energy directly into the pinion and downstream drivetrain. You save the $3 plastic gear and destroy far more expensive parts.
 - **Tooth count and gear ratio:** all 32P / 0.8M gears are compatible. Choose tooth count based on motor KV and desired top speed vs torque balance. 50T–54T is the standard range for 4S offroad builds.
 - **Slipper vs center diff:** slipper clutch (TRA6878A) works on high-grip surfaces but doesn't handle well on dirt/low-grip tracks, this build is set up for dirt offroad. Center diff (TRA6814) is the correct setup. Use center-diff specific spur gears (TRA6842R, TRA6843R) which seat directly in the center diff housing, not slipper assembly gears.
-- **The theory met reality, 2026-10-01: the steel spur sheared.** This section's whole case for plastic was that a metal spur won't give, it transfers crash energy downstream instead. The integrated steel spur on the running metal center diff did fail, just not by stripping teeth, see the field failure note above. Doesn't flip the plastic-vs-metal argument on its own (one data point), but it's the first real test of the metal spur's durability on this build.
+- **Correction, 2026-10-01: the spur itself didn't fail.** Earlier logged here as a sheared steel spur, but the real cause was a seized center diff output bearing that knocked the spur out of alignment, not the spur giving up under load, see [Center Diff Teardown](#center-diff-teardown). Doesn't say anything about plastic vs metal spur durability either way, this wasn't a spur failure.
 
 ---
 
