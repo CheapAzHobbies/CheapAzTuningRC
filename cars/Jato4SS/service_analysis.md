@@ -12,5 +12,5 @@ Real-world failures from actually driving the car, kept separate from the part-s
 ## Notes
 
 - **Why separate from the analysis docs:** `<part>_analysis.md` docs are about why a part was chosen; this log is about what actually happened to it under real driving. Keeping failures here instead of buried in a part's Notes section keeps both docs on-topic and gives a single place to check "what's broken on this car and when."
-- **Milestone (Total Runs)** is a mile-marker, the cumulative run count on the pack(s) in use when the failure happened, like an odometer reading, not just that day's count (see [`battery_analysis.md`](battery_analysis.md) for the full cycle tracking).
+- **Milestone (Total Runs)** is a mile-marker, the cumulative run count on the pack(s) in use when the failure happened, like an odometer reading, not just that day's count (see [`battery_analysis.md`](battery_analysis.md) for the full cycle tracking). Each new entry logs whatever the running total is at that point (22, then the next one might land at 40, and so on), it's not a fixed checkpoint schedule.
 - See also the [README Gallery](README.md#gallery) for the same events with photos, and each linked `<part>_analysis.md` for the part's own spec/comparison context.
