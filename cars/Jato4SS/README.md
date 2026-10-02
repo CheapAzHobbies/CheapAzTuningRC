@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>VOL. 1 &middot; ISSUE 01 &middot; PROJECT CAR FEATURE &middot; MELDRUM BAR, OR</b><br>
-  <b>&#9733; EXCLUSIVE:</b> $895 BUILD TAKES ON 1/5 SCALE &nbsp;&#9642;&nbsp;
+  <b>&#9733; EXCLUSIVE:</b> $879 BUILD TAKES ON 1/5 SCALE &nbsp;&#9642;&nbsp;
   <b>INSIDE:</b> EVERY RECEIPT &nbsp;&#9642;&nbsp;
   <b>PLUS:</b> THE $3.87 TIRE THAT ACTUALLY WORKS
 </p>
@@ -32,7 +32,7 @@
   <img alt="KV" src="https://img.shields.io/badge/2400-KV-000000?style=for-the-badge">
   <img alt="Weight" src="https://img.shields.io/badge/2.87-KG-444444?style=for-the-badge">
   <img alt="Swaybars" src="https://img.shields.io/badge/SWAYBARS-NONE-c0c0c0?style=for-the-badge">
-  <img alt="Cost" src="https://img.shields.io/badge/BUILT%20FOR-%24895-2ea44f?style=for-the-badge">
+  <img alt="Cost" src="https://img.shields.io/badge/BUILT%20FOR-%24879-2ea44f?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 <h2 align="center">BUDGET KING</h2>
 
 <p align="center">
-  <i>We gutted a Traxxas Jato 4x4 down to the gearboxes, spent $895 putting it back together<br>
+  <i>We gutted a Traxxas Jato 4x4 down to the gearboxes, spent $879 putting it back together<br>
   as a 4S electric buggy, and wrapped the whole thing in a 2007 nitro shell and chrome deep dish.<br>
   It races 1/5 scale trucks on a blown-out public dirt track. Here is every part, every price,<br>
   and every bad decision we would happily make again.</i>
@@ -92,7 +92,7 @@
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
 | 🔧 **Wheel cost** | ~$57 up front (rims + tires + foams + the glue that mounts them), ~$4 per tire change after that |
 | ⚖️ **Weight** | **~2.76 kg** as it runs today. The 2.868 kg weigh-in was on the heavier Zeee pack, see [Weight](#weight) |
-| 💰 **Build cost** | ~$895 for the car, ~$1,128 with the battery and radio, see [`BOM.md`](BOM.md) |
+| 💰 **Build cost** | ~$879 for the car, ~$1,112 with the battery and radio, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
 ## TABLE OF CONTENTS
@@ -171,14 +171,14 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 ## DRIVETRAIN
 
 <p align="center">
-  <img src="src/drivetrain_aliexpress_knockoff_slash4x4_steel_diff.png" width="250">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" width="250">&nbsp;<img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="250"><br>
-  <em>Steel front / rear diffs · metal center diff with 54T spur · HD steel CVDs</em>
+  <img src="src/drivetrain_aliexpress_knockoff_slash4x4_steel_diff.png" width="250">&nbsp;<img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="250">&nbsp;<img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="250"><br>
+  <em>Steel front / rear diffs · TRA6814 plastic center diff with separate 54T spur · HD steel CVDs</em>
 </p>
 
 | Component | Part | Notes |
 |-----------|------|-------|
 | Diffs (front + rear) | **AliExpress knock-off Slash 4x4 steel diffs** (5mm, with I-bar) | 30k front / **greased rear, no oil**, [`differential_analysis.md`](differential_analysis.md) |
-| Center diff + spur | **AliExpress metal center diff**, integrated steel 54T spur | Came with 16/17/18T pinions, [`differential_analysis.md`](differential_analysis.md#center-diff) |
+| Center diff + spur | **Traxxas TRA6814 plastic**, separate TRA3956R 54T spur | Swapped in 2026-10-01 after the previous metal diff's bearing seized and cracked its housing, [`differential_analysis.md`](differential_analysis.md#center-diff) |
 | Center diff oil | **Traxxas 100k (TRA5130)** | $8 at Tammies Hobby, [`differential_analysis.md`](differential_analysis.md#center-diff-oil) |
 | Grease | **B'LASTER white lithium** | CVDs and gears, not inside the diffs. $6.99 at Harbor Freight, [`driveshaft_analysis.md`](driveshaft_analysis.md#grease-cvds--gears) |
 | Pinion | **16T 32P** on the 3665SD 2400KV, FDR 3.38 | 17T / 18T on hand to retune, [`motor_analysis.md`](motor_analysis.md#pinion-reference-32p) |
@@ -311,7 +311,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 | IMEX chrome rims + Kforce tires + blue race foams | $51.93 | **HSP-style ricer swirl wheels (~$25.45) or RedSpider R235 / R305 ($18.61)** — either works well, tires **and** foams already on both. The RedSpider set is the most durable full set here, so going cheaper saves more again, [`wheel_analysis.md`](wheel_analysis.md) | ~$25.45 | **~$26.48** |
 | **Total** | | | | **~$146** |
 
-**That lands the same car near ~$969 all in, or ~$828 without the radio**, against ~$1,128 as built.
+**That lands the same car near ~$969 all in, or ~$828 without the radio**, against ~$1,112 as built.
 
 > **Taken all the way, that's the [bare-bones BOM](BOM_barebones.md): ~$665.** Buy a **running Jato 4x4 VXL for $200** (the market is $200-250) and spend ~$465 on the parts that actually matter — CF chassis, FLM arms, front alloy hubs, titanium rods, the long-axle conversion and a servo. The donor's ESC, motor, radio, bearings, diffs, shocks, towers, body and wing all stay on the car.
 
@@ -348,7 +348,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 | Category | Score | The call |
 |---|---|---|
-| **Value** | **9/10** | $895 for a car that runs with 1/5 scale trucks. The [bare-bones build](BOM_barebones.md) does it for **~$665** |
+| **Value** | **9/10** | $879 for a car that runs with 1/5 scale trucks. The [bare-bones build](BOM_barebones.md) does it for **~$665** |
 | **Performance** | **8/10** | 4S, 2400KV, wide track, soft big bores. Geared for punch on a rough track, not for a top-speed number |
 | **Durability** | **7/10** | Gave some away for performance and got lucky. Metal arms, alloy hubs and titanium rods carry the parts that were not chosen to last |
 | **Looks** | **10/10** | Chrome deep dish, OG nitro shell, stretched stance. Objectively correct |
@@ -382,7 +382,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 | Date | Update | Photo |
 |---|---|---|
-| 2026-10-01 | **Center diff bearing seized, cracked the housing.** A locked-up output bearing spun in its seat, melted/damaged the housing with friction heat, and knocked the spur out of alignment, not a spur failure like first logged. Whole center diff needs replacing, [`differential_analysis.md`](differential_analysis.md#center-diff-teardown) | <img src="https://placehold.co/260x180/eee/333?text=IMAGE+NEEDED" width="260"><br>🚧 save as `src/drivetrain_center_diff_bearing_seized_20261001.jpg` |
+| 2026-10-01 | **Center diff bearing seized, cracked the housing, swapped to TRA6814.** A locked-up output bearing spun in its seat, melted/damaged the housing with friction heat, and knocked the spur out of alignment, not a spur failure like first logged. Replaced with the OEM Traxxas TRA6814 plastic center diff (already in hand) and the spare TRA3956R spur, [`differential_analysis.md`](differential_analysis.md#center-diff-teardown) | <img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="260"> |
 | 2026-09-27 | **Bent front arm.** Vick collided with the car mid-turn on the track, not a jump impact. Straightened with two crescent wrenches, still driveable, not snapped. First real damage logged against the FLM26800 arms, [`arm_analysis.md`](arm_analysis.md#notes) | <img src="https://placehold.co/260x180/eee/333?text=IMAGE+NEEDED" width="260"><br>🚧 save as `src/suspension_flm26800_bent_arm_20260927.jpg` |
 | 2026-09-26 | **Wing swap.** TRA9517 wing on the TRA9046 mount replaced the Jato 3.3 shell's small integrated wing, fixing nose-heavy landings so the car could gear down for sharper throttle response, [`aero_analysis.md`](aero_analysis.md#wing-comparison) | <img src="src/aero_traxxas_jato4ss_tra9517_wing_installed.jpg" width="260"> |
 | 2026-07-29 | **Hub upgrade.** Traxxas Raptor R Ultimate alloy hubs (genuine slim EHD) replaced the MonsterKingz set, which turned out too fat and heavy. MonsterKingz demoted, then sold to Mike ($50, 2026-09-07), [`hub_analysis.md`](hub_analysis.md#carrier-comparison) | <img src="src/suspension_traxxas_raptor_r_ultimate_alloy_hubs.jpg" width="260"> |
