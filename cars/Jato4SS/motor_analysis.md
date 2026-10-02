@@ -500,7 +500,7 @@ Conventional wisdom is mixed:
 
 ## Pinion Reference (32P)
 
-The spur stayed **54T** through the [center diff swap](differential_analysis.md#center-diff) (TRA6814 + separate TRA3956R, same tooth count as the old AliExpress diff's integrated spur), so the FDR math below still holds regardless of which diff is fitted. **Running 14T now**, down from 16T, for even more punch. Reference table below (FDR is teeth-based, so the ratios hold regardless of 32P vs mod1, just match pitch if you buy more pinions):
+The [center diff](differential_analysis.md#center-diff) (TRA6814 + separate TRA3956R) runs a **54T** spur, so the FDR math below holds. **Running 14T now**, down from 16T, for even more punch. Reference table below (FDR is teeth-based, so the ratios hold regardless of 32P vs mod1, just match pitch if you buy more pinions):
 
 | Pinion (32P) | FDR with 54T spur | Speed character | Typical motor pairing |
 |---|---|---|---|

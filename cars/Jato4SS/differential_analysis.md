@@ -2,10 +2,10 @@
 
 > **Chosen:**
 > - **Front & rear diffs: AliExpress knock-off Slash 4x4 steel diffs (5mm), ~$15.26 for the pair.** Strong steel, come assembled with the I-bar brace, and 5mm matches the **Slash 4x4-pattern CVDs on Tekno M6 stubs** (see [`driveshaft_analysis.md`](driveshaft_analysis.md)). The stock Jato 4x4 diff is the native-fit fallback; the 6mm E-Revo 1.0 diffs (owned) are spares.
-> - **Center diff: switched to the OEM Traxxas TRA6814 plastic center diff, 2026-10-01.** The AliExpress metal unit ran from 2026-07-19 until a **chassis-side bearing** (part of the [center driveshaft (7455)](driveshaft_analysis.md#center-driveshaft-comparison) bundle, not one of the diff's own bearings) seized and cracked the diff housing (see [Center Diff Teardown](#center-diff-teardown)). Built from the separate TRA6884 housing + TRA6883 gear set (~$20) rather than the $39.95 complete kit, the cheaper route; 🚧 exact receipt not logged. Keeps the plastic-fuse failure mode this build's spur-gear reasoning always argued for.
-> - **Spur gear: back to the separate TRA3956R 54T plastic spur**, now that TRA6814 takes one. The spare that's been sitting unused since the metal diff's integrated spur took over is now actually running.
+> - **Center diff: DIY-built Traxxas TRA6814 plastic center diff**, assembled from the separate TRA6884 housing + TRA6883 gear set (~$20) rather than the $39.95 complete kit, see [the build](#center-diff).
+> - **Spur gear: the separate TRA3956R 54T plastic spur**, which TRA6814 takes.
 
-<p align="center"><img src="src/drivetrain_aliexpress_knockoff_slash4x4_steel_diff.png" height="240">&nbsp;<img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" height="240"><br><em>The chosen drivetrain: AliExpress knock-off Slash 4x4 steel front/rear diff (5mm, I-bar) · OEM Traxxas TRA6814 plastic center diff (running since 2026-10-01)</em></p>
+<p align="center"><img src="src/drivetrain_aliexpress_knockoff_slash4x4_steel_diff.png" height="240">&nbsp;<img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" height="240"><br><em>The chosen drivetrain: AliExpress knock-off Slash 4x4 steel front/rear diff (5mm, I-bar) · DIY-built Traxxas TRA6814 plastic center diff</em></p>
 
 ---
 
@@ -15,7 +15,8 @@
 - [Front & Rear Diff Comparison](#front--rear-diff-comparison)
 - [Alternative Upgrade Parts](#alternative-upgrade-parts)
 - [Center Diff](#center-diff)
-- [Center Diff Teardown](#center-diff-teardown) — inside the $19 winner: 3 spider gears, bearings both sides, the pin that breaks, and a bearing seizure that cracked the housing
+- [Center Diff Field Failure](#center-diff-field-failure) — the 2026-10-01 bearing seizure that cracked the TRA6814 housing
+- [Center Diff Teardown](#center-diff-teardown) — the AliExpress unit, torn down for evaluation: 3 spider gears, bearings both sides, the pin that breaks
 - [Center Diff Oil](#center-diff-oil)
 - [Front & Rear Diff Oil](#front--rear-diff-oil)
 - [Spur Gear](#spur-gear)
@@ -74,19 +75,35 @@ That makes the **native Jato 4x4 stock diff** the correct pick again, cheapest, 
 
 ## Center Diff
 
-> **Chosen: OEM Traxxas TRA6814 plastic center diff, running since 2026-10-01.** The AliExpress metal unit ran from 2026-07-19 until a **chassis-side bearing seized** (part of the center driveshaft bundle, not internal to the diff) and melted/cracked the housing (full story in [Center Diff Teardown](#center-diff-teardown)). TRA6814 was already in hand as the documented lighter alternative, and it brings back the separate plastic TRA3956R spur, the sacrificial-fuse design this doc's spur-gear reasoning argued for from the start.
+> **Chosen: DIY-built Traxxas TRA6814 plastic center diff**, assembled from the separate **TRA6884 housing + TRA6883 gear set** (~$20) rather than the $39.95 complete kit, the cheaper route. Runs the separate plastic TRA3956R spur, the sacrificial-fuse design this doc's spur-gear reasoning argues for.
+>
+> ⚠️ **Field failure, 2026-10-01:** a bearing locked up, the shaft spun against it, and the friction heat melted/cracked the housing. See [the writeup below](#center-diff-field-failure) for what happened and what's being checked before it goes back together.
 
-<p align="center"><img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="600"><br><em>OEM Traxxas TRA6814 plastic center diff, running since 2026-10-01</em></p>
+<p align="center"><img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="600"><br><em>DIY-built Traxxas TRA6814 plastic center diff</em></p>
 
 > *Spec format: Part · Housing · Spur · Oil · Weight · Fits · Price*
 
 | Center Diff | Spec | Pros / Cons | Photo / Link |
 |---|---|---|---|
-| ⭐ **TRA6814, Traxxas Pre-Built Center Diff Kit** — *running since 2026-10-01* | **Part:** TRA6814 (rebuild: TRA6884 housing + TRA6883 gear set)<br>**Housing:** Plastic<br>**Spur:** N/A (separate TRA3956R spur, now running)<br>**Oil:** Tunable via silicone oil (sealed, pre-filled)<br>**Weight:** N/A<br>**Fits:** Slash 4x4, Jato 4x4<br>**Price:** **~$20 built from TRA6884 + TRA6883** (the cheaper route taken here, vs $39.95 for the complete kit; 🚧 exact receipt not logged) | Pro: **Lighter than the metal AliExpress unit** and keeps the plastic-fuse failure mode, which is exactly what let it down easy instead of seizing a bearing. Pre-built, sealed, tunable. **Built from components here**, TRA6884 ($5) + TRA6883 ($15) = ~$20 vs $39.95. $5 housing rebuild when worn<br><br>Con: Heavier than the metal diff felt on paper, but that diff is the one that actually failed, so this is now the pick | <img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="500"><br><img src="src/drivetrain_traxxas_center_diff_housing_tra6884.jpg" width="500">&nbsp;<img src="src/drivetrain_traxxas_center_diff_gear_set_tra6883.jpg" width="500"><br><em>TRA6814 complete · TRA6884 housing · TRA6883 gear set</em> |
+| ⭐ **TRA6814, Traxxas Pre-Built Center Diff Kit** — *running, DIY-built* | **Part:** TRA6814 (built here from TRA6884 housing + TRA6883 gear set)<br>**Housing:** Plastic<br>**Spur:** N/A (separate TRA3956R spur)<br>**Oil:** Tunable via silicone oil (sealed, pre-filled)<br>**Weight:** N/A<br>**Fits:** Slash 4x4, Jato 4x4<br>**Price:** **~$20 built from TRA6884 + TRA6883** (the cheaper route taken here, vs $39.95 for the complete kit; 🚧 exact receipt not logged) | Pro: Lighter than the alloy AliExpress alternative, and keeps the plastic-fuse failure mode. Pre-built internals, sealed, tunable. **Built from components here**, TRA6884 ($5) + TRA6883 ($15) = ~$20 vs $39.95. $5 housing rebuild when worn<br><br>Con: **A bearing seized in the field (2026-10-01)**, melted/cracked the housing, see [the field failure writeup](#center-diff-field-failure). Needs a fresh housing (and whatever caused the seizure checked) before it's back together | <img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="500"><br><img src="src/drivetrain_traxxas_center_diff_housing_tra6884.jpg" width="500">&nbsp;<img src="src/drivetrain_traxxas_center_diff_gear_set_tra6883.jpg" width="500"><br><em>TRA6814 complete · TRA6884 housing · TRA6883 gear set</em> |
 | 🔵 **TRA6780A, Pro-Built Center Diff** | **Part:** TRA6780A<br>**Housing:** plastic (black)<br>**Spur:** steel 54T 32-pitch (integrated)<br>**Oil:** 500k (pre-filled, nearly locked)<br>**Weight:** N/A<br>**Fits:** Hoss / Slash / Stampede / Rustler 4x4<br>**Price:** $60.00 | Pro: Plastic housing, stays round, holds fluid, outlasts aluminum. Pre-built, sealed, $60<br><br>Con: Integrated steel spur kills the plastic-fuse failure mode. 500k oil = nearly locked center, too stiff for offroad dirt use. Outdrive size TBD, verify 6mm | <img src="src/drivetrain_traxxas_pro_built_center_diff_tra6780a.jpg" width="500"> |
 | 🔵 **TRA6780R, Pro-Built Center Diff** | **Part:** TRA6780R<br>**Housing:** plastic (black)<br>**Spur:** steel 50T 32-pitch (integrated)<br>**Oil:** 20m (pre-filled)<br>**Weight:** N/A<br>**Fits:** Hoss / Slash / Stampede / Rustler 4x4<br>**Price:** $60.00 | Pro: Plastic housing. Pre-built, sealed, $60. 50T spur<br><br>Con: Integrated steel spur kills the plastic-fuse failure mode. Outdrive size TBD, verify 6mm | <img src="src/drivetrain_traxxas_pro_built_center_diff_tra6780r.jpg" width="500"> |
-| ❌ ~~**AliExpress Heavy Duty Centre Diff (alum body + steel 54T spur)**~~ — *failed in the field, 2026-10-01* | **Part:** Tolex (generic)<br>**Housing:** aluminum<br>**Spur:** **steel 54T, integrated**<br>**Pinions:** **ships with 16T / 17T / 18T, 5mm bore** (matched to the spur; see [pinion reference](motor_analysis.md#pinion-reference-32p))<br>**Oil:** **comes pre-filled** with the correct wt (fully assembled)<br>**Weight:** **74.6 g** (measured, incl. steel 54T spur + assembled output shaft)<br>**Fits:** Slash 4x4 / Hoss 4x4 VXL<br>**Price:** **$19.06** (paid, AliExpress E-star RC Car Store, order 8213147729824866) | Pro: One cheap (~$20) fully-assembled metal unit with the integrated steel 54T spur, no separate spur to buy or fit. A knock-off of the $69.95 TRA6780. Complete drop-in. **Bearings on both sides of the output shafts**, so the alloy bores don't auger out and it holds oil better than the plastic diffs (see [teardown](#center-diff-teardown))<br><br>Con: **A chassis-side bearing seized in the field (2026-10-01)**, not one of this diff's own bearings, see [teardown](#center-diff-teardown) for why that still cracked the housing. Heavier (74.6 g) than the TRA6814 plastic, and the **integrated steel spur removed the plastic-fuse failure mode** (see [spur gear](#spur-gear)), so when something did fail, the damage went further than a sheared gear | <img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" width="500"> |
+| 🔵 **AliExpress Heavy Duty Centre Diff (alum body + steel 54T spur)** — *bought and torn down for evaluation, never installed on this car* | **Part:** Tolex (generic)<br>**Housing:** aluminum<br>**Spur:** **steel 54T, integrated**<br>**Pinions:** **ships with 16T / 17T / 18T, 5mm bore** (matched to the spur; see [pinion reference](motor_analysis.md#pinion-reference-32p))<br>**Oil:** **comes pre-filled** with the correct wt (fully assembled)<br>**Weight:** **74.6 g** (measured, incl. steel 54T spur + assembled output shaft)<br>**Fits:** Slash 4x4 / Hoss 4x4 VXL<br>**Price:** **$19.06** (paid, AliExpress E-star RC Car Store, order 8213147729824866) | Pro: One cheap (~$20) fully-assembled metal unit with the integrated steel 54T spur, no separate spur to buy or fit. A knock-off of the $69.95 TRA6780. Complete drop-in. **Bearings on both sides of the output shafts**, so the alloy bores don't auger out and it holds oil better than the plastic diffs (see [teardown](#center-diff-teardown))<br><br>Con: Heavier (74.6 g) than the TRA6814 plastic, and the **integrated steel spur removes the plastic-fuse failure mode** (see [spur gear](#spur-gear)). Rear output shaft needs 4.75mm shaved to seat, and the stepped spider pins are the known weak point (see [teardown](#center-diff-teardown)). **Evaluated, never actually run on this car**, Mike runs this style on his own car instead | <img src="src/drivetrain_aliexpress_center_diff_alum_steel.jpg" width="500"> |
 | ❌ ~~**TRA6780, Complete Center 4X4 Diff Kit (alum housing + steel 54T spur)**~~ | **Part:** TRA6780 (Autramodel.cz)<br>**Housing:** aluminum<br>**Spur:** steel 54T (integrated)<br>**Oil:** N/A<br>**Weight:** **137g** (0.137 kg) measured<br>**Fits:** Hoss / Slash / Stampede / Rustler 4x4<br>**Price:** $69.95 | Pro: Complete bolt-in unit, alum housing + steel spur is durable on paper<br><br>Con: **Tons of unneeded rotational weight**, heavy alum housing + steel spur add spinning mass right in the driveline. **Aluminum housing augers out** (wears oblong) faster than plastic and holds fluid worse. Steel spur kills the plastic-fuse failure mode. **$69.95**, same alum+steel design as the ~$20 AliExpress unit, just 3.5× the price | <img src="src/drivetrain_traxxas_complete_center_diff_tra6780.jpg" width="500"> |
+
+### Center Diff Field Failure
+
+> ⚠️ **2026-10-01:** a bearing locked up, the output shaft spun against it instead of turning in its seat, and the friction heat melted/cracked the TRA6814 housing.
+
+**What happened:** this is the **chassis-mounted bearing** the diff's output shaft passes through on its way to the [center driveshaft (7455)](driveshaft_analysis.md#center-driveshaft-comparison), which came bundled with that shaft's pinion + bearings kit, not one of TRA6814's own internal bearings. That bearing seized, the shaft spun against it instead of the bearing rotating in its seat, and the friction generated enough heat to melt/damage material right at that point. That knocked the output shaft (and the spur on the end of it) out of true alignment, which put the spur at a weird angle and ultimately cracked the diff housing.
+
+⚠️ **This bearing is a different size than the MonsterKingz / OEM hub bearings already documented on this build** (see [`hub_analysis.md`](hub_analysis.md#carrier-comparison) and [`bearings_reference.md`](bearings_reference.md)), since it's a chassis-mounted part, not a hub one. 🚧 Exact size not yet measured, caliper it before ordering a replacement rather than assuming it matches a bearing already in stock.
+
+**The diff housing itself needs replacing** (that's what actually cracked), but the root cause lives on the chassis side, so a new housing alone won't fix a repeat if that chassis bearing isn't also replaced. 🚧 Whether anything downstream (pinion, CVDs, gearbox housing) also took damage isn't confirmed, worth inspecting before putting the car back together.
+
+<p align="center"><img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/drivetrain_traxxas_center_diff_tra6814_cracked_housing.jpg`</p>
+
+---
 
 ### Slipper Clutch (alternative to center diff, vetoed)
 
@@ -141,18 +158,8 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 - **Gears are Traxxas-size**, so a standard Traxxas diff gear set rebuilds it. No proprietary spares to chase.
 - **Replace the stepped pins with solid 2.8mm × 7mm pins** on the first rebuild, before one breaks rather than after. The stock pins are 6.85mm, so going to 7mm also picks up the bit of length they were missing.
-- **The housing doesn't wear from unbearinged shaft bores**, since the bearings carry the shafts instead of letting the aluminum bores auger out, and it seals oil better than plastic. That's a different claim from "can't fail," though, see the field failure below: a seized bearing is its own failure path, bore wear was just never it.
+- **The housing doesn't wear from unbearinged shaft bores**, since the bearings carry the shafts instead of letting the aluminum bores auger out, and it seals oil better than plastic. That's a separate claim from the TRA6814's own [field failure](#center-diff-field-failure), that one's a chassis-side bearing issue on a different diff entirely, not this unit's bore wear.
 - **Fill half full only**, same rule as any sealed diff. See [Center Diff Oil](#center-diff-oil) for the weight this car runs.
-
-#### Field failure, 2026-10-01: a chassis-side bearing seized and cracked the housing
-
-**What actually happened:** this isn't one of the diff's own internal bearings, it's the **bearing that sits in the CF chassis itself**, the one the diff's output shaft passes through on its way to the [center driveshaft (7455)](driveshaft_analysis.md#center-driveshaft-comparison), which came bundled with that shaft's pinion + bearings kit. That bearing locked up and stopped turning. With it seized, the shaft spun against it instead of the bearing rotating in its seat, and the friction generated enough heat to melt/damage material right at that point. That knocked the output shaft (and the spur on the end of it) out of true alignment, which is what put the **spur at a weird angle** and ultimately **cracked the center diff housing**. The spur itself was never the failure, it was a downstream symptom of a chassis-side bearing seizing, not an internal diff bearing.
-
-⚠️ **This bearing is a different size than the MonsterKingz / OEM hub bearings already documented on this build** (see [`hub_analysis.md`](hub_analysis.md#carrier-comparison) and [`bearings_reference.md`](bearings_reference.md)), since it's a chassis-mounted part, not a hub one. 🚧 Exact size not yet measured, caliper it before ordering a replacement rather than assuming it matches a bearing already in stock.
-
-**The center diff housing itself still needs replacing** (that's what actually cracked), but the root cause lives on the chassis side, so a new diff alone won't fix a repeat if that chassis bearing isn't also replaced. 🚧 Whether anything downstream (pinion, CVDs, gearbox housing) also took damage isn't confirmed, worth inspecting before putting the car back together.
-
-<p align="center"><img src="src/drivetrain_aliexpress_center_diff_assembled_spur.jpg" width="500">&nbsp;<img src="src/drivetrain_aliexpress_center_diff_spur_face_bearing.jpg" width="500"><br><em>Back together, steel 54T spur face · spur face and the center bore bearing</em></p>
 
 ---
 
@@ -195,11 +202,11 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 ## Spur Gear
 
-> **Running the separate TRA3956R 54T plastic spur again, since 2026-10-01.** It had been a spare for a while, during the stretch when the [AliExpress metal center diff](#center-diff) ran its own integrated steel spur. A chassis-side bearing (not internal to that diff) seized and cracked its housing (see [Center Diff Teardown](#center-diff-teardown)), the car switched to the [TRA6814 plastic center diff](#center-diff), and TRA6814 takes this separate spur, so the spare is back in the car.
+> **Running the separate TRA3956R 54T plastic spur**, which the [TRA6814 center diff](#center-diff) takes.
 >
 > **Why plastic:** it's a sacrificial failure point, in a bad crash it strips before transferring force to the metal pinion, driveshafts, and gearbox. 54T over 50T/52T: **more teeth spread the load and wear more evenly**, and **54T lands the gearing where we want it.** Cheap to replace.
 
-<p align="center"><img src="src/drivetrain_traxxas_spur_gear_tra3956r_54t.jpg" width="600"><br><em>TRA3956R 54T plastic spur, running since 2026-10-01</em></p>
+<p align="center"><img src="src/drivetrain_traxxas_spur_gear_tra3956r_54t.jpg" width="600"><br><em>TRA3956R 54T plastic spur</em></p>
 
 ### Spur Gear Requirements
 
@@ -232,7 +239,7 @@ The spider pins are **stepped down** partway along their length, and that step i
 - **Metal spur = wrong failure mode:** a metal spur that won't strip transfers crash energy directly into the pinion and downstream drivetrain. You save the $3 plastic gear and destroy far more expensive parts.
 - **Tooth count and gear ratio:** all 32P / 0.8M gears are compatible. Choose tooth count based on motor KV and desired top speed vs torque balance. 50T–54T is the standard range for 4S offroad builds.
 - **Slipper vs center diff:** slipper clutch (TRA6878A) works on high-grip surfaces but doesn't handle well on dirt/low-grip tracks, this build is set up for dirt offroad. Center diff (TRA6814) is the correct setup. Use center-diff specific spur gears (TRA6842R, TRA6843R) which seat directly in the center diff housing, not slipper assembly gears.
-- **Correction, 2026-10-01: the spur itself didn't fail.** Earlier logged here as a sheared steel spur, but the real cause was a seized chassis-side bearing (part of the center driveshaft bundle, not the diff's own bearings) that knocked the spur out of alignment, not the spur giving up under load, see [Center Diff Teardown](#center-diff-teardown). Doesn't say anything about plastic vs metal spur durability either way, this wasn't a spur failure.
+- **Correction, 2026-10-01: the spur itself didn't fail.** Earlier logged here as a sheared steel spur, but the real cause was a seized chassis-side bearing (part of the center driveshaft bundle, not the diff's own) that knocked the spur out of alignment, not the spur giving up under load, see [Center Diff Field Failure](#center-diff-field-failure). Doesn't say anything about plastic vs metal spur durability either way, this wasn't a spur failure.
 
 ---
 
@@ -240,8 +247,8 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 | Date | Price | Discount Path | Notes |
 |---|---|---|---|
-| 2026-10-01 | **~$20** | Built from parts | TRA6814, built from the separate **TRA6884 housing + TRA6883 gear set** rather than the $39.95 complete kit, the cheaper route. **The one on the car now**, swapped in after a chassis-side bearing (not the diff's own) seized and cracked the previous diff's housing. 🚧 Exact receipt not logged |
-| 2026-07-19 | **$19.06** ✅ **purchased** | Listed $19.28 | Metal 6780 complete center differential kit (15T + 17T + 19T pinions listed), AliExpress E-star RC Car Store, order 8213147729824866. **Ran until 2026-10-01, retired after the chassis-bearing failure above** |
+| 2026-10-01 | **~$20** | Built from parts | TRA6814, built from the separate **TRA6884 housing + TRA6883 gear set** rather than the $39.95 complete kit, the cheaper route. This is the fresh housing + gear set bought to rebuild it after the [2026-10-01 field failure](#center-diff-field-failure) (a chassis-side bearing seized, melted/cracked the original housing). 🚧 Exact receipt not logged |
+| 2026-07-19 | **$19.06** ✅ purchased | Listed $19.28 | Metal 6780 complete center differential kit (15T + 17T + 19T pinions listed), AliExpress E-star RC Car Store, order 8213147729824866. **Bought and torn down for evaluation** (see [Center Diff Teardown](#center-diff-teardown)), **never installed on this car** |
 | 2026-05-16 | **$18.80** ✅ purchased | Listed $20.00 | Metal center diff (Traxxas 6780-style), AliExpress TangEmpire Store, order 8211762212584866. **Resold to Mike at cost**, see [LEDGER.md](../../LEDGER.md) |
 
 ---
