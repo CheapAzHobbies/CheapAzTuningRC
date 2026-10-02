@@ -12,7 +12,7 @@ The actual bearing list running on Jato 4SS: the hub axle bearings are **10×15�
 |---|---|---|
 | **10×15×4** ⚙️ | 4 | **Custom axle hubs (Tekno stub + knock-off CVD), in an 18→15mm sleeve, the mod** |
 | **6×12×4** | 6 | Wheel hubs / axle carriers |
-| **12×18×4** 🚧 | 1* | Transmission / center driveline (the non-hub one), **baseline figure from the stock kit, not confirmed on the actual bundled take-off bearing running here** (see note below, this is the one that seized) |
+| **10×16×5** ⚙️ | 1* | Transmission / center driveline (the non-hub one), the **actual bundled take-off bearing running here, measured off the seized part** (see note below, this is the one that seized). Stock kit baseline for this position is 12×18×4, but that's not what's actually fitted |
 | **10×15×4** | 4 | Diff outdrives (same size as the hubs above, 8 total on the car) |
 | **8×16×5** | 2 | Diff inputs |
 | ~~**5×8×2.5**~~ | 0 | **Not fitted.** The four **TRA5114** bellcrank bearings were swapped for **TRA3775** Oilite bushings |
@@ -20,7 +20,7 @@ The actual bearing list running on Jato 4SS: the hub axle bearings are **10×15�
 
 **Total: 18 ball bearings + 4 Oilite bushings** (22 positions, same as OG). Two swaps from stock: the four hub **12×18×4** became **10×15×4 in sleeves**, and the four bellcrank **TRA5114** bearings became **TRA3775** bushings. **The bearings lock up and chew the steering post**, because a bell crank only rocks through a tiny arc so the balls dig into the same spot instead of rolling onto fresh metal. The bushings just slide, and the post survives. Full reasoning in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#key-requirements) (see [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md)).
 
-⚠️ **The transmission/center position above is the one that seized and cracked the TRA6814 center diff housing, 2026-10-01.** This isn't a hub bearing, it's the **chassis-mounted bearing the output shaft passes through on its way to the [center driveshaft (7455)](driveshaft_analysis.md#center-driveshaft-comparison)**, which came bundled with that shaft's take-off kit. Full failure writeup in [`service_analysis.md`](service_analysis.md). The **12×18×4** figure above is the stock Jato 4x4 kit's baseline for this position, not a confirmed measurement of the bundled take-off bearing that actually failed, and it's **a different size than the Raptor R / MonsterKingz hub bearings** either way. 🚧 Exact size still needs calipering off the failed part before ordering a replacement.
+⚠️ **The transmission/center position above is the one that seized and cracked the TRA6814 center diff housing, 2026-10-01.** This isn't a hub bearing, it's the **chassis-mounted bearing the output shaft passes through on its way to the [center driveshaft (7455)](driveshaft_analysis.md#center-driveshaft-comparison)**, which came bundled with that shaft's take-off kit. Full failure writeup in [`service_analysis.md`](service_analysis.md). **Measured off the failed part: 10×16×5** (10mm ID × 16mm OD × 5mm width), confirming it's **a different size than the Raptor R / MonsterKingz hub bearings** (and than the 12×18×4 stock-kit baseline for this position, which was never what was actually fitted here).
 
 > **\*** **The split follows from the count.** A bearing position doesn't disappear when you change what sits in it, so **all three builds total 22**. The mod swaps the **four hub corners**, so of the five stock 12×18×4 exactly **four were hub axle positions** and **one is the transmission/centre**. That's arithmetic rather than an assumption, though it does rest on the hub corners having been 12×18×4 in the first place, which is what the Raptor R EHD hubs take.
 
@@ -47,15 +47,15 @@ Bearings sell in **10-packs**, and no size on this car needs ten. So the honest 
 | **10×15×4** (6700-2RS) | 8 | **$0.31** | **$2.46** | Shop1105232489, 4 × 10-pack, $12.31 total (Jun 7 2026) |
 | **6×12×4** | 6 | **$0.38** | **$2.30** | Kate Bearing Store, 2 × 10-pack, $7.68 (Jun 7 2026) |
 | **8×16×5** (688-2RS) | 2 | **$0.79** | **$1.58** | raindew Official Store, 10-pack, $7.91 (Mar 6 2026) |
-| **12×18×4** (6701-2RS) | 1 | **$0.65** | **$0.65** | Bearing Solution Store, 10-pack, $6.52 (Aug 21 2025) |
+| **10×16×5** | 1 | N/A | **$0.00** | Not bought separately, came bundled with the [7455 take-off shaft kit](driveshaft_analysis.md#center-driveshaft-comparison) ($2.49, already costed there) |
 | **5×11×4** (MR115-2RS) | 1 | **$0.21** | **$0.21** | Global Best-Selling Direct, 10-pack, $2.14 (Jun 5 2026) |
-| **Total** | **18** | | **$7.21** | |
+| **Total** | **18** | | **$6.56** | |
 
-**So the whole car's bearing set is $7.21.** Every size lands between **$0.21 and $0.79 a bearing**, which is why buying sealed and replacing them when they get gritty beats trying to save one.
+**So the whole car's bearing set is $6.56.** Every size lands between **$0.21 and $0.79 a bearing**, which is why buying sealed and replacing them when they get gritty beats trying to save one.
 
 What you actually spend up front is more, because you're buying packs: the orders above run about **$41** and leave 40+ spares sitting in the drawer, enough for years and for the other cars. That's the right way to buy them and the wrong way to cost this car, which is why the table divides it out.
 
-**Plus the bushings, $5.00.** The four **TRA3775 Oilite** at the bell crank pivots (see above, they replaced the TRA5114 bearings) are listed apart from the table because they aren't bearings, and they're fitted precisely because a ball bearing fails in that spot. **Everything that spins or pivots on this car therefore comes to $12.21.**
+**Plus the bushings, $5.00.** The four **TRA3775 Oilite** at the bell crank pivots (see above, they replaced the TRA5114 bearings) are listed apart from the table because they aren't bearings, and they're fitted precisely because a ball bearing fails in that spot. **Everything that spins or pivots on this car therefore comes to $11.56.**
 
 **Not in either number:** the **10×18×5** stainless (S61810ZZ, $14.45 / 10-pack = **$1.45 each**), bought to have the option of [Mike's route](../Jato4EP/bearings_reference.md): the bare big bearing straight into the hub. This car sleeves down to 10×15×4 instead, so those aren't fitted.
 
@@ -110,7 +110,7 @@ The hub bearing is the only position that differs. Since **a bearing position do
 | Wheel hubs / carriers | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 | 6×12×4 ×6 |
 | Diff outdrives | 10×15×4 ×4 | 10×15×4 ×4 | 10×15×4 ×4 | 10×15×4 ×4 |
 | Diff inputs | 8×16×5 ×2 | 8×16×5 ×2 | 8×16×5 ×2 | 8×16×5 ×2 |
-| Transmission / centre | 12×18×4 ×5 total | 12×18×4 ×1 | 12×18×4 ×1 | 12×18×4 ×1 |
+| Transmission / centre | 12×18×4 ×5 total | **10×16×5** ×1 (actual take-off part, not stock) | 12×18×4 ×1 | 12×18×4 ×1 |
 | Steering bellcrank | 5×8×2.5 ×4 (TRA5114) | **TRA3775 Oilite bushings ×4** | 5×8×2.5 ×4 (TRA5114) | 5×8×2.5 ×4 (TRA5114) |
 | Centre / slipper | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 | 5×11×4 ×1 |
 | **Total** | **22** | **22** (18 bearings + 4 bushings) | **22** | **22** |
