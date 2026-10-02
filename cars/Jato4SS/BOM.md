@@ -39,7 +39,7 @@ Everything that's actually on the car, and nothing that isn't. **Qty** is how ma
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
 | **Steel front + rear diffs, knock-off Slash 4x4**<br><sub>Note: 5mm outdrives, come with the I-bar</sub> | 1 | AliExpress, RS RC Store | **$15.26 / 2-pack** | [Diffs](differential_analysis.md#front--rear-diff-comparison) |
-| **Traxxas TRA6814 plastic center diff**<br><sub>Note: swapped in 2026-10-01 after the previous metal center diff's output bearing seized and cracked its housing, built from TRA6884 housing + TRA6883 gear set rather than the complete kit, exact receipt not logged</sub> | 1 | N/A | **~$20** | [Center diff](differential_analysis.md#center-diff) |
+| **Traxxas TRA6814 plastic center diff**<br><sub>Note: swapped in 2026-10-01 after a chassis-side bearing (not the diff's own) seized and cracked the previous metal diff's housing, built from TRA6884 housing + TRA6883 gear set rather than the complete kit, exact receipt not logged</sub> | 1 | N/A | **~$20** | [Center diff](differential_analysis.md#center-diff) |
 | **Traxxas TRA3956R 54T plastic spur**<br><sub>Note: runs in the TRA6814 above, had been a spare while the previous metal diff's integrated spur was in use</sub> | 1 | N/A | **$3.00** | [Spur gear](differential_analysis.md#spur-gear) |
 | **Traxxas 100k diff oil, TRA5130**<br><sub>Note: center diff</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](differential_analysis.md#center-diff-oil) |
 | **Traxxas 30k diff oil, TRA5136**<br><sub>Note: front diff</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](differential_analysis.md#front--rear-diff-oil) |
