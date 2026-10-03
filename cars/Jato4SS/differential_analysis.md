@@ -181,7 +181,7 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 <p align="center"><img src="src/drivetrain_traxxas_diff_oil_30k_tra5136.jpg" width="280">&nbsp;<img src="src/drivetrain_traxxas_diff_oil_10k_tra5135.jpg" width="280"><br><em>Front: Traxxas 30k (TRA5136), what the front diff actually runs · Traxxas 10k (TRA5135), bought but <strong>not what is in the rear</strong>, since the rear is greased. $7.50 each at Tammies Hobbies</em></p>
 
-> The [E-Revo](../ERevo_1.0/README.md) runs the same **30k** front. [Mike's Jato](../Jato4EP/README.md#diff-oil) runs **30k front, 100k centre and a greased rear**, the same approach as here, and it is the car these settings were worked out on in the first place.
+> The [E-Revo](../ERevo_1.0/README.md) runs the same **30k** front. [Mike's Jato](../Jato4EP/README.md#diff-oil) runs the same **30k front**, worked out on his car first, but his centre gets its near-100k locked feel from a light coat of **Dynamite DYNE4201 blue grease** instead of literal oil, since his metal AliExpress diff is a different unit than the TRA6814 here.
 
 ---
 

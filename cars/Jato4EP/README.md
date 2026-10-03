@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/4S-LIPO-a22e26?style=for-the-badge&labelColor=2b3a55">
 <img src="https://img.shields.io/badge/3200-KV-2b3a55?style=for-the-badge&labelColor=2b3a55">
 <img src="https://img.shields.io/badge/GEARING-11T%20%2F%2054T-b78624?style=for-the-badge&labelColor=2b3a55">
-<img src="https://img.shields.io/badge/BUILD-%241015.30-5c6e3a?style=for-the-badge&labelColor=2b3a55">
+<img src="https://img.shields.io/badge/BUILD-%241007.30-5c6e3a?style=for-the-badge&labelColor=2b3a55">
 <img src="https://img.shields.io/badge/DONOR-%24100-8a6a3a?style=for-the-badge&labelColor=2b3a55">
 </p>
 
@@ -78,10 +78,10 @@
 | Diff | Fill | Why |
 |:---|:---|:---|
 | **Front** | **30k**, Traxxas TRA5136 | Calms torque steer on a heavy 4S car |
-| **Centre** | **100k**, Traxxas TRA5130 | Holds drive stability |
+| **Centre** | ⚙️ **Blue grease, no oil**, Dynamite DYNE4201 | Near-100k locked feel, **light coat, never packed** |
 | **Rear** | ⚙️ **Blue grease, no oil**, Dynamite DYNE4201 | Drive off the corner. **Light coat, never packed** |
 
-<p align="center"><img src="../Jato4SS/src/drivetrain_traxxas_diff_oil_30k_tra5136.jpg" height="120">&nbsp;<img src="../Jato4SS/src/drivetrain_traxxas_diff_oil_100k_tra5130.jpg" height="120">&nbsp;<img src="src/drivetrain_dynamite_marine_grease_dyne4201.jpg" height="120"><br><sub><b>30k</b> front · <b>100k</b> centre · <b>DYNE4201</b> rear</sub></p>
+<p align="center"><img src="../Jato4SS/src/drivetrain_traxxas_diff_oil_30k_tra5136.jpg" height="120">&nbsp;<img src="src/drivetrain_dynamite_marine_grease_dyne4201.jpg" height="120"><br><sub><b>30k</b> front · <b>DYNE4201</b> grease, centre + rear</sub></p>
 
 <p align="center"><img src="src/web_divider_vintage.png" width="100%"></p>
 
@@ -208,7 +208,7 @@
 <table>
 <tr>
 <td width="50%" valign="top"><p align="center">$\textcolor{B02E26}{\textsf{GEARING GUIDE}}$</p><table><tr><th align="left">Pinion</th><th align="left">Spur</th><th align="left">Result</th></tr><tr><td><b>11T</b></td><td>54T</td><td>&#11088; <b>Running now.</b> Conservative, which the 4S ceiling wants</td></tr><tr><td><b>12T</b></td><td>54T</td><td><b>Where the finding was reached.</b> Power band sweet spot</td></tr><tr><td>Smaller</td><td>54T</td><td>The original instinct, and the wrong target</td></tr></table><sub>Full write up in <a href="esc_motor_analysis.md#the-gearing-finding">esc_motor_analysis.md</a>.</sub></td>
-<td width="50%" valign="top"><p align="center">$\textcolor{B02E26}{\textsf{FINAL THOUGHTS}}$</p><p><b>A &#36;100 Slash turned into this for &#36;1015.30 of parts.</b> The donor sits outside that figure and so do the batteries, because packs move between cars. All in, counting both, it is <b>&#36;1400.65</b>.</p><p><b>The lesson worth taking is the gearing one.</b> Pinion sizing is not purely a top speed equation, and that conclusion was reached here before the 4SS turned a wheel. The rest is unglamorous: grease the rear, count your packs, and shave the cheap part rather than the expensive one.</p><h3 align="center">SAME PLATFORM. DIFFERENT ANSWERS.</h3></td>
+<td width="50%" valign="top"><p align="center">$\textcolor{B02E26}{\textsf{FINAL THOUGHTS}}$</p><p><b>A &#36;100 Slash turned into this for &#36;1007.30 of parts.</b> The donor sits outside that figure and so do the batteries, because packs move between cars. All in, counting both, it is <b>&#36;1392.65</b>.</p><p><b>The lesson worth taking is the gearing one.</b> Pinion sizing is not purely a top speed equation, and that conclusion was reached here before the 4SS turned a wheel. The rest is unglamorous: grease the rear, count your packs, and shave the cheap part rather than the expensive one.</p><h3 align="center">SAME PLATFORM. DIFFERENT ANSWERS.</h3></td>
 </tr>
 </table>
 

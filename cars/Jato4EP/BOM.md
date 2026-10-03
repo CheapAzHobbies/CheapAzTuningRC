@@ -14,7 +14,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 |---|---|
 | [Donor Car](#donor-car) | $100.00 |
 | [Chassis & Bracing](#chassis--bracing) | $91.98 |
-| [Drivetrain](#drivetrain) | $147.28 |
+| [Drivetrain](#drivetrain) | $139.28 |
 | [Suspension](#suspension) | $143.89 |
 | [Hubs & Carriers](#hubs--carriers) | $61.80 |
 | [Steering](#steering) | $83.20 |
@@ -22,10 +22,10 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | [Body & Aero](#body--aero) | $59.00 |
 | [Electronics](#electronics) | $365.66 |
 | [Batteries](#batteries) | $285.35 |
-| ⭐ **What the build cost** | **$1015.30** |
+| ⭐ **What the build cost** | **$1007.30** |
 | The donor car, bought separately | $100.00 |
 | The batteries, shared across the fleet | $285.35 |
-| Everything, all in | $1400.65 |
+| Everything, all in | $1392.65 |
 
 > **What came free:** the **stock gearbox housings** and the **alloy centre driveshaft** arrived on the donor and are priced $0. ⚠️ **The EHD hubs did not**, the donor predates EHD. ⚠️ **This list is probably not complete**, see [What the donor supplied](#what-the-donor-supplied).
 >
@@ -67,8 +67,7 @@ Everything that's actually on Mike's car, and nothing that isn't. **Qty** is how
 | **Tekno TKR1654-17 front stubs**<br><sub>Note: same part, price and seller as the 4SS</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Driveshafts](driveshaft_analysis.md) |
 | **Tekno 5580 rear stubs**<br><sub>Note: his pair out of the 4SS's 2-pair order, $33.80 for both, so $16.90 each</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Driveshafts](driveshaft_analysis.md) |
 | **Traxxas TRA5136 30k diff oil**<br><sub>Note: front. 🚧 price is the 4SS purchase of the same bottle; whether Mike bought his own is not recorded</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](README.md#diff-oil) |
-| **Traxxas TRA5130 100k diff oil**<br><sub>Note: centre. Same caveat as above</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](README.md#diff-oil) |
-| **Dynamite DYNE4201 marine grease**<br><sub>Note: the rear diff runs this **instead of** oil. 5 oz can, lithium complex with anti-sling</sub> | 1 | Amazon | **$12.00 / can** | [Diffs](differential_analysis.md) |
+| **Dynamite DYNE4201 marine grease**<br><sub>Note: **both the centre and rear diff** run this instead of oil, lightly coated, not packed. 5 oz can, lithium complex with anti-sling</sub> | 1 | Amazon | **$12.00 / can** | [Diffs](differential_analysis.md) |
 | **Stock gearbox housings, TRA6881 front + TRA6880 rear**<br><sub>**Replacement: $4.00 / set.** Glass-filled nylon, 20.0g each, unchanged from stock, so they arrived on the donor</sub> | 1 | Came with the car | **$0** | [Housings](gearbox_housing_analysis.md) |
 | **Robinson Racing 8611 pinion, 32P 11T 5mm**<br><sub>Note: **extra hard blackened steel**, 5mm bore. This is the tooth count the [gearing finding](esc_motor_analysis.md#the-gearing-finding) landed on</sub> | 1 | Tammies Hobbies | **$10.99 each** | [Motor](esc_motor_analysis.md) |
 
@@ -164,7 +163,7 @@ These arrived on the donor and are priced **$0**, so they never touch the build 
 |:---|:---|
 | Stock plastic front bulkhead | **Powerhobby alloy**, $36.99 |
 | **No centre brace at all** | **Steel VG-style**, $18.99, an addition rather than a replacement |
-| Stock diffs | **Metal centre diff**, $18.80, plus 30k and 100k oils and a greased rear |
+| Stock diffs | **Metal centre diff**, $18.80, plus 30k front oil and a greased centre + rear |
 | Stock driveshafts and stubs | **Knock-off CV set, 6752 shafts, Tekno stubs**, $89.99 together |
 | **Pre-EHD hubs and carriers** | **EHD carriers plus the MonsterKingz alloy front**, since no EHD part fits a pre-EHD car |
 | Stock arms | **FLM26800 extended**, $51.46 for the two pairs |
