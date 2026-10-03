@@ -38,7 +38,7 @@ Everything that's actually on the car, and nothing that isn't. **Qty** is how ma
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **Steel front + rear diffs, knock-off Slash 4x4**<br><sub>Note: 5mm outdrives, come with the I-bar</sub> | 1 | AliExpress, RS RC Store | **$15.26 / 2-pack** | [Diffs](differential_analysis.md#front--rear-diff-comparison) |
+| **Steel front + rear diffs, knock-off Slash 4x4**<br><sub>Note: 5mm outdrives, come with the I-bar. ⚠️ Rear unit's outdrive bearings seized and its housing is damaged (found 2026-10-03), needs a replacement, see [the service log](service_analysis.md)</sub> | 1 | AliExpress, RS RC Store | **$15.26 / 2-pack** | [Diffs](differential_analysis.md#front--rear-diff-comparison) |
 | **Traxxas TRA6814 plastic center diff (DIY-built)**<br><sub>Note: built from TRA6884 housing + TRA6883 gear set rather than the complete kit, exact receipt not logged. A chassis-side bearing seized and cracked the housing 2026-10-01, being rebuilt, see [the service log](service_analysis.md)</sub> | 1 | N/A | **~$20** | [Center diff](differential_analysis.md#center-diff) |
 | **Traxxas TRA6842R 50T plastic spur**<br><sub>Note: runs in the TRA6814 above, dropped from the 54T TRA3956R during the rebuild to cut rotating mass</sub> | 1 | N/A | **$3.00** | [Spur gear](differential_analysis.md#spur-gear) |
 | **CRC Lith-Ease white lithium grease**<br><sub>Note: center diff, light coat, replaced the 100k TRA5130 oil during the TRA6814 rebuild. 🚧 price not logged, any white lithium grease is roughly interchangeable</sub> | 1 | 🚧 N/A | 🚧 N/A | [Diff oil](differential_analysis.md#center-diff-oil) |

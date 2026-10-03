@@ -13,12 +13,14 @@ The actual bearing list running on Jato 4SS: the hub axle bearings are **10×15�
 | **10×15×4** ⚙️ | 4 | **Custom axle hubs (Tekno stub + knock-off CVD), in an 18→15mm sleeve, the mod** |
 | **6×12×4** | 6 | Wheel hubs / axle carriers |
 | **10×16×5** ⚙️ | 1* | Transmission / center driveline (the non-hub one), the **actual bundled take-off bearing running here, measured off the seized part** (see note below, this is the one that seized). Stock kit baseline for this position is 12×18×4, but that's not what's actually fitted |
-| **10×15×4** | 4 | Diff outdrives (same size as the hubs above, 8 total on the car) |
+| **10×15×4** ⚠️ | 4 | Diff outdrives (same size as the hubs above, 8 total on the car). **The rear diff's pair seized, found 2026-10-03** (see note below) |
 | **8×16×5** | 2 | Diff inputs |
 | ~~**5×8×2.5**~~ | 0 | **Not fitted.** The four **TRA5114** bellcrank bearings were swapped for **TRA3775** Oilite bushings |
 | **5×11×4** | 1 | Center / slipper |
 
 **Total: 18 ball bearings + 4 Oilite bushings** (22 positions, same as OG). Two swaps from stock: the four hub **12×18×4** became **10×15×4 in sleeves**, and the four bellcrank **TRA5114** bearings became **TRA3775** bushings. **The bearings lock up and chew the steering post**, because a bell crank only rocks through a tiny arc so the balls dig into the same spot instead of rolling onto fresh metal. The bushings just slide, and the post survives. Full reasoning in [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md#key-requirements) (see [`steering_bell_crank_analysis.md`](steering_bell_crank_analysis.md)).
+
+⚠️ **The rear diff's two outdrive bearings (10×15×4) are also seized, found on a 2026-10-03 teardown**, and are the suspected root cause of the transmission-position seizure below, extra driveline drag loading up the chassis bearing until it went too. Full writeup in [`service_analysis.md`](service_analysis.md).
 
 ⚠️ **The transmission/center position above is the one that seized and cracked the TRA6814 center diff housing, 2026-10-01.** This isn't a hub bearing, it's the **chassis-mounted bearing the output shaft passes through on its way to the [center driveshaft (7455)](driveshaft_analysis.md#center-driveshaft-comparison)**, which came bundled with that shaft's take-off kit. Full failure writeup in [`service_analysis.md`](service_analysis.md). **Measured off the failed part: 10×16×5** (10mm ID × 16mm OD × 5mm width), confirming it's **a different size than the Raptor R / MonsterKingz hub bearings** (and than the 12×18×4 stock-kit baseline for this position, which was never what was actually fitted here).
 
