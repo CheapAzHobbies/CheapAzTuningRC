@@ -9,6 +9,17 @@ Real-world failures from actually driving the car, kept separate from the part-s
 
 ---
 
+## Troubleshooting
+
+General diagnostic notes from driving this car, not tied to one dated incident, carried forward so the next weird symptom gets checked in the right order.
+
+| Symptom | Likely Cause | Check First |
+|---|---|---|
+| **Motor mount mesh keeps loosening.** Tighten it against the spur, drive, come back and it's loose again | Vibration from a failing **center diff bearing** working the mount screws loose, not the screws just backing out on their own | The center diff before writing it off as "just re-tighten it" |
+| **Clicking noise under power that sounds like it's coming from the rear** | The **center diff**, not the rear diff. Applies to any center diff running (AliExpress metal, Traxxas OEM, whatever's in there) | The center diff first. The rear diff bearing is possible but less likely, check whatever's easiest to get to first and work down from there |
+
+---
+
 ## Notes
 
 - **Why separate from the analysis docs:** `<part>_analysis.md` docs are about why a part was chosen; this log is about what actually happened to it under real driving. Keeping failures here instead of buried in a part's Notes section keeps both docs on-topic and gives a single place to check "what's broken on this car and when."
