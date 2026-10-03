@@ -500,7 +500,7 @@ Conventional wisdom is mixed:
 
 ## Pinion Reference (32P)
 
-The [center diff](differential_analysis.md#center-diff) (TRA6814 + separate TRA6842R) runs a **50T** spur, dropped from 54T (TRA3956R) during the center diff rebuild to cut rotating mass, so the FDR table below is recalculated for 50T. **Running 14T now**, down from 16T, for even more punch; dropping the spur to 50T pulled some of that punch back, net FDR sits between the old 16T/54T and 14T/54T setups. Reference table below (FDR is teeth-based, so the ratios hold regardless of 32P vs mod1, just match pitch if you buy more pinions):
+The [center diff](differential_analysis.md#center-diff) (TRA6814 + separate TRA6842R) runs a **50T** spur, dropped from 54T (TRA3956R) to cut rotating mass, so the FDR table below is recalculated for 50T. **Running 14T now**, down from 16T, for even more punch; dropping the spur to 50T pulled some of that punch back, net FDR sits between the old 16T/54T and 14T/54T setups. Reference table below (FDR is teeth-based, so the ratios hold regardless of 32P vs mod1, just match pitch if you buy more pinions):
 
 | Pinion (32P) | FDR with 50T spur | Speed character | Typical motor pairing |
 |---|---|---|---|
