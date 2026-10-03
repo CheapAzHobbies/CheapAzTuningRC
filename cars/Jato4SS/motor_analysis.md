@@ -504,8 +504,8 @@ The [center diff](differential_analysis.md#center-diff) (TRA6814 + separate TRA6
 
 | Pinion (32P) | FDR with 50T spur | Speed character | Typical motor pairing |
 |---|---|---|---|
-| **14T** ⭐ | **3.57** | **Punchiest, hottest of the bunch** | **⭐ Running now** |
-| 13T | 3.85 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused |
+| **14T** ⭐ | **3.57** | **Punchiest, hottest of the bunch, practical floor on the 50T spur** | **⭐ Running now** |
+| 13T 🚧 | 3.85 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused. **Mesh-limited on the 50T spur, see note below** |
 | 15T | 3.33 | Tame, low motor temp | Castle 1412 3200KV starting point, keeps it cooler |
 | **16T** | **3.13** | **Punchy, coolest of the bolded sizes** | **Previously running, in hand** |
 | **17T** | **2.94** | **Balanced middle** | **In hand, step up here for more top end** |
@@ -516,6 +516,8 @@ The [center diff](differential_analysis.md#center-diff) (TRA6814 + separate TRA6
 | 25T | 2.00 | Speed-run territory | 2200KV-class only, monitor temps |
 
 > FDR (Final Drive Ratio) shown is the spur-to-pinion only; multiply by the internal transmission ratio (~2.78:1 for Slash/Jato 4x4) for the true wheel ratio. Lower FDR = faster top speed but more heat / less torque. Higher FDR = more punch but lower top speed.
+
+⚙️ **14T is about the practical floor on the 50T spur.** Going smaller (13T and below) runs into the motor mount's mesh adjustment range, there isn't room left to pull the motor in any closer and keep correct mesh/backlash. To go lower than 14T, the spur has to go back up in size to free up that adjustment room, not just the pinion.
 
 ---
 
