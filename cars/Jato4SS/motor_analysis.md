@@ -500,20 +500,20 @@ Conventional wisdom is mixed:
 
 ## Pinion Reference (32P)
 
-The [center diff](differential_analysis.md#center-diff) (TRA6814 + separate TRA3956R) runs a **54T** spur, so the FDR math below holds. **Running 14T now**, down from 16T, for even more punch. Reference table below (FDR is teeth-based, so the ratios hold regardless of 32P vs mod1, just match pitch if you buy more pinions):
+The [center diff](differential_analysis.md#center-diff) (TRA6814 + separate TRA6842R) runs a **50T** spur, dropped from 54T (TRA3956R) during the center diff rebuild to cut rotating mass, so the FDR table below is recalculated for 50T. **Running 14T now**, down from 16T, for even more punch; dropping the spur to 50T pulled some of that punch back, net FDR sits between the old 16T/54T and 14T/54T setups. Reference table below (FDR is teeth-based, so the ratios hold regardless of 32P vs mod1, just match pitch if you buy more pinions):
 
-| Pinion (32P) | FDR with 54T spur | Speed character | Typical motor pairing |
+| Pinion (32P) | FDR with 50T spur | Speed character | Typical motor pairing |
 |---|---|---|---|
-| **14T** ⭐ | **3.86** | **Punchiest, hottest of the bunch** | **⭐ Running now** |
-| 13T | 4.15 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused |
-| 15T | 3.60 | Tame, low motor temp | Castle 1412 3200KV starting point, keeps it cooler |
-| **16T** | **3.38** | **Punchy, coolest of the bolded sizes** | **Previously running, in hand** |
-| **17T** | **3.18** | **Balanced middle** | **In hand, step up here for more top end** |
-| **18T** | **3.00** | **More top end** | **In hand** |
-| 19T | 2.84 | Faster, more top end | 2400KV with a strong battery |
-| 21T | 2.57 | High-speed bias | 2400KV, speed bias |
-| 23T | 2.35 | Top-end aggressive | 2200KV on light vehicle |
-| 25T | 2.16 | Speed-run territory | 2200KV-class only, monitor temps |
+| **14T** ⭐ | **3.57** | **Punchiest, hottest of the bunch** | **⭐ Running now** |
+| 13T | 3.85 | Crawler / low end / cool | High-KV 3200KV+, slow speed-focused |
+| 15T | 3.33 | Tame, low motor temp | Castle 1412 3200KV starting point, keeps it cooler |
+| **16T** | **3.13** | **Punchy, coolest of the bolded sizes** | **Previously running, in hand** |
+| **17T** | **2.94** | **Balanced middle** | **In hand, step up here for more top end** |
+| **18T** | **2.78** | **More top end** | **In hand** |
+| 19T | 2.63 | Faster, more top end | 2400KV with a strong battery |
+| 21T | 2.38 | High-speed bias | 2400KV, speed bias |
+| 23T | 2.17 | Top-end aggressive | 2200KV on light vehicle |
+| 25T | 2.00 | Speed-run territory | 2200KV-class only, monitor temps |
 
 > FDR (Final Drive Ratio) shown is the spur-to-pinion only; multiply by the internal transmission ratio (~2.78:1 for Slash/Jato 4x4) for the true wheel ratio. Lower FDR = faster top speed but more heat / less torque. Higher FDR = more punch but lower top speed.
 

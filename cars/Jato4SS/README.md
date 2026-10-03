@@ -84,7 +84,7 @@
 | 🧱 **Chassis** | AliExpress / Cobra Racing carbon-fiber LCG, Slash 4x4 pattern |
 | 🔌 **Power** | Hobbywing EZRun MAX10 G2 140A + 3665SD G3 2400KV |
 | 🔋 **Battery** | Gens Ace Redline 2.0 4S HV 6000mAh 140C shorty (410 g) |
-| ⚙️ **Gearing** | 14T pinion on a 54T spur, FDR 3.86 |
+| ⚙️ **Gearing** | 14T pinion on a 50T spur, FDR 3.57 |
 | 🌀 **Shocks** | Hot Bodies D8 97mm big bore, 37.5wt front / 50wt rear |
 | 🦾 **Arms** | FLM26800 metal extended, about 10mm wider per side |
 | 🎯 **Steering** | PTK 9752TG-D servo, GPM 6845X alloy bell crank, Integy purple C-hubs + GPM XO-1 front blocks, Raptor R rear carriers |
@@ -142,7 +142,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 - **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 50wt rear / 37.5wt front (down from an earlier 45wt/60wt), the rear still the firmer of the two to control squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
 - **Wide track for stability.** FLM26800 extended arms stretch the track width about 10mm per side, which calms the car over rough ground and adds droop.
 - **Diffs tuned for a loose surface.** 30k front to calm torque steer, **a greased rear rather than oil** for drive off the corner, and the center now also runs a light coat of white lithium grease (switched from 100k Traxxas TRA5130 oil during the TRA6814 rebuild) to hold drive stability.
-- **Geared for punch, not top speed.** 14T pinion (FDR 3.86) on the 3665SD 2400KV keeps it punchy on a technical, rough track where you rarely hold full throttle, down from 16T for even more of that.
+- **Geared for punch, not top speed.** 14T pinion on a 50T spur (FDR 3.57) on the 3665SD 2400KV keeps it punchy on a technical, rough track where you rarely hold full throttle. Down from 16T for more punch, though dropping the spur from 54T to 50T during the center diff rebuild (to cut rotating mass) pulled some of that back, net FDR sits between the old 16T/54T and 14T/54T setups.
 - **It survives crashes, but that isn't what it was built for.** The car was set up to go fast and it **gave up some durability to get there** — it's just turned out very strong anyway. The parts picked to last carry the ones that weren't: metal arms that bend instead of snap, alloy hubs on Tekno stubs (Integy C-hubs + GPM XO-1 blocks up front, Raptor R carriers out back), and a **minimal skid plate at the rear** so a bad landing lets me throttle out instead of digging in and cartwheeling. Up front is the **RPM 81042 wide bumper**, which sounds like the opposite but isn't: **it sits far enough forward that touching it means the car is already too nose down**, and it shouldn't ever get that vertical while racing. In normal driving nothing reaches it, and in a real frontal hit it takes the load instead of the diff.
 - **Body:** the OG Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. **Now runs a separate TRA9517 wing** on the TRA9046 mount (2026-09-26) since the shell's own small integrated wing flew too nose-heavy, see [`aero_analysis.md`](aero_analysis.md).
 - **Wheels:** IMEX 1/8th Rally chrome rims, bought purely because they're baller, and yes I paid extra. The chrome ricer look plus the stretched stance from the extended arms makes it look like an extended-swingarm GSX-R, which is why we call it **the stretched GSX-R ricer hot boy look**. It looks great and still performs well. Right now they wear the $3.87 Mitsubishi-tread 26013 tires with blue race foams. The glued rally slicks they came with (the glue had gone on the old rims) were great on track and fun to drift, but not for racing.
@@ -172,16 +172,16 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 
 <p align="center">
   <img src="src/drivetrain_aliexpress_knockoff_slash4x4_steel_diff.png" width="250">&nbsp;<img src="src/drivetrain_traxxas_center_diff_tra6814.jpg" width="250">&nbsp;<img src="src/drivetrain_traxxas_slash_hd_cv_knockoff_tra6851r.jpg" width="250"><br>
-  <em>Steel front / rear diffs · TRA6814 plastic center diff with separate 54T spur · HD steel CVDs</em>
+  <em>Steel front / rear diffs · TRA6814 plastic center diff with separate 50T spur · HD steel CVDs</em>
 </p>
 
 | Component | Part | Notes |
 |-----------|------|-------|
 | Diffs (front + rear) | **AliExpress knock-off Slash 4x4 steel diffs** (5mm, with I-bar) | 30k front / **greased rear, no oil**, [`differential_analysis.md`](differential_analysis.md) |
-| Center diff + spur | **Traxxas TRA6814 plastic (DIY-built)**, separate TRA3956R 54T spur | A chassis-side bearing seized and cracked the housing 2026-10-01, being rebuilt, [`differential_analysis.md`](differential_analysis.md#center-diff) |
+| Center diff + spur | **Traxxas TRA6814 plastic (DIY-built)**, separate TRA6842R 50T spur | A chassis-side bearing seized and cracked the housing 2026-10-01, being rebuilt. Spur dropped from 54T to 50T during the rebuild to cut rotating mass, [`differential_analysis.md`](differential_analysis.md#center-diff) |
 | Center diff fill | ⚙️ **White lithium grease, no oil** | Switched during the TRA6814 rebuild, was 100k Traxxas TRA5130 oil, [`differential_analysis.md`](differential_analysis.md#center-diff-oil) |
 | Grease | **B'LASTER white lithium** | CVDs and gears, not inside the diffs. $6.99 at Harbor Freight, [`driveshaft_analysis.md`](driveshaft_analysis.md#grease-cvds--gears) |
-| Pinion | **14T 32P** on the 3665SD 2400KV, FDR 3.86 | 16T / 17T / 18T on hand to retune, [`motor_analysis.md`](motor_analysis.md#pinion-reference-32p) |
+| Pinion | **14T 32P** on the 3665SD 2400KV, FDR 3.57 (on the 50T spur) | 16T / 17T / 18T on hand to retune, [`motor_analysis.md`](motor_analysis.md#pinion-reference-32p) |
 | Center driveshaft | Jato 4x4 BL-2S take-off shaft (7455) | $2.49, [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
 | Axle CVDs | Knock-off Slash 4x4 HD steel CV driveshafts, front + rear (TRA6851R / TRA6852R clones, 5mm) + **4× TRA6752 long output shafts** | [`driveshaft_analysis.md`](driveshaft_analysis.md) |
 | Stubs | Tekno M6: front **TKR1654-17**, rear **5580** (bought bare) | [`driveshaft_analysis.md`](driveshaft_analysis.md#tekno-stubs-front--rear) |
