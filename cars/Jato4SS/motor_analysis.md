@@ -517,7 +517,7 @@ The [center diff](differential_analysis.md#center-diff) (TRA6814 + separate TRA6
 
 > FDR (Final Drive Ratio) shown is the spur-to-pinion only; multiply by the internal transmission ratio (~2.78:1 for Slash/Jato 4x4) for the true wheel ratio. Lower FDR = faster top speed but more heat / less torque. Higher FDR = more punch but lower top speed.
 
-⚙️ **14T is about the practical floor on the 50T spur, specific to this CF chassis's motor mount.** Going smaller (13T and below) runs into its mesh adjustment range, there isn't room left to pull the motor in any closer and keep correct mesh/backlash. To go lower than 14T, the spur has to go back up in size to free up that adjustment room, not just the pinion.
+⚙️ **14T is about the practical floor on the 50T spur, specific to the adjustable aluminum motor mount that comes in the [CF chassis kit](chassis_analysis.md#chassis-comparison).** Going smaller (13T and below) runs into its mesh adjustment range, there isn't room left to pull the motor in any closer and keep correct mesh/backlash. To go lower than 14T, the spur has to go back up in size to free up that adjustment room, not just the pinion.
 
 ---
 
