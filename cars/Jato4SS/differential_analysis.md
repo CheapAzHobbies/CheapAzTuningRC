@@ -150,9 +150,11 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 ## Center Diff Oil
 
-**Running: 100k (Traxxas TRA5130 diff oil, $8 at Tammies Hobby).** 20k was the starting point, tested across several builds as the sweet spot between freewheeling traction handoff and progressive lockup under throttle; this car now runs 100k.
+> ⚙️ **Switched from oil to grease during the TRA6814 rebuild.** Never actually got around to replacing the 100k oil before, but with the diff already apart for the [2026-10-01 field failure](service_analysis.md) rebuild, switched to a light coat of white lithium grease instead.
 
-<p align="center"><img src="src/drivetrain_traxxas_diff_oil_100k_tra5130.jpg" width="300"><br><em>Traxxas diff oil 100k (TRA5130), in the center diff</em></p>
+**Running: white lithium grease, light coat on the gears, never packed.** CRC Lith-Ease used here, but white lithium is pretty interchangeable brand to brand, older tubes have worked the same. Previously ran **100k Traxxas TRA5130 oil** ($8 at Tammies Hobby, see the weight table below for why 100k was picked); a light grease film lands in roughly that same near-locked territory without actually running oil.
+
+<p align="center"><img src="src/drivetrain_crc_lith-ease_white_lithium_grease_center_diff_rebuild.jpg" width="400"><br><em>CRC Lith-Ease White Lithium Grease, used on the TRA6814 rebuild. Any white lithium grease works about the same</em></p>
 
 | Oil weight | Behavior | Use case |
 |---|---|---|
@@ -160,11 +162,12 @@ The spider pins are **stepped down** partway along their length, and that step i
 | 10k cSt | Quicker freewheel, less lockup under power | Tight indoor tracks |
 | 20k cSt | Balanced, diffs under hard throttle, freewheels at part-throttle | Earlier baseline, general offroad / 4S dirt |
 | 50k cSt | Mostly locked, all-four-wheels-pull feel | Crawling, low-grip climbs |
-| **100k+ ⭐** | Effectively locked spool | Drag/speed-run with grip. **Running now (TRA5130)** |
+| 100k+ | Effectively locked spool | Drag/speed-run with grip. **Previously ran this (TRA5130)** |
+| **White lithium grease ⭐** | Effectively locked, similar territory to 100k+ oil | **Running now**, light coat, switched during the rebuild |
 
-**Fill level: half full only.** Overfilling plastic diff housings causes them to explode under pressure, this is operator error. Fill to half, no more.
+**Fill level: light coat only, never packed.** Same rule as [Mike's car](../Jato4EP/differential_analysis.md#the-centre-and-rear-run-grease-not-oil): packing a diff binds the gears together so it drags and heats instead of differentiating. The half-full rule was for the oil fill; it doesn't apply now that this is greased.
 
-**Why not just lock the center diff?** Locked center = no torque differentiation front-to-rear = chassis pushes / pivots awkwardly on uneven surfaces. That's the tradeoff 100k accepts; 20k was the way to get the locked feel under power without it.
+**Why not just lock the center diff?** Locked center = no torque differentiation front-to-rear = chassis pushes / pivots awkwardly on uneven surfaces. That's still the tradeoff with a heavy grease film, same logic that ruled out a true lock before.
 
 ---
 
@@ -181,7 +184,7 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 <p align="center"><img src="src/drivetrain_traxxas_diff_oil_30k_tra5136.jpg" width="280">&nbsp;<img src="src/drivetrain_traxxas_diff_oil_10k_tra5135.jpg" width="280"><br><em>Front: Traxxas 30k (TRA5136), what the front diff actually runs · Traxxas 10k (TRA5135), bought but <strong>not what is in the rear</strong>, since the rear is greased. $7.50 each at Tammies Hobbies</em></p>
 
-> The [E-Revo](../ERevo_1.0/README.md) runs the same **30k** front. [Mike's Jato](../Jato4EP/README.md#diff-oil) runs the same **30k front**, worked out on his car first, but his centre gets its near-100k locked feel from a light coat of **Dynamite DYNE4201 blue grease** instead of literal oil, since his metal AliExpress diff is a different unit than the TRA6814 here.
+> The [E-Revo](../ERevo_1.0/README.md) runs the same **30k** front. [Mike's Jato](../Jato4EP/README.md#diff-oil) runs the same **30k front**, worked out on his car first. **Both centres run grease now**, just different products: his gets its near-locked feel from a light coat of **Dynamite DYNE4201 blue marine grease** (same can as his rear), this one from **white lithium**, since the TRA6814 was already apart for the rebuild when the switch happened here.
 
 ---
 

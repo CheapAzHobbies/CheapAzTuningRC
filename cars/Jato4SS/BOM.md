@@ -13,15 +13,15 @@ Everything that's actually on the car, and nothing that isn't. **Qty** is how ma
 | Section | Subtotal |
 |---|---|
 | [Chassis & Bumpers](#chassis--bumpers) | $90.12 |
-| [Drivetrain](#drivetrain) | $175.94 |
+| [Drivetrain](#drivetrain) | $167.29 |
 | [Suspension](#suspension) | $180.71 |
 | [Hubs & Carriers](#hubs--carriers) | $109.87 |
 | [Steering](#steering) | $84.53 |
 | [Wheels & Tires](#wheels--tires) | $56.92 |
 | [Body & Aero](#body--aero) | $50.47 |
 | [Electronics](#electronics) | $383.73 |
-| **Total** | **~$1,132** |
-| **Car only, without the battery and radio** | **~$899** |
+| **Total** | **~$1,124** |
+| **Car only, without the battery and radio** | **~$890** |
 
 ---
 
@@ -41,7 +41,7 @@ Everything that's actually on the car, and nothing that isn't. **Qty** is how ma
 | **Steel front + rear diffs, knock-off Slash 4x4**<br><sub>Note: 5mm outdrives, come with the I-bar</sub> | 1 | AliExpress, RS RC Store | **$15.26 / 2-pack** | [Diffs](differential_analysis.md#front--rear-diff-comparison) |
 | **Traxxas TRA6814 plastic center diff (DIY-built)**<br><sub>Note: built from TRA6884 housing + TRA6883 gear set rather than the complete kit, exact receipt not logged. A chassis-side bearing seized and cracked the housing 2026-10-01, being rebuilt, see [the service log](service_analysis.md)</sub> | 1 | N/A | **~$20** | [Center diff](differential_analysis.md#center-diff) |
 | **Traxxas TRA3956R 54T plastic spur**<br><sub>Note: runs in the TRA6814 above</sub> | 1 | N/A | **$3.00** | [Spur gear](differential_analysis.md#spur-gear) |
-| **Traxxas 100k diff oil, TRA5130**<br><sub>Note: center diff</sub> | 1 | Tammies Hobbies | **$8.00 / bottle** | [Diff oil](differential_analysis.md#center-diff-oil) |
+| **CRC Lith-Ease white lithium grease**<br><sub>Note: center diff, light coat, replaced the 100k TRA5130 oil during the TRA6814 rebuild. 🚧 price not logged, any white lithium grease is roughly interchangeable</sub> | 1 | 🚧 N/A | 🚧 N/A | [Diff oil](differential_analysis.md#center-diff-oil) |
 | **Traxxas 30k diff oil, TRA5136**<br><sub>Note: front diff</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](differential_analysis.md#front--rear-diff-oil) |
 | **Traxxas 10k diff oil, TRA5135**<br><sub>Note: bought for the rear, but **the rear runs grease instead of oil**, so this bottle is spare. Listed because it was paid for</sub> | 1 | Tammies Hobbies | **$7.50 / bottle** | [Diff oil](differential_analysis.md#front--rear-diff-oil) |
 | **Jato 4x4 BL-2S center driveshaft, 7455**<br><sub>Note: take-off, with pinion and bearings</sub> | 1 | Jenny's RC | **$2.49 each** | [Driveshafts](driveshaft_analysis.md#center-driveshaft-comparison) |
@@ -52,7 +52,7 @@ Everything that's actually on the car, and nothing that isn't. **Qty** is how ma
 | **Tekno TKR1654-17 front stubs**<br><sub>Note: $15.00 + $4.99 shipping, order 18-13082-92531, May 2025</sub> | 1 | eBay, kool_toyz_4u | **$19.99 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **Tekno 5580 rear stubs**<br><sub>Note: bought 2 pairs for $33.80, the second pair was for a friend</sub> | 1 | eBay, mr-retro | **$16.90 / pair** | [Stubs](driveshaft_analysis.md#tekno-stubs-front--rear) |
 | **B'LASTER white lithium grease, SKU 56817**<br><sub>Note: 11 oz spray, on the CVDs and gears, not inside the diffs</sub> | 1 | Harbor Freight, SKU 56817 | **$6.99 / can** | [Grease](driveshaft_analysis.md#grease-cvds--gears) |
-| **Sealed ball bearings, the car's 18**<br><sub>Note: bought by size in 10-packs, so this is the per-bearing price times what the car actually runs, not what the packs cost. Sizes, counts and unit prices in [`bearings_reference.md`](bearings_reference.md#what-the-bearings-cost)</sub> | 1 | AliExpress, various | **$7.21 / set of 18** | [Bearings](bearings_reference.md#what-the-bearings-cost) |
+| **Sealed ball bearings, the car's 18**<br><sub>Note: bought by size in 10-packs, so this is the per-bearing price times what the car actually runs, not what the packs cost. Sizes, counts and unit prices in [`bearings_reference.md`](bearings_reference.md#what-the-bearings-cost)</sub> | 1 | AliExpress, various | **$6.56 / set of 18** | [Bearings](bearings_reference.md#what-the-bearings-cost) |
 
 ## Suspension
 

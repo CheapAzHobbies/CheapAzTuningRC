@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>VOL. 1 &middot; ISSUE 01 &middot; PROJECT CAR FEATURE &middot; MELDRUM BAR, OR</b><br>
-  <b>&#9733; EXCLUSIVE:</b> $899 BUILD TAKES ON 1/5 SCALE &nbsp;&#9642;&nbsp;
+  <b>&#9733; EXCLUSIVE:</b> $890 BUILD TAKES ON 1/5 SCALE &nbsp;&#9642;&nbsp;
   <b>INSIDE:</b> EVERY RECEIPT &nbsp;&#9642;&nbsp;
   <b>PLUS:</b> THE $3.87 TIRE THAT ACTUALLY WORKS
 </p>
@@ -32,7 +32,7 @@
   <img alt="KV" src="https://img.shields.io/badge/2400-KV-000000?style=for-the-badge">
   <img alt="Weight" src="https://img.shields.io/badge/2.87-KG-444444?style=for-the-badge">
   <img alt="Swaybars" src="https://img.shields.io/badge/SWAYBARS-NONE-c0c0c0?style=for-the-badge">
-  <img alt="Cost" src="https://img.shields.io/badge/BUILT%20FOR-%24899-2ea44f?style=for-the-badge">
+  <img alt="Cost" src="https://img.shields.io/badge/BUILT%20FOR-%24890-2ea44f?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 <h2 align="center">BUDGET KING</h2>
 
 <p align="center">
-  <i>We gutted a Traxxas Jato 4x4 down to the gearboxes, spent $899 putting it back together<br>
+  <i>We gutted a Traxxas Jato 4x4 down to the gearboxes, spent $890 putting it back together<br>
   as a 4S electric buggy, and wrapped the whole thing in a 2007 nitro shell and chrome deep dish.<br>
   It races 1/5 scale trucks on a blown-out public dirt track. Here is every part, every price,<br>
   and every bad decision we would happily make again.</i>
@@ -92,7 +92,7 @@
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
 | 🔧 **Wheel cost** | ~$57 up front (rims + tires + foams + the glue that mounts them), ~$4 per tire change after that |
 | ⚖️ **Weight** | **~2.76 kg** as it runs today. The 2.868 kg weigh-in was on the heavier Zeee pack, see [Weight](#weight) |
-| 💰 **Build cost** | ~$899 for the car, ~$1,132 with the battery and radio, see [`BOM.md`](BOM.md) |
+| 💰 **Build cost** | ~$890 for the car, ~$1,124 with the battery and radio, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
 ## TABLE OF CONTENTS
@@ -141,7 +141,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 
 - **Soft, big-bore suspension.** Hot Bodies D8 metal big-bore shocks on soft springs (white 59gf front, grey 52gf rear) soak up the ruts. Oil is 50wt rear / 37.5wt front (down from an earlier 45wt/60wt), the rear still the firmer of the two to control squat and rebound on the chop. No swaybars, I want the wheels working independently over the bumps.
 - **Wide track for stability.** FLM26800 extended arms stretch the track width about 10mm per side, which calms the car over rough ground and adds droop.
-- **Diffs tuned for a loose surface.** 30k front to calm torque steer, **a greased rear rather than oil** for drive off the corner, 100k center (Traxxas TRA5130) to hold drive stability.
+- **Diffs tuned for a loose surface.** 30k front to calm torque steer, **a greased rear rather than oil** for drive off the corner, and the center now also runs a light coat of white lithium grease (switched from 100k Traxxas TRA5130 oil during the TRA6814 rebuild) to hold drive stability.
 - **Geared for punch, not top speed.** 14T pinion (FDR 3.86) on the 3665SD 2400KV keeps it punchy on a technical, rough track where you rarely hold full throttle, down from 16T for even more of that.
 - **It survives crashes, but that isn't what it was built for.** The car was set up to go fast and it **gave up some durability to get there** — it's just turned out very strong anyway. The parts picked to last carry the ones that weren't: metal arms that bend instead of snap, alloy hubs on Tekno stubs (Integy C-hubs + GPM XO-1 blocks up front, Raptor R carriers out back), and a **minimal skid plate at the rear** so a bad landing lets me throttle out instead of digging in and cartwheeling. Up front is the **RPM 81042 wide bumper**, which sounds like the opposite but isn't: **it sits far enough forward that touching it means the car is already too nose down**, and it shouldn't ever get that vertical while racing. In normal driving nothing reaches it, and in a real frontal hit it takes the load instead of the diff.
 - **Body:** the OG Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. **Now runs a separate TRA9517 wing** on the TRA9046 mount (2026-09-26) since the shell's own small integrated wing flew too nose-heavy, see [`aero_analysis.md`](aero_analysis.md).
@@ -179,7 +179,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 |-----------|------|-------|
 | Diffs (front + rear) | **AliExpress knock-off Slash 4x4 steel diffs** (5mm, with I-bar) | 30k front / **greased rear, no oil**, [`differential_analysis.md`](differential_analysis.md) |
 | Center diff + spur | **Traxxas TRA6814 plastic (DIY-built)**, separate TRA3956R 54T spur | A chassis-side bearing seized and cracked the housing 2026-10-01, being rebuilt, [`differential_analysis.md`](differential_analysis.md#center-diff) |
-| Center diff oil | **Traxxas 100k (TRA5130)** | $8 at Tammies Hobby, [`differential_analysis.md`](differential_analysis.md#center-diff-oil) |
+| Center diff fill | ⚙️ **White lithium grease, no oil** | Switched during the TRA6814 rebuild, was 100k Traxxas TRA5130 oil, [`differential_analysis.md`](differential_analysis.md#center-diff-oil) |
 | Grease | **B'LASTER white lithium** | CVDs and gears, not inside the diffs. $6.99 at Harbor Freight, [`driveshaft_analysis.md`](driveshaft_analysis.md#grease-cvds--gears) |
 | Pinion | **14T 32P** on the 3665SD 2400KV, FDR 3.86 | 16T / 17T / 18T on hand to retune, [`motor_analysis.md`](motor_analysis.md#pinion-reference-32p) |
 | Center driveshaft | Jato 4x4 BL-2S take-off shaft (7455) | $2.49, [`driveshaft_analysis.md`](driveshaft_analysis.md#center-driveshaft-comparison) |
@@ -311,7 +311,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 | IMEX chrome rims + Kforce tires + blue race foams | $51.93 | **HSP-style ricer swirl wheels (~$25.45) or RedSpider R235 / R305 ($18.61)** — either works well, tires **and** foams already on both. The RedSpider set is the most durable full set here, so going cheaper saves more again, [`wheel_analysis.md`](wheel_analysis.md) | ~$25.45 | **~$26.48** |
 | **Total** | | | | **~$146** |
 
-**That lands the same car near ~$969 all in, or ~$828 without the radio**, against ~$1,132 as built.
+**That lands the same car near ~$969 all in, or ~$828 without the radio**, against ~$1,124 as built.
 
 > **Taken all the way, that's the [bare-bones BOM](BOM_barebones.md): ~$665.** Buy a **running Jato 4x4 VXL for $200** (the market is $200-250) and spend ~$465 on the parts that actually matter — CF chassis, FLM arms, front alloy hubs, titanium rods, the long-axle conversion and a servo. The donor's ESC, motor, radio, bearings, diffs, shocks, towers, body and wing all stay on the car.
 
@@ -348,7 +348,7 @@ This car got expensive because I bought the fun, gimmicky stuff. **About $146 of
 
 | Category | Score | The call |
 |---|---|---|
-| **Value** | **9/10** | $899 for a car that runs with 1/5 scale trucks. The [bare-bones build](BOM_barebones.md) does it for **~$665** |
+| **Value** | **9/10** | $890 for a car that runs with 1/5 scale trucks. The [bare-bones build](BOM_barebones.md) does it for **~$665** |
 | **Performance** | **8/10** | 4S, 2400KV, wide track, soft big bores. Geared for punch on a rough track, not for a top-speed number |
 | **Durability** | **7/10** | Gave some away for performance and got lucky. Metal arms, alloy hubs and titanium rods carry the parts that were not chosen to last |
 | **Looks** | **10/10** | Chrome deep dish, OG nitro shell, stretched stance. Objectively correct |
