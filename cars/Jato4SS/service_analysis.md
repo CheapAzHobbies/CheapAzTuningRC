@@ -15,7 +15,7 @@ General diagnostic notes from driving this car, not tied to one dated incident, 
 
 | Symptom | Likely Cause | Check First |
 |---|---|---|
-| **Motor mount mesh keeps loosening.** Tighten it against the spur, drive, come back and it's loose again | Vibration from a failing **center diff bearing** working the mount screws loose, not the screws just backing out on their own | The center diff before writing it off as "just re-tighten it" |
+| **Motor mount mesh keeps loosening.** Tighten it against the spur, drive, come back and it's loose again | Usually just the **motor mount screws not torqued enough to begin with**, motor heat + vibration walks them the rest of the way loose. A failing **center diff bearing** is the other cause, further down the list | **Check the motor itself first**: has it physically shifted away from the spur? If so, retighten and run **red threadlocker** (high-strength, e.g. Loctite 262/271) on the mount screws so heat doesn't walk them loose again. Only check the center diff if the motor hasn't actually shifted |
 | **Clicking noise under power that sounds like it's coming from the rear** | The **center diff**, not the rear diff. Applies to any center diff running (AliExpress metal, Traxxas OEM, whatever's in there) | The center diff first. The rear diff bearing is possible but less likely, check whatever's easiest to get to first and work down from there |
 
 ---
