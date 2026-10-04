@@ -12,7 +12,7 @@ The actual bearing list running on Jato 4SS: the hub axle bearings are **10×15�
 |---|---|---|
 | **10×15×4** ⚙️ | 4 | **Custom axle hubs (Tekno stub + knock-off CVD), in an 18→15mm sleeve, the mod** |
 | **6×12×4** | 6 | Wheel hubs / axle carriers |
-| **10×16×5** ⚙️ | 1* | Transmission / center driveline (the non-hub one), the **actual bundled take-off bearing running here, confirmed by direct measurement** (see note below). Stock kit baseline for this position is 12×18×4, but that's not what's actually fitted |
+| **10×16×5** ⚙️ | 1* | Transmission / center driveline (the non-hub one), the **actual bundled take-off bearing running here, confirmed by direct measurement** (see note below). Stock kit baseline for this position is 12×18×4, but that's not what's actually fitted. 🚧 **Being sleeved down to a 10×15×4** so the car stops needing a one-off size, see [the centre sleeve](#the-centre-sleeve-16--15mm) |
 | **10×15×4** | 4 | Diff outdrives (same size as the hubs above, 8 total on the car) |
 | **8×16×5** | 2 | Diff inputs |
 | ~~**5×8×2.5**~~ | 0 | **Not fitted.** The four **TRA5114** bellcrank bearings were swapped for **TRA3775** Oilite bushings |
@@ -33,6 +33,28 @@ Printed at home, **18mm OD × 15mm ID × 4mm**, one per hub corner. **Model:** [
 - **A touch of super glue on the outer face of the ring only**, never in the bore. The bore has to stay clean for the bearing to seat square.
 - **Press it into the hub's 18mm pocket**, then the **10×15×4** drops straight into the sleeve.
 - Fits either the **stock EHD plastic hubs** (TRA9032 front C-hub / TRA9037 steering block / TRA9050 rear carrier) or the **Raptor R alloy set** (9063 / 9064 / 9065).
+
+---
+
+## The centre sleeve (16 → 15mm)
+
+> **The 10×16×5 at the centre is the only odd size left on the car.** It came bundled with the [7455 take-off shaft kit](driveshaft_analysis.md#center-driveshaft-comparison), nothing else on the car uses it, and keeping one lonely size in the parts bin to serve one position is the thing worth getting rid of. So the same trick as the hubs: **sleeve the 16mm pocket down to 15mm and run the 10×15×4 that is already here in eight other places.**
+
+**Going smaller is the deliberate choice.** A 15×4 bearing in place of a 16×5 is a smaller bearing in the same spot, so it will not last as long. That is accepted: **the sleeve and the bearing are both wear items**, the bearing costs **$0.31** against a size the car otherwise has to stock on its own, and a part that wears out on a predictable interval is easier to live with than a part that is cheap but unobtainable mid-weekend.
+
+**Model:** [`TRA_Center_Bearing_Adapter_16_to_15mm.stl`](3d-models/TRA_Center_Bearing_Adapter_16_to_15mm.stl). Measured off the mesh:
+
+| Dimension | Value |
+|---|---|
+| Outside diameter | **16.0mm** (fills the existing pocket) |
+| Bore | **15.0mm**, 4mm deep, so a **10×15×4** drops straight in |
+| Flange | **1.0mm** thick, bore stepped to **13.0mm**, acts as the backstop behind the bearing |
+| Overall height | **5.0mm**, the same width as the 10×16×5 it replaces |
+| Wall at the bore | **0.5mm** |
+
+- **Print it in PETG** like the hub sleeves, and keep the bore clean. Glue on the outer face only, never in the bore.
+- **The 13mm flange bore clears the 10mm shaft** and stops the bearing pushing through, so the stack ends up the same 5mm the position was built for.
+- 🚧 **Printed-and-fitted status not logged yet.** Once it goes in, it gets a row in [`maintenance/README.md`](../../maintenance/README.md) so the replacement interval comes from charge counts rather than a guess.
 
 **It's reversible**, which is the main argument for this route: pull the sleeve and the hub is stock again, where shaving the hex adapters or cutting the carrier pocket is permanent.
 

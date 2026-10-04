@@ -171,7 +171,7 @@ The spider pins are **stepped down** partway along their length, and that step i
 
 **Running: 30k oil up front, and grease in the rear instead of oil.** The front is far heavier than the old 7k target, which calms torque steer on a 4S car, and the greased rear holds drive off the corner instead of spinning up on the blown-out dirt.
 
-⚠️ **Grease goes in as a light film, never packed solid.** Packing a diff binds the gears together so it drags and heats instead of differentiating. The full oil versus grease fill rule is written up on [Mike's car](../Jato4EP/differential_analysis.md#the-rear-runs-grease-not-oil), which runs the same arrangement.
+⚠️ **Grease goes in as a light film, never packed solid.** Packing a diff binds the gears together so it drags and heats instead of differentiating. The full oil versus grease fill rule is written up on [Mike's car](../Jato4EP/differential_analysis.md#the-centre-and-rear-run-grease-not-oil), which runs the same arrangement.
 
 | Diff | Weight | Tuning |
 |---|---|---|
