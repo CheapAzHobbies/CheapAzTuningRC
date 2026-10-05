@@ -4,7 +4,7 @@
 
 | Person | Owes Me | Basis | Last Updated |
 |--------|---------|-------|--------------|
-| **Mike** | **≈ $128.26** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) − $20 payment (2026-08-27) + $14 2× filament rolls (2026-08-27) + $177.97 3× CNHL batteries, order #20269753705 (2026-08-27) − $62.99 HOOVO 4200 2-pack gift (2026-08-27) − $100 real car repair, paid cash (2026-09-07) + $50 MonsterKingz hub set sold to Mike (2026-09-07) | 2026-09-07 |
+| **Mike** | **≈ $149.53** | $303.28 − $170 cash (2026-08-15) − $100 cash (2026-08-22) + $36 Jato 4x4 body, green (2026-08-22) − $20 payment (2026-08-27) + $14 2× filament rolls (2026-08-27) + $177.97 3× CNHL batteries, order #20269753705 (2026-08-27) − $62.99 HOOVO 4200 2-pack gift (2026-08-27) − $100 real car repair, paid cash (2026-09-07) + $50 MonsterKingz hub set sold to Mike (2026-09-07) + $21.27 GPM servo mount + tie rod set sold to Mike (2026-09-05) | 2026-10-05 |
 | **Henry** | **-$5.01 (I owe him)** | $234.99 Castle − $200 ESC payback − $40 payment (2026-08-27) | 2026-08-27 |
 
 ⚠️ Direction confirmed (negative = he owes me). Two small items still pending — see flags in [Mike's account](#mike--running-account).
@@ -148,7 +148,9 @@ Chronological, top = oldest. **Amount** is the change to his balance. Checkpoint
 | 95 | +$100.00 | Mike fixed my real car (non-RC repair), paid $100 cash (2026-09-07) |
 | | **Checkpoint: -$78.26 → Mike owes ≈ $78.26** | −$178.26 + #95 |
 | 96 | -$50.00 | Mike bought the MonsterKingz hub set (in-hand, demoted — see [hub_analysis.md](cars/Jato4SS/hub_analysis.md)) from me for $50 (2026-09-07) |
-| | **➡️ Current: -$128.26 → Mike owes ≈ $128.26** | −$78.26 + #96 |
+| | **Checkpoint: -$128.26 → Mike owes ≈ $128.26** | −$78.26 + #96 |
+| 97 | -$21.27 | GPM Metal Alu Alloy Servo Mount + Tie Rod set, orange — bought from me, OKRC Store order (2026-09-05) |
+| | **➡️ Current: -$149.53 → Mike owes ≈ $149.53** | −$128.26 + #97 |
 
 ### Flags to resolve
 
@@ -201,3 +203,4 @@ My own purchases (parts, cars, supplies).
 | — | M6 × 30 mm 304-SS hex standoff (5 pc) — axle joiner | CLOXY Hardware | $4.36 | Mike's Slash custom axles | Purchased | The hex coupling that joins the two chopped CVD ends |
 | 2026-07-02 | FLM26800 Extended Arms — bulk order, 4 pairs (Slash/Jato 4x4 fitment), order #4658 | FLM | $102.90 ($25.725/pair) | 1 pair → Mike's Jato 4x4 (booked #85); remainder → Jato 4SS / spares | Purchased | **FLM July 1st sale, 25% off** — see [`Deals/flm_july_sale_2026.md`](Deals/flm_july_sale_2026.md), check again next July. Mike's pair booked to his account #85 at $25.73 |
 | 2026-07-19 | ACER titanium turnbuckles — 4× M5×64 ($7.99 ea) + 2× M4×60 ($5.99 ea) | ACER Racing (order #581093) | $41.75 (GR40 −$2.19, free ship) | 4× M5×64 → Jato 4SS camber links; 2× M4×60 → resold to Mike (were the planned Jato 4SS steering links) | Purchased | 2× M4×60 booked to Mike's account #86 |
+| 2026-09-05 | GPM Metal Alu Alloy Servo Mount + Tie Rod set, orange | OKRC Store | $21.27 | resold to Mike | Sold | At cost to Mike — see Mike's account #97 |
