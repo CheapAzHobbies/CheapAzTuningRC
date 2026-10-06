@@ -91,7 +91,7 @@
 | 🏁 **Body** | Traxxas Jato 3.3 red (5511A), now running a separate TRA9517 wing on the TRA9046 mount |
 | 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
 | 🔧 **Wheel cost** | ~$57 up front (rims + tires + foams + the glue that mounts them), ~$4 per tire change after that |
-| ⚖️ **Weight** | **~2.76 kg** as it runs today. The 2.868 kg weigh-in was on the heavier Zeee pack, see [Weight](#weight) |
+| ⚖️ **Weight** | **2.868 kg** as it runs today, with the Gens Ace Redline 6000 pack, see [Weight](#weight) |
 | 💰 **Build cost** | ~$890 for the car, ~$1,124 with the battery and radio, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
@@ -120,10 +120,10 @@
 
 <p align="center"><img src="src/overview_jato4ss_total_weight.jpeg" width="500"><br><em>2.868 kg on the WeighMax, the complete car weighed in pieces</em></p>
 
-Component weights measured so far, all of them in the analysis docs: body shell **160 g** ([`aero_analysis.md`](aero_analysis.md)), CF chassis kit **357.2 g** ([`chassis_analysis.md`](chassis_analysis.md)), MAX10 G2 ESC, 3665SD motor, Zeee 5200 pack **518 g** ([`battery_analysis.md`](battery_analysis.md)). The 2.868 kg weigh-in was on that Zeee; the Gens Ace Redline 6000 now on the car is **410 g**, so it runs about **2.76 kg** all up. The battery alone is about **18% of the all-up weight**, which is why the [pack choice](battery_analysis.md) is judged on grams before capacity.
+Component weights measured so far, all of them in the analysis docs: body shell **160 g** ([`aero_analysis.md`](aero_analysis.md)), CF chassis kit **357.2 g** ([`chassis_analysis.md`](chassis_analysis.md)), MAX10 G2 ESC, 3665SD motor, Gens Ace Redline 6000 pack **410 g** ([`battery_analysis.md`](battery_analysis.md)), already included in the 2.868 kg weigh-in above. The battery alone is about **14% of the all-up weight**, which is why the [pack choice](battery_analysis.md) is judged on grams before capacity.
 
 <p align="center">
-  <b><i>&ldquo;THE BATTERY ALONE IS 18% OF THE CAR.<br>THAT IS WHY PACKS GET JUDGED ON GRAMS BEFORE CAPACITY.&rdquo;</i></b>
+  <b><i>&ldquo;THE BATTERY ALONE IS 14% OF THE CAR.<br>THAT IS WHY PACKS GET JUDGED ON GRAMS BEFORE CAPACITY.&rdquo;</i></b>
 </p>
 
 ---
