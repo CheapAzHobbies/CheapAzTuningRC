@@ -4,7 +4,7 @@ Real-world failures from actually driving the car, kept separate from the part-s
 
 ## Current Status
 
-**28 total runs** as of 2026-10-05, 1 run since the last failure (bell crank, at run 27, same day). Synced from the [battery tracker](../../batteries/README.md) whenever it updates, not just when something breaks, so this number growing with no new row below is itself the signal that nothing's failed in a while.
+**28 total runs**, 1 since the last failure (run 27)
 
 ---
 
