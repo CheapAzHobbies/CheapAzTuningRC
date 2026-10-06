@@ -17,6 +17,9 @@ How often the car actually gets driven, independent of whether anything broke. N
 | 2026-10-05 | 6 (two sessions: 4 + 2) | 28 |
 | 2026-10-01 | 4 | 22 |
 | 2026-09-27 | 6 | 18 |
+| 2026-09-20 | 6 | 12 |
+| 2026-09-15 | 4 | 6 |
+| 2026-09-12 | 2 | 2 |
 
 ---
 
