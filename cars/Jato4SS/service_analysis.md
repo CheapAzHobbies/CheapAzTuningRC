@@ -4,7 +4,7 @@ Real-world failures from actually driving the car, kept separate from the part-s
 
 ## Current Status
 
-**28 total runs** as of 2026-10-05, 0 runs since the last failure (bell crank, same day). Synced from the [battery tracker](../../batteries/README.md) whenever it updates, not just when something breaks, so this number growing with no new row below is itself the signal that nothing's failed in a while.
+**28 total runs** as of 2026-10-05, 1 run since the last failure (bell crank, at run 27, same day). Synced from the [battery tracker](../../batteries/README.md) whenever it updates, not just when something breaks, so this number growing with no new row below is itself the signal that nothing's failed in a while.
 
 ---
 
@@ -22,7 +22,7 @@ How often the car actually gets driven, independent of whether anything broke. N
 
 | Date | Milestone (Total Runs) | What Broke | What Fixed |
 |---|---|---|---|
-| 2026-10-05 | **28** | **Bell crank locked up**<br>• [GPM 6845X](steering_bell_crank_analysis.md) (TRA3775 bushings) bound up mid-session<br>• Dirt got past the bushing seal into the pivot, packed it solid | • Disassembled, cleaned the dirt out of the pivots, reassembled<br>• Back together, driveable |
+| 2026-10-05 | **27** | **Bell crank locked up**<br>• [GPM 6845X](steering_bell_crank_analysis.md) (TRA3775 bushings) bound up mid-session<br>• Dirt got past the bushing seal into the pivot, packed it solid | • Disassembled, cleaned the dirt out of the pivots, reassembled<br>• Back together, driveable |
 | 2026-10-01 | **22** | **Center diff field failure**<br>• [Chassis bearing](differential_analysis.md#center-diff) at the output shaft seized, shaft spun, melted/cracked the **TRA6814** housing, knocked the spur out of true<br>• Measured **10×16×5**, different from the hub bearings ([`bearings_reference.md`](bearings_reference.md))<br>• ⚠️ 2026-10-03 teardown: [rear diff](differential_analysis.md#front--rear-diff-comparison)'s both outdrive bearings also seized, housing damaged/misaligned<br>• 🚧 Probable root cause: rear bearing drag loaded the center diff bearing until it seized too<br>• 🚧 Downstream damage (pinion, CVDs, front diff, gearbox) unconfirmed | • Rebuilding TRA6814: fresh **TRA6884 housing + TRA6883 gear set** (~$20)<br>• Fill switched: 100k oil → **white lithium grease** ([`differential_analysis.md#center-diff-oil`](differential_analysis.md#center-diff-oil))<br>• Spur: 54T TRA3956R → **50T TRA6842R**, cuts rotating mass ([`differential_analysis.md#spur-gear`](differential_analysis.md#spur-gear))<br>• 🚧 Chassis bearing (10×16×5) still needs replacing<br>• 🚧 Rear diff needs new bearings + housing, not yet repaired<br><p align="center"><img src="https://placehold.co/500x300/eee/333?text=IMAGE+NEEDED" width="500"><br>🚧 save as `src/drivetrain_traxxas_center_diff_tra6814_cracked_housing.jpg`</p> |
 | 2026-09-27 | **18** | **Bent front arm**<br>• Vick collided mid-turn, not a jump impact<br>• [FLM26800 arm](arm_analysis.md#notes) bent, still driveable | • Straightened with two crescent wrenches<br>• Exactly the fuse behavior it was chosen for |
 
