@@ -4,7 +4,7 @@ Real-world failures from actually driving the car, kept separate from the part-s
 
 ## Current Status
 
-**28 total runs**, 1 since the last failure (run 27)
+**32 total runs**, 5 since the last failure (run 27)
 
 ---
 
@@ -14,6 +14,7 @@ How often the car actually gets driven, independent of whether anything broke. N
 
 | Date | Runs That Day | Total |
 |---|---|---|
+| 2026-10-17 | 4 | 32 |
 | 2026-10-05 | 6 (two sessions: 4 + 2) | 28 |
 | 2026-10-01 | 4 | 22 |
 | 2026-09-27 | 6 | 18 |
