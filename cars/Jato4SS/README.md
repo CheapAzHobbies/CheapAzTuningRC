@@ -89,10 +89,10 @@
 | 🦾 **Arms** | FLM26800 metal extended, about 10mm wider per side |
 | 🎯 **Steering** | PTK 9752TG-D servo, GPM 6845X alloy bell crank, Integy purple C-hubs + GPM XO-1 front blocks, Raptor R rear carriers |
 | 🏁 **Body** | Traxxas Jato 3.3 red (5511A), now running a separate TRA9517 wing on the TRA9046 mount |
-| 🛞 **Wheels** | IMEX IMX7893 chrome Rally rims, $3.87 Mitsubishi-tread 26013 tires, blue race foams |
-| 🔧 **Wheel cost** | ~$57 up front (rims + tires + foams + the glue that mounts them), ~$4 per tire change after that |
+| 🛞 **Wheels** | HSP-style 86B-801, bought black and painted chrome, blue race foams |
+| 🔧 **Wheel cost** | ~$47 up front (wheel set + foams + the glue that mounts them), ~$27 per wheel set change after that |
 | ⚖️ **Weight** | **2.868 kg** as it runs today, with the Gens Ace Redline 6000 pack, see [Weight](#weight) |
-| 💰 **Build cost** | ~$890 for the car, ~$1,124 with the battery and radio, see [`BOM.md`](BOM.md) |
+| 💰 **Build cost** | ~$880 for the car, ~$1,114 with the battery and radio, see [`BOM.md`](BOM.md) |
 | 📍 **Home track** | Meldrum Bar Park, Gladstone OR |
 
 ## TABLE OF CONTENTS
@@ -145,7 +145,7 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 - **Geared for punch, not top speed.** 14T pinion on a 50T spur (FDR 3.57) on the 3665SD 2400KV keeps it punchy on a technical, rough track where you rarely hold full throttle. Down from 16T for more punch, though dropping the spur from 54T to 50T (to cut rotating mass) pulled some of that back, net FDR sits between the old 16T/54T and 14T/54T setups.
 - **It survives crashes, but that isn't what it was built for.** The car was set up to go fast and it **gave up some durability to get there** — it's just turned out very strong anyway. The parts picked to last carry the ones that weren't: metal arms that bend instead of snap, alloy hubs on Tekno stubs (Integy C-hubs + GPM XO-1 blocks up front, Raptor R carriers out back), and a **minimal skid plate at the rear** so a bad landing lets me throttle out instead of digging in and cartwheeling. Up front is the **RPM 81042 wide bumper**, which sounds like the opposite but isn't: **it sits far enough forward that touching it means the car is already too nose down**, and it shouldn't ever get that vertical while racing. In normal driving nothing reaches it, and in a real frontal hit it takes the load instead of the diff.
 - **Body:** the OG Jato 3.3 stadium-truck shell, because it looks cool and stands out from every buggy on the track. **Now runs a separate TRA9517 wing** on the TRA9046 mount (2026-09-26) since the shell's own small integrated wing flew too nose-heavy, see [`aero_analysis.md`](aero_analysis.md).
-- **Wheels:** IMEX 1/8th Rally chrome rims, bought purely because they're baller, and yes I paid extra. The chrome ricer look plus the stretched stance from the extended arms makes it look like an extended-swingarm GSX-R, which is why we call it **the stretched GSX-R ricer hot boy look**. It looks great and still performs well. Right now they wear the $3.87 Mitsubishi-tread 26013 tires with blue race foams. The glued rally slicks they came with (the glue had gone on the old rims) were great on track and fun to drift, but not for racing.
+- **Wheels:** running the HSP-style 86B-801 set now, bought black and painted chrome by hand for the same look at a fraction of the price. The chrome ricer look plus the stretched stance from the extended arms still makes it look like an extended-swingarm GSX-R, **the stretched GSX-R ricer hot boy look** holds. Firmer tire compound than before, handles noticeably more RPM/power before it balloons or rips. The **IMEX 1/8th Rally chrome rims** that started this look (bought purely because they're baller) are retired to spares along with the Mitsubishi-tread 26013 tires that ran on them, see [`wheel_analysis.md`](wheel_analysis.md).
 
 ---
 
@@ -240,26 +240,30 @@ I run this at the **Meldrum Bar Public RC Car Course** in Meldrum Bar Park (Glad
 ## AERO & BODY
 
 <p align="center">
-  <img src="src/body_traxxas_jato33_red_5511a.jpg" height="163">&nbsp;<img src="src/aero_imex_rally_chrome_wheels.png" height="163">&nbsp;<img src="src/aero_generic_tires_mitsubishi_26013.jpg" height="163">&nbsp;<img src="src/aero_closed_cell_foams_blue.jpg" height="163"><br>
-  <em>Jato 3.3 red shell · IMEX chrome Rally rims · Mitsubishi-tread 26013 tires · blue closed-cell foams</em>
+  <img src="src/body_traxxas_jato33_red_5511a.jpg" height="163">&nbsp;<img src="src/aero_hsp_1-8_buggy_wheels_86b-801_chrome_set_weight.jpg" height="163">&nbsp;<img src="src/aero_closed_cell_foams_blue.jpg" height="163"><br>
+  <em>Jato 3.3 red shell · HSP-style 86B-801, painted chrome · blue closed-cell foams</em>
 </p>
 
 | Component | Part | Notes |
 |-----------|------|-------|
 | Body / shell | **Traxxas Jato 3.3 red (5511A)** | $34.47, clearance holes cut for the tall towers, [`aero_analysis.md`](aero_analysis.md#body-comparison) |
 | Wing | **Traxxas Jato 4x4 / Sledge wing (TRA9517)** on the **TRA9046** mount | Installed 2026-09-26, bolts direct to the MonsterKingz CF rear tower. Replaced the shell's own integrated wing, which flew too nose-heavy, [`aero_analysis.md`](aero_analysis.md#wing-comparison) |
-| Rims | **IMEX IMX7893 1/8 Rally chrome** (17mm hex) | Bought for the look. A bit narrower than standard, so standard 1/8 tires go on with some finesse. The glued rally slicks came off: fun to drift, not for racing, [`wheel_analysis.md`](wheel_analysis.md#rims-bare-wheels) |
-| Tires | **Kforce Mitsubishi-tread 26013** (110 × 43mm, natural rubber, 35°), set of 4 | $3.87 shipped. Softer, but very durable once worn in, [`wheel_analysis.md`](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
+| Wheels | **HSP-style 86B-801**, painted chrome (17mm hex), mounted tire + rim | Bought black, hand-painted with a chrome marker for the IMEX look at a fraction of the price. Firmer compound, handles noticeably more RPM/power, [`wheel_analysis.md`](wheel_analysis.md#full-wheels-mounted-tire--rim-sets) |
 | Foam inserts | Blue closed-cell race foams, reusable | Keeps it planted, less rim slap, [`wheel_analysis.md`](wheel_analysis.md#foam-inserts) |
-| Tire glue | **HFT high-strength super glue**, SKU 68345 | $4.99 / 10-pack. ⚠️ **Thin liquid, not the gel** — the thin stuff wicks into the bead, [`wheel_analysis.md`](wheel_analysis.md) |
+| Tire glue | **BSI IC-2000 rubber-toughened CA**, 1oz (BSI118) | $11.95 / 1oz, Tammies Hobbies. ⚠️ **Rubberized, not thin liquid** — surface-bonds and stays flexible instead of soaking into the sidewall, [`wheel_analysis.md`](wheel_analysis.md) |
 | Body clips | **AJRC 50 pcs silver** R-clips | $2.21 the pack, 1/5 to 1/16 universal, [`aero_analysis.md`](aero_analysis.md#3d-printed-body-mounts) |
 
-> ### &#128296; TECH TIP &middot; GLUE THE BEAD, NOT THE GEL
+> ### &#128296; TECH TIP &middot; RUBBERIZED CA, NOT THIN LIQUID
 >
-> Mounting 1/8 tires, **use thin liquid super glue, not the gel**. The thin stuff wicks right into the
-> bead and pulls itself around the rim by capillary action. Gel sits on top and bridges gaps instead of
-> filling them, so it lets go on the first hard corner. A 10-pack of HFT high-strength (SKU 68345) is
-> **$4.99** and will mount more tires than you will own.
+> Mounting 1/8 tires with a foam-backed rubber sidewall, **use a rubber-toughened CA like BSI IC-2000,
+> not thin liquid super glue.** Thin liquid wicks too far into the foam and sidewall, stiffening a whole
+> section of the tire instead of just bonding the bead. The rubberized glue stays on the surface and
+> bonds without soaking in, so the sidewall stays flexible. It's thick and harder to work into the seam,
+> so **overfill it, then wipe the rim clean with acetone or alcohol before it dries** for a clean edge.
+> Touch up the chrome marker wherever the cleanup wiped it off. **$11.95 for 1oz** (BSI118, Tammies
+> Hobbies) mounts a lot of tires.
+>
+> <p align="center"><img src="src/reference_bsi_ic2000_rubber_toughened_ca_bsi118.webp" width="200"></p>
 
 ---
 

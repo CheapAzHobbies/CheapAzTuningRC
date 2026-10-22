@@ -17,11 +17,11 @@ Everything that's actually on the car, and nothing that isn't. **Qty** is how ma
 | [Suspension](#suspension) | $180.71 |
 | [Hubs & Carriers](#hubs--carriers) | $109.87 |
 | [Steering](#steering) | $84.53 |
-| [Wheels & Tires](#wheels--tires) | $56.92 |
+| [Wheels & Tires](#wheels--tires) | $46.82 |
 | [Body & Aero](#body--aero) | $50.47 |
 | [Electronics](#electronics) | $383.73 |
-| **Total** | **~$1,124** |
-| **Car only, without the battery and radio** | **~$890** |
+| **Total** | **~$1,114** |
+| **Car only, without the battery and radio** | **~$880** |
 
 ---
 
@@ -92,10 +92,9 @@ Everything that's actually on the car, and nothing that isn't. **Qty** is how ma
 
 | Part | Qty | Source | Price | Doc |
 |---|---|---|---|---|
-| **IMEX IMX7893 1/8 Rally chrome rims**<br><sub>Note: list price, glued rally slicks removed</sub> | 2 | IMEX Model Company | **$19.99 / pair** | [Rims](wheel_analysis.md#rims-bare-wheels) |
-| **Kforce 26013 1/8 buggy tires, Mitsubishi-logo tread**<br><sub>Note: 110 × 43mm, natural rubber 35°. Listed as "triangle tread, practice compound" — **the listing never says Kforce**, so search the store and the number</sub> | 1 | AliExpress, Fiona Hobby | **$3.87 / set of 4** | [Tires](wheel_analysis.md#tires-tire-only-mount-on-your-own-rims) |
+| **HSP-style 86B-801 wheel + tire set, painted chrome**<br><sub>Note: bought black, hand-painted with a chrome marker. Replaces the IMEX rims + Kforce 26013 tires, both retired to spares</sub> | 1 | AliExpress, Shop1105264859 Store | **$26.79 / set of 4** | [Full Wheels](wheel_analysis.md#full-wheels-mounted-tire--rim-sets) |
 | **Closed-cell foam inserts, blue** | 1 | AliExpress | **$8.08 / set of 4** | [Foams](wheel_analysis.md#foam-inserts) |
-| **HFT high-strength super glue, 10-pack, SKU 68345**<br><sub>Note: glues the tires to the rims. ⚠️ **Thin liquid, not the gel** — the thin stuff wicks into the bead, the gel sits on top and doesn't</sub> | 1 | Harbor Freight, SKU 68345 | **$4.99 / pack of 10** | [Tires](wheel_analysis.md) |
+| **BSI IC-2000 rubber-toughened CA glue, 1oz (BSI118)**<br><sub>Note: glues the tires to the rims. ⚠️ **Rubberized, not thin liquid** — surface-bonds and stays flexible instead of soaking into the sidewall</sub> | 1 | Tammies Hobbies | **$11.95 / 1oz** | [Tires](wheel_analysis.md) |
 
 ## Body & Aero
 

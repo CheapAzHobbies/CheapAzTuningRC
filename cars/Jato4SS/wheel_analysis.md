@@ -87,6 +87,18 @@ The insert matters as much as the tire. **Closed-cell blue foams, sold on their 
 
 ---
 
+## Tire Glue
+
+> **Running: BSI IC-2000 rubber-toughened CA (BSI118), $11.95 / 1oz, Tammies Hobbies.**
+
+<p align="center"><img src="src/reference_bsi_ic2000_rubber_toughened_ca_bsi118.webp" width="200"></p>
+
+Used to mean a thin liquid super glue (HFT high-strength, Harbor Freight SKU 68345, $4.99/10-pack) wicked into the bead by capillary action and bonded better than any gel. That's true for a bare bead, but it over-absorbs into a **foam-backed rubber sidewall**: the thin glue soaks past the bead and stiffens a whole section of the tire, and the rubber sidewall can wick glue straight off the rim. Zap and other thin CAs have the same problem.
+
+**IC-2000 is rubberized instead of watery, so it surface-bonds and stays flexible** rather than soaking in. The trade-off is it's thick and harder to work into the seam, so **overfill it on purpose**, then **wipe the rim clean with acetone or alcohol before it dries** to keep a clean edge. Touch up the chrome marker wherever the cleanup wipes it off (see [Notes](#notes)).
+
+---
+
 ## Price History
 
 | Date | Price | Discount Path | Notes |
